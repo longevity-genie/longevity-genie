@@ -1,0 +1,16 @@
+name: genes-gpt
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - more-itertools
+  - setuptools
+  - click
+  - jupyterlab
+  - langchain
+  - dash
+  - pip:
+      - pyfunctional
+      - chromadb
