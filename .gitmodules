@@ -1,0 +1,3 @@
+[submodule "modules/just_longevitymap"]
+	path = modules/just_longevitymap
+	url = https://github.com/dna-seq/just_longevitymap.git
