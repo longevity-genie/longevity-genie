@@ -2,6 +2,7 @@ name: genes-gpt
 channels:
   - conda-forge
   - bioconda
+  - pytorch
   - defaults
 dependencies:
   - python=3.10
@@ -13,6 +14,7 @@ dependencies:
   - tiktoken
   - dash
   - python-dotenv
+  - pytorch
   - pip:
       - pyfunctional
       - chromadb

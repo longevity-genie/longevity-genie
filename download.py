@@ -32,10 +32,13 @@ def index(base: str):
     #pdf_loaders = [UnstructuredPDFLoader(str(p)) for p in papers]
     pdf_loaders = [UnstructuredPDFLoader(str(p)) for p in papers[0:2]]
     loaders = modules_loaders + pdf_loaders
+    #loaders = []
     print("let's try to index")
     index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory": str(locations.paper_index)}).from_loaders(loaders)
     print(f"indexing kind of finished, it will be saved to {locations.paper_index}")
-    index
+    #apoe_result = index.query_with_sources("What do you know about APOE gene?")
+    test_result = "MTHFR"
+    print(index.query_with_sources(f"What is {test_result}?"))
 
 @app.command()
 @click.option('--module', default='just_longevitymap', help='module to download data from')
