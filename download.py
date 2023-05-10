@@ -7,6 +7,7 @@ from langchain.vectorstores import Chroma
 from genes.config import Locations
 from genes.sqlite import *
 from genes.downloads import *
+from genes.indexing import *
 
 import sys
 from pathlib import Path
@@ -23,22 +24,12 @@ def app(ctx):
 @app.command()
 @click.option('--base', default='.', help='base folder')
 def index(base: str):
-    from langchain.document_loaders import UnstructuredPDFLoader
-    from langchain.indexes import VectorstoreIndexCreator
     locations = Locations(Path(base))
-    from langchain.document_loaders import DataFrameLoader
-    modules_loaders = [DataFrameLoader(pd.read_csv(tsv, sep="\t"), page_content_column="identifier") for tsv in with_ext(locations.modules_data, "tsv")]
-    papers = traverse(locations.papers, lambda p: "pdf" in p.suffix)
-    #pdf_loaders = [UnstructuredPDFLoader(str(p)) for p in papers]
-    pdf_loaders = [UnstructuredPDFLoader(str(p)) for p in papers[0:2]]
-    loaders = modules_loaders + pdf_loaders
-    #loaders = []
-    print("let's try to index")
-    index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory": str(locations.paper_index)}).from_loaders(loaders)
-    print(f"indexing kind of finished, it will be saved to {locations.paper_index}")
-    #apoe_result = index.query_with_sources("What do you know about APOE gene?")
-    test_result = "MTHFR"
-    print(index.query_with_sources(f"What is {test_result}?"))
+    index = Index(locations)
+    index.with_modules(locations.modules_data)
+    index.with_papers_incremental()
+    index.persist()
+    index
 
 @app.command()
 @click.option('--module', default='just_longevitymap', help='module to download data from')
