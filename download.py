@@ -1,18 +1,12 @@
-import click
-from pathlib import Path
-
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import Chroma
-
-from genes.config import Locations
-from genes.sqlite import *
-from genes.downloads import *
 from genes.indexing import *
 
-import sys
-from pathlib import Path
 from genes.config import Locations
 from pycomfort.files import *
+from pycomfort.files import *
+
+from genes.config import Locations
+from genes.indexing import *
+
 
 @click.group(invoke_without_command=True)
 @click.pass_context
