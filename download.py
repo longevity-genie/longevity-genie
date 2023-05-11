@@ -15,6 +15,7 @@ def app(ctx):
         click.echo('Running the default command...')
         download_papers()
 
+
 @app.command()
 @click.option('--base', default='.', help='base folder')
 def index(base: str):
@@ -24,6 +25,7 @@ def index(base: str):
     index.with_papers_incremental()
     index.persist()
     index
+
 
 @app.command()
 @click.option('--module', default='just_longevitymap', help='module to download data from')
@@ -48,7 +50,7 @@ def prepare_dataframe(locations: Locations, module: str, module_folder: Path, pu
     print(f"getting info from {table}")
     df = get_table_df(db, table).drop(columns=['id']).dropna()
     click.echo(f"transforming pubmed ids to doi")
-    df['source'] = df[pubmed].apply(lambda p: try_doi_from_pubmed(p).get_or_else_get(lambda v: p))
+    df['source'] = df[pubmed].apply(lambda p: try_doi_from_pubmed(p).get_or_else_get(lambda v: ""))
     csv_path = locations.modules_data / f"{module}.tsv"
     click.echo(f"saving results to {csv_path}")
     click.echo(f"writing dataframe to {csv_path}")

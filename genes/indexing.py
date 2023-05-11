@@ -86,17 +86,22 @@ class Index:
         documents = self.papers_to_documents(folder)
         return self.with_documents(documents)
 
-    def with_papers_incremental(self, folder: Optional[Path] = None):
+    def with_papers_incremental(self, folder: Optional[Path] = None, persist_interval: Optional[int] = 10):
         if folder is None:
             folder = self.locations.papers
         papers = traverse(folder, lambda p: "pdf" in p.suffix)
         print(f"indexing {len(papers)} papers")
         loaders = [UnstructuredPDFLoader(str(p)) for p in papers]
         i = 1
+        total_runs = len(loaders)
+        if persist_interval is None:
+            persist_interval = total_runs
         for loader in loaders:
             print(f"adding paper {i} out of {len(loaders)}")
             docs: list[Document] = loader.load()
             self.with_documents(docs)
+            if i % persist_interval == 0 or i >= total_runs:
+                self.db.persist()
             i = i + 1
         print("papers loading finished")
         return self
