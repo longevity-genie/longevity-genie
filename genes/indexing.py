@@ -1,28 +1,16 @@
-from typing import List
-
-import click
-from pathlib import Path
-
-from langchain import VectorDBQA, OpenAI
+from langchain import OpenAI
 from langchain.chains import RetrievalQAWithSourcesChain
+from langchain.document_loaders import DataFrameLoader
+from langchain.document_loaders import UnstructuredPDFLoader
 from langchain.embeddings import OpenAIEmbeddings
-from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.schema import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter, TextSplitter
+from langchain.text_splitter import TextSplitter
 from langchain.vectorstores import Chroma
-
+from pycomfort.files import *
+import polars as pl
 from genes.config import Locations
 from genes.sqlite import *
-from genes.downloads import *
 
-import sys
-from pathlib import Path
-from genes.config import Locations
-from pycomfort.files import *
-from langchain.document_loaders import UnstructuredPDFLoader
-from langchain.indexes import VectorstoreIndexCreator
-from langchain.document_loaders import DataFrameLoader
-from unstructured.partition.pdf import partition_pdf
 
 class Index:
 
@@ -33,22 +21,27 @@ class Index:
     llm: OpenAI
     chain: RetrievalQAWithSourcesChain
     splitter: TextSplitter
+    model_name: str
 
-    def __init__(self, locations: Locations):
+    def __init__(self, locations: Locations, model_name: str = "gpt-3.5-turbo"):
         self.locations = locations
         self.persist_directory = self.locations.paper_index
         self.embedding = OpenAIEmbeddings()
         self.db = Chroma(persist_directory=str(self.persist_directory),
                          embedding_function=self.embedding
                          )
+        self.model_name = model_name
         self.chain = self.make_chain()
 
 
+
     def make_chain(self):
-        self.llm = OpenAI()
-        return RetrievalQAWithSourcesChain.from_chain_type(
+        self.llm = OpenAI(model_name=self.model_name)
+        chain = RetrievalQAWithSourcesChain.from_chain_type(
             self.llm, retriever=self.db.as_retriever()
         )
+        chain.reduce_k_below_max_tokens = True
+        return chain
 
 
     def query_with_sources(self, question: str):
@@ -59,32 +52,53 @@ class Index:
         print(f"indexing {len(papers)} papers")
         return seq([UnstructuredPDFLoader(str(p)).load() for p in papers]).flatten().to_list()
 
-    def modules_to_documents(self, folder: Path):
-        modules_loaders = [DataFrameLoader(pd.read_csv(tsv, sep="\t"), page_content_column="identifier") for tsv in with_ext(folder, "tsv")]
+    def modules_to_documents(self, folder: Path): #OLD
+        modules = with_ext(folder, "tsv").to_list()
+        print(f"detected text for the following modules {modules}")
+        modules_loaders = [DataFrameLoader(pd.read_csv(tsv, sep="\t")) for tsv in with_ext(folder, "tsv")]
         print(f"indexing {len(modules_loaders)} modules")
         modules_docs = seq([loader.load() for loader in modules_loaders]).flatten().to_list()
         return modules_docs
 
+    def dataframe_to_document(df: pl.DataFrame) -> List[Document]:
+        return DataFrameLoader(df.to_pandas(), page_content_column="text").load()
+
+
     def with_default_modules(self):
         return self.with_modules(self.locations.modules_data)
 
-    def with_documents(self, documents: list[Document]):
+
+    def with_documents(self, documents: list[Document], debug: bool = False):
         texts = [doc.page_content for doc in documents]
         metadatas = [doc.metadata for doc in documents]
+        if debug:
+            for doc in documents:
+                print(f"ADD TEXT: {doc.page_content}")
+                print(f"f ADD METADATA {doc.metadata}")
         self.db.add_texts(texts=texts, metadatas=metadatas)
         return self
 
     def with_modules(self, folder: Optional[Path] = None):
         if folder is None:
-            folder = self.locations.modules_data
+            folder = self.locations.modules_text_data
         documents = self.modules_to_documents(folder)
         return self.with_documents(documents)
 
-    def with_papers(self, folder: Optional[Path] = None):
+    def get_documents(self, folder: Optional[Path] = None):
         if folder is None:
             folder = self.locations.papers
         documents = self.papers_to_documents(folder)
-        return self.with_documents(documents)
+        return documents
+
+    def with_papers(self, folder: Optional[Path] = None):
+        return self.with_documents(self.get_documents(folder))
+
+    def with_paper(self, paper: Path):
+        loader = UnstructuredPDFLoader(str(paper))
+        docs: list[Document] = loader.load()
+        self.with_documents(docs)
+        return self
+
 
     def with_papers_incremental(self, folder: Optional[Path] = None, persist_interval: Optional[int] = 10):
         if folder is None:

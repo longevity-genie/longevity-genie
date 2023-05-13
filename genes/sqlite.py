@@ -3,6 +3,7 @@ from pathlib import Path
 import sqlite3
 from typing import List
 import pandas as pd
+import polars as pl
 
 def get_tables_from_database(database_path: Path) -> List[str]:
     # Connect to the SQLite database
@@ -41,6 +42,13 @@ def select_rows(database_path: str, table_name: str, num_rows: int) -> List[Tupl
     conn.close()
 
     return rows
+
+
+def get_query_df(database_path: Path, query: str):
+    print(f"getting df from {str(database_path)}")
+    conn = sqlite3.connect(str(database_path))
+    df_pandas = pd.read_sql_query(query, conn)
+    return pl.DataFrame(df_pandas)
 
 def get_table_df(database_path: str, table_name: str = "variant") -> pd.DataFrame:
     conn = sqlite3.connect(database_path)
