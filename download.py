@@ -41,6 +41,8 @@ def download_papers(module: str, table: str, pubmed: str, base: str):
     dois = set(df["source"].to_list())
     return [try_download(doi, locations.papers, True) for doi in dois]
 
+    #/data/users/antonkulaga/.oakvar/modules
+
 
 
 def prepare_dataframe(locations: Locations, module: str, module_folder: Path, pubmed: str, table: str):

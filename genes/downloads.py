@@ -24,7 +24,7 @@ def doi_from_pubmed(pubmed_id: str):
     return doi_element.text
 
 def try_doi_from_pubmed(pubmed: str) -> Try[str]:
-    print(f"{pubmed} to doi")
+    #print(f"{pubmed} to doi")
     return Try.of(lambda: doi_from_pubmed(pubmed))
 
 def try_download(doi: str, papers: Path, skip_if_exist: bool = True) -> Try[Path]:
