@@ -1,4 +1,4 @@
-name: genes-gpt
+name: longevity-genie
 channels:
   - conda-forge
   - bioconda

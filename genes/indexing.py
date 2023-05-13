@@ -4,7 +4,7 @@ from langchain.document_loaders import DataFrameLoader
 from langchain.document_loaders import UnstructuredPDFLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.schema import Document
-from langchain.text_splitter import TextSplitter
+from langchain.text_splitter import TextSplitter, RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 from pycomfort.files import *
 import polars as pl
@@ -31,6 +31,10 @@ class Index:
                          embedding_function=self.embedding
                          )
         self.model_name = model_name
+        self.splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+        self.chain = self.make_chain()
+
+    def update_chain(self):
         self.chain = self.make_chain()
 
 
@@ -48,6 +52,8 @@ class Index:
     def query_with_sources(self, question: str):
         return self.chain({self.chain.question_key: question})
 
+    def query_without_sources(self, question: str):
+        return self.chain({self.chain.question_key: question})
 
     def modules_to_documents(self, folder: Path): #OLD
         modules = with_ext(folder, "tsv").to_list()
@@ -61,8 +67,9 @@ class Index:
         return DataFrameLoader(df.to_pandas(), page_content_column="text").load()
 
     def with_documents(self, documents: list[Document], debug: bool = False):
-        texts = [doc.page_content for doc in documents]
-        metadatas = [doc.metadata for doc in documents]
+        docs = self.splitter.split_documents(documents)
+        texts = [doc.page_content for doc in docs]
+        metadatas = [doc.metadata for doc in docs]
         if debug:
             for doc in documents:
                 print(f"ADD TEXT: {doc.page_content}")

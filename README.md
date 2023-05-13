@@ -1,4 +1,4 @@
-# genes-gpt
+# longevity-genie
 A model that should answer questions about genes and variants
 
 # setting things up
