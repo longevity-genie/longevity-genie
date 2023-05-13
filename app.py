@@ -46,5 +46,10 @@ async def create_item(item: Item):
     result = await external_function(item.username, item.text)
     return result
 
+
 def index_txt(folder: Path):
-    traverse(folder)
+    texts = traverse(folder, lambda p: "txt" in p.suffix)
+    for t in texts:
+        doi = f"{t.parent.name}/{t.stem}"
+        print(f"{t}")
+

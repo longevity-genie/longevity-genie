@@ -34,12 +34,13 @@ class Index:
         self.chain = self.make_chain()
 
 
-
     def make_chain(self):
         self.llm = OpenAI(model_name=self.model_name)
         chain = RetrievalQAWithSourcesChain.from_chain_type(
             self.llm, retriever=self.db.as_retriever()
         )
+        if self.model_name == "gpt-4":
+            chain.max_tokens_limit = chain.max_tokens_limit * 2
         chain.reduce_k_below_max_tokens = True
         return chain
 
@@ -47,10 +48,6 @@ class Index:
     def query_with_sources(self, question: str):
         return self.chain({self.chain.question_key: question})
 
-    def papers_to_documents(self, folder: Path):
-        papers = traverse(folder, lambda p: "pdf" in p.suffix)
-        print(f"indexing {len(papers)} papers")
-        return seq([UnstructuredPDFLoader(str(p)).load() for p in papers]).flatten().to_list()
 
     def modules_to_documents(self, folder: Path): #OLD
         modules = with_ext(folder, "tsv").to_list()
@@ -62,11 +59,6 @@ class Index:
 
     def dataframe_to_document(df: pl.DataFrame) -> List[Document]:
         return DataFrameLoader(df.to_pandas(), page_content_column="text").load()
-
-
-    def with_default_modules(self):
-        return self.with_modules(self.locations.modules_data)
-
 
     def with_documents(self, documents: list[Document], debug: bool = False):
         texts = [doc.page_content for doc in documents]
@@ -82,16 +74,27 @@ class Index:
         if folder is None:
             folder = self.locations.modules_text_data
         documents = self.modules_to_documents(folder)
+        print(f"indexing modules from {folder}, {len(documents)} documents found!")
         return self.with_documents(documents)
 
-    def get_documents(self, folder: Optional[Path] = None):
+    def with_papers(self, folder: Optional[Path] = None):
         if folder is None:
             folder = self.locations.papers
-        documents = self.papers_to_documents(folder)
-        return documents
-
-    def with_papers(self, folder: Optional[Path] = None):
-        return self.with_documents(self.get_documents(folder))
+        texts = traverse(folder, lambda p: "txt" in p.suffix)
+        docs: List[Document] = []
+        for t in texts:
+            doi = f"http://doi.org/{t.parent.name}/{t.stem}"
+            with open(t, 'r') as file:
+                text = file.read()
+                if len(text)<10:
+                    print("TOO SHORT TEXT")
+                else:
+                    doc = Document(
+                        page_content = text,
+                        metadata={"source": doi}
+                    )
+                    docs.append(doc)
+        return self.with_documents(docs)
 
     def with_paper(self, paper: Path):
         loader = UnstructuredPDFLoader(str(paper))

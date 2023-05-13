@@ -36,15 +36,15 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
     id_col = (pl.col("identifier")  +pl.lit("_in_")+pl.col("doi")).alias("id")
     source = (pl.lit("http://doi.org/") + pl.col("doi")).alias("source")
     text_col: pl.Expr = (
-            pl.col("identifier") + pl.lit(" variant in  ") + pl.col("gene_name") + pl.lit(" (") + pl.col("gene_symbol") + pl.lit(") ")
+            pl.col("identifier") + pl.lit(" genetic variant in  ") + pl.col("gene_name") + pl.lit(" (") + pl.col("gene_symbol") + pl.lit(") ")
             + pl.lit("with location ") +
             pl.col("location") + pl.lit(" has ") +
             pl.col("association") +
             pl.lit(" association with longevity for ") + pl.col("gender").str.replace("/", " and ") +
             pl.lit("in ") + pl.col("population_name") + pl.lit(" population") +
-            pl.lit("in a study conducted/published in ") + pl.col("quickyear").cast(pl.Utf8) +
-            pl.lit(". The study had the following design ") + pl.col("study_design") + pl.lit(". The study concluded") + pl.col("conclusions")
-            + pl.lit("The study was published with pubmed id") +
+            pl.lit(" in a study conducted in ") + pl.col("quickyear").cast(pl.Utf8) +
+            pl.lit(". The study had the following design: ") + pl.col("study_design") + pl.lit(". The study concluded the following. ") + pl.col("conclusions")
+            + pl.lit("The study was published with pubmed id ") +
             pl.col("quickpubmed").cast(pl.Utf8) + pl.lit(" with DOI ") + source
     ).alias("text")
     for_index = df.select([id_col,
