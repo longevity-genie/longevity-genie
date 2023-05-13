@@ -2,12 +2,14 @@ from pathlib import Path
 from typing import Optional
 
 import polars as pl
-from pynction import Try
+from langchain.document_loaders import UnstructuredPDFLoader
+from langchain.schema import Document
+from pycomfort.files import with_ext, traverse
 
-from genes.sqlite import get_query_df
 from genes.config import Locations
-from functional import seq
 from genes.downloads import try_doi_from_pubmed
+from genes.sqlite import get_query_df, get_table_df
+
 
 def prepare_longevity_doi(locations: Locations, keep_not_found: bool = True, pubmed_name: str = "quickpubmed") -> pl.DataFrame:
     where = locations.dois
@@ -57,3 +59,26 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
     for_index.write_csv(locations.longevity_map_text, sep="\t")
     print("written to locations.longevity_map_text")
     return for_index
+
+
+def with_papers_incremental(folder: Optional[Path] = None):
+    papers: list[Path] = traverse(folder, lambda p: "pdf" in p.suffix)
+    print(f"indexing {len(papers)} papers")
+    i = 1
+    max = len(papers)
+    for p in papers:
+        doi = f"{p.parent.name}/{p.stem}"
+        loader = UnstructuredPDFLoader(str(p))
+        print(f"adding paper {i} out of {max}")
+        docs: list[Document] = loader.load()
+        if len(docs) ==1:
+            f = p.parent / f"{p.stem}.txt"
+            print(f"writing {f}")
+            f.write_text(docs[0].page_content)
+        else:
+            for i, doc in enumerate(docs):
+                f = (p.parent / f"{p.stem}_{i}.txt")
+                print(f"writing {f}")
+                f.write_text(doc.page_content)
+        i = i + 1
+    print("papers loading finished")

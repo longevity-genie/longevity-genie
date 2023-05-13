@@ -1,11 +1,8 @@
-from genes.indexing import *
+import click
 
-from genes.config import Locations
-from pycomfort.files import *
-from pycomfort.files import *
-
-from genes.config import Locations
+from genes.downloads import download_papers
 from genes.indexing import *
+from genes.prepare import with_papers_incremental
 
 
 @click.group(invoke_without_command=True)
@@ -27,37 +24,21 @@ def index(base: str):
     index
 
 
-@app.command()
+@app.command("download_papers")
 @click.option('--module', default='just_longevitymap', help='module to download data from')
 @click.option('--table', default='variant', help='sqlite table')
 @click.option('--pubmed', default='quickpubmed', help='field that contains pubmed papers')
 @click.option('--base', default='.', help='base folder')
-def download_papers(module: str, table: str, pubmed: str, base: str):
-    base_path: Path = Path(base)
-    locations = Locations(base_path)
-    module_folder = locations.modules / module
-    click.echo(f"preparing the dataframe for {table} with pubmed {pubmed} field for module f{module} at f{module_folder}")
-    df = prepare_dataframe(locations, module, module_folder, pubmed, table)
-    dois = set(df["source"].to_list())
-    return [try_download(doi, locations.papers, True) for doi in dois]
-
+def download_papers_command(module: str, table: str, pubmed: str, base: str):
+    return download_papers(module, table, pubmed, base)
     #/data/users/antonkulaga/.oakvar/modules
 
 
-
-def prepare_dataframe(locations: Locations, module: str, module_folder: Path, pubmed: str, table: str):
-    module_data = module_folder / "data"
-    assert module_folder.exists() and module_data, f"{module_data} should exist!"
-    db = with_ext(module_data, "sqlite").to_list()[0]
-    print(f"getting info from {table}")
-    df = get_table_df(db, table).drop(columns=['id']).dropna()
-    click.echo(f"transforming pubmed ids to doi")
-    df['source'] = df[pubmed].apply(lambda p: try_doi_from_pubmed(p).get_or_else_get(lambda v: ""))
-    csv_path = locations.modules_data / f"{module}.tsv"
-    click.echo(f"saving results to {csv_path}")
-    click.echo(f"writing dataframe to {csv_path}")
-    df.to_csv(csv_path, sep="\t")
-    return df
+@app.command("parse")
+@click.option('--base', default='.', help='base folder')
+def parse(base: str):
+    locations = Locations(Path(base))
+    return with_papers_incremental(locations.papers)
 
 
 if __name__ == '__main__':

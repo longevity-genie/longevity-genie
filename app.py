@@ -45,3 +45,6 @@ async def external_function(username: str, text: str):
 async def create_item(item: Item):
     result = await external_function(item.username, item.text)
     return result
+
+def index_txt(folder: Path):
+    traverse(folder)
