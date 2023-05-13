@@ -52,6 +52,15 @@ class Index:
         print(f"indexing {len(papers)} papers")
         return seq([UnstructuredPDFLoader(str(p)).load() for p in papers]).flatten().to_list()
 
+    def papers_to_documents_by_doi(self, folder: Optional[Path] = None):
+        if folder is None:
+            folder = self.locations.papers
+        papers = traverse(folder, lambda p: "pdf" in p.suffix)
+        print(f"indexing {len(papers)} papers")
+        for p in papers[0:2]:
+            doi = f"http://doi.org/{p.parent.name}/{p.stem}"
+            print(f"http://doi.org/{p.parent.name}/{p.stem}")
+            yield (doi, UnstructuredPDFLoader(str(p)).load()) #FOR DEBUG
 
     def modules_to_documents(self, folder: Path): #OLD
         modules = with_ext(folder, "tsv").to_list()
@@ -85,11 +94,14 @@ class Index:
         documents = self.modules_to_documents(folder)
         return self.with_documents(documents)
 
-    def with_papers(self, folder: Optional[Path] = None):
+    def get_documents(self, folder: Optional[Path] = None):
         if folder is None:
             folder = self.locations.papers
         documents = self.papers_to_documents(folder)
-        return self.with_documents(documents)
+        return documents
+
+    def with_papers(self, folder: Optional[Path] = None):
+        return self.with_documents(self.get_documents(folder))
 
     def with_paper(self, paper: Path):
         loader = UnstructuredPDFLoader(str(paper))
