@@ -28,7 +28,7 @@ def test_index(base: str):
     load_dotenv()
     locations = Locations(Path(base))
     index = Index(locations, "gpt-4") #Index(locations, "gpt-4")
-    index.with_modules()
+    #index.with_modules()
     question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 in FOXO gene, explain their connection with aging and longevity"
     print(f"Q1: {question1}")
     answer1 = index.query_with_sources(question1)
