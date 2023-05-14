@@ -6,9 +6,9 @@ from langchain.document_loaders import UnstructuredPDFLoader
 from langchain.schema import Document
 from pycomfort.files import with_ext, traverse
 
-from genes.config import Locations
-from genes.downloads import try_doi_from_pubmed
-from genes.sqlite import get_query_df, get_table_df
+from genie.config import Locations
+from genie.downloads import try_doi_from_pubmed
+from genie.sqlite import get_query_df, get_table_df
 
 
 def prepare_longevity_doi(locations: Locations, keep_not_found: bool = True, pubmed_name: str = "quickpubmed") -> pl.DataFrame:

@@ -1,8 +1,8 @@
 import click
 
-from genes.downloads import download_papers
-from genes.indexing import *
-from genes.prepare import with_papers_incremental
+from genie.downloads import download_papers
+from genie.indexing import *
+from genie.prepare import with_papers_incremental
 
 
 @click.group(invoke_without_command=True)

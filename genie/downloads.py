@@ -6,7 +6,7 @@ from pycomfort.files import with_ext
 from pynction import Try
 from scidownl import scihub_download
 
-from genes.sqlite import get_table_df
+from genie.sqlite import get_table_df
 
 
 def doi_from_pubmed(pubmed_id: str):
@@ -44,7 +44,7 @@ def download_pubmed(pubmed: str, papers: Path, skip_if_exist: bool = True):
     return try_resolve.flat_map(lambda doi: try_download(doi, papers, skip_if_exist))
 
 
-from genes.config import Locations
+from genie.config import Locations
 
 # TODO: maybe outdated, need to rewrite
 def prepare_dataframe_for_download(locations: Locations, module: str, module_folder: Path, pubmed: str, table: str):

@@ -8,8 +8,8 @@ from langchain.text_splitter import TextSplitter, RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 from pycomfort.files import *
 import polars as pl
-from genes.config import Locations
-from genes.sqlite import *
+from genie.config import Locations
+from genie.sqlite import *
 
 
 class Index:
@@ -31,7 +31,7 @@ class Index:
                          embedding_function=self.embedding
                          )
         self.model_name = model_name
-        self.splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+        self.splitter = RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=0)
         self.chain = self.make_chain()
 
     def update_chain(self):
@@ -41,11 +41,11 @@ class Index:
     def make_chain(self):
         self.llm = OpenAI(model_name=self.model_name)
         chain = RetrievalQAWithSourcesChain.from_chain_type(
-            self.llm, retriever=self.db.as_retriever()
+            self.llm, retriever=self.db.as_retriever(search_type = "mmr")
         )
         if self.model_name == "gpt-4":
             chain.max_tokens_limit = chain.max_tokens_limit * 2
-        chain.reduce_k_below_max_tokens = True
+        chain.reduce_k_below_max_tokens = False #True
         return chain
 
 

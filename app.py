@@ -1,55 +1,34 @@
-import click
-from genes.config import *
-
-base = Path(".")
-locations = Locations(base)
-
-#def run_server():
-#    from dash import Dash, dcc, html
-#    from dash.dependencies import Input, Output, State, MATCH
-
-    #from components import *
-
-    #app = dash.Dash(__name__, suppress_callback_exceptions=True)
-    #app.run_server(debug=True, host="0.0.0.0", port=8050)
-
-#    raise Exception("not yet read!")
-
-#if __name__ == '__main__':
-#    run_server()
-
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
-import asyncio
 
 app = FastAPI()
 
-# Define a Pydantic model for the request body
-class Item(BaseModel):
-    username: str
+class Message(BaseModel):
+    message_id: int
+    from_user: Optional[dict] = None
+    date: int
     text: str
 
-# Mock external async function
-async def external_function(username: str, text: str):
-    # simulate delay
-    await asyncio.sleep(1)
+@app.post("/webhook")
+async def read_message(message: Message):
+    print(f"Received message from {message.from_user} with text {message.text}")
+    return {"received": True}
 
-    # return json
-    return {
-        "username": username,
-        "text": text
-    }
+@app.post("/message")
+async def read_message(message):
+    print(f"RECEIVED MESSAGE WHICH IS:")
+    print(message)
+    return {"received": True}
 
-@app.post("/items/")
-async def create_item(item: Item):
-    result = await external_function(item.username, item.text)
-    return result
+@app.get("/test")
+async def test_api():
+    return {"message": "API works!"}
 
+@app.get("/message")
+async def test_api():
+    return {"message": "API works!"}
+import uvicorn
 
-def index_txt(folder: Path):
-    texts = traverse(folder, lambda p: "txt" in p.suffix)
-    for t in texts:
-        doi = f"{t.parent.name}/{t.stem}"
-        print(f"{t}")
-
+if __name__ == "__main__":
+    uvicorn.run("app:app", host="0.0.0.0", port=8005, log_level="info")

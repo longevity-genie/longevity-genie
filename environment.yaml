@@ -17,6 +17,7 @@ dependencies:
   - pytorch
   - openai
   - tesseract
+  - uvicorn
   - pip:
       - pyfunctional
       - chromadb
