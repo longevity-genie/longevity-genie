@@ -1,4 +1,5 @@
 version: '3.4'
+# docker-compose configuration for weaviate, so far we keep using chromadb but weavite seems to have more features in the long run
 services:
   weaviate:
     command:

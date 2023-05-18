@@ -10,7 +10,8 @@ from pycomfort.files import *
 import polars as pl
 from genie.config import Locations
 from genie.sqlite import *
-
+from chromadb.config import Settings
+from langchain.chat_models import ChatOpenAI
 
 class Index:
 
@@ -23,15 +24,17 @@ class Index:
     splitter: TextSplitter
     model_name: str
 
-    def __init__(self, locations: Locations, model_name: str = "gpt-3.5-turbo"):
+    def __init__(self, locations: Locations,
+                 model_name: str = "gpt-3.5-turbo", chunk_size: int = 2000): #, chroma_server: str = "0.0.0.0", chroma_port: str = "6000"
         self.locations = locations
         self.persist_directory = self.locations.paper_index
         self.embedding = OpenAIEmbeddings()
+        #settings = Settings(chroma_api_impl="rest", chroma_server_host=chroma_server, chroma_server_http_port=chroma_port)
         self.db = Chroma(persist_directory=str(self.persist_directory),
-                         embedding_function=self.embedding
+                         embedding_function=self.embedding #,client_settings=settings
                          )
         self.model_name = model_name
-        self.splitter = RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=0)
+        self.splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=0)
         self.chain = self.make_chain()
 
     def update_chain(self):
@@ -39,7 +42,7 @@ class Index:
 
 
     def make_chain(self):
-        self.llm = OpenAI(model_name=self.model_name)
+        self.llm =  ChatOpenAI(model_name=self.model_name)
         chain = RetrievalQAWithSourcesChain.from_chain_type(
             self.llm, retriever=self.db.as_retriever(search_type = "mmr")
         )
@@ -132,43 +135,3 @@ class Index:
 
     def persist(self):
         self.db.persist()
-
-    """
-    def chroma_from_data(self,
-                          papers: Optional[Path] = None,
-                          modules: Optional[Path] = None,
-                          persist_directory: Optional[Path] = None
-                          ):
-        modules_docs = self.modules_to_documents(modules) if modules is not None else []
-        papers_docs = self.papers_to_documents(papers) if papers is not None else []
-        documents = modules_docs + papers_docs
-        directory = self.persist_directory if persist_directory is None else persist_directory
-        if len(documents) == 0:
-            print(f"both documents and modules are None, initializing empty Chroma")
-            return Chroma(persist_directory=str(directory), embedding_function=self.embedding, collection_name=collection_name)
-        else:
-            sub_docs = self.splitter.split_documents(documents)
-            return Chroma.from_documents(sub_docs, collection_name=collection_name)
-    def load_default_index(self, with_papers: bool = True, with_modules: bool = True):
-        print(f"loading default index with papers from {self.locations.papers} and modules from {self.locations.modules_data}")
-        papers = self.locations.papers if with_papers else None
-        modules = self.locations.modules_data if with_modules else None
-        self.db = self.chroma_from_data(papers, modules)
-        self.chain = self.make_chain()
-    """
-
-
-
-"""
-def index(locations: Locations, load_modules: bool = True, load_papers: bool = True, temperature: float = 0.0):
-    modules_loaders = [DataFrameLoader(pd.read_csv(tsv, sep="\t"), page_content_column="identifier") for tsv in with_ext(locations.modules_data, "tsv")] if load_modules else []
-    pdf_loaders = make_paper_loaders(locations) if load_papers else []
-    loaders = modules_loaders + pdf_loaders
-
-    index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory": str(locations.paper_index)}).from_loaders(loaders)
-    print(f"indexing kind of finished, it will be saved to {locations.paper_index}")
-    #apoe_result = index.query_with_sources("What do you know about APOE gene?")
-    test_result = "MTHFR"
-    print(index.query_with_sources(f"What is {test_result}?"))
-    return index
-"""

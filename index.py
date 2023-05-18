@@ -1,8 +1,18 @@
+import os
+
 import click
+import dotenv
 from dotenv import load_dotenv
 
 from genie.indexing import *
 
+e = dotenv.find_dotenv()
+print(f"environment found at {e}")
+has_env: bool = load_dotenv(e, verbose=True)
+if not has_env:
+    print("Did not found environment file, using system OpenAI key (if exists)")
+openai_key = os.getenv('OPENAI_API_KEY')
+print(f"OPENAI key is {openai_key}")
 
 @click.group(invoke_without_command=True)
 @click.pass_context
@@ -12,7 +22,7 @@ def app(ctx):
         #test_index()
 
 @app.command("write")
-@click.option('--model', default='gpt-4', help='model to use, gpt-4 by default')
+@click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
 @click.option('--base', default='.', help='base folder')
 def write(model: str, base: str):
     load_dotenv()
@@ -25,9 +35,8 @@ def write(model: str, base: str):
 @app.command("test")
 @click.option('--base', default='.', help='base folder')
 def test_index(base: str):
-    load_dotenv()
     locations = Locations(Path(base))
-    index = Index(locations, "gpt-4") #Index(locations, "gpt-4")
+    index = Index(locations, "gpt-3.5-turbo") #Index(locations, "gpt-4")
     #index.with_modules()
     question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 in FOXO gene, explain their connection with aging and longevity"
     print(f"Q1: {question1}")
