@@ -7,7 +7,6 @@ from genie.config import Locations
 from genie.indexing import Index
 import uvicorn
 
-app = FastAPI()
 load_dotenv()
 base = Path(".")
 locations = Locations(base)

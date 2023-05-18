@@ -9,7 +9,7 @@ from genie.indexing import *
 def app(ctx):
     if ctx.invoked_subcommand is None:
         click.echo('Running the default command...')
-        test_index()
+        #test_index()
 
 @app.command("write")
 @click.option('--model', default='gpt-4', help='model to use, gpt-4 by default')

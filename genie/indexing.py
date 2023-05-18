@@ -52,8 +52,8 @@ class Index:
     def query_with_sources(self, question: str):
         return self.chain({self.chain.question_key: question})
 
-    def query_without_sources(self, question: str):
-        return self.chain({self.chain.question_key: question})
+    #def query_without_sources(self, question: str):
+    #    return self.chain({self.chain.question_key: question})
 
     def modules_to_documents(self, folder: Path): #OLD
         modules = with_ext(folder, "tsv").to_list()
