@@ -1,0 +1,493 @@
+Analysis of the Association Between Apolipoprotein E Polymorphism and Cardiovascular Risk Factors in an Elderly Population with Longevity
+
+Helena Augustin Schwanke, Ivana Beatrice Mânica da Cruz, Ney Furhmann Leal, Rosane Scheibe, Yukio Moriguchi, Emílio Hideyuki Moriguchi
+
+Objective – To establish the allelic and genotypic frequencies related to apolipoprotein E (ApoE) polymor- phism and association of the genotypes with risk factors and cardiovascular morbidity in an elderly population with longevity.
+
+An increasing number of genetic polymorphisms has been associated with the susceptibility to cardiovascular di- seases, such as the apolipoprotein E (ApoE) gene. Studies have shown that the E4 allelic variant is associated with the mechanisms of development of atherosclerosis, dementia, and, more recently, with the risk of bone fractures 1-5.
+
+Methods - We analyzed 70 elderly patients aged 80 years or more who were part of the Projeto Veranópolis. We used the gene amplification technique through the poly- merase chain reaction-restriction fragment length poly- morphism (PCR-RFLP) and cleavage with the restriction enzyme Hha I to identify the ApoE genotypes. The most fre- quent genotypes were compared considering biological variables and cardiovascular risks and morbidity.
+
+The first genetic studies in cardiology was that of the association between ApoE polymorphism and coronary artery disease 6. Apolipoprotein E participates in the me- tabolism of lipoproteins and plays a significant role in the transport of the cholesterol molecule [1- ligand of the LDL receptor; 2 - activator of enzymes like hepatic lipase; 3 – he- patic production of very low density lipoprotein (VLDL)] 7,8. In addition, this protein is related to immunoregulation and neurobiological routes (neuronal repair, remodeling, and protection). Apolipoprotein E is mainly synthesized in the liver (> 90%), but also in other tissues, such as the bowel, brain, lungs, kidneys, and macrophages, and secreted as a glycosylated protein. Apolipoprotein E polymorphism is located in the long arm of chromosome 19. Point changes are the molecular features of this polymorphism in the nitrogen bases, causing the replacement of 1 amino acid in the 112 and l58 positions of the peptide chain. The 3 most common isoforms are as follows: E2 (cysteine/cysteine), E3 (cystei- ne/arginine), and E4 (arginine/arginine). Of the 3 isoforms, E3 is the most frequently reported in the literature in the ge- neral population and E4 is rare in the centenarian popula- tion. The allelic frequency of ApoE varies in the populations because the polymorphism of its locus ranges from 16% to 53% according to the population. Therefore, different phe- notypes of ApoE exist, and they result from 6 genotypes as follows: 3 homozygous (E2E2, E3E3, and E4E4), and 3 hete- rozygous (E2E3, E3E4, and E2E4). Apolipoprotein E poly- morphism changes protein both in its structure and func- tion. The E2 isoform generates a protein whose binding to the LDL receptor is defective (in the rare situation of ho-
+
+Results - The frequencies of the E2, E3, and E4 alleles were 0.05, 0.84, and 0.11, respectively, and of the genotypes were as follows: E3E3 (0.70), E3E4 (0.22), E2E3 (0.06), and E2E2 (0.02). Individuals with the E3E4 had a mean age greater than those with the E3E3. No association was observed between the genotypes and the variables analy- zed, except for obesity, which was associated with the E3E3 genotype. Individuals with the E3E4 genotype had high levels of LDL-cholesterol and fibrinogen as compared with those with the E3E3 genotype.
+
+Conclusion - The results suggest that the E4E4 genoty- pe may be associated with early mortality. A balance between the protective or neutral factors and the cardiovascular risk factors may occur among the individuals with different geno- types, attenuating the negative effects of the E4 allele.
+
+Faculdade de Medicina da Pontifícia Universidade Católica do Rio Grande do Sul Mailing address: Ivana Beatrice Mânica da Cruz - Instituto de Geriatria e Gerontologia da PUCRS - Av. Ipiranga, 6690 - 3o andar - 90610-000 Porto Alegre, RS, Brazil - E-mail: emoriguchi@pucrs.br English version by Stela Maris C. e Gandour
+
+mozygosis and in the presence of other factors, such as diabetes mellitus, it may generate the type III Fredrickson dyslipidemia or dysbetalipoproteinemia). On the other hand, the E4 isoform generates a protein whose affinity for the LDL receptor is 4 times greater than that for LDL itself 1-5,9. Popula- tion studies have shown that the serum levels of LDL-choles- terol (LDL-c) and apolipoprotein B (ApoB) are higher in in- dividuals with the E4 allele, intermediate in individuals with the E3 allele, and lower in individuals with the E2 allele 10,11.
+
+A few studies have also associated the presence of the E2 allele with greater longevity, because a higher fre- quency of that allele is observed in nonagenarians and cen- tenarians 12,13. These results, however, have not been repro- duced in all the populations studied, and they seem not to follow a universal pattern. Excluding the possible methodolo- gical problems associated with this type of study reviewed by Marian 5 and Mansur 6, one of the hypotheses to be con- sidered is that in chronic and degenerative diseases with a multifactorial origin, the set of genetic variations of a popu- lation associated with the social and environmental surro- undings of the same population and with the processes re- lated to biogerontology (biology of aging) can be responsi- ble for the varied results, which have been found so far. Therefore, additional investigations about the impact of certain genetic polymorphisms, about the traditional risk factors for the development of cardiovascular diseases, and especially the coronary arteries and aging are required in individuals with longevity (> 80 years).
+
+individuals of Italian heritage within that age bracket living in the municipality of Veranópolis in 1998.
+
+biochemical examinations were as follow: blood samples of a peripheral vein were withdrawn according to the venocly- sis system with a disposable vacuum device (Vacutainer) and stored in tubes with 0.1% EDTA (final volume at the concentration of 1mg/dL). After that, the material collected was maintained at 4ºC until DNA extraction for up to 24 hours. DNA extraction was performed according to the tech- nique reported by Debomoy 18. The general protocol of ex- traction comprised the following steps: 1) the blood sam- ples collected were centrifuged at 5,000 rpm for 5 minutes; 2) after centrifugation, the region containing the leukocytes was transferred to tubes of 1.5 mL and washed with PBS (phosphate buffered saline, pH 7.5); 3) for extracting DNA from the leukocytes (in 200 µL PBS), 100 µL of the lysis buf- fer (10 mM Tris, 100 mM EDTA, 0.5% SDS, 200 µg/mL pro- teinase K), 2.5% SDS, and 25 mM EDTA pH 8.0 were added, and that was followed by incubation at 55ºC for 3 hours; 4) after incubation, the DNA of the sample was extracted by 2 washes with a solution of phenol, chloroform, and isoamyl alcohol (25:24:1); 5) the DNA present in the aqueous portion was then precipitated by adding 0.1 volume of sodium ace- tate and 0.7 volume of isopropanol and incubated at -20ºC; 6) the DNA, observed as a clear and gelatinous sediment, was dissolved in 50 µL of Milli-Q water and maintained at - 20ºC for later use in the reaction of gene amplification called polymerase chain reaction (PCR).
+
+The relevance of this type of study is based on the fact that the phenomenon of population aging will markedly increase the number of elderly individuals older than 80 years, who constitute a group especially susceptible to car- diovascular events. However, recent studies, including the Framingham Study, have shown that the traditional risk fac- tors of cardiovascular diseases do not apply with the same intensity observed in younger age groups 14,15. Therefore, we need to determine which risk factors really influence the susceptibility to cardiovascular diseases in this population group.
+
+Polymerase chain reaction was performed according to the method reported by James et al 19 using the primers apo EF 5'- TAA GCT TGG CAC GGC TGT CCA AGG A-3' (25-mer) and apo ER 5'- ACA GAA TTC GCC CCG GCC TGG TAC AC- 3' (26-mer). The mixture of the reaction (total of 50 µL) was prepared with 10 pmol of each primer, 100 µM dNTPs, 1U of Taq Polymerase (CenBiot-RS), buffer containing 1.5 mM MgCl , 1% DMSO, and 2 mmL of the DNA of the sample. 2
+
+Based on these considerations, we analyzed the as- sociation between different ApoE genotypes, cardiovascu- lar risk factors, and morbidity in the elderly individuals aged 80 years or older living in the municipality of Veranópolis, in the State of Rio Grande do Sul, and who took part in the Projeto Veranópolis. That project analyzed the interaction of genetic and environmental variables related to successful aging and to cardiovascular diseases. The basic demogra- phic and epidemiologic profile of the municipality of Veranó- polis is shown in table I 16.
+
+The amplification process consisted of an initial dena- turation at 95ºC for 5 minutes, followed by 30 cycles of denaturation at 95ºC for 1 minute, coiling at 61ºC for 1 minu- te, extension at 70ºC for 1 minute, and a final extension at 72ºC for 10 minutes.
+
+Methods
+
+The efficacy of PCR was visualized through electro- phoresis in agarose gel (2%) with ethidium bromide, when a band of 240 base pairs (bp) was observed under ultraviolet light.
+
+We carried out a cross-sectional, individual, observa- tional, analytical study 17 on 64 elderly individuals aged 80 years or more, who were chosen according to criteria of re- presentativity and randomization in a total population of 220
+
+Genotyping was performed by digesting the PCR pro- duct (20 µL) with 5 U of the restriction enzyme Hha I (Gibco)
+
+in a specific buffer. The solution undergoing digestion was incubated at 370C for 3 hours, and then analyzed in polya- crylamide gel (15%) using a molecular weight marker of 10- bp ladder. The characteristic bands of each allele were then analyzed and identified.
+
+c, and triglycerides (TG) for adults (> 20 years)19 Lipids Values (md/dL) Desirable Borderline Alterated TC < 200 200-239 ≥ 240 LDL-c < 130 130-159 ≥ 160 HDL-c ≥ 35 _ _ TG < 200 _ ≥ 200
+
+For biochemical assessment, samples of venous blood were collected after study participants had fasted for 12 hours. The venoclysis system with the disposable vacuum device (Vacutainer) was used. Blood was collected in tubes with no anticoagulant to quantify the lipid profile, Lp(a), glucose, and uric acid. For fibrinogen quantification, blood was collected in tubes with sodium citrate. The blood samples were centrifuged for 15 minutes in a Kubota KC-70 centrifuge (Japan) at the velocity of 3,000 rpm to separate plasma from the remaining cells. Plasma was then divided into five 1.0-mL aliquots in Eppendorf tubes with micropipe- ttes. The plasma aliquots were then refrigerated between -8 and 4°C for a maximum of 24 hours 20.
+
+Source: II Consenso Brasileiro sobre Dislipidemias.
+
+commercial kit (Paraná, Brazil), and the mean of 2 measure- ments performed for each plasma sample was considered the final value 20. Glycemic levels above 126 mg/dL were considered increased. Plasma fibrinogen was quantified according to the turbidimetric method using the Tecnow 7000 spectrophotometer (Tecnow Instrumentos Científicos, São Paulo). Fibrinogen levels above 300 mg/dL were consi- dered increased. Measurement of plasma uric acid was per- formed using the enzymatic method (UV, Method GIDH) with the Merck commercial kit (Germany). Levels above 7.0 mg/dL were considered increased 22.
+
+To analyze total cholesterol, the manual technique of the enzymatic colorimetric reaction was used with the com- mercial enzymatic reagent Cholesterin/Cholesterol Chod- Pap (MPR2, Boehringer-Mannheim, Germany). Readings of standard cholesterol levels of 50 mg/dL, 100 mg/dL, 200 mg/ dL, and 400 mg/dL were performed with the Preciset Choles- terol Calibrator 125512 (Boehringer-Mannheim, Germany), and the final value was the mean of the 2 measurements per- formed for each plasma sample 20. To analyze HDL-choleste- rol (HDL-c), the heparin-Mn2+ precipitation method by Gildez was used with some adaptations. The lipoproteins containing apolipoproteins B-100 (VLDL and LDL) were pre- cipitated according to the heparin-Mn2+ precipitation method (Sigma Chemical Co, USA) and then incubated and cen- trifuged (refrigerated centrifuge, RB-1811 Model, Tomy Seiko Co. Ltd, Japan). The floating material was then collected for quantification of HDL-c particles through the colorimetric en- zymatic reaction for cholesterol; the mean of 2 measurements for each plasma sample was considered the final value 20. The LDL-c value was obtained with the Friedewald formula for tri- glyceride levels below 400 mg/dL. Samples with triglyceride levels above 400 mg/dL were excluded 21.
+
+In addition, complementary clinical examinations were performed and structured interviews were applied to detect cardiovascular risk and morbidity.
+
+The following 3 clinical parameters were used for obe- sity: body mass index, waist/hip ratio, and percent body fat (% fat). Considering that none of those parameters alone can efficiently indicate levels of obesity, individuals who were classified as obese in the 3 parameters were considered obese, as were those classified as obese in at least 2 para- meters and overweight as established according to the bo- dy mass index. Body mass index was obtained with quanti- fication of weight (kilograms) and height (meters) with a mechanical scale (Filizolla, São Paulo). Then, the body mass index was calculated by dividing the weight in kilograms by the square of the height in meters squared (kg/m2). The waist/hip ratio was obtained by measuring the minimum ab- dominal circumference (measured in meters at the level of the iliac crest) and the maximum abdominal circumference (measured in meters at the level of the greater trochanter). Then, the waist/hip ratio was calculated by dividing the mi- nimum abdominal circumference by the maximum abdominal circumference. Percent fat was obtained with fat quantifi- cation by electrical bioimpedanciometry. For this quantifi- cation, the elderly had to be in the supine position. Accor- ding to the body mass index (BMI) classification, individuals ‡ whose BMI was 30 were considered obese, and those whose BMI was between 25 and 30 were considered over- weight, for both sexes. According to the waist/hip ratio, fe- males whose waist/hip ratio was above 0.8 cm were conside- red obese, as were males whose waist/hip ratio was above 1.0 cm. In regard to % fat, individuals of both sexes whose fat measured above 30 % were classified as obese 23.
+
+The manual technique of colorimetric enzymatic reac- tion was used for triglyceride quantification with the com- mercial enzymatic kit Labtest TG Gpo-Ana (Argentina). Readings of standard triglyceride levels of 150 mg/dL and 300 mg/dL were performed with the Preciset Trigliceride Cali- brator 125512 (Boehringer-Mannheim, Germany), and the fi- nal value was the mean of the 2 measurements performed for each plasma sample 20. Levels above 200 mg/dL were consi- dered increased. Table II shows the reference values of total cholesterol, LDL-c, HDL-c, and triglycerides 21.
+
+Lipoprotein(a) levels were obtained with the Boehrin- ger nephelometric system (Boehringer Nephelometer 100); the kit of N antiserum against human apolipoprotein(a) and the kit of N Latex Lp(a) reagent were used. Lipoprotein(a) levels above 30 mg/dL were considered increased 20. For glucose level determination, the colorimetric enzymatic method was performed using the Bio Diagnóstica ICQ Ltda
+
+In regard to systemic arterial hypertension assess- ment and classification, the criterion of the III Consenso
+
+tion factors for the mean alcohol content according to stan- dard measures for wine, beer, and hard liquor (standard drink) adapted from suggestions of the Serviço de Atenção ao Alcoolismo e Drogadição do Ministério da Saúde 16. Ac- cording to these suggestions, the alcoholic content of wine was estimated at 11% with 140 mL (1 glass) as a standard measure; the alcoholic content of beer was estimated at 4% with 350 mL (1 or 2 cans of beer equivalent to 1 bottle) as a standard measure; and the alcoholic content of the hard liquor was estimated at 45% with 35 mL (equivalent to 1 drink) as a standard measure 27.
+
+Brasileiro para o Tratamento da Hipertensão Arterial of 1998 was used. According to that criterion, individuals whose systolic blood pressure levels were >140 mmHg or diastolic blood pressure levels were >90mmHg, or both, were consi- dered hypertensive. The classification of the elderly as hy- pertensive required alteration in at least 2 of the 3 following parameters investigated: increased systolic or diastolic blood pressures, or both; report of hypertension diagnosed by a physician; use of antihypertensive medication. Blood pressures were measured with a mercury sphygmomano- meter (Erka, Germany) with an adequate cuff for the right arm circumference. Each participant remained at rest (sit- ting) for at least 5 minutes prior to the measurements. Two measurements were taken with an interval of approximately 30 minutes between them. The appearance of the heart sounds was used to identify the systolic blood pressure and its disappearance (Korotkoff phase V) to identify the di- astolic blood pressure 24. Due to the possibility of pseudo- hypertension caused by stiffening of the brachial artery by atherosclerosis, which may increase blood pressure by 30 m mHg or more, the Osler maneuver was used concomitantly with systolic blood pressure measurement. The Osler ma- neuver is considered positive when the cuff is inflated abo- ve the systolic blood pressure level and the radial artery remains palpable 22. The cases, in which that happened, were excluded from the study 25.
+
+Smoking was assessed through the report of using or not using tobacco (cigarettes and other forms). Two groups were considered: 1) nonsmokers - individuals who never smoked or who stopped smoking at least 2 years before the interview date, and who never resumed smoking; 2) current smokers or smokers - individuals who smoked at least 1 cigarette/day or who quit smoking less than 2 years before.
+
+Statistical analysis was performed using version 9.0 of the statistical software SPSS, 1999 29. After the molecular dia- gnosis of the sample, the gene (or allele) and genotypic fre- quencies were calculated with the Hardy-Weinberg law 30. The genotypic frequencies were calculated with the equation p2 + q2 + r2 + 2pq + 2pr + 2qr = 1, in which p = allele e3 (the most frequent allele in the human populations studied up to that point), q = allele e4, and r= allele e2. The gene frequencies were calculated with the equation: p + q + r = 1, and they were tested for the Hardy-Weinberg equilibrium with the chi- square test of the observed and expected frequencies for each allele (the chi-square goodness-of-fit test).
+
+Diabetes mellitus was defined when at least 1 of the following situations happened: the patient reported a previ- ous diagnosis by a physician; the patient was using a medi- cation (oral antidiabetic drugs or insulin, or both); when fasting glycemia was >126 mg/dL 26.
+
+The following statistical analyses were performed to assess the association between the most frequent genoty- pes in the sample studied and the variables analyzed in the study: 1) test of association between categorical variables: the univariate nonparametric chi-square test for indepen- dent samples. In the cases in which the expected frequency was lower than 5 in a 2x2 table, the Fisher exact test was used. In both cases, two-tailed tests were used, because, being more conservative, spurious significances could be avoided; 2) multivariate analysis was performed with logis- tic regression. All variables with univariate statistical signi- ficance (p=0.1) were included in the test. To assess the inte- raction of the variables associated with the genotypes or the independent association of variables, each variable was excluded from the analysis. In case of significant loss (p=0.05) of a variable when another was excluded from the analysis, the association between them was considered; 3) comparison of continuous variables between the genoty- pes: the 1-way ANOVA or multifactorial ANOVA was used, followed by the Student t test or the Mann-Whitney test.
+
+Morbidity due to cardiovascular diseases was defined by the presence of a previous personal history or diagnosis of angina or intermittent claudication or stroke, as descri- bed below: 1) thoracic pain of the anginal type or intermit- tent claudication, characterized by the presence of thoracic pain of the anginal type and intermittent claudication defi- ned by the report of such symptoms, according to Rose’s protocol; 2) stroke. The presence of ischemic stroke and acute myocardial infarction was defined by the report of such pathological situations and complementary neurologi- cal and cardiological examinations 27.
+
+The variables of cardiovascular risk related to lifestyle were physical activity, alcohol ingestion, and smoking.
+
+The physical activity was measured by calculating energy expenditure in kilocalories per week (kcal/week) for different activities using the intensity code of either Taylor et al or McArdle et al, or both, as an index of specific energy expenditiure in kcal/min for different physical activities. For classifying physical activity, we used the cut point of 3,000 kcal/week proposed by Paffenbarger, which was conside- red a physical activity level favorable to cardiovascular protection of middle-aged individuals 27,28.
+
+This study was approved by the Scientific Commit- tee of the Medical School of the Pontifícia Universidade Ca- tólica do Rio Grande do Sul (PUC-RS) and by the Commi- ttee on Ethics and Research of the PUC-RS, and was referred to the National Committee on Ethics and Research of the National Health Committee of the Ministry of Health, becau- se it belonged to the area of genetics. All volunteers or a re-
+
+Ingestion of alcoholic beverages was assessed through report of the amount of alcohol ingested per week. This was calculated in grams per week using the correc-
+
+A total of eight biochemical variables directly or indi- related to cardiovascular risk were compared among genotypes (tabs. V and VI).
+
+lative were required to sign the formal consent, and when this was not possible, the volunteer’s verbal consent was required.
+
+Of these variables, three had significantly different means among the elderly with different genetic ApoE polymorphisms: LDL-c, uric acid, and fibrinogen. Both E3E3 and E3E4 individuals had mean LDL-c levels above the expected. The E3E4 elderly had a mean LDL-c concentration significantly higher than E3E3 individuals did. Individuals with the remaining genotypes tended to have LDL-c values within the expected range.
+
+Results
+
+Of the six possible ApoE genotypes, only four were o- bserved in the population studied: E3E3 (70%), E3E4 (22%), E2E3 (6%), and E2E2 (2%). The gene and genotypic fre- quencies are shown in table III. As the sample size of the E2E2 and E2E3 genotypes was very low (1 genotyped indi- vidual and 4 genotyped individuals, respectively), their descriptive statistics were included in the results presen- ted, even though they were not included in the comparative statistical analyses of the most frequent genotypes (E3E3 and E3E4).
+
+On the contrary, E3E3 individuals had a mean uric acid concentration significantly higher than E3E4 individuals. However, all individuals had their means within the expected values.
+
+Even though the fibrinogen levels were statistically higher in E3E4 individuals, all means observed in the remai- ning genotypes were not considered indicative of cardio- vascular risk.
+
+Even though the frequencies were within the Hardy- Weinberg equilibrium (x2=0.97; degree of freedom = 1; p > 0.57), the frequency of the E4 allele in the population studied was above 10%.
+
+In a multivariate analysis with a logistic regression model, a significant association was observed between the LDL-c (130 mg/dL), uric acid (6 mg/dL), fibrinogen (300 mg/ dL), and cholesterol (220 mg/dL) levels and the genotypes. However, it is worth noting that only cholesterol had a sig- nificance level between 0.05 and 0.1. The remaining varia- bles had a more consistent statistical relation with signifi- cance levels ranging from 0.00 to 0.04.
+
+Table IV shows the mean values observed for the bio- logical variables analyzed in the study. Among the indivi- duals with the most frequent genotypes, E3E3 and E3E4, significant differences were observed in regard to age, body mass index, and diastolic blood pressure. Individuals with the E3E4 genotype were significantly older than those with the E3E3 genotype. Even though the other genotypes were not included in the statistical analysis, the age of the E2E2 genotype individual was closer to the mean age of the E3E3 genotype individuals, while the mean age of the E2E3 indi- viduals tended to be similar to that observed in the E3E4 genotype individuals.
+
+The analysis of the values obtained in calculating the odds ratio showed that individuals with the E3E4 genotype were twice more likely to have LDL-c and fibrinogen levels above that expected than individuals with the E3E3 genotype were. On the other hand, E3E4 individuals were less likely to have more elevated uric acid levels than E3E3 individuals were. Lifestyle variables, such as smoking and physical acti-
+
+In regard to body mass index, the E3E3 individuals, on average, tended to be overweight, while both the E3E4 and E2E3 individuals had a mean body mass index within the normal range. Unlike this pattern, the E2E2 individual had a body mass index below normal, which was considered to result from undernourishment.
+
+Table IV - Comparison of the biological profile, cardiovascular risks, and lifestyle of the elderly according to the ApoE genotypes
+
+Surprisingly, the E3E4 genotype individuals were the only ones to have a diastolic blood pressure considered within the normal range.
+
+E3E3 E3E4 p Mean±SD Mean±SD Age 82.72±3.1 85.36±3.23 0.008 Total cholestero 204.99±39.28 224.91±55.32 0.14 LDL-c 133.2±32.8 155.56±47.26 0.05 HDL-c 46.7±12.72 44.8±10.43 0,61 Triglycerides 136.69±81.29 122.64±49.57 0.54 Uric acid 5.82±0.92 4.91±0.59 0.005 Fibrinogen 194.97±63.99 243.72±60.38 0.04 Lp (a)) 30.26±27.86 29.15±28.32 0.91 BMI 27.44±5.14 23.67±3.5 0.02 Fat 37.33±6.41 33.92±5.68 0.14 Waist/hip ratio 0.91±0.008 0.86±0.006 0.09 SBP 16.78±25 151.72±28.27 0.2 DBP 88.77±12.95 80.07±13.46 0.033 Physical activity 6406.9±5872.2 4399±2006.2 0.32 Alcohol consumption 178.96±165.1 82.1±111.61 0.2
+
+in Veranópolis, in the state of Rio Grande do Sul Gene n Frequency Apo E Gene (Allele) E2 0.05 E3 0.84 E4 0.11 Genotypic E2E2 1 0.02 E2E3 4 0.06 E2E4 0 0 E3E3 45 0.70 E3E4 14 0.22 E4E4 0 0
+
+Units of the variables analyzed: age (years); physical activity (kcal/week); alcohol consumption (g/week); systolic blood pressure (SBP, mmHg); diastolic blood pressure (DBP, mmHg); BMI - body mass index; fat (%); SD - standard deviation; p - significance level obtained with the Student t test. The statistical comparison was performed only between the E3E3 and E3E4 genotypes.
+
+Table V - Comparison of the biochemical variables related to the metabolism of the lipoproteins and cardiovascular risk among the different
+
+Variables *E2E2 *E2E3 E3E3 E3E4 p (mg/dL) Mean Mean±SD Mean±SD Mean±SD Total cholesterol 147.70 185.15±77.14 204.99±39.28 224.91±55.32 0.142 LDL-c 80.37 109.20±77.22 133.2±32.80 155.56±47.26 0.050 HDL-c 47.36 49.96±5.04 46.70±12.72 44.80±10.43 0.610 Triglycerides 100.00 129.83±76.40 136.69±81.29 122.64±49.57 0.540 Uric acid 4.6 5.36±0.50 5.82±0.92 4.91±0.59 0.005 Glucose 66.00 85.00±7.39 94.54±21.74 91.50±20.14 0.644 Fibrinogen 121.30 194.90±79.10 194.97±63.99 243.72±60.38 0.036 Lp(a) 8.80 26.73±20.80 30.26±27.86 29.15±28.32 0.91
+
+*these variables were not statistically compared due to the small size of the sample; statistical analysis: ANOVA followed by the Student t test.
+
+The E3E3 genotype has been the most frequent (55%) in the populations studied so far, followed by the E3E4 genotype (26%) 3,31. The results obtained were also similar to those of the northern region of Italy 33. Data on the Italian immigra- tion to Veranópolis point to a greater number of individuals coming from northern Italy; thus, this similarity was ex- pected. To demonstrate this, table VII compares ApoE fre- quencies in different populations or different age groups of these populations, or both 3,4,10,31,33,34. Unfortunately, data on the ApoE frequencies of the Brazilian population are still lacking, which hinders the comparison with the frequencies obtained in the present study. In general, the greater fre- quency of individuals with the E3E4 genotype in Veranopo- lis as compared with that of the Italian populations is nota- ble. Further genetic studies may help to elucidate this phe- nomenon.
+
+vity, were similar for the genotypes analyzed (tab. IV). In re- gard to smoking, less than 3% of the population studied smoked. No specific genotype association was observed (x2 = 0.75, degree of freedom = 1, p = 0.77).
+
+The last analysis of the study involved the assessment of the association between risk factors and cardiovascular morbidity and the most frequent ApoE genotypes. Due to the low frequency of cardiovascular morbidity in the popu- lation studied, those frequencies were grouped (stroke, acute myocardial infarction, intermittent claudication, and angina pectoris) to enable the statistical analysis.
+
+The group of elderly with the E3E3 genotype tended to have a higher number of individuals affected by cardiovascular events, obesity, and hypertension; however, only obesity was statistically significant in the genotypes studied. More E3E3 individuals were obese than were E3E4 individuals.
+
+E3E4 elderly individuals tended more to familial morbi- dity and mortality due to cardiovascular diseases, diabetes mellitus, and dyslipidemia. However, these differences were not statistically significant (fig. 1).
+
+Despite the high frequency of the E4 allele in the elder- ly, no E4E4 genotype was observed. Several studies carried out in other countries suggest the occurrence of a frequen- cy-dependent effect of the E4 allele, ie, the presence of 2 copies of the E4 allele is associated with early mortality. As no elderly individual with this genotype was observed, the data obtained confirm this hypothesis.
+
+Discussion
+
+The analysis of the results suggests the existence of a more complex interaction between ApoE polymorphism and the variables related to the cardiovascular events studied. Genotype-dependent relations, which have not yet been explored, may exist.
+
+FHCVD CVD DM Ob Dislip. Hyp. Comorbidity and morbidity CVD  %90807060504030204446   5922 Deses85 mese47950 —onTilelin. Hew.
+
+In regard to the gene and genotypic frequencies rela- ted to ApoE polymorphism, it is important to emphasize that these frequencies vary according to the population studied. Review studies have shown that the gene frequencies rela- ted to this polymorphism are extremely variable, mainly in regard to the E4 allele frequency 1,2. In Europe, this gene has a gradient distribution, the E4 allele being more frequent in the northern region and less frequent in the southern region. In Asian populations, this allele has a low frequency, unlike that of the African and New Guinea populations 31-33. However, specific studies on the possible causes of this variation are still in their infancy.
+
+Fig. 1 - Comparison of risks for cardiovascular diseases, associated comorbidity, morbidity. FHCVD - familial history for cardiovascular diseases; CVD - sum of cardiovascular diseases observed in the sample investigated (stroke, acute dial infarction, intermittent claudication, and angina pectoris), DM - diabetes litus; Ob - obesity; Dislip - dyslipidemia; Hyp - hypertension.
+
+In general, the gene frequencies observed in the pre- sent study were similar to those reported by other authors.
+
+In regard to the association between blood pressure and the ApoE genotypes, some studies have shown an asso- ciation between systolic blood pressure and the E4E4 and E3E4 genotypes, suggesting that ApoE polymorphism can be a silent factor influencing the increase in blood pressure 31. Other studies, however, did not show this association 32,34. In our study, an inverse association was observed: high diastolic blood pressure in the E3E3 elderly; however, no reference was found about this possible association in the literature. This suggests that a correlation between blood pressure levels and ApoE polymorphism may exist, even though no causal genotype-phenotype relation was ob- served in regard to blood pressure, indicating that other not yet identified genetic-environmental interactions may exist.
+
+individuals and variables of the lipid profile assessed by simple logistic regression and their respective odds ratio Variables X2 P Odds ratio 95% CI LDL-cholesterol (130 mg/dL) 5.82 0.013 2.61 1.04-6.56 Uric acid (6 mg/dL) 6.05 0.007 0.09 0.10-0.78 Fibrinogen (300 mg/dL) 12.21 0.042 2.07 1.20-7.88 Total cholesterol (240 mg/dL) 3.58 0.060 1.23 2.77-5.43
+
+X2- chi-square; CI - confidence interval
+
+Surprisingly, however, in our results, individuals with the E3E4 genotype had a significantly higher mean age than E3E3 individuals did. Differences in the ApoE frequencies and longevity strongly suggest that the relations between certain genotypes and longevity are also influenced by other variables, such as environmental factors and the inte- raction with other genetic factors. This variation could be responsible for the difficulty in defining a biological and cli- nical profile strongly correlated with the risk factors for car- diovascular diseases at advanced ages (> 80 years). There- fore, we believe that this may have contributed to the result obtained.
+
+showed a higher mortality in the group of individuals with low blood pressure (both systolic and diastolic) than that in the group of individuals with higher-than-expected blood pressure 35. This result was later confirmed in similar studies, including the Framingham Study, in which the participants ‡ were divided into 2 groups (< 75 and 75 years). A substantial increase in the mortality rate was observed both in males and females with systolic blood pressure < 120 mmHg. As we do not yet know precisely which role hypertension plays in the elderly, and the results here obtained showed an associa- tion between high diastolic blood pressure and the E3E3 ge- notype, we cannot consider that the relation represents an additional risk in the individuals with the referred genotype. Future studies on mortality follow-up in the elderly with dif- ferent genotypes may clarify whether this relation is bene- ficial, neutral, or bad.
+
+Of the several biological variables studied, body mass index and diastolic blood pressure showed significant diffe- rences among the most frequent ApoE genotypes. In this case, individuals with the E3E3 genotype had a mean body mass index classified as overweight and a greater diastolic blood pressure. No consistent data allowing a comparison or inference about such findings were found in previously published studies. As this characteristic is usually asso- ciated with an increase in the risk of chronic and degene- rative diseases, would this characteristic have a negative effect in the E3E3 genotype? This question requires better investigation, as does the possibility of a causal or potential relation between body mass index and the ApoE genoty- pes. We should not overlook the possibility that this fin- ding may have occurred by chance, or may have been deter- mined by the small size of the sample.
+
+Analysis of the lifestyle components, such as physical activity, alcohol consumption, and tobacco use, was similar in both groups of genotyped individuals, therefore, elimina- ting the effect of these variables in the results found. Howe- ver, additional studies relating the nutritional profile and behavior could eliminate the possibility that this variable would positively influence the maintenance of E3E4 indivi- duals in the population by these individuals adopting a healthy diet.
+
+As the metabolic relation of ApoE polymorphism is di- rectly related to the lipid profile and some types of dyslipide- mia that lead to the development of atherosclerosis, a de- eper analysis of the association between the lipid profile and ApoE genotypes was performed. ApoE was first repor- ted by Shore and Shore 7 as a VLDL component, and, there- fore, the interest of the initial studies was centered on the at- tempt to understand the role played by this apolipoprotein in the prevalence of cholesterol-induced hyperlipidemia 6,7. The subsequent recognition that ApoE is a protein that binds to the LDL receptor (binding-protein) and that this binding affinity depends on genetically determined isofor- ms accelerated the interest of the specialists in elucidating both ApoE form and function. These studies ended up hel- ping in the understanding of the endogenous and exoge- nous cholesterol pathways and leading to the association of the ApoE genotypes and alleles with chronic and dege-
+
+different populations Populations Frequencies Italians Italians 32 Italians 33 British 31 Veranópolis Central Northern Cambridge RS Italy Italy Genotypic E2/2 0.02 0.013 0.016 0.008 E3/2 0.06 0.009 0.07 0.18 E3/3 0.7 0.79 0.74 0.63 E4/3 0.22 0.095 0.17 0.19 E4/4 0 0 0 0 E4/2 0 0.009 0.004 0 Allelic (gene) e2 0.05 0.06 0.04 0.09 e3 0.84 0.88 0.86 0.79 e4 0.11 0.05 0.1 0.12
+
+nerative diseases, such as cardiovascular diseases and de- mentia 4,6. Throughout these years of investigation of the metabolic role played by ApoE, a large number of articles has been published, but the subject is far from being fully clarified 4.
+
+Table VIII - Comparison of the lipoprotein parameters and ApoE genotypes
+
+Veranópolis Italians 32 Total cholesterol E3E3 204.99±39.28 217±43.4 (mg/dl) E3E4 224.91±55.32 229±48.2 E2E3 185.15±77.14 E2E2 147.7 212±43.1 LDL-c E3E3 133.02±32.8 142.1±37.3 (mg/dl) E3E4 155.56±47.26 151.4±45.5 E2E3 109.2±77.22 E2E2 80.37 138.3±39.7 HDL-c E3E3 46.7±12.72 48.5±9.3 (mg/dl) E3E4 44.8±10.43 49.3±12.7 E2E3 49.96±5.04 E2E2 47.36 46.3±7.5 Total cholesterol E3E3 204.99±39.28 217±43.4 (mg/dl) E3E4 122.64±49.57 120.1±48.7 E2E3 129.83±76.4 E2E2 100 123.5±49.8 Lp(a) E3E3 30.26±27.86 25.9±26.1 (mg/dl) E3E4 29.15±28.32 30±35.4 E2E3 26.73±20.8 E2E2 8.8 20±15
+
+In regard to lipid profile, the results obtained in this study showed an association between higher levels of LDL-c and the E3E4 genotype, both in the analyses of the means and in the analysis of the percentiles of the LDL-c levels. The other components did not vary significantly between the groups of different genotypes. The serum lipid levels observed in the different most frequent ApoE geno- types obtained in this study were compared with those re- cently published in the literature (tab. VIII). It is worth no- ting that the LDL-c level observed in the elderly of Veranó- polis with the E3E4 genotype (155.6±47.3) was very similar to that reported by Bader 33 for the elderly living in Italy (151.4±45.5). This suggests that those of the same ethnicity may have similar mean serum lipid levels despite living in different and geographically isolated environmental condi- tions, ie, a genetic pattern with a reduced environmental in- fluence or maintenance of similar life habits and styles in the 2 populations, or both, despite the migratory event. This statement can be confirmed if we consider the results obtai- ned in the multiethnic study carried out by Pablos-Mendez et al 36, which analyzed 1,068 noninstitutionalized indivi- duals living in the United States. The study showed that the association between serum LDL-c levels and those of other lipid components varied according to the ethnic group.
+
+association between the E3E4 genotype and acute myocar- dial infarction at an early age 31. An association between the E4 allele and myocardial ischemia was also observed 34.
+
+Among the studies in which no consistent associa- tion between the ApoE genotypes and cardiovascular diseases was found, we can cite longitudinal studies on the relation between the genotypes and coronary lesions las- ting 4 to 6 years 37. In 1 study carried out in Italy with 15,000 individuals, no association between cardiovascular disea- ses and differential ApoE genotypes was found 33. It is still early to confirm or deny the association between the ApoE gene and cardiovascular diseases, because the relation between ApoE and cardiovascular diseases is still contro- versial. We can infer that if this relation exists, it is not cau- sal (direct) and may be associated with other factors, both genetic and environmental 1-4.
+
+Unlike LDL-c, no correlation was observed between the ApoE genotypes and HDL-c, mainly in regard to the presence of the E4 allele. This finding was also reported in other population studies, such as that by Pablos-Mendez et al 36.
+
+Population studies have suggested the association between an increase in the frequency of hypertriglyceride- mia (type IV HLP) in individuals with the E2 allele and indivi- duals with the E4E4 genotype; a lower frequency of the E2 allele associated with dyslipidemia IIa; and an increase in the frequency of type IIb dyslipidemia in individuals with at least 1 E4 allele in their genotype 32. However, the associa- tion of the effect of hypocholesterolemia and the E2 allele was stronger than the association of hypercholesterolemia and the E4 allele 32.
+
+Other findings of our study that were not reported in studies published about the subject were the relation between high fibrinogen levels and the E3E4 genotype and the relation between more elevated levels of uric acid and the E3E3 genotype. In regard to the former, it is worth no- ting that elevated fibrinogen levels are associated with car- diovascular diseases 22. However, despite the differences observed between the 2 genotypes, the fibrinogen levels observed are within the reference levels (< 400 mg/dL) for both groups. Only 1 individual in the entire sample had fibri- nogen levels higher than 400 mg/dL. In regard to the second finding, considering that high uric acid levels may increase the risk of cardiovascular diseases 38, this association could reduce the benefits related to the E3E3 genotype in regard to atherogenesis.
+
+In the third phase of the analysis of the results, the association between the ApoE genotypes with morbidity and other plasma factors of cardiovascular diseases were investigated.
+
+The general analysis of the results showed no asso- ciation between individuals with the E4 allele and the morbi- dity and comorbidity associated with cardiovascular disea- ses, except the occurrence of a significantly higher number of obese individuals with the E3E3 genotype.
+
+The lack of association with cardiovascular morbidity is not surprising, because data in the literature are contro- versial. The studies in which a relation between cardiovas- cular diseases and ApoE genotypes was found report an
+
+Our results suggest the hypothesis that we need to in- crease knowledge about the elderly with longevity, because data in the literature show that the elderly have a biology and a set of risk factors for cardiovascular diseases diffe-
+
+gher than those in E3E3 individuals, suggesting the influ- ence of additional environmental factors that were not ana- lyzed in the study (such as nutritional condition) or the inte- raction with other genetic factors that could reduce or neu- tralize the negative effects caused by the E4 allele or reduce the beneficial effects of the E3E3 genotype (such as high uric acid levels). Complementary studies on the relation to other genetic polymorphisms in this population may help to elucidate this hypothesis.
+
+rent from those of younger individuals. Considering that the prevalence of cardiovascular diseases is very high in in- dividuals with longevity, and that the proportion of these people will significantly increase in the next decades, future studies determining a pattern of cardiovascular risk for this age group will be paramount, both for preventing and hand- ling these risks. Therefore, studies on the polymorphism of genes associated with cardiovascular diseases should be carried out comparing populations of individuals with heart disease with populations of healthy individuals and also in- dividuals above the age of 80 years.
+
+Acknowledgement
+
+Our results allow us to conclude that, even though no individual with the E4E4 genotype existed in the population studied, suggesting a frequency-dependent effect, no as- sociation with risk factors and morbidity related to cardio- vascular diseases in heterozygous individuals was obser- ved. This happened even with LDL-c levels significantly hi-
+
+We thank the Coordenação de Aperfeiçoamento de Pessoal (CAPES), Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Fundação de Amparo à Pes- quisa do Estado do Rio Grande do Sul (FAPERGS), and the Municipal Authority of Veranópolis-RS for their support.
+
+References
+
+Tonks DB. Quality control in Clinical Laboratories, Warner-Chilcott Laborato- ries, Diagnostic Reagent Division, Scarborough, Canadá,
+
+:
+
+p.
+
+II Consenso Brasileiro sobre Dislipidemia. Arq Bras Cardiol
+
+;
+
+:
+
+-
+
+Pires AJ. Fibrinogênio, Fator VII e Fatores de Risco Cardiovascular em Idosos Acima de
+
+anos de Idade. Porto Alegre: Pontifícia Universidade do Rio Gran- de do Sul,
+
+;
+
+-
+
+Almeida MSC. Avaliação dos critérios de obesidade em idosos com mais de
+
+anos: relação com fatores de risco coronariano. Tese de Mestrado. PUCRS. Porto Alegre, RS,
+
+:
+
+p.
+
+III Consenso Brasileiro de Hipertensão Arterial. Campos do Jordão, SP: BTHA,
+
+:
+
+p.
+
+Siegel D, Lonergan ET. Hypertension. In: Geriatrics. Connecticut: Appleton & Lange,
+
+:
+
+-
+
+Report of the Expert Committtee on the Diagnosis and Classification of Diabetes Mellitus. Diabetes Care
+
+;
+
+:
+
+-
+
+Costa AR. Caracterização da distribuição da HDL e suas subclasses em idosos (dissertação). Porto Alegre (RS): PUCRS,
+
+Silva MJPC. Influência da atividade física sobre os níveis plasmáticos dos lipí- deos e lipoproteínas em coronariopatias. Arq Bras Cardiol
+
+;
+
+:
+
+-
+
+SPSS. SPSS version
+
+Chicago, Illinois: SPSS Inc.;
+
+Gardner S. Genética de populações e evolução. In: Genética.
+
+a ed. Rio de Janeiro: Interamericana;
+
+-
+
+Siest G, Pillot T, Régis-Bailly A, et al. Apoliprotein E: an important gene and protein to follow in laboratory medicine. Clin Chem
+
+;
+
+:
+
+-
+
+Gabelli C, Martini S, Barbato GM, et al. Apoliprotein E polymorphism and coro- noray artery disease. Arteriosclerosis
+
+;
+
+:
+
+-
+
+Bader G, Ziuliane G, Kosner GM, et al. Apoliprotein E polymorphism is not associated with longevity or disability in a sample of italian octo-and nonagena- rians. Gerontology
+
+;
+
+:
+
+-
+
+Katzel L, Fleg JL, Paidi M, et al. APOE polymorphism increases the risk for exer- cice-induced silent myocardical ischemia in older men. Aterioscler Thromb
+
+;
+
+:
+
+-
+
+Mattila K, Haaviston M, Tajala S, Heikinheimio R. Blood pressure and five year survival in the very old. Br Med J
+
+;
+
+:
+
+-
+
+Mendez P, Mayux R, Ngai C, et al. Association of Ap
+
+polymorphism with plas- ma lipids levels in a multicentric elderly population. Ateriosc Thromb Vasc Biol
+
+;
+
+:
+
+-
+
+Phillips NR, Water D, Havel RJ. Plasma lipoproteins and progression of corona- ry artery disease evaluated by angiography and clinical events. Circulation
+
+;
+
+:
+
+-
+
+Fang J, Alderman MH. Serum uric acid and cardiovascular mortality – the NHANES I epidemiologic follow-up study,
+
+-
+
+JAMA
+
+;
+
+:
+
+-
+
+Mahley RW. Apoliprotein E: cholesterol transport protein with expanding role in cell biology. Science
+
+;
+
+:
+
+-
+
+Curtiss LL. Ap
+
+in Atheroslerosis; a protein with multiple hats. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+-
+
+Rall SC, Mahley RW. The role of Apoliprotein E genetic variants in lipoprotein disorders. J Intern Med
+
+;
+
+:
+
+-
+
+Mahley RW, Huang Y. Apoliprotein E: from atherosclerosis to Alzheimer’s di- sease and beyond. Current Opin Lipid
+
+;
+
+:
+
+-
+
+Marian AJ. Genetic risk factors for myocardial infarction. Current Opin Cardiol
+
+;
+
+:
+
+-
+
+Mansur AP. Análise do componente genético da doença coronariana. Arq Bras Cardiol
+
+;
+
+:
+
+-
+
+Shore VG, Shore B. Heterogeneity of human plasma very low density lipopro- teins: separation of species differing in protein components. Biochem
+
+;
+
+:
+
+-
+
+Ginsberg HN. Lipoprotein physiology. In: Endocrinology and Meta- bolism Clinics of North America (lipid disorders). WB Saunders Co.,
+
+;
+
+:
+
+-
+
+Davignon J, Genest J. Genetic of lipoprotein disorders. In: Endocrinology and Metabolism Clinics of North America (lipid disorders). WB Saunders Co.,
+
+;
+
+:
+
+-
+
+Davignon J, Gregg RE, Sing CF. Apoliprotein E polymorphism and atheroscle- rosis. Arteriosclerosis
+
+;
+
+:
+
+-
+
+Menzel HJ, Kladetzky RG, Asmann G. Apoliprotein E polymorphism and coro- nary artery disease. Arteriosclerosis
+
+;
+
+:
+
+-
+
+Vaupel JW. Biodemographic trajectories of longevity. Science
+
+;
+
+:
+
+-
+
+Christensen K, Vaupel JW. Determinants of longevity: genetic, environmental and medical factors. J Intern Med
+
+;
+
+:
+
+-
+
+Robine JM, Forette B, Franceschi C, Allard M. The Paradoxes of Longevity. Berlin: Springer-Verlag,
+
+:
+
+-
+
+Epidemiologia Y Prevencion De Las Enfermedades Cardiovasculares en Los Ancianos. Organizacion Mundial de la Salud. Informe de un Grupo de Estudio da OMS
+
+;
+
+:
+
+-
+
+Núcleo de Informação em Saúde da Secretaria de Saúde e do Meio Ambiente do Estado do Rio Grande do Sul. Estatísticas da Saúde,
+
+:
+
+p.
+
+Pereira MG. Epidemiologia. Teoria e Prática. Rio de Janeiro: Guanabara- Koogan,
+
+;
+
+-
+
+Debomoy KL, Nurnberger Jr JI. A rapid non-enzymatic method for the preparation of HMW DNA from blood for RFLP studies. Nucleic Acid Research
+
+;
+
+:
+
+James E, Hixson JE, Vernier DT. Restriction isotyping of human apoliprotein E by gene amplification and cleavage with Hh
+
+J Lipid Res
+
+;
+
+:
+
+-

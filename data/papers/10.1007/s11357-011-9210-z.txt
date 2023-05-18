@@ -1,0 +1,821 @@
+A/ASP/VAL allele combination of IGF1R, IRS2, and UCP2 genes is associated with better metabolic profile, preserved energy expenditure parameters, and low mortality rate in longevity
+
+Michelangela Barbieri & Virginia Boccardi & Antonietta Esposito & Michela Papa & Francesco Vestini & Maria Rosaria Rizzo & Giuseppe Paolisso
+
+Received: 6 October 2010 /Accepted: 24 January 2011 /Published online: 22 February 2011 # American Aging Association 2011
+
+Abstract A large array of gene involved in human longevity seems to be in relationship with insulin/ IGF1 pathway. However, if such genes interact each other, or with other genes, to reduce the age-related metabolic derangement and determine the long-lived phenotype has been poorly investigated. Thus, we tested the role of interchromosomal interactions among IGF1R, IRS2, and UCP2 genes on the probability to reach extreme old age in 722 unrelated Italian subjects (401 women and 321 men; mean age, 62.83±25.30 years) enrolled between 1998 and 1999. In particular, the G/A-IGF1R, Gly/Asp-IRS2, and Ala/ Val-UCP2 allele combination was tested for associa- tion with longevity, metabolic profile and energy expenditure parameters. The effect on all-cause and cause-specific mortality rate was also assessed after a mean follow-up of 6 years. The analysis revealed that AAV allele combination is associated with a decreased – all-cause mortality risk (HR, 0.72; 95% CI, 0.63 0.91; p=0.03) and with a higher probability to reach
+
+– the extreme of old age (OR, 3.185; 95% CI, 1.63 6.19; p=0.0006). The analysis also revealed lower − – HOMA-IR (Diff, 0.532, 95% CI, 0.886 0.17; p= 0.003), higher respiratory quotient (Diff, 0.0363, 95% – CI, 0.014 0.05; p=0.001), and resting metabolic rate − – (Diff, 101.80693, 95% CI, 5.26 204.278; p=0.038) for AAV allele combination. In conclusion, A-IGF1R/ Asp-IRS2/Val-UCP2 allele combination is associated with a decreased all-cause mortality risk and with an increased chance of longevity. Such an effect is probably due to the combined effect of IGF1R, IRS2, and UCP2 genes on energy metabolism and on the age-related metabolic remodeling capacity.
+
+Keywords IGF1R/IRS2/UCP2 haplotype . Metabolic profile . Energy expenditure . Longevity. Mortality rate
+
+Introduction
+
+Several hypotheses have been formulated in order to explain the biological mechanisms of physiological aging. Calorie restriction (CR) is the only experimental manipulation that is known to extend the lifespan of a number of organisms including yeast, worms, flies, rodents (Ingram et al. 2006). In addition, CR has been shown to reduce the incidence of age-related disorders (for example, diabetes, cancer, and cardiovascular disorders) in mammals (Willcox et al. 2007).Whether this occurs in longer-lived species is unknown,
+
+Electronic supplementary material The online version of this article (doi:10.1007/s11357-011-9210-z) contains supplementary material, which is available to authorized users.
+
+M. Barbieri V. Boccardi A. Esposito M. Papa : : F. Vestini M. R. Rizzo G. Paolisso (*) Department of Geriatric Medicine and Metabolic Diseases, Second University of Naples, Piazza Miraglia
+
+,
+
+Naples, Italy e-mail: giuseppe.paolisso@unina
+
+it
+
+located in neuronal populations of sub-cortical regions and is involved in autocrine, endocrine and metabolic regulation. High levels of UCP2 protect the immature brain from exocytotoxic cell death by reducing ROS production (Diano et al. 2003) and increased UCP2 expression correlates with neuronal survival, prevents neuronal death, and diminishes brain dysfunction after stroke and brain trauma (Sullivan et al. 2003).
+
+Several experimental evidences suggest that caloric restriction exerts its beneficial effects on longevity through the modulation of the insulin IGF1 signaling pathway (Fontana et al. 2010; Heilbronn and Ravussin 2003; Taguchi and White 2008) and recent association studies on long-lived people have demonstrated that a large array of gene involved in human longevity are in relationship with insulin/IGF1 pathway (van Heemst et al. 2005; Bonafè and Olivieri 2009; Pawlikowska et al. 2009). To this regard, we have previously demon- strated that the G to A transition in exon 16 of IGF1R gene is associated with longevity in an Italian population (Bonafè et al. 2003) and more recently an overrepresentation of heterozygotes for mutation in IGF1R gene has been found among Jewish female centenarians (Suh et al. 2008). Recently, we have also found that subjects with one or two IRS2Asp alleles displayed a greater chance of living between 96 and 104 years of age (Barbieri et al. 2010). Interestingly, IGF1R and IRS2 genes share a regu- latory role on energy metabolism through their impact on glucose and lipid metabolism. Thus, we hypothesized that such genes may interact each other and/or with other genes to reduce the age-related metabolic derangement and that a combination of variants or haplotypes in these genes may increase the chance to reach exceptional survival.
+
+In flies, over-expressing human UCP2 (hUCP2) to adult neurons resulted in increased uncoupled respira- tion, decreased ROS production, decreased oxidative damage and extended life span without compromising fertility or physical activity (Fridell et al. 2005). Furthermore, a very recent study has demonstrated that the absence of UCP2 shortens life span in wild- type mice, and the level of UCP2 positively correlates with the postnatal survival of superoxide dismutase 2 mutant animals (Andrews and Horvath 2009).
+
+These studies suggest that the robust ability of UCP2 to control ROS production and restrict neurological disease has a greatest impact on overall aging of an organism, is a good target to restrict age-related deleterious effects associated with ROS and ROS- related mitochondrial dysfunction, and may mediate lifespan. (Andrews 2010). Interestingly, in a recent review, Andrews, evaluating the physiological rele- vance of UCP2 in genetic mouse model, showed that UCP2 promotes longevity by shifting a given cell towards fatty acid fuel utilization thus suggesting that fatty acid regulation and activation of UCP2 are critical aspects of the hypothesis that UCP2 enhances longevity by modulating metabolism (Andrews 2010).
+
+effects of calorie restriction is reduced energy expen- diture with a consequent reduction in the production of reactive oxygen species (ROS; Fontana et al. 2010, Leonie et al. 2003; Taguchi and White 2008). Interestingly, both fast and caloric restriction increase the activity of UCP2 an inner mitochondrial mem- brane protein involved in the regulation of energy metabolism (Andrews 2010; Zhang et al. 2001), mitochondrial biogenesis, fatty acid oxidation, sub- strate utilization and ROS elimination, providing neuroprotective and anti-aging effects (Conti et al. 2006; Bechmann et al. 2002).
+
+In light of such evidences, the presence of mutations in UCP2 gene or regulatory region could contribute to longevity either through the effect on ROS or modulating energy metabolism. Indeed, controversial results came from the literature about functional role of UCP2 gene variants. Three common polymorphisms have been described in the UCP2 gene and have been variably associated with altered body mass index (BMI), changes in energy expendi- ture, and maintenance of body weight after overfeed- ing (Dalgaard and Pedersen 2001; Schrauwen and Hesselink 2002). Most studies have examined indi- vidually either the amino acid substitution of valine (V) for alanine (A) in exon 4 (Ala55Val or A55V) or the 45-bp insertion/deletion variant in the 3- untranslated region (3 UTR I/D) of exon 8, or the
+
+Numerous studies have demonstrated that UCP2, diminishes ROS production in a large number of tissues examined (Echtay 2007; Teshima et al. 2003; Pi et al. 2009; Chevillotte et al. 2007). Within the central nervous system, UCP2 is predominantly
+
+Italian unrelated subjects. The effect on all-cause and cause-specific mortality rate was also assessed after a mean follow-up of 6 years.
+
+G/A substitution at nucleotide 866 in the 5 upstream region. Results of these studies have been variable (Dalgaard and Pedersen 2001; Schrauwen and Hesselink 2002), with some, but not all (Klannemark et al. 1998), studies showing an association with obesity and energy expenditure (Dalgaard and Pedersen 2001; Schrauwen and Hesselink 2002). In particular, VV genotype, in comparison to those who have the AA or A/V genotype, have a lower degree of uncoupling, lower energy expenditure (Astrup et al. 1999), higher exercise energy efficiency (Buemann et al. 2001), and lower fat oxidation. However, it has been reported that persons with the I/D genotype have an increased basal metabolic rate, increased 24-h energy expenditure and decreased BMI (Esterbauer et al. 2001), as well as a low deposition − index (Walder et al. 1998).Recently, the 866 G-allele has been described to influence UCP2 transcription, to be associated with reduced adipose tissue mRNA expression, reduced transcriptional activity in vitro and in vivo, high BMI, fat mass changes (Yoon et al. 2007), increased risk of obesity (Esterbauer et al. 2001; Argyropoulos and Harper 2002; Vogler et al. 2005), increased insulin response to glucose and reduced risk of T2D (Krempler et al. 2002; Esterbauer et al. 2001; Sesti et al. 2003).
+
+Subjects
+
+Seven hundred twenty-two unrelated Italian subjects (401 women and 321 men, mean age: 62.83± 25.30 year) enrolled between 1998 and 1999, vol- unteered for the study. All participants were followed for mortality until August 1, 2009, with a mean follow-up period of 6 years.
+
+Yashin et al. 1999), in order to assess the impact of specific IRS-2, IGF1R and UCP2 gene variants on longevity, subjects, were then sub-categorized in two groups, by splitting the whole sample at the age of 85: healthy people aged <85 years of age (n=514, mean age=49±16 year) were grouped under the denomina- “ ” tion of control ; healthy people aged from 86 to 104 year; (n=208, mean age=96±4), were collected “ ” in the group of long-lived people .
+
+All subjects were contacted at home or in their institution and examined by physicians previously trained to administer a questionnaire that included cognitive and depression test. No subject used drugs affecting insulin secretion and/or action or plasma lipid level, body composition, resting metabolic rate and respiratory quotient. All subjects that conducted a vigorous physical activity as well as the subjects that were confined to bed were also excluded from the study. Long-lived subjects conducted a sedentary life but were all self-sufficient. After a clear explanation of the potential risk of the study, all subjects gave informed consent to participate into the study, which was approved by the Ethical Committee of our Institutions.
+
+Interestingly, compared to aged subjects, healthy long-lived humans display energy expenditure parame- ters that are closer to the values of healthy middle-aged adults (Rizzo et al. 2005). It is likely that variants of UCP2 gene might help to explain such peculiar phenotype found in the long-lived subject. Indeed, although no difference in relative mortality risk among UCP2 gene variant was observed in a Dutch cohort (van Heemst et al. 2005), the possibility that UCP2 gene has an influence on human physiology and life span, directly or through the interaction with other genes could not be ruled out. Interaction with a different genetic and/or environmental background may, in fact, differently modulate the effect of a given gene in different populations.
+
+The purpose of the present study was to investigate the role of genetic variability at human loci of UCP2 gene on human longevity. Thus, the role of interchro- mosomal interactions among IGF1R, IRS2 and UCP2 genes on the probability to reach the extreme of old age was also evaluated. In particular, the G/A-IGF1R, Gly/Asp-IRS2 and Ala/Val-UCP2 allele combination was tested for association with longevity, metabolic profile and energy expenditure parameters in 722
+
+Analytical methods
+
+Weight and height were measured by using a standard beam balance scale. BMI was calculated as body weight (kilograms) divided by height squared (meters). Waist circumference was measured at the midpoint between the lower rib margin and the iliac crest and hip circumference at trochanter level. The
+
+restriction analysis with AhdI enzyme of PCR product ′ obtained using the following primers: F5 - ′ ′ GGGCCAGTGCGACCTACAG-3 and R5 -ATGC ′ GGACAGAGGCAAAGC-3 and identified on 4% − agarose gel. The 866 polymorphism was evaluated using restriction analysis with MLUI enzyme of PCR ′ product obtained using the following primers: F5 - ′ ′ CACGCTGCTTCTGCCAGGAC-3 and R5 - ′ − AGGCGTCAGGAGATGGACCG-3 . The 45 ins/ del polymorphism was evaluated using PCR analysis and identified on 4% agarose gel.
+
+ratio between them provided the WHR (waist/hip ratio). Blood samples were collected in the morning after the participants had been fasting for at least 8 h. Plasma glucose levels were determined by the glucose oxidase method (Beckman Glucose Autoanalyzer, Fullerton, CA). Commercial enzymatic tests were used to determine serum lipids (Roche Diagnostics, GmbH, Mannheim, Germany) levels. After centrifu- gation, plasma insulin concentrations were deter- mined by enzyme-linked immunoassay (ELISA; Mercodia AB, Uppsala, Sweden).
+
+The 255-bp fragment of the IGF-1R (Chromosome 15q25-q26, rs2229765) containing the G to A transition at codon 1043 (position 3179) in exon 16 ′ was amplified by primers (upstream) 5 - ′ TCTTCTCCAGTGTACGTTCC-3 and (downstream) ′ ′ 5 -GGAACTTTCTCTTACCAC ATG-3 , and was digested with 10 U MnlI (New England Biolabs). Genotyping of Gly1057Asp IRS2 variant (rs 1805097, chromosome 13q34) was carried out by PCR restriction analysis with HAEII enzyme of PCR ′ product obtained using the following primers: F5 - ′ ′ AGCTCCCCCAAGTCTCCTAA-3 and R5 - ′ CACACCAAAAGCCAT CTCG-3 and identified on 4% agarose gel.
+
+Energy expenditure analysis
+
+In a subset of 260 subjects, energy expenditure analysis was performed. Resting metabolic rate (RMR) was assessed by a portable indirect calorimeter (Cosmed K4 b2, Cosmed, Rome, Italy) for 60 min. The device is a lightweight system that measures the total volume of expired air (TV), oxygen volume (VO ) consumed in 2 liters per minute, carbon dioxide volume (VCO ) 2 expired in liters per minute, Rq as the ratio of VCO 2 to VO , heart rate, and respiratory frequency. It consists 2 of a face mask, a portable unit, an electrode to record heart rate, and a battery pack. Each morning before the RMR measurements, K4 was calibrated by using a calibration gas mixture with the known composition (16% O ; 5% CO ). The test was made in a comfortable 2 2 supine position, with an environmental temperature of – 22 23 C. All measurements were done in the morning after a 12-h fast and a minimum of 8 h sleep. Abstention (12 h) from any strenuous exercise before the RMR and Rq measurements was also requested for aged and adult subjects. The last 30 min of steady state of each experiment was kept for measurement.
+
+Statistical analysis
+
+Insulin resistance (HOMA-IR) and B cell function (HOMA-B cell) were calculated according to the – homeostasis model assessment (HOMA) (31 32): insulin resistance (IR)=FI×G/22.5 and B cell function: − 20×FI/G 3.5, where FI=fasting insulin (mU/ml) and G=fasting glucose (mmol/l; Matthews et al. 1985; Bonora et al. 2000).
+
+To approximate normal distributions, plasma insulin, HOMA-IR, and HOMA-B cell were logarithmically transformed and used in all calculations and back- transformed for result presentations.
+
+Genetic analysis
+
+Genomic DNA was obtained from blood lympho- cytes collected into EDTA-containing tubes using a commercial DNA extraction kit (Illustra, GE Healthcare UK Limited, Buckinghamshire, HP7 9 NA, UK).
+
+For each single-nucleotide polymorphism (SNP), the genotypic and allelic frequencies were calculated. The Chi-square test was used to compare the expected genotypic frequencies with the actual frequencies – observed based on the Hardy Weinberg equilibrium. The difference in genotype frequency between cases and controls was analyzed by standard contingency Chi-square test.
+
+In all subjects, the following UCP2 gene poly- morphisms on Chromosome 11 were evaluated using PCR and restriction analysis: Ala55Val in exon 4 (rs − ′ − 660339), 866 G/A in 5 region (rs 659366), 45 ins/del in position 173247 of the AC019121. In particular, Ala55val gene polymorphism was evaluated using
+
+’ Analysis of variance (ANOVA) with Scheffe s test was used for comparing plasma insulin levels, BMI,
+
+WHR, HOMA-IR, HOMA-B cell, energy exependi- ture, among the genotype groups. Logistic regression analysis was used to test the association of gene variants with longevity independently of multiple covariates. Odds ratio and 95% confidence intervals (CI) were also calculated. Associations between genotypes and metabolic profile were analyzed using the general linear model.
+
+In the whole population, HOMA-B cell displayed − an age-related decrease (r= 0.174; p<0.05), whereas HOMA-IR increases with advancing age up to 80 years (r=0.303; p<0.001), while later it declines − (r= 0.235; p=0.001).
+
+Gender ratio confirmed a prevalence of females in the long-lived group. No difference in gender distri- bution was found in control subjects.
+
+All-cause and cause-specific mortality risks with 95% CI were calculated with the Cox proportional hazard model, using left censoring to correct for the delayed entry into the risk set according to age.
+
+As expected and in agreement with that previously reported in recent studies on Italian centenarians, long- lived subjects had a significantly lower BMI, WHR, lower fasting plasma cholesterol, and higher HDL cholesterol. Furthermore, long-lived subjects displayed a preserved insulin action despite a decreased HOMA-B cell compared to controls (Table 1).
+
+Linkage disequilibrium and allele combination analyses were performed by use of the Thesias program based on the stochastic-EM algorithm (Tregouet et al. 2004). The Thesias program allows estimation of both haplotype frequencies and covariable-adjusted haplotype effects by comparison with a reference haplotype taken as the most frequent haplotype in the current analyses. A global test of association between haplotypes and any studied phenotype was performed by means of a chi-square − test with m 1 df in the case of m haplotypes.
+
+eters were also evaluated. Rq displayed an age-related − decrease (r= 0.17; p<0.02) and was negatively corre- − lated with plasma glucose levels (r= 0.242; p<0.001). Similarly, RMR decreases with advancing age up to − 85 years (r= 0.407; p<0.001), without significant − changes in long-lived subjects (r= 0.086; p=.482) − while a negative association with WHR (r= 0.192; − p<0.05), plasma glucose levels (r= 0.214; p=0.001) − and HOMA-IR (r= 0.168; p=0.001) was found.
+
+Statistical analyses were performed using SPSS software package. All metabolic parameters are presented as means±standard deviation (SD).
+
+Due to the well-known effect of age on energy expenditure parameters, to better highlight the diverse role of long-lived vs. control people, the whole study population was subdivided into three age groups. Long-lived subjects (n=82; mean age, 96±3 years) had fasting Rq significantly higher (0.79±0.05 vs.
+
+Results
+
+Clinical characteristics of study groups are reported in Table 1. All subjects were old, not obese or malnourished, in sufficient metabolic control with a greater proportion of female (Table 1).
+
+All (n=722) Control (n=514) p Long-lived Age (yrs) 62±25 49±16 0.001 96±4 Sex (male/female) 321/401 270/244 − 51/157* BMI (kg/m2) 24.7±3.3 25.3±3.0 0.001 23.1±3.5 WHR 0.83±0.01 0.85±0.01 00.01 0.81±0.007 Glucose (mmol/dL) 5.0±1.4 5.2±1.5 0.002 4.8±1.2 Insulin (mU/mL) 10.7±4.4 11.6±4.1 0.0001 8.6±4.4 Triglycerides (mg/dl) 109±48 110±54 0.540 107±38 Total cholesterol(mg/dl) 197±48 207±51 0.020 193±39 HDL cholesterol(mg/dl) 54.3±11.7 48.5±7.2 0.001 54.1±12.1 HOMA-IR 2.46±1.29 2.70±1.28 0.0001 1.85±1.13 HOMA-B 40.4±20 43.3±19 0.0001 33.3±21
+
+0.75±0.05; p<0.001) than aged subjects (n=65; mean age, 70±4 years) but lower (0.79±0.05 vs. 0.80± 0.07; p<0.05) than adult subjects (n=113; mean age, 40±12 years). In addition, long-lived subjects had RMR greater than aged subjects (1,394±181 vs. 1,184±204; p<0.001) but not different from ones found in adults (1,394±181 vs. 1,440±157; p=NS)
+
+A strong linkage disequilibrium among the three ′ UCP2 gene polymorphisms studied was observed (D values were between 0.97 and 0.99, whereas r2 varied from 0.75 to 0.88). Since these three variants would be predicted to provide identical/nearly identical − − genotypic information, the 866 G/A and 8 ins/del variant were excluded from further analyses.
+
+The genotype frequency distributions of all var- iants studied in control and long-lived people are reported in Table 2. As previously demonstrated, carriers of the Asp1057Asp-IRS2 genotype and carriers the A/A genotype of IGF1 R gene were found to be more represented among long-lived in comparison to young people (Table 2). Both IRS2 Gly/Asp and IGF1R G/A polymorphism were signif- icantly associated with an increased probability to
+
+Genetic analysis
+
+In all study groups, the genotype frequencies of all – gene variants studied respected the Hardy Weinberg equilibrium (p>0.05 for all the SNP investigated). The genotypic frequencies observed for all gene variants studied were almost similar to those reported in previous studies among Caucasians.
+
+Control Long-lived Odds ratio (95% CI) p crude p Adjusteda IGF1R GG 35.0 (171) 25.1(46) 1 1 GA 46.3 (226) 45.9 (84) 1.382 (0.91–2.08) 0.123 1.66 (1.01–2.73) .043 AA 18.6 (91) 29.0 (53) 2.165 (1.35–3.46) 0.001 2.18 (1.24–3.84) .006 χ2=10.6; p=0.005 Allele frequency g 58.2 (568) 48.1(176) 1 1 a 41.8 (408) 51.9 (190) 1.50(1.18–1.91) 0.001 1.58 (1.03–2.43) .034 Fisher’s test: p=0.001 IRS2 Gly/Gly 46.3 (209) 35.2 (51) 1 1 Gly/Asp 41.9 (189) 48.3 (70) 1.518 (1.03–2.28) 0.034 1.61 (1.01–2.60) .048 Asp/Asp 11.8 (53) 16.6 (24) 1.856 (1.07–3.28) 0.042 1.84 (0.93–3.64) .079 χ2=6.11; p=0.04 Allele frequency g 67.3(607) 59.3(172) 1 1 a 32.7(295) 40.7 (118) 1.41(1.07–1.85) 0.013 1.80(1.01–3.22) .044 Fisher’s test: p = 0.01 UCP2-55 Ala/Ala 49.3(232) 43.1 (50) 1 1 Ala/Val 42.0 (198) 45.7 (53) 0.84(0.42–1.68) 0.632 1.07 (0.48–2.39) .324 Val/Val 8.7 (41) 11.2 (13) 0.68 (0.33–1.36) 0.276 0.73 (0.33–1.63) .452 χ2=1.65; p=0.43 Allele frequency t 70.3(662) 65.9 (153) 1 1 c 29.7 (280) 34.1(79) 1.22 (0.90–1.65) 0.200 1.43(0.89–2.32) .130 Fisher’s test: p = 0.03
+
+found. In particular, Asp/Asp-IRS2 and Val/Val-UCP2 genotypes had the highest RMR and RQ. Accordingly, the effect of Gly1057Asp-IRS2 and UCP2-Ala55Val polymorphisms on energy expenditure was assessed by means of a general linear model (GLM) ANOVA, including age, sex, IR (HOMA), and BMI, as cova- riates. The analysis revealed higher Rq (0.82±0.07 vs. 0.80±0.06 and 0.78±0.06, F=15.47, p=0.0001) and RMR (1,420±135 vs. 1,377±173 and 1,324±220, F= 9.27, p=0.001) in subjects carrying Asp/Asp genotype in comparison to Gly/Asp and Gly/Gly genotype, as well as in Val/Val individuals in comparison to Ala/Ala and Ala/Val individuals: Rq (0.83±0.05 vs. 0.79±0.06 and 0.80±0.06, F=4.129, p=0.01) and RMR (1,431± 139 vs. 1,340±197 and 1,334±208, F=3.881, p=0.03)
+
+Test for the association between UCP2-Ala55Val polymorphism and longevity was not statistically significant.
+
+Genotype and phenotype correlation
+
+The impact of genetic variability at IGF1R (G to A transition at nucleotide 3174), IRS2 (Gly1057Asp), UCP2 (Ala55Val) loci on anthropometric, metabolic and energy expenditure parameters, was tested in univariate analysis (Table 3). No significant differ- ences were observed among the genotypes regarding BMI and beta cell function. Subject with IGF1R-AA genotype had lower plasma glucose levels and insulin resistance degree compared to GG and GA carriers. Subjects with IRS-2 Asp/Asp genotype had lower plasma insulin levels compared to Gly/Gly and Gly/ Asp. Different energy expenditure parameters among Gly/Aps IRS2 and Ala/Val UCP2 genotypes were
+
+Haplotype analysis
+
+Considering the possibility of interchromosomal interaction, allele combination analysis of IGF-1, IRS2, UCP variants have been performed. Allele combination frequencies in long-lived and control
+
+Table 3 Anthropometric and metabolic variables among different IGF1R, IRS2, UCP2 genotypes
+
+SNP Variable Homozygous for Heterozygous Homozygous for p the common allele the rare allele IGF1R G→A BMI 25±3 24±3 24±3 0.297 Insulin 11.0±4.7 10.9±4.3 10.5±4.2 0.544 Glucose 94.9±32.5 90.38±22.1 87.6±23.4 0.027 HOMA-IR 2.64±1.53 2.46±1.21 2.27±1.03 0.031 HOMA-B cell 40.7±22.6 41.3±19.5 41.5±20.4 0.922 RMR 1352±231 1658±144 1795±224 0.685 RQ 0.80±0.06 0.79±0.07 0.80±0.05 0.623 IRS-2 Gly→Asp BMI 24±3 24±3 25±3 0.574 Insulin 11.4±3.7 10.7±4.1 10.0±4.9 0.022 Glucose 91.4±25.23 91.7±26.2 87.6±17.4 0.426 HOMA-IR 2.58±1.15 2.44±1.20 2.23±1.31 0.067 HOMA-B cell 43.0±17.8 40.2±18.8 38.4±20.3 0.097 RMR 1324±213 1381±175 1421±133 0.003 RQ 0.78±0.05 0.80±0.06 0.82±0.07 0.000 UCP2 Ala→Val BMI 24±2 25±3 25±3 0.891 Insulin 10.9±3.6 11.2±4.7 10.0±3.6 0.148 Glucose 92.8±28.8 91.8±26.1 91.3±26.8 0.894 HOMA-IR 2.53±1.21 2.57±1.31 2.33±1.31 0.449 HOMA-B cell 40.8±16.5 42.5±22.2 37.3±14.9 0.172 RMR 1334±204 1347±194 1430±137 0.026 RQ 0.79±0.06 0.79±0.07 0.83±0.05 0.004
+
+– analyses (CVD, HR 0.88; 95% CI, 0.75 1.32; p=0.325; – cancer mortality, HR 0.96; 95% CI, 0.36 2.56; p= – 0.938; other causes, 0.75; 95% CI, 0.26 2.16; p=.601) across different allele combination. By contrast, after adjustment for sex, age, BMI, and HOMA, there were less all-cause deaths in the individual carrying the AAV allele combination compared to reference (HR – 0.72; 95% CI, 0.63 0.91; p=0.03).
+
+subjects are shown in Table 4. When the most common allele combination consisting of the three major alleles, G-Gly-Ala, is considered as reference, as expected, the all-minor-allele combination A-Asp- Val (AAV) was associated with an increased proba- bility to reach extreme old age (OD=3.185 95% CI, – 1.63 6.19; p<0.0006). The effect of each allele according to the different background has been reported in Table 4. Further allele combination phenotype analyses revealed a significant association between A-Asp-Val allele combination and HOMA-IR and RQ and RMR parameters after adjustment for age and sex and BMI and WHR. This allele combination carriers − − had HOMA-IR (Diff= 0.532 95% CI, 0.886 to − 0.17; p=0.003) 7.6% lower and RQ (Diff=0.0363 95% CI, 0.014 to 0.05; p=0.001) and RMR (Diff= − – 101.80693 95% CI, 5.26 204.278; p=0.038), respec- tively, 8.9% and 12%, higher compared to the reference allele combination.
+
+Discussion
+
+The major finding of this study is that AAV allele combination is associated with a decreased all-cause mortality risk and with a higher probability to reach the extreme of old age. The analysis also revealed lower HOMA-IR, higher RQ and RMR for AAV allele combination carriers.
+
+Genes in the insulin/IGF1 signaling pathway affect lifespan in yeast, nematodes, fruit flies, and mice (Fontana et al. 2010; Barbieri et al. 2003). Mutation of genes in this signaling pathway confers greater resistance to oxidative stress and phenotypic charac- teristics consistent with delayed and slowed aging. In particular, heterozygous deletion of the IGF1R gene has been shown to causes a modest reduction in size, improves stress resistance and extends life span in mice (Hoizenberger 2003). Furthermore, systemic or neural-specific reduction of the insulin receptor substrate-2 (IRS2) can promote healthy metabolism, attenuate meal-induced oxidative stress, and extend the
+
+Follow-up data
+
+All-cause and cause-specific mortality rates were assessed after a mean follow-up of 6 years. During that time, 227 (31.4%) of the 722 participants had died. Of these, 179 (78.8%) were long-lived subjects, 102 (45%) had died due to cardiovascular diseases (CVD), 34 (15%) due to cancer, and 91 (40%) due to other causes.
+
+Univariate analysis revealed no significant differ- ences in cause-specific mortality risk by Cox regression
+
+Allele combination Frequency Odds ratio (95% CI) p IGF1R IRS2 UCP2 Controls Long-lived G G A 0.27 0.22 1.0 A G A 0.21 0.22 1.286 (0.65–2.54) 0.468 G G V 0.13 0.10 0.932 (0.37–2.32) 0.881 G A A 0.14 0.11 1.084 (0.51–2.27) 0.466 A A A 0.09 0.10 1.226 (0.55–2.72) 0.616 A A V 0.07 0.18 3.185 (1.63–6.19) 0.0006 A G V 0.05 0.04 0.962 (0.36–2.56) 0.938 G A V 0.04 0.02 0.756 (0.26–2.16) 0.601 Polymorphism Allele combination background IGF1R G/A −AV 4.21822 (1.30–13.59) 0.01 IRS2 G/A A–V 3.23002 (1.01–10.33) 0.04 UCP2 A/V AA− 2.49276 (0.95–6.48) 0.06
+
+Allele combination
+
+genetic and/or environmental background may differ- ently modulate the effect of a given gene in different populations.
+
+life span and extend the life span of mice up to 20% (Taguchi et al. 2007). In humans, IGF1R variants have been found associated with susceptibility to metabolic syndrome-related phenotypes, in particular with the risk of having insulin resistance and arterial hyperten- sion (Sookoian et al. 2010). Indeed, we have previously demonstrated that allele A variant at codon 1013 of IGF1R is associated with longevity and with low levels of free plasma IGF-1 (Bonafè et al. 2003) and more recently an overrepresentation of heterozygotes for mutation in IGF1R gene has been found among Jewish female centenarians (Suh et al. 2008). Furthermore, some, but not all, studies have indicated a role for IRS2 gene variants in the pathogenesis of obesity and obesity-associated insulin resistance (Sesti et al. 2001; Stefan et al. 2003). Indeed, we have recently found that subjects with one or two IRS2Asp alleles displayed a greater chance of living between 96 and 104 years of age (Barbieri et al. 2010)
+
+suggested by the ability of UCP2 to reduce ROS and regulate mitochondrial function in a diverse range of tissues (Fridell et al. 2005; Andrews et al. 2009) since mitochondrial dysfunction and ROS production lies at the heart of the aging process. In humans, some, but not all (Klannemark et al. 1998), studies showed that UCP2 gene variants are implicated in diabetes, obesity, and fat metabolism (Zhang et al. 2001) and are strongly linked to resting energy expenditure (Astrup et al. 1999; Buemann et al. 2001; Walder et al. 1998). Interestingly, in our study, AAV haplotype has
+
+Interestingly, in our study, AAV haplotype has been found significantly associated with lower insulin resistance degree and higher energy expenditure parameters.
+
+factor associated with a variety of intermediate pheno- types (hypertension, atherosclerosis, obesity) strongly affecting morbidity, disability and mortality among the elderly (Facchini et al. 2001). By contrast, humans – beyond 85 90 years of age display a preserved insulin — action and centenarians are surprisingly insulin- sensitive. In accordance with previous studies (Barbieri et al. 2008), a remarkably low IR, as well as BMI, WHR, cholesterol, and triglycerides levels was found in our long-lived people, confirming that these individuals are less prone to the metabolic derange- ment normally occurring with aging. Furthermore, as previously demonstrated in a small Italian cohort, despite an age-related decline in energy metabolism parameters, long-lived subjects had greater RQ and RMR compared to aged subjects (Rizzo et al. 2005). It is likely that the overrepresentation of AAV allele combination might help to explain such peculiar phenotype found in long-lived subjects. In fact, through its effect on insulin resistance and energy expenditure parameter AAV allele combination might confer to long-lived subject a better ability to preserve energy metabolism and to delay the age-related metabolic derangement. Indeed, the effect on longevity is supported by the prospective analysis showing AAV allele combination significantly associated with lower all-cause mortality risk. The fact that AAV allele combination has been found associated with a decreased all-cause mortality risk and not with cause-specific mortality risk may suggest that its association with
+
+Recent experimental evidences suggest that the effect of the insulin IGF1 signaling pathway on life span may be partially mediated by regulating the expression of uncoupling protein 2 (UCP2) (Bratic and Trifunovic 2010; Andrews et al. 2005) In flies, over-expressing human UCP2 (hUCP2) to adult neurons resulted in decreased oxidative damage and extended life span without compromising fertility or physical activity (Fridell et al. 2005). Furthermore, a very recent study has demonstrated that the absence of UCP2 shortens life span in wild-type mice, and the level of UCP2 positively correlates with the postnatal survival of superoxide dismutase 2 mutant animals (Andrews and Horvath 2009). Indeed, no difference in relative mortality risk among UCP2 gene variant was observed in a Dutch cohort (van Heemst et al. 2005)
+
+G/A-IGF1R and Pro/Ala IRS2 variants in human longevity and allele combination analysis firstly demonstrate a combined effect of IGF1R, IRS2, and UCP2 genes on longevity being AAV allele combi- nation overrepresented among long-lived subjects. Although test for the univariate association between this UCP2-55T polymorphism and longevity was not statistically significant, however, allele combination analysis indicated that allele combination possessing allele Val of UCP2 is associated with an increased probability to reach extreme old age. Such results support the hypothesis that interaction with a different
+
+protein
+
+(UCP
+
+): a protective stress signal in neuronal injury. Biochem Pharmacol
+
+:
+
+–
+
+Bonafè M, Olivieri F (
+
+) Genetic polymorphism in long-lived people: cues for the presence of an insulin/IGF-pathway- dependent network affecting human longevity. Mol Cell Endocrinol
+
+:
+
+–
+
+Bonafè M, Barbieri M, Marchigiani F, Olivieri F, Ragno E, Giampieri C, Mugianesi E, Centurelli M, Franceschi C, Paolisso G (
+
+) Polymorphic variants of insulin-like growth factor I (IGF-I) receptor andphosphoinositide
+
+- kinase genes affect IGF-I plasma levels and human longevity: cues for an evolutionarily conserved mecha- nism of life span control. J Clin Endocrinol Metab
+
+(
+
+):
+
+–
+
+Bonora E, Targher G, Alberiche M, Bonadonna RC, Saggiani F, Zenere MB, Monauni T, Muggeo M (
+
+) Homeostasis model assessment closely mirrors the glucose clamp technique in the assessment of insulin sensitivity. Studies in subjects with various degrees of glucose tolerance and insulin sensitivity. Diabetes Care
+
+:
+
+–
+
+Bratic I, Trifunovic A (
+
+) Mitochondrial energy metab- olism and ageing. Biochim Biophys Acta
+
+(
+
+–
+
+):
+
+–
+
+Buemann B, Schierning B, Toubro S, Bibby BM, Sørensen T, Dalgaard L, Pedersen O, Astrup A (
+
+) The association between the val/ala-
+
+polymorphism of the uncoupling protein
+
+gene and exercise efficiency. Int J Obes Relat Metab Disord
+
+(
+
+):
+
+–
+
+Chevillotte E, Giralt M, Miroux B, Ricquier D, Villarroya F (
+
+) Uncouplingprotein-
+
+controls adiponectin gene expression in adipose tissue through the modulation of reactive oxygen species production. Diabetes
+
+(
+
+):
+
+–
+
+Conti B, Sanchez-Alavez M, Winsky-Sommerer R, Morale MC, Lucero J, Brownell S, Fabre V, Huitron-Resendiz S, Henriksen S, Zorrilla EP et al (
+
+) Transgenic mice with a reduced core body temperature have an increased life span. Science
+
+:
+
+–
+
+Dalgaard LT, Pedersen O (
+
+) Uncoupling proteins: functional characteristics and role in the pathogenesis of obesity and Type II diabetes. Diabetologia
+
+(
+
+):
+
+–
+
+, Review Diano S, Matthews RT, Patrylo P, Yang L, Beal MF, Barnstable CJ et al (
+
+) Uncoupling protein
+
+prevents neuronal death including that occurring during seizures: a mecha- nism for preconditioning. Endocrinology
+
+(
+
+):
+
+–
+
+Echtay KS (
+
+) Mitochondrial uncoupling proteins—what is their physiological role? Free Radic Biol Med
+
+(
+
+):
+
+–
+
+Esterbauer H, Schneitler C, Oberkofler H, Ebenbichler C, Paulweber B, Sandhofer F, Ladurner G, Hell E, Strosberg AD, Patsch JR, Krempler F, Patsch W (
+
+) A common polymorphism in the promoter of UCP
+
+is associated with decreased risk of obesity in middle-aged humans. Nat Genet
+
+:
+
+–
+
+Facchini FS, Hua N, Abbasi F, Reaven GM (
+
+) Insulin resistance as a predictor of age-related diseases. J Clin Endocrinol Metab
+
+(
+
+):
+
+–
+
+Fontana L, Meyer TE, Kleinamuel S, Holloszy JO (
+
+) Long-term calorie restriction is highly effective in reducing the risk for atherosclerosis in humans PNAS
+
+,
+
+(
+
+):
+
+–
+
+longevity is due to a general effect rather than to a specific diseases process.
+
+Further studies will be necessary for replicating our finding in an independent larger population group with sufficient power to investigate gene– gene and – gene environment interaction. Interaction with a different genetic and/or environmental background may, in fact, differently modulate the effect of a given
+
+In conclusion, our study demonstrates that A- IGF1R/Asp-IRS2/Val-UCP2 allele combination is associated with a decreased all-cause mortality risk and with an increased chance of longevity. Such an effect is probably due to the combined effect of IGF1R, IRS2, and UCP2 genes on energy metabolism and on the age-related metabolic remodeling capacity. Collectively, these data support the hypothesis that those subjects, identified as successfully aged people (free of major age-related diseases and preserved from the metabolic derangement normally occurring with aging) may be genetically advantaged for longevity.
+
+References
+
+link between metabolism and longevity. Curr Aging Sci
+
+(
+
+):
+
+–
+
+Andrews ZB, Horvath T (
+
+) Uncoupling protein
+
+regulates lifespan in mice. Am J Physiol Endocrinol Metab
+
+(
+
+): E
+
+–E
+
+Andrews ZB, Diano S, Horvath TL (
+
+) Mitochondrial uncoupling proteins in the CNS: in support of function and survival. Nat Rev Neurosci
+
+:
+
+–
+
+Argyropoulos G, Harper ME (
+
+) Uncoupling proteins and thermoregulation. J Appl Physiol
+
+:
+
+–
+
+Astrup A, Toubro S, Dalgaard LT, Urhammer SA, Sorensen TI, Pedersen O (
+
+) Impact of the v/v
+
+polymorphism of the uncoupling protein
+
+gene on
+
+-h energy expenditure and substrate oxidation. Int J Obes Relat Metab Disord
+
+(
+
+):
+
+–
+
+Barbieri M, Bonafè M, Franceschi C, Paolisso G (
+
+) Insulin/IGF-I-signaling pathway: an evolutionarily con- served mechanism of longevity from yeast to humans. Am J Physiol Endocrinol Metab
+
+(
+
+):E
+
+–E
+
+Barbieri M, Gambardella A, Paolisso G, Varricchio M (
+
+) Metabolic aspects of the extreme longevity. Exp Gerontol
+
+(
+
+):
+
+–
+
+Barbieri M, Rizzo MR, Papa M, Boccardi V, Esposito A, White MF, Paolisso G (
+
+) The IRS
+
+Gly
+
+Asp variant is associated with human longevity. J Gerontol A Biol Sci Med Sci
+
+(
+
+):
+
+–
+
+Bechmann I, Diano S, Warden CH, Bartfai T, Nitsch R, Horvath TL (
+
+) Brain mitochondrial uncoupling
+
+MC, Lucero J, Brownell S, Fabre V, Huitron-Resendiz Henriksen S, Zorrilla EP et al (
+
+) Transgenic mice a reduced core body temperature have an increased span. Science
+
+:
+
+–
+
+Dalgaard LT, Pedersen O (
+
+) Uncoupling proteins: characteristics and role in the pathogenesis of obesity Type II diabetes. Diabetologia
+
+(
+
+):
+
+–
+
+, Review Diano S, Matthews RT, Patrylo P, Yang L, Beal MF, CJ et al (
+
+) Uncoupling protein
+
+prevents death including that occurring during seizures: a nism for preconditioning. Endocrinology
+
+Echtay KS (
+
+) Mitochondrial uncoupling proteins—what their physiological role? Free Radic Biol Med (
+
+):
+
+–
+
+Esterbauer H, Schneitler C, Oberkofler H, Ebenbichler Paulweber B, Sandhofer F, Ladurner G, Hell E, AD, Patsch JR, Krempler F, Patsch W (
+
+) A polymorphism in the promoter of UCP
+
+is associated decreased risk of obesity in middle-aged humans. Genet
+
+:
+
+–
+
+Facchini FS, Hua N, Abbasi F, Reaven GM (
+
+) resistance as a predictor of age-related diseases. J Endocrinol Metab
+
+(
+
+):
+
+–
+
+Fontana L, Meyer TE, Kleinamuel S, Holloszy JO Long-term calorie restriction is highly effective reducing the risk for atherosclerosis in humans
+
+,
+
+(
+
+):
+
+–
+
+(
+
+) Metabolic effects of the Gly
+
+Asp polymorphism in IRS-
+
+and interactions with obesity. Diabetes
+
+(
+
+):
+
+–
+
+Suh Y, Atzmon G, Cho MO, Hwang D, Liu B, Leahy DJ, Barzilai N, Cohen P (
+
+) Functionally significant insulin-like growth factor I receptor mutations in cente- narians. Proc Natl Acad Sci USA
+
+(
+
+):
+
+–
+
+Sullivan PG, Dube C, Dorenbos K, Steward O, Baram TZ (
+
+) Mitochondrial uncoupling protein-
+
+protects the immature brain from excitotoxic neuronal death. Ann Neurol
+
+(
+
+):
+
+–
+
+Taguchi A, White MF (
+
+) Insulin-like signaling, nutrient homeostasis, and life span. Annu Rev Physiol
+
+:
+
+–
+
+Taguchi A, Wartschow LM, White MF (
+
+) Brain IRS
+
+signaling coordinates life span and nutrient homeostasis. Science
+
+:
+
+–
+
+Teshima Y, Akao M, Jones SP, Marban E (
+
+) Uncoupling protein-
+
+overexpression inhibits mitochondrial death pathway in cardiomyocytes. Circ Res
+
+(
+
+):
+
+–
+
+Thatcher AR, Kannisto V, Vaupel JW (
+
+) The forces of mortality at age
+
+to
+
+Odense Monographs on population Aging. Vol
+
+Odense University Press Tregouet DA, Escolano S, Tiret L, Mallet A, Golmard JL (
+
+) A new algorithm for haplotype-based association analysis: the Stochastic-EM algorithm. Ann Hum Genet
+
+(Pt
+
+):
+
+–
+
+van Heemst D, Beekman M, Mooijaart SP, Heijmans BT, Brandt BW, Zwaan BJ, Slagboom PE, Westendorp RG (
+
+) Reduced insulin/IGF-
+
+signalling and human longevity. Aging Cell
+
+(
+
+):
+
+–
+
+Vogler S, Goedde R, Miterski B, Gold R, Kroner A, Koczan D, Zettl UK, Rieckmann P, Epplen J, Lbrahim S (
+
+) Association of a common polymorphism in the promoter of UCP
+
+with susceptibility to multiple sclerosis. J Mol Med
+
+:
+
+–
+
+Walder K, Norman RA, Hanson RL, Schrauwen P, Neverova M, Jenkinson CP, Easlick J, Warden CH, Pecqueur C, Raimbault S et al (
+
+) Association between uncoupling protein polymorphisms (UCP
+
+-UCP
+
+) and energy metabolism/ obesity in Pima Indians. Hum Mol Genet
+
+(
+
+):
+
+–
+
+Willcox BJ, Willcox DC, Todoriki H, Fujiyoshi A, Yano K, He Q, Curb JD, Suzuki M (
+
+) Caloric restriction, the traditional Okinawan diet, and healthy aging: the diet of the world’s longest-lived people and its potential impact on morbidity and life span. Ann NYAcad Sci
+
+:
+
+–
+
+Yashin AI, De Benedictis G, Vaupel JW, Tan Q, Andreev KF, Iachine IA, Bonafè M, De Luca M, Valensin S, Carotenuto L, Franceschi C (
+
+) Genes, demography and life span: the contribution of demographic data and genetic studies on ageing and longevity. Am J Hum Genet
+
+(
+
+):
+
+–
+
+Yoon Y, Park BL, Cha HM, Kim KS, Cheong HS, Choi YH, Shin HD (
+
+) Effects of genetic polymorphisms of UCP
+
+and UCP
+
+on very low calorie diet-induced body fat reduction in Korean female subjects. Biochem Biophys Res Commun
+
+:
+
+–
+
+Zhang CY, Baffy G, Perret P, Krauss S, Peroni O, Grujic D, Hagen T, Vidal-Puig AJ, Boss O et al (
+
+) Uncoupling protein-
+
+negatively regulates insulin secretion and is a major link between obesity, beta cell dysfunction, and type
+
+diabetes. Cell
+
+:
+
+–
+
+L, Partridge L, Longo VD (
+
+) Extending healthy life span—from yeast to humans. Science
+
+(
+
+):
+
+–
+
+YW, Sánchez-Blanco A, Silvia BA, Helfand SL (
+
+) Targeted expression of the human uncoupling protein
+
+(
+
+CP
+
+) to adult neurons extends life span in the fly. Cell Metab
+
+:
+
+–
+
+M (
+
+) IGF
+
+R regulates lifespan and resistance to oxidative stress in mice. Nature
+
+:
+
+–
+
+DK, Zhu M, Mamczarz J, Zou S, Lane MA, Roth GS, d
+
+abo R (
+
+) Calorie restriction mimetics: an emerging research field. Aging Cell
+
+(
+
+):
+
+–
+
+M, Orho M, Groop L (
+
+) No relationship between identified variants in the uncoupling protein
+
+gene and energy expenditure. Eur J Endocrinol
+
+(
+
+):
+
+–
+
+F, Esterbauer H, Weitgasser R, Ebenbichler C, Patsch JR, Miller K, Xie M, Linnemayr V, Oberkofler H, Patsch W (
+
+) A functional polymorphism in the promoter of UCP
+
+enhances obesity risk but reduces type
+
+diabetes risk in obese middle-aged humans. Diabetes
+
+:
+
+–
+
+LK, Ravussin E (
+
+) Calorie restriction and aging: review of the literature and implications for studies in humans
+
+-
+
+Am J Clin Nutr
+
+:
+
+–
+
+DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, Turner RC (
+
+) Homeostasis model assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man. Diabetologia
+
+:
+
+–
+
+L, Hu D, Huntsman S, Sung A, Chu C, Chen J, Joyner AH, Schork NJ, Hsueh WC, Reiner AP et al (
+
+) Study of osteoporotic fractures. Association of common genetic variation in the insulin/IGF
+
+signaling pathway with human longevity. Aging Cell
+
+(
+
+):
+
+–
+
+J, Bai Y, Daniel KW, Liu D, Lyght O, Edelstein D et al (
+
+) Persistent oxidative stress due to absence of uncoupling protein
+
+associated with impaired pancreatic β-cell function. Endocrinology
+
+(
+
+):
+
+–
+
+MR, Mari D, Barbieri M, Ragno E, Grella R, Provenzano R, Villa I, Esposito K, Giugliano D, Paolisso G (
+
+) Resting metabolic rate and respiratory quotient in human longevity. J Clin Endocrinol Metab
+
+(
+
+):
+
+–
+
+P, Hesselink M (
+
+) UCP
+
+and UCP
+
+in muscle controlling body metabolism. J Exp Biol
+
+(Pt
+
+):
+
+–
+
+, Review G, Federici M, Hribal ML, Lauro D, Sbraccia P, Lauro R (
+
+) Defects of the insulin receptor substrate (IRS) system in human metabolic disorders. FASEB J
+
+(
+
+):
+
+–
+
+G, Cardellini M, Marini MA, Frontoni S, D’Adamo M, Del Guerra S, Lauro D, De Nicolais P, Sbraccia P, Del Prato S, Gambardella S, Federici M, Marchetti P, Lauro R (
+
+) A common polymorphism in the promoter of UCP
+
+contributes to the variation in insulin secretion in glucose-tolerant subjects. Diabetes
+
+:
+
+–
+
+DA (
+
+) Toward a unified theory of caloric restriction and longevity regulation. Mech Ageing Dev
+
+:
+
+–
+
+S, Gianotti TF, Gemma C, Burgueño AL, Pirola CJ (
+
+) Role of genetic variation in insulin-like growth factor
+
+receptor on insulin resistance and arterial hypertension. Hypertension
+
+(
+
+):
+
+–
+
+N, Kovacs P, Stumvoll M, Hanson RL, Lehn-Stefan A, Permana PA, Baier LJ, Tataranni PA, Silver K, Bogardus C

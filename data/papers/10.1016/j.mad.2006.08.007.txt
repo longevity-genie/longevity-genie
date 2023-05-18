@@ -1,0 +1,687 @@
+ScienceDirect
+
+Mechanisms of Ageing and Development 127 (2006) 862–868
+
+www.elsevier.com/locate/mechagedev
+
+heat shock protein 70 level as a biomarker of exceptional longevity
+
+a a a b Dellara F. Terry , Diego F. Wyszynski , Vikki G. Nolan , Gil Atzmon , a a a a Emily A. Schoenhofen , JaeMi Y. Pennington , Stacy L. Andersen , Marsha A. Wilcox a b a c,* Lindsay A. Farrer , Nir Barzilai , Clinton T. Baldwin , Alexzander Asea
+
+aGeriatrics Section, Department of Medicine, Boston University School of Medicine and Boston Medical Center, Boston, MA, USA bDepartment of Medicine, Institute for Aging Research, Diabetes Research and Training Center, Albert Einstein College of Medicine, Bronx, NY, USA cDivision of Investigative Pathology, Scott & White Memorial Hospital and Clinic and The Texas A&M University System Health Science Center College of Medicine, Temple, TX, USA
+
+Received 12 May 2006; received in revised form 16 August 2006; accepted 23 August 2006
+
+Abstract
+
+Heat shock proteins are highly conserved proteins that, when produced intracellularly, protect stress exposed cells. In contrast, extracellular heat shock protein 70 (Hsp70) has been shown to have both protective and deleterious effects. In this study, we assessed heat shock protein 70 for its potential role in human longevity. Because of the importance of HSP to disease processes, cellular protection, and inflammation, we hypothesized that: (1) Hsp70 levels in centenarians and centenarian offspring are different from controls and (2) alleles in genes associated with Hsp70 explain these differences. In this cross-sectional study, we assessed serum Hsp70 levels from participants enrolled in either the New England Centenarian Study (NECS) or the Longevity Genes Project (LGP): 87 centenarians (from LGP), 93 centenarian offspring (from NECS), and 126 controls (43 from NECS, 83 from LGP). We also examined genotypic and allelic frequencies of polymorphisms in HSP70-A1A and HSP70-A1B in 347 centenarians (266 from the NECS, 81 from the LGP), 260 NECS centenarian offspring, and 238 controls (NECS: 53 spousal controls and 106 septuagenarian offspring controls; LGP: 79 spousal controls). The adjusted mean serum Hsp70 levels (ng/mL) for the NECS centenarian offspring, LGP centenarians, LGP spousal controls, and NECS controls were 1.05, 1.13, 3.07, 6.93, respectively, suggesting that a low serum Hsp70 level is associated with longevity; however, no genetic associations were found with two SNPs within two hsp70 genes. #
+
+Keywords: Ageing; Centenarian; Chaperokine; Heat shock proteins;
+
+1. Introduction
+
+cell viability by binding to polypeptide chains and preventing protein denaturation and incorrect assembly intracellularly (Georgopoulos and Welch, 1993; Hartl, 1996). Intracellular Hsp70 is also thought to exert an anti-apoptotic function by binding to the tumor suppressor protein p53 and the cellular transcription factor, c-myc, thereby inhibiting the activation of the caspase cascade (Pinhasi-Kimhi et al., 1986; Koskinen et al., 1991).
+
+Heat shock proteins (HSPs) are highly conserved proteins that function by chaperoning, transporting, and folding proteins when cells are exposed to a variety of stresses. Normally, HSP is expressed at low levels within all known cells; however, in response to various stressful conditions, a self-protective reaction occurs resulting in the synthesis of intracellular HSPs (Lindquist and Craig, 1988; Villar et al., 1993). One particular HSP, the inducible 70-kd heat shock protein (Hsp70), preserves
+
+Although the numerous functions of intracellular Hsp70 have been elucidated, only recently has the role of extracellular Hsp70 (also referred to as serum Hsp70) begun to be addressed. Accumulating evidence indicates that extracellular Hsp70 activates innate immune cells leading to an inflammatory cascade. Prior research has shown that extracellular Hsp70 possesses potent cytokine activity, with the ability to bind with
+
+* Corresponding author. Tel.: +
+
+; fax: +
+
+E-mail addresses: aasea@swmail.sw.org, asea@medicine.tamhsc.edu (A. Asea).
+
+0047-6374/$ – see front matter # 2006 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.mad.2006.08.007
+
+high affinity to the plasma membrane, elicit a rapid intracellular Ca2+ flux, activate the transcription factor NF-kB nuclear translocation, augment the expression and release of pro- inflammatory cytokines (Basu et al., 1998; Asea et al., 2000a,b; Binder et al., 2000), induce nitric oxide release (Panjwani et al., 2002), upregulate co-stimulatory molecule expression (Asea et al., 2002), and induce dendritic cell maturation (Kuppner et al., 2001; Asea et al., 2002; Noessner et al., 2002). These functions can be protective if activated in the context of a cellular insult; however, they can also be detrimental if they lead to excessive inflammation.
+
+whose parents were born in the same years as the centenarians but who died at the average life expectancy for their birth cohort (hereafter referred to as septuagenarian offspring controls). The Longevity Genes Project (LGP) is a study of centenarians of Ashkenazi Jewish descent and unrelated centenarian offspring spousal controls (Atzmon et al., 2004). Both the NECS and LGP defined ‘‘centenarians’’ as individuals aged 95 and older and confirmed their ages with at least one form of government issued identification such as birth certificate or passport. Phenotypic data for both studies were collected by detailed interviews that included questions about demographics, medical history medications, alcohol and tobacco use, and exercise. For the NECS participants, determinations of histories or the presence of the following age- related diseases were made using a validated questionnaire (>90% correlation between the instrument and medical records for all conditions except for cataracts, which had an 88% correlation): coronary artery disease, myocardial infarction, congestive heart failure, arrhythmia, hypertension, diabetes mellitus, cancer, stroke, dementia, osteoporosis, cataracts, glaucoma, macular degenera- tion, depression, Parkinson’s disease, thyroid condition, and chronic obstructive pulmonary disease (COPD). For LGP participants, determinations of a history or the presence of myocardial infarction were made using validated question- naires (Rose, 1962). Determination of hypertension was based on a physical examination done in the participant’s home.
+
+Various studies have examined the relationship of extra- cellular Hsp70 with aging. In their cross-sectional study, Rea et al. (2001) examined serum Hsp70 in 60 individuals with ages ranging from 20 to 96 years. They demonstrated a progressive decline in serum Hsp70 levels in older age groups. Similarly, Jin et al. (2004), in their study of 327 healthy male donors aged between 15 and 50 years, demonstrated a decline in serum Hsp70 at older ages (between 30 and 50) although at younger ages, they noted a positive correlation with age. These findings suggest that serum Hsp70 levels decline at older ages although they do not indicate whether levels decline over time within an individual. They also do not indicate whether there is a decline in Hsp70 function over time although in vitro studies suggest that cell lines from centenarians, when exposed to heat stress, have similar Hsp70 synthesis (Marini et al., 2004), have a similar transcriptional response to the hsp70 gene (Ambra et al., 2004), and are less prone to heat-induced apoptosis when compared to cell lines from younger individuals.
+
+2.2. Measurement of serum heat shock protein levels
+
+Blood samples were collected from 87 LGP centenarian subjects (sera were not available from NECS centenarian subjects), 93 NECS centenarian offspring, and 126 spousal controls (NECS controls: 43, LGP: 83). Blood samples were not obtained in the acute phase of an illness. Once collected, the blood samples were dividedinto aliquots and storedat(cid:2)80 8C.The serawerethen analyzedusing the classical sandwich enzyme-linked immunosorbent assay (ELISA) method pre- viously described by Rea and co-workers (Rea et al., 2001; Pockley et al., 2000) with minor modifications. Briefly, aliquoted serum was thawed and the total protein content was measured by Bradford analysis using bovine serum albumin asastandard.Theserumwasthentreatedwith1%TritonX-100for10 minat4 8C with gentle rocking. Triton X-100 is a mild detergent that dissolves the lipid containing exosomes and releases trapped Hsp70 (Bausero et al., 2005; Clayton etal.,2005;Gastparetal.,2005;LancasterandFebbraio,2005).FollowingTrition X-100 treatment, samples were placed onto 96-well microtitre plates (Nunc Immunoplate Maxisorp; Life Technologies) that had been coated with murine monoclonalanti-humanHsp70(cloneC92F3A-5;StressGen)incarbonatebuffer, pH 9.5 (2 mg/mL) overnight at 4 8C, and then washed with PBS containing 1% Tween 20 (PBS-T) and blocked by incubation with 1% bovine serum albumin in PBS-T. Bound Hsp72 was detected by the addition of rabbit polyclonal anti- Hsp70 antibody (SPA-812; StressGen). Bound polyclonal antibody was detected with alkaline phosphatase-conjugated murine monoclonal antibody to rabbit immunoglobulins (Sigma Chemical Co), followed by p-nitrophenyl phosphate substrate (Sigma Chemical Co). The resultant absorbance was measured at 405 nmwithaBioRadBenmarkPlusplatereader.Standarddose–responsecurves were generated in parallel with Hsp70 (0 to 20,000 ng/mL; StressGen), and the concentrations of Hsp70 were determined by reference to these standard curves with ASSAYZAP data analysis software (BIOSOFT). The interassay variability of the Hsp70 immunoassays was <10%.
+
+centenarian subjects, their offspring, and unrelated controls. Because of the importance of HSP to disease processes, cellular protection, and inflammation, we hypothesized that (1) Hsp70 levels in centenarians and centenarian offspring are different from controls and (2) alleles in genes associated with Hsp70 explain these differences.
+
+Few studies have examined the role of genetics in the relationship between Hsp70 and survival to very old age. Altomare et al. (2003) found that a polymorphism within the hsp70 gene promoter was associated with longevity only in females. Subsequently, Marini et al. (2004) reported that in centenarians, the A/A genotype of the (A/C)- genetic 110 polymorphism in the promoter region was associated with a lower expression of Hsp70 protein after heat stress, in comparison to the C/C genotype. In addition to analyzing serum Hsp70, we examined two single nucleotide polymorph- isms (SNPs) of hsp70 genes for their potential role in exceptional longevity.
+
+2.3. SNP genotyping
+
+Whole blood samples were obtained from 347 centenarians (NECS: 266, LGP: 81), 260 NECS centenarian offspring, and 238 controls (NECS: 53 spousal controls and 106 septuagenarian offspring controls, LGP: 79 spousal controls).Of note,althoughserawerenotavailablefromallNECSsubjectsfor Hsp70assays,wholebloodwasavailableforgeneticstudies.DNAwasisolated from each subject’s peripheral blood leukocytes using the Qiagen DNA purification system (Qiagen, Valencia, CA). Real time PCR based SNP genotyping assays were purchased from Applied Biosystems Assays-on- DemandTMand performedin accordancewiththemanufacturer’sinstructions. Reaction products were analyzed on an ABI Prism 7900 Sequence detection system. HSP70-A1A and HSP70-A1B are encoding genes members of the hsp70 family located within the cluster of human leukocyte antigen class III genes on chromosome 6p21 in the neighborhood of the tumor necrosis factor
+
+2.1. Study population
+
+The criteria for eligibility, methods of recruitment, and study outcomes of the New England Centenarian Study (NECS) have been published elsewhere (Perls et al., 1999; Terry et al., 2003). Briefly, the NECS is an United States nationwide study of centenarians, their offspring, and controls. The controls include (a) spouses of the centenarian offspring and (b) offspring of individuals
+
+Table 1
+
+Characteristics of centenarians, centenarian offspring, and spousal controls enrolled in the NECS and in the LGP, expressed as frequency (percentage of available data) or as mean (standard deviation)
+
+Mean   S.D. or n (%) LGP centenarians NECS centenarian offspring NECS controls LGP controls (n = 87) (n = 93) (n = 43) (n = 83) Mean age, years (SD) 99.9  + 7 2.6*** 72.0  7.2 72.9  7.9 64.4 1+ ¢ 6.3*** Females 64 (73.6) 62 (66.7)* 19 (44.2) 55 (68.8)** Current smoker 1 (1.6) 1 (2.6) 3 (3.6) 6(14.3) Hypertension 40 (47.6)** 24 (28.2)* 18 (47.4) 41 (51.9) History of myocardial infarction 9 (14.3)** 2 (2.4) 4 (10.5) 4 (5.4)
+
+Statistical tests were carried-out to compare (1) LGP centenarians and NECS centenarian offspring (significance shown in the LGP centenarians column), (2) NECS centenarian offspring and NECS controls (significance shown in the NECS centenarian offspring column), and (3) LGP controls and NECS controls (significance shown in the LGP Controls column). Statistical significance is denoted as *p < 0.05, **p < 0.01, and ***p < 0.005.
+
+(TNF) locus. These genes share the characteristic of having only one linkage disequilibrium (LD) block. Thus, we genotyped one tagSNP per gene: rs1043618 (hcv 11917510) in HSP70-A1A and rs6457452 (hcv3052604) in HSP70-A1B.
+
+the controls (Table 1). The youngest ‘‘centenarian’’ is 95-years- old, while the oldest is a female, age 108. The oldest male is 106-years-old. The age range for the NECS centenarian offspring is 54–88 years, for the NECS controls is 57–89, and for the LGP controls is 39–74. Despite being of similar age ( p = 0.497), a higher proportion of NECS centenarian offspring are disease-free compared to the NECS controls. After examining age, gender, race, income, alcohol, cardiovascular disease, and a variety of other age-related diseases in a logistic regression model, low serum Hsp70 level was the only covariate associated with being a centenarian or a centenarian offspring.
+
+2.4. Statistical analyses
+
+Univariate and multivariate statistics comparing LGP centenarians, NECS centenarian offspring, NECS controls and LGP controls were computed using Stata 9.1 statistical software (StataCorp, 2005). Covariates included age, gender, current smoking status, presence of hypertension, and history of myocardial infarction. Fisher’s exact test was used for cells with values less than 5. We compared Hsp70 serum levels among (a) LGP centenarians versus NECS centenarian offspring, (b) LGP centenarians versus LGP controls,and (c) NECS centenarian offspring versus NECS controls using multiple linear regression adjusting for statistically significant covariates. Hardy-Weinberg equilibrium was determined among controls with the x2-test. Genotypic counts and allele frequencies were compared between cases and controls using multi- ple logistic regression. For each SNP, odds ratios (OR) and 95% confidence intervals (CI) were calculated.
+
+The mean and median serum Hsp70 levels (ng/mL) in each group are shown in Table 2, both unstratified and stratified by sex. Fig. 1 graphically depicts the distribution of these measurements. Except for the LGP centenarians, females have slightly higher mean serum Hsp70 levels than males. Remarkably, centenarians and centenarian offspring have unadjusted mean serum Hsp70 levels close to seven-fold lower than those of the NECS controls and approximately three-fold lower than those of the LGP controls. After the mean Hsp70 levels were adjusted for significant covariates, the paired comparison revealed that Hsp70 is significantly lower in NECS offspring than in NECS controls (sex-adjusted p < 0.001) and
+
+3. Results
+
+3.1. Demographics and HSP analyses
+
+As expected, the centenarians are older, predominantly female, and generally sicker than the centenarian offspring and
+
+Serum Hsp70 levels in subject populations (ng/mL)
+
+Males Females Both Sex-adjusted p-value NECS centenarian offspring (n = 93) Mean (S.D.) 0.95 (1.2) 1.10 (1.5) 1.05 (1.4) 0.99 (0.4) <0.001 Median (IQR) 0.61 (0.4) 0.55 (0.4) 0.56 (0.4) NECS controls (n = 43) Mean (S.D.) 6.58 (5.0) 7.36 (6.5) 6.93 (5.7) 6.95 (0.5) Median (IQR) 6.87 (8.0) 6.35 (10.4) 6.79 (9.2) Males Females Both Age-adjusted p-value LGP centenarians (n = 87) Mean (S.D.) 1.69 (2.4) 0.93 (1.1) 1.13 (1.6) 0.62 (0.8) 0.0577 Median (IQR) 0.51 (2.1) 0.49 (1.0) 0.5 (1.0) LGP controls (n = 83) Mean (S.D.) 2.81 (3.2) 3.17 (3.3) 3.07 (3.2) 3.59 (0.8) Median (IQR) 1.59 (3.8) 1.48 (4.9) 1.59 (4.2)
+
+In (mean serum HSP70 levels) in ng/mL-13LGP CentenariansLGP Controls     NECS OffspringNECS Controls   a 4-2    
+
+Fig. 1. Log-transformed serumHsp70 Levelsin Centenarians. Serum was collected from The LongevityGenes Project (LGP) centenarian subjects(upper left panel), LGP controls (upper right panel), New England Centenarian Study (NECS) centenarian offspring (lower left panel) and NECS spousal controls (lower right panel). Serum Hsp70 levels were measured using a modified classical sandwich ELISAwith minor modifications as described in Section 2. Bars in the figure represent the interquartilerangeforserumHsp70levels,linesrepresentmedianserumHsp70levels(ng/mL);dotsintheboxesrepresentmeanserumHsp70levels;anddotsoutside the box represent outerlier values.
+
+there is a trend towards lower Hsp70 among LGP centenarians when compared to LGP controls (age-adjusted p = 0.058).
+
+centenarian offspring. While the suggestion that low serum Hsp70 level may be a predictor of longevity is attractive, we must acknowledge that this study was unable to effectively account for the effects of less prevalent age-related diseases and
+
+3.2. SNP analysis
+
+The genes for the two subunits of hsp70 (HSP70-A1A/ AHSP70-A1B) are located adjacent to each other in a 15 kb interval on human chromosome 6. Both tagSNPs (rs1043618 in HSP70-A1A and rs6457452 in HSP70-A1B) were in Hardy- Weinberg equilibrium. The genotypic and the allelic association analyses revealed no significant difference when LGP centenar- ians were compared to the LGP controls and NECS centenarian offspring were compared to NECS controls (Table 3).
+
+Table 3
+
+Genotypic analysis of tagSNPs in HSP70 for LGP and NECS participants
+
+LGP LGP spousal OR 95% CI centenarians controls rs1043618 GG 32 33 Reference CG 40 32 0.78 0.40–1.51 CC 9 14 1.51 0.58–3.90 Global X2 1.97, p = 0.37 rs6457452 CC 68 67 Reference CT/TT 10 12 1.22 0.50–2.96 X2 p = 0.67 NECS centenarian NECS OR 95% CI offspring controls rs1043618 GG 111 66 Reference CG 119 76 1.07 0.71–1.63 CC 30 17 0.95 0.49–1.85 Global X2 0.18, p = 0.91 rs6457452 CC 225 131 Reference CT/TT 31 28 1.55 0.89–2.69 X2 p = 0.12
+
+4. Discussion
+
+4.1. Serum Hsp70 findings
+
+This study demonstrates that centenarians and centenarian offspring have significantly lower mean serum Hsp70 levels than unrelated controls. Centenarians and centenarian offspring have similar unadjusted levels of Hsp70. Unfortunately, since the offspring of centenarians are unrelated to the centenarians in our study, we can only speculate that the similarity in their Hsp70 levels is consistent with Hsp70 being a heritable trait.
+
+After examining age, gender, race, income, alcohol, cardiovascular disease, and a variety of other age-related diseases in a logistic regression model, low serum Hsp70 level was the only covariate associated with being a centenarian or a
+
+other environmental exposures that might influence both Hsp70 levels and longevity.
+
+in its peptide binding groove (Hsp70-peptide negative proteins), and when it is carrying abnormal peptides (e.g., from viruses, bacteria or parasites). In both situations Hsp70 acts as a danger signal stimulating a potent inflammatory response that includes the release of pro-inflammatory cytokines, chemokines, nitric oxide production and maturation of dendritic cells via the activation of the NF-kB (for review see Asea, 2005). It is postulated that Hsp70 peptide-negative proteins stimulate the host’s innate immune responses, whereas, Hsp70 peptide-bearing proteins stimulate adaptive immune responses (reviewed by Asea, 2005; Calderwood et al., 2005; Pockley, 2003). Inflammation is now well understood to contribute to age-related diseases such as cardiovascular disease (Pockley, 2002; Pockley and Frostegard, 2005). This could explain why the centenarian offspring, who are similarly aged to the controls and have lower rates of cardiovascular disease and cardiovascular risk factors, have significantly lower serum Hsp70 levels (Terry et al., 2003).
+
+Other studies have examined Hsp70 levels in older populations. The Italian centenarian study demonstrated that there were no differences in intracellular Hsp70 among centenarians versus younger controls; however, this study did not examine serum Hsp70. In agreement with our findings, cross-sectional studies carried-out in Ireland (Rea et al., 2001) and in China (Jin et al., 2004) have demonstrated a decline in serum Hsp70 at older ages. It should be noted, however, that none of these studies, including our own, examined the changes in serum Hsp70 in the same individuals over time. Centenarians may differ from other aged subjects since they are already a highly selected surviving fraction of the general population. For example, centenarians have larger lipid particle size when compared to their offspring and younger controls (Barzilai et al., 2003). However, with Hsp70, this does not appear to be the case since LGP centenarian values were similar to those of the NECS offspring cohort.
+
+Finally, it is possible that cell turnover is longer in the long- lived groups and their offspring resulting in a delay of the death pathway. Therefore, less Hsp70 is released to the serum. While controls from both studies had significantly elevated serum Hsp70 levels compared to the centenarians and centenarian offspring, the NECS controls had higher levels than their LGP counterpart. Both groups had samples collected and the Hsp70 assayed using similar methods, making it unlikely that this was the result of technical differences. The LGP controls are younger and comprised of more females than the NECS controls; this may account for some of the difference. In addition, the LGP controls are of Ashkenazi Jewish descent while the NECS controls are ethnically heterogeneous. It is possible that the LGP controls may share more genetic and environmental (i.e., diet and lifestyle) traits compared to the NECS spousal controls, thus abrogating some of the serum Hsp70 elevation. Ultimately, an examination of Hsp70 levels of LGP centenarian offspring may be helpful in elucidating reasons for these differences.
+
+Several reasons could explain why serum Hsp70 levels are lower at very old age. It is possible that cells in these individuals are exposed to similar levels of stress but have a diminished response of the heat shock factor-1 (Hsf-1). Hsf-1 is the transcription factor for Hsp70 and therefore regulates its synthesis in response to stress. Consistent with this, it has been shown in both rat hepatocytes (Wu et al., 1993) and in human T- lymphocyte cultures (Effros et al., 1994) that with age there is a decrease in Hsp70 synthesis. However, a recent study by Hsu et al. (2003) contradicts this hypothesis since Caenorhabditis elegans forced to over express the hsf-1 gene exhibited 40% greater life-span than wild type animals.
+
+stress proteins remains uncertain, it is clear that it is an active process that is not necessarily dependent on a loss of cellular viability (Bausero et al., 2005; Gastpar et al., 2005; Hunter- Lavin et al., 2004; Lancaster and Febbraio, 2005). Thus, another possibility is that cells from very old individuals synthesize the same amount Hsp70 intracellularly but the active release mechanism by which Hsp70 gets into the circulation is defective. This is an intriguing possibility since recent findings demonstrate that disruption of lipid rafts on cell membrane abrogates the release of Hsp70 from live cells (Bausero et al., 2005; Gastpar et al., 2005; Hunter-Lavin et al., 2004; Lancaster and Febbraio, 2005). Depletion of the lipid content of the surface membrane destroys the cells natural ability to release Hsp70 into the extracellular milieu. Consequently, stress- induced release of Hsp70 from cells is completely abrogated. Taken together, our results open the exciting possibility that Hsp70 association with longevity is related to factors down- stream of gene expression.
+
+The relatively low concentration of serum Hsp70 levels in our study compared to those of Rea et al who found that individuals age 90 and older have serum Hsp70 levels of about 20 ng/mL (Rea et al., 2001) does not contradict either study. An elegant study by Njemini et al. (2006) recently demonstrated that whereas both commercial and in-house Hsp70 ELISA are reliable and accurate at detecting Hsp70 in human serum, each gives different absolute values. Serum Hsp70 concentrations of individuals aged >70 years ranged from 0 to 20,000 ng/mL (n = 64) using their in-house ELISA versus 0 to 13.3 ng/mL (n = 64) using the commercially available ELISA kit (Stress- Gen). In the present study, we use a modified ELISA based on the StressGen kit in which we treat the samples with Triton X- 100. It is possible that this accounts for the relatively low serum Hsp70 values in our studies. Differences in the matrix used in in-house versus commercially available Hsp70 ELISA and the possible presence of Hsp70-specific antibodies in serum which might cross-react with epitopes found on serum Hsp70, has been suggested as a possible reason for these differences (Njemini et al., 2006).
+
+It is plausible that those who live to very old age have always had low levels extracellularly. It may be that having low serum Hsp70 is a marker for health and that long-lived individuals have less cellular stress to respond to in the first place. In addition, having lifelong low extracellular Hsp70 levels may result in decreased exposure to inflammation. Hsp70 acts as a danger signal in conditions when it is not chaperoning peptides
+
+4.2. Genetic findings
+
+HSP
+
+-
+
+gene is unfavorable to longevity in women. Biogerontology
+
+,
+
+–
+
+Ambra,R., Mocchegiani, E., Giacconi, R., Canali,R., Rinna, A., Malavolta, M., Virgili, F.,
+
+Characterization of the hsp
+
+response in lymphoblasts from aged and centenarian subjects and differential effects of in vitro zinc supplementation. Exp. Gerontol.
+
+,
+
+–
+
+Asea, A., Kabingu, E., Stevenson, M.A., Calderwood, S.K.,
+
+a. HSP
+
+peptide-bearing and peptide-negative preparations function as chapero- kines. Cell Stress Chaperones
+
+,
+
+–
+
+Asea, A., Kraeft, S.K., Kurt-Jones, E.A., Stevenson, M.A., Chen, L.B., Finberg, R.W., Koo, G.C., Calderwood, S.K.,
+
+b. HSP
+
+stimulates cytokine production through a CD
+
+-dependant pathway, demonstrating its dual role as a chaperone and cytokine. Nat. Med.
+
+,
+
+–
+
+Asea, A., Rehli, M., Kabingu, E., Boch, J.A., Bare, O., Auron, P.E., Stevenson, M.A., Calderwood, S.K.,
+
+Novel signal transduction pathway utilized byextracellular HSP
+
+:role of toll-likereceptor(TLR)
+
+and TLR
+
+J. Biol. Chem.
+
+,
+
+–
+
+Asea, A.,
+
+Stress proteins and initiation of immune response: chaperokine activity of hsp
+
+Exerc. Immunol. Rev.
+
+,
+
+–
+
+Atzmon, G., Schechter, C., Greiner, W., Davidson, D., Rennert, G., Barzilai, N.,
+
+Clinical phenotype offamilies with longevity. J. Am. Geriatr. Soc.
+
+,
+
+–
+
+Basu, S., Suto, R., Binder, R.J., Srivastava, P.K.,
+
+Heat shock proteins as novel mediators of cytokine secretion by macrophages. Cell Stress Chaper- ones
+
+,
+
+–
+
+Barzilai, N., Atzmon, G., Schechter, C., Schaefer, E.J., Cupples, A.L., Lipton, R., Cheng, S., Shuldiner, A.R.,
+
+Unique lipoprotein phenotype and genotype associated with exceptional longevity. JAMA
+
+,
+
+–
+
+Bausero, M.A., Gastpar, R., Multhoff, G., Asea, A.,
+
+Alternative mechan- ism by which IFN-{gamma} enhances tumor recognition: active release of heat shock protein
+
+J. Immunol.
+
+,
+
+–
+
+Binder, R.J., Harris, M.L., Menoret, A., Srivastava, P.K.,
+
+Saturation, competition, and specificity in interaction of heat shock proteins (hsp) gp
+
+, hsp
+
+, and hsp
+
+with CD
+
+b+ cells. J. Immunol.
+
+,
+
+–
+
+Clayton, A., Turkes, A., Navabi, H., Mason, M.D., Tabi, Z.,
+
+Induction of heat shock proteins in B-cell exosomes. J. Cell Sci.
+
+,
+
+–
+
+Calderwood, S.K., Theriault, J.R., Gong, J.,
+
+Message in a bottle: role of the
+
+-
+
+a heat shock protein family in anti-tumor immunity. Eur. J. Immunol.
+
+,
+
+–
+
+Effros, R.B., Zhu, X., Walford, R.L.,
+
+Stress response of senescent T lymphocytes: reduced hsp
+
+is independent of the proliferative block. J. Gerontol.
+
+, B
+
+–B
+
+Gastpar, R., Gehrmann, M., Bausero, M.A., Asea, A., Gross, C., Schroeder, J.A., Multhoff, G.,
+
+Heat shock protein
+
+surface-positive tumor exosomes stimulate migratory and cytolytic activity of natural killer cells. Cancer Res.
+
+,
+
+–
+
+Georgopoulos, C., Welch, W.J.,
+
+Role of the major heat shock proteins as molecular chaperones. Annu. Rev. Cell Biol.
+
+,
+
+–
+
+Hartl, F.U.,
+
+Molecular chaperones in cellular protein folding. Nature
+
+,
+
+–
+
+Hsu, A.L.,Murphy, C.T., Kenyon, C.,
+
+Regulationofaging and age-related disease by DAF-
+
+and heat-shock factor. Science
+
+,
+
+–
+
+Hunter-Lavin, C., Davies, E.L., Bacelar, M.M., Marshall, M.J., Andrew, S.M., Williams, J.H.,
+
+Hsp
+
+release from peripheral blood mononuclear cells. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Jin, X., Wang, R., Xiao, C., Cheng, L., Wang, F., Yang, L., Feng, T., Chen, M., Chen, S., Fu, X., Deng, J., Wang, R., Tang, F., Wei, Q., Tanguay, R.M., Wu, T.,
+
+Serum and lymphocyte levels of heat shock protein
+
+in aging: a
+
+The genotypic and allele frequencies of two functional tagSNPs, rs1043618 in HSP70-A1A and rs6457452 in HSP70- A1B, were examined in centenarians, centenarian offspring, and controls from the NECS and the LGP Ashkenazi Jewish population. Contrary to our hypothesis, we did not demon- strate any genetic associations that explained the differences in serum Hsp70. This could be a true finding or the consequence of the relatively small sample size of our populations. More likely, it is possible that the differences in serum Hsp70 levels that we demonstrated are a downstream effect of genetic differences elsewhere in the metabolic pathway. Future genetic studies of Hsp70 levels could focus on such genes.
+
+4.3. Conclusions
+
+study of serum Hsp70 levels in centenarian offspring compared to controls (Terry et al., 2004) and those of Rea et al. (2001) and Jin et al. (2004), showing that serum Hsp70 levels are lower in those individuals that reach an advanced age. In addition, it suggests that low serum Hsp70 levels are associated with longevity independent of other covariates such as age, gender, race, income, alcohol, cardiovascular disease, and a variety of other age-related diseases. No statistically significant associa- tions were found with two tagSNPs within hsp70 genes. Further investigation is needed to determine why centenarians and centenarian offspring have low levels of serum Hsp70 and to better understand the role of genetic polymorphisms in this observation.
+
+heat shock protein
+
+J. Immunol.
+
+,
+
+–
+
+Binder, R.J., Harris, M.L., Menoret, A., Srivastava, P.K.,
+
+Saturation, competition, and specificity in interaction of heat shock proteins (hsp) gp
+
+, hsp
+
+, and hsp
+
+with CD
+
+b+ cells. J. Immunol.
+
+,
+
+–
+
+Clayton, A., Turkes, A., Navabi, H., Mason, M.D., Tabi, Z.,
+
+Induction of heat shock proteins in B-cell exosomes. J. Cell Sci.
+
+,
+
+–
+
+Calderwood, S.K., Theriault, J.R., Gong, J.,
+
+Message in a bottle: role of the
+
+-
+
+a heat shock protein family in anti-tumor immunity. Eur. J. Immunol.
+
+,
+
+–
+
+Effros, R.B., Zhu, X., Walford, R.L.,
+
+Stress response of senescent T lymphocytes: reduced hsp
+
+is independent of the proliferative block. J. Gerontol.
+
+, B
+
+–B
+
+Gastpar, R., Gehrmann, M., Bausero, M.A., Asea, A., Gross, C., Schroeder, J.A., Multhoff, G.,
+
+Heat shock protein
+
+surface-positive tumor exosomes stimulate migratory and cytolytic activity of natural killer cells. Cancer Res.
+
+,
+
+–
+
+Georgopoulos, C., Welch, W.J.,
+
+Role of the major heat shock proteins as molecular chaperones. Annu. Rev. Cell Biol.
+
+,
+
+–
+
+Hartl, F.U.,
+
+Molecular chaperones in cellular protein folding. Nature
+
+,
+
+–
+
+Hsu, A.L.,Murphy, C.T., Kenyon, C.,
+
+Regulationofaging and age-related disease by DAF-
+
+and heat-shock factor. Science
+
+,
+
+–
+
+Hunter-Lavin, C., Davies, E.L., Bacelar, M.M., Marshall, M.J., Andrew, S.M., Williams, J.H.,
+
+Hsp
+
+release from peripheral blood mononuclear cells. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Jin, X., Wang, R., Xiao, C., Cheng, L., Wang, F., Yang, L., Feng, T., Chen, M., Chen, S., Fu, X., Deng, J., Wang, R., Tang, F., Wei, Q., Tanguay, R.M., Wu, T.,
+
+Serum and lymphocyte levels of heat shock protein
+
+in aging: a study in the normal Chinese population. Cell Stress Chaperones
+
+,
+
+–
+
+Koskinen, P.J., Sistonen, L., Evan, G., Morimoto, R., Alitalo, K.,
+
+Nuclear colocalization of cellular and viral myc proteins with HSP
+
+in myc- overexpressing cells. J. Virol.
+
+,
+
+–
+
+Kuppner, M.C., Gastpar, R., Gelwer, S., Nossner, E., Ochmann, O., Scharner, A., Issels, R.D.,
+
+The role of heat shock protein (hsp
+
+) in dendritic cell maturation: Hsp
+
+induces the maturation of immature dentritic cells but reduces DC differentiation from monocyte precursors. Eur. J. Immunol.
+
+,
+
+–
+
+Acknowledgements
+
+The authors thank Susana Fiorentino for helpful discus- sions and Edwina Asea and Diana T. Page for expert technical assistance. This work was supported in part by the National Institute on Aging grant K08AG22785 (to DFT); Paul Beeson Physician Faculty Scholar in Aging Awards (to DFT, TP, NB), the Ellison Medical Foundation Senior Scholar Award and RO1 AG-18728-01A1 (to N.B); the National Institutes of Health grant RO1CA91889, institu- tional support from Scott & White Memorial Hospital and Clinic, Texas A&M University System Health Science Center College of Medicine, the Central Texas Veterans Health Administration and an Endowment from the Cain Foundation (to A.A).
+
+References
+
+Altomare, K., Greco, V., Bellizzi, D., Berardelli, M., Dato, S., DeRango, F., Garasto, S., Rose, G., Feraco, E., Mari, V., Passarino, G., Franceschi, C., De
+
+D.F. Terry et al./Mechanisms of Ageing and Development 127 (2006) 862–868
+
+Lancaster, G.I., Febbraio, M.A.,
+
+Exosome-dependent trafficking of HSP
+
+: a novel secretory pathway for cellular stress proteins. J. Biol. Chem.
+
+,
+
+–
+
+Lindquist,S.,Craig, E.A.,
+
+Theheat-shockproteins.Annu.Rev. Genet.
+
+,
+
+–
+
+Marini, M., Lapalombella, R., Canaider, S., Farina, A., Monti, D., De Vescovi, V., Morellini, M., Bellizzi, D., Dato, S., De Benedictis, G., Passarino, G., Moresi, R., Tesei, S., Franceschi, C.,
+
+Heat shock response by EBV- immortalized B-lymphocytes from centenarians and control subjects: a model to study the relevance of stress response in longevity. Exp. Gerontol.
+
+,
+
+–
+
+Njemini, R., Demanet, C., Mets, T.,
+
+Comparison of two ELISAs for the determination of Hsp
+
+in serum. J. Immunol. Methods
+
+,
+
+–
+
+Noessner, E., Gastpar, R., Milani, V., Brandl, A., Hutzler, P.J., Kuppner, M.C., Roos, M., Kremmer, E., Asea, A., Calderwood, S.K., Issels, R.D.,
+
+Tumor-derived heat shock protein
+
+peptide complexes are cross- presented by human dendritic cells. J. Immunol.
+
+,
+
+–
+
+Panjwani, N.N., Popova, L., Srivastava, P.K.,
+
+Heat shock proteins gp
+
+and hsp
+
+activate the release of nitric oxide by APCs. J. Immunol.
+
+,
+
+–
+
+Perls, T.T., Bochen, K., Freeman, M., Alpert, L., Silver, M.H.,
+
+Validity of reported age and centenarian prevalence in New England. Age Ageing
+
+(
+
+),
+
+–
+
+Pinhasi-Kimhi, O., Michalovitz, D., Ben-Zeev, A., Oren, M.,
+
+Specific interaction between the p
+
+cellular tumour antigen and major heat shock proteins. Nature
+
+,
+
+–
+
+Pockley, A.G., Wu, R., Lemne, C., Kiessling, R., de Faire, U., Frostegard, J.,
+
+Circulating heat shock protein
+
+is associated with early cardio- vascular disease. Hypertension
+
+(
+
+),
+
+–
+
+Pockley, A.G.,
+
+Heat shock proteins, inflammation, and cardiovascular disease. Circulation
+
+,
+
+–
+
+Pockley, A.G.,
+
+Heat shock proteins as regulators of the immune response. Lancet
+
+,
+
+–
+
+Pockley, A.G., Frostegard, J.,
+
+Heat shock proteins in cardiovascular disease and the prognostic value of heat shock protein related measure- ments. Heart
+
+,
+
+–
+
+Rea,I.M., M
+
+erlan,S., Pockley,A.G.,
+
+Serumheatshock proteinandanti- heat shock protein antibody levels in aging. Exp. Gerontol.
+
+,
+
+–
+
+Rose, G.,
+
+The diagnosis of ischaemic heart pain and intermittent claudication in field surveys. Bull. World Health Organ.
+
+,
+
+–
+
+Stat
+
+orp, L.P.,
+
+Stata/SE
+
+for Windows. College Station, TX. Terry, D.F., M
+
+ormick, M., Andersen, S., Pennington, J., Schoenhofen, E., Palaima, E., Bausero, M., Gor, D., Perls, T., Asea, A.,
+
+Cardiovascular disease delay in centenarian offspring: role of heat shock proteins. Ann. N.Y. Acad. Sci.
+
+,
+
+–
+
+Terry, D.F., Wilcox, M., M
+
+ormick, M.A., Lawler, E., Perls, T.T.,
+
+Cardiovascular advantages among the offspring of centenarians. J. Ger- ontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M
+
+Villar, J., Edelson, J.D., Post, M., Mullen, J.B., Slutsky, A.S.,
+
+Induction of heat stress proteins is associated with decreased mortality in an animal model of acute lung injury. Am. Rev. Respir. Dis.
+
+,
+
+–
+
+Wu, B., Gu, M.J., Heydari, A.R., Richardson, A.,
+
+The effect of age on the synthesis of two heat shock proteins in the hsp
+
+family. J. Gerontol.
+
+, B
+
+–B
+
+Palaima, E., Bausero, M., Gor, D., Perls, T., Asea, A.,
+
+Cardiovascular disease delay in centenarian offspring: role of heat shock proteins. Ann. N.Y. Acad. Sci.
+
+,
+
+–
+
+Terry, D.F., Wilcox, M., M
+
+ormick, M.A., Lawler, E., Perls, T.T.,
+
+Cardiovascular advantages among the offspring of centenarians. J. Ger- ontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M
+
+Villar, J., Edelson, J.D., Post, M., Mullen, J.B., Slutsky, A.S.,
+
+Induction of heat stress proteins is associated with decreased mortality in an animal model of acute lung injury. Am. Rev. Respir. Dis.
+
+,
+
+–
+
+Wu, B., Gu, M.J., Heydari, A.R., Richardson, A.,
+
+The effect of age on the synthesis of two heat shock proteins in the hsp
+
+family. J. Gerontol.
+
+, B
+
+–B

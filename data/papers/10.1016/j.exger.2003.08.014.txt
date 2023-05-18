@@ -1,0 +1,705 @@
+Experimental Gerontology 39 (2004) 637–644
+
+www.elsevier.com/locate/expgero
+
+markers contributing to successful aging in
+
+Elissaveta Anastasia Mihaylova, Milena Ivanova, Snejina Michailova, Kalina Penkova, Daniela Baltadjieva
+
+Central Laboratory of Clinical Immunology, University Hospital Alexandrovska, 1 Georgy Sofiisky Str., 1431 Sofia, Bulgaria
+
+Received 18 July 2003; received in revised form 4 August 2003; accepted 13 August 2003
+
+Abstract
+
+In order to clarify immunogenetic markers contributing to successful aging, HLA and cytokine gene profiles were analyzed in healthy elderly Bulgarians. Family segregation analysis was performed to define combined effect of haplotypes and immunophenotype profiles. The results of this study did not reveal any statisticaly significant allele and haplotype frequency differences between elderly and control group. In families with two generations longevity members we did not observed HLA alleles and haplotypes associated with autoimmunity. IL-10 genotype 21082G/A, 2819 C/C, 2592 C/C, related to the intermediate production, was positively associated, while genotype 21082A/A, 2819 C/T, 2592 C/A, related to the low level of production, was negatively associated with longevity in Bulgarians. This effect was modulated by IL-6 and IFNg genotypes associated with the low level of these pro-inflammatory cytokines. Immunophenotypic studies indicated lower relative and absolute numbers of CD3 þ 8 þ , CD8 þ 28 þ and CD8 þ 57 þ cells in elderly people. Analysis in familes showed that although most pronounced in the elderly group, lower numbers of CD8 þ T cells were also found in middle aged and young members of the families compared to the age matched controls. A progressive CD8 þ 28 þ cell subsets decline was seen with aging. In addition, we did not observed the ‘immune risk phenotype’ which is a marker of an increased inflammatory activity. Based on the results of this study, it seems reasonable to suggest that a combination of specific immunogenetic and immunophenotype profiles could contribute to the successful aging and to maintaining healthy status in elderly.
+
+Keywords: Aging; HLA; Cytokine gene polymorphism; Lymphocyte subsets; Bulgarians
+
+1. Introduction
+
+individuals (Pawelec et al., 1997). The absolute number of CD4 þ and CD8 þ T cells decreases with age from 20 to 100 years (Doria and Frasca, 1997). In the elderly, the increase in the relative proportion of CD8 lymphocytes lacking CD28 has been recognized (Fagnoni et al., 1996; Nociari et al., 1999). An ‘immunological risk phenotype’ (low CD4 count, high CD8 count, decreased IL-2 production and mitogen responssivness together with CD28 negativity and CD57 positivity) has been found as predictive of shorter remaining life span in the very old population (Ferguson, 1995; Wikby et al., 1998; Olsson et al., 2000). Family segregation analysis has shown that CD4, CD8 and CD4/CD8 ratio are under genetic control (Amadori et al., 1995; Clementi et al., 1999). The level of immune responses as well as possibly longevity could be associated with genes regulating immune function (Modica et al., 1990). Although case-control data are still contro- versial (Caruso et al., 2000), it was suggested that longevity could be associated with MHC and cytokine gene polymorphisms. HLA alleles and haplotypes relevant
+
+The human mean life span has been enhanced greatly since antiquity as a result of better health and living conditions. The average life span of the Bulgarian population is 71.8 years (68.5 years for male and 75.2 years for female). The majority of the population is between 25–64 years old (541%), 16.9 percent is between 64 and 95 years old, and a very small proportion (,0.05%) is 95 and 99 years old and centenarians.
+
+Aging is a very complex process and longevity is a multifactorial trait, which is determined by genetic and environmental factors. Since it is too difficult to study aging as a whole, investigations try to focus on a specific physiological system that exhibits age-dependent functional changes. Immune remodeling and numerous changes in T-lymphocyte subset profiles were observed in elderly
+
+* Corresponding author. Tel.: þ3592-9230-690; fax: þ3592-9230-496. E-mail address: immun@medun.acad.bg (E. Naumova).
+
+E. Naumova et al. / Experimental Gerontology 39 (2004) 637–644
+
+to susceptibility or resistance to infectious and autoimmune diseases (Dawkins et al., 1999; Thorsby, 1997) have been disscused. A positive association with longevity was found for HLA alleles DRB1*07, *11, *13 (Lagaay et al., 1991; Ivanova et al., 1998) and for the ancestral haplotype HLA- B8-DR3 (Proust et al., 1982; Rea and Middleton, 1994). Genetic diversity of pro- and anti inflammatory cytokines, that affects gene transcription causing variations in cytokine production might influence successful aging and longevity by modulating an individual’s response to life-threatening disorders (Bruunsgaard et al., 2001; Ershler and Keller, 2000; Volpato et al., 2001). IL-10 21082G involved in high-production of this anti-inflammatory cytokine is positively associated (Lio et al., 2002a,b), while IFN-g þ874 T (Lio et al., 2002a,b) and IL-6 2174G (Bonafe et al., 2001) allele involved in high production of these pro- inflammatory cytokines show negative gender specific association with longevity.
+
+years, mean age: 78.9 8.9 years)—6 male and 11 female, and 23 family members (age 18–57 years)—9 male and 14 female were included. The control group consisted of 105 randomly selected, matched for geographical distribution healthy controls aged 25–53 years (40 male and 65 female). For the T-cell subset study 47 individuals were randomly selected among the total control population. Twenty one of ^ them were young (mean age: 27.3 2.4 years) and 26- ^ middle-aged (mean age: 40.4 5.8 years) subjects with a male/female ratio 1:2 in the two groups. All individuals included in the analysis did not suffer from any chronic physical or mental disease, and did not experience any acute infection in the last 4 months before the enrolment. Their hematological and biochemical parameters were within the normal ranges. The blood samples were obtained after an informed consent.
+
+HLA and cytokine gene polymorphism
+
+In order to clarify immunogenetic markers contributing to successful aging, HLA and cytokine gene profiles were analyzed in healthy elderly Bulgarians. Family segregation analysis was performed to define combined effect of haplotypes and immunophenotype profiles.
+
+Genomic DNA was extracted from whole venous blood using the standard proteinase K digestion method followed by salting-out extraction and ethanol precipitation (Miller et al., 1988). HLA class I (HLA-A, -B, and -C) and class II (-DRB, and -DQB1) genotyping was performed by PCR- SSP method using GENOVISIONe kits.
+
+2. Material and methods
+
+Gene polymorphism of TNFa, TGFb1, IL-10, IL-6, and IFNg was tested by PCR-SSP method with Cytokine Genotyping Tray OneLambda. Eight polymorphism, previously shown to be associated with the level of cytokine production were analyzed (Table 1).
+
+2.1. Subjects
+
+Ten families with longevity members from the Bulgarian population were analyzed in the present study. The following criteria for family selection were applied: two generation longevity members (octogenarians and nona- genarians) and no family history of inherited diseases. A total of 40 individuals: 17 unrelated elderly (age 65–90
+
+2.3. Flow cytometric analysis of T-cell
+
+Completebloodcellcountswereassessedforeachsubject. Peripheral blood lymphocyte subsets were determined by
+
+Table 1
+
+between analyzed cytokine gene polymorphism and level of
+
+Cytokine polymorphism Genotype Level of production Reference TNF-a (2308) G/G Low Kroeger et al. (2000) G/A, A/A High Haung et al. (1999) TGF-b1 (codons 10,25) T/T G/G, T/C G/C High Awad et al. (1998) T/C G/C, C/C G/G, T/T G/C Intermediate Awad et al. (1998) C/C G/C, C/C C/C, T/T C/C, T/C C/C Low Awad et al. (1998) IL-10 (21082, 2 819, 2 592) GCC/GCC High Crawley et al. (1999) GCC/ACC, GCC/ATA Intermediate Maurer et al. (2000) ACC/ACC, ACC/ATA, ATA/ATA Low Crawley et al. (1999) IL-6 (2174) G/G G/C High Fishman et al. (1998) C/C Low Fishman et al. (1998) IFN-g (þ874) T/T High Turner et al. (1997) T/A Intermediate Turner et al. (1997) A/A Low Turner et al. (1997)
+
+E. Naumova et al. / Experimental Gerontology 39 (2004) 637–644
+
+Flow cytometric analysis using a panel of monoclonal antibodies (Becton-Dickinson, USA). Direct four-color immunofluorescence in whole blood was performed accord- ing to standard techniques. FACSCalibur flow cytometer, CellQuest and Multitest softwares (Becton Dickinson, USA) were used for data acquisition and analysis. Results were documented as % positive cells and cells/mm3.
+
+the Arlequin program v1.1 (Shneider et al., 1996). Standard deviations were calculated from 100 bootstrap iteractions. Hardy–Weinberg equilibrium was tested by two methods: a hidden Markov chain with 100,000 steps, implemented in the Arlequin program and a conventional x2 heterosigosity test. Arlequin software was also used to estimate through an expectation-maximization (EM) (Slatkin and Excoffier, 1996) algorithm maximum-likelihood frequencies of hap- lotypes defined in family studies.
+
+Comparisons of HLA allele and haplotype frequencies, and pro- and anti-inflammatory cytokine genotypes between elderly individuals and controls were performed by x2 test
+
+HLA class I and class II allele frequencies were estimated by maximum-likelihood analysis using
+
+Table 2
+
+class I and class II allele frequencies in elderly Bulgarians compared to the controls
+
+HLA allele Allele frequency P Pc HLA allele Allele frequency P Pc Elderly Controls Elderly Controls HLA-A HLA-C *01 0.118 0.099 *01 0.059 0.071 *02 0.412 0.333 *02 0.000 0.090 ,0.05 ns *03 0.088 0.057 *03 0.088 0.052 *11 0.088 0.056 *04 0.235 0.167 *23 0.029 0.040 *05 0.000 0.038 *24 0.059 0.131 *06 0.029 0.071 *25 0.029 0.020 *07 0.265 0.205 *26 0.029 0.048 *08 0.029 0.048 *29 0.000 0.016 *12 0.118 0.138 *30 0.029 0.016 *14 0.029 0.038 *31 0.059 0.036 *15 0.118 0.043 *32 0.029 0.044 *16 0.000 0.029 *33 0.000 0.032 *17 0.029 0.009 *36 0.000 0.004 *68 0.000 0.040 DRB1 *69 0.029 0.008 *01 0.118 0.143 HLA-B *03 0.059 0.075 *07 0.000 0.048 *04 0.088 0.095 *08 0.059 0.032 *07 0.000 0.060 *13 0.029 0.016 *08 0.029 0.020 *14 0.029 0.036 *1001 0.000 0.012 *15 0.043 0.016 *11 0.235 0.218 *18 0.147 0.083 *12 0.059 0.008 ,0.05 ns *27 0.000 0.048 *13 0.176 0.115 *35 0.265 0.131 ,0.05 ns *14 0.059 0.067 *37 0.000 0.004 *15 0.059 0.075 *38 0.029 0.036 *16 0.118 0.111 *39 0.029 0.024 *40 0.029 0.075 DQB1 *41 0.029 0.012 *02 0.059 0.098 *42 0.000 0.004 *03 0.382 0.402 *44 0.088 0.087 *04 0.059 0.009 *47 0.000 0.008 *05 0.294 0.366 *49 0.029 0.028 *06 0.206 0.116 *50 0.000 0.020 *51 0.147 0.194 *52 0.000 0.036 *53 0.000 0.008 *55 0.059 0.020 *56 0.000 0.008 *57 0.000 0.012 *58 0.000 0.016
+
+E. Naumova et al. / Experimental Gerontology 39 (2004) 637–644
+
+or Fisher’s exact test when appropriate. Bonferoni correc- tion for multiple comparisons was applied. For T cell subset analysis the statistical significance was evaluated using non- parametric Mann–Whitney U-test. P-value lower than 0.05 was considered to indicate a significant difference between groups.
+
+the differences were not statistically significant after correction of p-values. HLA-C*02 was not found in the elderly group.
+
+Two-loci (HLA-DRB1-DQB1), three-loci (HLA-A-B-C; HLA-A-B-DRB1) and extended (HLA-A-B-C-DRB1- DQB1) haplotypes were defined based on allele inheritance in the families (Fig. 1). Fifty different haplotypes were found in families with longevity members. The majority of these haplotypes were observed also in the control group. Interestingly, haplotypes DRB1*0301-DQB1*02 and DRB1*04 (0401,0402,0404,0405)-DQB1*0302, shown to be predisposing for different autoimune diseases in the Bulgarian population (Ivanova et al., 2003) were not observed in elderly Bulgarians and their family members. The most frequent haplotypes in elderly individuals are presented in Table 3. Compared to the controls in the elderly group an increased frequency was observed for the following haplotypes: A*02-B*35-C*04, A*01-B*08- C*12, A*01-B*35-C*04, A*02-B*35-DRB1*13, A*01-B*08-DRB1*03, A*03-B*35-DRB1*01, A*02- B*35-C*04-DRB1*13-DQB1*06, and A*01-B*08-C*07- DRB1*03-DQB1*02, but a statistical significance was not found after Bonferoni correction. Additionally, the haplo- type DRB1*12-DQB1*03 was found only in the elderly individuals (elderly 0.058, controls 0.000).
+
+3. Results
+
+HLA-A, -B, -C, -DRB1 and -DQB1 allele frequencies in elderly Bulgarians compared to the control group are shown in Table 2. Seventy-three different alleles were found in the present study- 51 (12 HLA-A, 14 HLA-B, 10 HLA-C, 10 DRB1, and 5 DQB1) in elderly and 72 (16 HLA-A, 26 HLA-B, 13 HLA-C, 12 DRB1, 5 DQB1) in control group. No deviations from Hardy–Weinberg equilibrium were observed in both groups. The most frequent HLA alleles in elderly Bulgarians were as follow: A*02, *01; B*35, *18, *51; C*07, *04; DRB1*11, *13; DQB1*03, *05. All these alleles were observed with high frequency in the control group. HLA-B*35 and -DRB1*12 allele groups showed a higher frequency in elderly population, however
+
+70 years 70 years 70 years                                NkBA*02-B*18-C*12-DRB1*16-DQB1*05A*02-B*51-C*15-DRB1*11-DQB1*03TNFaG/G(L):TGFbC/CG/G(D);IL-10GCC/ACC(D;IL-6C/C(L):; IFNgT/A(I)MaPA*01-B*35-C*04-A*03-B*40-C*03-DRB 1*15-LITNFaG/G(L):TGFbT/CG/G(HIL-10GCC/ATA();IL-6C/C(LC*04-DRB1*12-DQB1*03TNFaG/G(L);TGFbT/TG/G(H):IL-10GCC/ATA(D):IL-6G/G(H); IFNgT/A(I)  BiPA*01-B*35-C*04A*02-B*18-C*12-DRB1*16-DQB1*05TNFaG/G(L); TGFbT/CG/G(H);IL-10ATA/GCC(D;IL-6G/C(H); IFNgT/T(H)A*01-B*35-C*04-A*02-B*44-C*07-DRB1*16-DQB1*05TNFaG/A(H):TGFbT/TG/G(H):IL-10ACC/ATA(L);IL-6C/C(L):IFNgT/T(H) BsP NkPA*02-B*18-C*12-DRB1*16-DQB1*05 A*02-B*18-C*12D-RB1*16-DQB1*05A*01-B*35-C*04- A*01-B*35-C*04-TNFaG/G(L): TGFbT/CG/G(H): TNFaG/G (L):TGFbT/CG/G (H);IL-1OACC/ATA(L);IL-6G/C(H):IFNgT/T(H) IL-10 ATA/ATA(L);IL-6G/C(H);IFNgT/T(H)
+
+Fig. 1. Inheritance of HLA and cytokine haplotypes in a family with longevity members.
+
+E. Naumova et al. / Experimental Gerontology 39 (2004) 637–644
+
+Table 3
+
+The most frequent haplotypes in elderly Bulgarians compared to the controls
+
+Haplotype Haplotype frequency P Pc Elderly Controls DRB1*11–DQB1*03 0.235 0.256 DRB1*13–DQB1*06 0.147 0.071 A*02–B*35–C*04 0.117 0.033 ,0.05 ns A*01–B*08–C*12 0.059 0.000 ,0.05 ns A*01–B*35–C*04 0.059 0.000 ,0.05 ns A*02–B*35–DRB1*13 0.088 0.024 A*01–B*08–DRB1*03 0.058 0.016 A*03–B*35–DRB1*01 0.058 0.000 ,0.05 ns A*02–B*35–C*04–DRB1*13–DQB1*06 0.088 0.000 ,0.05 ns A*01–B*08–C*07–DRB1*03–DQB1*02 0.058 0.038
+
+3.2. Cytokine gene polymorphism
+
+lymphocyte pool were detected in elderly people compared to both control groups. However, the CD28 2 cells represented a significantly ðp , 0: 01Þ higher proportion (55.4 ^ 10.7%) within CD8 þ lymphocytes in elderly ^ people compared to the controls (40.0 14.8%).
+
+Genotypes of pro- and anti-inflamatory cytokines observed in elderly Bulgarians in comparison to the control group are shown in Table 4. Genotype profile frequencies of pro-inflammatory cytokines TNFa, IL-6, and IFN-g did not show statistically significant differences between the two groups studied. Similar results were observed for genotype frequencies of anti-inflammatory cytokine TGFb. On the other hand, significant differences between elderly and control group were found for two genotypes of IL-10. The genotype GCC/ACC, that is associated with intermediate level of IL-10 production, was increased, while the genotype ACC/ATA, that is associated with low level of IL-10 production, was decreased in elderly Bulgarians.
+
+Analysis of the numbers of CD8 þ and CD4 þ cell subsets were also performed in families. Family members
+
+Table 4
+
+Pro- and anti-inflammatory cytokine genotypes in elderly Bulgarians and the control group
+
+Genotype Genotype frequency P Elderly Controls TNFa2 308 G/A (high) 0.294 0.240 G/G (low) 0.706 0.760 IL-6 2 174 G/G (high) 0.353 0.540 G/C (high) 0.471 0.220 C/C (low) 0.176 0.240 IFNgþ 874 T/T (high) 0.118 0.160 T/A (intermediate) 0.588 0.580 A/A (low) 0.294 0.260 IL-10 2 1082, 2819, 2592 GCC/GCC (high) 0.118 0.100 GCC/ACC (intermediate) 0.353 0.120 ,0.05 GCC/ATA (intermediate) 0.118 0.260 ACC/ACC (low) 0.235 0.080 ACC/ATA (low) 0.059 0.280 ,0.05 ATA/ATA (low) 0.118 0.160 TGFbcodons 10, 25 T/T G/G (high) 0.294 0.360 T/C G/G (high) 0.294 0.320 C/C G/G (intermediate) 0.235 0.180 T/C G/C (intermediate) 0.059 0.080 T/T G/C (intermediate) 0.059 0.000 T/T C/C (low) 0.000 0.020 C/C G/C (low) 0.059 0.040
+
+In order to assess the impact of combinations of genotypes, associated with different level of expression we analyzed cytokine gene profiles. IL-10 (intermediate)- IL-6 (low) (0.118 vs. 0.061) and IL-10 (intermediate)-IFNg (low) (0.176 vs. 0.061) showed statistically significant increase in elderly Bulgarians compared to the controls. Similar result was observed for gene profile IL-6 : (low) - IFNg (low) (0.118 vs. 0.020, p , 0 05).
+
+3.3. T-cell subsets
+
+The values of various T-cell subsets, including CD28 þ , CD28 2 , and CD57 þ phenotypes were examined in elderly, middle-aged and young randomly selected healthy individuals (Table 5). Significantly lower relative and absolute numbers of CD3 þ 8 þ ðp , 0; 02Þ and CD8 þ 28 þ ðp , 0: 01Þ cells were found in elderly people compared to both middle-aged and young ones. Decreased CD8 þ 57 þ cells ðp , 0: 05Þ were observed in old individuals in comparison with middle-aged subjects. The lower percentage of CD8 þ T cells was more pronounced (,12%) in individuals aged over 85 years. No significant changes in the values of CD8 þ 28 2 , CD4 þ 28 þ and CD4 þ 28 2 cell subsets in the peripheral blood
+
+E. Naumova et al. / Experimental Gerontology 39 (2004) 637–644
+
+Table 5
+
+Phenotype distribution of T-cell subsets (%, cells/mm3) in elderly compared to middle-aged and young subjects
+
+CD3 þ T-cells CD3 þ 4 þ CD3 þ 8 þ CD8 þ 57 þ CD8 þ 28 þ CD8 þ 28 2 CD4 þ 28 þ CD4 þ 28 2 Elderly 70.4 ^ 6.45 49.9 ^ 10.15 17.62 ^ 4.82**3 7.5 ^ 2.61* 10.1 ^ 3.33*** 10.33 ^ 4.33 46.4 ^ 12.4 3.4 ^ 3.3 ðn ¼ 17Þ 1229 ^ 456 850 ^ 289 12 ^ 149** 124 ^ 65* 177 ^ 96*** 172 ^ 63 728 ^ 264 53 ^ 42 Middle-aged 74.7 ^ 7.1 46.9 ^ 8.6 28.0 ^ 5.9 11.4 ^ 5.1 16.9 ^ 3.8 12.6 ^ 7.2 44.9 ^ 6.9 3.2 ^ 3.1 ðn ¼ 26Þ 1499 ^ 517 948 ^ 316 548 ^ 208 223 ^ 125 324 ^ 114 235 ^ 142 881 ^ 312 59 ^ 57 Young 74.18 ^ 7.37 47.6 ^ 6.26 27.3 ^ 4.24 9.11 ^ 4.73 19.0 ^ 4.05 9.66 ^ 3.08 44.4 ^ 3.65 2.2 ^ 1.3 ðn ¼ 21Þ 1432 ^ 329 927 ^ 248 515 ^ 109 184 ^ 91 332 ^ 127 162 ^ 49 776 ^ 165 36 ^ 17
+
+Values are given as mean ^ SD; *p , 0:05; **p , 0:02; ***p , 0:01:
+
+were divided into 3 subgroups: old (proband, aged .65 years), middle aged (first generation, age 37–57 years) and young (second generation, aged 18–24 years) individ- uals. The immunophenotype analysis of lymphocyte subsets showed that although most pronounced in the elderly group, lower numbers of CD8 þ T cells were also found in middle- aged and young members of the families compared to the age matched controls. A progressive CD8 þ 28 þ cell subsets decline was seen with aging, with significant difference between the old subjects on one hand and the middle-aged ðp , 0: 02Þ and young ðp , 0: 01Þ individuals on the other hand (Fig. 2).
+
+in longevity. Our study in extended families with longevity members and matched for geographical distribution controls from the Bulgarian population showed a slightly increased frequency of HLA-B*35, DRB1*12 alleles and correspond- ing haplotypes. Positive association of DRB1*12 with longevity has been previously observed in the Japanese population (Akisaka and Suzuki, 1998). Further it has been shown that life span prolongation is associated with delay of immunodeficiency of normal aging or with possible amelioration of the autoimmunity that develops with age. In agreement with this in elderly and their family members we did not observed the common alleles and haplotypes, positively associated with autoimmunity in Bulgarians. Additionally, gene polymorphisms within known or puta- tive regulatory regions have been demonstrated to be associated with different disorders, including age related (Haukim et al., 2002). Pro-inflammatory cytokines have been shown to play a pathogenic role (Bruunsgaard, 2001). Some of cytokine gene polymorphisms have been demon- strated to affect gene transcription causing variations in cytokine production. However, recent publications showed contradicting results regarding the association of cytokine gene/haplotypes and the level of expression (Bidwell et al.,
+
+4. Discussion
+
+In this pilot study we investigated how immunological factors, particularly HLA, cytokine gene polymorphism and immunophenotype profiles, contribute to the successful aging in the Bulgarian population. For the first time we also performed family analyses in order to assess the combine effect of these three biological markers.
+
+In the last years many studies have searched for the impact of HLA genes in human longevity. Due to the central role of HLA molecules in the immune response it has been suggested that this genetic complex could be associated with successful aging and that particular HLA alleles and haplotypes might have different distribution in longevity individuals (Caruso et al., 2000). However, the results were contradicting and no clear consensus has been reached. DRB1*07, *11, *13 alleles (Lagaay et al., 1991; Ivanova et al., 1998) as well as the ancestral haplotype HLA-B8- DR3 (Proust et al., 1982; Rea and Middleton, 1994), that confers resistance to viral infections, were shown to be increased in centenarians. Additionally, it has been suggested that HLA/longevity associations are population specific. The Bulgarian population is relatively homo- geneous and based on HLA class I and class II profile it is characterized by features of Southern European anthro- pological type with some influence of additional ethnic groups (Ivanova et al., 2001, 2002). Therefore Bulgarians
+
+%201510CD3+8+CD8+28+ —Cpgs28-     CD8+57+YAMAOAGOA BMA OYA
+
+Fig. 2. Phenotype distribution of CD8 þ cells in families with longevity members.
+
+E. Naumova et al. / Experimental Gerontology 39 (2004) 637–644
+
+consistent with a healthy immune status of elderly people in our study group.
+
+1999, 2001). In the present study it was shown that IL-10 genotype 21082G/A, 2819 C/C, 2592 C/C related to intermediate production was positively associated, while genotype 21082A/A, 2819 C/T, 2592 C/A related to low level of production was negatively associated with long- evity in Bulgarians. These results confirm data, showing that longevity is associated with genotypes coding for anti- inflammatory profile (Lio et al., 2002; Bonafe et al., 2001). Recent data indicated that pro-inflammatory profile is associated with increased mortality in elderly individuals (Franceschi et al., 2000). Additionally, our study on cytokine gene profiles demonstrated that the effect of IL- 10 gene polymorphism is modulated by IL-6 and IFNg genotypes associated with low level of production of these pro-inflammatory cytokines.
+
+generations longevity members we did not observed HLA alleles and haplotypes associated with autoimmunity. Our data also indicate an association of longevity with genotypes coding for anti-inflammatory cytokine profile. In addition, we did not observed the ‘immune risk phenotype’ which is a marker of an increased inflammatory activity. Based on the results of this study, it seems reasonable to suggest that a combination of specific immunogenetic and immunophe- notype profiles could contribute to successful aging and to maintaining healthy status in elderly.
+
+Acknowledgements
+
+immune factors in longevity we also searched for changes in the immune phenotype profile with aging. The results of the present study demonstrated markedly decreased CD8 þ T cell subsets in elderly people. Our observation of lower CD8 cell levels in middle aged and young family members supports the concept that genetic factors influence the regulation of lymphocyte subpopulations as well (Hall et al., 2002). The lowest CD8 numbers were seen in the old individuals. It will be reasonable to expect that although initially low compared to the general age-matched popu- lation, CD8 cell values will decrease with aging in the younger individuals of these families. Loss of CD28 expression with increasing age resulting in decline of the proportion of CD28 positive T cells (Effros et al., 1994; Effros, 2000) and an increase of CD8 þ 28 2 T cells (Nociari et al., 1999) have been reported. The old individuals in our study group have low CD3 þ CD8 þ cell values associated with a major decrease of the CD8 þ 28 þ cell subset, but we did not found an increase of CD8 þ CD28 2 cells within the lymphocytes. Looking at the CD8 þ lymphocyte subpopulation, CD28 negative cells were predominant compared to the CD28 positive cells. Thus, an increase in proportion of CD28 negative cells in the elderly do not necessarily equate with the increased number of such cells. These changes in the T cell subset profile in old individuals were supported by our observation of progressive age related decline of CD8 þ CD28 þ cells and a redistribution of CD28 negative and CD28 positive cells within the CD8 þ lymphocytes in the different family generations. It has been demonstrated that CD28 2 T cells are frequently CD57 þ cells (Azuma et al., 1993). Our data showed decreased values of CD8 þ 57 þ cells in elderly compared to middle aged controls with no significant ^ ^ changes of their proportion (29.2 9.1% vs. 29.4 9.4%) within the CD8 þ cells. Therefore, in this study we did not observe the ‘immune risk profile’ characterized by elevated CD8 þ , CD8 þ 28 2 , CD8 þ 57 þ cells, decreased CD4 þ T cells, and inverted CD4/CD8 index (Wikby et al., 2002) in old people. Taking into account the above considerations, it could be speculated that our results are
+
+The authors are grateful to the volunteers for making this study possible. This investigation has been done within ImAginE and was supported in part by a research grant from T-CIA project N-QLK6-CT-2002-02283.
+
+References
+
+Akisaka, M., Suzuki, M.,
+
+Okinawa Longevity Study. Molecular genetic analysis of HLA genes in the very old. Nippon Ronen Igakkai Zasshi
+
+,
+
+–
+
+Amadori, A., Zamarchi, R., Desilvestro, G., Forza, G., Cavatton, G., Danieli, G.A., Clementi, M., Chiecobianchi, L.,
+
+Genetic control of the CD
+
+/CD
+
+T-cell ratio in humans. Nat. Med.
+
+,
+
+–
+
+Awad, M.R., El-Gamel, A., Simm, E., Hasleton, P., Yonan, N., Deiraniya, A.K., Sinnott, P.J., Hutchinson, I.V.,
+
+Genotype variations in the transforming growth factor-beta
+
+gene: an association with TGF-b production, fibrotic lung disease and graft fibrosis after lung transplantation. Transplantation
+
+(
+
+),
+
+–
+
+Azuma, M., Cayabyab, M., Philips, J.H., Lanier, L.L.,
+
+Requirements for CD
+
+- dependant T cell-mediated cytotoxicity. J. Immunol.
+
+(
+
+),
+
+–
+
+Bidwell, J., Keen, L., Gallagher, G., Kimberly, R., Huizinga, T., M
+
+ermott, M.F., Oksenberg, J., M
+
+icholl, J., Pociot, F., Hardt, C., D’Alfonso, S.,
+
+Cytokine gene polymorphism in human disease: on-line databases. Genes Immunity
+
+,
+
+–
+
+Bidwell, J., Keen, L., Gallagher, G., Kimberly, R., Huizinga, T., M
+
+ermott, M.F., Oksenberg, J., M
+
+icholl, J., Pociot, F., Hardt, C., D’Alfonso, S.,
+
+Cytokine gene polymorphism in human disease: on-line databases. Genes Immunity
+
+(Supplement
+
+),
+
+–
+
+Bonafe, M., Olivieri, F., Cavallone, L., Giovagnetti, S., Mayegiani, F., Cardelli, M., Pieri, C., Marra, M., Antonicelli, R., Lisa, R., Rizzo, M.R., Paolisso, G., Monti, D., Franceschi, C.,
+
+A gender–dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur. J. Immunol.
+
+,
+
+–
+
+Bruunsgaard, H.,
+
+Aging and proinflammatory cytokines. Curr. Opin. Hematol.
+
+,
+
+–
+
+Bruunsgaard, H., Pedersen, M., Pedersen, B.K.,
+
+Aging and proinflammatory cytokines. Curr Opin Hematol.
+
+,
+
+–
+
+Caruso, C., Candore, G., Romano, G., Lio, D., Bonafe, M., Valensin, S., Franceschi, C.,
+
+HLA, aging, and longevity: a critical reappraisal. Hum. Immunol.
+
+,
+
+–
+
+Clementi, M., Forabosco, P., Amadori, A., Zamarchi, R., De Silvestro, G., Di Gianantonio, E., Chieco-Bianchi, L., Tenconi, R.,
+
+CD
+
+and
+
+E. Naumova et al. / Experimental Gerontology 39 (2004) 637–644
+
+CD
+
+T lymphocyte inheritance: evidence for major autosomal genes. Hum. Genet.
+
+,
+
+–
+
+E., Kay, R., Sillibourne, J., Patel, P., Hutchinson, I., Woo,
+
+Polymorphic haplotypes of the interleukin-
+
+flanking determine variable interleukine-
+
+transcription and are associated particular phenotypes of juvenile rheumatoid arthritis. Arthritis
+
+,
+
+–
+
+R., Leelayuwat, C., Guadieri, S., Tay, G., Hui, J., Cattley, Martinez, P., Kulski, J.,
+
+Genomics of the major complex: haplotypes, duplications, retroviruses and disease. Rev.
+
+,
+
+G., Frasca, D.,
+
+Genes, immunity, and senescence: looking for link. Immunol. Rev.
+
+,
+
+–
+
+R., Boucher, N., Porter, V., Zhu, X., Spaulding, C.C., Walford, Kronenberg, M., Cohen, D., Schachter, F.F.,
+
+Decline in CD
+
+þ T cells in centenarians and in long term T cell cultures: a possible for both in vivo and in vitro immunosenescence. Exp. Gerontol.
+
+, W.B., Keller, E.T.,
+
+Age-associated increase of gene expression, late-life diseases, and frailty. Annu. Rev. Med.
+
+–
+
+F.F., Vescovini, R., Mazzola, M., Bologna, G., Nigro, Lavagetto, G., Franceschi, C., Passeri, M., Sansoni, P.,
+
+of cytotoxic CD
+
+þ CD
+
+- T cells in healthy aging people, centenarians. Immunology
+
+(
+
+),
+
+–
+
+F.G.,
+
+Immune parameters in a longitudinal study in a old population of Swedish people: a comparison between survivors non-survivors. J. Gerontol.
+
+A (
+
+), B
+
+–B
+
+D., Faulds, G., Jeffery, R., Mohamed-Ali, V., Yudkin, Humphires, S., Woo, P.,
+
+Effect of novel polymorphisms in interleukin-
+
+(IL-
+
+) gene on IL-
+
+transcription and plasma IL-
+
+and an association with System-onset juvenile chronic arthritis. J. Invest.
+
+,
+
+–
+
+C., Bonafe, M., Valensin, S., Olivieri, F., De Luca, Ottaviani, E., De Benedictis, G.,
+
+Inflamm-aging. An perspective on immunosenescence. Annu. NY Acad. Sci.
+
+–
+
+M.A., Norman, P.J., Thiel, B., Tiwari, H., Peiffer, A., Vaughan, Prescott, S., Leppert, M., Schork, N.J., Lanchbury, J.S., Quantitative trait loci on chromosomes
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+, and control variation in levels of T and B lymphocyte subpopulations. J. Hum. Genet.
+
+,
+
+–
+
+N., Bidwell, J.L., Smith, A.J.P., Keen, L.J., Gallagher, Kimberly, R., Huizinga, T., M
+
+ermott, M.F., Oksenberg, M
+
+icholl, J., Pociot, F., Hardt, C., D’Alfonso, S.,
+
+gene polymorphism in human disease: on-line databases. Immunity
+
+(Supplement
+
+),
+
+–
+
+D.R., Pirskanen, R., Matell, G., Lefvert, A.K.,
+
+necrosis factor-alpha polymorphism and secretion in myasthenia J. Neuroimmunol.
+
+,
+
+–
+
+R., He´non, N., Lepage, V., Charron, D., Vicaut, E., Scha¨chter,
+
+HLA-DR alleles display sex-dependent effects on survival discriminate between individual and familial longevity. Hum. Genet.
+
+,
+
+–
+
+M., Spassova, P., Michailova, A., Naumova, E., Distribution of HLA class I alleles and haplotypes in contribution to understanding the origin of the population. Antigens
+
+,
+
+–
+
+M., Rozemuller, E., Tyufekchiev, N., Michailova, A., Tilanus, Naumova, E.,
+
+HLA polymorphism in Bulgarians defined high-resolution typing methods in comparison with other Tissue Antigens
+
+,
+
+–
+
+Ivanova, M., Michailova, S., Michailova, A., Nedialkova, A., Naumova, E.,
+
+Moecular model for HLA class II associations in common autoimmune diseases. Genes Immunity
+
+,
+
+Kroeger, K.M., Steer, J.H., Joyce, D.A., Abraham, L.J.,
+
+Effects of stimulus and cell type on the expression of the -
+
+tumor necrosis factor promoter polymorphism. Cytokine
+
+,
+
+–
+
+Lagaay, A.M., D’Amaro, J., Ligthart, G.J., Schreuder, G.M., van Rood, J.J., Hijmans,W.,
+
+Longevityand heredityinhumans.Associationwith the human leucocyte antigen phenotype. Annu. NY Acad. Sci.
+
+,
+
+Lio, D., Scola, L., Crivello, A., Bonafe, M., Franceschi, C., Olivieri, F., Colonna-Romano, G., Candore, G., Caruso, C.,
+
+a. Allele frequencies of þ
+
+T- . A single nucleotide polymorphism at the first intron of interferon-gamma gene in a group of Italian centenarians. Exp. Gerontol.
+
+,
+
+–
+
+Lio, D., Scola, L., Crivello, A., Colonna-Romano, G., Candore, G., Bonafe, M., Cavallone, L., Franceschi, C., Caruso, C.,
+
+b. Gender-specific association between
+
+IL-
+
+promoter polymorphism and long- evity. Genes Immunity
+
+,
+
+–
+
+Maurer, M., Kruse, N., Giess, R., Toyka, K.V., Rieckmann, P.,
+
+Genetic variation at position
+
+of interleukin
+
+(IL
+
+) promotor and the outcome of multiple sclerosis. J. Neuroimmunol.
+
+,
+
+–
+
+Miller, S.A., Dykes, D., Polesky, H.F.,
+
+A simple sating-out procedure for extracting DNA form human nucleated cells. Nucl. Acids Res.
+
+,
+
+Modica, M.A., Cammarata, G., Caruso, C.,
+
+HLA-B
+
+, DR
+
+phenotype and lymphocyte responses to phytohaemagglutinin. J. Immunogenet.
+
+,
+
+–
+
+Nociari, M.M., Telford, W., Russo, C.,
+
+Postthymic development of CD
+
+-CD
+
+þ T cell subsets: age-associated expansion and shift from memory to naive phenotype. J. Immunol.
+
+,
+
+–
+
+Olsson, J., Wikby, A., Johansson, B., Lofgren, S., Nilsson, B.-O., Ferguson, F.G.,
+
+Age-related change in peripheral blood T-lymphocyte subpopulations and cytomegalovirus infection in the very old: the Swedish longitudinal OCTO immune study. Mech. Ageing Dev.
+
+,
+
+–
+
+Pawelec, G., Adibzadeh, M., Solana, R., Beckman, I.,
+
+The T cell in the aging individual. Mech. Ageing Dev.
+
+,
+
+Proust, J., Moulias, R., Fumeron, F., Bekkhoucha, F., Busson, M., Schmid, M., Hors, J.,
+
+HLA and longevity. Tissue Antigens
+
+,
+
+Rea, I.M., Middleton, D.,
+
+Is the phenotyping combination A
+
+B
+
+Cw
+
+DR
+
+a marker for male longevity? J. Am. Geriatr. Soc.
+
+,
+
+Shneider, S., Kueffer, J.M., Roessli, D., Excoffier, L.,
+
+Arlequin: A Software Environment for the Analysis of Population Genetics Data. Genetics and Biometry Lab, Geneva. Slatkin, M., Excoffier, L.,
+
+Testing for linkage disequilibrium in genotypic data using the Expectation-Maximization algorithm. Her- edity
+
+,
+
+–
+
+Thorsby, E.,
+
+HLA associated diseases. Hum. Immunol.
+
+,
+
+Turner, D.M., Grant, S.C.D., Yonan, N., Sheldon, S., Dyer, P.A., Sinnott, P.j., Hutchinson, I.V.,
+
+Cytokine genotypes and heart transplant rejection. Transplantation
+
+,
+
+–
+
+Volpato, S., Gyralink, J.M., Ferrucci, L., Balfour, J., Chaves, P., Fried, L.P., Harris, T.B.,
+
+Cardiovascular disease, interleukin-
+
+, and risk of
+
+Invest.
+
+,
+
+–
+
+Franceschi, C., Bonafe, M., Valensin, S., Olivieri, F., De Luca, M., Ottaviani, E., De Benedictis, G.,
+
+Inflamm-aging. An evolutionary perspective on immunosenescence. Annu. NY Acad. Sci.
+
+,
+
+–
+
+Hall, M.A., Norman, P.J., Thiel, B., Tiwari, H., Peiffer, A., Vaughan, R.W., Prescott, S., Leppert, M., Schork, N.J., Lanchbury, J.S.,
+
+Quantitative trait loci on chromosomes
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+, and
+
+control variation in levels of T and B lymphocyte subpopulations. Am. J. Hum. Genet.
+
+,
+
+–
+
+Haukim, N., Bidwell, J.L., Smith, A.J.P., Keen, L.J., Gallagher, G., Kimberly, R., Huizinga, T., M
+
+ermott, M.F., Oksenberg, J., M
+
+icholl, J., Pociot, F., Hardt, C., D’Alfonso, S.,
+
+Cytokine gene polymorphism in human disease: on-line databases. Genes Immunity
+
+(Supplement
+
+),
+
+–
+
+Haung, D.R., Pirskanen, R., Matell, G., Lefvert, A.K.,
+
+Tumor necrosis factor-alpha polymorphism and secretion in myasthenia gravis. J. Neuroimmunol.
+
+,
+
+–
+
+Ivanova, R., He´non, N., Lepage, V., Charron, D., Vicaut, E., Scha¨chter, F.,
+
+HLA-DR alleles display sex-dependent effects on survival and discriminate between individual and familial longevity. Hum. Mol. Genet.
+
+,
+
+–
+
+Ivanova, M., Spassova, P., Michailova, A., Naumova, E.,
+
+Distribution of HLA class I alleles and haplotypes in Bulgarians- contribution to understanding the origin of the population. Tissue Antigens
+
+,
+
+–
+
+Ivanova, M., Rozemuller, E., Tyufekchiev, N., Michailova, A., Tilanus, M., Naumova, E.,
+
+HLA polymorphism in Bulgarians defined by high-resolution typing methods in comparison with other populations. Tissue Antigens
+
+,
+
+–
+
+P.j., Hutchinson, I.V.,
+
+Cytokine genotypes and heart transplant rejection. Transplantation
+
+,
+
+–
+
+Volpato, S., Gyralink, J.M., Ferrucci, L., Balfour, J., Chaves, P., Fried, L.P., Harris, T.B.,
+
+Cardiovascular disease, interleukin-
+
+, and risk of mortality in older women: the women’s health and aging study. Circulation
+
+,
+
+–
+
+Wikby, A., Maxson, P., Olsson, J., Johansson, B., Ferguson, F.G.,
+
+Changes in CD
+
+and CD
+
+lymphocyte subsets, T-cell proliferation responses and non-survival in the very old: the Swedish longitudinal OCTO immune study. Mech. Aging Dev.
+
+,
+
+–
+
+Wikby, A., Johansson, B., Olsson, J., Lofgren, S., Nilsson, B., Ferguson, F.,
+
+Expansion of peripheral blood CD
+
+T lymphocyte subpopulations and an association with cytomegalovirus seropositivity in the elderly: the Swedish NONA immune study. Exp. Gerontol.
+
+,
+
+–

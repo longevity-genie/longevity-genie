@@ -1,0 +1,281 @@
+Contents lists available at ScienceDirect Mechanisms of Ageing and Development journal homepage: www.elsevier.com/locate/mechagedev    
+
+Mechanisms of Ageing and Development
+
+journal homepage: www.elsevier.com/locate/mechagedev
+
+functional single nucleotide polymorphism in promoter of ATM is associated longevity
+
+Tie Chen a, Birong Dong a,*, Zhenchan Lu a, Baochun Tian a, Jian Zhang c, Jianlin Zhou c, Hongmei Wu a, Yanling Zhang a, Jinhui Wu a, Ping Lin b, Jie Zhang b, Hong Xu a, Xianming Mo a,**
+
+aLaboratory of Stem Cell Biology and Department of Geriatrics, State Key Laboratory of Biotherapy, West China Hospital, West China Medical School, Sichuan University,
+
+aLaboratory of Stem Cell Biology and Department of Geriatrics, State Key Laboratory of Biotherapy, West China Hospital, West China Medical School, Sichuan University, Chengdu 610041, China bLaboratory of Experimental Oncology, State Key Laboratory of Biotherapy, West China Hospital, West China Medical School, Sichuan University, Chengdu 610041, China cCollege of Life Science, Hunan Normal University, Changsha, Hunan 410081, China
+
+Although the ‘ataxia telangiectasia mutated’ (ATM) gene plays an important role in physiological processes, such as sensing DNA damage, reducing oxidative stress and protecting telomeres length, little informationaboutATMandlongevityisavailable.Therefore,weaimtoexaminetheassociationbetween genetic variants in promoter of ATM and longevity in Chinese Nonagenarians/Centenarians. Genotyping was performed in 789 long-lived individuals (LLIs) and 886 ethnically matched control subjects. A single nucleotide polymorphism (SNP, rs189037) in the promoter region of ATM gene was identified, and significant association between CT genotype and longevity was observed. Meanwhile, the SNP was able to affect expression of ATM mRNA by differentially binding to AP-2a. The CC genotype strongly bound to AP-2a, and the TT genotype showed less binding affinity to AP-2a. The AP-2a strongly repressed the reporterexpressionintheCCgenotypeandshowedlessrepressionoftheTTgenotypedrivingexpression in vitro assay. Accordingly, TT genotype individuals had highest ATM mRNA expression, CT genotype individuals had moderate ATM mRNA expression, and the CC genotype individuals had the lowest ATM mRNA.
+
+Keywords: Long-lived individuals Ataxia telangiectasia mutated Single nucleotide polymorphism AP-2a
+
+ 2010 Elsevier Ireland Ltd. All rights reserved.
+
+and function are dramatically decreased. In humans, patients with mutations in the ATM gene are featured with immunodeficiency, insulin resistance, growth retardation, pigmentary abnormalities, progressive cerebellar degeneration, and increased susceptibility to cancer (McKinnon, 2004). These observations suggest that ATM is critical to lifespan.
+
+1. Introduction
+
+Reactive oxygen species (ROS) are now believed to be a major contributor to the pathogenesis of senescence through inducing DNA double-strand breaks (DSBs) and telomere dysfunction (Herbig et al., 2006). Once DNA damage happens, the ataxia telangiectasia mutated (ATM) gene detects it, and then ATM phosphorylates activates downstream kinases, such as ChK1, ChK2 and P53 (Shiloh, 2003). As a result, cells undergo transient cell- cycle arrest, apoptosis or senescence. Meanwhile, in our body, there exists an anti-oxidant system, which can reduce ROS levels. The ATM gene plays an important role in keeping balance in redox state. Mice with the ATM gene knocked out have progressive bone marrow failure resulting from a defect in hematopoietic stem cells function due to elevated ROS (Ito et al., 2004). The ATM gene is widely expressed in many tissues, such as brain, skin and endothelial cells (McKinnon, 2004). In aged mice, ATM expression
+
+Recent studies in twins have indicated that longevity is moderately heritable and genetic variants account for (cid:2)25% (Puca et al., 2001). However, as of now, reports about polymorphisms of the ATM gene mainly focus on cancer; little information of the relationship between the variants of ATM promoter region and longevity is available. So we intend to determine whether the association between genetic variants in ATM promoter and longevity exists.
+
+2. Materials and methods
+
+2.1. Subjects
+
+1761 blood samples were collected from 875 long-lived individuals (LLIs) and 886 unrelated subjects from July 2005 to December 2007. Informed consent was obtained from all participants (as well as their legal proxies), all of Han Chinese descent and from the same region. The breakdown of the participants are as follows: LLIs included 280 men and 595 women, from 90 to 108 years, mean age 94.6, SD  )+3 3.40, without major diseases; control group included 395 women and 491
+
+* Corresponding author. Tel.: +
+
+; fax: +
+
+** Corresponding author. Tel.: +
+
+; fax: +
+
+E-mail addresses: birongdong@
+
+com (B. Dong), xmingmo@yahoo.com (X. Mo).
+
+0047-6374/$ – see front matter © 2 2010 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.mad.2010.08.009
+
+Table 1
+
+Primers and product sizes for PCR-DHPLC and PCR-RFLP.
+
+Forward primer Reverse primer PCR product size Melt temperature 50-acagcaggaaccacaataagg-30 50-ccaagtctgaggacggaagt-30 226bp 568C 50-ctgtcgtcacttccgtcctca-30 50-aagaagcaacgccaagcag-30 240bp 588C 50-gctgcttggcgttgctt-30 50-catgcgattggcggtctgg-30 287bp 568C
+
+2.7. Luciferase reporter assay
+
+men, from 18 to 85 years, mean age 49.06, SD D+2  20.95. Anybody has not lived up to 90 years old till now in the families of control individuals. Age was reported by participants themselves and was confirmed by calculating the dates of birth stated in their ‘‘household registration books’’, the certification of birth in China. Genomic DNA wasisolatedfromwholebloodanddrawnfromtheantecubitalvein,usingcommercial DNA isolation kits from QIAGEN (Chatsworth, CA) and according to standard procedures. The relevant institutional Ethics Committees approved this study.
+
+Two luciferase reporter plasmids encompassing of ATM promoter were constructed. DNA samples from human homozygous with either C > T or T > C were PCR amplified and cloned into pGL3-basci vector (Promega). Then, Hela cells were seeded at 8   103 per well in 24-well plates and cotransfected with 0.6 mg reporter construct and 15 ng hRL-TK renilla luciferase plasmid using 3.3 ml of ExGene500reagentin500 ml media.All transfectionswereconductedintriplicate. After 24 h of transfection, luciferase activity was analyzed according to manufacturer’s protocol for Dual Luciferase1 Assay (Promega). The pGL3-Basic was used as controls, and Renilla luciferase was used as an internal control to normalizethefireflyluciferaseactivity.Theexperimentwasperformedintriplicate.
+
+2.2. Denaturing high-performance liquid chromatography (DHPLC)
+
+Three pairs of PCR primers were used to create three overlapping products (226 bp, 240 bp or 287 bp fragment) for DHPLC analysis. PCR reaction was carried out in 20 ml reaction volumes containing 200 ng of genomic DNA, 5 pmol of each primer,1(cid:4)reactionbufferwithoutMgCl ,2.5 mMMgCl ,0.2 mMofeachdNTP,and 2 2 1.25 U Taq DNA polymerase. The PCR conditions were as follows: an initial denaturation step at 94 8C for 3 min, followed by 32 cycles of denaturation at 94 8C for 30 s, annealing for 30 s at 56–58 8C according to the primers used (Table 1), and elongation for 30 s at 72 8C, with a final extension of 5 min at 72 8C.
+
+2.8. Statistical analysis
+
+x2orFisher’sexacttest(whereanexpectedcellcountwas<5)wasconductedto compare the genotypic and allelic frequency between LLIs and controls, and also to assess deviation of the genotypic frequencies from those expected under Hardy– Weinbergequilibrium.One-wayANOVAwascarriedouttoexaminethedifferences in ATM mRNA expression. Student’s test was used to examine the difference in luciferase reporter gene expression. All statistical analysis was done by using SPSS software (version 11.5, SPSS, Inc., Chicago, IL, USA). P < 0.05 was used as the criterion of statistical significance. All statistical tests were two sided.
+
+Detection of DNA sequence variation with DHPLC was carried out on a Transgenomic Wave DNA Fragment Analysis System (Transgenomic Inc., Omaha, NE, USA). The DNA molecules eluted from the column were detected by scanning with a UV detector at 260 nm. Prior to DHPLC analysis, PCR products were denatured by heating at 96 8C for 5 min and then gradually cooling down to 25 8C over a period of 30 min. Then, aliquots of 5 ml PCR product were injected into the mobile phase (Buffer A, 0.1 M TEAA, pH 7.0; Buffer B, 0.1 M TEAA/25% acetonitrile) using a flow rate of 0.9 ml/min. The start- and end-points of the gradient were adjusted according to the size of the PCR products. The melting points were 62.5 8C, 65 8C and 64.1 8C for 226 bp, 240 bp and 287 bp respectively.
+
+3. Results
+
+To maximize the opportunity to screen genetic variations in promoter of ATM, we deployed denaturing high-performance liquid chromatography (DHPLC), a highly sensitive method for detecting DNA sequence variants (Liu et al., 1998; Wolford et al., 2000), to analyze PCR product of genomic DNA of ATM promoter from 5 long-lived individuals with familial history of longevity and 5 matched controls. Three pairs of primer were used to amplify three overlapping DNA fragments from sequences of the known ATM promoter for DHPLC analysis (Fig. 1A). Except for the third amplicon of the ATM promoter, both amplicons 1 and 2 did not show distinct elution profiles between LLIs and controls (Fig. 1B), so those results suggested that genetic variations might exist in the third amplicon. Then, we examined the distribution of variance in both LLIs and controls (156 LLIs and 53 controls) using DHPLC. The long-lived individuals (LLIs) displayed higher frequency of variance than the controls (51.9% versus 24.5%, data not shown). To validate genetic variations, we randomly selected 41 DNA samples from 29 variant and 12 invariant subjects for sequencing.
+
+2.3. Sequencing
+
+DNA fragments amplified from LLIs and controls were sequenced in both the forward and reverse directions using an ABI PRISM 3730 automatic sequencer.
+
+2.4. Restriction fragment length polymorphism (RFLP)
+
+The 5 ml PCR products of the targeted DNA fragments were digested at 37 8C for at least 3 h with Sac II (New England Biotechnologies, USA), then electrophoresed onan8%polyacrylamidegelandstainedwithsilvernitrate.Theconcurrencerateof direct sequencing and Sac II restriction digestion was 100%, and for quality control, the positive and negative controls (with no DNA) were used.
+
+2.5. RT-PCR
+
+Total RNA was isolated from peripheral blood mononuclear cells of 42 old individuals (33 men and 9 women, from 70 to 80 years, mean age 77.3, SD   3.72) using the QIAamp RNA Blood Mini kit. One microgram of total RNA per sample was reversely transcribed into cDNA according to the manufacturer’s instructions (PrimeScriptTM RT-PCR Kit TaKaRa Japan). cDNA was PCR amplified using the forward, 50-GCT CCT AAT CCA CCT CAT-30, and reverse, 50-CTC CTC CTA AGC CAC TTT-30. The amplified product was 256 bp. PCR cycles were 94 8C for 3 min, 30 cycles at 94 8C for 30 s, 51 8C for 30 s and 72 8C for 30 s, and the final extension was 72 8C for 5 min. PCR products were analyzed on 2% agarose gel and visualized by staining with ethidium bromide. Semi-quantitative PCR wasperformed asa limited dilutionoftemplates, and theanalysis ofamplified products wasperformedbyanimage analyzer(ChemiDocTM XRS, BIO-RAD, USA). b-Actin was used as internal control (Giacconi et al., 2004).
+
+To validate genetic variations, we randomly selected 41 DNA samples from 29 variant and 12 invariant subjects for sequencing. One single nucleotide polymorphism (SNP, rs189037) in the third amplicon of the ATM promoter (Fig. 1C) was identified. The SNP contains CC, CT, and TT genotypes in the tested human individuals.
+
+2.6. Electrophoretic mobility shift assay (EMSA)
+
+Synthetic double-stranded and 50 biotin-labeled and unlabeled probes were obtainedfromTakara.Inbrief,purifiedhumanrecombinantGST-AP-2aproteinand labeledprobeswereincubatedin30 ml bindingreactionmixturefor30 min at4 8C. To prevent nonspecific binding, ply (di-dC) and salmon sperm DNA were added to the mixture. Then, the samples were separated on 6% polyacrylamide gel at4 8Cfor 90 min at 100 V in 0.5(cid:4)TG buffer when the gels were pre-run for 50 min at 100 V. After electrophoresis, transfer was performed at 4 8C and 250 mA for 90 min. The products were detected by Stabilized Streptavidin-Horseradish Peroxidase Conju- gate(Roche).Unlabeledprobesat100-foldmolarexcesswereaddedtothereaction for competition.
+
+Computational analysis showed that the third amplicon of ATM promoter region contains two Sac II restriction enzymesites, one of them is in the SNP (C/T) only when the T ! C institution at nucleotide 116 is present (Fig. 2). Therefore, we developed PCR- restriction fragment length polymorphism (RFLP) to determine genotypes. Before genotyping was carried out, we examined the RFLP reliability, and both direct sequencing and Sac II restriction digestion detected 41 DNA samples. The concurrence rate of both
+
+(A) : promoter -125 (C/T)‘ATM —————226bp 1 +4240bpFA —__———_ 287pF2 ——F3(B) (C)a PeTeeceye sceneTecectocccacY
+
+Fig.1.ThesinglenuclearpolymorphisminATMpromoterwasidentifiedbytheDHPLCandsequencing.(A)AsimplifiedschematicdiagramshowedthreepairsofPCRprimers tocreatethreeoverlappingfragmentsofATMpromoterregionforDHPLCanalysis.(B)SequencevariantsweredetectedbyDHPLC.PCRproductsweredenaturedbyheatingat 96 8C for 5 min and then gradually cooling down to 25 8C over a period of 30 min. DHPLC was carried out on a Transgenomic Wave DNA Fragment Analysis System (Transgenomic Inc., Omaha, NE, USA). The DNA molecules eluted from the column were detected by scanning with a UV detector at 260 nm. Profile (arrow) indicated the sample was heterozygote. (C) The SNP was identified by sequencing. Sequencing of SNP (C > T) was from genomic DNA of 23 long-lived individuals with familial history of longevity and 18 control subjects. Typical sequence results were shown. The arrow indicated the nucleotide variants.
+
+methods was 100%, indicating that the PCR-RFLP method is reliable (data not shown).
+
+(Supplement Tables 1 and 2), and far higher frequency in LLIs was observed (Supplement Table 3). In addition, association analysis did notshowanygenderspecificity(datanotshown).Thedistributionof the observed genotypes in long-lived individuals and control subjects conformed to the Hardy–Weinberg equilibrium.
+
+Genotyping was conducted by PCR-RFLP in 789 long-lived individuals and 886 control subjects. Comparison of genotypic frequencies revealed that there is significant association between the genotypes and longevity (P = 0.01), but not alleles (Table 2). LLIs obviously showed higher frequency of CT genotype than controls (53.0% versus 45.9%, P = 0.004). Furthermore, the percentage of CT eterozygote increases with age in both LLIs and controls
+
+3.3. AP-2a binds to the SNP site to repress ATM transcription
+
+To examine whether the SNP regulates the ATM mRNA expression in vivo, we measured the ATM mRNA levels in peripheral mononuclear cells from human individuals by RT- PCR (McKinnon, 2004). The results from 42 healthy old individuals showed that TT genotype has highest level of ATM mRNA expressions than the other two genotypes (Fig. 3A), although no significant differences were found between CC and CT genotypes (CC versus TT, P = 0.001; CT versus TT, P = 0.006; CC versus CT, P = 0.818), but obvious tendency in level of ATM expression from CC to TT genotypes was observed (SupplementFig. 1). These results indicate that the SNP regulates the ATM mRNA expression in human cells in vivo.
+
+ce:CT:TT:Sac ll Sacily_Y116 162(GCGG) (GCGG)Sacll Sacily_Y116 162(GCGG) (GCGG)SacilY16 (162(GTGG) (GCGG)SacllY116 ~—~—«162(GTGG) (GCGG)287287287Genotype: CT CT CC TT 
+
+To figure out the mechanism in which the SNP regulates the ATM mRNA expression, we analyzed the sequences around the SNP and found that the SNP forms an activator protein 2a (AP-2a) binding site. Then, we examined the binding ability of AP-2a on the sequences of the SNP by electrophoretic mobility shift assay (EMSA). EMSA was carried out using purified human recombinant AP-2a protein and biotin-labeled probes with either DNA fragments of the C or T allele. AP-2a strongly bound to the oligonucleotide containing the C allele and weakly associated with the oligonucleotide probe with the T allele. Competition assays with unlabeled probe further confirmed a specific interaction between AP-2a and the C allele (Fig. 3B). The results of the DNA–protein interaction prompted us to study the effect of C > T on ATM transcription. The luciferase reporter vectors containing ATM promoters from the C allele or T allele were
+
+Fig. 2. The genotypes of the ATM promoter were detected by PCR-restriction fragment lengthpolymorphism. The PCR amplified fragmentswere digested bySac II,electrophoresedonan8%polyacrylamidegelandstainedwithsilvernitrate.Left: two Sac II restriction enzyme sites in amplicon 3 of ATM promoter region: when C alleleispresent,threefragmentsof46 bp,116 bpand125 bparegeneratedandtwo fragments of 125 bp and 171 bp are generated when T allele is present. Right: examples of PCR amplified fragments digested by Sac II were shown. Genotypes were labeled as CC, CT, and TT.
+
+Table 2
+
+Association of rs189037 with longevity.
+
+Genotype Allele TT CT CC Total T C LLI Number 139 418 232 789 696 882 Percentage 17.6 53.0 29.4 100 44.1 55.9 Controls Number 186 407 293 886 779 993 Percentage 21.0 45.9 33.1 100 44.0 56.0 x2 P value Genotype 8.44 0.01 Allele 0.007 0.9 CT versus othersa 8.28 0.004 TT versus othersb 3.04 0.08 CC versus othersc 2.60 0.1 a
+
+constructed. Fig. 3C shows us that AP-2a strongly reduced the transcription of promoter from the C allele and weakly reduced the transcription of promoter from the T allele, showing consistency with the results of the protein binding assays and the expression of ATM mRNA in vivo. Together, these results indicate that AP-2a represses ATM expression in humans by pecifically binding to the SNP site.
+
+4. Discussion
+
+Now, it is well known that reactive oxygen species, chemical agents, UV and IR could lead to DNA double-stand breaks (DSBs), which are a critical cause for DNA lesions (Lombard et al., 2005). Once DNA lesions occur, the protein encoded by the ATM gene is activated and sequentially phosphorylates a host of downstream
+
+ (B)AP-2a binding [7unspecific «free probe —labeled T probelabeled C probeunlabeled T probeunlabeled C probeGSTGST-AP-2a. relative ATM mRNA levelGenotype:Relative activity (%)cc CT TT120804020BB Vectori Ap-20.Callele Tallelepromoter promoter
+
+Fig.3.AP-2arepressesATMexpression.(A)Semi-quantitativeRT-PCRwasconductedinperipheralbloodmononuclearcellsfromoldsubjectswithdifferentgenotypes.Left: images of PCR products from different concentrations of cDNA templates by a serial dilution approach. Right: PCR product was quantified as shown; b-actin expression was used as internal control. RT-PCR of each sample was performed 3 times to exclude the PCR error. (B) EMSA was performed using probes and incubated with purified GST protein (lane 1) or human recombinant GST-AP-2 protein (lanes 2–6), allele C (lane 5) and allele T (lane 6). Lanes 2–4: competition with unlabeled probes with allele C promoter (50(cid:4) or 100(cid:4)C, lanes 2–3) and allele T (100(cid:4)T, lane 4), the labeled probe as indicated. (C) Down-regulation of ATM promoter driving luciferase activity by AP-2. PGL3-basic vector and constructs with C allele promoter or T allele promoter were transfected into Hela cells. Error bars indicate SD.
+
+Acknowledgements
+
+effectors involved in the G1/S, intra-S and G2/M checkpoint responses and additional factors involved in DNA repair, including tumor suppressor proteins p53, BRCA1, checkpoint kinase CHK2, RAD17 and RAD9, and DNA repairs protein NBS1 (Shiloh, 2003). Therefore, ATM mutations could make individuals susceptible to cancer and are harmful for physiological activity. This suggests that the ATM gene plays an important role in lifespan.
+
+We thank the participants and their families for their kind cooperation, generosity and patience. We also thank the following: local government officers of Dujiangyan for their great support when we visited the participants and their families, civil hospital of Dujiangyan, postgraduates from Public Health School, under- graduates of grade 2003 and postgraduates from West China Medicine School, and Sichuan University for their help in sample collection. The work was supported by the project of Science and Technology Bureau of Sichuan Province (2006Z090064), Construc- tion fund for Subjects of West China Hospital, Sichuan University (XK05001) and National Basic Research Program of China (2007CB947802), Nature Science Foundation of China to H.X. (30771228) and to X.M. (30771227).
+
+morphisms in promoter of gene could regulate gene expression by altering binding site for transcriptional factors (Sun et al., 2007); as a result, subjects with different SNPs show distinct phenotypes. Recently, it has been noted that more and more polymorphisms in promoter or 50UTR of genes associated with certain phenotypes have been reported (Giacconi et al., 2004; Sun et al., 2007). In our results, C/T genotype in promoter of ATM is significantly associated with longevity. Bioinformatic analysis shows that there is AP-2a binding site around the SNP, which is a transcriptional factor widely involved in both physiological and pathological processes, such as morphogenesis, cell adhesion, tissue differentiation, tumorigenesis and genetic disease (Leask et al., 1991). In our study, we found that the probe containing the C allele robustly binds the AP-2a protein, and ATM transcription was repressed in the C allele further than in the T allele by AP-2a protein in luciferase assay, which is in line with mRNA expression in vivo. It is also believed that balance exists in every activity of the physiological process; extremely high or extremely low levels of activity may contribute to pathological change. For example, mutation or consistent levels of high activity of P53 causes individuals to die at an early age or senescence because of cancer or prematurity. Thus, moderate activity of genes may keep subjects from abnormal physiological function (Tyner et al., 2002).
+
+Appendix A. Supplementary data
+
+Supplementary data associated with this article can be found, in online version, at doi:10.1016/j.mad.2010.08.009.
+
+References
+
+Christensen, K., Johnson, T.E., Vaupel, J.W.,
+
+The quest for genetic determinants of human longevity: challenges and insights. Nature Reviews Genetics
+
+,
+
+–
+
+Giacconi, R., Cipriano, C., Albanese, F., Boccoli, G., Saba, V., Olivieri, F., Franceschi, C., Mocchegiani, E.,
+
+The-
+
+G/Cpolymorphismo
+
+L-
+
+isuseful toscreen old subjects at risk for atherosclerosis or to reach successful ageing. Experimental Gerontology
+
+,
+
+–
+
+Herbig, U., Ferreira, M., Condel, L., Carey, D., Sedivy, J.M.,
+
+Cellular senescence in aging primates. Science
+
+,
+
+–
+
+Ito, K., Hirao, A., Arai, F., Matsuoka, S., Takubo, K., Hamaguchi, I., Nomiyama, K., Hosokawa, K., Sakurada, K., Nakagata, N., et al.,
+
+Regulation of oxidative stress by ATM is required for self-renewal of haematopoietic stem cells. Nature
+
+,
+
+–
+
+Leask, A., Byrne, C., Fuchs, E.,
+
+Transcription factor AP
+
+and its role in epidermal-specific gene expression. Proceedings of the National Academy of Sciences of the United States of America
+
+,
+
+–
+
+Liu, W.G., Smith, D.I., Rechtzigel, K.J., Thibodeau, S.N., James, C.D.,
+
+Denaturing high performance liquid chromatography (DHPLC) used in the detection of germline and somatic mutations. Nucleic Acids Research
+
+,
+
+–
+
+Lombard, D.B., Chua, K.F., Mostoslavsky, R., Franco, S., Gostissa, M., Alt, F.W.,
+
+DNA repair, genome stability, and aging. Cell
+
+,
+
+–
+
+M
+
+innon,P.J.,
+
+ATMandataxiatelangiectasia—secondinmolecularmedicine review series. EMBO Reports
+
+,
+
+–
+
+Puca, A.A., Daly, M.J., Brewster, S.J., Matise, T.C., Barrett, J., Shea-Drinkwater, M., Kang, S., Joyce, E., Nicoli, J., Benson, E., et al.,
+
+A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome
+
+Proceedingsofth
+
+ationa
+
+cademyo
+
+ciencesofth
+
+nite
+
+tateso
+
+merica
+
+,
+
+–
+
+Shiloh, Y.,
+
+ATM and related protein kinases: safeguarding genome integrity. Nature Reviews Cancer
+
+,
+
+–
+
+Sun, T., Gao, Y., Tan, W., Ma, S., Shi, Y., Yao, J., Guo, Y., Yang, M., Zhang, X., Zhang, Q., et al.,
+
+A six-nucleotide insertion-deletion polymorphism in the CASP
+
+promoter is associated with susceptibility to multiple cancers. Nature Genetics
+
+,
+
+–
+
+Tyner, S.D., Venkatachalam, S., Choi, J., Jones, S., Ghebranious, N., Igelmann, H., Lu, X.B.,Soron,G.,Cooper,B.,Brayton,C., etal.,
+
+p
+
+mutantmicethatdisplay early ageing-associated phenotypes. Nature
+
+,
+
+–
+
+Wolford, J.K., Blunt, D., Ballecer, C., Prochazka, M.,
+
+High-throughput SNP detection by using DNA pooling and denaturing high performance liquid chromatography (DHPLC). Human Genetics
+
+,
+
+–
+
+Christensen, K., Johnson, T.E., Vaupel, J.W., 2006. The quest for genetic determinants of human longevity: challenges and insights. Nature Reviews Genetics 7, 436–
+
+Ito et al. reported that mice with ATM deficiency showed accelerated aging. However, a recent study done by Jaejoon Won et al. demonstrated that moderately reduced activity of ATM gene could reverse senescence in BJ fibroblast through inhibiting P53 signaling pathway. So the ATM gene has a double-edged role. Firstly, as a regulator of oxidative stress, it protects us from reactive oxygen species (ROS) induced DNA damage. The other as being a sensor of DNA damage, trigger cellular senescence, apoptosis or transient cell-cycle arrest. Based on the findings above, we suggest that neither low expression nor high expression of ATM gene is good for lifespan. Therefore, moderate level of ATM expression may be the best way to prolong lifespan. In consistent with the opinion, our results show that the CT genotype which shows moderate level of ATM expression overrepresented in long-lived group and noticeably, individuals with CT heterozygote have potency to live long (Supplement Tables 1 and 2).
+
+In conclusion, lifespan is the outcome of complicated processes involved in many genes and non-genetic factors (Christensen et al., 2006). In our study, all participants are from the same region (countryside), they have same lifestyles, confuse factors (non- genetic factors) are almost not presented; genes are predominant factors for longevity, so our results are reliable and other polymorphisms associated with longevity may exist.

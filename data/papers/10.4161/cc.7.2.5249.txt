@@ -1,0 +1,657 @@
+The common germline Arg72Pro polymorphism of p53 and increased longevity in humans Stig E. Bojesen & Børge G. Nordestgaard Published online: 04 Feb 2008.
+
+To cite this article: Stig E. Bojesen & Børge G. Nordestgaard (2008) The common germline Arg72Pro polymorphism of p53 and increased longevity in humans, Cell Cycle, 7:2, 158-163, DOI: 10.4161/cc.7.2.5249
+
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained in the publications on our platform. Taylor & Francis, our agents, and our licensors make no representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. of published Taylor & Francis and Routledge Open articles and Taylor & Francis and Routledge Open Select articles posted to institutional or subject repositories or any other third-party website are without warranty from Taylor & Francis of any kind, either expressed or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement. Any opinions and views expressed in article are the opinions and views of the authors, and are not the views of or endorsed by Taylor & Francis. accuracy of the Content should not be relied upon and should be independently verified with primary sources of information. Taylor & Francis shall not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly connection with, in relation to or arising out of the use of the Content.
+
+The common germline Arg72Pro polymorphism of p53 and increased longevity in humans
+
+Stig E. Bojesen* and Børge G. Nordestgaard
+
+Department of Clinical Biochemistry; Herlev Hospital; Herlev, Denmark; Copenhagen University Hospital; Herlev, Denmark
+
+SNP, single nucleotide polymorphism
+
+Key words: longevity, ageing, mortality, p53, Arg72Pro, SNP, polymorphism, cancer risk
+
+ground allowing selection equilibriuTm to be established. These two assumptions, however, are not mSet when it comes to multifactorial diseases relevant to the ageing Ipopulation in modern affluent and fast D developing societies. Therefore, a priori it is quite possible that SNPs could be causative andT thus associated with multifactorial diseases, and even lifespan. the relative effect-size in most cases is probably small and in the order of 10–100% change of relative risk.
+
+More than ten million single nucleotide polymorphisms (SNPs) have been identified in humans; however, the importance of most SNPs for health and disease is not understood. Most SNPs are indeed unimportant and because of often inadequately powered studies, many observations on SNP effects can not be repeated by other researchers. SNPs are at best shown to influence protein function or level, rarely to influence risk of disease, and almost never to influence total mortality, the ultimate endpoint. A well- known functional SNP in the tumor suppressor TP53 gene leads to increased longevity: in the Danish general population (n = 9219) homozygotes for the minor allele versus homozygotes for the major allele had an increase in median survival of 3 years. This is partly explained by increased survival after development of cancer or other diseases, in accordance with the observation that Arg72Pro substitution in the p53 protein has important influEence on cell death via increased apoptosis. Thus, the increased loIngevity C may be due to a generally increased robustness after a diagnosis of S any life-threatening disease. In contrast to widespread skepticism O on the importance of SNPs in humans, this gain-of-function p53 SNP of importance for cell repair has a profound influence on longevity.
+
+tsuguA 61 90:80 ta ]1.512.161.901[ yb dedaolnwoD
+
+O Admittedly, the history of genetic association with common multifacDtorial diseases is full of irreproducible studies with a repro- duci bility ratio of 16%, probably due to inflated estimates in small . uEnder-powered case-studies, inadequate selection of controls, and bias favouring positive associations.4 These failures in the past imply that studies on genetic variations and their associa- tion with multifactorial diseases must be very large if the results are to be trusted, and they must include the relevant population suited to answer the questions asked with as little bias as possible. To meet these demands, large prospective studies of the general population is the gold-standard: in his proposal for a prospective study in the US, Francis Collins states that “…(genetic) associations and esti- mation of their magnitude, consistency and temporality (all key criteria for epidemiological evidence of causal relationships) are best obtained through prospective, population-based cohort studies”5 and that “…prospective cohort studies provide a valuable, feasible and, indeed, indispensable means of exploring the genetic basis of complex human diseases”.6 In Denmark such a prospective study, The Copenhagen City Heart Study, was already established in the
+
+Introduction
+
+After completion of the human genome project, more than ten N million single nucleotide polymorphisms (SNPs) have been identi- A fied;1-3 however, the importance of most SNPs for health and disease L is not understood. By definition, SNPs are genetic variations with an allele frequency abo8ve 1% in a given population. This definition 0 seemingly precludes that SNPs could have severe consequences for 0 survival of the individual; if carrying a given SNP was that disadvan- 2 tageous, it would soon disappear due to Darwinian selection. This argument has at least two implicit assumptions: (1) The SNP reduces fitness at an early still fertile age; (2) A constant environmental back-
+
+The Copenhagen City Heart Study
+
+In this study, participants aged 20 to 95 years were recruited at random from the Danish general population in Copenhagen.7,8 Participants have been interviewed and examined at three occasions in 1976–78, 1981–83 and 1991–94, supplementing the cohort with new participants at the second and third occasion. At each examina- tion, participants were interviewed and examined, and in 1991–94 DNA was isolated from >9000 participants.
+
+*Correspondence to: Stig E. Bojesen; Department of Clinical Biochemistry; Herlev Hospital; Copenhagen University Hospital; Herlev Ringvej 75; Herlev DK-2730 Denmark; Tel.: +45.4488.3843, Fax: +45.4488.3311; Email: stebo@heh.regionh.dk
+
+The national Danish health registries are virtually 100% complete collecting health data on all Danish citizens. This globally unique feature allows for comprehensive analyses of mortality and all
+
+Submitted: 10/30/07; Accepted: 11/01/07
+
+Previously published online as a Cell Cycle E-publication:
+
+end-points leading to hospitalization. Therefore, Danish population- based studies are especially suited to answer questions regarding the total health effect of genetic variants.
+
+  Ch nnn GB.Cell cycle DNA repair Apoptosisarrestp53 Arg72 Ttp53 Pro72 t t 
+
+The advantages of The Copenhagen City Heart Study thus are its size, the random selection of participants from the general population, the long follow-up, the thorough phenotyping and the completeness of the national Danish health registries. The homog- enous Danish population precludes the need for ethnic stratification, and makes The Copenhagen City Heart Study more powerful for genetic studies than most cohorts from admixed populations. These characteristics make The Copenhagen City Heart Study a unique resource for studying effects of genetic variations.
+
+Figure 1. Functional differences between the Arg72 and Pro72 versions of p53.
+
+p53
+
+the two forms of the p53-protein.19,28-35 In short, the Arg72 form U is more efficient in apoptosis induction, whereas the Pro72 form B induces more G arrest and is better at activating p53 dependent 1 I DNA repair (Fig. 1). The frequency ofR the Pro72 allele of Arg72Pro ranges from 70% among South ATfricans to 23% among Western Europeans (Fig. 2).22 Pro72 is pS robably the ancient allele, but the I reason for the high frequency of Arg72 among Europeans is unclear. D The gradient from Europe to Africa according to latitude suggests that the Pro72-allele a better protector against sunlight induced diseases;36 however, the few epidemiological studies examining the Arg72Pro and risk of skin cancer disagree.37,38
+
+p53 [OMIM # 191170] is a tumor suppressor and its 19 kb gene (TP53) is situated on chromosome 17p13.1. It consists of 11 exons resulting in a transcript of 2,629 bp and a protein of 393 amino acids. In half of all human cancers, the tumor suppressor p53 is damaged by somatic mutation in tumor cells.9 This protein is at the centre of cell regulatory pathways, influencing transcription and activity of several replication and transcription factors, and is known as the guardian of the genome. In case of UV-radiation, proto- oncogene activation or DNA damage, p53 is activated. p53 acts through several pathways when reacting to cellular stress. Apoptosis, cell cycle arrest at the G checkpoint, and cellular senescence are all 1 mechanisms triggered by activated p53,10 thereby preventing cancer growth. When p53 is damaged, cancer cells continue to multiply. In agreement with this, transgenic mice overexpressing p53 are virtually immune to the development of tumors.11
+
+5102 tsuguA 61 90:80 ta ]1.512.161.901[ yb dedaolnwoD
+
+Due to th e central role of p53 in the development of cancer, and O the demonstrated functional differences between the Arg72 and D the Pro72 allele, it has been hypothesized that this polymorphism is as sociated with risk of cancer. Using mainly case-control studies, . alEmost all neoplastic disease subtypes have been associated with the Arg72Pro polymorphism, but with conflicting results.22,24,27 Much research has concentrated on the risk of cervical cancer, but a recent meta-analysis concluded that the aggregated change of risk across the three genotypes was “essentially null”.22 Risk of breast cancer has also been examined in several studies with conflicting results, but the largest case-control study comprising 8743 cases and 10,618 controls produced risk estimates for both Arg/Pro heterozygotes and Pro/Pro homozygotes of 1.0 (95 % confidence interval, 0.9–1.1) vs. Arg/Arg homozygotes.39
+
+Despite these beneficial effects of increased p53 activity for cancer resistance, mice overexpressing p53 age prematurely and E even die earlier than their wild-type counterparts.11 Thus, activa- I tion of p53 is beneficial when the organism is young, butC in older organisms it might reduce lifespan and even augment cSancer risk,12 so-called antagonistic pleiotropy.10,13 In accordaOnce with this concept, p53 accelerates aging when responding Ito cellular stress.14 B In cell cultures, inactivation of normal p53 activity in senescent cells completely reverses the senescent h arrest, and allows the cells to resume cell divisions for many despite critically shortened telomeres.15
+
+Arg72Pro and Morbidity
+
+Germline truncating mutationNs of TP53, the gene coding for p53, are associated with a rar Ae autosomal dominant disorder, the Li-Fraumeni syndrome.16 T Lhis syndrome is chacterized by multiple primary neoplasms in ch ildren and young adults, with a predomi- nance of soft-tissue sarcomas, osteosarcomas, breast cancer, brain
+
+Participants (n = 9,219) of The Copenhagen City Heart Study were genotyped for the p53 Arg72Pro polymorphism8 using the Nanogen system.40 Taking advantage of the 100% complete follow- up, we were able to examine association between the Arg72Pro genotype and risk of any cancer8 (Fig. 3). For Arg/Pro heterozy- gotes versus Arg/Arg homozygotes we found a borderline increased gender and age adjusted hazard ratio for all cancer of 1.1 (95% CI: 1.0–1.2), but since the equivalent hazard ratio for Pro/Pro homozy- gotes was nominally decreased at 0.9 (0.8–1.1), we considered this as a chance-finding.
+
+Several germline SNPs in TP53 have been most of 2 them located in introns and of uncertain significance. The SNP rs1042522 is, however, located in exon 4 and results in an Arginine to Proline amino acid substitution in position 72 of the p53 protein.
+
+In 6 subtypes of cancer (gastrointestinal, respiratory, urologic, female, male and other types) including risk of melanoma and non-melanoma skin cancer (both in the “other” category), we gener- ally did not find any association with Arg72Pro genotype (Fig. 3); surprisingly however, the risk of hematologic cancer increased 2-fold in Arg/Pro heterozygotes vs. Arg/Arg homozygotes (p < 0.001), with a similar trend in Pro/Pro homozygotes. This 2-fold increased risk was
+
+Arg72Pro Polymorphism of p53
+
+Arg72Pro was first discovered in 1986 as a difference in phoretic mobility of two versions of p53.19 Since then, this SNP been implicated in risk of cancer, hepatitis C and schizophrenia, outcome for patients with traumatic brain injury, in placental and in ageing.20-27 There are marked functional differences
+
+ Latitude, °100N-80N-60N-40N-20N-Equator-20S-  PeruJamaicaSouth Africa 40S-10T T T T20 30 40 50 60p53 Pro72 allele frequency, %70 
+
+significant even after correction for multiple testing, and therefore might represent a real phenomenon rather than a chance finding; however, this needs to be confirmed in another independent study.
+
+We next sought to validate earlier findings suggesting association of Arg72Pro with risk of a variety of other diseases.20-27 However, in our study Arg72Pro genotype was not associated with risk of cardiovascular or other diseases (Fig. 4, left).8
+
+Arg72Pro and Mortality
+
+. Having examined Arg72Pro genotype and E morbidity, we next examined morTtality.8 The overall 12-year survival after blood saUmpling was increased in Arg/Pro heterozygotes wBith 3% (p = 0.003) and in Pro/Pro homozygoteIs with 6% (p = 0.002) vs. R Arg/Arg homozygotes (Fig. 5, left). This corre- T sponds to a sex and age adjusted hazard ratio for S death from any cause in Arg/Pro heterozygotes and I Pro/Pro hoDmozygotes vs. Arg/Arg homozygotes of 0.88 (95% CI: 0.81–0.96) and 0.82 (0.68–0.97), T respectively (Fig. 4, right). This reduction in risk of O death translates into an increased median survival of N 2 years and 3 years for Arg/Pro heterozygotes and Pro/Pro homozygotes vs. Arg/Arg homozygotes (Fig. 5, right). In accordance with this, the frequency of Pro allele appeared to increase with increasing age age 90 years, when the mortality of the partici- begins to rise (Fig. 6). The Leiden 85-plus study found increased survival in Pro/Pro homozygotes Arg/Arg homozygotes among 1226 partici- 85 years or older followed for 5–10 years.26
+
+tsuguA 61 90:80 ta ]1.512.161.901[ yb dedaolnwoD
+
+Figure 2. p53 Pro72 allele frequency as a function geographical latitude. Controls from 46 case-control studies of cervical cancer and Arg72Pro genotype (n = 7625)22 were aggregated according to geographical region. Circle size denotes relative sample size.
+
+. E C N E I C S O I B S E D N A L 8 0 0 2 ©
+
+As already shown, the stepwise increased longevity in p53 Arg/Pro heterozygotes and Pro/Pro homozy- gotes vs. Arg/Arg homozygotes was not explained by decreased risk of developing cancer, cardiovascular disease or other life-threatening diseases (Fig. 4, right). More likely, it was explained by a better prognosis in Arg/Pro heterozygotes and Pro/Pro homozygotes vs. Arg/Arg homozygotes after the diagnosis of cancer or other life-threatening disease: the cumulative 5- year mortality after a cancer diagnosis was reduced in Arg/Pro heterozygotes and Pro/Pro homozygotes vs. Arg/Arg homozygotes by 9% (p = 0.003) and 13% (p = 0.03) (Fig. 7). The reduced 5-year mortality corresponds to a decreased age and sex adjusted hazard ratio for death after a diagnosis of cancer of 0.87 (95% CI: 0.77–0.98) in Arg/Pro heterozygotes and of 0.74 (0.56–0.98) in Pro/Pro homozygotes vs. Arg/Arg homozygotes (Fig. 4, right). Thus, mortality after a cancer diagnosis was stepwise reduced with increasing number of Pro72 alleles (trend-test, p = 0.005). Also for other diseases including diabetes, lung diseases and infections, mortality was reduced by 10% by each number of Pro72 alleles (trend-test, p = 0.002) (Fig. 4, right). Similarly, the risk of death after a cardiovascular diagnosis was nominally but
+
+Figure 3. Risk of any cancer and cancer subgroups according to p53 Arg72Pro genotype in the general population.8 Participants were from the Copenhagen City Heart Study. Numbers of participants vary slightly because some participants were excluded due to development of disease prior to follow-up. The sum of events in the cancer subgroups do not add up to give the numbers of events in any cancer since only first cancer events were included.
+
+ Participants/Events Mortality4934/1287 °eH:p53 Arg72Pro Overall 3623/840 ieArg/Arg 862/137 ie@Arg/Proe@Pro/ProParticipants/Events Morbidity :4933/1071 e 1072/592 @Cancer 3623/853 ies 853/426 eo662/124 -+___e—i-_4 124/56 -—e——4934/1548 e 1548/801 ¢Cardiovascular — 3622/1105 eH 1105/522 eH662/196 -——é— 196/93 -—e—H4933/3980 é gge0/1182 ;Other 3619/2807 He 2907/769 eH662/542 —— 542/124 ——e—THOT OTTO TH0.7 0.8 101.1 1.3 0.5 0.6 0.8 1.0 1.1Hazard ratio (95% confidence interval) 
+
+and disease is not. Therefore, skepti- cism among researchers of the value of SNP research is profound. We demonstrate that the p53 Arg72Pro SNP alone may prolong life on average 3 years, roughly equivalent to a quarter of the effect between smokers and non-smokers.8 Importantly, as smoking status is the strongest known common life-style predictor of death in the general population, o.ur study illus- E trates that the observed effect of T this p53 SNP is a very large one indeed.
+
+Although Arg
+
+Pro is a SNP I leadi
+
+g to marked changes of the fu
+
+ction of the guardian of the S genome p
+
+, our study suggests I that this SNP is not associated with D risk of cancer or any other disease, maybe except for hematological malignancies. Instead, this SNP has a profound gene-dose dependent par- beneficial effect on
+
+-year survival after a diagnosis of cancer, on since survival after other diseases, and on longevity. Thus, the increased longevity may be due to a general robustness after a diagnosis of any disease. This suggests that the Arg
+
+Pro SNP is an important gain-of- genetic variant affecting the entire
+
+tsuguA 61 90:80 ta ]1.512.161.901[ yb dedaolnwoD
+
+Figure 4. Morbidity (left) and overall mortality and mortality after disease (right) according to pN53 genotype in the general population.8 Participants were from the Copenhagen City Heart Study. Numbers of ticipants vary slightly because some participants were excluded due to development of prior to The sum of deaths in the disease groups do not add up to give the numbers of events in overall mortality many participants had more than one disease.
+
+increased robustness after a diagnosis of any life-threatening disease. This suggests that the p53 Arg72Pro SNP is an important gain-of- function genetic variant affecting the entire person.
+
+C N E I C S O I B S E
+
+The reduced mortality in Arg/Pro hetero- zygotes and Pro/Pro homozygotes vs. Arg/Arg homozygotes, which could result from a gener- ally increased robustness caused by decreased pro-apoptotic activity and increased cell cycling arresting abilities of the Pro72 vs. the Arg72 version of p53,29,33,41 thereby protecting a person experiencing any critical illness. Our study is incapable of dissecting which one of the two main functional changes in the Pro72 version that causes these benefi- cial effects. Inhibition or eradication of p53 function protects ischemic cells from apop-
+
+L Figure 5. General population 12-year survival (left) and longevity (right) in p53 Arg72Pro homozygotes, Arg/Pro het erozygotes and Pro/Pro homozygotes. We followed 9,219 from the Copenhagen City Heart Study. Reproduced with permission from Journal of Medicine, 2007; 204:1295-301.8 Copyright 2007 Rockefeller University Press.
+
+tosis in the liver, heart and brain.42-44 In coronary patients, the Pro72 allele was associated with stepwise increase of minimal lumen diameter in the coronary arteries after stent implantation, indicating a beneficial effect of the modulation of the function of p53 by the Arg72 to Pro72 substitution.45 Likewise, in patients with traumatic brain injury, Arg/Arg homozygotes vs. Arg/Pro heterozygotes and Pro/Pro homozygotes combined had a 3-fold increased risk of adverse outcome at the time of discharge from hospital, probably due to larger ischemic borderzones around the cerebral lesions in the acute phase.23 We therefore speculate that modulation of p53
+
+insignificantly stepwise reduced with increasing number of Pro72 © alleles (trend-test, p = 0.13) (Fig. 4, right). For all analyses described above, multifactorial adjustment for other potential confounders (cumulative tobacco consumption, smoking status, body mass index, alcohol consumption, plasma cholesterol, systolic blood pressure and physical inactivity) gave similar risk estimates (data not shown).
+
+Perspectives
+
+The search for SNPs in the human genome is advancing however, understanding of the importance of such SNPs for
+
+. E T U B I R T S I
+
+ Mortality, % © p53 Pro72 allele frequency, % @80 2960: 2840 2720: 260 2560 70 80 90Age, years 
+
+Figure 6. Frequency of mortality (black dots) and the p53 Arg72Pro Pro allele (green dots) as a function of age in five-year groups.8 Participants were from the Copenhagen City Heart Study.
+
+5102 tsuguA 61 90:80 ta ]1.512.161.901[ yb dedaolnwoD
+
+oSoNap53 Arg72Pro— Arg/Arg— Arg/Pro— Pro/ProNa1x2D£2g® 50)c2©3©a0:0 1 2 3 4 5Time after cancer diagnosis, years 
+
+Figure 8. Effect of the p53 Arg72Pro polymorphism at the level of protein sequen ce, protein function, cell and whole organism.
+
+insight is limited. Inferring impact on human health from knowledge of genetic variation to change of protein function further to influ- . E ences on the cellular level and finally to affect the entire person can be extremely difficult: the DNA G251C substitution in the TP53 gene causing the Arg72Pro substitution of p53 leads to decreased binding to p7328 and decreased location to mitochondria;29 at the cellular level this protein change leads to decreased apoptosis29 and increased G cell cycle arrest,41 which we now demonstrate lead to 1 increased survival after life-threatening diseases and overall survival of the entire person (Fig. 8).
+
+Figure 7. General population 5-year survival after a cancerS diagnosis in p53 Arg72Pro Arg/Arg homozygotes, Arg/Pro heterozygoOtes and Pro/Pro homozygotes. Only cancers diagnosed one year prior to blood sampling I and afterwards were included. We followed participants with a cancer diagnosis from The Copenhagen City Heart Study. Reproduced with permission from Journal of Experimental e, 2007; 204:1295-301.8
+
+The present study thus illustrates that large human studies are sine qua nons of modern biomedical research, and we believe that this represents another lesson from our study: laboratory and popu- lation-based research are each indispensable and complement each other in identifying and describing factors that contribute to human health and disease. In vitro, cell, an animal studies are extremely important for understanding basic mechanisms; however, results from such studies alone will never be able reliably to predict the effect in humans. To study such effects, studies in humans are necessary, preferably by using the golden standard of large population based studies,5 as exemplified in the present study by the Copenhagen City Heart Study.
+
+function might improve clinical in intensive care, cardi- ology, neurology as well as in oncology patients.
+
+L expression profiles are now reaching clinical use,48 our work suggests 8 that also germline genetic variations in the host organism influence 0 prognosis. In our case, this single p53 polymorphism extends lifespan 0 after a cancer diagnosis with several years. Interestingly, the improved 2 prognosis in Arg/Pro heterozygotes and Pro/Pro homozygotes vs. © Arg/Arg homozygotes seems to be relatively independent of type of disease, indicating that the mechanism might be an unspecific improved robustness in the organism experiencing any life-threat- ening disease.
+
+References
+
+of the human genome. Nature
+
+;
+
+:
+
+-
+
+The International Ha
+
+ap Project. Nature
+
+;
+
+:
+
+-
+
+A haplotype map of the human genome. Nature
+
+;
+
+:
+
+-
+
+Ioannidis JP, Trikalinos TA, Ntzani EE, Contopoulos-Ioannidis DG. Genetic associations in large versus small studies: an empirical assessment. Lancet
+
+;
+
+:
+
+-
+
+Collins FS. The case for a US prospective cohort study of genes and environment. Nature
+
+;
+
+:
+
+-
+
+Manolio TA, Bailey-Wilson JE, Collins FS. Genes, environment and the value of prospec- tive cohort studies. Nat Rev Genet
+
+;
+
+:
+
+-
+
+Although this SNP is one of the best described functional SNPs in one the best described genes in the human genome, many previous association studies possibly have focused on a less important endpoint, namely risk of disease rather than prognosis after disease. This is not due to negligence by these scientist, but because our biological
+
+39. Breast Cancer Association Consortium. Commonly studied single-nucleotide polymor- phisms and breast cancer: results from the Breast Cancer Association Consortium. J Natl
+
+and risk of cancer. J Natl Cancer Inst
+
+;
+
+:
+
+-
+
+Ørsted DD, Bojesen SE, Tybjærg-Hansen A, Nordestgaard BG. Tumor suppressor p
+
+Arg
+
+Pro polymorphism and longevity, cancer survival, and risk of cancer in the general population. J Exp Med
+
+;
+
+:
+
+-
+
+Rudin CM, Thompson CB. Apoptosis and Cancer. In: Scriver CS, Beaudet AL, Sly WS, Valle D, editors. The Metabolic and Molecular Bases of Inherited Disease.
+
+th ed. New York, NY, USA: M
+
+raw-Hill,
+
+;
+
+-
+
+Lombard DB, Chua KF, Mostoslavsky R, Franco S, Gostissa M, Alt FW. DNA repair, genome stability, and aging. Cell
+
+;
+
+:
+
+-
+
+Tyner SD, Venkatachalam S, Choi J, Jones S, Ghebranious N, Igelmann H, Lu X, Soron G, Cooper B, Brayton C, Hee PS, Thompson T, Karsenty G, Bradley A, Donehower LA. p
+
+mutant mice that display early ageing-associated phenotypes. Nature
+
+;
+
+:
+
+-
+
+Krtolica A, Campisi J. Cancer and aging: a model for the cancer promoting effects of the aging stroma. Int J Biochem Cell Biol
+
+;
+
+:
+
+-
+
+Campisi J. Cancer and ageing: Rival demons? Nat Rev Cancer
+
+;
+
+:
+
+-
+
+Campisi J. Fragile fugue: p
+
+in aging, cancer and IGF signaling. Nat Med
+
+;
+
+:
+
+-
+
+Campisi J. Senescent cells, tumor suppression, and organismal aging: good citizens, bad neighbors. Cell
+
+;
+
+:
+
+-
+
+Frebourg T, Barbier N, Yan YX, Garber JE, Dreyfus M, Fraumeni J, Jr., Li FP, Friend SH. Germ-line p
+
+mutations in
+
+families with Li-Fraumeni syndrome. Am J Hum Genet
+
+;
+
+:
+
+-
+
+IARC TP
+
+Mutation Database.
+
+; http://www-p
+
+iarc.fr/Germline.html.
+
+phisms and breast cancer: results from the Breast Cancer Association Consortium. J Natl Cancer Inst
+
+;
+
+:
+
+-
+
+Sethi AA, Tybjaerg-Hansen A, Andersen RV, Nordestgaard BG. Nanogen microelectronic chip for large-scale genotyping. Clin Chem
+
+;
+
+:
+
+-
+
+Pim D, Banks L. p
+
+polymorphic variants at codon
+
+exert different effects on cell cycle progression. Int J Cancer
+
+;
+
+:
+
+-
+
+Georgiev P, Dahm F, Graf R, Clavien PA. Blocking the path to death: anti-apoptotic mol- ecules in ischemia/reperfusion injury of the liver. Curr Pharm Des
+
+;
+
+:
+
+-
+
+Matsusaka H, Ide T, Matsushima S, Ikeuchi M, Kubota T, Sunagawa K, Kinugawa S, Tsutsui H. Targeted deletion of p
+
+prevents cardiac rupture after myocardial infarction in mice. Cardiovasc Res
+
+;
+
+:
+
+-
+
+Yonekura I, Takai K, Asai A, Kawahara N, Kirino T. p
+
+potentiates hippocampal neuronal death caused by global ischemia. J Cereb Blood Flow Metab
+
+;
+
+:
+
+-
+
+Kojima S, Iwai N, Tago N, Ono K, Ohmi K, Tsujimoto G, Takagi S, Miyazaki S, Nonogi . H, Goto Y. p
+
+Arg
+
+Pro polymorphism of tumour suppressor protein is associated with E luminal narrowing after coronary stent placement. Heart
+
+;
+
+:
+
+-
+
+T
+
+Hunter K. Host genetics influence tumour metastasis. Nat Rev Cancer
+
+;
+
+:
+
+-
+
+U
+
+Hunter KW, Crawford NP. Germ line polymorphism in metastatic progression. Cancer Res
+
+;
+
+:
+
+-
+
+B
+
+van’t Veer LJ, Dai H, van de Vijver MJ, He YD, Hart AA, Mao M, Peterse HL, van der KK, I Marton MJ, Witteveen AT, Schreiber GJ, Kerkhoven RM, Roberts C, Linsley PS, Bernards R, Friend SH. Gene expression profiling predicts clinical outcome of breast cancer. Nature
+
+;
+
+:
+
+-
+
+IARC TP
+
+Mutation Database.
+
+; http://www-p
+
+iarc.fr/Polymorphis
+
+iew.asp.
+
+Harris N, Brill E, Shohat O, Prokocimer M, Wolf D, Arai N, Rotter V. Molecular basis for heterogeneity of the human p
+
+protein. Mol Cell Biol
+
+;
+
+:
+
+-
+
+Birgander R, Sjalander A, Beckman G, Beckman L. Effect of p
+
+alleles on placental weight. Hum Hered
+
+;
+
+:
+
+-
+
+Chiu HJ, Wang YC, Chen JY, Hong CJ, Tsai SJ. Association study of the p
+
+-gene Pro
+
+Arg polymorphism in schizophrenia. Psychiatry Res
+
+;
+
+:
+
+-
+
+Koushik A, Platt RW, Franco EL. p
+
+codon
+
+polymorphism and cervical neoplasia: a meta-analysis review. Cancer Epidemiol Biomarkers Prev
+
+;
+
+:
+
+-
+
+Martinez-Lucas P, Moreno-Cuesta J, Garcia-Olmo DC, Sanchez-Sanchez F, Escribano- Martinez J, del Pozo AC, Lizan-Garcia M, Garcia-Olmo D. Relationship between the Arg
+
+Pro polymorphism of p
+
+and outcome for patients with traumatic brain injury. Intensive Care Med
+
+;
+
+:
+
+-
+
+Matakidou A, Eisen T, Houlston RS. TP
+
+polymorphisms and lung cancer risk: a system- atic review and meta-analysis. Mutagenesis
+
+;
+
+:
+
+-
+
+Okada F, Shiraki T, Maekawa M, Sato S. A p
+
+polymorphism associated with increased risk of hepatitis C virus infection. Cancer Lett
+
+;
+
+:
+
+-
+
+van Heemst D, Mooijaart SP, Beekman M, Schreuder J, de Craen AJ, Brandt BW, Slagboom E PE, Westendorp RG. Variation in the human TP
+
+gene affects old age survival and cancer I mortality. Exp Gerontol
+
+;
+
+:
+
+-
+
+C
+
+Zhou Y, Li N, Zhuang W, Liu GJ, Wu TX, Yao X, Du L, Wei ML, Wu XT. P
+
+codon
+
+S polymorphism and gastric cancer: A meta-analysis of the literature. Int J Cancer
+
+O
+
+Marin MC, Jost CA, Brooks LA, Irwin MS, O’nions J, Tidy JA, James N, M
+
+regor JM, Harwood CA, Yulug IG, Vousden KH, Allday MJ, Gusterson B, Ikawa S, Hinds PW, Crook I T, Kaelin WG, Jr. A common polymorphism acts as an intra
+
+enic modifier of mutant p
+
+behaviour. Nat Genet
+
+;
+
+:
+
+-
+
+Dumont P, Leu JI, Della PA, III, George DL, Murp
+
+y M. The codon
+
+polymorphic variants of p
+
+have markedly different apoptotic potential. Nat Genet
+
+;
+
+:
+
+-
+
+E
+
+Moreau F, Matlashewski G. Molecular analysis of different allelic variants of wild-type D human p
+
+Biochem Cell Biol
+
+;
+
+:
+
+-
+
+Sullivan A, Syed N, Gasco M, Bergamasc
+
+i D, Trigiante G, Attard M, Hiller L, Farrell PJ, Smith P, Lu X, Crook T. Polymorphism in wild-type p
+
+modulates response to chemo- therapy in vitro and in vivo. Oncog
+
+ne
+
+;
+
+:
+
+-
+
+Siddique M, Sabapathy K. Trp
+
+L-dependent DNA-repair is affected by the codon
+
+poly- morphism. Oncogene
+
+;
+
+:
+
+-
+
+Bergamaschi D, Samuels
+
+Y, Sullivan A, Zvelebil M, Breyssens H, Bisso A, Del Sal G, Syed N, Smith P, Gasco M, Crook T, Lu X.
+
+SPP preferentially binds p
+
+proline-rich
+
+region and modulates apoptotic function of codon
+
+-polymorphic p
+
+Nat Genet
+
+;
+
+:
+
+-
+
+Storey A, Thomas M, Kalita A, Harwood C, Gardiol D, Mantovani F, Breuer J, Leigh IM, Matlashew©ski G, Banks L. Role of a p
+
+polymorphism in the development of human papillomavirus-associated cancer. Nature
+
+;
+
+:
+
+-
+
+Thomas M, Kalita A, Labrecque S, Pim D, Banks L, Matlashewski G. Two polymorphic variants of wild-type p
+
+differ biochemically and biologically. Mol Cell Biol
+
+;
+
+:
+
+-
+
+Beckman G, Birgander R, Sjalander A, Saha N, Holmberg PA, Kivela A, Beckman L. Is p
+
+polymorphism maintained by natural selection? Hum Hered
+
+;
+
+:
+
+-
+
+Bastiaens MT, Struyk L, Tjong AH, Gruis N, ter Huurne J, Westendorp RGJ, Vermeer BJ, Bavinck JNB, ter Schegget J. Cutaneous squamous cell carcinoma and p
+
+codon
+
+polymorphism: A need for screening? Molecular Carcinogenesis
+
+;
+
+:
+
+-
+
+Han JL, Cox DG, Colditz GA, Hunter DJ. The p
+
+codon
+
+polymorphism, sun- burns, and risk of skin cancer in US Caucasian women. Molecular Carcinogenesis
+
+;
+
+:
+
+-
+
+5102 tsuguA 61 90:80 ta ]1.512.161.901[ yb dedaolnwoD

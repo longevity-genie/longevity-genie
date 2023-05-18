@@ -1,0 +1,565 @@
+Contents lists available at ScienceDirect Archives of Gerontology and Geriatrics journal homepage: www.elsevier.com/locate/archger    =ARCHIVES OF GERONTOLOGY      
+
+Archives of Gerontology and Geriatrics
+
+journal homepage: www.elsevier.com/locate/archger
+
+Distributions of interleukin-6 (IL-6) promoter and metallothionein 2A (MT2A) core promoter region gene polymorphisms and their associations with aging in Turkish population
+
+Zeliha Kayaaltı a,*, Levent S¸ahiner b, M. Emre Durakog˘lugil b, Tu¨ lin So¨ylemezog˘lu a
+
+aAnkara University Institute of Forensic Sciences, Mamak Street, No:10, 06590, Dikimevi, Ankara, Turkey bAnkara Oncology Education and Research Hospital, Vatan Street, 06200, Yenimahalle, Ankara, Turkey
+
+A B S T R A C T
+
+Aging is determined as the product of an interaction among genetic, environmental and lifestyle factors. As interleukin-6 (IL-6) and metallothioneins (MTs) are related to inflammation and oxidative stress response, their genes are appropriate candidate for aging, age related diseases and infections. The aim of this study was to investigate the association between the IL-6 (cid:2)174 G/C promoter region and MT2A (cid:2)5 A/G core promoter region single nucleotide polymorphisms (SNPs) with longevityin Turkish population. Blood samples were collected from 354 individuals between 18 and 95 years of age. Individuals were classified into four groups according to their ages as 20–40, 41–60, 61–80, >80. IL-6 and MT2A polymorphisms were genotyped by polymerase chain reaction-restriction fragment length polymor- phism (PCR-RFLP) method. Mean ages of individuals with IL-6 (cid:2)74 C(cid:2) carriers and C+ carriers were 49.82   20.45 years and 59.82   16.82 years, respectively. For the MT2A polymorphism, mean ages were estimated as56.18 3 + 1 19.50years forG(cid:2)carriers and 47.59 y+ 1 13.45 years forG+carriers. Asaresult, whenthe IL-6 and MT2A polymorphisms were compared with the mean ages and age groups, statistically significant associations werefound(p < 0.001andp < 0.05,respectively).Inconclusion,thesedatasupportthattheIL-6 (cid:2)174 C+ carriers and MT2A (cid:2)5 G(cid:2) carriers may be more advantageous for longevity.
+
+1. Introduction
+
+polymorphisms(SNPs)havebeenidentified(TheNationalCenterfor Biotechnology Information; http://www.ncbi.nlm.nih.gov/SNP/). IL-6 gene polymorphisms affect the rate of synthesis or degradation ofIL-6.One ofthese polymorphismsin the IL-6 geneisthe (cid:2)174 G/C promoter region SNP and a significant association between (cid:2)174 G/ C polymorphism and some age-related diseases and longevity has been shown (Caruso et al., 2004; Van Bodegom et al., 2007).
+
+Aging is determined as a complex interaction of genetic, epigenetic, and environmental factors, but a strong genetic component appears to have an impact on survival to extreme ages (Perls and Terry, 2003). Longevity is likely to be influenced by thousands of genes (Franceschi et al., 2000) and twin studies have indicated that approximately 20–30% of the overall variation in lifespan can be attributed to genetic factors (Hjelmborg et al., 2006). Inflammation and dysregulated production of inflammatory cytokines have an important role in the process of aging, as they affect an individual’s capacity to counteract noxious events such as pathogen infection, neurodegenerative disorders, autoimmunity and cancer (Caruso et al., 2004; Van Bodegom et al., 2007). An acute inflammatory response is beneficial for survival, but a chronic inflammatory state contributes to age-associated diseases. A reliable marker of inflammation is interleukin-6 (IL-6), the circulating level of which is increased in chronic diseases and aging (Jylha¨ et al., 2007). The IL-6 gene is highly polymorphic
+
+IL-6 gene, which is located on chromosome 7p21, is expressed in lymphocytes, fibroblasts, macrophages in response to different types of inflammatory stimuli (Berghe et al., 2000). IL-6 also controls induction and expression of metallothioneins (MTs) which maintain homeostasis of zinc and copper (Mazzatti et al., 2008). During stress and inflammation, the gene expression of MT is induced by pro-inflammatory cytokines (IL-1, IL-6) (Davis and Cousins, 2000), which are also abnormally increased in the elderly (Sansoni et al., 2008) and high MT levels may be deleterious in aging. On the other hand, some MT polymorphisms and intracellular zinc ion bioavailability is fundamental in reducing inflammation and in recovering innate and adaptive immune response with subsequent achievement of healthy aging and longevity (Mocchegiani et al., 2009). A number of studies suggest that the major intracellular zinc-binding proteins, MTs, play an
+
+* Corresponding author. Tel.: +90 312 319 2734; fax: +90 312 319 2077. E-mail address: kayaalti@medicine.ankara.edu.tr (Z. Kayaaltı).
+
+0167-4943/$ – see front matter ©: 2011 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.archger.2011.01.001
+
+important regulatory role in zinc uptake, distribution, storage, and release (Giacconi et al., 2005).
+
+ 
+
+MTs, which are low-molecular-weight, cysteine-rich, metal- binding proteins, are encoded by a family of genes located on chromosome 16q13 and MTs have 10 functional isoforms (Miles et al., 2000). In the basal level, MT2A is the most expressed MT isoform in the cell. The expression difference between the MT2A and other isoforms is attributed to the enhancer activity in MT2A. The richness in this activity greatly increases the MT2A expression in response to various inducers such as metals (Kita et al., 2006), interleukins(Cousins and Leinart, 1988), interferon (Sciavolino and Vilcek, 1995), tumor necrosis factor alpha (Ebadi et al., 1996) and glucocorticoid hormones (Samson and Gedamu, 1998).
+
+Fig. 1. A representative agarose gel image of digested and undigested PCR products withNlaIIIforIL-6polymorphism:(M:100 bpladder,lanes1and2:undigestedPCR product, lanes 3, 4 and 5: homozygote typical genotype (GG), lanes 6 and 7: heterozygote genotype (GC), lane 8: homozygote atypical genotype (CC).
+
+It is very important to demonstrate the relationship between MT and IL-6 productions. The IL-6 (cid:2)174 G/C promoter region polymorphism affects cytokine production and pro-inflammatory cytokines induce the gene expression of MT. Increased levels of MT, IL-6 and low zinc ion availability are observed in diseases characterised by chronic inflammation and in syndromes of accelerated aging (Kwon et al., 2007).
+
+reverse 50-GCC TCA GAC ATC TCC AGT CC-30. Then the PCR product (303 bp) was digested with NlaIII restriction enzyme (New England Biolabs, Hertfordshire, UK) and incubated at 37 8C for overnight. The undigested PCR product and digested products were separated on a 2% agarose gel electrophoresis, visualized by ethidium bromide staining under an ultraviolet illuminator, scanned and photographed using Syngene Monitoring System. Digestion of PCR product by NlaIII yields 233, 57 and 13 bp fragments for the G allele; 122, 111, 57 and 13 bp fragments for the C allele (Fig. 1).
+
+The aim of the present study was to determine IL-6 (cid:2)174 G/C promoter region polymorphism (SNP rs1800795; Gene access number: NM_000600; Gene ID: 3569) and MT2A (cid:2)5 A/G core promoter region polymorphism (SNP rs 28366003; Gene access number: NM_005953; Gene ID: 4502) and to find out whether there is an association between the polymorphic characteristics and longevity in Turkish population.
+
+For assay of the (cid:2)5 A/G single-nucleotide polymorphism in the core promoter region of MT2A gene, PCR was carried out using the forward primer 50-CGC CTG GAG CCG CAA GTG AC-30 and the reverse primer 50-TGG GCA TCC CCA GCC TCT TA-30 resulting in an amplified fragment of 241 bp in size. Then the PCR product (241 bp) was digested with 3 U of BsgI restriction enzyme (New England Biolabs, Hertfordshire, UK) and incubated at 37 8C for 2 h. The undigested PCR product and digested products were separated on a 3% agarose gel electrophoresis, visualized by ethidium bromide staining under an ultraviolet illuminator, scanned and photographed using Syngene Monitoring System. Digestion of PCR product by BsgI yields 144, 56 and 41 bp fragments for the A allele; 185 and 56 bp for the G allele (Fig. 2).
+
+2. Materials and methods
+
+2.1. Study subjects
+
+In this study, blood samples were obtained from 354 genetically unrelated and healthy individuals without a known history of any chronic disease and cancer (mean age 55.35 yb 19.16 years; range 18–95 years), including 175 females (mean age 55.44  19.15 years; range 20–95 years) and 179 males (mean age 55.27 y+  19.22 years; range 18–92 years). Blood samples were acquired from volunteers referred to Ankara Oncology Education and Research Hospital for routine control. Informed consent was obtained from each individual who was selected randomly control group sample among from Turkish population. The geographical distributions of the subjects were from the Central Anatolia region and other regions representing the Turkish population from all regions of the country. A small questionnaire for gathering the demographic and ethnic information was also given to the individuals and the individuals stating themselves as Turkish were included in the study. The study design was approved by the institutionalethics committee (approval No: 92; 25.12.2008). Samplings were performed in accordance with the principles of The Declaration of Helsinki. Blood samples were kept at 4 8C while they were in active use.
+
+2.3. Statistical analysis
+
+Statistical analyzes were performed by using statistical package the social sciences (SPSS) 16.0 package program. The
+
+ 
+
+Genomic DNAs were extracted from 100 ml whole blood samples with ‘‘Qiagen QIAamp DNA Mini Kit’’ according to the method recommended by the manufacturer.
+
+Polymorphism analyze of the IL-6 (cid:2)174 G/C was determined according to method (Mazzatti et al., 2008) with slight modifica- tion and MT2A (cid:2)5 A/G were carried out according to those previously described (Kayaalti and So¨ylemezog˘lu, 2010) as below. In order to screen for (cid:2)174 G/C SNP in the promoter region of IL-6 gene, 303 bp fragment containing the promoter region was amplified by polymerase chain reaction (PCR) using the following primers: forward 50-TTG TCA AGA CAT GCC AAA GTG CT-30 and
+
+In order to screen for (cid:2)174 G/C SNP in the promoter region of IL-6 gene, 303 bp fragment containing the promoter region was amplified by polymerase chain reaction (PCR) using the following primers: forward 50-TTG TCA AGA CAT GCC AAA GTG CT-30 and
+
+Fig. 2. A representative agarose gel image of digested and undigested PCR products with BsgI for MT2A polymorphism: (M: 100 bp ladder, lane 1: undigested PCR product, lane 2: homozygote typical genotype (AA), lane 3: heterozygote genotype (AG) and lane 4: homozygote atypical genotype (GG).
+
+Table 1
+
+Distribution of IL-6 and MT2A genotypes and ages.
+
+Polymorphisms n (%) Age (years) Mean(cid:3)S.D. Median Range IL-6 genotypes GG (C(cid:2)) 158 (44.6) 49.82(cid:3)20.45 50 18–92 GC (C+) 166 (46.9) 58.57(cid:3)17.02 55 22–95 CC (C+) 30 (8.5) 66.73(cid:3)14.00 64 47–92 GG (C(cid:2)) 158 (44.6) 49.82(cid:3)20.45 50 18–92 GC+CC (C+) 196 (55.4) 59.82(cid:3)16.82 56 22–95 MT2A genotypes AA (G(cid:2)) 320 (90.4) 56.18(cid:3)19.50 55 18–95 AG+GG (G+) 34 (9.6) 47.59(cid:3)13.45 50 22–81 * p<0.05.
+
+Table 2
+
+Distribution of the IL-6 and MT2A genotypes according to age groups, n (%).
+
+Polymorphisms Age groups p< 20–40 41–60 61–80 >80 IL-6 C(cid:2) (GG) 61 (17.2) 50 (14.1) 23 (6.5) 24 (6.8) 0.0001** C+ (GC+CC) 17 (4.8) 100 (28.2) 41 (11.6) 38 (10.7) MT2A G(cid:2) (AA) 70 (19.8) 128 (36.2) 61 (17.2) 61 (17.2) 0.013* G+ (GC+GG) 8 (2.3) 22 (6.2) 3 (0.8) 1 (0.3)
+
+0.6 for homozygote atypical (GG; n = 2). In order to compare MT2A polymorphism with the mean ages and age groups statistically, AG and GG genotypes were gathered since distributionof GG genotype was observed at very low frequency. When the MT2A polymor- phism genotypes were compared with the mean ages, statistically significant association was found (p < 0.05). The mean ages of AA genotype carriers (G(cid:2)) were 56.18 B+ | 19.50 years, whereas AG + GG genotypes carriers (G+) were determined as 47.59 ) + 1 13.45 years (Table 1). Also, MT2A polymorphism was statistically analyzed in according to age groups and significant association was detected (p < 0.05). While the frequency of the G+ carriers in the age groups of 20–40 years and 41–60 years were 2.3% and 6.2%, this ratio in the age groups of 61–80 years and >80 years were only 0.8% and 0.3%, respectively (Table 2).
+
+frequencies of MT2A and IL-6 alleles and genotypes were obtained by direct count, and the departure from the Hardy–Weinberg equilibrium was evaluated using the Haldane exact test. In order to compare two independent groups, Student’s t-test, more than two groups one-way ANOVA analysis were used in terms of metric variables. Categorical variables were compared by the x2 test. p < 0.05 was considered as statistically significant.
+
+3. Results
+
+In this study, IL-6 and MT2A polymorphisms in a sample of 354 healthy Turkish subjects were compared according to their ages, age groups and genders. The genotype frequencies of IL-6 (cid:2)174 G/ C and MT2A (cid:2)5 A/G polymorphisms in all samples were consistent with Hardy–Weinberg equilibrium (p = 0.178 and p = 0.221, respectively). Volunteers were subdivided into four groups according to their ages as 20–40 years (78: 39 females, 39 males), 41–60 years (150: 74 females, 76 males), 61–80 years (64: 32 females, 32 males) and >80 years (62: 32 females, 30 males).
+
+Genotype frequencies of IL-6 and MT2A polymorphisms in male and female subjects were compared with x2-test, and no significant difference was found between the two genders (p > 0.05) (Table 3).
+
+4. Discussion
+
+The genotype frequencies of the IL-6 (cid:2)174 G/C promoter region SNP were determined as follows: 44.6% homozygote typical (GG), 46.9% heterozygote (GC) and 8.5% homozygote atypical genotype (CC). Mean ages of individuals with homozygote typical (n = 158), heterozygote (n = 166) and homozygote atypical genotype (n = 30) were 49.82   20.45 years, 58.57 T+ | 17.02 years and 66.73   14.00 years respectively. The mean ages were also calculated as 49.82  20.45 years for GG genotypes carriers (C(cid:2)) and 59.82 )+1   16.82 years for GC + CC genotypes carriers (C+). A highly statistically significant association was detected IL-6 genotype and allele frequencies in aging (p < 0.001) (Table 1). In addition, the frequency of the IL-6 (cid:2)174 C+ carriers in the age groups of 41–60 years, 61–80yearsand>80yearswere higherthanin theage groupof 20–40 years (Table 2).
+
+At the present day, aging is a universal phenomenon and an inevitable consequence of being an organism. Aging process is considered to be strongly dependent on the interaction of the genetic, epigenetic, and environmental factors; and genetic factors appear to have an impact to reach longevity and avoid pathologies
+
+Table 3
+
+of the IL-6 and MT2A polymorphisms in males and females, n (%).
+
+Polymorphisms Males Females p< MT2A G(cid:2) (AA) 163 (46.0) 157 (44.4) 0.667 G+ (GC+GG) 16 (4.5) 18 (5.1) IL-6 C(cid:2) (GG) 84 (23.7) 74 (20.9) 0.380 C+ (GC+CC) 95 (26.9) 101 (28.5)
+
+For MT2A (cid:2)5 A/G single nucleotide polymorphism, the genotype frequencies were determined to be 90.4% for homozy- gote typical (AA; n = 320), 9.0% for heterozygote (AG; n = 32) and
+
+relationship between (cid:2)5 A/G SNP and sporadic amyotrophic lateral sclerosis have been found (Hayashi et al., 2006).
+
+in particular (Salvioli et al., 2006). Genes related to inflammation and oxidative stress response, especially the proinflammatory cytokines and MTs are included in the susceptibility to aging, age related diseases and infections (Mocchegiani et al., 2004).
+
+In this study, there was significant association between (cid:2)174 G/C promoter region polymorphism and MT2A (cid:2)5 A/G promoter region polymorphism with longevity in Turkish tion, and IL-6 (cid:2)174 C+ carriers and MT2A (cid:2)5 G(cid:2) carriers determined to be more advantageous for longevity. However, it is affected not only by several genes but also by longevity might be population-specific and dependent on environment interactions. In this context, the authors suggest the future studies may be performed in larger samples from environmental conditions may also be taken into account.
+
+IL-6 is a key proinflammatory cytokine and (cid:2)174 G/C SNP polymorphism located within the promoter regions of IL-6 gene, determining increased or decreased production of inflammatory cytokines has been reported. The IL-6 (cid:2)174 G/C polymorphism was first described by Fishman et al. (1998). In the Fishman’s study and almost all subsequent studies, while the C+ allele carriers had the lowest IL-6 levels, a clear trend associating the C(cid:2) allele carriers to a higher level of IL-6 was observed (Fishman et al., 1998; Giacconi et al., 2004; Albani et al., 2009). In contrast to these results, a few authors reported increased IL-6 values in C+ carriers (Jerrard-Dunne et al., 2003; Haddy et al., 2005). However, these opposite results may be considered as IL-6 has a short half-life and
+
+Conflict of interest statement
+
+Results of case-control and prospective studies in associations with the IL-6 (cid:2)174 G/C promoter region polymorphism and successful aging have been very conflicting. While some authors found that individuals carrying IL-6 (cid:2)174 G allele were more frequent among very old people (Christiansen et al., 2004) or in the survivor group among nonagenarians (Hurme et al., 2005); others found a significant association between the (cid:2)174 G allele and decreased human longevity (Bonafe` et al., 2001). On the other hand, according to the results of some studies, there was no statistically significant association determined between the IL-6 polymorphism and aging (Capurso et al., 2004; Pes et al., 2004; Reiner et al., 2005; Di Bona et al., 2009).
+
+None.
+
+Acknowledgement
+
+This study is partly supported by The Scientific and Technical Council of Turkey (TUBITAK; Project No: 109S248, 2010)
+
+References Albani,D.,Batelli,S.,Polito,L.,Prato,F.,Pesaresi,M.,Gajo,G.B.,D
+
+ngeli,S.,Zanardo, A., Galimberti, D., Scarpini, E., Gallucci, M., Forloni, G.,
+
+Interleukin-
+
+plasma level increases with age in an Italian elderly population (‘‘The Treviso Longeva’’-Trelong-study) with a sex-specific contribution of rs
+
+poly- morphism. Age (Dordr)
+
+,
+
+–
+
+Berghe, V.W., Vermeulen, L., De Wilde, G., De Bosscher, K., Boone, E., Haegeman, G.,
+
+Signal transduction by tumor necrosis factor and gene regulation of the inflammatory cytokine interleukin-
+
+Biochem. Pharmacol.
+
+,
+
+–
+
+Bonafe`, M., Olivieri,F., Cavallone, L., Giovagnetti, S.,Mayegiani, F., Cardelli, M., Pieri, C., Marra, M., Antonicelli, R., Lisa, R., Rizzo, M.R., Paolisso, G., Monti, D., Franceschi, C.,
+
+A gender-dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur. J. Immunol.
+
+,
+
+–
+
+Capurso, C., Solfrizzi, V., D’Introno, A., Colacicco, A.M., Capurso, S.A., Semeraro, C., Capurso, A., Panza, F.,
+
+Interleukin
+
+-
+
+G/C promoter gene polymor- phism in centenarians: no evidence of association with human longevity or interaction with apolipoprotein E alleles. Exp. Gerontol.
+
+,
+
+–
+
+Caruso,C.,Lio,D.,Cavallone,L.,Franceschi,C.,
+
+Aging,longevity,inflammation, and cancer. Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Christiansen, L., Bathum, L., Andersen-Ranberg, K., Jeune, B., Christensen, K.,
+
+Modest implication of interleukin-
+
+promoter polymorphisms in longevity. Mech. Ageing Dev.
+
+,
+
+–
+
+Cipriano,C.,Malavolta,M.,Costarelli,L.,Giacconi,R.,Muti,E.,Gasparini,N.,Cardelli, M., Monti, D., Mariani, E., Mocchegiani, E.,
+
+Polymorphisms in MT
+
+a gene codingregionareassociatedwithlongevityi
+
+talia
+
+entralfemalepopulation. Biogerontology
+
+,
+
+–
+
+Cousins, R.J., Leinart, A.S.,
+
+Tissue-specific regulation of zinc metabolism and metallothionein genes by interleukin
+
+FASEB J.
+
+,
+
+–
+
+Davis, S.R., Cousins, R.J.,
+
+Metallothionein expression in animals: a physiologi- cal perspective on function. J. Nutr.
+
+,
+
+–
+
+Di Bona, D., Vasto, S., Capurso, C., Christiansen, L., Deiana, L., Franceschi, C., Hurme, M., Mocchegiani, E., Rea, M., Lio, D., Candore, G., Caruso, C.,
+
+Effect of interleukin-
+
+polymorphisms on human longevity: a systematic review and meta-analysis. Ageing Res. Rev.
+
+,
+
+–
+
+Ebadi, M., Leuschen, M.P., El Refaey, H., Hamada, F.M., Rojas, P.,
+
+The antioxi- dant properties of zinc and metallothionein. Neurochem. Int.
+
+,
+
+–
+
+Fishman,D.,Faulds,G.,Jeffery,R.,Mohamed-Ali,V.,Yudkin,J.S.,Humphries,S.,Woo, P.,
+
+The effect of novel polymorphisms in the interleukin-
+
+(IL-
+
+) gene on IL-
+
+transcription and plasma IL-
+
+levels, and an association with systemic- onset juvenile chronic arthritis. J. Clin. Invest.
+
+,
+
+–
+
+Franceschi, C., Bonafe, M., Valensin, S., Olivieri, F., De Luca, M., Ottaviani, E., De Benedictis, G.,
+
+Inflamm-aging. An evolutionary perspective on immuno- senescence. Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Franceschi, C., Olivieri, F., Marchegiani, F., Cardelli, M., Cavallone, L., Capri, M., Salvioli, S., Valensin, S., De Benedictis, G., Di Iorio, A., Caruso, C., Paolisso, G., Monti, D.,
+
+Genes involved in immune response/inflammation IGF
+
+/insu- linpathwayandresponse tooxidativestressplayamajorroleinthegeneticsof human longevity: the lesson of centenarians. Mech. Ageing Dev.
+
+,
+
+–
+
+Giacconi, R., Cipriano, C., Albanese, F., Boccoli, G., Saba, V., Olivieri, F., Franceschi, C., Mocchegiani, E.,
+
+The (cid:
+
+)
+
+G/C polymorphism of IL-
+
+is useful to screen old subjects at risk for atherosclerosis or to reach successful ageing. Exp. Gerontol.
+
+,
+
+–
+
+References
+
+Albani,D.,Batelli,S.,Polito,L.,Prato,F.,Pesaresi,M.,Gajo,G.B.,DeAngeli,S.,Zanardo, A., Galimberti, D., Scarpini, E., Gallucci, M., Forloni, G., 2009. Interleukin-6 plasma level increases with age in an Italian elderly population (‘‘The Treviso Longeva’’-Trelong-study) with a sex-specific contribution of rs1800795 poly- morphism. Age (Dordr) 31, 155–162.
+
+Nevertheless, a great amount of studies reported a positive association between the IL-6 (cid:2)174 G/C polymorphism and longevity, and the capability of producing low levels of IL-6 throughout life span appears to be beneficial for longevity (Bonafe` et al., 2001; Christiansen et al., 2004; Franceschi et al., 2005;
+
+MT gene expression is induced by pro-inflammatory cytokines during stress and inflammation. The interrelationships among inflammatory cytokines, stress, MT expression level and zinc ion bioavailability are crucial in order to achieve healthy longevity (Mocchegiani and Malavolta, 2008). The analysis of some polymorphisms in MT genes confirms this assumption. The studies performed so far regarding the relation between several MT polymorphisms and aging and age related disease have been usually performed in Italy population by the same researchers group. Recent findings have showed that MT1A +647 A/C coding region polymorphism affects the inflammatory status, and this polymorphism is associated with longevity in Italian population (Cipriano et al., 2006). Also, MT1A +647 C+ carriers displayed higher IL-6 levels and they were more likely to develop type 2 diabetes and cardiovascular complications. However, in the same study, as concerning +1245 A/G MT1A polymorphism, no differences in genotypic and allelic distribution were found among healthy old control groups (Giacconi et al., 2008). In other polymorphism at the untranslated region of MT2A (+838 C/G), it is observed that elderly subjects carrying C(cid:2) allele had more risk to develop carotid artery stenosis (Giacconi et al., 2007). Giacconi
+
+et al. (2008) reported a significant relationship between MT2A (cid:2)209 A/G promoter region polymorphism, diabetes type II and atherosclerosis disease. Moreover, they found out that G(cid:2) carriers display higher circulating IL-6 levels compared to G+. Another polymorphism regarding MT2A is (cid:2)5 A/G SNP, and this polymor- phism is located at the core promoter region of MT2A gene where the gene transcription initializes. There have been only a few studies on MT2A (cid:2)5 A/G SNP in the literature and a significant association has been found between this polymorphism and Cd levels in autopsy renal tissues (Kayaalti et al., 2010) whereas no
+
+Z. Kayaaltı et al./Archives of Giacconi, R., Cipriano, C., Muti, E., Costarelli, L., Maurizio, C., Saba, V., Gasparini, N., Malavolta, M., Mocchegiani, E.,
+
+Novel (cid:
+
+)
+
+A/G MT
+
+A polymorphism in oldpatientswithtype
+
+diabetesandatherosclerosis: relationshipwithinflam- mation (IL-
+
+) and zinc. Biogerontology
+
+,
+
+–
+
+Giacconi, R., Muti, E., Malavolta, M., Cipriano, C., Costarelli, L., Bernardini, G., Gasparini, N., Mariani, E., Saba, V., Boccoli, G., Mocchegiani, E.,
+
+The +
+
+C/G MT
+
+A polymorphism, metals, and the inflammatory/immune re- sponse in carotid artery stenosis in elderly people. Mol. Med.
+
+,
+
+–
+
+Giacconi, R., Bonfigli, A.R., Testa, R., Sirolla, C., Cipriano, C., Marra, M., Muti, E., Malavolta, M., Costarelli, L., Piacenza, F., Tesei, S., Mocchegiani, E.,
+
+The +
+
+A/C and +
+
+MT
+
+A polymorphisms in the susceptibility of diabetes mellitus and cardiovascular complications. Mol. Genet. Metab.
+
+,
+
+–
+
+Haddy, N., Sass, C., Maumus, S., Marie, B., Droesch, S., Siest, G., Lambert, D., Visvikis, S.,
+
+Biologicalvariations,geneticpolymorphismsandfamilialresemblance o
+
+NF-alphaan
+
+L-
+
+concentrations:STANISLAScohort.Eur.J.Hum.Genet.
+
+,
+
+–
+
+Hayashi,Y.,Hashizume,T.,Wakida,K.,Satoh,M.,Uchida,Y.,Watabe,K.,Matsuyama, Z., Kimura, A., Inuzuka, T., Hozumi, I.,
+
+Association between metallothio- nein genes polymorphisms and sporadic amyotrophic lateral sclerosis in a Japanese population. Amyotroph. Lateral Scler.
+
+,
+
+–
+
+Hjelmborg, B.J., Iachine, I., Skytthe, A., Vaupel, J.W., M
+
+ue, M., Koskenvuo, M., Kaprio, J., Pedersen, N.L., Christensen, K.,
+
+Genetic influence on human lifespan and longevity. Hum. Genet.
+
+,
+
+–
+
+Hurme, M., Paavilainen, P.M., Pertovaara, M., Jylha¨, M., Karhunen, P.J., Hervonen, A., Lehtima¨ki, T.,
+
+I
+
+levels are predictors of mortality in Finnish nonagen- arians. Mech. Ageing Dev.
+
+,
+
+–
+
+Jerrard-Dunne, P., Sitzer, M., Risley, P., Steckel, D.A., Buehler, A., von Kegler, S., Markus, H.S.,
+
+Carotid Atherosclerosis Progression Study Interleukin-
+
+promoter polymorphism modulates the effects of heavy alcohol consumption on early carotid artery atherosclerosis: the Carotid Atherosclerosis Progression Study (CAPS). Stroke
+
+,
+
+–
+
+Jylha¨, M., Paavilainen, P., Lehtima¨ki, T., Goebeler, S., Karhunen, P.J., Hervonen, A., Hurme, M.,
+
+Interleukin-
+
+receptor antagonist, interleukin-
+
+, and C-reac- tiveproteinaspredictorsofmortalityinnonagenarians:thevitality
+
++study.J. Gerontol. A: Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Kayaalti, Z., So¨ylemezog˘lu, T.,
+
+The polymorphism of core promoter region on metallothionein
+
+A-metalbindingproteini
+
+urkishpopulation.Mol.Biol.Rep.
+
+,
+
+–
+
+Kayaalti, Z., Mergen, G., So¨ylemezog˘lu, T.,
+
+Effect of metallothionein core promoterregion polymorphismon cadmium, zinc and copper levels inautopsy kidney tissues from a Turkish population. Toxicol. Appl. Pharmacol.
+
+,
+
+–
+
+Kita, K., Miura, N., Yoshida, M., Yamazaki, K., Ohkubo, T., Imai, Y., Naganuma, A.,
+
+Potential effect on cellular response to cadmium of a single-nucleotide A ! G polymorphism in the promoter of the human gene for metallothionein IIA. Hum. Genet.
+
+,
+
+–
+
+Kwon, C.S., Kountouri, A.M., Mayer, C., Gordon, M.J., Kwun, I.S., Beattie, J.H.,
+
+Mononuclear cell metallothionein
+
+NA levels in human subjects with poor zinc nutrition. Br. J. Nutr.
+
+,
+
+–
+
+Mazzatti,D.J.,Malavolta,M.,White,A.J.,Costarelli,L.,Giacconi,R.,Muti,E.,Cipriano, C., Powell, J.R., Mocchegiani, E.,
+
+Effects of interleukin-
+
+(cid:
+
+)
+
+C/G and metallothionein
+
+A +
+
+A/C single-nucleotide polymorphisms on zinc-regu- lated gene expression in ageing. Exp. Gerontol.
+
+,
+
+–
+
+Miles, A.T., Hawksworth, G.M., Beattie, J.H., Rodilla, V.,
+
+Induction, regulation, degradation, and biological significance of mammalian metallothioneins. Crit. Rev. Biochem. Mol. Biol.
+
+,
+
+–
+
+Mocchegiani, E., Malavolta, M.,
+
+Zinc-gene interaction related to inflammato- ry/immune response in ageing. Genes Nutr.
+
+,
+
+–
+
+Mocchegiani, E., Giacconi, R., Muti, E., Rogo, C., Bracci, M., Muzzioli, M., Cipriano, C., Malavolta,M.,
+
+Zinc,immuneplasticity,aging,andsuccessfulaging:roleof metallothionein. Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Mocchegiani, E., Giacconi, R., Cipriano, C., Malavolta, M.,
+
+NK and NKT cells in aging and longevity: role of zinc and metallothioneins. J. Clin. Immunol.
+
+,
+
+–
+
+Neal, B.,
+
+Quantifying the importance of interleukin-
+
+for coronary heart disease. PL
+
+Med.
+
+, e
+
+Perls, T., Terry, D.,
+
+Understanding the determinants of exceptional longevity. Ann. Intern. Med.
+
+,
+
+–
+
+Pes,G.M.,Lio,D.,Carru,C.,Deiana,L.,Baggio,G.,Franceschi,C.,Ferrucci,L.,Oliveri,F., Scola, L., Crivello, A., Candore, G., Colonna-Romano, G., Caruso, C.,
+
+Associ- ation between longevity and cytokine gene polymorphisms. A study in Sardin- ian centenarians. Aging Clin. Exp. Res.
+
+,
+
+–
+
+Reiner, A.P., Diehr, P., Browner, W.S., Humphries, S.E., Jenny, N.S., Cushman, M., Tracy, R.P., Walston, J., Lumley, T., Newman, A.B., Kuller, L.H., Psaty, B.M.,
+
+Common promoter polymorphisms of inflammation and thrombosis genes and longevity in older adults: the cardiovascular health study. Atherosclerosis
+
+,
+
+–
+
+Salvioli,S.,Olivieri,F.,Marchegiani,F.,Cardelli,M.,Santoro,A.,Bellavista,E.,Mishto, M., Invidia, L., Capri, M., Valensin, S., Sevini, F., Cevenini, E., Celani, L., Lescai, F., Gonos, E., Caruso, C., Paolisso, G., De Benedictis, G., Monti, D., Franceschi, C.,
+
+Genes, ageing and longevity in humans: problems, advantages and perspectives. Free Radic. Res.
+
+,
+
+–
+
+Samson, S.L., Gedamu, L.,
+
+Molecular analyses of metallothionein gene regu- lation. Prog. Nucleic Acid Res. Mol. Biol.
+
+,
+
+–
+
+Sansoni, P., Vescovini, R., Fagnoni, F., Biasini, C., Zanni, F., Zanlari, L., Telera, A., Lucchini, G., Passeri, G., Monti, D., Franceschi, C., Passeri, M.,
+
+The immune system in extreme longevity. Exp. Gerontol.
+
+,
+
+–
+
+Sciavolino, P.J., Vilcek, J.,
+
+Regulation of metallothionein gene expression by TNF-alpha and IFN-beta in human fibroblasts. Cytokine
+
+,
+
+–
+
+Van-Bodegom, D., May, L., Meij, H.J., Westendorp, R.G.,
+
+Regulation of human life histories: the role of the inflammatory host response. Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Kwon, C.S., Kountouri, A.M., Mayer, C., Gordon, M.J., Kwun, I.S., Beattie, J.H., 2007. Mononuclear cell metallothionein mRNA levels in human subjects with poor zinc nutrition. Br. J. Nutr. 97, 247–254.
+
+Neal, B., 2008. Quantifying the importance of interleukin-6 for coronary heart

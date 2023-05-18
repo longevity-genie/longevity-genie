@@ -1,0 +1,973 @@
+Telomere maintenance genes SIRT1 and XRCC6 impact age-related decline in telomere length but only SIRT1 is associated with human longevity
+
+Sangkyu Kim • Xiuhua Bi • Malwina Czarny-Ratajczak • Jianliang Dai • David A. Welsh • Leann Myers • Michael A. Welsch • Katie E. Cherry • Jonathan Arnold • Leonard W. Poon • S. Michal Jazwinski
+
+Received: 27 July 2011/Accepted: 20 September 2011/Published online: 5 October 2011  Springer Science+Business Media B.V. 2011
+
+Abstract Leukocyte telomere length is widely con- sidered a biomarker of human age and in many studies indicative of health or disease. We have obtained quantitative estimates of telomere length from blood leukocytes in a population sample, confirming results of previous studies that telomere length significantly decreases with age. Telomere length was also posi- tively associated with several measures of healthy aging, but this relationship was dependent on age. We screened two genes known to be involved in telomere maintenance for association with the age-related
+
+to identify candidate longevity-associated genes. A single-nucleotide polymorphism located in the SIRT1 gene and another in the 30 flanking region of XRCC6 had significant effects on telomere length. At each bi- allelic locus, the minor variant was associated with longer telomeres, though the mode of inheritance fitting best differed between the two genes. No statistical interaction was detected for telomere length between the SIRT1 and XRCC6 variants or between these polymorphisms and age. The SIRT1 locus was significantly associated with longevity (P \ 0.003). The frequency of the minor allele was higher in long- lived cases than in young controls, which coincides with the protective role of the minor variant for telomere length. In contrast, the XRCC6 variant was not associated with longevity. Furthermore, it did not
+
+this article (doi:10.1007/s10522-011-9360-5) contains supplementary material, which is available to authorized users.
+
+J. Dai   S. M. Jazwinski (&) Tulane Center for Aging and Department of Medicine, Tulane University Health Sciences Center,
+
+Tulane Ave., SL-
+
+, New Orleans, LA
+
+, USA e-mail: sjazwins@tulane.edu
+
+Department of Kinesiology, Louisiana State University, Baton Rouge, LA 70803, USA
+
+Department of Medicine, Louisiana State University Health Sciences Center, New Orleans, LA 70112, USA
+
+Genetics Department, University of Georgia, Athens, GA 30602, USA
+
+L. Myers
+
+Department of Biostatistics, School of Public Health Tropical Medicine, Tulane University Health Sciences Center, New Orleans, LA 70112, USA
+
+Institute of Gerontology, University of Georgia, Athens, GA 30602, USA
+
+affect the association of SIRT1 with survival. The association of the same variant of with longevity was near significant (P \ 0.07) in second population. These results suggest a role of SIRT1 in linking telomere length and Given the differences between this gene and they point to the distinct impact that pathways of telomere maintenance may have on and exceptional survival.
+
+2010). Leukocyte telomere length shows a high degree of heterogeneity among individuals at any given age (Iwama et al. 1998), and it has been associated with various physiological and pathological conditions (Aubert and Lansdorp 2008). Telomere length is heritable, with heritability estimates ranging from 44 to 80% (Slagboom et al. 1994; Andrew et al. 2006). Long-lived individuals and their offspring maintain longer telomeres compared with controls (Atzmon et al. 2010). Thus, leukocyte telomere length may serve as an endophenotype useful in developing candidate genes for association with longevity and healthy aging.
+
+nance. They include the telomerase complex in proliferating cells and other capping proteins involved in protection of chromosome termini (Cohen et al. 2007; Palm and de Lange 2008). Telomere structure and function can be compromised by excessive telomere shortening in the absence of normal telome- rase activity or by loss of one or more of the capping proteins. It can also be corrupted by various forms of DNA damage. Dysfunctional telomeres can also trigger damage responses, including pathways of double-strand break (DSB) repair that can lead to genomic instability (Lamarche et al. 2010). Unlike germ cells and stem cells, terminally differentiated somatic cells lack telomerase activity (Hastie et al.
+
+Introduction
+
+Telomere length shortens with each cell division in most somatic cells, due to the ‘‘end-replication problem’’ (Harley 1991). Telomere shortening also occurs with cellular senescence and aging in vivo, but its status as a biomarker of human aging is not settled (Shawi and Autexier 2008; Mather et al. 2011). Shortened telomeres are also found in cancer cells, and they are associated with high cancer incidence and mortality, although this association may be related to the presence of the disease and may not be a good predictor of cancer risk (Pooley et al. 2010; Willeit et al. 2010; von Zglinicki 2002). Indeed, longer telomeres appear to be a risk factor for development of cancer according to some studies (Arbeev et al. 2011). Telomere length has been associated with many other factors or conditions, such as oxidative damage (von Zglinicki 2002), UV irradiation (Rochette and Brash 2010), unhealthy lifestyle (Mirabello et al. 2009), and physical and mental functions (Grodstein et al. 2008; Cherkas et al. 2008; Ludlow et al. 2008). Among several age-related decrements, cognitive decline has been associated with decreased telomere length (Devore et al. 2011).
+
+Telomere length can also be maintained through alternative lengthening mechanisms in the absence of telomerase activity, as described in cancer cells (Bryan et al. 1997; Reddel et al. 2001; Reddel and Bryan 2003). These alternative mechanisms include homologous recombination (HR) or non-homologous end joining (NHEJ). In NHEJ, which involves the Ku heterodimer and DNA ligase complex, DNA ends are directly fused without the need for substantial homol- ogy (Moore and Haber 1996). Ku consists of Ku70 and Ku80 encoded by XRCC6 and XRCC5, respectively (Critchlow and Jackson 1998; Riha et al. 2006). In normal cells with intact telomeres, Ku promotes genomic stability by repressing intra- or inter-chro- matid exchange via the telomeric repeats (Celli et al. 2006). In human somatic cells, induced loss of either Ku subunit results in cell death with substantial telomere loss, indicating that Ku is essential in
+
+Circulating blood leukocytes have been a resource in telomere biology because of their abundance and the relative ease with which they are obtained. Leukocyte telomere length can be used as a reasonable estimator for the relative telomere length in other tissues, but this may not be applicable to all tissues (Friedrich et al. 2000; Thomas et al. 2008; Young 2010). It reflects the length of telomeres in cells
+
+sample are shown in Online Resource 1. For the longevity association study, we examined 517 Cauca- sians consisting of 293 young controls, which were 21–59 years old, and 224 nonagenarian cases, which were 90-103 years old. All of these relatively-healthy, community-dwelling individuals are part of the Lou- isiana Healthy Aging Study (LHAS) (Jazwinski et al. 2010). Only the Caucasian subjects in LHAS were included to avoid confounding by population admix- ture and because of sample size considerations. To replicate the results of the longevity association study, 390 Caucasian (European-origin) subjects from the Georgia Centenarian Study (GCS) were examined, including 170 subjects C98 years of age and 220 young controls 20–59 years old (Jazwinski et al. 2010). The samples for the longevity association and telomere studies are summarized in Table 1. Subjects provided informed consent according to protocols approved by the institutional review boards.
+
+maintaining normal telomere length (d’Adda di Fagagna et al. 2001; Wang et al. 2009).
+
+The Ku complex interacts with a number of proteins. For example, Ku interacts with hTERT, the catalytic subunit of telomerase reverse transcriptase (Chai et al. 2002). Ku also interacts with SIRT1, as shown by co-immunoprecipitation (Jeong et al. 2007). SIRT1 is recruited to DSBs and is required for efficient DSB repair via HR (Oberdoerffer et al. 2008). Increased expression of SIRT1 in mice results in longer telomeres, an effect dependent on telomerase, and increased HR throughout the genome, including telomeres (Palacios et al. 2010). A catalytically inactive form of SIRT1 undermines deacetylation of Ku70 and its role in DNA repair (Jeong et al. 2007). These findings indicate that SIRT1 and Ku interact protecting from DNA damage and maintaining telo- mere integrity.
+
+In this study, we have examined the association of two key genes in telomere maintenance pathways with age-related decline in telomere length. This telomere endophenotype was used to identify candidate genes for association with exceptional survival. Unlike XRCC6, SIRT1 was significantly associated with longevity.
+
+Population stratification
+
+Ethnic affiliation for the LHAS (N = 869) and GCS (N = 650) subjects was inferred genetically. One hundred informative, identical-by-descent Alu inser- tion polymorphisms were used with 715 reference subjects of known geographic ancestry (Europe, Asia, Africa, India) (Ray et al. 2005) employing the Struc- ture program (Pritchard et al. 2000), as described in detail previously (Jazwinski et al. 2010). Stratification of subjects was according to origin-population assign- ment probability greater than 0.80. Additionally, the mean frequencies of each of the individual Alu’s were compared in the Caucasian (European-origin) subjects
+
+Materials and methods
+
+For the telomere analyses, we examined 357 Cauca- sian (European-origin) subjects who were C60 years old. The phenotypic summary characteristics of this
+
+Table 1 Demographic characteristics of population samples in longevity and telomere analysesa
+
+Sample Caseb Controlc Additionald Total Male Female Male Female Male Female LHASe 84 140 100 193 0 0 517 (80) (130) (0) (0) (68) (79) 357 GCSf 25 145 84 136 0 0 390
+
+a Number of subjects in telomere analyses are in parentheses b Nonagenarian in LHAS, centenarian in GCS c
+
+–
+
+years old d
+
+–
+
+years old e Louisiana Healthy Aging Study f Georgia Centenarian Study
+
+(TRF) lengths determined by Southern blot analysis (Cawthon 2002, 2009; Pavesi et al. 2009). However, there seems to be a large between-study variation in the correlation of the two measures: One unit of T/S corresponds to approximately 6–10 kb in TRF length, depending on the reference sample used and other experimental conditions.
+
+Telomere length determination
+
+Average telomere length in white blood cells was estimated using a quantitative polymerase chain reaction method (q-PCR), as described (Cawthon 2002; Terry et al. 2008; Cawthon 2009) with modi- fications. Briefly, genomic DNA was extracted from whole blood and quantified using the Picogreen assay (Ahn et al. 1996). To estimate telomere length, two q-PCRs were applied to each sample, a single-copy- gene-specific q-PCR for b-globin and a telomere- specific q-PCR. A telomere/single-copy gene (T/S) ratio was calculated for each sample using the q-PCR results and normalized to the T/S ratio of a reference sample. The normalized T/S ratio was used as an estimate of the relative telomere length.
+
+Other phenotypic variables
+
+Collection of data for health deficit variables construction of the deficit index are essentially described (Jazwinski et al. 2010). Briefly, the index (DI) was derived as the un-weighted count of number of deficits divided by the total number possible deficits (N = 48) in an individual. The reported medical history questionnaire was tered to all study participants, and its components used to construct the deficit index. This was mented with items from an activities-of-daily (ADL) questionnaire. The continuous-scale function performance test involves the performance ten standardized tasks (CS-PFP10) representing ities of daily living including carrying donning clothes, sweeping the floor, loading a climbing stairs along with a 6-min timed walk et al. 1996, 2005). The Yale Physical Activity is to assess physical function and activity (Dipietro et al. 1993). We used one of its indices, Yale Energy Expenditure (YEE), which the time spent for each activity multiplied by intensity code, expressed as kilocalories per Mini-Mental State Examination (MMSE) was used screen for cognitive impairment (Folstein et al. Rovner and Folstein 1987). Age of subjects verified using both documentary evidence and graphic questionnaires. Mortality data were using Social Security Death Index search.
+
+genomic DNA, 19 Applied Biosystems, Inc. (ABI) SYBR Green PCR Master Mix, 2.5 mM DTT, 100 nM Tel-1b primer (50-CGG TTT GTT TGG GTT TGG GTT TGG GTT TGG GTT TGG GTT-30) and 900 nM Tel-2b primer (50-GGC TTG CCT TAC CCT TAC CCT TAC CCT TAC CCT TAC CCT-30). The reaction was processed in an ABI 7300 real-time PCR machine for 1 cycle at 95(cid:3)C for 10 min, 30 cycles of 95(cid:3)C, 15 s, and 54(cid:3)C, 1 min. The b-globin reaction consisted of 15 ng genomic DNA, 19 ABI SYBR Green PCR Master Mix, 300 nM Hbb3 primer (50- TGT GCT GGC CCA TCA CTT TG-30) and 700 nM Hbb4 primer (50-ACC AGC CAC CAC TTT CTG ATA GG-30). The reaction was processed for 1 cycle at 95(cid:3)C for 10 min, followed by 40 cycles at 95(cid:3)C for 15 s, 58(cid:3)C for 20 s, and 72(cid:3)C for 28 s. All the reactions were done in triplicate. The relative T/S ratio was calculated by the comparative Ct (2-DDCt) method. To determine the PCR efficiency, a series of two-fold dilutions of the reference DNA was added to every plate, and a standard curve was generated. According to the slopes of the standard curves, PCR amplification efficiencies for the target and reference samples were very similar, ranging from 92 to 108%. In a given study, the relative T/S ratios correlate
+
+Genotyping
+
+The Illumina GoldenGate assay was performed according to the manufacturer’s instructions. SNPs were selected according to the Illumina Assay Design Tool. Following completion of the assay, all the samples were analyzed using Illumina GenomeStudio. Initial clustering was performed with the 10th percen- tile GenCall score set at 0.4 for both samples and SNPs. Samples with call rates below 90% were removed, and
+
+well with the mean terminal-restriction-fragment
+
+Hardy–Weinberg proportions was tested using the v2 goodness-of-fit method or an exact method for small sample sizes. A P-value \ 0.05 was considered statistically significant. All statistical tests of signif- icance reported in this study are two-sided. The genetic modes of inheritance for each SNP were based on the assumed effects of the minor allele. For example, additivity (add) of rs132793 assumes an increasing effect with the increasing dose of the minor allele A, whereas dominance (dom) and recessiveness (rec) were assumed when GA = AA and GG = GA, respectively. Survival analyses were performed using the Cox proportional hazards regression, with age, sex, and T/S as covariates. Multiple comparison correc- tions for the initial tests of association of alleles or genotypes with telomere length and longevity are inherent in the respective statistical tests or have been incorporated post hoc as indicated.
+
+the remaining samples were re-clustered. SNPs not in Hardy–Weinberg proportions or with minor allele frequency lower than 1% were removed.
+
+SNP rs7896005 (A/G; A is ancestral) is located in an intron of SIRT1. It is part of a large linkage disequilibrium (LD) block encompassing the entire gene (Online Resource 2). The A allele of rs7896005 shows a great ethnic variation in frequency: in the HapMap-CEU sample, its frequency is 0.288; whereas in Asian and African samples, it exceeds 0.8.The SNP rs132793 (G/A) is located in the intergenic region between the convergent XRCC6 and NHP2L1 genes on chromosome 22 (Online Resource 3). According to the dbSNP database, the G allele of rs132793 is ancestral with its frequency ranging from about 0.8 in the HapMap-CEU sample to almost unity in the HapMap-YRI. It is located about 3.6 kb downstream from the end of the last exon of XRCC6 and about 6.3 kb downstream from the end of the last exon of NHP2L1. XRCC6 is about 4,300 nucleotides long from the first exon to the last (including introns), and the NHP2L1 is about 1,500 nucleotides long. NHP2L1 is a human ortholog of the S. cerevisiae Nhp2 protein and binds to a stem-loop structure of an RNA component in the spliceosome assembly (Saito et al. 1996; Nottrott et al. 1999).
+
+Results
+
+Telomere length, age, and health status
+
+Telomere length was determined in DNA from peripheral blood leukocytes as the T/S using a q-PCR assay (Cawthon 2002). The was confined to the Caucasian subjects in the LHAS as determined by analysis (0.80 assignment probability), because sample size was sufficient. Consistent with published studies, there was a significant correlation of T/S with age (q = -0.207; P = 8.09 10-5; Table 2; Fig. 1). On the other hand, T/S positively correlated with better health status, sented by the CS-PFP10, the YEE, the MMSE, collectively by the DI. Of these, CS-PFP10 was prominent in its significance (q = 0.261; P = 7.78 10-5). This association of CS-PFP10 with length was near significant (P \ 0.07) after ment for age; however, the correlations of remaining measures of healthy aging with telomeres did not survive this adjustment (Table indicating that they were related to the decline health status as a function of age. No differences in the mean T/S values were between male and female subjects (Online 1). However, males performed significantly better females in the CS-PFP10 (P = 1.59 9 10-4),
+
+Pairwise LD comparison
+
+LD blocks for SIRT1 and XRCC6 were examined using Haploview (http://www.broad.mit.edu/mpg/hap loview). D0/LOD values are designated by: bright red (D0 = 1, LOD C 2); blue (D0 = 1, LOD \ 2); shades of pink/red (D0 \ 1, LOD C 2); white (D0 \ 1, LOD \ 2). The numbers shown inside the boxes are D0 values 9 100 (empty boxes represent the D0 value of 1). Haplotype blocks are defined by the confidence bounds on D0. If the one-sided upper 95% confidence bound on D0 lies between 0.7 and 0.98, the SNP pairs involved are considered to be in strong LD (Gabriel et al. 2002).
+
+Statistics
+
+All the statistical analyses were performed in R (version R 2.11.1; R Development Team, 2008). Because of non-normality of the T/S data, either non- parametric tests or parametric tests on natural-log transformed T/S were performed. Agreement with
+
+extensive LD block in the gene (Online Resource 2) was chosen for analysis of association with telomere length. No significant differences in genotype distri- bution of the SNP were observed between males and females, and the population sample was in Hardy– Weinberg proportions for variation at this locus (P >| 0.1). The mean T/S values varied significantly among the three genotypes at rs7896005: AA (N = 45; 1.69 ± 1.098 [mean ± SD]), AG (N = 167; 1.36 ± 0.724), and GG (N = 145; 1.47 ± 0.876) (P = 0.0134, Kruskal–Wallis test). This difference was especially evident between the minor-allele homozygotes (AA) and the other two genotypes. This pattern of phenotypic variation is best fit by assuming the recessivity of the minor allele. Adjustment for age in a multiple linear regression model showed that the association of SIRT1 with T/S is independent of age (Table 3, model a).
+
+Table 2 Spearman correlation of telomere length (T/S) with healthy aging
+
+Variable Coefficient P-value qa P-valuea (q) Age -0.207 8.09 9 10-5 n.a.b n.a.b CS- 0.261 7.78 9 10-5 0.125 6.12 9 10-2 PFP10c YEEd 0.105 4.94 9 10-2 0.026 6.33 9 10-1 MMSEe 0.159 2.93 9 10-3 0.044 4.15 9 10-1 DIf -0.092 8.23 9 10-2 -0.012 8.20 9 10-1
+
+b Not applicable c Continuous
+
+scale physical function performance test d Yale energy expenditure e Mini
+
+mental state examination f
+
+60 70 80 90 100 Age, years )S/T(nl ,htgnel eremoleT 0.25.10.15.00.05.0−0.1−5.1−
+
+Association of XRCC6 with telomere length
+
+We next assessed the potential impact of XRCC6 on the age-telomere length correlation. Ku70, encoded by XRCC6 is part of the Ku70/80 complex which acts in concert with SIRT1 in telomere maintenance. The XRCC6 SNP rs132793 in the 30 flanking region of this gene is in high LD (D0 = 1) with two SNPs in the promoter region and one in the first intron of XRCC6 (Online Resource 3). This SNP has been used as a marker for XRCC6 in several studies (Sobczuk et al. 2010; Li et al. 2011; Liu et al. 2007). No significant differences in genotype distribution of the SNP were observed between males and females, and the popu- lation sample was in Hardy–Weinberg proportions for variation at this locus (P >| 0.1).
+
+Fig. 1 Plot of normal log-transformed telomere length (T/S) versus age with a linear regression slope. Each circle represents an individual subject
+
+The mean T/S ratios significantly differed between the subjects grouped according to the genotypes of rs132793 (P = 1.91 9 10-2, Table 4). The mean T/S values increased as the number of copies of the minor allele A increased, resulting in significant differences between GG and AA groups (P = 4.36 9 10-2) and GG and AG ? AA combined groups (P = 4.42 9 10-2). The association of T/S with rs132793 was examined in detail using multiple linear regression (Table 3). The additive mode of inheritance for the genetic effect of the minor allele was statistically significance (model b), and the significance persisted after adjustment for age (model c). These results indicate that the shorter telomeres associated with
+
+may well reflect the overall gender difference in health status, because males scored significantly better than females on the DI (P = 1.62 9 10-5). According to Cox regression, there was no association of T/S with survival (P SS | 0.1), but survival was highly dependent on age (P = 9.14 9 10-12).
+
+SIRT1 and telomere length
+
+We first examined SIRT1 as a potential modulator of the age-telomere length correlation. The SIRT1 SNP rs7896005, located in an intron and part of an
+
+Table 3 Dependence of telomere length (T/S) on SIRT1 and XRCC6 variantsa
+
+variablesb Coefficient SE P-value R2 age ? SIRT1 rs7986005 (rec) -8.867 9 10-3 (age) 2.187 9 10-3 6.17 9 10-5 0.0571 1.73 9 10-1 (SIRT1) 6.553 9 10-2 8.52 9 10-3 XRCC6 rs132793 (add) 1.04 9 10-1 3.877 9 10-2 7.55 9 10-3 0.020 age ? XRCC6 rs132793 (add) -8.70 9 10-3 (age) 2.073 9 10-3 3.42 9 10-5 0.066 1.05 9 10-1 (XRCC6) 3.790 9 10-2 5.98 9 10-3 age ? SIRT1 rs7896005 (rec) -8.95 9 10-3 (age) 2.162 9 10-3 4.35 9 10-5 0.0816 XRCC6 rs132793 (add) 1.81 9 10-1 (SIRT1) 6.482 9 10-2 5.50 9 10-3 1.17 9 10-1 (XRCC6) 3.804 9 10-2 2.31 9 10-3
+
+a Linear regression was performed on natural log-transformed T/S b SNPs are coded 0, 1, or 2 according to the inheritance mode of the minor alleles, recessive (rec) for rs7896005 and additive (add) for rs132793 (see Materials and methods)
+
+SIRT1 and longevity
+
+Table 4 Comparison of telomere length (T/S) in different XRCC6 genotypesa
+
+Genotype Number Mean ± SD P-value GG 240 1.393 ± 0.829 AG 100 1.533 ± 0.877 AA 15 1.745 ± 0.894 AA ? AG 115 1.561 ± 0.878 GG vs. AG vs. 1.91 9 10-2 b AA GG vs. AA 4.36 9 10-2 c GG vs. 4.42 9 10-2 c (AA ? AG) a XRCC6 SNP rs132793
+
+Because SIRT1 passed our criterion of association with the aging endophenotype of telomere length, we next examined the association of this gene with longevity. To test its association with longevity, we compared the allele and genotype frequencies of rs7896005 in Caucasian (European-origin) subjects of the LHAS study population (0.80 assignment probability). We found that the frequency of the minor allele of the SIRT1 SNP rs7896005 was higher in the long-lived cases (C90 years old) than in the young controls (20–59 years old) of the LHAS (Table 5). Logistic models testing effects of this SNP on case–control binary outcomes predicted that the odds of homozy- gotes of the minor allele being associated with the long-living case group is more than two-fold higher than the odds of other genotype carriers (Table 6). This recessive model for association of the SIRT1 variant with longevity mirrors the recessive genetic model for its association with telomere length (see text and Table 3).
+
+c Wilcoxon rank sum test (with Bonferroni correction)
+
+rs132793 are independent of age. Indeed, we didn’t see any statistically significant interaction between age and rs132793 (not shown).
+
+To see whether the SIRT1 variant interacts with age or the XRCC6 SNP, we performed multiple linear regression (Table 3, model d). The SIRT1 SNP showed a significant association with T/S, and addition of this SNP to the model including age and the XRCC6 SNP rs132793 improved the model, as shown by the higher R2 values. However, we were not able to detect any statistical interactions between the predictors (not shown). These results suggest that SIRT1 and XRCC6 impinge on telomere length through separate pathways independently of age.
+
+in LHAS, we replicated this analysis in a different population. Samples from the GCS were used. Cau- casian (European-origin) subjects of the GCS study population (0.80 assignment probability) were chosen to correspond to the LHAS sample. In this sample, the cases were centenarians (C98 years old) and the young controls were 20–59 years old. The LD block in SIRT1 of which rs7896005 is a part is similar in the GCS Caucasian population to the one in the LHAS population, though not identical (Online Resource 2).
+
+Table 5 Contingency of longevity upon SIRT1 and XRCC6 variantsa
+
+Gene (SNP) Subject group Genotype P-valueb Allele P-valueb SIRT1 AA AG GG 8.0 9 10-3 A G 5.6 9 10-3 (rs7896005) Casec 35 105 84 175 273 Controld 21 134 138 176 410 XRCC6 AA AG GG 0.74 A G 0.94 (rs132793) Casec 12 60 152 84 364 Controld 12 84 197 108 478
+
+Table 6 Effect of XRCC6 on association of SIRT1 with longevitya
+
+Sample Gene (SNP) OR 95% CI P-value LHASb SIRT1 (rs7896005)d 2.382 1.355–4.282 2.96 9 10-3 SIRT1 (rs7896005)d 2.385 1.356–4.287 2.94 9 10-3 ? XRCC6 (rs132793)e 1.029 0.755–1.398 8.53 9 10-1 GCSc SIRT1 (rs7896005)d 1.334 0.978–1.824 6.96 9 10-2
+
+The logistic regression yielded odds one-third higher for cases based on homozygosity for the minor allele as compared to the other genotypes, which was near significant (Table 6), providing support for the asso- ciation of SIRT1 with longevity.
+
+Discussion
+
+Our study agrees with the consensus that telomere shortening occurs with age. We also found that function ability decreased with telomere shortening, which is likely due to the dependence of the function variables on age. There is a good deal of variability in the association of function and physiologic variables with telomere length in human studies, and additional examination of these associations is needed (Mather et al. 2011). Some of these discrepancies are likely due to the lack of adjustment for age. However, other differences include study design, population, function and disease status, and methods of assessment of telomere length and of function. We also made novel findings: (1) the SIRT1 and XRCC6 SNPs had significant effects on telomere length; (2) rs7896005 in SIRT1 had significant effects on longevity, whereas the XRCC6 SNP rs132793 did not; (3) the effects of the SNPs on telomere length were independent of age;
+
+XRCC6 and longevity
+
+Finally, we tested whether rs132793 is associated with longevity, because XRCC6 fit the criterion of associ- ation with the aging endophenotype of telomere length. To test association of XRCC6 with longevity, we compared the allele and genotype frequencies of rs132793 between nonagenarian cases and young controls of the LHAS population, but found no significant differences (Table 5). Incorporation of the XRCC6 SNP rs132793 in the same logistic model with the SIRT1 SNP rs7896005 showed that the association with longevity of SIRT1 persists indepen- dently of XRCC6 (Table 6).
+
+(4) the effects of the SIRT1 and XRCC6 were independent of each other.
+
+regulation. However, it could be indirectly involved in telomere metabolism by its post-transcriptional func- tion. In a two-hybrid assay, a physical interaction between Ku70 and NHP2L1 was found (Stelzl et al. 2005), raising the possibility of such an indirect effect. Considering all these data and information together, we regard XRCC6 as the gene directly responsible for the phenotypes of rs132793 described in this article.
+
+SNP functions
+
+The SIRT1 SNP is in an intron. It is 35 nucleotides away from a nearby exon/intron junction and may affect splicing, though we couldn’t find any such putative function using the SNPinfo Web Server (Xu and Taylor 2009). However, using another web search tool, Pupasuite 3 (http://pupasuite.bioinfo.cipf.es) incorporated in GeneCards Version 3 (www.gene cards.org), we found that the SNP is in the close proximity of other potentially functional SNPs. For example, rs7896005 is only 334 nucleotides down- stream of rs11327756, which is embedded in a DNA triplex forming sequence. Triplex DNA structures have been suggested as regulatory regions for con- trolling gene expression (Goni et al. 2004), and SNPs located in these sequences can affect triplex formation and hence gene expression (Duca et al. 2008).
+
+Telomere length maintenance
+
+is potentially harmful because it doesn’t involve sequence homology. Fusion of an exposed terminus with a DSB end in the middle of a would be catastrophic. Telomeric fusion two chromatids would also be catastrophic if the dicentric chromatids segregate inappropri- during mitosis. This questions the utility of this pathway as an alternative telomere length- mechanism. In any case, inactivation of either of Ku subunits results in telomere shortening in mouse primary cell types (d’Adda di Fagagna al. 2001). Our findings indicate that telomere is more effective in homozygotes of the allele of rs132793. Therefore, we conclude that A allele of rs132793 is coupled with upregulated of XRCC6 that results in more efficient length maintenance. Regarding the SIRT1 increased expression of SIRT1 correlates with DSB repair through HR and longer telomeres, not with NHEJ (Oberdoerffer et al. 2008; Palacios al. 2010). Therefore, we suggest that the intron SNP is coupled with upregulation of SIRT1 that in more efficient HR-mediated telomere main- Thus, we consider different pathways of maintenance, involving either SIRT1 or even though these genes seem to overlap each other in some of their functions.
+
+As for rs132793, this SNP lies between XRCC6 and NHP2L1 (Online Resource 3); see Materials and Methods for details. Upstream of NHP2L1 (farther downstream of XRCC6) lies a gene called MEI1, and we found that a few SNPs in MEI1 are also in high LD with rs132793 (not shown). This gene is expressed specifically in testis and is required for normal meiotic chromosome synapsis (Libby et al. 2003; Sato et al. 2006). Because we didn’t see any sex-specific pheno- types of rs132793, we rule out MEI1 as a gene responsible for the effects of rs132793 described in this article. SNP rs132793 is in high LD with four SNPs in or near XRCC6. Of these, according to our database search, rs132770 in the 50 promoter region of XRCC6 has regulatory potential. It is located 30 nucleotides upstream of the start of the first exon, and the locus is part of a number of transcription factor binding sites, with the profile of predicted binding factors and their affinities substantially varying depending on the alleles present.
+
+The possibility that SIRT1 and XRCC6 are in different pathways for telomere maintenance could explain the lack of any statistical interaction between the two genes observed in this study. However, we cannot rule out the possibility that our study was not powered enough to detect such interactions due to either insufficient sample sizes or suboptimal statisti- cal modeling. In this regard, we note the high variability of T/S values throughout the age range (Fig. 1), which resulted in the low R2 values in all the models of linear regression. Thus, the rate of telomere
+
+Online Resource 3 also shows that rs132793 is in LD with NHP2L1. NHP2L1 encodes a nuclear protein that is known to bind to the 50-stem-loop of U4 snRNA, a component of the U4/U6 snRNP in the pre- mRNA splicing machinery (Nottrott et al. 1999; Watkins et al. 2002). Based on its exclusive affinity for RNA molecules, we exclude the possibility of NHP2L1 being directly involved in telomere length
+
+shortening is likely to vary among different individ- uals of the same age group, and this suggests additional factors, such as individual-specific envi- ronments, are in operation. It is also important to acknowledge the imperfect measure of global telo- mere shortening that leukocyte telomere length pro- vides. Among the factors contributing to this limitation is the superposition of the state of the leukocyte population itself, which can undergo peri- odic fluctuations.
+
+statistically significant effect of the size seen, the GCS was not, and this is reflected in its near significance (P = 0.0696). The genetic architecture of the two populations differs, as evidenced even by the LD profile in the SIRT1 gene (Online Resource 2). Thus, the complex genetic and environmental nature of exceptional longevity must be taken into account. This complexity includes potential gene–gene and gene- environment interactions, as seen in other studies (Jazwinski et al. 2010; Bergman et al. 2007). This remains an area open to further investigation.
+
+Our study suggests that telomere shortening occurs, at least in part, in an age-independent manner, and that SIRT1 and XRCC6 define two pathways impinging on this telomere decline. Obviously operation of multiple genetic pathways for telomere maintenance adds flexibility and complexity to the age-dependent default rate of telomere attrition. One can imagine that these pathways may act as modulators of environmental factors or conditions that bear the potential to afflict telomere integrity leading to genomic instability.
+
+Acknowledgments Supported by grants from the National Institute on Aging of the National Institutes of Health (P01AG022064 and P01AG017553) and by the Louisiana Board of Regents through the Millennium Trust Health Excellence Fund [HEF(2001-06)-02]. We thank the people of Louisiana and Georgia for participation in our study. We acknowledge the valuable recruitment, data acquisition, data management, and fiscal management efforts of M. Cervantes, D. Rouzan, T. Beard, M. Burgess, K. Grier, E. Jackson, E. McCarthy, K. Shaw, L. Strong, S. Reynolds, S. Anderson, E. Cassidy, M. Janke, T. Savla, and M. Poon. Additional authors include for The Louisiana Healthy Aging Study: M. Allen, I.E. Antikainen, A.M. Arce, J. Arceneaux, Mark A. Batzer, E.O. Boudreaux, L. Byerley, P.A. Callinan, C.M. Champagne, H. Cheng, Y.-W. Chiu, L. Cosenza, M.E. Cress, J.P. DeLany, J. Denver, A. Deutsch, M.J. deVeer, D.A. Dobrosielski, R. Ellis, A. Ermolao, M. Erwin, M. Erwin, J. Fabre, E. Fontham, M. Frisard, P. Geiselman, L. Goodwin, V. Greco, S. Hadie, T. Hall, M. Hamilton, S.W. Herke, K. Hawley, J. Hayden, K. Hebert, F. Holton, H.-C. Hsu, D. Johannsen, L. Kawasaki, B. Kimball, C. King-Rowley, M. Konkel, R. Kuhn, K. Landry, C. Lavie, D. LaVie, M. Leblanc, C. M. Lefante, L. Li, H.-Y. Lin, K. Lopez, B. McEvoy-Hein, J.D. Mountz, E. Olinde, J. Owens, K. Pedersen, A. Pellett, E. Ravussin, P. Remedios, Y. Robertson, J. Rood, H.Rothschild, R.A. Russell, E. Sandifer, B. Schmidt, R. Schwartz, D.K. Scott, J. Silva, F.N. Standberry, L.J. Su, J. Thomson, A. Tiwari, V. Toups, C. Traylor, C. Velasco- Gonzalez, J. Volaufova, C. Waguespack, J.A. Walker. X.-Y. Wang, R.H. Wood, Q. Yu, S. Zehr, and P. Zhang; for The Georgia Centenarian Study: R.C. Green, M. Gearing, W.R. Markesbery, J.L. Woodard, M.A. Johnson, J.S. Tenover, I.C. Siegler, P. Martin, M. MacDonald, C. Rott, W.L. Rodgers, D.B.
+
+Telomere length and longevity
+
+The yeast gene SIR2 and its orthologs are well characterized as lifespan determinants in model organisms (Guarente and Kenyon 2000), but the role of SIRT1 in human longevity hasn’t been established yet. Here, we presented statistical evidence for the involvement of SIRT1 in human longevity. Interest- ingly the same allele was found to be associated with longer telomeres, which tempts us to connect longer telomeres with longevity. However, we didn’t see any correlation of the XRCC6 SNP with longevity, even though it was associated with telomere length. One explanation is that the NHEJ in which Ku70 partic- ipates has deleterious side effects. It is also possible that there is no obligatory link between telomere attrition and lifespan and the association of SIRT1 with longevity depends on other factors. These other factors might act alone or in concert with telomere length. The elucidation of these factors, genetic and environmen- tal, will be aided by studies in additional populations. We are aware of one such study (Flachsbart et al. 2006) in which no association of SIRT1 with longevity was detected. In this regard, it is noteworthy that the size of the SIRT1 effect in the Georgia population is substantially smaller than in the Louisiana population.
+
+References
+
+Ahn SJ, Costa J, Emanuel JR (
+
+) Pic
+
+reen quantitation DNA: effective evaluation of samples pre- or Nucleic Acids Res
+
+(
+
+):
+
+–
+
+Andrew T, Aviv A, Falchi M, Surdulescu GL, Gardner JP, Lu Kimura M, Kato BS, Valdes AM, Spector TD Mapping genetic loci that determine leukocyte length in a large sample of unselected female sibling Am J Hum Genet
+
+(
+
+):
+
+–
+
+Arbeev KG, Hunt SC, Kimura M, Aviv A, Yashin AI (
+
+) Leukocyte telomere length, breast cancer risk in the off- spring: the relations with father’s age at birth. Mech Age- ing Dev
+
+(
+
+):
+
+–
+
+Atzmon G, Cho M, Cawthon RM, Budagov T, Katz M, Yang X, Siegel G, Bergman A, Huffman DM, Schechter CB, Wright WE, Shay JW, Barzilai N, Govindaraju DR, Suh Y (
+
+) Evolution in health and medicine Sackler colloquium: genetic variation in human telomerase is associated with telomere length in Ashkenazi centenarians. Proc Natl Acad Sci USA
+
+(Suppl
+
+):
+
+–
+
+Aubert G, Lansdorp PM (
+
+) Telomeres and aging. Physiol Rev
+
+(
+
+):
+
+–
+
+Bergman A, Atzmon G, Ye K, Ma
+
+arthy T, Barzilai N (
+
+) Buffering mechanisms in aging: a systems approach toward uncovering the genetic component of aging. PL
+
+Comput Biol
+
+(
+
+):e
+
+Bryan TM, Englezou A, Dalla-Pozza L, Dunham MA, Reddel RR (
+
+) Evidence for an alternative mechanism for maintaining telomere length in human tumors and tumor- derived cell lines. Nat Med
+
+(
+
+):
+
+–
+
+Cawthon RM (
+
+) Telomere measurement by quantitative PCR. Nucleic Acids Res
+
+(
+
+):e
+
+Cawthon RM (
+
+) Telomere length measurement by a novel monochrome multiplex quantitative PCR method. Nucleic Acids Res
+
+(
+
+):e
+
+Celli GB, Denchi EL, de Lange T (
+
+) Ku
+
+stimulates fusion of dysfunctional telomeres yet protects chromosome ends from homologous recombination. Nat Cell Biol
+
+(
+
+):
+
+–
+
+Chai W, Ford LP, Lenertz L, Wright WE, Shay JW (
+
+) Human Ku
+
+/
+
+associates physically with telomerase through interaction with
+
+ERT. J Biol Chem
+
+(
+
+):
+
+–
+
+Cherkas LF, Hunkin JL, Kato BS, Richards JB, Gardner JP, Surdulescu GL, Kimura M, Lu X, Spector TD, Aviv A (
+
+) The association between physical activity in leisure time and leukocyte telomere length. Arch Intern Med
+
+(
+
+):
+
+–
+
+Cohen SB, Graham ME, Lovrecz GO, Bache N, Robinson PJ, Reddel RR (
+
+) Protein composition of catalytically active human telomerase from immortal cells. Science
+
+(
+
+):
+
+–
+
+Cress ME, Buchner DM, Questad KA, Esselman PC, d
+
+ateur BJ, Schwartz RS (
+
+) Continuous-scale physical func- tional performance in healthy older adults: a validation study. Arch Phys Med Rehabil
+
+(
+
+):
+
+–
+
+Cress ME, Buchner DM, Prohaska T, Rimmer J, Brown M, Macera C, Dipietro L, Chodzko-Zajko W (
+
+) Best practices for physical activity programs and behavior counseling in older adult populations. J Aging Phys Act
+
+(
+
+):
+
+–
+
+Critchlow SE, Jackson SP (
+
+) DNA end-joining: from yeast to man. Trends Biochem Sci
+
+(
+
+):
+
+–
+
+d’Adda di Fagagna F, Hande MP, Tong WM, Roth D, Lansdorp PM, Wang ZQ, Jackson SP (
+
+) Effects of DNA non- homologous end-joining factors on telomere length and chromosomal stability in mammalian cells. Curr Biol
+
+(
+
+):
+
+–
+
+Devore EE, Prescott J, De Vivo I, Grodstein F (
+
+) Relative telomere length and cognitive decline in the Nurses’ Health Study. Neurosci Lett
+
+(
+
+):
+
+–
+
+Dipietro L, Caspersen CJ, Ostfeld AM, Nadel ER (
+
+) A survey for assessing physical activity among older adults. Med Sci Sports Exerc
+
+(
+
+):
+
+–
+
+Duca M, Vekhoff P, Oussedik K, Halby L, Arimondo PB (
+
+) The triple helix:
+
+years later, the outcome. Nucleic Acids Res
+
+(
+
+):
+
+–
+
+Flachsbart F, Croucher PJ, Nikolaus S, Hampe J, Cordes C, Schreiber S, Nebel A (
+
+) Sirtuin
+
+(SIRT
+
+) sequence variation is not associated with exceptional human lon- gevity. Exp Gerontol
+
+(
+
+):
+
+–
+
+Folstein MF, Folstein SE, M
+
+ugh PR (
+
+) ‘‘Mini-mental state’’. A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res
+
+(
+
+):
+
+–
+
+Friedrich U, Griese E, Schwab M, Fritz P, Thon K, Klotz U (
+
+) Telomere length in different tissues of elderly patients. Mech Ageing Dev
+
+(
+
+):
+
+–
+
+Gabriel SB, Schaffner SF, Nguyen H, Moore JM, Roy J, Blu- menstiel B, Higgins J, D
+
+elice M, Lochner A, Faggart M, Liu-Cordero SN, Rotimi C, Adeyemo A, Cooper R, Ward R, Lander ES, Daly MJ, Altshuler D (
+
+) The structure of haplotype blocks in the human genome. Science
+
+(
+
+):
+
+–
+
+Goni JR, de la Cruz X, Orozco M (
+
+) Triplex-forming oli- gonucleotide target sequences in the human genome. Nucleic Acids Res
+
+(
+
+):
+
+–
+
+Grodstein F, van Oijen M, Irizarry MC, Rosas HD, Hyman BT, Growdon JH, De Vivo I (
+
+) Shorter telomeres may mark early risk of dementia: preliminary analysis of
+
+participants from the nurses’ health study. PL
+
+One
+
+(
+
+): e
+
+Guarente L, Kenyon C (
+
+) Genetic pathways that regulate ageing in model organisms. Nature
+
+(
+
+):
+
+–
+
+Harley CB (
+
+) Telomere loss: mitotic clock or genetic time bomb? Mutat Res
+
+(
+
+–
+
+):
+
+–
+
+Hastie ND, Dempster M, Dunlop MG, Thompson AM, Green DK, Allshire RC (
+
+) Telomere reduction in human colorectal carcinoma and with ageing. Nature
+
+(
+
+):
+
+–
+
+Iwama H, Ohyashiki K, Ohyashiki JH, Hayashi S, Yahata N, Ando K, Toyama K, Hoshika A, Takasaki M, Mori M, Shay JW (
+
+) Telomeric length and telomerase activity vary with age in peripheral blood cells obtained from normal individuals. Hum Genet
+
+(
+
+):
+
+–
+
+Jazwinski SM, Kim S, Dai J, Li L, Bi X, Jiang JC, Arnold J, Batzer MA, Walker JA, Welsh DA, Lefante CM, Volauf- ova J, Myers L, Su LJ, Hausman DB, Miceli MV, Ravussin E, Poon LW, Cherry KE, Welsch MA (
+
+) HRAS
+
+and LASS
+
+with APOE are associated with human longevity and healthy aging. Aging Cell
+
+(
+
+):
+
+–
+
+Jeong J, Juhn K, Lee H, Kim SH, Min BH, Lee KM, Cho MH, Park GH, Lee KH (
+
+) SIRT
+
+promotes DNA repair activity and deacetylation of Ku
+
+Exp Mol Med
+
+(
+
+):
+
+–
+
+Kimura M, Gazitt Y, Cao X, Zhao X, Lansdorp PM, Aviv A (
+
+) Synchrony of telomere length among hematopoietic cells. Exp Hematol
+
+(
+
+):
+
+–
+
+Lamarche BJ, Orazio NI, Weitzman MD (
+
+) The MRN complex in double-strand break repair and telomere maintenance. FEBS Lett
+
+(
+
+):
+
+–
+
+Li R, Yang Y, An Y, Zhou Y, Liu Y, Yu Q, Lu D, Wang H, Jin L, Zhou W, Qian J, Shugart YY (
+
+) Genetic polymor- phisms in DNA double-strand break repair genes XRCC
+
+, XRCC
+
+and susceptibility to hepatocellular carcinoma. Carcinogenesis
+
+(
+
+):
+
+–
+
+Libby BJ, Reinholdt LG, Schimenti JC (
+
+) Positional clon- ing and characterization of Mei
+
+, a vertebrate-specific gene required for normal meiotic chromosome synapsis in mice. Proc Natl Acad Sci USA
+
+(
+
+):
+
+–
+
+Liu Y, Zhang H, Zhou K, Chen L, Xu Z, Zhong Y, Liu H, Li R, Shugart YY, Wei Q, Jin L, Huang F, Lu D, Zhou L (
+
+) Tagging SNPs in non-homologous end-joining pathway genes and risk of glioma. Carcinogenesis
+
+(
+
+):
+
+–
+
+Ludlow AT, Zimmerman JB, Witkowski S, Hearn JW, Hatfield BD, Roth SM (
+
+) Relationship between physical activity level, telomere length, and telomerase activity. Med Sci Sports Exerc
+
+(
+
+):
+
+–
+
+Mather KA, Jorm AF, Parslow RA, Christensen H (
+
+) Is telomere length a biomarker of aging? A review. The Journals of Gerontology Series A, Biological Sciences and Medical Sciences
+
+(
+
+):
+
+–
+
+Mirabello L, Huang WY, Wong JY, Chatterjee N, Reding D, Crawford ED, De Vivo I, Hayes RB, Savage SA (
+
+) The association between leukocyte telomere length and cigarette smoking, dietary and physical variables, and risk of prostate cancer. Aging Cell
+
+(
+
+):
+
+–
+
+Moore JK, Haber JE (
+
+) Cell cycle and genetic requirements of two pathways of nonhomologous end-joining repair of double-strand breaks in Saccharomyces cerevisiae. Mol Cell Biol
+
+(
+
+):
+
+–
+
+Nottrott S, Hartmuth K, Fabrizio P, Urlaub H, Vidovic I, Ficner R, Luhrmann R (
+
+) Functional interaction of a novel
+
+[U
+
+/U
+
+U
+
+] tri-s
+
+NP protein with the
+
+stem- loop of U
+
+s
+
+NA. EMBO J
+
+(
+
+):
+
+–
+
+Oberdoerffer P, Michan S, M
+
+ay M, Mostoslavsky R, Vann J, Park SK, Hartlerode A, Stegmuller J, Hafner A, Loerch P, Wright SM, Mills KD, Bonni A, Yankner BA, Scully R, Prolla TA, Alt FW, Sinclair DA (
+
+) SIRT
+
+redistribu- tion on chromatin promotes genomic stability but alters gene expression during aging. Cell
+
+(
+
+):
+
+–
+
+Palacios JA, Herranz D, De Bonis ML, Velasco S, Serrano M, Blasco MA (
+
+) SIRT
+
+contributes to telomere main- tenance and augments global homologous recombination. J Cell Biol
+
+(
+
+):
+
+–
+
+Palm W, de Lange T (
+
+) How shelterin protects mammalian telomeres. Annu Rev Genet
+
+:
+
+–
+
+Pavesi E, Avondo F, Aspesi A, Quarello P, Rocci A, Vimercati C, Pigullo S, Dufour C, Ramenghi U, Dianzani I (
+
+) Analysis of telomeres in peripheral blood cells from patients with bone marrow failure. Pediatr Blood Cancer
+
+(
+
+):
+
+–
+
+Pooley KA, Sandhu MS, Tyrer J, Shah M, Driver KE, Luben RN, Bingham SA, Ponder BA, Pharoah PD, Khaw KT, Easton DF, Dunning AM (
+
+) Telomere length in pro- spective and retrospective cancer case-control studies. Cancer Res
+
+(
+
+):
+
+–
+
+Pritchard JK, Stephens M, Donnelly P (
+
+) Inference population structure using multilocus genotype Genetics
+
+(
+
+):
+
+–
+
+Qi DL, Ohhira T, Oshimura M, Kugoh H (
+
+) Human mosome
+
+carries a transcriptional regulator of telomerase reverse transcriptase (
+
+ERT). Biochem phys Res Commun
+
+(
+
+):
+
+–
+
+R Development Core Team (
+
+) R: a language and ment for statistical computing. R Foundation for Computing, Vienna, Austria. http://www.R-project.org Ray DA, Walker JA, Hall A, Llewellyn B, Ballantyne Christian AT, Turteltaub K, Batzer MA (
+
+) Inference human geographic origins using Alu insertion phisms. Forensic Sci Int
+
+(
+
+–
+
+):
+
+–
+
+Reddel RR, Bryan TM (
+
+) Alternative lengthening of meres: dangerous road less travelled. Lancet
+
+–
+
+Reddel RR, Bryan TM, Colgin LM, Perrem KT, Yeager (
+
+) Alternative lengthening of telomeres in cells. Radiat Res
+
+(
+
+Pt
+
+):
+
+–
+
+Riha K, Heacock ML, Shippen DE (
+
+) The role of nonhomologous end-joining DNA double-strand repair pathway in telomere biology. Annu Rev Genet
+
+–
+
+Rochette PJ, Brash DE (
+
+) Human telomeres are sitive to UV-induced DNA damage and refractory to PL
+
+Genet
+
+(
+
+):e
+
+Rovner BW, Folstein MF (
+
+) Mini-mental state exam clinical practice. Hosp Pract (Off Ed)
+
+(
+
+A):
+
+,
+
+,
+
+Saito H, Fujiwara T, Shin S, Okui K, Nakamura Y Cloning and mapping of a human novel
+
+NA that encodes a protein highly homologous to yeast protein NHP
+
+Cytogenet Cell Genet
+
+(
+
+–
+
+):
+
+–
+
+Sato H, Miyamoto T, Yogev L, Namiki M, Koh E, Hayashi Sasaki Y, Ishikawa M, Lamb DJ, Matsumoto N, Birk Niikawa N, Sengoku K (
+
+) Polymorphic alleles of human MEI
+
+gene are associated with human by meiotic arrest. J Hum Genet
+
+(
+
+):
+
+–
+
+Shawi M, Autexier C (
+
+) Telomerase, senescence and ing. Mech Ageing Dev
+
+(
+
+–
+
+):
+
+–
+
+Slagboom PE, Droog S, Boomsma DI (
+
+) Genetic nation of telomere size in humans: a twin study of three groups. Am J Hum Genet
+
+(
+
+):
+
+–
+
+Sobczuk A, Smolarz B, Romanowicz H, Zadrozny M, zczynski J, Westfal B, Pertynski T (
+
+) Analysis of polymorphisms in non-homologous DNA end (NHEJ) gene Ku
+
+and Ligase IV in sporadic breast in women. Pol J Pathol
+
+(
+
+):
+
+–
+
+Stelzl U, Worm U, Lalowski M, Haenig C, Brembeck Goehler H, Stroedicke M, Zenkner M, Schoenherr Koeppen S, Timm J, Mintzlaff S, Abraham C, Bock Kietzmann S, Goedde A, Toksoz E, Droege A, Krobitsch Korn B, Birchmeier W, Lehrach H, Wanker EE (
+
+) human protein–protein interaction network: a resource annotating the proteome. Cell
+
+(
+
+):
+
+–
+
+Terry DF, Nolan VG, Andersen SL, Perls TT, Cawthon R Association of longer telomeres with better health in tenarians. J Gerontol A Biol Sci Med Sci
+
+(
+
+):
+
+–
+
+Willeit P, Willeit J, Mayr A, Weger S, Oberhollenzer F, Brandstatter A, Kronenberg F, Kiechl S (
+
+) Telomere length and risk of incident cancer and cancer mortality. JAMA
+
+(
+
+):
+
+–
+
+Xu Z, Taylor JA (
+
+) SNPinfo: integrating GWAS and can- didate gene information into functional SNP selection for genetic association studies. Nucleic Acids Res
+
+(Web Server issue):W
+
+–W
+
+Young NS (
+
+) Telomere biology and telomere diseases: implications for practice and research. Hematol Am Soc Hematol Educ Program
+
+:
+
+–
+
+Thomas P, O’Callaghan NJ, Fenech M (
+
+) Telomere length in white blood cells, buccal cells and brain tissue and its variation with ageing and Alzheimer’s disease. Mech Ageing Dev
+
+(
+
+):
+
+–
+
+von Zglinicki T (
+
+) Oxidative stress shortens telomeres. Trends Biochem Sci
+
+(
+
+):
+
+–
+
+Wang Y, Ghosh G, Hendrickson EA (
+
+) Ku
+
+represses lethal telomere deletion events in human somatic cells. Proc Natl Acad Sci USA
+
+(
+
+):
+
+–
+
+Watkins NJ, Dickmanns A, Luhrmann R (
+
+) Conserved stem II of the box C/D motif is essential for nucleolar localiza- tion and is required, along with the
+
+K protein, for the hierarchical assembly of the box C/D sn
+
+NP. Mol Cell Biol
+
+(
+
+):
+
+–

@@ -1,0 +1,293 @@
+Association analysis of the SHC1 gene locus with longevity in the Japanese population
+
+Received: 18 June 2003 / Accepted: 12 August 2003 / Published online: 2 October 2003 ©: Springer-Verlag 2003
+
+Hidehiko Kamei Toshio Kojima received his D.D.S. degree is presently a Team Leader of from the School of Dentistry, the Human Genome Research Aichi-gakuin University, Ja- Group RIKEN Genomic Sci- pan. He is presently a trainee of ences Center. His research in- the Human Genome Research terests include genetic analyses Group at RIKEN and a gradu- of centenarians and human ate student of the Department diseases. He is also interested of Periodontology, School of in comparative genomics es- Dentistry, Aichi-gakuin Uni- pecially focusing on primates. versity. His research interests include the relationship be- tween genetic polymorphisms and human aging and also genetic risk factors of peri- odontal disease.   
+
+ 
+
+Abstract The SHC1 gene encodes a signaling and transforming protein that has been implicated in the aging process in worms and mammals. In this study we examined 230 Japanese centenarians and 180 healthy younger controls and looked at the SHC1 locus as a candidate region that may be associated with longevity. We identified 12 single nucleotide polymorphisms (SNPs) within a 10-kb region encompassing the entire SHC1 gene from the DNA of 30 centenarians and 24 healthy younger controls. Five SNPs, including three nonsynonymous sites, lay within coding elements, six were located within introns, and one was in the 30 untranslated region. All of these SNPs were relatively rare, with a minor allele frequency of less than 5% in our
+
+Department of Periodontology, School of Dentistry, Aichi-gakuin University, 2-11 Suemori-dori, Chikusa-ku, Nagoya, Aichi, 464-8651,
+
+Y. Arai · K. Yamamura · M. Takayama · S. Nakazawa · Y. Ebihara N. Hirose Department of Geriatric Medicine, School of Medicine, Keio University,
+
+Shinanomachi, Shinjyuku-ku, Tokyo,
+
+-
+
+, Japan
+
+subjects. A pairwise linkage disequilibrium analysis using the r2 statistic showed that two of the SNP pairs are in tight linkage disequilibrium at this locus. We investigated the possible association of SHC1 with longevity using association analyses with allelotypes and haplotypes but found that the SNPs identified in SHC1 had no impact on longevity for Japanese centenarians.
+
+Y. Gondo
+
+Y. Sakaki
+
+Materials and methods
+
+Subjects
+
+A total of 230 Japanese centenarians (168 women, 62 men, age 100.8€1.5 years) living in the Tokyo metropolitan area recruited between April 1999 and January 2001 for the second of the Tokyo Centenarian Study. Participants were identified the national registry of centenarians, published by the Ministry Health, Welfare, and Labor [11]. Among those enrolled 162 living at home, and 68 were institutionalized. None was in an care setting, and none was receiving tube feeding. included physical examination, measurement of body weight height, electrocardiography, and blood pressure Information regarding habitual food intake, alcohol smoking habits, physical and cognitive functioning, use of ication, and past medical history was also collected [11]. seven centenarians (20.4%) were receiving antihypertensive ment, and ten had a history of treatment for cancer (two cancer, two colon, two prostate, one bladder, two breast, and cancer of the uterus). Using the Mini-Mental State (MMSE) and clinical dementia rating criteria, 170 (73.9%) were found to have varying degrees of cognitive ment; this rate is similar to that of a previous study in Japan The regionally matched control subjects comprised 180 volunteers (116 women, 64 men, mean age 36.1€11.3 years, 22–65) who were recruited from hospital and institutional medical and nursing school students, and bank clerks. The subjects were free from diseases such as coronary artery stroke, diabetes, and cancer. Smoking and alcohol consumption moderate to nil. All subjects enrolled in this study were Nonfasting venous blood (20 ml) was collected from all and genomic DNA was prepared from peripheral according to standard protocols. Written informed consent obtained from all participants directly or by proxy. This study approved by the ethics committees of the Medical School of University and of the RIKEN Yokohama Institute.
+
+Introduction
+
+The influence of genes on aging and life expectancy is well established in species ranging from yeast to mammals. The shc1 gene was originally described as a proto-oncogene, encoding three different isoforms of shc1 proteins with molecular masses of 46, 52, and 66 kDa respectively [1]. Recently an unexpected correlation between life span and control of the oxidative stress response was reported. Targeted mutation of the shc1 gene locus caused ablation of a splice variant of relative molecular mass 66,000 (p66shc) and resulted in selective resistance to oxidative stress and an extended life span in the mouse [2]. On a high-fat diet, the p66shc(cid:1)/(cid:1) mouse showed a significant reduction in systemic and tissue oxidative stress, vascular cell apoptosis, and early atherosclerotic lesions, compared with the wild type animal [3]. Another recent study [4] suggested an important functional relationship between forkhead proteins, shc1, and intracellular oxidants, all of which are thought to be involved in the aging process in worms [5, 6] and mammals [7, 8]. These studies suggest a role for shc1 in the interrelation between oxidants, stress, and aging.
+
+One of the most intriguing questions to arise from our current understanding of the science of aging is whether genes associated with longevity in various animal models have the same involvement in human aging processes. Centenarians, who are the best examples of human longevity, show less evidence of oxidative stress in plasma [9] and have a lower prevalence of carotid plaques [10] than aged control subjects, suggesting a possible overlap in the aging mechanisms between humans and mice. Based on these observations, we hypothesized that the SHC1 gene, the human homologue of shc1, may have some association with exceptional longevity in humans. In this study we examined 230 Japanese centenarians and 180 healthy younger controls and looked at the SHC1 locus as a candidate region that may be associated with longevity.
+
+Identification of single nucleotide polymorphisms
+
+Genomic DNA and mRNA sequences of SHC1 were obtained from GenBank (accession numbers AL451085 and U73377, respective- ly). PCR primer sets were designed to amplify the SHC1 gene, including DNA 1 kb upstream of the first exon and 0.5 kb downstream of the last exon, with some overlap of PCR amplicons (Table 1). Following PCR amplification genomic DNA was sequenced using the BigDye Terminator cycle sequencing kit and an ABI Prism 3700 DNA analyzer (Applied Biosystems, Foster City, Calif., USA). In total five partially overlapping PCR fragments, each about 2 kb in length, were sequenced using 23 primers. Polymorphisms were identified by comparing sequences from 108 chromosomes from 30 Japanese centenarians and 24 younger controls, using the Sequencher program (Gene Codes, Mich., USA). Polymorphisms were confirmed by reamplifying and resequencing both strands using the BigDye Terminator cycle sequencing kit or real-time pyrophosphate DNA sequencing [13, 14] using a PSQ 96 system (Pyrosequencing, Uppsala, Sweden) and an single nucleotide polymorphism (SNP) reagent kit (Pyrose-
+
+Table 1 Oligonucleotide sequences for polymerase chain reaction amplification of SHC1; all primer sequences are given in the 50 to 30
+
+Table 1 Oligonucleotide sequences for polymerase chain reaction amplification of SHC1; all primer sequences are given in the 50 to 30 direction
+
+Fragment ID Forward primer Reverse primer Amplified region of AL451085 1 AGAACTGTTTCTTCCACCTCCTC ACCTCCACACAACCCATGTACTAA 100154–97867 2 CTTCTAGCCTGCCTTTTCTTTTTC ACTACAACTCCACCATGAGCAAAC 98084–95884 3 GAGCAGCTCTTGGATTAGGATTAG GAAGGAAGAGGGATACACTGTAGG 96086–93905 4 CCACCTTTCTACTTGGTTCTGG AGGAAGAAGGTCAATTCAGGTG 94352–92384 5 CCTTTGCCTTTTCTCACTTCAC CGTACACAATAGGCTTCCCAGA 92583–90696
+
+123° 45 67 SHCI/-—    8 910 9L
+
+quencing), according to the manufacturer’s instructions. DNA from the remaining subjects was sequenced only across regions contain- ing confirmed polymorphisms.
+
+Statistical analysis
+
+The (cid:1)2 test was performed between centenarians and control subjects for each allelic and haplotype frequency. Statistical significance was inferred at P<0.05. Pairwise linkage disequilib- rium (LD) was estimated as D=x (cid:2)p p , where x is the frequency of ij i j ij haplotype A B , and p and p are the frequencies of alleles A and 1 1 1 2 1 B at loci A and B, respectively. A standardized LD coefficient, r, 1 is given by D/(p p q q ) where q and q are the frequencies of the 1 2 1 2 1 2 other alleles at loci A and B, respectively. Haplotype frequencies for multiple loci were estimated by the expectation-maximization method. Computations were performed using the SNPAlyze software (Dynacom, Mobara, Japan).
+
+Fig. 1 SNP map of the genomic region containing SHC1. Open rectangles Exons; horizontal lines introns. SNPs are indicated above the lines according to number
+
+tions were more prevalent (9/10) than transversion substitutions (1/10). Only one insertion/deletion polymor- phism was detected in SHC1. All SNPs were submitted to the dbSNP database in the NCBI. Accession numbers are listed in Table 2.
+
+Results
+
+Allele and genotype frequency distributions in young persons and centenarians
+
+Molecular variants in
+
+An additional 200 Japanese centenarians and 156 healthy younger controls were genotyped for each of the 11 observed SNPs and for one reported nonsynonymous SNP (SNP8) [15] (Table 3). Although the frequencies were very low, SNP8 (1/460) was observed only in centenar- ians. SNP8 was present in only one of the 820 chromo-
+
+A 10 kb genomic region containing the entire SHC1 gene was completely sequenced in 30 Japanese centenarians and 24 younger controls. A total of 11 SNPs were identified; four of these lay within coding elements, 6 within introns, and 1 within the 30 untranslated region (Fig. 1, Table 2). Among these SNPs transition substitu-
+
+SNP ID Location Position in Nucleotide Function dbSNP ss AL451085 major/minor SNP 1 Exon 1 98491 C/T P158P ss12586030 SNP 2 Intron 1 98441 C/T  ss12586031 SNP 3 Intron 1 98440 C/T  ss12586032 SNP 4 Intron 2 97743 G/-  ss12586033 SNP 5 Intron 2 97555 C/G  ss12586029 SNP 6 Exon 3 97225 C/T A205V ss12586028 SNP 7 Intron 3 97115 G/A we ss12586027 SNP 8 Exon 9 94624 A/G M410 V ss12586026 SNP 9 Exon 11 94177 C/T S476L ss12586034 SNP 10 Intron 11 93825 C/T  ss12586025 SNP 11 Exon 12 92274 G/A L573L ss12586024 SNP 12 Exon 12 90925 C/T 30 UTR ss12586023
+
+Table 3 Association analysis of SHC1
+
+SNP ID Centenarian Control Allele frequencies P Odds ((cid:1)2) ratio Major Hetero Minor Allele Major Hetero Minor Allele Centenarian Control homo homo count homo homo count SNP1 224 6 0 460 174 6 0 360 0.013 0.017 0.67 1.28 SNP2 223 7 0 460 174 5 1 360 0.015 0.019 0.64 1.28 SNP3 223 7 0 460 174 5 1 360 0.015 0.019 0.64 1.28 SNP4 212 18 0 460 160 18 2 360 0.039 0.061 0.15 1.60 SNP5 212 18 0 460 168 12 0 360 0.039 0.033 0.66 0.85 SNP6 210 20 0 460 165 15 0 360 0.043 0.042 0.90 0.96 SNP7 214 16 0 460 167 13 0 360 0.035 0.036 0.92 1.04 SNP8 229 1 0 460 180 0 0 360 0.002 0.000 0.38 0.00 SNP9 226 4 0 460 178 2 0 360 0.009 0.006 0.60 0.64 SNP10 224 6 0 460 175 5 0 360 0.013 0.014 0.92 1.07 SNP11 225 5 0 460 179 1 0 360 0.011 0.003 0.18 0.25 SNP12 210 20 0 460 164 16 0 360 0.043 0.044 0.95 1.02
+
+Table 4 Haplotype analysis of SHC1 (1 major allele, 2 minor allele)
+
+Haplotype ID SNP ID Haplotype frequencies 1 2 3 4 5 6 7 8 9 10 11 12 Control Control 1 1 1 1 1 1 1 1 1 1 1 1 1 0.795 0.780 2 1 1 1 1 1 2 1 1 1 1 1 2 0.044 0.041 3 1 1 1 1 2 1 1 1 1 1 1 1 0.037 0.031 4 1 1 1 2 1 1 1 1 1 1 1 1 0.036 0.053 5 1 1 1 1 1 1 2 1 1 1 1 1 0.026 0.034 Others             0.062 0.061  SNP12, showed high LD, indicating major SNP subgroups (Fig. 2, bottom). other SNP pairs were less than 0.1. Haplotypes were constructed on genotype data from 12 SNPs observed Haplotype frequencies were estimated maximization algorithm, with One major haplotype accounts for haplotypes, and other minor haplotypes the total. There was no significant frequency of haplotypes between Data access
+
+Haplotype ID SNP ID Haplotype frequencies Chi-sqare Odds test P ((cid:1)2) ratio 1 2 3 4 5 6 7 8 9 10 11 12 Control Control 1 1 1 1 1 1 1 1 1 1 1 1 1 0.795 0.780 0.60 0.91 2 1 1 1 1 1 2 1 1 1 1 1 2 0.044 0.041 0.83 0.93 3 1 1 1 1 2 1 1 1 1 1 1 1 0.037 0.031 0.62 0.82 4 1 1 1 2 1 1 1 1 1 1 1 1 0.036 0.053 0.24 1.49 5 1 1 1 1 1 1 2 1 1 1 1 1 0.026 0.034 0.48 1.34 Others             0.062 0.061  
+
+1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 2 1 1           123 4 5 6 7 8 9 1011 12 SNP; 
+
+SNP12, showed high LD, indicating the presence of two major SNP subgroups (Fig. 2, bottom). The r2 values for other SNP pairs were less than 0.1.
+
+Haplotypes were constructed on the basis of the genotype data from 12 SNPs observed in SHC1 (Table 4). Haplotype frequencies were estimated by the expectation- maximization algorithm, with phase-unknown samples. One major haplotype accounts for about 80% of all haplotypes, and other minor haplotypes less than 22% of the total. There was no significant difference in the frequency of haplotypes between centenarians and controls.
+
+Data access
+
+The detailed data on this manuscript including sequences of oligonucleotide used for sequencing are available at http://hgp.gsc.riken.go.jp.
+
+Fig. 2 Pairwise LD in SHC1, evaluated by r2 estimations. The LD between all pairs of SNPs (SNP and SNP , where i and j refer to the i j SNP IDs shown in Table 2) was evaluated by the LD measure r2 among 66 marker pairs studied in 410 Japanese participants, including centenarians and younger controls. SNP pairs in high LD (r2 (cid:1)0.9) are shown as blackened boxes. All other SNP pairs were in low LD (r2 <0.1) and are shown as white boxes. Two subgroups of SNPs in high LD with each other are shown below
+
+Discussion
+
+central role in controlling the oxidative stress response and aging, we investigated the possible association of SHC1 genetic variability with longevity in the Japanese popula- tion. We first investigated molecular variants in the 10-kb genomic region that contains the entire SHC1 gene (Fig. 1, Table 2). Among 12 SNPs identified in this study three were nonsynonymous sites. Although the frequency of these nonsynonymous SNPs was very small, their presence is likely to affect protein function. In particular, the A205V substitution occurs within a conserved phosphotyrosine- binding domain. The frequency of the other observed SNPs is also low, which reduces the statistical power to detect population differences at this locus. Ventura et al. [17] showed that p66shc expression in primary, immortal, and transformed human cells is regulated by the degree of methylation of its promoter. Accordingly, we sequenced 1 kb of the SHC1 promoter region; however, no variation was found among centenarians or controls.
+
+somes analyzed, despite a reported frequency of 4% in the white population [15]. Homozygotes for SNP2, SNP3, and SNP4 were identified only among the younger controls. The other polymorphisms showed no significant difference in distribution between centenarians and con- trols. For each polymorphism the major allele showed a high frequency (>95%; Table 3). The genotype frequen- cies within our sample fitted Hardy-Weinberg equilibrium expectations with remarkable fidelity (data not shown).
+
+Pairwise LD and haplotype analysis for SHC1
+
+Estimation of the strength of pairwise LD allows detec- tion of risk variants by analyzing associated markers in LD. The r2 value is used in LD analyses because the power to detect a risk variant indirectly in n samples is equivalent to the power to detect it directly in nr2 samples [16]. The strength of LD for each pair of SNPs was measured using the r2 value for a total of 410 (230 centenarians and 180 controls) sets of genotypes. Figure 2 shows pairwise r2 values (1–0.9, blackened boxes) for assessment of patterns of significant disequilibrium values. Only two SNP pairs, SNP2/SNP3, and SNP6/
+
+Association analyses were then performed using allelic and haplotype frequencies of observed SNPs in centenar- ians and control samples (Tables 3, 4). Although not statistically significant, we found some notable differ- ences in SHC1 between centenarians and younger controls. SNP8, with a reported frequency of 4% in the white population [15] was observed only in centenarians.
+
+novel transforming protein (SHC) with an SH
+
+domain implicated in mitogenic signal transduction. Cell
+
+:
+
+–
+
+Migliaccio E, Giorgio M, Mele S, Pelicci G, Reboldi Pandolfi PP, Lanfrancone L, Pelicci PG (
+
+) The adaptor protein controls oxidative stress response and life in mammals. Nature
+
+:
+
+–
+
+Napoli C, Martin-Padura I, de Nigris F, Giorgio M, G, Somma P, Condorelli M, Sica G, De Rosa G, Pelicci (
+
+) Deletion of the p
+
+Shc longevity gene reduces and tissue oxidative stress, vascular cell apoptosis, and atherogenesis in mice fed a high-fat diet. Proc Natl Acad USA
+
+:
+
+–
+
+Nemoto S, Finkel T (
+
+) Redox regulation of proteins through a p
+
+shc-dependent signaling pathway. ence
+
+:
+
+–
+
+Murakami S, Johnson TE (
+
+) The OLD-
+
+positive of longevity and stress resistance is under DAF-
+
+regulation Caenorhabditis elegans. Curr Biol
+
+:
+
+–
+
+Ogg S, Paradis S, Gottlieb S, Patterson GI, Lee L, HA, Ruvkun G (
+
+) The Fork head transcription factor
+
+transduces insulin-like metabolic and longevity signals in elegans. Nature
+
+:
+
+–
+
+Kops GJPL, Dansen TB, Polderman PE, Saarloos I, KWA, Coffer PJ, Huang TT, Bos JL, Medema RH, BMT (
+
+) Forkhead transcription factor FOXO
+
+a quiescent cells from oxidative stress. Nature
+
+:
+
+–
+
+Tran H, Brunet A, Grenier JM, Datta SR, Fornace AJ D
+
+tefano PS, Chiang LW, Greenberg ME (
+
+) DNA pathway stimulated by the forkhead transcription FOXO
+
+a through the Gadd
+
+protein. Science
+
+:
+
+–
+
+Paolisso G, Tagliamonte MR, Rizzo MR, Manzella D, bardella A, Varricchio M (
+
+) Oxidative stress and ing age: results in healthy centenarians. J Am Geriatr
+
+:
+
+–
+
+Homma S, Hirose N, Ishida H, Ishii T, Araki G, Halsey JH (
+
+) Carotid plaque and intima-media thickness assessed B-mode ultrasonography in subjects ranging from young to centenarians. Stroke
+
+:
+
+–
+
+Arai Y, Hirose N, Yamamura K, Nakazawa S, Shimizu Takayama M, Ebihara Y, Homma S, Gondo Y, Masui Y, H (
+
+) Deficiency of cholesteryl ester transfer protein and polymorphisms of lipoprotein lipase and hepatic lipase are associated with longevity. J Mol Med
+
+:
+
+–
+
+Asada T, Yamagata Z, Kinoshita T, Kinoshita A, Kariya Asaka A, Kakuma T (
+
+) Prevalence of dementia distribution of Ap
+
+alleles in Japanese centenarians: almost-complete survey in Yamanashi Prefecture, Japan. J Geriatr Soc
+
+:
+
+–
+
+Ronaghi M, Karamohamed S, Pettersson B, Uhlen M, Nyren (
+
+) Real-time DNA sequencing using detection of phosphate release. Anal Biochem
+
+:
+
+–
+
+Ronaghi M, Uhlen M, Nyren P (
+
+) DNA SEQUENCING: sequencing method based on real-time pyrophosphate.
+
+:
+
+–
+
+Almind K, Ahlgren MG, Hansen T, Urhammer SA, Clausen Pedersen O (
+
+) Discovery of a Met
+
+Val Variant in and Studies of Its Relationship to Birth Weight and Impaired Insulin Secretion, Insulin Resistance, and Type Diabetes Mellitus. J Clin Endocrinol Metab
+
+:
+
+–
+
+Pritchard JK, Przeworski M (
+
+) Linkage disequilibrium humans: models and data. Am J Hum Genet
+
+:
+
+–
+
+Ventura A, Luzi L, Pacini S, Baldari CT, Pelicci PG (
+
+) p
+
+Shc longevity gene is silenced through epigenetic cations of an alternative promoter. J Biol Chem
+
+Yashin AI, Cypser JW, Johnson TE, Michalski AI, Boyko Novoseltsev VN (
+
+) Heat shock changes the distribution in populations of Caenorhabditis elegans: does tell us anything about the biological mechanism of response? J Gerontol A Biol Sci Med Sci
+
+:B
+
+–B
+
+Carlson CS, Eberle MA, Rieder MJ, Smith JD, Kruglyak Nickerson DA (
+
+) Additional SNPs and rium analyses are necessary for whole-genome studies in humans. Nat Genet
+
+:
+
+–
+
+On the other hand, homozygotes for the minor allele of SNP2, SNP3, and SNP4 were found only among the younger controls. The frequency of the major haplotype is similar between centenarians and controls. A recently developed mathematical model suggests that centenarians show greater heterozygosity for stress-responder genes that drive the individual adaptive capacity than younger subjects [18]. Our data do not support this model, probably because SHC1 is not one of the genes affecting such adaptive capability.
+
+While examining for differences between centenarians and controls, we found an interesting feature of SHC1. In our analysis the major allele showed a high frequency (>95%) in each polymorphism. Consequently the fre- quency of the major haplotype was also significantly high. In a recent study in which 50 genes were scanned across regions totaling 564 kb common SNPs, defined as ones with minor allele frequencies greater than 10%, were observed at a rate of one per 506 bp [19]. In our study no common SNPs were observed across the 10 kb region that comprised the SHC1 locus.
+
+was unique for the Japanese population we additionally sequenced the same locus in samples from 24 African- Americans and 24 whites. This confirmed that this is indeed a characteristic of the SHC1 gene (data not shown), raising the possibility that this locus has been highly protected against mutations or highly preserved by natural selection throughout human evolution.
+
+Although numerous studies have investigated the role of SHC1 as an adaptor protein functioning in the regulation of oxidative stress and apoptosis, few studies have focused on the associations between variations in the SHC1 locus and age-related disease in humans. Almind et al. [15] identified a M300V substitution in SHC1 and looked for any associations with birth weight, insulin sensitivity, or prevalence of type 2 diabetes mellitus. No such associa- tions were found. In our thorough investigation of the SHC1 locus in the Japanese population we found no significant association between allelotypes, genotypes, or haplotypes and longevity. However, we uncovered a unique feature of the SHC1 locus, which is monopolized by one major haplotype in the Japanese population. Further study is needed to elucidate the relationship between the characteristics of SHC1 and human longevity.
+
+In light of the recent progress in understanding the biomedical significance of SHC1 the SNPs documented here will be useful not only for studying associations between specific SNPs and SHC1-related diseases but also as a catalogue of SNPs among Japanese centenarians.
+
+Acknowledgements We greatly appreciate the time and assistance given to us by the centenarians and their family members. This study could not have been performed without their kind cooper- ation.
+
+References
+
+Pelicci G, Lanfrancone L, Grignani F, McGlade J, Cavallo F, Forni G, Nicoletti I, Grignani F, Pawson T, Pelicci PG (1992) A

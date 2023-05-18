@@ -1,0 +1,479 @@
+Biogerontology 5: 169–176, 2004.   2004 Kluwer Academic Publishers. Printed in the Netherlands. BN
+
+Association between low self-rated health and heterozygosity for 110A>C polymorphism in the promoter region of HSP70-1 in aged Danish twins
+
+Ripudaman Steen Peter Niels Bjørn Andersen Frederiksen4 , Kaare Christensen4 & Suresh I. S. Rattan2,(cid:1) 1Department of Human Genetics University of Aarhus, DK-8000, Aarhus-C, Denmark; 2Department Molecular Biology, University of Aarhus, DK-8000, Aarhus-C, Denmark; 3Research Unit for Medicine, Aarhus University Hospital and Faculty of Health Sciences, Skejby Sygehus, DK-8200, Denmark; 4Institute of Public Health, University of Southern Denmark, DK-5000, Odense-C, Denmark *Author for correspondence (e-mail: rattan@imsb.au.dk; fax: 45-8612-3178)
+
+Received 2 September 2003; accepted in revised form 15 December 2003
+
+Key words: aging, gerontogenes, heat shock proteins, longevity, stress response
+
+Abstract
+
+We have studied the possible association between the 110A > C polymorphism in the promoter region of one of the heat shock protein genes HSP70-1 with human longevity in a cohort of aged Danish twins. This cohort includes individuals aged between 70 and 91 years (mean ¼ 75.6 years), who are categorized according to the presence or absence of various diseases and according to the various, age-related parameters for which a genetic component has already been defined. Four hundred DNA samples from the cohort were genotyped using real-time PCR. Aging phenotypes (diseases, physical and cognitive func- tioning) were compared with regard to genotype. Of all the aging phenotypes studied, self-rated health and relative self-rated health, which represent an individual’s overall sense of physical well-being and which have been shown to be both predictors of survival at older ages and better indicators of future survival than objectively measured health status, were associated with the polymorphism. An association was found ) between low self-rated health and heterozygosity for 110A > C polymorphism in the promoter region of
+
+Introduction
+
+demonstrate an association between polymor- phisms in Hsp genes (HSP) and parameters of organismal aging.
+
+In most eukaryotic cells, a slight increase in stress in the form of heat, heavy metals, nutrient depri- vation, oxygen radicals or viral infection induces a heat shock (HS) response, marked by the repres- sion of normal protein synthesis, induction of HS genes and the preferential synthesis of several HS proteins (Hsp) or stress proteins (for a review see, Verbeke et al. 2001). HS response protects cells from subsequent damage and aids them to coun- teract the effects of the stress. The capacity to re- spond rapidly to stress at the gene level determines the adaptive and, therefore, the survival capacity and longevity of the organism (Minois 2000; Rattan 2001). One way to indicate relationship between organismal aging and stress response is to
+
+Of the various stress proteins, Hsp70 is the most prominent and best characterised in the stress protein families. Hsp70 is a highly inducible and most actively synthesised protein in the cell upon HS (Tavaria et al. 1996; Verbeke et al. 2001). Hsp70 protein family members have a highly con- served sequence from E. coli to man (Kiang and Tsokos 1998). Cognate members of the Hsp70 family are found within all the major intercellular compartments while the inducible isoforms appear to be predominantly cytoplasmic or nuclear in distribution (Tavaria et al. 1996). Hsp70 acts either as a chaperone, or cooperates with the proteolytic pathways in the cells. In humans there are 11
+
+different isoforms of Hsp70 encoded by different genes located at dispersed loci. Three of the HSP70 are mapped within major histocompatibility com- plex (MHC) class III region on the short arm of chromosome 6 (Goate et al. 1987). These are in- tron-less HSP70-1, HSP70-2 and HSP70-Hom (Milner and Campbell 1990), which have homolo- gous gene sequence but differ in their regulation. There are 14 polymorphic sites within these three MHC-linked HSP70: six in HSP70-1 and four each in HSP70-2 and HSP70-Hom. Polymorphisms in these three genes have been extensively studied for their association with various autoimmune diseases such as systemic lupus erythematosus (Jarjour et al. 1996), rheumatoid arthritis (Reid et al. 1991), multiple sclerosis (Casino et al. 1994; Freedman et al. 1995; Niio et al. 2000), and insulin-dependent diabetes mellitus (Pociot et al. 1993). So far, no association between polymorphisms of the MHC- linked HSP and diseases has been found that would not be explained by linkage disequilibrium with other HLA markers. However, protective ef- fects of Hsp70 against oxidative stress suggest that it might be very valuable to study HSP polymor- phism in conditions associated with oxidant/anti- oxidant imbalance, for example aging.
+
+DNA samples
+
+The possible association between 110A > C polymorphism in HSP70-1 gene and successful/ unsuccessful aging was studied on DNA samples collected from a cohort of 200 DZ twin pairs aged 70–91 years, from LSADT study. These samples form a part of the Danish Twin Registry (Skytthe et al. 2002), which is the first nationwide twin reg- istry in the world. The LSADT is an ongoing lon- gitudinal study of Danish twins (Christensen et al. 1999) who are more than 70 years old (about 4000 individuals). With an interval of two years these individuals have been offered an examination at their home, which includes both a traditional health-related interview and a number of objective and cognitive tests, and a collection of blood sample. Till date five rounds have been performed in the years 1995, 1997, 1999, 2001, and 2003. The DZ twins from LSADT-1999 wave are the basis of this investigation. These twins are between the ages 70 and 91 years, and have been categorised according to the absence or presence of various age-related diseases viz. lung disease, osteoporosis, arthritis, osteoarthrosis, cardiovascular diseases (ischaemic heart disease (AMI/angina), heart fail- ure and stroke), hypertension, hyperthyroidism, cancer and diabetes, and for various age-related parameters including sex- and age-adjusted scores of physical and cognitive tests (Frederiksen et al. 2002b). Various parameters which have been used as measures of aging include scorings of the phys- ical function such as ‘hand grip strength’, ‘activity of daily living (ADL) strength’ and ‘ADL endur- ance’ (Nybo et al. 2001); scorings of the mental state of the individual viz. ‘cognititive composite score’ and ‘mini mental state examination’ (MMSE) (Frederiksen et al. 2002b). Furthermore, ‘self-rated health’ (scored both in absolute terms, measured in the scale of 1–5, with the possible re- sponses, ‘very good’, ‘good’, ‘fair’, ‘poor’, ‘very poor’; and in relation to others of the same age,
+
+In a recent cross-sectional study on samples from Calabria, a south Italian region, Altomare et al. (2003) have reported that the presence of an allele carrying adenine (allele A), in the ) 110A > C polymorphism present in the 5¢ flanking region, 3 base pairs upstream of the heat shock element (HSE) of the promoter region of HSP70-1 gene, was unfavourable for longevity in women. In another association study between polymorphism (2437T > C) in the coding region of HSP70-Hom with human aging, done on the Irish population (Ross et al. 2003), the frequency of T allele has been shown to increase in the old population (80–90 years) as compared to the young controls (19–45 years). However, as will be discussed later, there are confounding factors which occur while performing such cross-sectional studies, where allele frequencies in a group of young controls are compared against the allele frequencies in the oldest-old. Taking this into ac- count, we report the results of our study per- formed on DNA samples collected from Danish dizygotic (DZ) twin cohort of 400 individuals aged 70–91 years (mean ¼ 75.6), from the Longitudinal
+
+cytosine (C). Hence on performing the melting peak analysis, the high or low melting peak corre- sponded to the presence of cytosine or adenine respectively (Figure 1). LightCycler reaction was performed on 3 ll DNA in the reaction mix of 10 ll containing the following reagents: 10· Titanium Taq PCR buffer (1 ll), ADV Taq 50· (0.25 ll), 10 mM dNTPs (0.13 ll), Primer HSP70-1-forw (5 pmol/ll; 1.0 ll), Primer HSP70-1-rev (5 pmol/ll; 1.0 ll), Anchor probe (5 pmol/ll; 0.2 ll), Sensor probe (5 pmol/ll; 0.2 ll), DMSO (0.5 ll) and dou- ble distilled water (2.72 ll). The sequence of the primers and probes used is given in Table 1. The program used for the LightCycler run can be available from the authors on request.
+
+A substantial genetic component has been found for all the above traits, although the extent of the genetic component differs (Frederiksen and Chris- tensen, 2003). For example, a quarter of the vari- ation in self-rated health score has been explained by genetic factors for the groups 60–69 years and 70 years and older (Christensen et al. 1999). Also, ‘hand grip strength’ has been shown to be a suitable phenotype for identifying genetic variants of importance to mid- and late-life physical func- tioning and has a heritability of 52% (Frederiksen et al. 2002a). Once heritability is defined to all these age-related traits the next step lies in associating these traits with the specific genes. Based on these scorings we have analysed the association of parameters correlated with human longevity with ) 110A > C polymorphism in HSP70-1 gene.
+
+Statistical analysis
+
+We grouped the participants according to their HSP70-1 genotype and compared these groups with respect to various aging phenotypes. Con- tinuous phenotypes (physical ability scores, grip strength, depression and cognitive scores) were compared across the genotypes using the one way ANOVA test. Discrete variables (diseases – see Table 3) were compared across the genotypes using Pearson’s v2 test. Bonferroni correction on re- peated testing was applied.
+
+Genotyping
+
+Genotyping was done using the real-time PCR on the LightCycler system (Roche Applied Sciences), which helps to monitor the amplification of PCR product simultaneously, using fluorescent labelled sequence specific oligonucleotide probes. Probes were designed such that the oligonucleotides were complementary to the allele carrying the nucleotide
+
+Fluorescence -d(F2/F1)/dT   eat GT GG Gia Ee Cie LIM LInEaE eae et520 640 660 580 600 620 640 660 680 700 720 740 760 780 600 820 940 860
+
+NT en fkSke ale pene ee een Re eR eee dee oko athe Rae ae620 40 860 68.0 000 620 640 080 680 700 720 740 760 780 900 820 940 800
+
+Figure 1. Melting peak analysis of three samples on the LightCycler: The fluorescent probe complementary to the Allele carrying adnine (A) melts at 58(cid:2)C and that carrying (C) melts at 63 (cid:2)C, respectively. The samples homozygous for allele A or C show one peak corresponding to 58 or 63 (cid:2)C, respectively. Whereas the sample heterozygous for A and C shows two peaks corresponding to both the temperatures.
+
+Table 1. List of the primers and oligonucleotide probes used for genotyping using LightCycler system.
+
+Primers HSP70-1-forw 5¢-AGAAGACTCTGGAGAGTTC-3¢ HSP70-1-rev 5¢-AAAGGTAGTGGACTGTCGC-3¢ Probes HSP70-1-se1 5¢-AATATTCCAGGGGTTTCGCCTC-X HSP70-1-an1 5¢-LCRED640-CGTCCTGCCCCCCAGCCTT-p
+
+X – Fluorescent dye LCRED640; p – Phosphorylated.
+
+Results
+
+Table 2. Genotypic and gene frequencies (g.f.) at )110 in the promoter region HSP70-1 gene in elderly Danish twins.
+
+The genotype frequencies of the individuals homozygous for allele A (AA), heterozygous for alleles A and C (AC) and homozygous for allele C (CC) were 35% (n ¼ 142), 42.7% (n ¼ 189) and 17.2% (n ¼ 69), respectively (Table 2). The allele frequencies for allele A and allele C were 59.1% and 40.9%, respectively (Table 2) and the genotype frequency was found to be in Hardy–Weinberg equilibrium (P-value 0.59).
+
+Genotype n=400 n (%) AA 142 (35.5) AC 189 (47.2) CC 69 (17.2) Alleles n (g.f. %) A 473 (59.1) C 327 (40.9)
+
+The relationship of aging phenotypes with HSP70-1 genotype is shown in Tables 3–6. Of all the age-related parameters studied, only self-rated health and relative self-rated health (compared to others of the same age), showed an association (P- values of 0.0046 and 0.018, respectively) with ) polymorphism at 110 (Tables 5 and 6). As evi- dent from Tables 5 and 6, it is the heterozygous individuals who are more inclined to rate their heath as ‘poor’, ‘very poor’ or ‘worse’.
+
+Discussion
+
+Aging and longevity are highly complex traits influenced by genes, environment and chance (Rattan 2003). Heritability of human longevity has been estimated to be 0.26 for males and 0.23 for females from Danish twin studies (Herskind et al. 1996). However, the molecular basis of inherited components in aging is far from clear. For study-
+
+Table 3. Genotype distribution in cases (with disease) and controls (without disease) and P-values calculated for various diseases using
+
+Table 3. Genotype distribution in cases (with disease) and controls (without disease) and P-values calculated for various diseases using Pearson’s v2 test.
+
+Diseases Genotypes N (cases) N (controls) P (v2) AA AC CC AA AC CC Hyperthyroidism 8 19 8 134 170 61 0.243 Hypertension 38 49 16 104 140 53 0.854 Heart failure 10 23 5 132 166 64 0.226 AMI/angina 16 20 9 126 169 60 0.858 Stroke 9 3 3 136 186 66 0.292 Cancer (except skin cancer) 7 17 6 135 172 63 0.349 Pulm disorder 10 27 7 132 162 62 0.110 Osteoporosis 10 12 2 132 177 67 0.474 Arthritis 5 9 4 137 179 65 0.683 Osteoarthrosis 41 61 27 101 128 42 0.327 Diabetes 8 14 3 134 175 66 0.622
+
+Table 4. Mean and standard deviation (SD) of performance scores for each genotype, and P-value calculated using one way ANOVA.
+
+Parameter Mean±SD (N) AA Mean±SD (N) AC Mean±SD (N) CC P (ANOVA) Grip strength )0.19±1.02 (131) 0.05±0.88 (183) 0.09±0.97 (65) 0.298 ADL strength )0.16±0.86 (142) )0.22±0.74 (187) )0.25±0.71 (69) 0.331 ADL endurance )0.16±0.95 (138) )0.17±0.89 (185) )0.19±0.88 (67) 0.670 MMSE 0.06±0.88 (141) 0.03±1.01 (189) 0.12±0.72 (69) 0.180 Cognitive composite )0.03±1.06 (138) 0.19±0.98 (188) 0.19±1.05 (67) 0.450 Depression )0.42±4.61 (139) )0.41±4.61 (188) )1.32±2.69 (69) 0.474
+
+Table 5. Genotypic distribution of the self-rated health response.
+
+Genotype Very good Good Fair Poor/very poor Total AA 55 (39%) 55 (39%) 27 (19%) 4 (3%) 141 AC 47 (25%) 87 (46%) 36 (19%) 18 (10%) 188 CC 25 (36%) 27 (39%) 17 (24%) 0 69 Total 127 169 80 22 398
+
+P=0.0046; Pearson’s v2=18.749.
+
+6. Genotypic distribution of the relative self-rated health response.
+
+Genotype Self-rated health compared to others of the same age Total Better The same Worse AA 86 (61%) 49 (35%) 6 (4%) 141 AC 95 (50%) 69 (37%) 24 (13%) 188 CC 41 (59%) 26 (38%) 2 (3%) 69 Total 222 144 32 398
+
+P=0.018; Pearson’s v2=11.919.
+
+allele frequency might not relate directly to age but to confounding factors, as the mortality for genotypes may depend on the time of birth of the cohort because of the changes in the incidence and prevalence of the number of diseases (De Bene- dictis et al. 2001). Another weakness of cross-sec- tional studies is what epidemiologists call ‘population stratification’, that is that the ethnic compositions of various cohorts are not identical and therefore can create spurious correlations.
+
+ing the genetic basis of human longevity, the gene- longevity association studies, which look for association between polymorphisms at candidate loci and lifespan, have been a popular and useful approach. Although a number of genes have been studied for their association with human longevity, the overall picture still remains unclear (Caruso et al. 2001). This is due to the various confounding factors which affect the longevity association studies, such as heterogeneity, which may affect the Hardy–Weinberg equilibrium of the popula- tion on which such studies are to be carried out. Special problems occur when doing cross-sectional studies, where allele frequencies a group of young controls are compared against the allele frequen- cies in the oldest-old. In this design a difference in
+
+The association of HSP70-1 with human lon- gevity has been reported for the first time in a re- cent case/control study on samples from Calabria, a south Italian region (Altomare et al. 2003). The study showed that the presence of allele A, in the (cid:2)110 position of the promoter region of HSP70-1,
+
+level. Our finding of a possible association between ) a polymorphism in position 110 in the 5¢UTR of the HSP70-1 gene and self-rated health (P-value 0.0046) nevertheless requires corroboration with further studies.
+
+was unfavourable to longevity in women. In order to avoid various confounding factors discussed earlier, we in our study, have introduced a model where we took a group of 400 individuals, aged 70–91 years, from LSADT, who have been scored for parameters which are characteristic of suc- cessful/unsuccessful aging. These parameters have been studied for their association with polymor- ) phism at 110 of HSP70-1. Of all the parameters studied, self-rated health (scored both in absolute terms and in relation to others of the same age) shows a striking association (P-value 0.0046 and 0.018, respectively). This self-rated health, an ordinal trait with multifactorial etiology, repre- sents an individual’s overall sense of physical well being and has been shown to be both a predictor of survival at older ages (McCallum et al. 1994), and a better indicator of future survival than objectively measured health status (Mossey and Shapiro 1982). In our series we observed lower health score in the heterozygous individuals. This seems somewhat surprising, first because Altomare et al. found lower survival in the females homo- zygous for allele A (AA genotype), and second because it is difficult to envision a molecular mechanism causing phenotypic domination in heterozygotes. We also did a gender-specific anal- ysis for the association of ‘self-rated health’ with ) 110A > C polymorphism, but did not find any sex specificity for this association (data not
+
+Standard statistical methods require indepen- dent observations. In this study we use twins and it is known that twins correlate for many phenotypes including a number of health outcomes such as self- rated health (Christensen et al. 1999, 2000). This leads to an underestimation of the standard error but has no impact on the mean and hence does not bias the results (Holm 1983). However, this is pri- marily a problem while using monozygotic twin pairs and for highly heritable traits such as ‘height’; but not for moderately heritable traits and dizy- gotic twins, where the problem is negligible.
+
+extending the investigation to include other markers in the region. There are 14 polymorphic sites within the three MHC-linked HSP70, and the present study does not rule out a more significant association of human longevity with one of these polymorphisms. Moreover, this polymorphism at ) position 110, and other polymorphic sites within HSP70-1, HSP70-2 and HSP70-Hom are shown to be in linkage disequilibrium with the other markers in the MHC region, which have been studied for their association with human longevity. For example, in Caucasian populations, Proust et al. (1982) and Rea and Middleton (1994) have reported a positive association of haplotype A1B8Cw7DR3 with longevity in male nonage- narians. Similarly, haplotypes bearing DR3 were increased in male nonagenarians (Ivanova et al. 1998). Effects of genetic variation at the HLA-DR locus were found on survival beyond age 90 years, whenever sex was taken into account. Also, allelic combinations from three HSP70 genes have been defined in the context of MHC ancestral haplotype in the Caucasian population (Kok et al. 1999). In this study the polymorphism at HSP70-Hom, HSP70-2 and HSP70-1 gene has been shown to be associated with HLA-DR3 antigen which confirms the result from the previous study (Casino et al. 1993). The present study can therefore also be extended by defining haplotypes and using them instead of single nucleotide polymorphisms SNPs.
+
+A genetic component for the variation in the self-rated health can be demonstrated by genetic factors for those who are more than 70 years old (Christensen et al. 1999). In a follow-up, it was investigated if low self-rated heath score could be due to depression (McGue and Christensen 2003), by including the depression score for the individ- uals, assessed using an adaptation of the depres- sion section of the Cambridge Mental Disorders of Elderly Examination (CAMDEX), but we could not find any association to it (P-value 0.47), thus excluding this possibility. Although the two P-values obtained for self-rated health are quite low, the possibility of type 1 error due to multiple testing cannot be disregarded. Doing a Bonferroni correction, and taking into account that some of the parameters are dependant, revealed that a P-value should be below 0.0048 before type 1 error can be disregarded on the 5% level of significance
+
+long-lived parents age more successfully? Epidemiology
+
+:
+
+–
+
+Frederiksen H and Christensen K (
+
+) The influence of ge- netic factors on physical functioning and exercise in second half of life. Scand J Med Sci Sports
+
+:
+
+–
+
+Freedman MS, Abiscott J and Goldstein R (
+
+) Hsp
+
+gene polymorphism correlates with cellular reactivity to Hsp in multiple sclerosis. Neurology
+
+: A
+
+Goate AM, Cooper DN, Hall C, Leung TKC, Solomon E and Lim, L (
+
+) Localisation of the human heat shock HSP-
+
+gene sequence to chromosome
+
+and detection of two other loci by somatic cell hybrid and restriction fragment length polymorphism analysis. Somatic Cell Mol Genet
+
+:
+
+–
+
+Herskind AM, M
+
+ue M, Holm NV, Sørensen TIA, Harvald B and Vaupel JW (
+
+) The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Human Genetics
+
+:
+
+–
+
+Holm NV (
+
+) The use of twin studies to investigate causes of diseases with complex etiology with a focus on cancer. P
+
+Thesis. Odense University, Odense Ivanova R, Henon N, Lepage V, Charron D, Vicaut E and Schachter F (
+
+) HLA-DR alleles display sex-dependant effects on survival and discriminate between individual and family longevity. Hum Mol Genet
+
+:
+
+–
+
+Jarjour W, Reed AM, Gauthier J, Hunt S and Winfield JB (
+
+) The
+
+-kb Pst I allele of the stress protein gene, Hsp
+
+-
+
+An independent risk factor for systemic lupsus erythemat- osus in African American. Human Immunol
+
+:
+
+–
+
+Kiang JG and Tsokos GC (
+
+) Heat shock protein
+
+a: molecular biology, biochemistry, and physiology. Pharmacol Ther
+
+:
+
+–
+
+Kok CC, Croager EJ, Witt CS, Kiers L, Mastaglia FL, Abra- ham LJ and Garlepp MJ (
+
+) Mapping of a candidate region for susceptibility to inclusion body myositis in the human major histocompatibility complex. Immunogenetics
+
+:
+
+–
+
+M
+
+allum J, Shadbolt B and Wang D (
+
+) Self rated health and survival: a
+
+-year follow-up study of Australian elderly. American J Public Health
+
+:
+
+–
+
+M
+
+ue M and Christensen K (
+
+) The heritability of depression symptoms in elderly Danish twins: occasion-spe- cific versus general effects. Behav Genet
+
+:
+
+–
+
+Milner CM and Campbell RD (
+
+) Structure and expression of the three MHC-linked HSP
+
+genes. Immunogenetics
+
+:
+
+–
+
+Minois N (
+
+) Longevity and aging: beneficial effects of exposure to mild stress. Biogerontology
+
+:
+
+–
+
+Mossey JM and Shapiro E (
+
+) Self-rated health: a predictor of mortality among elderly. American J Public Health
+
+:
+
+–
+
+Niio M, Kikuchi S, Fukazawa T, Yabe I, Sasaki H and Tashiro K (
+
+) Heat shock protein
+
+gene polymorphism in Japa- nese patients with multiple sclerosis. Tissue Antigens
+
+:
+
+–
+
+Nybo H, Gaist D, Jeune B, M
+
+ue M, Vaupel J and Chris- tensen K (
+
+) Functional status and self-rated health in
+
+nonagenarians: the Danish
+
+cohort survey. J Am Geriatr Soc
+
+:
+
+–
+
+and because the genetic markers within the MHC region are shown to be in high linkage disequilib- rium with each other, we do not rule out the fur- ther possiblity of finding a strong association between the MHC-III linked HSP70 polymor- phism and human longevity.
+
+Acknowledgements
+
+This study received financial support from: Danish Centre for Molecular Gerontology, Danish Med- ical Research Council (SSVF), Danish Science Council (SNF), Senetek PLC and the Velux Foundation.
+
+References
+
+Altomare K, Greco V, Bellizzi D, Berardelli M, Dato S, D
+
+- ango F, Garasto S, Rose G, Feraco E, Mari V, Passarino G, Franceschi C and De Benedictis G. (
+
+) The allele (A) in )
+
+the promoter region of the HSP
+
+-
+
+gene is unfavorable to longevity in women. Biogerontology
+
+:
+
+–
+
+Cascino I, Galeazzi M, Salvetti M, Ristori G, Morozzi G, Richiardi PM and Tosi R (
+
+) Hsp
+
+-
+
+promoter region polymorphism tested in three autoimmune disease. Immu- nogenetics
+
+:
+
+–
+
+Casino I, Sorrentino R and Tosi R (
+
+) Strong genetic association between HLA-DR
+
+and a polymorphic variation in the regulatory region of HSP
+
+-
+
+gene. Immunogenetics
+
+:
+
+–
+
+Caruso C, Candore G, Romano GC, Lio D, Bonafe M, Val- ensin S and Franceschi C (
+
+) Immunogenetics of lon- gevity. Is major histocompatibility complex polymorphism relevant to the control of human longevity? A review of lit- erature data. Mech Ageing Dev
+
+:
+
+–
+
+Christensen K, Holm NV, M
+
+ue M, Cordor L and Vaupel JW (
+
+) A Danish population-based twin study on general health in the elderly. J Ageing Health
+
+:
+
+–
+
+Christensen K, M
+
+ue M, Yashin AI, Iachine IA, Holm NV and Vaupel JW (
+
+). Genetic and environmental influences on functional abilities among danish twins aged
+
+Years and older. J Gerontol Med Sci
+
+A: M
+
+–M
+
+De Benedictis G, Tan Q, Jeune B, Christensen K, Ukraintseva SV, Bonafe M, Franceschi C, Vaupel JW and Yashin AI (
+
+) Viewpoint – recent advances in human gene-longevity association studies. Mech Ageing Dev
+
+:
+
+–
+
+Frederiksen H, Gaist H, Petersen HC, Hjelmborg J, M
+
+ue M, Vaupel JW and Christensen K (
+
+a) Hand grip strength: a phenotype suitable for identifying genetic variants affecting mid- and late-life physical functioning. Genet Epidemiol
+
+:
+
+–
+
+Frederiksen H, M
+
+ue M, Jeune B, Gaist D, Nybo H, Skytthe A, Vaupel JW and Christensen K (
+
+b) Do children of
+
+Pociot F, Ronningen KS and Nerup J (
+
+) Polymorphic analysis of the human MHC-linked heat shock protein
+
+(HSP
+
+-
+
+) and HSP
+
+-Hom genes in insulin-dependent diabetes mellitus (IDDM). Scan J Immonol
+
+:
+
+–
+
+Proust J, Moulias R, Fumeron F, Bekkhoucha F, Busson M, Schmid M and Hors J (
+
+) HLA and longevity. Tissue Antigens
+
+:
+
+–
+
+Rattan SIS (
+
+) Applying hormesis in aging research and therapy. Hum Exp Toxicol
+
+:
+
+–
+
+Rattan SIS (
+
+) Biology of aging and possibilities of geron- tomodulation. Proc Indian Natn Sci Acad B
+
+:
+
+–
+
+Rea IM and Middleton D (
+
+) Is the phenotypic combination A
+
+B
+
+Cw
+
+DR
+
+a marker for male longevity? J Am Geriatr Soc
+
+:
+
+–
+
+D region and Hsp
+
+genes in rheumatoid arthritis. Trans- plant Proc
+
+:
+
+–
+
+Ross OA, Curran MD, Crum KA, Rea IM, Barnett YA and Middleton D (
+
+) Increased frequency of the
+
+T allele of the heat shock protein
+
+-Hom gene in an aged Irish popu- lation. Exp Gerontol
+
+:
+
+–
+
+Skytthe A, Kyvik K, Holm NV, Vaupel JW and Christensen K (
+
+) The Danish twin registry:
+
+cohorts of twins. Twin Res
+
+:
+
+–
+
+Tavaria M, Gabriele T, Kola I and Anderson RL (
+
+) A hitchhiker’s guide to human Hsp
+
+family. Cell Stress Chaperones
+
+:
+
+–
+
+Verbeke P, Fonager J, Clark BFC and Rattan SIS (
+
+) Heat shock response and ageing: mechanisms and applications. Cell Biol Int
+
+:
+
+–

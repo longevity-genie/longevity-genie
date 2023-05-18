@@ -1,0 +1,331 @@
+ATHEROSCLEROSIS
+
+Apolipoprotein E and B polymorphisms - longevity factors assessed in nonagenarians
+
+UDepartmeni of Internal Medicine, ‘Biocenter Oulu. Universitv of Oulu, Kajaanintie 50. FIN-90220 Oulu. Finland cNational Public Health InsMule, Helsinki. Finland
+
+(Received 6 July 1993; revision received 22 September 1993; accepted 24 September 1993)
+
+Abstract
+
+To test if the prevalence of genetic risk factors for coronary heart disease (CHD) is low in individuals who have reached an extremely old age, the allele frequencies of apolipoprotein E (apo E) and B (apo B) polymorphisms and plasma lipoprotein(a) levels were investigated in nonagenarians and in younger control groups. The frequency of the ~4 allele of apo E was significantly lower in the nonagenarians than in the middle-aged and young adults (P < 0.05). Also, the frequency of EcoRI allele R- of apo B was low in the nonagenarians, whereas the allele frequency for the J&I polymorphism of apo B and plasma lipoprotein(a) concentrations did not differ between the nonagenarians and the younger groups. These findings strongly suggest that the presence of these potential genetic risk factors for CHD, namely the ~4 allele of apo E and the R- allele of apo B, decreases the probability of an individual reaching an extreme-
+
+Key words: Apolipoproteins; Cholesterol; Lipoprotein(a); Lipids; Arteriosclerosis; Aging; Genetics; Longevity
+
+1, Introduction
+
+tors are involved in determining an individual’s susceptibility to CHD [3]. In a population with a high incidence of CHD, a low frequency of genetic risk factors for CHD could contribute to longevity so that possible protective genotypes would be enriched in extremely old cohorts.
+
+* Corresponding author, Tel.: 358-81-3154100; Fax: 358-81- 31 55423.
+
+Apo E is one of the major protein constituents in very low density lipoprotein (VLDL) and plays an important role in lipoprotein metabolism [4,5]. Apo E has three common isoforms, namely E2, E3 and E4, which are coded by the alleles ~2, ~3 and
+
+Part of this work was presented at the
+
+th Scientific Sessions of the American Heart Association, Anaheim. CA, I I-
+
+November
+
+and as an abstract in Circulation.
+
+(
+
+) Suppl. II.
+
+-
+
+0021-9150/94/$07.00 0 1994 Elsevier Science Ireland Ltd. All rights reserved. SSDI 002 1-9150(93)05157-Z
+
+~4 respectively at a single locus on chromosome 19. These alleles define six apo E phenotypes: E2/2, E2/3 and E2/4 (referred to as E2 category), E3/3 (E3 category), E4/3 and E4/4 (E4 category). The E4 category is associated with high serum total and low density lipoprotein (LDL) cholesterol levels in many populations [4-61. In Finland, the prevalence of e4 allele is higher than in most other countries [6].
+
+The control group (n = 260) consisted of healthy volunteers who worked in the Oulu University Hospital (n = 200, age 21-62 years) [14], and of healthy employees of a telecommunications com- pany (n = 60, age 35-64 years) [ 151. The control subjects were divided into two age categories: 40 years or younger (n = 124) and over 40 years (n = 136). The groups are referred to as young adults and middle-aged adults respectively. One individual in the latter group was diabetic. None of the control subjects was on lipid lowering drug therapy.
+
+Apo B is the sole protein constituent in LDL, the major cholesterol carrying lipoprotein. Re- striction fragment polymorphisms (RFLPs) in the apo B gene, detected with the enzymes X&I and EcoRI have been shown to be associated with the occurrence of CHD [7,8]. Several epidemiological studies have indicated that another apo B- containing lipoprotein, lipoprotein(a) (Lp(a)) is also atherogenic [9- 111. The genetically determin- ed polymorphism of apolipoprotein(a) (ape(a)) is related to plasma Lp(a) concentrations [12], so that ape(a) isoforms predict risk for CHD through their effects on Lp(a) concentrations in some populations [ 131.
+
+2.2. Methods
+
+A venous blood sample was obtained into ethylenediaminetetraacetic acid (EDTA) tubes after an overnight fast, and the plasma was separated by centrifugation at 1200 x g for 10 min (+4”(Z). LDL and high density lipoprotein (HDL) cholesterol were estimated from the fresh plasma as described in the Lipid Research Clinics Manual of Laboratory Operations [ 161.
+
+The aim of the present study was to examine whether polymorphisms at the apo E and apo B gene loci and plasma Lp(a) levels are associated with longevity in a population with a high risk for CHD. Specifically, the following questions were addressed: (i) is the prevalence of various apo E phenotypes in nonagenarians different from that in younger age groups? (ii) are the allele frequen- cies for the EcoRI and XbaI RFLP polymorphisms of the apo B gene in nonagenarians different from that in other age groups? and (iii) do the plasma Lp(a) levels change with increasing age?
+
+Cholesterol and triglycerides (enzymatic colori- metric methods, kits of Boehringer Diagnostica, catalogue nos. 236691 and 701912 respectively, Boehringer Diagnostica, Mannheim GmbH, FRG) were analysed using a Gilford IMPACT 400E Clinical Chemistry Analyzer (Gilford In- struments Laboratories Inc., Oberlin, OH).
+
+The apo E phenotype was determined from the plasma with isoelectric focusing and immunoblot- ting techniques [6,17]. The first antibody was a rabbit antibody to human apo E. The second anti-
+
+2. Subjects and methods
+
+2.1. Subjects
+
+characteristics of the study groups
+
+All the subjects of 90 years or older who lived in the town of Oulu (total population 100 000 inhabitants) were identified from community records. Eighty-seven women and 8 men (Table 1) (70% of the cohort, median age 93 years) gave an informed consent and volunteered for the study that had been approved by the Ethical Committee of the Oulu University. Of the study group, 30% lived at home, the rest being at institutions for the
+
+Controls Nona- genarians Young adults Middle-aged adults Age (years) 34 (28-37)” 49 (44-53) 93 (92-95) n 124 136 95 Sex (M/F) 71153 85/51 8/87
+
+ 4Median value (lower and upper quartiles in parentheses).
+
+Plasma lipids and lipoproteins by age categories
+
+Young adults Middle-aged Nonagenarians (n = 124) adults (n = 95) (n = 136) Total cholesterol (mM) 4.9 (4.4-5.6) 5.6 (5.1-6.4)* 5.2 (4.4-5.9) LDL cholesterol (mM) 3.2 (2.6-3.6) 3.7 (3.l-4.6)* 3.3 (2.6-3.9) HDL cholesterol (mM) 1.3 (1.0-1.6) 1.3 (1.1-1.6) I.1 (0.9-l.3)* Total triglycerides (mM) 0.9 (0.7-1.4) I.0 (0.8-1.5) 1.4 (I.]-2.0)*
+
+Median values (lower and upper quartiles in parentheses). *P < 0.01 for the difference as compared to the other groups.
+
+was successful in 89 nonagenarians, 86 middle- aged adults and 102 young adults. The apo B gene probes were the genomic EcoRI fragment (pAB 3SC) used to detect the X&I RFLP [19] and the 2-kb Hind III fragment (pBH 2) to detect the EcoRI RFLP [7,20]. The allele resulting in the for- mation of an 8.5 kb X&I fragment is designated X- (absence of the cutting site) and that generating a 3.5 kb fragment X+ (presence of the cutting site). Probing EcoRI digests with pBH2 resulted in hybridizing fragments of IO.5 kb and
+
+Plasma Lp(a) concentrations were determined by means of a two-site immununoradiometric assay (Pharmacia Diagnostica AB, Uppsala, Sweden). The coeflicient of variation within Lp(a) assays was 2.7% and 0.7% for samples with mean Lp(a) values of 3.7 and 43.3 mg/dI respectively. The coefficient of variation between assays was 7.9% and 5.5% for samples with mean Lp(a) values of 9.0 and 75.0 mgldl respectively.
+
+Data storage and statistical analysis were per- formed with the use of SAS (Statistical Analysis System Institute Inc., Cary, NC). The results are given as medians and quartiles for the lipid and Ii- poprotein variables. For the statistical analysis,
+
+DNA was extracted from white blood cells [ 181, digested with the restriction enzymes, electrophor- esed on agarose gels and transferred to nylon membranes by Southern blotting. DNA isolation
+
+150 , Young Middle-aged Nona- adults adults genarians
+
+1.0 - E2 ,” z % f 0.5 - E3 1 2 7 E4 0 - Young Middle-aged Nona- adults adults gensrians
+
+Fig. 2. The allele frequencies of apo E in the three age groups. The proportional areas (sub-bars) indicate the frequencies of ~2 (0). e3 (4 and ~4 (m alleles. The frequency of t4 allele is significantly lower in the nonagenarians compared with the
+
+Fig. I. Plasma Lp(a) concentrations in the three age groups. The boxes show the median and middle quartiles of the Lp(a) concentrations, while the whiskers represent the lowest and
+
+E phenotype categories in the various age groups
+
+ApoE phenotype 212 213 214 313 314 414 Young adults 0 9 2 12 35 6 (n = 124) (0.0) (7.3) (1.6) (58. I) (28.2) (4.8) Middle-aged adults :0.7, 4 3 1-l 45 6 (n = 136) (2.9) (2.2) (56.6) (33.1) (4.4) Nonagenarians 0 8 3 66 17 I (n = 95) (0.0) (8.4) (3.2) (69.5) (17.9) (1.1)
+
+Percentages in parentheses.
+
+homozygous and heterozygous apo E phenotypes were combined into E categories as follows: E2 = phenotypes E2/2, E2/3, E2/4; E3 = E3/3; E4 = E4/4, E4/3. Data were first tested by univariate procedure. The means of normally dis- tributed groups were compared using analysis of variance (ANOVA). Groups of skewed, not nor- mally distributed data (such as Lp(a) concentra- tions) were compared by the Kruskal-Wallis test. The gene-counting method was used for the esti- mation of gene frequencies. The x2 test was used to assess the distribution of allele frequencies between the groups.
+
+The median concentration of plasma Lp(a) was similar in all age groups, being 8.4, 8.0 and 10.0 mg/dl in the young adults, middle-aged adults and nonagenarians respectively (Fig. 1). In the nona- genarians, plasma total and LDL-cholesterol levels tended to be lower in men (3.9 mM and 2.2 mM respectively) than in women (5.3 and 3.4 mM respectively), but the differences were not statistically significant.
+
+3. Results
+
+The frequency of the ~4 allele of apo E was significantly lower in the nonagenarians than in the middle-aged and young adults (x2 = 8.4 and x2 = 5.3 respectively, P < 0.05)(F ig. 2). When only females were included, the frequency of the ~4
+
+Plasma lipid and lipoprotein levels in various age groups are presented in Table 2. ma total and LDL cholesterol were higher in
+
+EcoRI genotype distribution and allele frequency in the various age groups
+
+EcoRI genotype EcoRI allele frequency R+/R+ R-k/R- R-IR- R+ R- Young adults 69 27 6 0.809 0.191 (n = 102) (67.7) (26.5) (5.9) Middle-aged adults 43 37 6 0.715 0.285 (n = 86) (50.0) (43.0) (7.0) Nonagenarians 67 18 4* 0.854 0.146* (n = 89) (75.3) (20.2) (4.5)
+
+Percentages in parentheses. R+ and R-, presence and absence of the EcoRI cutting site of the apo B gene respectively. *P < 0.05 for the difference of the distribution from that of the younger age categories.
+
+Xbal genotype distribution and allele frequency in the various age groups
+
+ Percentages in parentheses. X+ and X-, presence and absence of the Xbal cutting site of the apo B gene respectively.
+
+allele was almost significantly lower in the nona- genarias (n = 87) than in the middle-aged (n = 51) and young adult groups (n = 53) (P < 0.06 for both comparisons). Also, the frequency of the ~4 allele was lower in the female nonagenarians than in the female subjects of both control groups (the middle-aged and young adult groups) (n = 104) (x2 = 5.0, P < 0.05).
+
+the EcoRI genotype R-/R- (homozygosity for the absence of EcoRI cutting site) was somewhat lower in the nonagenarians (4.5%) than in the middle-aged and young adults (7.0% and 5.9% respectively) (P < 0.05). The frequency of the EcoRI allele R- was also lowest (14.6%) in the nonagenarians (Table 4). When women were anal- ysed separately, the frequency of R- allele was lower in the nonagenarians (n = 81) than in the middle-aged group (n = 30) (x2 = 6.6, P < 0.01) but not lower than in the young adult group (n = 48) (x2 = 1.5, NS). Also, the frequency for the R- allele was lower in the female nonagenarians than in the control group (n = 78) (x2 = 4.6, P < 0.05). The genotype distribution and the allele frequencies for the X&I polymor- phism did not differ between the nonagenarians and the control groups (Table 5).
+
+The distribution of the apo E phenotype categories (Table 3) was different between the age groups (x2 = 10.4, P c 0.05), so that 33.1%, 37.5% and 19.0% of the young adults, middle-aged adults and nonagenarians, respectively, fell into the E4 category. In contrast, 8.9%, 5.9% and 11.6% of the young and middle-aged adults and nonagenarians, respectively, belonged to the E2 category, the E3 category consisting of 58.1%, 56.6% and 69.5% of the young, middle-aged and nonagenarian groups respectively. There were 6 individuals with the phenotype E 414 out of 124 young adults (4.9%) and also 6 with E 414 out of 136 middle-aged adults (4.4%), but only one E 4/4 out of 95 subjects (l.l”/,) in the nonagenarian group (Table 3). Of the 8 nonagenarian men, 2 had the phenotype E 213, 5 E 313, and one E 413. Again, when only females were included, the distribution of the apo E phenotype categories tended to be dif- ferent between the age groups (x2 = 7.3, NS) so that 34.0%, 37.2% and 19.5% of the female young adults, middle-aged adults and nonagenarians, respectively, fell into the E4 category.
+
+4. Discussion
+
+The major finding of this study was the low prevalence of the ~4 allele of apo E in the group of nonagenarians. This result supports the view that the presence of ~4 allele increases the susceptibility to CHD death and thus prevents the attainment of an extremely old age. This conclusion was also suggested by Davignon et al., who found a low frequency of the ~4 allele in Canadian octogenarias [21]. The present data show that the ~4 allele is a major risk factor for CHD also in a population in which the ~4 prevalence is exceptionally high [4,6]. Accordingly, the prevalence of ~4 allele is high in
+
+The distribution of genotypes and the allele fre- quencies for the EcoRI RFLP polymorphism of apo B in the nonagenarians and in the younger age
+
+previously been associated with an enhanced risk for CHD. This study strongly suggests that the presence of the e4 allele of apo E or the R allele of apo B decreases the probability of an individual reaching an extremely old age, although the reasons for increased mortality other than CHD cannot be excluded.
+
+Finnish subjects with CHD compared with sub- jects without CHD [22,23].
+
+lower and triglycerides were higher than in the younger age groups. This is in accordance with the study of Davignon et al. [21] in octogenarians. It is likely that low HDL cholesterol and high trigly- ceride values do not protect from atherosclerosis and thereby lead to longevity, but nutritional and metabolic changes associated with aging may rather result in low HDL and high triglyceride levels. This kind of lipid profile might be associ- ated with a high prevalence of impaired glucose tolerance frequently observed in aged individuals. The similarity in the Lp(a) levels among the
+
+5. Acknowledgements
+
+The skilful technical and secretarial assistance of MS Saija Kortetjarvi, MS Tuulikki Haataja, MS Marja-Leena Kytlikangas, MS Anna-Riitta Malinen and MS Tuija Ranta is greatly appre- ciated. This research was supported by The Medi- cal Council of the Academy of Finland, the Finnish Foundation for Cardiovascular Research and the Finnish Cultural Foundation.
+
+various age groups of our study suggests that high Lp(a) levels may not be a strong factor associated with longevity in Finland, an observation also made in an 80-year-old Swedish cohort [24]. In- terestingly, a recent survey on the Helsinki Heart Study participants also failed to elucidate high Lp(a) levels as a predictor of CHD [25], but another previous investigation on the Finns reported a positive association between plasma Lp(a) and CHD [26].
+
+6. References
+
+Uemura, K. and Pisa, Z., Recent trends in cardiovascular disease mortality in
+
+industrialized countries, World Health Stat. Q.,
+
+(
+
+)
+
+Pyiirlll, K., Salonen, J.T. and Valkonen, T., Trends in coronary heart disease mortality and morbidity and re- lated factors in Finland, Cardiology,
+
+(
+
+)
+
+Hegele, R.A. and Breslow, J.L., Apolipoprotein genetic variation in the assessment of atherosclerosis susceptibili- ty, Genet. Epidemiol.,
+
+(
+
+)
+
+Utermann, G., Apolipoprotein E polymorphism in health and disease, Am. Heart J.,
+
+(
+
+)
+
+Davignon, J., Gregg, R.E., and Sing, C.F., Apolipopro- tein E polymorphism and atherosclerosis, Arterio- sclerosis,
+
+(
+
+)
+
+Ehnholm, C., Lukka, M., Kuusi, T., Nikkilii, E. and Uter- mann, G., Apolipoprotein E polymorphism in the Finnish population: gene frequencies and relation to lipoprotein concentrations, J. Lipid Res.,
+
+(
+
+)
+
+Myant, N.B., Gallagher, J., Barbir, M., Thompson, G.R., Wile, D. and Humphries, S.E., Restriction fragment length polymorphism on the ap
+
+gene in relation to coronary heart disease, Atherosclerosis,
+
+(
+
+)
+
+Paulweber, B., Friedl, W., Krempler, F., Humphries, S.E. and Sandhofer, F., Association of DNA polymorphism at the apolipoprotein B gene locus with coronary heart disease and serum very low density lipoprotein levels, Arteriosclerosis,
+
+(
+
+)
+
+Dahlen, G.H., Guyton, J.R., Attar, M., Farmer, J.A., Kautz, J.A. and Gotto, A.M., Association of levels of li- poprotein Lp(a), plasma lipids, and other lipoproteins with coronary artery disease documented by angiography, Circulation,
+
+(
+
+)
+
+No differences were observed in the XbaI polymorphism of apo B gene between the various age groups. This finding is in accordance with the results of Thieszen et al., who studied 41 nona- genarians in Nebraska [27]. In contrast, the R- allele of the EcoRI polymorphism of apo B gene was less prevalent in the nonagenarian group than in the younger age groups. A correlation between the rare allele R- and an increased risk for CHD has been found in many studies [8,28], although no such association was observed in a recent survey of young myocardial infarction survivors [29]. At the moment there is no direct evidence that this DNA mutation is causally related to the pathogenesis of CHD. It may be noteworthy, however, that the prevalence of R- allele in the control groups of our study is higher than in the healthy populations reported from other countries, and approximately at the same level as among CHD patients in other populations [8,28]. Overall, these findings suggest that the R- allele may be a risk factor for CHD. In conclusion, nonagenarians have a low preva-
+
+Rhoads, G.G., Dahlen, G.. Berg, K., Morton, N.E. and Dannenberg, A.L., Lp(a) lipoprotein as a risk factor for myocardial infarction, J. Am. Med. Assoc.,
+
+(
+
+)
+
+Seed, M., Hoppichler. F., Reaveley, D., M
+
+arthy, S.. Thompson. G.R.. Boerwinkle, E. and Utermann. G., Relation of serum lipoprotein(a) concentration and apolipoprotein(a) phenotype to coronary heart disease in patients with familial hypercholesterolemia, N. Engl. J. Med.,
+
+(
+
+)
+
+Sandholzer, C.. Hallman. D.M.. Saha. N. et al., Effects of the apolipoprotein(a) size polymorphism on the lipopro- tein(a) concentration in
+
+ethnic groups, Hum. Genet.,
+
+(
+
+)
+
+Sandholzer. C., Saha, N., Kark. J.D. et al., Ape(a) iso- forms predict risk for coronary heart disease: a study in six populations, Arteriosclerosis Thromb..
+
+(
+
+)
+
+Savolainen. M.J., Rantala, M.. Kervinen, K. et al., Magnitude of dietary effects on plasma cholesterol con- centration: role of sex and apolipoprotein E phenotype. Atherosclerosis,
+
+(
+
+)
+
+Koistinen, M.J.. Prevalence of asymptomatic myocardial ischaemia in diabetic subjects, Br. Med. J.,
+
+(
+
+)
+
+Lipid Research Clinics Program, Manual of Laboratory Operations: Lipid and Lipoprotein Analysis, DHEW Publications (NIH), Bethesda,
+
+Menzel, H.-J. and Utermann. G.. Apolipoprotein E phenotyping from serum by western blotting, Electro- phoresis.
+
+(
+
+)
+
+Miller. S.A.. Dykes, D.D. and Polesky, H.F., A simple salting out procedure for extracting DNA from human nucleated cells. Nucleic Acids Res., I
+
+(
+
+)
+
+Talmud, P.J., Barni, N.. Kessling, A.M. et al.. Apolipoprotein B gene variants are involved in the deter- mination of serum cholesterol levels: a study in normo and hyperlipidaemic individuals, Atherosclerosis,
+
+(
+
+)
+
+Shoulders. C.C.. Myant. M.B., Sidoli. A. et al., Molecular cloning of human LDL apolipoprotein B
+
+NA: evidence
+
+for more than one gene per haploid genome, Athero- sclerosis,
+
+(
+
+)
+
+Davignon, J., Bouthillier, D., Nestruck, A.C. and Sing, CF., Apolipoprotein E polymorphism and atherosclero- sis: insight from a study in octogenarians. Trans. Am. Clin. Climatol. Assoc.,
+
+(
+
+)
+
+Kuusi, T., Nieminen, M.S.. Ehnholm, C. et al., Apopro- tein E polymorphism and coronary artery disease: increas- ed prevalence of apolipoprotein E-
+
+in angiographically verified coronary patients, Arteriosclerosis,
+
+(
+
+)
+
+Nieminen, M.S., Mattila, K.J., Aalto-Setala. K. et al., Li- poproteins and their genetic variation in subjects with and without angiographically verified coronary artery disease, Arteriosclerosis Thromb.,
+
+(
+
+)
+
+Stavenow, L.. Elmstihl, S.. Jerntorp. P. et al., Eighty- year-old men without cardiovascular disease in the com- munity of Malm
+
+, Part
+
+: social and medical factors, with special reference to the lipoprotein pattern, J. Intern. Med.,
+
+(
+
+)
+
+Jauhiainen, M.. Koskinen, P., Ehnholm, C. et al.. Lipo- protein (a) and coronary heart disease risk: a nested case- control study of the Helsinki Heart Study participants, Atherosclerosis,
+
+(
+
+)
+
+Berg, K.. Dahlen, G. and Frick. M.H., Lp(a) lipoprotein and pre-beetal-hpoprotein in patients with coronary heart disease. CIin. Genet.,
+
+(
+
+)
+
+Thieszen, S.L., Hixson, I.E., Nagengast. D.J., Wilson, J.E. and M
+
+anus, B.M., Lipid phenotypes. apolipopro- tein genotypes and cardiovascular risk in nonagenarians, Atherosclerosis,
+
+(
+
+)
+
+Hegele, R.A., Huang, L.. Herbert. P.N. et al., Apolipo- protein-B gene polymorphism associated with myocardial infarction, N. Engl. J. Med.,
+
+(
+
+)
+
+Peacock, R., Dunning, A., Hamsten, A., Tornvall. P.. Humphries, S. and Talmud, P.. Apolipoprotein B gene polymorphisms, lipoproteins and coronary atherosclero- sis: a study of young myocardial infarction survivors and healthy population-based individuals, Atherosclerosis.
+
+(
+
+)

@@ -1,0 +1,817 @@
+Experimental Gerontology 39 (2004) 629–635
+
+www.elsevier.com/locate/expgero
+
+polymorphisms PON1 192 and 55 and longevity in Italian centenarians and Irish nonagenarians. A pooled analysis
+
+a,* b b b c Irene M. Rea , Pascal P. McKeown , Dorothy McMaster , Ian S. Young , Chris Patterson , d b e e Maurice J. Savage , Christine Belton , Francesca Marchegiani , Fabiola Olivieri , f f Massimiliano Bonafe , Claudio Franceschi
+
+aDepartment of Geriatric Medicine, Queens University of Belfast, Whilta Medical Building, 97 Lisburn Road, Belfast BT7 9AB bDepartment of Medicine, Queens University of Belfast, Belfast, United Kingdom cEpidemiology, Queens University of Belfast, Belfast, United Kingdom dChild Health, Queens University of Belfast, Belfast, United Kingdom eItalian National Research Centres on Aging, Ancona, Italy
+
+Received 5 August 2003; received in revised form 8 October 2003; accepted 21 November 2003
+
+Abstract
+
+Background. PON1, an arylesterase, associated with high density lipoprotein (HDL), protects low density lipoprotein (LDL) against oxidative modification. Common polymorphisms PON1 55 (L/M) and 192 (Q/R) in the PON1 gene associate with atherosclerosis and heart disease. Because long-lived people seem protected from premature vascular death, we conducted a pooled statistical analysis to assess any association between these polymorphisms and longevity in a large combined group of Italian centenarians and octo/nonagenarians from
+
+Materials and methods. Separated DNA was available from 1479 subjects from Italy and Northern Ireland (NI). In Italy 308 (males 67, females 241, mean age 100.8, SD2.1 years) and 579 young controls (males 347, females 232, mean age 40.7, SD 12.7 years) includedinthestudy.InNI,296octo/nonagenarians(males92,females204,meanage (mean age 13.0, SD 1.4 years) had available DNA. PON1 55 (L/M) and 192 (Q/R) polymorphisms were studied using a PCR-RFLP
+
+(mean age 13.0, SD 1.4 years) had available DNA. PON1 55 (L/M) and 192 (Q/R) polymorphisms were studied using a PCR-RFLP approach. Results. There was a significant difference in PON1 192 genotypes in Italian centenarians compared to younger controls (X2 ¼ 6:8; df ¼ 2; p ¼ 0:03) and a similar but non significant trend between octo/nonagenarian and young subjects in NI (X2 ¼ 4:0; df ¼ 2; p ¼ 0:14). Using logistic regression analysis on the combined Italian and Irish datasets, there was a small survival advantage for centenarian and octo/nonagenarian subjects who were heterozygous for PON1 192 R allele, (OR 1.3, CI 1-1.6; p ¼ 0:04) with a stepwise increase for RR homozygous subjects (OR 1.7, CI 1.1-2.6; p ¼ 0:02), compared to QQ subjects. Comparing R and Q alleles there was a survival advantage for octo/nonagenarian/centenariansubjectswhocarriedtheRallele(OR1.3,CI1.1-1.5;p ¼ 0:007),buttherewasnosex-specificeffectðp ¼ 0:77Þ: LL, LM and MM genotypes of PON 55 polymorphisms showed similar frequencies in Italy (39.9, 47.0, 13.1%) and Ireland (39.5, 48.6, 11.9%) with no age or sex-related differences. The PON1 192R/Q and PON55L/M loci were in strong linkage disequilibrium with a Lewontin’s D0 coefficient 20.928 (elderly) and 20.965 (young). There was a significant difference in haplotype frequency of these linked loci in older compared to younger subjects (Likelihood Ratio X2 ¼ 9:60; df ¼ 3; p ¼ 0:02).
+
+Conclusion. These data suggest a modest association between the 192R allele and longevity in two very elderly populations in two European countries. Being homozygous for 192 RR further enhances survival advantage but this effect was not found to be sex specific. This finding is of interest because the 192R allele has previously been associated with increased risk of coronary heart disease. On the other hand, the 192R allele shows higher enzymatic activity, using paraoxon as substrate, and we postulate that its role in the metabolism of potentially toxic chemicals or other metabolic pathways may be important in survival to very old age. q 2004 Elsevier Inc. All rights reserved.
+
+Keywords: Allele; Polymorphisms; Genotype
+
+* Corresponding author. Tel.: þ44-28-9027-2156; fax: E-mail address: i.rea@qub.ac.uk (I.M. Rea).
+
+I.M. Rea et al. / Experimental Gerontology 39 (2004) 629–635
+
+two large cohorts of very elderly subjects-centenarians in Italy and octo/nonagenarians from the Belfast Elderly Longitudinal Free-living Ageing STudy (BELFAST) in Northern Ireland.
+
+1. Introduction
+
+Population demographics are changing with an increas- ing proportion of the population living into old age. Understanding the processes involved in ageing is important in order to maximise the quality of life of elderly people. It is likely that factors which influence longevity and healthy ageing include both genetic and non- genetic factors. In the Western world, atherosclerotic- related diseases and cancer remain the major causes of morbidity and premature death.
+
+2. Material and methods
+
+2.1. Subjects and controls
+
+Italy. A sample of 579 Italian unrelated young subjects (347 males and 232 females, mean age 40.7 years, SD12.7 years, age range 20–65 years) and a sample of 308 unrelated centenarians (241 females and 67 males) were analysed as described previously (Bonafe et al., 2002). The samples were recruited in both Northern Italy (368 young subjects and 216 centenarians) and Southern Italy (211 young subjects and 92 centenarians). Control subjects were apparently healthy at the time of blood collection judging from clinical examination and recent clinical history. All subjects gave informed consent.
+
+The paraoxonases (PON 1, 2, 3), a group of enzymes which display arylesterase activity, are clustered on the long arm of chromosome 7. Paraoxonase 1 (PON1) which hydrolyses several substrates, including paraoxon, is associated with high density lipoprotein (HDL) where it protects LDL against oxidative modification in vitro (Mackness et al., 1993; Watson et al., 1995), thus implicating PON1 as an anti-atherogenic and anti-inflam- matory enzyme.
+
+There are two common DNA polymorphisms in the PON1 gene. One located at amino acid position 55 is due to a leucine (L allele) and methionine (M allele) interchange. The second at amino acid position 192 is due to a glutamine (Q allele) and arginine (R allele) interchange. Humbert et al., 1993, reported that arginine at position 192(R) conferred higher PON activity, using paraoxon as the substrate, compared to glutamine at position 192(Q), though activity was reversed with other exogenous substrates such as diazoxon, soman, and sarin, or not altered (Davies et al., 1996; Mackness et al., 1997a). Mackness et al. (1997b, 1998), showed that the ability of HDL to protect LDL against oxidative modification may be determined by these polymorphisms, with the paraoxonase 55L and 192R homozygotes having a low ability of HDL to prevent lipid peroxidation of LDL, when compared to 55M and 192Q
+
+recruited as part of an ongoing study of ageing BELFAST, (Rea et al., 2000). Blood was collected from 296 elderly subjects (92 male and 204 female, mean age 89.8 SD 5.7 years) who were apparently well, mobile and living in the community. Young subjects were part of the Young Hearts Study (Boreham et al., 2002) described previously, and comprised a sample of 296 subjects (92 males, 204 females, age 13.0 SD 1.4 years) with DNA samples randomly selected and sex-matched to the BELFAST octo/nonagen- arian group. The study was approved by the Research Ethics Committee of the Queen’s University of Belfast and all patients and controls gave informed written consent.
+
+2.2. Genotyping
+
+Several groups have conducted association studies between paraoxonase gene polymorphisms and coronary heart disease (CHD). The 192R allele has been found to be associated with an increased risk of CHD in some but not all populations (Ruiz et al., 1995; Serrato and Marian, 1995; Sanghera et al., 1997, 1998a; Antikainen et al., 1996; Herrmann et al., 1996; Jarvik et al., 2000; Mackness et al., 2001). The situation regarding cardio- vascular risk and the PON1 55 polymorphism is confusing; Salonen et al. (1999) reported an odds ratio of 3.4 for those with the MM genotype relative to those who carried the LL genotype, Blatter Garin et al. (1994) reported an odds ratio of 1.98 for those NIDDM patients homozygous for the L allele, while Sanghera et al. (1998b), reported no association.
+
+Longitudinal Free-living Aging STudy and Young Hearts blood samples using the ‘salting-out’ method (Miller et al., 1988). The PON1 genotypes were determined by PCR amplification of the region containing the poly- morphism followed by restriction enzyme digestion (Humbert et al., 1993), previously described by Hasselwander et al. (1999). Briefly, the DNA fragment containing the codon 192 polymorphism was amplified 0 0 using forward 5 TATTGTTGCTGTGGGACCTGAG3 0 0 and reverse 5 CACGCTAAACCCAAATACATCTC3 primers. The DNA fragment containing the codon 55 polymorphism was amplified using forward 0 0 5 GAAGAGTGATGTATAGCCCCAG3 and reverse 0 0 5 TTTAATCCAGAGCTAATGAAAGCC3 primers. The following PCR conditions were used: 95 8C for 9 min; 35 cycles consisting of 95 8C for 1 min, 60 8C (PON1 55 fragment) or 58 8C (PON1 192 fragment) for 1 min, and 72 8C for 1 min; followed by a final extension step of
+
+In view of the role of PON1 in metabolism of toxic chemicals and its proposed role modulating LDL oxidation we have investigated whether the PON1 55 and 192 polymorphisms influence longevity in a pooled analysis of
+
+I.M. Rea et al. / Experimental Gerontology 39 (2004) 629–635
+
+3. Results
+
+digested with 10 U Hsp92II (Promega, Southampton, UK) and the PON1 192 product (99 bp) was digested with 8 U Alw1 (New England Biolabs, Hitchin, UK) at 37 8C for 16 h and then resolved on a 3% agarose gel, visualised by UV after ethidium bromide staining. Alleles L (leucine) and M (methionine) for the PON1 55 position were assigned based on the presence of a 170 bp (undigested) fragment and 126 and 44 bp (digested) fragments, respectively. Alleles Q (glutamine) and R (arginine) for the PON1 192 position were assigned based on the presence of a 99 bp (undigested) fragment and 69 and 30 bp (digested) fragment, respectively. Control DNA samples with known genotypes were included within each run to ensure accurate genotype assignation.
+
+There was no significant deviation of PON 192 and 55 genotype frequencies from Hardy-Weinberg equilibrium within age groups and countries.
+
+3.1. Genotype based analysis
+
+Table 1 shows a comparison of PON1 192 and 55 genotype distributions for centenarians from Italy and octo/nonagenarians from NI versus their young controls. There was a significant difference between PON1 192 genotypes in Italy for centenarian and young subjects with a greater proportion of QR heterozygotes among the older
+
+Italy. Polymerase chain reactions were performed using primer sequences derived from published data and specific for the amplification of regions surrounding codon 192 and codon 55 sites (Humbert et al., 1993). The amplification reactions and methodologies have been previously described (Bonafe et al., 2002). Some genotypes at both loci were confirmed by direct sequencing of amplified DNA fragments with the automatic sequencer (ABI PRISM 310, Perkins Elmer Biosystems).
+
+Table 1
+
+Comparison of PON1 192 and 55 genotype and allele numbers and frequencies, for centenarians in Italy and octolnonagerarians from Northern Ireland versus young controls
+
+Genotype based analysis PON1 192 QQ QR RR Italy Old (308) 142(46.1) 137(44.5) 29(9.4) P ¼ 0:03 Young (579) 320(55.3) 212(36.6) 47(8.1) N Ireland Old (296) 138(46.6) 130(43.9) 28(9.5) P ¼ 0:14 Young (296) 152(51.4) 128(43.2) 16(5.4) PON1 55 LL LM MM Italy Old (308) 121(39.3) 155(50.3) 32(10.4) P ¼ 0:15 Young (579) 233(40.2) 262(45.3) 84(14.5) N Ireland Old (294) 122(41.5) 135(45.9) 37(12.6) P ¼ 0:42 Young (296) 111(37.5) 152(51.4) 33(11.1) Allele based analysis PON1 192 Q R Italy Old (616) 421(68.3) 195(31.7) P ¼ 0:02 Young (1158) 852(73.6) 306(26.4) N Ireland Old (592) 406(68.6) 186(31.4) P ¼ 0:09 Young (592) 432(73.0) 160(27.0) PON1 55 L M Italy Old (616) 397(64.4) 219(35.6) P ¼ 0:51 Young (1158) 728(62.9) 430(37.1) N Ireland Old (588) 379(64.5) 209(35.5) P ¼ 0:65 Young (592) 374(63.2) 218(36.8)
+
+2.3. Statistical analysis
+
+increase the number of observations being examined, providing more vigorous testing of the orignal hypo- thesised relationships among the variables (Taioli and Bonassi, 2003). Gene polymorphisms for PON 1 192 and 55 were coded in both Italy and Ireland according to standard nomenclature (Humbert et al., 1993). All data received and included in the data-sets was anonymous. Deviation of genotype frequencies from the Hardy- Weinberg equilibrium was tested by a Chi square goodness of fit test. Genotype and allele frequencies for PON1 192 and PON 55 were compared by Chi square analysis between centenarian and nonagenarian subjects and their control populations separately and for the combined Italian and Irish dataset by logistic regression with country, sex, genotype or allele as coded binary 0 independent variables. Lewontin’s D coefficient was used to assess the strength of Linkage disequilibrium between the PON1 192 and 55 polymorphisms with values close to þ1 or 21 suggesting a high degree of linkage. EH was used to estimate haplotype frequencies and to derive likelihood ratio tests to compare haplotype combination frequencies in young and old (Terwilliger and Ott, 1994). Fast EH plus was used to check the validity of the asymptotic P value associated with the likelihood ratio test using 10,000 simulations (Zhao and Sham, 2002). :
+
+I.M. Rea et al. / Experimental Gerontology 39 (2004) 629–635
+
+subjects. In NI there was no significant difference between octo/nonagenarian versus young subjects but there was a trend for an increase in RR homozygotes in octo/ nonagenarian subjects. The PON 55, LL, LM and MM genotypes occurred with similar frequencies in Italy and Ireland with no significant differences between the age groups.
+
+Table 3
+
+Genotype combinations for PON1 192 and PON 55 for Italy and N Ireland pooled Old and Young groups
+
+PON 55 LL LM MM OLD PON1 192 QQ 70 143 66 279 QR 119 144 3 266 RR 54 3 – 57 Total 243 290 69 602 YOUNG PON1 192 QQ 112 245 115 472 QR 171 167 2 340 RR 61 2 – 63 Total 344 414 117 875
+
+3.2. Allele based analysis
+
+Table 1 also shows a comparison of PON1 192 and 55 allelefrequencies for both Italy and NI for very old and young groups. Comparing Q and R alleles of PON1 192, there were significant differences between the centenarian and young age groups from Italy with similar but non significant changes in N Ireland. In keeping with the genotype based analysis, the R allele frequency increased by about 4–5% in old compared to young subjects. Table 1 shows similar frequencies for PON 55 L and M alleles in Italy and NI with no significant differences between age groups.
+
+and (M versus L) for PON 55. The R allele of PON1 192 showed elevated odds ratio compared to the Q allele (1.26, CI 1.07–1.5; p ¼ 0: 007). PON 55 L and M alleles showed no differences between the age groups (0.94, CI 0.80–1.10, p ¼ 0: 44). There was no interaction between country for PON1 192 (X2 ¼ 0: 02; df ¼ 1; p ¼ 0: 88) nor for PON 55 (X2 ¼ 0: 03; df ¼ 1; p ¼ 0: 86). Tests for the interaction between sex and PON1 192 Q/R alleles showed no suggestion that the PON1 192 effects were sex specific (X2 ¼ 0: 08; df ¼ 1; p ¼ 0: 77).
+
+3.3.1. Genotype analysis
+
+Logistic regression was used to compare PON1 192 genotypes whilst adjusting for any confounding influence of country or gender. In Table 2, the results show a significant stepwise elevation in odds ratio associated with the QR genotype 1.29 (CI, 1.01–1.65; p ¼ 0: 04) and the RR genotype 1.68 (CI, 1.08–2.62; p ¼ 0: 02), relative to the QQ genotype. When logistic regression was used to compare the PON 55 LL, LM and MM genotypes between age groups, there was no significant effect. There was no interaction between country and PON1 192 (X2 ¼ 2: 04; df ¼ 2; p ¼ 0: 36) or PON 55 (X2 ¼ 3: 91; df ¼ 2; p ¼ 0: 14) genotypes, providing no evidence of heterogeneity between Italy and N Ireland in the association between PON1 192 and longevity.
+
+Table 3 shows the possible genotype combinations for PON1 192 and PON 55 and subject numbers in each genotype combination since there was evidence from the typing that linkage disequibilrium existed. The RRMM genotype combination was absent in our combined Italian and Irish young and old cohort of close to1500 subjects. The RR genotype of PON1 192 and LL genotype from PON55 were almost exclusively linked in the RRLL genotype combination with only 5 subjects out of 1500 showing the very rare RRLM combination. Formal assessment of linkage disequibilium was carried out using Lewontin’s D0 estimate which showed highly significant values ðp ,0: 0001Þ of close to þ1 or -1 in all subject groups: pooled old ðD0 ¼ 20: 928Þ; pooled young ðD0 ¼ 20: 965Þ;
+
+3.3.2. Allele based analysis
+
+Table 2 also shows the logistic regression used to compare alleles (R versus Q) for PON1 192
+
+Regression Analysis of PON1 192 and PON 55 genotypes and after adjustment for possible confounding by country and gender
+
+Comparison of haplotype frequencies in young and old subjects
+
+Odds ratio (95% CI) P Genotype analysis PON1 192 RQ vs QQ 1.29 (1.01, 1.65) 0.04 RR vs QQ 1.68 (1.08, 2.62) 0.02 PON1 55 LM vs LL 1.10 (0.86, 1.41) 0.46 MM vs LL 1.07 (0.72, 1.58) 0.73 Allele analysis PON1 192 R vs Q 1.26 (1.07, 1.49) 0.007 PON1 55 M vs L 0.94 (0.80, 1.10) 0.44
+
+Italy and N Ireland (pooled) Allele at PON1 192 Allele at PON1 55 Haplotype frequency Old Young Q L 0.337 0.367 Q M 0.348 0.367 R L 0.308 0.263 R M 0.008 0.004
+
+Likelihood ratio chi square ¼ 9.60, df ¼ 3; P ¼ 0:02:
+
+I.M. Rea et al. / Experimental Gerontology 39 (2004) 629–635
+
+frequency of 8.5% for RR homozygotes in the oldest cohort but showed no enrichment for older age groups compared to their younger controls. As in the present study they show a tight linkage disequilibrium between the PON1 192 and PON 55 loci, in this study linking R and L alleles.
+
+Italian centenarians ðD0 ¼ 20: 880Þ and Italian young ðD0 ¼20: 975Þ; Irish octo/nonagenarians ðD0 ¼ 20: 975Þ and Irish young ðD0 ¼ 20: 936Þ: A similar linkage has been documented by Heijmans et al. (2000) in Netherlands, 0 with a similar estimated linkage D value.
+
+Table 4 shows the estimated haplotype frequencies and the Likelihood Ratio (X2 ¼ 9: 6; df ¼; p ¼ 0: 02) obtained from EM which suggested that there was a small but significant difference in PON1 192 and PON55 genotype combinations in octo/nonagenarians and centenarians com- pared to the younger subject groups across Italy and Ireland. Fast EH plus confirmed the validity of the asymptotic P value given by the likelihood ratio test by using 10,000 simulations (Zhao and Sham, 2002).
+
+The mechanism underlying such a possible survival effect from carriage of the R allele in nonagenarian and centenarian subjects is not clear particularly since carriers of the R allele have appeared to be at risk of increased cardiovascular disease in earlier life in many though not all studies (Mackness et al., 2001). In younger people the mechanism has been related to the reduced ability of R allele carriers to protect their LDL cholesterol from damaging oxidation (Aviram et al., 1999; Mackness et al., 1997a). Interestingly, several studies have noted a decrease in the effect of PON1 192 with age in cardiovascular-related studies which is so far unexplained (Senti et al., 2001; Leviev et al., 2002), though Mackness et al. (2003) in the Caerphilly study suggest that risk factors for a multifactorial disease like atherosclerosis may become diluted with age. A further argument against an important cardiovascular mechanism for PON1 in survival comes from the separate analysis by sex which showed no evidence that sex differentially enhanced longevity between male and female subjects.
+
+4. Discussion
+
+Pooled analysis of Italian and Irish data in this study allowed us to increase the number of subjects being examined and provided for more vigorous testing of the original hypothesis that there might be attrition of the PON1 gene variants in the oldest age groups. In addition it allowed us to perform an analysis of the effect of sex which had not been specifically evaluated in either study (Taioli and Bonassi, 2003). Contra-intuitively, we demonstrated a modest increase in the frequency of the carriage of the R allele of the PON1 192 gene, between centenarian and octo/ nonagenarian subjects and their young controls, in the pooled data from Italy and Northern Ireland. This finding was independent of the country of the subjects’ origin and of their sex. The oldest subjects in both Italy and Ireland, in this study, demonstrate an increased frequency of the PON1 192 R allele and this effect is increased stepwise when the oldest subjects were homozygous for the R allele. When compared to younger subjects in either Ireland or Italy, surviving octo/nonagenarians in Ireland and centenarians in Italy, had an increased chance of carrying either one copy of the PON1 192 R allele (odds ratio 1.3) or two copies of the R allele (odds ratio 1.7). In some previous studies in the oldest subject groups, there has been a documented attrition in the frequency of genes which have been associated with earlier mortality, though this has not always been the case. In the most consistent finding, several groups have demonstrated that ApoE4, associated with hypercholesterolaemia, pre- mature atherosclerosis and late-onset Alzheimer’s disease (Katzman, 1994) is significantly less frequent in their populations of centenarians or nonagenarians compared to control groups, whereas ApoE 2 frequency is increased (Schachter et al., 1994; Kervinen et al., 1994; Jian-Gang et al., 1998; Frisioni et al., 1991; Rea et al., 2001). The findings in this study would seem to suggest that carriage of the PON1 192R allele is associated with a modest increased chance of survival into very old age. In the only other study to date of PON1 192 polymorphisms in longevity, Heijmans et al. (2000) in the Leiden .85 study also report a similar
+
+Although the R allele has been credited with enhancing LDL oxidation and reducing HDL protective effect, it also produces higher levels of paraxonase activity in serum, (Blatter Garin et al., 1994), the effect of which is largely unknown. Interestingly Europeans tend to have a bimodal paraoxonase activity with high or low activity subjects and a preponderance of low activity subjects. Conversely, Asian and Oriental populations have a preponderance of high paraoxonase activity subjects (Gledmacher et al., 1988) and it is food for thought that Japan has currently the longest life expectancy in the world. Recently Kuremoto et al. (2003), reported that the RR genotype of PON1 was more protective against lipoprotein oxidation and CHD in Japanese subjects. Several groups have postulated that polymorphisms in genes responsible for the metabolism of xenobiotics may influence longevity by determining the susceptibility of an individual to environmental influences. However, no association has been found to date between human longevity and genetic polymorphisms in several drug-metabolising enzymes, including NAT2, GSTM1, CYP2D6, and CYP2E1 (Muiras et al., 1998; Agundez et al., 1997; Bathum et al., 1998; Playfer et al., 1977; Yamada et al., 1998). However increased paraxonase might theoretically have some protective but unrecognised effect in the oldest age group or throughout life. The PON group of enzymes are well conserved throughout nature in mammalian species (Primo-Parmo et al., 1996) suggesting that the role of PON may be much more ancient and broader than modern cardiovascular disease in man. Ageing causes a shift in the redox balance towards oxidative stress (Ames et al., 1993) and PON1 is sensitive to oxidative stress with its activity not
+
+I.M. Rea et al. / Experimental Gerontology 39 (2004) 629–635
+
+only being reduced by excessive accumulation of lipid peroxides (Aviram et al., 1999), smoking (James et al., 2000; Jarvik et al., 2002) but also in diabetes (Kao et al., 1998) while conversely antioxidant vitamins A and E and dietary factors such as polyphenols (Fuhrman and Aviram, 2002) in wine and tea, apparently increase it (Durrington et al., 2002). Interestingly a recent study suggested that older subjects carrying the R allele had reduced lipid peroxidation after tomato juice was added to their diet (Bub et al., 2002). There is a 40% variation in PON1 with PON1 192 genotype characterising 46% of this variation, PON1 55 approxi- mately 16% (Garin et al., 1997) and the rest depending on nutritional or unidentified factors (Mackness et al., 1997b; Fuhrman et al., 2002). Unfortunately neither PON1 serum levels nor activity were measured in this study both of which would have made an important contribution to our under- standing of the relationship between genotypes and PON1 activity in the oldest age groups.
+
+References Agundez, J.A.G., Rodriguez, I., Olivera, M., Ladero, J.M., Garcia, M.A., Ribera, J.M., Benitez, J.,
+
+CYP
+
+D
+
+, NAT
+
+and CYP
+
+E
+
+genetic polymorphisms in nonagenarians. Age Ageing
+
+,
+
+–
+
+Ames, B.N., Shigenaga, M.K., Hagen, T.M.,
+
+Oxidants, antioxidants, and the degenerative disease of aging. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Antikainen, M., Murtoma¨ki, S., Syva¨nne, M., Pahlman, R., Tahvanainen, E., Jauhiainen, M., Frick, M.H., Ehnholm, C.,
+
+The Gln-Arg
+
+polymorphism of the human paraoxonase gene (HUMPONA) is not associated with the risk of coronary artery disease in Finns. J. Clin. Invest.
+
+,
+
+–
+
+Aviram, M., Rosenblat, M., Billecke, S., Erogul, J., Sorenson, R., Bisgaier, C.L., Newton, R.S., La Du, B.,
+
+Human serum paraoxonase (PON
+
+) is inactivated by oxidized low density lipoprotein and preserved by antioxidants. Free Radic. Biol. Med.
+
+,
+
+–
+
+Bathum, L., Andersen-Ranberg, K., Boldsen, J., Brosen, K., Jeune, B.,
+
+Genotypes for the cytochrome P
+
+enzymes CYP
+
+D
+
+and CYP
+
+C
+
+in human longevity. Role of CYP
+
+D
+
+and CYP
+
+C
+
+in longevity. Eur. J. Clin. Pharmacol.
+
+,
+
+–
+
+Blatter Garin, M.C., Abbott, C.A., Messmers, S., Mackness, M.I., Durrington, P.N., Pometta, D., James, R.W.,
+
+Quantification of human serum paraoxonase by enzyme-linked immunoassay: population differences in protein concentration. Biochem. J.
+
+,
+
+–
+
+Bonafe, M., Marchegiani, F., Cardelli, M., Olivier, F., Cavallone, L., Giovagnetti, S., Pieri, C., Marra, M., Antonicelli, R., Troiano, L., Guersei, P., Passeri, G., Berardelli, M., Paolisso, G., Barbieri, M., Tesei, S., Lisa, R., De Benedictus, G., Franceschi, C.,
+
+Genetic Analysis of Paraxonase (PON
+
+) locus reveals an increased frequency of Arg
+
+allele in centenarians. Eur. J. Hum. Gen.
+
+,
+
+–
+
+Boreham, C., Twisk, J., Neville, C., Savage, M., Murray, L., Gallagher, A.,
+
+Associations between physical fitness and activity patterns during adolescence and cardiovascular risk factors in young adulthood: the Norther
+
+relan
+
+oun
+
+eart
+
+roject.Int.J.Sport
+
+ed.
+
+(Suppl.
+
+), S
+
+–S
+
+Bub, A., Barth, S., Watzl, B., Briviba, K., Herbert, B.M., Luhrmann, P.M., Neuhauser-Berthoh, J., Rechkemmer, G.,
+
+Paraxonase
+
+Q-
+
+polymorphism is associated with reduced lipid peroxidation in R-allele- carrier but not in QQ homozygous elderly subjects on a tomato-rich diet. Eur. J. Nutr.
+
+,
+
+–
+
+Davies, H.G., Richter, R.J., Keifer, M., Broomfield, C.A., Sowalla, J., Furlong, C.E.,
+
+The effect of the human serum paraoxonase polymoprhism is reversed with diaoxon, soman and sarin. Nat. Genet.
+
+,
+
+–
+
+Durrington, P.N., Mackness, B., Mackness, M.I.,
+
+The hunt for nutritional and pharmacological modulators of Paraxonase. Atheros- cler. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Frisoni, G.B., Louhija, J., Geroldi, C., Trabucchi, M.,
+
+Longevity and the epsilon
+
+allele of apolipoprotein E: the Finnish Centenarians Study. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M
+
+Fuhrman, B., Aviram, M.,
+
+Preservation of paraoxonase activity by wine flavonoids: possible role in protection of LDL from lipid peroxidation. Ann. NY Acad. Sci.
+
+,
+
+–
+
+Garin, M.-C., James, R.W., Dussoix, P., Blanche, H., Passa, P., Froguel, P., Ruiz, J.l.,
+
+Paraoxonase polymoprhism Met-Leu
+
+is associated with modified serum concentrations of the enzyme. J. Clin. Invest.
+
+,
+
+–
+
+Gledmacher, V., Mallinckrodt, M., Diepgen, T.L.,
+
+The human paraoxonase polymorphism and specificity. Toxicol. Environ. Chem.
+
+,
+
+–
+
+Hasselwander, O., Savage, D.A., M
+
+aster, D., Loughrey, C.M., M
+
+amee, P.T., Middleton, D., Nicholls, D.P., Maxwell, A.P., Young, I.S.,
+
+Paraoxonase polymorphisms are not associated with cardiovascular risk in renal transplant recipients. Kid. Int.
+
+,
+
+–
+
+References
+
+important in order to maximise the quality of life of elderly people. Longevity is a complex trait, resulting from the interaction between multiple genetic and environmental factors. At the beginning of this study we had hypothesised that the192R allele, in view of its association with CHD, would be less frequent in very elderly survivors such as centenarians and nonagenarians compared to younger control populations. However, contra-intuitively we found that the 192R allele frequency was modestly enriched in the oldest survivors and that there was no sex-specific influence, which seemed to argue against a cardiovascular-related mechanism of effect. The192R allele is associated with high PON activity, using paraoxon as substrate and it may be that this allele does afford additional protection against various environmental toxins or damaging oxidative stress situ- ations. It is well recognised that association studies may be subject to spurious results, particularly because of small numbers of cases and controls, lack of an appropriate control group, poorly defined phenotype, and population admixture. We believe that these issues are less important in our study as the findings appear similar across two European countries and the number of subjects in the very oldest cohort and their control groups is large. An alternative explanation is that the 192R allele is in linkage disequilibrium with a functional neighbouring gene awaiting identification. Further work will be required to elucidate more precisely the role of paraoxonase in human biology and to see if our findings can be replicated in other independent populations or in a
+
+Norther
+
+relan
+
+oun
+
+eart
+
+roject.Int.J.Sport
+
+ed.
+
+(Suppl.
+
+), S
+
+–S
+
+Bub, A., Barth, S., Watzl, B., Briviba, K., Herbert, B.M., Luhrmann, P.M., Neuhauser-Berthoh, J., Rechkemmer, G.,
+
+Paraxonase
+
+Q-
+
+polymorphism is associated with reduced lipid peroxidation in R-allele- carrier but not in QQ homozygous elderly subjects on a tomato-rich diet. Eur. J. Nutr.
+
+,
+
+–
+
+Davies, H.G., Richter, R.J., Keifer, M., Broomfield, C.A., Sowalla, J., Furlong, C.E.,
+
+The effect of the human serum paraoxonase polymoprhism is reversed with diaoxon, soman and sarin. Nat. Genet.
+
+,
+
+–
+
+Durrington, P.N., Mackness, B., Mackness, M.I.,
+
+The hunt for nutritional and pharmacological modulators of Paraxonase. Atheros- cler. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Frisoni, G.B., Louhija, J., Geroldi, C., Trabucchi, M.,
+
+Longevity and the epsilon
+
+allele of apolipoprotein E: the Finnish Centenarians Study. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M
+
+Fuhrman, B., Aviram, M.,
+
+Preservation of paraoxonase activity by wine flavonoids: possible role in protection of LDL from lipid peroxidation. Ann. NY Acad. Sci.
+
+,
+
+–
+
+Garin, M.-C., James, R.W., Dussoix, P., Blanche, H., Passa, P., Froguel, P., Ruiz, J.l.,
+
+Paraoxonase polymoprhism Met-Leu
+
+is associated with modified serum concentrations of the enzyme. J. Clin. Invest.
+
+,
+
+–
+
+Gledmacher, V., Mallinckrodt, M., Diepgen, T.L.,
+
+The human paraoxonase polymorphism and specificity. Toxicol. Environ. Chem.
+
+,
+
+–
+
+Hasselwander, O., Savage, D.A., M
+
+aster, D., Loughrey, C.M., M
+
+amee, P.T., Middleton, D., Nicholls, D.P., Maxwell, A.P., Young, I.S.,
+
+Paraoxonase polymorphisms are not associated with cardiovascular risk in renal transplant recipients. Kid. Int.
+
+,
+
+–
+
+Acknowledgements
+
+Dr Rea thanks General Practitioner colleagues, the patients and Ms Anne Murphy, research nurse for dedicated work in the community.
+
+I.M. Rea et al. / Experimental Gerontology 39 (2004) 629–635
+
+Miller, S.A., Dykes, D.D., Polesky, H.F.,
+
+A simple procedure for extracting DNA from human nucleated cells. Nucl. Res.
+
+,
+
+Muiras, M.-L., Verasdonck, P., Cottet, F., Scha¨chter, F.,
+
+Lack association between human longevity and genetic polymorphisms drug-metabolizing enzymes at the NAT
+
+, GSTM
+
+and CYP
+
+D
+
+Hum. Genet.
+
+,
+
+–
+
+Playfer, J.R., Powell, C., Evans, D.A.,
+
+Plasma paroxonase activity old age. Age Ageing
+
+,
+
+–
+
+Primo-Parmo, S.L., Sorensen, R.C., Teiber, J., La Du, B.N.,
+
+human serum paraoxonase/arylesterase gene (PON
+
+) is one member a multigene family. Genomics
+
+,
+
+–
+
+Rea, I.M., M
+
+aster, D., Woodside, J.V., Young, I.S., Archbold, Linton, T., Lennox, S., M
+
+ulty, H., Harmon, D.L., Whitehead,
+
+Community-living nonagenarians in Northern Ireland have plasma homocysteine but similar methylenetetrahydrofolate thermolabile genotype prevalence compared to
+
+-
+
+-year-old Atherosclerosis
+
+,
+
+–
+
+Rea, I.M., Mc Dowell, I., M
+
+aster, D., Smye, M., Stout, R., Evans,
+
+MONICA group (Belfast), monitoring of cardiovascular study group. Apolipoprotein E alleles in nonagenarian subjects in Belfast Elderly Longitudinal Free-living Ageing Study Mech. Ageing Dev.
+
+,
+
+–
+
+Ruiz, J., Blanche´, H., James, R.W., Garin, M.C., Vaisse, C., G., Cohen, N., Morabia, A., Passa, P., Froguel, P.,
+
+polymorphism of paraoxonase and coronary heart disease in type diabetes. Lancet
+
+,
+
+–
+
+Salonen, J.T., Malin, R., Tuomainen, T-P., Nyysso¨nen, K., Lakka, Lehtima¨ki, T.,
+
+Polymorphism in high density paraoxonase gene and risk of acute myocardial infarction in prospective nested case-control study. BMJ
+
+,
+
+–
+
+Sanghera, D.K., Saha, N., Aston, C.E., Kamboh, M.I.,
+
+polymorphism of paraoxonase and the risk of coronary heart Arterioscler. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Sanghera, D.K., Aston, C.E., Saha, N., Kamboh, M.I.,
+
+a. polymorphisms in two paraoxonase genes (PON
+
+and PON
+
+) associated with the risk of coronary heart disease. Am. J. Hum.
+
+,
+
+–
+
+Sanghera, D.K., Saha, N., Kamboh, M.I.,
+
+b. The codon polymorphism in the paraoxonase
+
+gene is not associated with risk of coronary heart disease in Asian Indians and Atherosclerosis
+
+,
+
+–
+
+Schachter, F., Faure-Delanef, L., Guenot, F., Rouger, H., Froguel, Lesueur-Ginot, L., Cohen, D.,
+
+Genetic associations with longevity at the APOE and ACE loci. Nat. Genet.
+
+,
+
+–
+
+Senti, M., Tomas, M., Vila, J., Marrugat, J., Elosua, R., Sala, J., Masia,
+
+Relationship of age-related myocardial infarction risk and Arg
+
+variants of the human paraxonase gene in the Regicor Atherosclerosis
+
+,
+
+–
+
+Serrato, M., Marian, A.J.,
+
+A variant of human arylesterase (HUMPONA) gene is a risk factor for coronary disease. J. Clin.Invest.
+
+,
+
+–
+
+Taioli, E., Bonassi, S.,
+
+Pooled analyis of epidemiological involving biological markers. Int. J. Hyg. Environ. Health
+
+–
+
+Terwilliger, J.D., Ott, J.,
+
+Handbook of Human Genetic Linkage. Hopkins University Press, New York. Watson, A.D., Berliner, J.A., Hama, S.Y., La Du, B.N., Faull, Fogelman, A.M., Navab, M.,
+
+Protective effect of lipoprotein associated PON: inhibition of the biological activity minimally oxidised low density lipoprotein. J. Clin. Invest.
+
+–
+
+Yamada, H., Dahl, M.L., Lannfelt, L., Viitanen, M., Winblad, B., F.,
+
+CYP
+
+D
+
+and CYP
+
+C
+
+genotypes in an elderly population. Eur. J. Clin. Pharmacol.
+
+,
+
+–
+
+Zhao, J.H., Sham, P.C.,
+
+Faster allelic association analysis
+
+Heijmans, B.T., Westendorp, R.G.J., Lagaay, A.M., Knook, D.L., Kluft, C., Slagboom, P.E.,
+
+Common paraxonase gene variants, mortality risk and fatal cardiovascular events in elderly subjects. Atherosclerosis
+
+,
+
+–
+
+Herrmann, S-M., Blanc, H., Poirier, O., Arveiler, D., Luc, G., Evans, A., Marques-Vidal, P., Bard, J.M., Cambien, F.,
+
+The Gln/Arg polymorphism of human paraoxonase (PON
+
+) is not related to myocardial infarction in the ECTIM study. Atherosclerosis
+
+,
+
+–
+
+Humbert, R., Adler, D.A., Disteche, C.M., Hassett, C., Omiecinski, C.J., Furlong, C.E.,
+
+The molecular basis of the human serum paraoxonase activity polymorphism. Nat. Genet.
+
+,
+
+–
+
+James, R.W., Leviev, I., Righetti, A.,
+
+Smoking is associated with reduced serum paraoxonase activity and concentration in coronary heart disease. Circulation
+
+,
+
+–
+
+Jarvik, G.P., Rozek, L.S., Brophy, V.H., Hatsukami, T.S., Richter, R.J., Schellenberg, G.D., Furlong, C.E.,
+
+Paraxonase (PON
+
+) pheno- type is a better predictor of vascular disease than is the PON
+
+or PON
+
+genotype. Arterioscl. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Jarvik, G.P., Tsai, N.T., M
+
+instry, L.A., Wani, R., Brophy, V.H., Richter, R.J., Schellenberg, G.D., Heagerty, P.J., Hatsukami, T.S., Furlong, C.E.,
+
+Vitamin C and E intake is associated with increased paraxonase activity. Arterioscler. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Jian-Gang, Z., Yong-Xing, M., Chuan-Fu, W., Pei-Fang, L., Song-Bai, Z., Nui-Fan, G., Guo-Yin, F., Lin, H.,
+
+Apolipoprotein E and longevity among Han Chinese population. Mech. Ageing Dev.
+
+,
+
+–
+
+Kao, Y.L., Donaghue, K., Chan, A., Knight, J., Silink, A.,
+
+A variety of paraoxonase PON
+
+gene is associatedwith diabetic retinopathy in IDDM. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Katzman, R.,
+
+Apolipoprotein E and Alzheimer’s disease. Curr. Opin. Neurobiol.
+
+,
+
+–
+
+Kervinen, K., Savolainen, M.J., Salokannel, J., Hynninen, A., Heikkinen, J., Ehnholm, C., Koistinen, M.J., Kesaniemi, Y.A.,
+
+Apolipoprotein E and B polymorphisms-longevity factors assessed in nonagenarians. Atherosclerosis
+
+,
+
+–
+
+Kuremoto, K., Watanabe, Y., Ohmura, H., Shimada, K., Mokuno, H.I., Daida, H.,
+
+R/R genotype of human paraoxonase (PON
+
+) is more protective against lipoprotein oxidation and coronary artery disease in Japanese subjects. J. Atheroscler. Thromb.
+
+,
+
+–
+
+Leviev, H., Poirier, O., Nicaud, V., Evans, A., Kee, F., Arveile, D., Morrisson, C., Cambien, F., James, R.W.,
+
+High expressor paraxonase PON
+
+gene promoter polymorphism are associated with reduced risk of vascular disease in younger coronary patients. Atherosclerosis
+
+,
+
+–
+
+Mackness, M.I., Arrol, S., Abbott, C.A., Durrington, P.N.,
+
+Protection oflow-densitylipoproteinagainstoxidativemodificationbyhigh-density lipoprotein associated paraoxonase. Atherosclerosis
+
+,
+
+–
+
+Mackness, M.I., Arrol, S., Mackness, B., Durrington, P.N.,
+
+a. Alloenzymes of paraoxonase and effectiveness of high-density lipoproteins in protecting low-density lipoprotein against lipid
+
+paraxonase activity. Arterioscler. Thromb. Vasc. Biol.
+
+, Jian-Gang, Z., Yong-Xing, M., Chuan-Fu, W., Pei-Fang, L., Song-Bai, Nui-Fan, G., Guo-Yin, F., Lin, H.,
+
+Apolipoprotein E longevity among Han Chinese population. Mech. Ageing Dev.
+
+–
+
+Kao, Y.L., Donaghue, K., Chan, A., Knight, J., Silink, A.,
+
+A of paraoxonase PON
+
+gene is associatedwith diabetic retinopathy IDDM. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Katzman, R.,
+
+Apolipoprotein E and Alzheimer’s disease. Curr. Neurobiol.
+
+,
+
+–
+
+Kervinen, K., Savolainen, M.J., Salokannel, J., Hynninen, A., Heikkinen, Ehnholm, C., Koistinen, M.J., Kesaniemi, Y.A.,
+
+E and B polymorphisms-longevity factors assessed in Atherosclerosis
+
+,
+
+–
+
+Kuremoto, K., Watanabe, Y., Ohmura, H., Shimada, K., Mokuno, Daida, H.,
+
+R/R genotype of human paraoxonase (PON
+
+) is protective against lipoprotein oxidation and coronary artery disease Japanese subjects. J. Atheroscler. Thromb.
+
+,
+
+–
+
+Leviev, H., Poirier, O., Nicaud, V., Evans, A., Kee, F., Arveile, Morrisson, C., Cambien, F., James, R.W.,
+
+High paraxonase PON
+
+gene promoter polymorphism are associated reduced risk of vascular disease in younger coronary Atherosclerosis
+
+,
+
+–
+
+Mackness, M.I., Arrol, S., Abbott, C.A., Durrington, P.N.,
+
+lipoprotein associated paraoxonase. Atherosclerosis
+
+,
+
+–
+
+Mackness, M.I., Arrol, S., Mackness, B., Durrington, P.N., Alloenzymes of paraoxonase and effectiveness of lipoproteins in protecting low-density lipoprotein against peroxidation. Lancet
+
+,
+
+–
+
+Mackness, B., Mackness, M.I., Arrol, S., Turkie, W., Durrington,
+
+b. Effect of the molecular polymorphisms of human PON
+
+on the rate of hydrolysis of paraxon. Br. J. Pharmacol.
+
+–
+
+Mackness, B., Mackness, M.I., Arrol, S., Turkie, W., Durrington,
+
+Effect of the human serum paraoxonase
+
+and
+
+polymorphisms on the protection by high density lipoprotein low density lipoprotein oxidative modification. FEBS Lett.
+
+, Mackness, B., Davies, G.K., Turkie, W., Lee, E., Roberts, D.H., Hill, Roberts, C., Durrington, P.N., Mackness, M.I.,
+
+Paraxonase in coronary heart disease. Atheroscl. Thromb. Vasc. Biol.
+
+–
+
+Mackness, B., Durrington, P., M
+
+lduff, P., Yarnell, J., Azam, N., M., Mackness, M.,
+
+Low paraxonase activity predicts

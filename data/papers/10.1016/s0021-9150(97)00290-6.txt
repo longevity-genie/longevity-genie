@@ -1,0 +1,605 @@
+ATHEROSCLEROSIS
+
+In search of a biological pattern for human longevity: Impact of apo A-IV genetic polymorphisms on lipoproteins and the hyper-Lp(a) in
+
+G. Pepe a,*, V. Di Perna a, F. Resta b, M. Lovecchio b, G. Chimienti a, A.M. Colacicco b, A. Capurso b
+
+a CNR-CSMME and Department of Biochemistry and Molecular Biology, Uni6ersity of Bari, Via Orabona 4, 70126, Bari, Italy b Center for Lipoprotein Metabolism and Dept. of Geriatrics and Gerontology, Uni6ersity of Bari, Via G. Cesare, 70124Bari, Italy
+
+Received 5 May 1997; received in revised form 5 November 1997; accepted 20 November 1997
+
+Abstract
+
+We studied centenarians to investigate the biological basis of human longevity focusing on the apolipoprotein A-IV and lipoprotein(a), potentially involved in the susceptibility to atherogenic mechanisms. We analyzed two restriction polymorphisms, % HinfI (alleles (cid:27), (cid:28)) and Fnu4HI (alleles 1, 2), and a VNTR (alleles 3, 4) at the 3 region of the apo A-IV gene. The allele 347 360 frequencies, the lipoprotein concentrations and their association in centenarians and adults have been compared. In centenarians, B the HinfI genotype distribution is different (P 0.05) and the ((cid:27)13) haplotype is prevalent (0.54 vs. 0.39), with a greater association of ((cid:27)3), indicating the selection of a favourable allele. The lipoprotein modulation by the apo A-IV polymorphisms is suggested by significant associations in adults (((cid:27):(cid:27)) homozygotes have lower LDL-cholesterol and apo B than heterozygotes; (1:1) homozygotes have higher TG and apo B than heterozygotes), that in centenarians still exists as a trend. Centenarians show B peculiar lipoprotein features: lower LDL-cholesterol (mean 103 vs. 115 mg:dl; P 0.02), and higher lipoprotein(a) (median 17.5 B \ vs. 4.5; P 0.002). Large part of them (47%), especially the Hinf((cid:27):(cid:27)) and the ((cid:27)13) homozygotes, have a lipoprotein(a) 20 mg:dl, value considered as the threshold for atherogenic risk, surprisingly compatible with healthy longevity. © 1998 Elsevier Science Ireland Ltd. All rights reserved.
+
+Keywords: Aging; Apo A-IV; Apo(a); Allele-variants; Haplotype; Lipoproteins
+
+1. Introduction
+
+logical functions. Longevity is probably the result of a lucky interaction of non genetic and genetic factors. Some genes can cause or predispose to age-related disorders. Different alleles of these genes or different genes, in association or ‘per se’, are possibly involved in longevity, each having a small effect: the right combina- tion of allele variants can results in the protection against severe diseases or promotion of survival. Thus, a successful aging would be characterized by a low frequency of ‘risk’ alleles and the selective enrichment of ‘favourable’ genotypes.
+
+Human aging is generally described as a biological decline associated with damaging of DNA, cells, tis- sues, and organs [1]. However, at present, aging is considered rather as a physiological remoulding of bio-
+
+Abbre6iations: Apolipoprotein(a), apo(a); Apolipoprotein A-IV, apo A-IV; Apolipoprotein B, apo B; Apolipoprotein B:LDL-choles- terol ratio, B:L; Cardiovascular disease, CVD; Coronary artery dis- ease, CAD; Enhanced chemiluminescence, ECL; Lipoprotein (a), Lp(a); Total cholesterol, TC; Triglycerides, TG; Variable number of tandem repeat, VNTR.
+
+In this respect, few loci have been examined so far. Significant longevity-associations of HLA, apolipo- protein E, CIII, B and angiotensin-converting enzyme
+
+* Corresponding author. Tel.: (cid:27)39 80 5443312; fax: (cid:27)39 80 5443317.
+
+coding regions [21,24,25]. The size polymorphism, due to the inter-individual variable number of the so-called ‘kringle’4 domain (K4), is considered the major factor responsible for the high variation in the plasma Lp(a) \ concentration, ranging from 0.1 to 100 mg:dl. This feature is thought to be scantily influenced by age, sex, menopausal status, diet or life-style [26,27], and is considered as an essentially genetic trait inversely re- lated to the K4 repeat number [24,28]. Although the Lp(a) physiological and:or pathological roles are still unresolved, high plasma concentrations are associated, at least in Caucasians, with an increased risk of CAD and CVD, both independently and in correlation with other genetic determinants including the apo A-IV polymorphism [29]. A value of 20 mg:dl has been proposed as the risk threshold [8]. On the basis of the above considerations, we decided to compare the plasma Lp(a) levels of centenarians with those of nor- mal adults, and verify the possible association of this feature with the apo A-IV polymorphism.
+
+alleles have been found [2–5]. Other genes could influ- ence human survival, thus it is necessary to check as many loci as possible, not only in populations of differ- ent genetic backgrounds, but also in closer groups, probably living in different environments. In particular, genetic factors affecting lipid metabolism can be impor- tant for susceptibility or resistance to atherogenic mech- anisms. It has been proposed that the gene for the apolipoprotein A-IV (apo AI-V) can play a role through the modulation of plasma lipid parameters by its isoproteins [6]. Recently, the apoprotein(a) (apo(a)) has been suggested to be a genetic determinant of lipoprotein(a) (Lp(a)) plasma concentration due to its size polymorphism and thus, contribute to coronary artery and cerebro-vascular disorders (CAD and CVD) [7,8]. Consequently, both the apo A-IV and the apo(a) gene can potentially have a role as ‘longevity genes’. Their impact on human survival deserves further investigation.
+
+The centenarians who achieve very long life-spans in the absence of severe disorders offer an useful model to investigate the biological basis of human longevity. We have studied the centenarians from Apulia, in Southern Italy, in comparison to normal adults from the same region.
+
+2. Methods
+
+2.1. Subjects
+
+gene, localized at the 11q23-qter locus has a well known sequence and genomic organization [9,10]. The protein has also been sequenced and its structure has been predicted [11,12]. A possible role of apo A-IV has been suggested in the assembly and metabolism of the HDL, in reverse cholesterol transport and activation of lecithin-cholesterol acyltransferase (LCAT) and lipo- protein lipase (LPL)[13]. Several common and rare isoforms have been detected in a broad range of popu- lations with different ethnic backgrounds and the corre- sponding allelic variations have been analyzed [12,14–16]. The effect of the different isoproteins on plasma lipid and apolipoprotein concentrations is still controversial [6,14,17–20]. We studied the two common restriction site polymorphisms at codons 347 (Hinf ) 347 % and 360 (Fnu ), and the (CTGT) VNTR in the 3 360 untranslated region [16], examining their respective fre- quencies in centenarians and adults, in search of a longevity-associated allele. We also investigated whether the lipid, apolipoprotein and lipoprotein plasma concentrations were peculiar in centenarians and explored the existence of some association with the apo A-IV polymorphism that could be related to the longevity unaffected by atherogenic disorders. Sec- ondly, we focused on Lp(a), the LDL-like particle characterized by the unique apo(a) protein [21,22]. The human apo(a) gene has been localized at the 6q2.6–2.7 locus and the cDNA cloned and sequenced [23]. The apo(a) gene has a two order heterogeneity: a size poly-
+
+A total of 71 centenarians (18 men and 53 women, 100–107 years of age, mean(cid:30)102.3 years) were re- cruited using the Central Population Register of Apu- lia. They were self-sufficient and lived at home. Admission criteria excluded acute-phase reactions or chronic disorders such as diabetes, malignancy, nephropathy or end-stage renal disease, cardiac failure, myocardial infarction and dementia. They were not on medications known to affect lipids. All these subjects were analyzed for the standard lipoprotein plasma parameters; the blood sample of 58 of them was also available for DNA analysis. A total of 100 unrelated adults (21 men and 79 women, 19–59 years of age, mean(cid:30)35.7 years) were analyzed as a control popula- tion. Such a population consisted of healthy people, free of the above mentioned diseases and related drug intake, with moderate to no smoking and alcohol as- suming behaviours. Moreover, the two groups had homogeneous geographic origin and were sex matched, reflecting the sex differential in longevity in Italy, ac- cording to the last estimation of 1993 [30]. All subjects gave informed consent to the study.
+
+Blood samples were taken after a 13 h overnight fast and serum was used for quantitative analyses, essen- tially as already described [31]. Total cholesterol (TC), triglycerides (TG) and HDL-cholesterol (HDL-C) were
+
+plasma having a low Lp(a) concentration (1 mg:dl). All the serum samples were frozen at (cid:28)80°C within 10 h of collection and thawed only once for the phenotyping within 1 month [33].
+
+determined by standard enzymatic-colorimetric meth- ods (Boehringer, Mannheim). LDL-cholesterol (LDL- C) was calculated with the Friedewald formula [32]. Serum apolipoprotein B and A-I (apo B, apo A-I) levels were measured by nephelometry. Lp(a) plasma concen- trations were determined in duplicate by ELISA using the Immunozym Lp(a) Kit (Immuno-Vienna). All the samples were stored at (cid:28)80°C for not more than 1 month and thawed only once, at the time of quantita- tion, to avoid a significant effect of the storage on the results [33].
+
+2.5. Statistical methods
+
+Allele frequencies in centenarians and controls were estimated by gene counting and compared using the x2 test. The linkage disequilibrium D for the pairs of loci was estimated by the methods of Nei [37]. Lipoprotein concentrations in the two groups were compared by the unpaired Student’s t test and U Mann–Whitney test (the latter employed for Lp(a), due to its non-Gaussian distribution). The association of the different apo A-IV polymorphisms with plasma lipoprotein levels was ana- lyzed by means of the unpaired Student’s t test, the U Mann–Whitney test when comparing two groups, and using the oneway ANOVA and Kruskal–Wallis oneway ANOVA for comparison of three groups. The statistical analysis was performed using the SPSS package.
+
+m DNA was extracted from 500 l of peripheral blood m in 0.1M EDTA pH 7.5 [34]. A total of 50 l PCR amplifications were performed using 500 ng of DNA, m 12.5 pmol of primers and 200 M dNTPs. The gene region containing the two polymorphic sites at codons 347 and 360 was analyzed for the amplified fragment length polymorphism (Amp-FLP). The fragment of 244 bp was amplified using the primers A1 and A2 and the conditions already described [35]. The product was digested by HinfI or by Fnu4HI restriction enzyme and each polymorphic pattern was analyzed on a suitable % selective gel. The 3 untranslated portion of the gene containing the VNTR was separately amplified with % primers A3: nt.2414 5 GATGCTGGCCCCTTTGG- AGAG and primer A4: nt.2634 5’GCTGCAAGGA- GGATTCATCCG (the positions are according to [10]). % % % PCR conditions were: 1 at 94°C, 1 at 62°C, 1 at 72°C, for 30 cycles. The product was directly analyzed by selective gel electrophoresis. Samples with different mi- grations were sequenced (USB Sequenase 2.0 version) to control the actual dimension of the repeat. Whenever required, the cis:trans location of the three polymor- phisms was determined by the double HinfxFnu diges- tion of the 244 bp fragment or by the Hinf digestion of the 472 bp fragment amplified using the primers A1– A4 (same conditions as for the primers A3–A4).
+
+3. Results
+
+The apo A-IV polymorphism was analyzed by geno- % %% ‘72% typing (Fig. 1a,a ,a ). The Thr Ser change, that 347 eliminates a HinfI site, was identified by the presence (allele(cid:27)) or absence (allele(cid:28)) of the restriction site in I] the 244 bp amplified fragment. The Gln H His 360 change, that results in the loss of a Fnu4HI site, was separately identified by the presence (allele 1) or ab- sence (allele 2) of this cutting site in the same amplifica- tion product. The VNTR alleles were identified by direct gel electrophoresis of the specific amplified frag- ment: the number of repeats was routinely calculated from the dimension of the fragment using a size marker and occasionally verified by sequencing. The locus showed three (allele 3) or four (allele 4) repeats in all the subjects. The cis:trans location of the three poly- morphic variants was directly assigned by this analysis with the exception of some double heterozygous indi- viduals. In the case of the heterozygotes for both the restriction sites the haplotype was assessed by the dou- ble Hinf(cid:29)Fnu digestion (Fig. 1b); in the few subjects carrying the Hinf–VNTR heterozygosity the haplotype was clarified by the digestion of the 472 bp fragment (Fig. 1c).
+
+Apo(a) phenotyping
+
+The isoforms were analyzed by a 4–15% gradient SDS-PAGE (Pharmacia’s PhastSystem). The samples were 1:4 diluted with the Lp(a) phenotyping buffer and run with the standard mix according to the manufactur- ers instructions (Immuno-Vienna). The separated proteins were western-blotted on nitrocellulose (Hoefer) for 1 h at 52°C and treated as first antibody with the polyclonal anti-human Lp(a) antibody (Immuno-Vi- enna) and as second antibody with a peroxidase-conju- gated anti-sheep IgG (SIGMA). The ECL-kit (Amersham, UK) was used for detection. The major isoproteins, classified according to their relative mobili- ties compared to apo B [36], were identified even in the
+
+The frequencies of the polymorphisms at each locus were calculated. First we compared the Apulian adults with a normal German population [16]. The Hinf 347 and the Fnu polymorphisms were not significantly 360 different, the VNTR was dimorphic in the Apulian as well as in the German population, but had different
+
+ a) i= M +]- +]+ b) M +1/+1 -1/4+2—bp bp bpbad PE em fm =<-180— <-183150-> catia!<-140'~ hat <osa') 1/2 Ww M 2/2 c) +4/-3 -4/-3 Mbp bp i.“aes430-> heli Mt189-> I i Js180-> ead (aalad ‘ /247-> so—_ 243-> ~a") 4/4 3/3 3/3 3/4 M 183-> Vemma bec |bp bp '221-> <-221217->
+
+Fig. 1. Genotyping of apo A-IV by Amp-FLP. (a, a%) Identification of the Fnu4HI and HinfI polymorphisms at the codons 360 and 347 by 8% PAA gel (0.7(cid:29)10(cid:29)12 cm), 200 V, 30 min. (a%%) VNTR definition by 10% PAA gel (0.2(cid:29)20(cid:29)40 cm), 350 V, 18 h. (b) Cis:trans localization of the two loci 347 and 360 by 8% PAA gel (0.2(cid:29)20(cid:29)40 cm), 600 V, 3 h. (c) Cis:trans localization of the loci 347 and VNTR on the 472 bp fragment by 12% PAA, 350 V, 20 h. The gels were (24:1) PAA and the bands were visualized by silver staining.
+
+distribution frequency of alleles 3 and 4 (0.49 vs. 0.61 and B 0.51 vs. 0.39, respectively; P 0.025). Then, the genotype distribution was compared in our study groups and the frequencies were tested for significance by the x2 test: they were found different at the Hinf locus, while they were similar at the Fnu and VNTR loci (Table 1).
+
+the values but one being in the normal range. In particular, as far as the Lp(a) concentration was con- cerned, in centenarians it was more elevated (17.5 vs. 4.5; 12.0 vs. 5.2; 26.59 25.2 vs. 16.99 23.1 being the medians, geometric and arithmetic means, respectively), with the median value significantly higher than in B adults (P 0.002). A large part of centenarians (47 vs. \ 26% of adults) had an Lp(a) plasma level 20 mg:dl. Moreover, dividing the two groups by sex, the median values of Lp(a) were still significantly higher in cente- narians than in adults, both in males and females (M: B B 15.5 vs. 2.5, P 0.008; F: 19.0 vs. 5.8, P 0.04, respectively).
+
+Table 2 summarizes the haplotypes found in the two study groups, their frequencies and the linkage disequi- librium D analysis for the pair of Hinf–VNTR loci. Plasma concentrations of lipids, apolipoproteins, and lipoproteins were analyzed in centenarians and adults (Table 3). We found significant differences in LDL-C, HDL-C, TG, B:L, and Lp(a) concentrations, despite all
+
+Table 2 summarizes the haplotypes found in the two study groups, their frequencies and the linkage disequi- librium D analysis for the pair of Hinf–VNTR loci.
+
+lipoproteins were analyzed in centenarians and adults (Table 3). We found significant differences in LDL-C, HDL-C, TG, B:L, and Lp(a) concentrations, despite all
+
+A-IV genotype frequencies
+
+Serum lipoprotein concentrations (mg:dl)
+
+Centenarians Adults P TC 172938 186937 B0.02 LDL-C 103931 115933 B0.02 HDL-C 44914 54913 B0.0005 TG 121959 82942 B0.0005 Apo B 78917 80922 ns Apo A-I 133931 153927 B0.0005 B:L 0.7990.22 0.7090.08 B0.0005 Lp(a) 17.5 (5.0–45.5) 4.5 (1.0–27.8) B0.002
+
+For the Lp(a), due to the non-Gaussian frequency distribution, the values are expressed as medians (in parentheses 25 and 75° percen- tiles).
+
+Populations are in Hardy–Weinberg equilibrium.
+
+heterozygotes and then to the ((cid:27)13) homozygotes some trends were observed, in particular the Lp(a) increasing, although the differences did no reach a statistical relevance (Table 6). The ((cid:27)13) homozygous centenarians having Lp(a) concentration \ 20 mg:dl were significantly more numerous than the adults with the same genotype (Fig. 2).
+
+The association between genotypes and plasma parameters was analyzed (Tables 4 and 5). In adults, remarkable associations were found: Hinf((cid:27):(cid:27)) ho- mozygotes with lower LDL-C and apo B concentra- tions, and Fnu(1:1) homozygotes with lower HDL-C and higher TG and apo B concentrations. In centenari- ans, the same associations were present as a trend; further, the Hinf((cid:27):(cid:27)) homozygotes had a signifi- cantly higher Lp(a) concentration than heterozygotes. The VNTR itself did not appear to be significantly associated to any of the lipoprotein plasma concentra- tions in either groups. Furthermore, we searched for a possible association between the three apo A-IV poly- morphisms considered together in the haplotype phase, and lipoprotein concentrations. Indeed, in centenarians, going from the ((cid:27)14) homozygotes to the ((cid:27)13:(cid:27)14)
+
+Finally, we looked at the apo(a) isoforms in cente- narians. The procedure used allowed the identification of the isoproteins into the major categories, which was considered satisfactory enough for a preliminary inves- tigation (Fig. 3). No subjects with the F type were found. The S2 and S3 isoforms were the most frequent ones, and were prevalent in the subjects with Lp(a) level \ 25 mg:dl; the larger S4 isoform instead was the most represented in the subjects with the Lp(a) level below this value. S2 and S3 characterized respectively the 50
+
+Apo A-IV haplotypes
+
+a ((cid:27)13) ((cid:27)14) ((cid:28)14) ((cid:28)13) ((cid:27)23) ((cid:27)24) ((cid:28)23) ((cid:28)24) Centenarians Allele No. 61 34 10 2 3 2 0 0 Frequency 0.54 0.30 0.09 0.02 0.03 0.02 0.00 0.00 Adults Allele No. 67 67 19 10 6 3 0 0 Frequency 0.39 0.39 0.11 0.06 0.03 0.02 0.00 0.00 b ((cid:27)3) ((cid:28)3) ((cid:27)4) ((cid:28)4) D D:D x2 P max Centenarians Observed 0.571 0.017 0.321 0.089 0.045 71% 9.88 B0.005 Expected 0.526 0.063 0.366 0.043 Adults Observed 0.424 0.058 0.406 0.110 0.023 28% 2.64 ns Expected 0.401 0.081 0.430 0.087
+
+(a) Haplotypic frequencies in 56 centenarians and 86 adults; (b), linkage disequilibrium values (D) for pair of polymorphic sites at Hinf 347 VNTR loci. Statistical significance of the difference found in the two populations evaluated according to Nei [37].
+
+(a) Haplotypic frequencies in 56 centenarians and 86 adults; (b), linkage disequilibrium values (D) for pair of polymorphic sites at Hinf and 347
+
+stludAsnairanetneC unFfniHunFfniH sn87188150.0 sn80171150.0 50.0 5000.0 50.0 B272850.0 sn5.53.4sn5.43.4sn0.120.9120.0
+
+
+
+
+
+Serum lipoprotein concentrations (mg:dl) with respect to VNTR polymorphism
+
+Centenarians Adults Genotype (3:3) (3:4) (4:4) P (3:3) (3:4) (4:4) P No. 23 21 14 27 44 29 TC 171 171 169 ns 179 188 188 ns LDL-C 96 102 106 ns 111 116 119 ns HDL-C 46 46 40 ns 53 57 51 ns TG 142 116 113 ns 76 80 91 ns Apo B 77 75 81 ns 76 81 82 ns Apo A-I 141 136 129 ns 149 158 150 ns Lp(a)* 36.5 16.0 10.0 ns 7.3 3.8 4.0 ns
+
+* Lp(a) values expressed as medians.
+
+and 42% of the ((cid:27)13) homozygotes with high Lp(a) (not shown).
+
+the genetic background, which is often observed for other genes. Considering our study groups, the haplo- type analysis reveals some differences: in the adults the ((cid:27)13) and ((cid:27)14) alleles are present in the same amount, in centenarians ((cid:27)13) is the most frequent allele. By the analysis of the linkage disequilibrium for pairs of loci, Hinf and VNTR show a D value signifi- cantly different from 0 in centenarians, whereas in adults the values does not reach statistical significance. The association of ((cid:27)3) and (cid:28)4) is greater in cente- narians than in adults (D:D 71 vs. 28%). The results max for the Fnu–VNTR and Hinf–Fnu pairs are not sig- nificant (not shown). These data, on the whole, suggest that some apo A-IV polymorphic variants, namely Hinf((cid:27)) and VNTR(3), are enriched with aging, and the ((cid:27):(cid:27)) and ((cid:27)13) alleles are somehow selected in long-lived people, possibly because they are of long- term benefit and favour longevity.
+
+4. Discussion
+
+We have studied the apo A-IV polymorphism in Apulian centenarians searching for longevity:associated allele frequencies by comparing them with adults of the same region.
+
+347 genotype distribution with the prevalence of the ((cid:27):(cid:27) ) homozygosity in centenarians. No significant differ- ences are observed at the Fnu locus. The VNTR, that 360 proved to be diallelic in every cases, appears not to be so informative as other repeat markers. However, it is interesting to notice that the (3:3) genotype is predomi- nant in centenarians with respect to adults, although with no statistical significance. The analysis of the three polymorphisms in phase reveals six of the eight possible haplotypes, the most represented four corresponding to the only ones found in the German population [16], but with a quite different frequency. The ((cid:27)23) and ((cid:27)24) haplotypes, absent in Germans, also exist in Apulians. These data probably reflect the different VNTR allele distribution in the two populations due to a diversity in
+
+directly involved in many age-related disorders, the question arises as to whether centenarians are peculiar individuals in this respect. Indeed, our results validate the idea that centenarians are exceptionally healthy people with respect to several biological features, in particular those concerning the lipoprotein metabolism.
+
+can be explained by the low energy consuming style, and the almost absent physical activity of subjects. The same can be inferred for the decrease HDL-C concentration. However both these values in the range of normality.
+
+Table 6
+
+Serum lipoprotein concentrations (mg:dl) with respect to genotype in centenarians
+
+Genotype ((cid:27)13) ((cid:27)13:(cid:27)14) ((cid:27)14) P No. 20 15 7 TC 179 169 171 ns LDL-C 112 100 99 ns HDL-C 43 46 47 ns TG 117 116 122 ns Apo B 81 73 77 ns Apo A-I 135 137 142 ns Lp(a)* 37.5 16.0 18.3 ns
+
+In our opinion, the major findings concern the LDL- C and Lp(a) concentrations.
+
+The mean concentration of LDL-C in centenarians is low, very close to that considered as the optimal cut-off level in CAD secondary prevention, 100 mg:dl [38]. This probably makes it one of the major factors which confer protection against this disease in such individu- als, thus representing a possible selective feature for longevity. The concentration of apo B is almost the
+
+* Lp(a) values expressed as medians.
+
+INDIVIDUALS (%)2Soayoa°oaoaowoSonDSo>o P<0.005No. 13(+13)HAPLOTYPES@CentenariansWAdults  
+
+Fig. 2. Frequencies of the ((cid:27)13:(cid:27)13) and ((cid:27)14:(cid:27)14) genotypes in the centenarians and adults having Lp(a) concentration \20 Number of individuals is shown above the bar for each genotype.
+
+thrombotic mechanisms in very old age, rather appear- ing as a positive survival factor. This hypothesis is supported by another paradoxical feature, the apparent hypercoagulability of centenarians, who surprisingly do not undergo thrombosis [41]. The above unexpected observation on Lp(a) in centenarians motivated our interest in the apo(a) isoforms. The preliminary results indicate that S2 and S3 are the most frequent isoforms in centenarians with almost equal frequencies, which are similar to those reported for Caucasian populations [7,28]. Both isoforms have high incidence in centenari- ans with higher Lp(a) values and ((cid:27)13) genotype. The association of the small S2 isoform with the high Lp(a) concentration is in agreement with the general observa- tion that apo(a) size and Lp(a) concentration are in- versely related [28], whereas the association of the larger S3 isoform with the high Lp(a) concentration is quite unusual and appears to be another peculiar fea- ture of centenarians. A more detailed analysis is now in progress to elucidate this point. Data from other au- thors report an inverse relationship between Lp(a) con- centration and age [42], or even the absence of association between Lp(a) level, apo(a) isoforms, and longevity [43]. Such discrepancies could, in our opinion, derive from differences in the sex ratio and age range of the groups observed. Thus, any new investigation in this field is worthwhile.
+
+same in adults and centenarians and the higher B:L ratio in the latter is due to their LDL-C lower concen- tration. Our data could suggest the presence of smaller and denser LDL particles in centenarians, compared with adults. However, no final conclusion can be reached to confirm such a feature, usually associated to a lipoprotein atherogenic phenotype [39], as direct mea- surements of the LDLs diameter are not yet available.
+
+The Lp(a) concentration is unexpectedly high in cen- tenarians. This reveals to be essentially sex-independent and can be considered mostly unaffected by other fac- tors such as drugs, smoking, alcohol, etc. in consider- ation of the clinical and behavioural features of these subjects, and according to the others’ report [27]. The Lp(a) level increasing influence of genetic factors such o as the apo E 4 allele [40] can be also excluded in our centenarian group where this allele has been found to be rare (0.3 vs. 0.8 in our adults), and totally absent as the homozygous genotype (unpublished). In many cen- tenarians the Lp(a) concentration exceeds the threshold of risk of CAD and CVD. This increased value, in the absence of chronic or acute-phase diseases, can derive from a general remoulding of the plasma parameters with aging or is genetically determined by apo(a). Thus, the data on Lp(a) in centenarians draws an unusual pattern, since a so-called atherogenic marker does not preclude longevity. As already proposed for other genes [5], the hypothesis can be put forward that the risk conferred by the high concentration of Lp(a) in young people is offset by some unknown long-term protective effect. Although Lp(a) is supposed to be associated to atherothrombotic effects, it may be no longer related to
+
+Then, the potential impact of the apo A-IV polymor- phism on the lipid and lipoprotein plasma concentra- tions was analyzed. In adults, the ((cid:27):(cid:27)) homozygotes have LDL-C and apo B concentrations lower than the ((cid:27):(cid:28)) heterozygotes, in apparent contrast with the
+
+  Lp(a) 0-25@Lp(a) 26-50EI Lp(a) 51-75BLp(a) 76-100 YSaWNN 31STIVISOFORMS
+
+Fig. 3. Lp(a) isoforms in centenarians divided into groups with respect to the Lp(a) plasma concentrations expressed as mg:dl.
+
+observation of others that the ((cid:28)) allele lowered the level of these two parameters [16]. Conversely, the (1:1) homozygotes have higher TG and apo B values than the (1:2) heterozygotes, in agreement with other data [18,19]. Our findings confirm the existence of a relation- ship between the apo A-IV polymorphisms and plasma lipoproteins in adults and support the modulating func- tion of the apo A-IV alleles. Again, the different sex ratio and age range of the populations studied so far, as well as the responsiveness to different diets, could ex- plain some discrepancies with other reports. In cente- narians, these associations, that presumably confer advantage, still exist and can be trended clearly, though the values do not show the statistical significance prob- ably because of a certain attenuation of the allele modulating effect with aging (some hiding effect of the relatively small sample size cannot be of course ex- cluded). In centenarians, the relevant data is the signifi- cant association of the Hinf polymorphism with the Lp(a) concentration, the ((cid:27):(cid:27)) homozygotes having a higher value than the ((cid:27):(cid:28)) heterozygotes. This is consistent with the high incidence of the ((cid:27):(cid:27)) geno- type, and the large number of centenarians (47%) hav- ing an Lp(a) concentration higher than 20 mg:dl. As far as the VNTR is concerned, it does not appear to be significantly related to the lipoprotein parameters. However, some gradient concentrations (i.e. of LDL-C and TG) can be observed, and in particular the associa- tion of the (3:3) and ((cid:27)13) genotypes with the in-
+
+creased Lp(a) medians (although with no significant P value) can be clearly seen in centenarian group, were these genotypes are the most frequent. With reference to the proposed role of apo A-IV [13], the modulation of LPL activity, which hydrolyzes VLDL, may affect the level of LDL-C. The modulation of reverse choles- terol transport and LCAT activity may affect the level of HDL-C. Thus, according to the protein sequence and its deduced structure [11,12], changes of either amino acid 347 or 360 can, in turn, modify the domain where they are located. The allele variants of these loci could act on the above mentioned mechanisms and influence the physiological functions of the molecule, presumably with a different impact on each lipoprotein class. An example is the inverse relationship of both LDL-C and apo B with the two loci, which we found in adults and centenarians, probably resulting in the bal- anced lipoprotein levels. VNTR, which is located in the non-coding apo A-IV region, has probably no a direct effect, when considered on itself. The relation with the higher Lp(a) concentrations observed in centenarians is possibly the consequence of the great association with the ((cid:27)) variant at the Hinf locus which is significantly associated to this parameter. It is difficult at present to explain a functional interaction between two apparently unrelated genes such as apo A-IV and apo(a). However, each of these genes, in its own way, could be involved in the pathophysiology of the cardiovascular system. From our data the hypothesis can be put forward of a
+
+predict risk for coronary heart disease: A study in six popula- tions. Arterioscler Thromb
+
+;
+
+:
+
+–
+
+[
+
+] Sandkamp M, Funke H, Schulte H, Kohler E, Assmann G. Lipoprotein (a) is an independent risk factor for myocardial infarction at a young age. Clin Chem
+
+;
+
+:
+
+–
+
+[
+
+] Karathanasis SK, Oettgen P, Addad IA, Antonarakis SE. Struc- ture evolution and polymorphisms of the human apolipoprotein A
+
+gene. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+[
+
+] Elshourbagy NA, Walker DW, Paik YK, Boguski MS, Freeman M, Gordon JI, Taylor JM. Structure and expression of the human apolipoprotein A-IV gene. J Biol Chem
+
+;
+
+:
+
+–
+
+[
+
+] Yang CY, Gu ZW, Chong I, Xiong W, Rosseneu M, Yang KX, Gotto AM Jr., Chan L. The primary structure of human apolipoprotein A-IV. Biochem Biophys Acta
+
+;
+
+:
+
+–
+
+[
+
+] Lohse P, Kindt MR, Rader DJ Jr., Brewer HB. Three genetic variants of human plasma apolipoprotein apo A-IV. J Biol Chem
+
+;
+
+:
+
+–
+
+[
+
+] Tenkanen H, Ehnholm C. Molecular biology of apolipoprotein A-IV. Curr Opin Lipidol
+
+;
+
+:
+
+–
+
+[
+
+] Lohse P, Brewer B Jr. Genetic polymorphism of apolipoprotein A-IV. Curr Opin Lipidol
+
+;
+
+:
+
+–
+
+[
+
+] Kamboh MI, Friedlaender JS, Ahn YI, Ferrell RE. A common deletion polymorphism in the apolipoprotein A
+
+gene and its significance in lipid metabolism. Arterioscler Thromb
+
+;
+
+:
+
+–
+
+[
+
+] von Eckardstein A, Funke H, Schulte M, Erren M, Schulte H, Assmann G. Nonsynonymous polymorphic sites in the apolipo- protein (apo) A-IV gene are associated with changes in the concentration of apo B- and apo A-I-containing lipoproteins in a normal population. Am J Hum Genet
+
+;
+
+:
+
+–
+
+[
+
+] von Eckardstein A, Heinrich J, Funke H, Schulte H, Scho¨nfeld R, Ko¨hler E, Steinmetz A, Assmann G. Glutamine:histidine polymorphism in apo A-IV affects plasma concentrations of Lipoprotein(a) and fibrin split products in coronary heart disease patients. Arterioscler Thromb
+
+;
+
+:
+
+–
+
+[
+
+] Eichner JE, Kuller LH, Ferrell RE, Kamboh MI. Phenotypic effects of apolipoprotein structural variation on lipid profiles: II. Apolipoprotein A-IV and quantitative lipid measures in the healthy women study. Genet Epidemiol
+
+;
+
+:
+
+–
+
+[
+
+] Menzel HJ, Sigurdsson G, Boerwinkle E, Schrangl-Will S, Dieplinger H, Utermann G. Frequency and effect of human apolipoprotein A-IV polymorphism on lipid and lipoprotein levels in an Icelandic population. Hum Genet
+
+;
+
+:
+
+–
+
+[
+
+] M
+
+ombs RJ, Marcadis DE, Ellis J, Weinberg RB. Attenuated hypercholesterolemic response to a high-cholesterol diet in sub- jects heterozygous for the apolipoprotein A-IV-
+
+allele. New Engl J Med
+
+;
+
+:
+
+–
+
+[
+
+] Wade DP. Lipoprotein(a). Curr Opin Lipidol
+
+;
+
+:
+
+–
+
+[
+
+] Utermann G. The mysteries of lipoprotein(a). Science
+
+;
+
+:
+
+–
+
+[
+
+] Mc Lean JW, Tomlinson JE, Kuang WJ, Eaton DL, Chen EY, Fless AM, Scanu AM, Lawn RM.
+
+NA sequence of human apolipoprotein(a) is homologous to plasminogen. Nature
+
+;
+
+:
+
+–
+
+[
+
+] Utermann G, Haibach C, Trommsdorff M, Ko¨chl S, Abe A, Kraft HG. Genetic architecture of the atherogenic Lipo- protein(a). Ann New York Acad Sci
+
+;
+
+:
+
+–
+
+[
+
+] Gaw A, Hobbs HH. Molecular genetics of lipoprotein(a): New pieces to the puzzle. Curr Opin Lipidol
+
+;
+
+:
+
+–
+
+[
+
+] Scanu AM, Fless GM. Lipoprotein(a): Heterogeneity and bio- logical relevance. J Clin Invest
+
+;
+
+:
+
+–
+
+[
+
+] Jenner JL, Ordovas JM, Lamon-Fava S, Schaefer MM, Wilson PWF, Castelli WP, Schaefer EJ. Effects of age, sex and menopausal status on plasma lipoprotein(a) levels. The Framing- ham offspring study. Circulation
+
+;
+
+:
+
+–
+
+longevity-associated quantitative modulation of Lp(a) by the polymorphism of apo A-IV.
+
+In conclusion, our analysis of genetic and biochemi- cal parameters has revealed new longevity-associated features. The high frequency of the HinfI((cid:27):(cid:27)) poly- morphism of apo A-IV, the low level of LDL-C and, especially, the high Lp(a) concentration found in cente- narians add further elements to the biological ‘longevity pattern’. We suggest that the combination of genetic factors, such as the apo A-IV alleles with their possible impact on the circulating lipoproteins, the Lp(a) con- centration and, perhaps, the apo(a) isoforms, together with non-genetic factors, characterize some individuals in a population, conferring a biological advantage which selects them for long and healthy survival. Cente- narians represent a unique model to inspect on the basis of longevity. The availability of another homoge- neous group of study has offered to our group an important opportunity to gain better insight into the biological processes of aging.
+
+Acknowledgements
+
+We thank Mr Vito Cataldo for the reproductions. This work was supported by the CNR-Targeted Aging Project grants No. 95.982.PF40, 95.973.PF40, 95.988.PF40 code no. 981740 and by MURST grants. The financial support of Telethon-Italy (G. Pepe-grant No. 951) is also gratefully acknowledged.
+
+References
+
+[
+
+] Franceschi C. Cell proliferation, cell death and aging. Aging
+
+;
+
+:
+
+–
+
+[
+
+] Takata H, Ishii T, Suzuki M, Sekiguchi S, Iri H. Influence of major histocompatibility complex region genes on human longevity among Okinawan–Japanese centenarians and nonage- narians. Lancet
+
+;ii:
+
+–
+
+[
+
+] Louhija J, Miettinen HE, Kontula K, Tikkanen MJ, Miettinen TA, Tilvis RS. Aging and genetic variation of plasma apolipo- proteins. Relative loss of the apolipoprotein E
+
+phenotype in centenarians. Arterioscler Thromb
+
+;
+
+:
+
+–
+
+[
+
+] De Benedictis G, Falcone E, Rose G, Ruffolo R, Spadafora P, Baggio G, Bertolini S, Mari M, Mattace R, Monti D, Morellini M, Sansoni P, Franceschi C. DNA multiallelic systems reveal gene:longevity associations not detected by diallelic systems. The APOB locus. Hum Genet
+
+;
+
+:
+
+–
+
+[
+
+] Scha¨chter F, Faure-Delanef L, Gue´not F, Rouger H, Froguel P, Lesueur-Ginot L, Cohen D. Genetic association with human longevity at the apo E and ACE loci. Nat Genet
+
+;
+
+:
+
+–
+
+[
+
+] Ehnholm C, Tenkanen H, de Knijff P, Havekes L, Rosseneu M, Menzel HJ, Tiret L. On behalf of the EARS Group. Genetic polymorphism of apolipoprotein A-IV in five different regions of Europe. Relations to plasma lipoproteins and to history of myocardial infarction: The EARS study. Atherosclerosis
+
+;
+
+:
+
+–
+
+[
+
+] Sandholzer C, Saha N, Kark JD, Rees A, Jarross W, Dieplinger H, Hoppichler F, Boerwinkle E, Utermann G. Apo(a) isoforms
+
+method for direct genotyping of codon
+
+in the human apolipoprotein A-IV gene. J Lipid Res
+
+;
+
+:
+
+–
+
+[
+
+] Utermann G, Menzel HJ, Kraft HG, Kemmler HG, Seitz C. Lp(a) glycoprotein phenotypes. Inheritance and relation to Lp(a)-lipoprotein concentrations in plasma. J Clin Invest
+
+;
+
+:
+
+–
+
+[
+
+] Nei M. Molecular Evolutionary Genetics. New York: Columbia University Press,
+
+[
+
+] National Cholesterol Education Program. Second Report of the Expert Panel on Detection, Evaluation, and High Blood Choles- terol in Adults (Adult Treatment Panel II). Circulation
+
+;
+
+:
+
+–
+
+[
+
+] Krauss RM. Low-density lipoprotein subclasses and risk of coronary artery disease. Curr Opin Lipidol
+
+;
+
+:
+
+–
+
+[
+
+] de Knijff P, Kaptein A, Boomsma D, Princen HMG, Frants RR, Havekes LM. Apolipoprotein E polymorphism affects plasma levels of lipoprotein(a). Atherosclerosis
+
+;
+
+:
+
+–
+
+[
+
+] Mari D, Mannucci PM, Coppola R, Bottasso B, Bauer KA, Rosemberg RD. Hypercoagulability in centenarians: The para- dox of successful aging. Blood
+
+;
+
+:
+
+–
+
+[
+
+] Berg K, Ro OC. Lp(a) lipoprotein level and longevity. Ann Ge´ne´t
+
+;
+
+:
+
+–
+
+[
+
+] Zuliani G, Bader G, Imbastaro T, Mezzetti A, Taddeo U, Kostner GM, Fellin R. Associazione Medica Sabin. Lipo- protein(a) plasma levels and apo(a) isoforms are not associated with longevity or disability in a sample of Italian octo-nonage- narians. Aging Clin Exp Res
+
+;
+
+:
+
+–
+
+[
+
+] Utermann G, Kraft HG, Menzel HJ, Hopferwieser T, Seitz C. Genetics of the quantitative Lp(a) lipoprotein trait. Relation of Lp(a) glycoprotein phenotypes to Lp(a) lipoprotein concentra- tions in plasma. Hum Genet
+
+;
+
+:
+
+–
+
+[
+
+] Zenker G, Koltringer P, Bone´ G, Niederkorn K, Pfeiffer K, Jurgens G. Lipoprotein (a) as a strong indicator for cerebrovas- cular disease. Stroke
+
+;
+
+:
+
+–
+
+[
+
+] Motta L, Receputo G, Franceschi C, Capurso A, Resta F. On behalf of the Italian Multicentric Study on Centenarians. I Centenari in Italia: Aspetti Epidemiologici e Clinico-Biologici.
+
+Ed L. Pozzi, Roma. [
+
+] Capurso A, Mogavero AM, Resta F, Di Tommaso M, Taverniti R, Turturro F, La Rosa M, Marcovina S, Catapano AL. Apolipoprotein C-II deficiency: Detection of immunoreactive apolipoprotein C-II in the intestinal mucosa of two patients. J Lipid Res
+
+;
+
+:
+
+–
+
+[
+
+] Friedewald WT, Levy RI, Fredrickson DS. Estimation of low density lipoprotein cholesterol in plasma without use of the preparative ultracentrifuge. Clin Chem
+
+;
+
+:
+
+–
+
+[
+
+] Kronenberg F, Trenkwalder E, Dieplinger H, Utermann G. Lipoprotein (a) in stored plasma samples and the ravages of time. Why epidemiological studies might fail. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] Higuchi R. Rapid and efficient DNA extraction for PCR from cells or blood. Amplification, vol.
+
+Minneapolis, KS: Perkin- Elmer,
+
+;
+
+:
+
+–
+
+[
+
+] Zaiou M, Visvikis S, Visvikis A, Siest G. A rapid and reliable

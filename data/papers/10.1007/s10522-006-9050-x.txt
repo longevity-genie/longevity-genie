@@ -1,0 +1,401 @@
+Polymorphisms in MT1a gene coding region are associated with longevity in Italian Central female population
+
+Catia Cipriano Æ Marco Malavolta Æ Laura Costarelli Æ Robertina Giacconi Æ Elisa Muti Æ Nazzarena Gasparini Æ Maurizio Cardelli Æ Daniela Monti Æ Erminia Mariani Æ Eugenio Mocchegiani
+
+Abstract Metallothioneins (MTs) play a pivotal role in zinc-related cell homeostasis because of their high affinity for zinc, which is in turn fun- damental for immune response and antioxidant activity. MTs regulate zinc homeostasis by bind- ing zinc and releasing zinc at the occurrence for immune response. The zinc release by MT is very limited in chronic inflammation and ageing. Some polymorphisms of MTs gene, in particular MT1a sub-isoform, may affect this release that is a problem still unresolved in ageing. The screening
+
+MT1a gene has revealed for the first time that the polymorphism corresponding to a A/C (Asp/Thr) transition at 647 nt position in the Mt1a coding region is the more involved in the longevity, at least in old women, rather than the other corre- sponding to A/G (Lys/Arg) transition at 1,245 nt position. Concomitantly, for the +647 MT1a polymorphism, old and very old female with Asp/ Asp genotype (called C-carriers) display higher zinc release by MT (detected by Zinpyr-1 fluo- rescent probe in presence of NO donor), low MT levels and reduced IL-6 plasma concentrations, suggesting its involvement in longevity and in lower inflammatory status. This fact is confirmed by the analysis of haplotypes in which the allele Asp is more involved in longevity. Therefore the +647 MT1a polymorphism more affects MTs induction and zinc release, which are indis- pensable to undertake the inflammatory status under control and subsequently to reach healthy longevity.
+
+Presented at the ZincAge Conference, Madrid, February 10–13, 2006.
+
+C. Cipriano Æ M. Malavolta Æ L. Costarelli Æ R. Giacconi Æ E. Muti Æ N. Gasparini Æ E. Mocchegiani (&) Immunology Ctr. (Section: Nutrition and Immunosenescence), Res. Dept. INRCA, Via Birarelli
+
+,
+
+Ancona, Italy e-mail: e.mocchegiani@inrca.it
+
+Introduction
+
+Metallothioneins (MTs), a group of low-molecu- lar-weight metal-binding proteins rich in cysteine
+
+Immunology and Genetic Lab., Istituto di Ricerca Codivilla Putti, IOR, Bologna, Italy
+
+dysregulation of the immune function that accompanies ageing may be due to some poly- morphisms in MT genes. A polymorphism of MTs, such as –209 A/G MT2A, is in fact corre- lated with chronic inflammation (high plasma levels of IL-6) and marked zinc deficiency in old type-2 diabetes-atherosclerotic patients (Giacconi et al. 2005). Some polymorphisms also exist for MT1a gene, in particular those in position +647 and +1245 are relevant because both involved in aminoacid transition. For the first one, Adenine/ Cytosine (A/C) substitution results in aminoacid transition from asparagine to threonine in posi- tion 27 of the protein (PubMed Reference rs 8052394). For the second one, Adenine/Guano- sine (A/G) substitution results in aminoacid transition from Lysine to Arginine in position 51 of the protein (PubMed Reference rs 11640851).
+
+isoforms and play a pivotal role in metal-related cell homeostasis because of their affinity for metals, in particular zinc and copper. The zinc/ cysteine interactions form two metal thiolate clusters forming mercaptide bonds (Kagi and Schaffer 1988). Human MT genes are clustered at a single locus on chromosome 16 (16q13) and at least 10 of the 17 genes so far identified, are functional (West et al. 1990; Stennard et al. 1994). Among them, MT1a gene is the more functional (Richards et al. 1984), expressed in human lymphocytes and up-regulated by zinc (Vandeghinste et al. 2000), with a task of anti- oxidant agent because zinc–sulphur clusters are sensitive to changes in cellular redox state and oxidizing sites, inducing transfer of zinc by MTs to other proteins, such as antioxidant enzymes (Maret and Vallee 1998). Since high MT gene expression in lymphocytes is associated with zinc deficiency in ageing (Mocchegiani et al. 2003), this transfer may be very limited in ageing leading to suggest a different role of MT: from protective as antioxidant agent in young adult-age (Kelly et al. 1996), to a dangerous role in ageing because of the inability of zinc release by MT (Mocchegiani et al. 2002). Indeed, a lack of zinc ion bioavailability in ageing allows a derangement of the immune response as well as impaired antioxidant activity (Mocchegiani et al. 1998). Because MT induction and expression are also under the control of IL-6 (Jacob et al. 1999), this phenomenon of the limited zinc release by MT in ageing is strictly related to the chronic inflam- matory status due to high circulating levels of IL- 6 (Mocchegiani et al. 2003). On the other hand,
+
+human lymphocytes and up-regulated by zinc (Vandeghinste et al. 2000), with a task of anti- oxidant agent because zinc–sulphur clusters are sensitive to changes in cellular redox state and oxidizing sites, inducing transfer of zinc by MTs to other proteins, such as antioxidant enzymes (Maret and Vallee 1998). Since high MT gene expression in lymphocytes is associated with zinc deficiency in ageing (Mocchegiani et al. 2003), this transfer may be very limited in ageing leading to suggest a different role of MT: from protective as antioxidant agent in young adult-age (Kelly et al. 1996), to a dangerous role in ageing because of the inability of zinc release by MT (Mocchegiani et al. 2002). Indeed, a lack of zinc ion bioavailability in ageing allows a derangement of the immune response as well as impaired antioxidant activity (Mocchegiani et al. 1998). Because MT induction and expression are also under the control of IL-6 (Jacob et al. 1999), this phenomenon of the limited zinc release by MT in ageing is strictly related to the chronic inflam- matory status due to high circulating levels of IL- 6 (Mocchegiani et al. 2003). On the other hand, abnormal high MTs, enhanced IL-6 and low zinc ion bioavailability are also present in diseases characterised by chronic inflammation (infec- tions) and in syndrome of accelerated ageing (Down’s syndrome) (Mocchegiani et al. 2002, 2003). By contrast, low MTs, limited inflamma- tory condition and satisfactory zinc ion bioavail- ability occur in successful ageing (Mocchegiani et al. 2002). These findings clearly suggest that the limited zinc release by MT in ageing and chronic inflammation is a crucial problem for the efficiency of the immune system and antioxidant
+
+study is to screen these two single nucleotide polymorphisms in the MT1a coding region from healthy Italian old female. This may be an useful tool for better understanding the genetic influ- ences of MT1a on the attainment of successful ageing. Moreover, their allelic frequency distri- bution was studied in association with intracellular zinc ion bioavailability and zinc release by MTs using specific fluorescent zinc probe (Zinpyr-1) and NO donor (Dyethilamine-NOnoate acet- oxymethylated) (AcOM-DEA/NO), because NO is involved in zinc release by MTs via s-nitrosyla- tion (Zangger et al. 2001).
+
+Materials and methods
+
+Subjects
+
+N. 251 healthy old and very old female were enrolled for the study. Since demographic data document a clear-cut prevalence of females compared to males in people of far advanced age (Franceschi and Bonafe 2003), we have analysed old female population. All the subjects, n. 151 old (mean age 73.8 ± 5.9) and n. 100 nonagenarians (mean age 91.4 ± 4.1) were born in Central Italy and still living in the same area at the time of enrolment. They were judged to be in good health based on their clinical history and blood tests. The
+
+healthy old subjects were recruited in accor- dance with immunogerontological ‘‘SENIEUR’’ protocol (Ligthart 2001). Nonagenarians were recruited according to the grade of activities of daily living. They were independent, did not re- quire special daily care and did not take any therapeutic treatment for at least 2 months before the enrolment.
+
+Amplification was accomplished by initial incu- bation at 94(cid:2)C for 5 min; the following 35 cycles were at 94(cid:2)C for 1 min, 60(cid:2)C for 30 s, 72(cid:2)C for 1 min and a final extention at 72(cid:2)C for 7 min. The products of PCR were digested with Pst-I at 37(cid:2)C overnight (Roche, Germany), then separated on 3% agarose gel and stained with ethidium bro- mide. The presence of adenine (A allele) at locus 1,245 within the coding region of MT1A produced one fragment of 390 bp, whereas the presence of guanine (G allele) generated two fragments of 199 bp and 191 bp after Pst-I digestion.
+
+MT-1a SNPs in the coding region
+
+We screened two single-nucleotide polymor- phisms (SNPs) found in dbSNP database (http:// www.ncbi.nlm.nih.gov/SNP/) (PubMed Reference rs 8052394; rs 11640851) corresponding one to a A/G transition at +1245 nt position in the coding region of human MT1a gene and one to A/C transition at +647 nt position in the coding region of the same gene. The first polymorphism corre- sponded to amino acid transition from lysine in the MT1a-A(adenine) to arginine in the MT1a-G (guanosine); while the second one corresponded to amino acid transition from asparagine in the MT1a-A (adenine) to threonine in the MT1a-C (cytosine). We performed a PCR-restriction fragment length analysis (PCR-RFLP) using the following primers: +1245 A/G MT1a sense 5¢-ATCTCCCATCTCCGACAGTG-3¢ antisense 5¢-AAAGAAAACCAGAGCCAG-
+
+Twenty-five microlitres of PCR mixture was composed of genomic DNA samples (200 ng), 300 lmol/l dNTPs, 2 mM MgCl , 1· Taq poly- 2 merase buffer, 10 pmol of each primer, 5% of DMSO, 2.5 U of Taq DNA polymerase (Eppen- dorf, Germany). Amplification was accomplished by initial incubation at 94(cid:2)C for 4 min; the fol- lowing 40 cycles were at 94(cid:2)C for 1 min, 60(cid:2)C for 30 s, 72(cid:2)C for 1 min and a final extention at 72(cid:2)C for 4 min. The products of PCR were digested with Mnl-I at 37(cid:2)C overnight (Roche, Germany), then separated on 3% agarose gel and stained with ethidium bromide. The presence of adenine (A allele) at locus 647 within the coding region of MT1A produced one fragment of 187 bp, whereas the presence of citosine (C allele) gen- erated two fragments of 140 bp and 47 bp after Mnl-I digestion.
+
+Genomic DNA from peripheral blood leuko- cytes taken from old and nonagenarian healthy subjects, extracted by the phenol chloroform method, was amplified with the primers described above. Conditions for amplification were as follows.
+
+Haplotype analysis
+
+Using the acquired allele data, +647 MT1a and +1245 MT1a, two loci haplotypes were estimated by the expectation-maximisation algorithm using the Arlequin software package. To test for departures from Hardy–Weinberg a Markov- chain random walk algorithm was used (Guo and Thompson 1992) also implemented in Arlequin.
+
+PBMC recovery and storage
+
+Twenty-five microlitres of PCR mixture was composed of genomic DNA samples (200 ng), 300 lmol/l dNTPs, 2 mM MgCl , 1· Taq poly- 2 merase buffer, 10 pmol of each primer, 2.5 U of Taq DNA polymerase (Eppendorf, Germany).
+
+Individual blood samples from old healthy female were drawn in plastic syringe containing heparin. PBMCs were obtained by ficoll-hypaque
+
+(gradient density d = 1,077) (Biochrom AG, Berlin, Germany) and centrifuged at 1,500g for 15 min, at 20(cid:2)C. All samples presented viability higher than 90% assessed by Tripan blue dye exclusion. Aliquots of cells (2 · 106 cells) were frozen in FCS containing 10% of DMSO under liquid nitrogen until use. Before using, the cells were gently defrozen and counted.
+
+Zinc determination by Induction Coupled Plasma Mass Spectrometry (ICP-MS)
+
+plasma samples and standard were diluted with a diluent containing the following re- 0.1% triton, to maintain a stable emulsion the diluted sample and 0.15% HNO , to 3 that trace elements are maintained in and to aid washout of these elements samples. External calibration solutions Zn (blank to 2,000 ppb), were pre- by serial dilution of parent 1,000 ppm stock Italia, Milano, Italy), using the same dil- used to dilute the samples. Measurement of zinc was performed with a Thermo XII ICP-MS (Thermo Electron Corporation, MA, USA). The instrument was oper- with a Peltier cooled impact bead spray single piece quartz torch (1.5 mm i.d. together with Xi interface cones and a 100 autosampler (CETAC Technol- Omaha, Nebraska, USA). A Burgener nebuliser (Burgener, Ontario, Canada) was as this device does not block during aspira- of clinical samples. The instrument was in standard mode (nonCCT), which is preferred method for acquiring data for Zn66. instrument was operated using 1400 W RF 1.10 l/min nebuliser gas flow, 0.70 l/min gas flow, 13.0 l/min cool gas flow, 70 ms time, 30 s sample uptake 35 s wash time
+
+Flow Cytometric (FC) analysis of zinc ion availability with Zinpyr-1
+
+‘‘Zinc free’’ RPMI medium was obtained by treatment of RPMI with 5% chelex 100 (Sigma- Aldrich, MI, Italia). Defrozen PBMCs were sub- divided into three equal aliquots of minimum 2 · 105 cells. One aliquot was incubated with 20 lM zinpyr-1 (ZP-1) (Neurobiotex, Galveston, Texas, USA) for 30 min at 37(cid:2)C, 5% CO2 in HEPES buffered ‘‘zinc free’’ RPMI medium containing 1 mM EDTA. The addition of mem- brane impermeable zinc chelator EDTA was used to remove possible interferences due to free zinc in the medium and adsorbed to the cell mem-
+
+Another aliquot was always incubated in the same conditions plus 50 lM N,N¢,N¢-tetrakis (2-pyridylmethyl) ethylenediamine (TPEN) (Sig- ma–Aldrich, Milan, Italy), in order to detect the autofluorescence of the zinc-free ZP-1 probe, which means the ‘‘Minimum of Mean Fluores- cence intensity (MFI )’’ for ZP-1 fluorescence min (Burdette et al. 2001).
+
+Further aliquot was incubated in the same condition of the first aliquot plus 500 lM dye- thilamine NOnoate acetoxymethylated (AcOM DEA/NO) (Calbiochem, VWR International, Milan, Italy) in order to detect the release of intracellular free zinc from MT (Misra et al. 1996). In fact, AcOM-DEA/NO is a cell-per- meable acetoxymethylated diazeniumdiolate compound that donates NO ‘‘intracellularly’’ following the action of intracellular esterases (Saavedra et al. 2000). After incubation, the aliquots were immediately read by the Flow Cytometer (Coulter Epics XL, USA). After selecting lymphocyte populations according to the FW and SS scatter, the Mean Fluorescence Intensity (MFI) for ZP-1 was detected (excita-
+
+Defrozen PBMCs (0.2 · were treated with 0.3% paraformaldehyde and stored at 4(cid:2)C for 2 days prior to processing. As previously reported (Yurkow and Makhijani 1998) for MT determination, samples were centrifuged (800g, 5 min), the resulting supernatants aspirated, and the cells resuspended in a permeabilisation buf- fer (1 ml) containing 3% foetal bovine serum (FBS), 0.1% sodium azide, and 0.1% saponin in
+
+System (Bio-Rad Laboratories, USA). Values presenting a coefficient of variation beyond 10% were discarded before the final data analysis. Data were analysed using the Bio-Plex Manager software version 3.0 (Bio-Rad Laboratories, USA). Values were expressed as pg/ml.
+
+phosphate-buffered saline (PBS, pH 7.4) for 1 h at room temperature.
+
+Cells were then washed (3 · 3 ml) with stain- ing buffer (3% FBS, 0.1% sodium azide in PBS, pH 7.4) and centrifuged again as indicated above. The resulting supernatants were aspirated and the cells were incubated with MT specific antibody [1 lg/105 cells/200 ll of monoclonal mouse anti- horse Metallotionein clone E9 (Dakocytomation, Denmark)] for 30 min at room temperature. After treatment with the primary antibody, cells were washed (2 · 1 ml) with staining buffer and incubated for 1 h at room temperature with a FITC-conjugated secondary antibody (Becton Dickinson, USA).
+
+Statistical analysis
+
+Statistics were calculated by using the SPSS soft- ware for windows 2000. Binary variables were checked by Fisher’s exact test or v2 test, which was also used to detect the differences in the genotypic or allelic frequencies of the MT1a polymorphisms and to check the differences in allele distribution from Hardy–Weinberg’s equi- librium in old and nonagenarian subjects. Odds ratios (ORs) were determined as relative risk for longevity. Paired student’s t-test and one-way Anova test with Turkey as ‘‘post hoc’’ test were also used. Differences were considered significant when P < 0.05.
+
+The cells were then washed with 1 ml of staining buffer, resuspended in 500 ll of PBS, and the relative cellular fluorescence which reflects cellular MT levels, was determined using Flow Cytometry. Samples probed with an irrelevant (isotypic) antibody (clone MOPC21, IgG1k, Sig- ma-Aldrich, MI, Italia) in conjunction with the fluorescein-conjugated secondary antibody served as staining controls. The MT-specific fluorescence of the lymphocytes population was determined by subtracting the MFI of the cells stained with the isotypic antibody from the MFI of the cells stained with the MT-specific antibody.
+
+Results
+
+Genotyping of +1245 A/G MT1a polymorphism
+
+Plasma IL-6 determination (multiplex immunoassay)
+
+N. 251 healthy old and very old female were screened for +1245 MT1a SNP. Table 1 shows the genotypes distribution and the allelic frequencies of old and nonagenarian subjects. Old and nonagenarian healthy subjects were in Hardy–Weinberg equilibrium (P > 0.05) when a Markov-chain random walk algorithm was used (Guo and Thompson 1992). No significant diff- erent distribution of 1245 MT1A genotypes and
+
+Diluted plasma samples were assayed in duplicate using commercially available multiplex bead- based immunoassay kits. IL-6 concentration was simultaneously evaluated with five other soluble factors using simplex reagent kits (Bio-Rad Laboratories, USA). Assays were performed following the manufacturer’s instructions. The low standard curve was used for IL-6 (ranging from 3952.5 pg/ml to 0.24 pg/ml).
+
+Table 1 +1245 MT1a genotypic and allelic frequency in old and nonagenarian healthy female
+
+Distinct dyed beads, loaded with specific capture antibodies, were incubated with plasma samples and subsequently with fluorescently labelled detection antibodies. The entire testing procedure was performed using 96-well plates, and the formation of different sandwich immu- nocomplexes on distinct bead sets was measured and quantified using the Bio-Plex Protein Array
+
+Genotype Old (N.151) Nonagenarians (N.100)* Lys/Lys 82.1% (124/151) 77% (77/100) Lys/Arg 16.6% (25/151) 20% (20/100) Arg/Arg 1.3% (2/151) 3% (3/100) Allele Lys 0.90 (273/302) 0.87 (174/200) Arg 0.10 (29/302) 0.13 (26/200)
+
+*P > 0.05 when compared with old subjects by v2 test
+
+Table 2 +647 MT1a genotypic and allelic frequency in old and nonagenarian healthy female
+
+Genotype Old (N.151) Nonagenarians (N.100)* Asp/Asp 49.6% (75/151) 79% (79/100) Asp/Thr 43.7% (66/151) 16% (16/100) Thr/Thr 6.6% (10/151) 5% (5/100) Allele Asp 0.72 (216/302) 0.87 (174/200) Thr 0.28 (86/302)a 0.13 (26/200)b
+
+AC and CC genotype (Asp/Thr and Thr/Thr) carriers for +647 MT1a polymorphism were grouped and referred as C+, while AA (Asp/Asp) genotype carriers were referred as C–.
+
+*P < 0.0001 when compared with old subjects by v2 test P = 0.0002 (by Fisher’s exact test) a vs. b Odds Ratio = 2.164 (CI = 1.386–3.380)
+
+Plasma Zn levels were lower in old C+ in comparison with C– ones (P < 0.05), while significant difference was observed in C+ genarians with respect to very old C– (Table 3). Concomitantly, MT levels and plasma concentrations were always higher in C+ carriers with respect to old C– (P < 0.05), whereas no significant were observed for these parameters C+ and C– nonagenarian subjects (Table However, an interesting point was the significant differences in intracellular zinc availability (tested by means of between C+ and C– carriers both in old and old age (P < 0.05) (Table 3). Such were also evident after the in vitro addition of donor (calculated by means of the between MFI detected before and after addition of NO donor and herein expressed Delta MFI) (see Material and methods). shown in Table 3, Delta was always lower in carriers with respect to C– ones both in old very old age, suggesting that C+ carriers may less zinc release by MT than C– ones and sequently low zinc ion availability for
+
+alleles was observed between old and nonage- narian subjects (P > 0.05) by v2 test, suggesting that this polymorphism might not be associated to the longevity in old female.
+
+Table 2 shows the genotypes distribution and the allelic frequencies of old and nonagenarian women for +647 MT1a SNP. Old and nonage- narian healthy subjects were in Hardy–Weinberg equilibrium (P > 0.05). Significant different distribution of 647 MT1A genotypes was observed between old and nonagenarian subjects (P < 0.0001) by v2 test. A significant increased frequency of A (Asp) allele was observed among nonagenarian subjects with respect to old ones [P = 0.0002 (by Fisher’s exact test) a vs. b odds ratio = 2.164 (CI = 1.386–3.380)], suggesting that the AA (Asp/Asp) genotype might be considered as favourable to the longevity in old female.
+
+Table 3 Plasma zinc, zinc ion availability, IL-6 and MT detection for +647MT1a polymorphism
+
++647 MT1a Zp1 (MFI – MFI ) D MFI IL-6 (pg/ml) Zn (lM) MT (F.U.) min Old C+ carriers 77.89 ± 7.21* 13.83 ± 3.33* 34.71 ± 7.26* 12.10 ± 0.13* 42.28 ± Old C– carriers 48.13 ± 7.76 17.30 ± 6.57 28.83 ± 6.70 12.72 ± 0.15 23.63 ± 5.67 Nonagenarian C+ carriers 59.5 ± 8.4* 3.9 ± 0.06** 24.34 ± 3.99 11.14 ± 0.55 18.95 ± 4.12 Nonagenarian C– carriers 49.35 ± 7.3 8.5 ± 1.5 28.83 ± 6.70 10.45 ± 0.26 17.76 ± 4.25
+
+old individuals (18.7%) (Table 5), suggesting that the haplotype (Arg/Asp) might be favourable for the longevity in old female.
+
+AG and GG genotype (Lys/Arg and Arg/Arg) carriers for +1245 MT1a polymorphism were grouped and referred as G+, while AA (Lys/Lys) genotype carriers were referred as G–. With regard to this MT1a polymorphism, no significant differences in all parameters considered (plasma zinc, zinc ion avaialability, Delta MFI, IL-6 and MT) were observed between G+ and G– carriers both in old and very old individuals (Table 4), with however a trend for more zinc ion bioavail- ability in old G+ carriers, suggesting that this polymorphism might not affect either the inflammatory status or zinc ion bioavailability.
+
+Discussion
+
+The screening of two polymorphisms in the hu- man metallothionein gene 1a coding region from old and very old healthy female has revealed for the first time their involvement in the longevity. In particular, the polymorphism corresponding to A/C (Asp/Thr) transition at 647 nt position seems to be the more involved rather than the poly- morphism corresponding to A/G (Lys/Arg) tran- sition at 1,245 nt position. Indeed, for the first SNP, a significant increment of AA (Asp/Asp) genotype (P < 0.0001) and Asp allele (P = 0.0002, odds ratio = 2.164, CI = 1.386– 3.380) occurs in nonagenarian subjects as com- pared to old ones. For the second SNP, instead, no significant different distribution of genotypes and alleles between old and nonagenarian sub- jects is observed. These findings clearly show that these polymorphisms are differently involved in the longevity at least in women, where the pres- ence of the genotype Asp/Asp is crucial for the achievement of successful ageing. The determi- nation of the haplotypes in which the allele Asp is more present in nonagenarians with respect to other alleles is in line with this assumption. That this fact is not a mere coincidence, the determi- nation of some functional parameters linked to the inflammatory status and zinc ion availability is a further support. It has been reported that nonagenarians display a lower degree of the
+
+Haplotype determination
+
+Two single nucleotide polymorphisms of MT1a cluster were determined and the frequency of haplotypes were analysed using the Arlequin software package. The polymorphism of +647 MT1a was in tight linkage disequilibrium with the +1245 MT1a one (P < 0.05). Moreover, a statis- tically significant haplotype frequency difference between the old female individuals and female nonagenarians was found (Likelihood Ratio = 13.3, df = 3, P = 0.004 by Pearson Chi-Squared) (Table 5). The MT1a Arg/Asp haplotype increased in nonagenarians (7.1%) in comparison to old individuals (2.1%). Conversely, the MT1a Lys/Thr haplotype decreased in nonagenarians (8%) with respect to
+
+Table 4 Plasma zinc, zinc ion availability, IL-6 and MT detection for +1245MT1a polymorphism
+
++1245 MT1a Zp1 (MFI – MFI ) D MFI IL-6 (pg/ml) Zn (lM) MT (F.U.) min Old G+ carriers 73.18 ± 16.39 17.60 ± 5.67 21.56 ± 2.40 11.53 ± 0.25 31.14 ± Old G– carriers 66.71 ± 6.28 14.28 ± 3.26 20.53 ± 1.22 11.90 ± 0.18 21.26 ± Nonagenarian G+ carriers 48.50 ± 21.70 11.00 ± 4.02 32.89 ± 8.60 10.78 ± 0.46 27.80 ± Nonagenarian G– carriers 43.75 ± 14.88 13.00 ± 6.01 37.24 ± 6.09 10.18 ± 0.34 15.44 ±
+
+The data of Zp1, Delta and MT were obtained in n. 20 subjects/group
+
+Table 5 Haplotype frequency of MT1a cluster in old and nonagenarian healthy female
+
+more involved in zinc release by MT and subse- quently in longevity, might be assumed that the presence of an additional amino group (NH3) in asparagine in subjects carrying A allele of +647 MT1a polymorphism may affect the zinc affinity in the cysteine cluster, with consequent better zinc homeostasis. In this context, further study is still in progress (Zincage project). In conclusion, the +647 MT1a polymorphism may be essential to reach health longevity at least in women, further confirming the pivotal role played by MT and zinc homeostasis as biological and genetic marker for the ageing process (Mocchegiani et al. 2006), even if these data were obtained in one restricted geographic area (Central Italy). Further analyses are in progress in different European Countries (Zincage project).
+
+Haplotype Lys/Asp Lys/Thr Arg/Asp Arg/Thr Old (N.183) 71.6% 18.7% 2.1% 7.6% Adjusted –1.6 2.7 –2.5 0.8 residual Nonagenarians 79.6% 8% 7.1% 5.3% (N.100) Adjusted +1.6 –2.7 +2.5 –0.8 residual
+
+P = 0.004, Likelihood Ratio = 13.3, df = 3 by Pearson Chi- Squared
+
+Data in bold represent the more significant haplotypes for longevity (Arg/Asp) or not (Lys/Thr) taking into account the adjusted residual
+
+gp130 as well as lower values of circulating IL-6 (Mocchegiani et al. 2002; Moroni et al. 2005). Concomitantly, the gene expression of MT is also lower than old individuals associated with a sat- isfactory zinc ion availability and good immune and antioxidant performances (Mocchegiani et al. 2003; Mecocci et al. 2000). Since the zinc ion availability is fundamental for immune response and antioxidant activity (Wellinghaus and Rink 1998), the capacity of the MT in the zinc release is a crucial point for the ageing process, because of the possible inability of MT in zinc release due to the presence of chronic inflammation (Mocchegiani et al. 2000). The determination of the zinc release by MT using NO donor has revealed that old and very old subjects carrying Asp/Asp genotype for +647 MT1a polymorphism (herein called C– subjects) display more zinc release by MT (as determined by higher Delta MIF) and less inflammation (lower IL-6 plasma levels) coupled with also satisfactory plasma zinc levels (Table 3). Conversely, no differences in all these functional parameters occur for +1245 MT1a polymorphism. Therefore, the polymor- phism of +647 MT1a is fundamental to achieve a good functioning of many body homeostatic mechanisms, via zinc release by MT and lower inflammation, with subsequent healthy ageing and longevity, at least in old women.
+
+Acknowledgements This paper was supported by Euro- pean Commission (Zincage project, Contract No. FOOD- CT-2003-506850; Scientific Coordinator Dr. Eugenio Mocchegiani).
+
+References
+
+Burdette SC, Walkup GK, Spingler B, Tsien RY, Lippard SJ (
+
+) Fluorescent sensors for Zn(
+
++) based on a fluorescein platform: synthesis, properties and intra- cellular distribution. J Am Chem Soc
+
+:
+
+–
+
+Franceschi C, Bonafe M (
+
+) Centenarians as a model for healthy aging. Biochem Soc Trans
+
+:
+
+–
+
+Giacconi R, Cipriano C, Muti E, Costarelli L, Cardelli M, Saba V, Gasparini N, Malavolta M, Mocchegiani E (
+
+) Novel –
+
+(cid:
+
+)/G MT
+
+A polymorphism in old patients with type
+
+diabetes and atherosclerosis: relationship with inflammation (IL-
+
+) and zinc. Biogerontology
+
+:
+
+–
+
+Guo SW, Thompson EA (
+
+) Performing the exact test of Hardy–Weinberg proportion for multiple alleles. Biometrics
+
+(
+
+):
+
+–
+
+Jacob ST, Ghoshal K, Sheridan JF (
+
+) Induction of metallothionein by stress and its molecular mecha- nisms. Gene Expr
+
+(
+
+–
+
+):
+
+–
+
+Kagi JH, Schaffer A (
+
+) Biochemistry of metallothi- onein. Biochemistry
+
+:
+
+–
+
+Kelly EJ, Quaife CJ, Froelick GJ, Palmiter RD (
+
+) Metallothionein I and II protect against zinc defi- ciency and zinc toxicity in mice. J Nutr
+
+:
+
+–
+
+Ligthart GH (
+
+) The SENIEUR protocol after
+
+years: the next step is to study the interaction of ageing and disease. Mech Ageing Dev
+
+(
+
+):
+
+–
+
+Maret W, Vallee BL (
+
+) Thiolate ligands in metallo- thionein confer redox activity on zinc clusters. Proc Natl Acad Sci USA
+
+:
+
+–
+
+With regard to biochemical or chemical mechanism by which this polymorphism may be
+
+neutrophil efficiency, inflammation, antioxidant activity and zinc pool in very old age. Biogerontology
+
+:
+
+–
+
+Richards RI, Heguy A, Karin M (
+
+) Structural and functional analysis of the human metallothionein-IA gene: differential induction by metal ions and gluco- corticoids. Cell
+
+:
+
+–
+
+Saavedra JE, Shami PJ, Wang LY, Davies KM, Booth MN, Citro ML, Keefer LK (
+
+) Esterasensitive nitric oxide donors of the diazeniumdiolate family: in vitro antileukemic activity. J Med Chem
+
+:
+
+–
+
+Stennard FA, Holloway AF, Hamilton J, West AK (
+
+) Characterisation of six additional human metallothi- onein genes. Biochim Biophys Acta
+
+:
+
+–
+
+Vandeghinste N, Proost P, De Ley M (
+
+) Metallothi- onein isoform gene expression in zinc-treated human peripheral blood lymphocytes. Cell Mol Biol (Noisy- le-grand)
+
+:
+
+–
+
+Wellinghausen N, Rink L (
+
+) The significance of zinc for leukocyte biology. J Leukoc Biol
+
+:
+
+–
+
+West AK, Stallings R, Hildebrand CE, Chiu R, Karin M, Richards RI (
+
+) Human metallothionein genes: structure of the functional locus at
+
+q
+
+Genomics
+
+:
+
+–
+
+Yurkow EJ, Makhijani PR (
+
+) Flow cytometric deter- mination of metallothionein levels in human periph- eral blood lymphocytes: utility in environmental exposure assessment. J Toxicol Environ Health A
+
+:
+
+–
+
+Zangger K, Oz G, Haslinger E, Kunert O, Armitage IM (
+
+) Nitric oxide selectively releases metals from the amino-terminal domain of metallothioneins: po- tential role at inflammatory sites. FASEB J
+
+:
+
+–
+
+Zincage Project (
+
+–
+
+) www.zincage.org
+
+Mecocci P, Polidori MC, Troiano L, Cherubini Cecchetti R, Pini G, Straatman M, Monti D, Stahl Sies H, Franceschi C, Senin U (
+
+) Plasma idants and longevity: a study on healthy Free Radic Biol Med
+
+:
+
+–
+
+Misra RR, Hochadel JF, Smith GT, Cook JC, MP, Wink DA (
+
+) Evidence that nitric enhances cadmium toxicity by displacing the from metallothionein. Chem Res Toxicol
+
+:
+
+–
+
+Mocchegiani E, Giacconi R, Cipriano C, Muzzioli Gasparini N, Moresi R, Stecconi R, Suzuki Cavalieri E (
+
+) Mt
+
+NA gene expression, IL-
+
+and glucocorticoids, as potential genetic of immunosenescence: lessons from very old mice humans. Exp Gerontol
+
+(
+
+–
+
+):
+
+–
+
+Mocchegiani E, Costarelli L, Giacconi R, Cipriano Muti E, Tesei S, Malavolta M (
+
+) interaction in ageing and successful ageing A nutrient (zinc) and some target genes related inflammatory/immune response. Mech Ageing
+
+:
+
+–
+
+Mocchegiani E, Muzzioli M, Giacconi R (
+
+) Zinc immunoresistance to infection in aging: new tools. Trends Pharmacol Sci
+
+:
+
+–
+
+Mocchegiani E, Muzzioli M, Cipriano C, Giacconi (
+
+) Zinc, T-cell pathways, aging: role of thioneins. Mech Ageing Dev
+
+:
+
+–
+
+Mocchegiani E, Muzzioli M, Giacconi R, Cipriano Gasparini N, Franceschi C, Gaetti R, Cavalieri Suzuki H (
+
+) interplay on natural killer cell activity in parallelism with nonagenarians and old infected mans. Effect of zinc supply. Mech Ageing
+
+:
+
+–
+
+Moroni F, Di Paolo ML, Rigo A, Cipriano Giacconi R, Recchioni R, Marcheselli F, M, Mocchegiani E (
+
+) Interrelationship
+
+F, Di Paolo ML, Rigo A, Cipriano C, Giacconi R, Recchioni R, Marcheselli F, Malavolta M, Mocchegiani E (2005) Interrelationship among

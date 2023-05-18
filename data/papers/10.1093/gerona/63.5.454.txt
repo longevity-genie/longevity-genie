@@ -1,0 +1,518 @@
+A Genetic–Demographic Approach Reveals Male-Specific Association Between Survival and Tumor Necrosis Factor (A/G)-308 Polymorphism
+
+1 1,2 1 1 Maurizio Cardelli, Luca Cavallone, Francesca Marchegiani, Fabiola Oliveri, 3 3 4 1 Serena Dato, Alberto Montesanto, Francesco Lescai, Rosamaria Lisa, 3 1,4,5,6 Giovanna De Benedictis, and Claudio Franceschi
+
+1Italian National Research Center on Aging, Ancona, Italy. 2Department of Human Genetics, McGill University, Montreal,
+
+4Department of Experimental Pathology and 5Centro Interdipartimentale ‘‘L. Galvani,’’ University of Bologna, Italy.
+
+The (A/G)-308 polymorphism of the tumor necrosis factor a gene (TNF) is associated with age- related diseases, but its influence on longevity is controversial. We genotyped for this polymorphism 747 Italian volunteers (401 women and 346 men, age 19–110 years). By applying a genetic–demographic (GD) approach we found that, in men, the survival function of allele A carriers is lower than that of noncarriers at all the ages (p ¼ .044). After defining (by exploiting again demographic information) three age classes, we found that the frequency of men carrying the A allele decreases with age (p ¼ .019), thus confirming the GD analysis results. The same analyses gave negative results in women. Therefore, allele A has a detrimental effect on life expectancy, and this effect is specific to men. A haplotype analysis carried out in men by screening the TNFa, TNFc, and TNFe microsatellite polymorphisms (spanning about 20 kb) confirmed the association of the TNF region with life expectancy.
+
+Words: TNF(A/G)-308 polymorphism—TNF demographic approach.
+
+sion of the cytokine (11–13). The correlation between the (A/G)-308 polymorphism and age-related or autoimmune pathologies is well established (14–21). On the contrary, contrasting data have been reported as they regard the association with longevity (22–26).
+
+the latent genetic susceptibility to two opposite traits, age-related diseases and extreme longevity, also revealing that some of the most promising genes are those encoding for inflammatory cytokines. In fact, polymorphisms of the genes involved in the regulation of the inflammatory process may influence the susceptibility to age-related diseases, and it has been shown that genotypic combinations with optimal pro-/anti-inflammatory activity can affect the probability to reach successful aging and longevity (1–6) as theorized in the context of the theory of inflammaging (7–9). In this frame, one of the most studied genes is that encoding for the tumor necrosis factor (TNF) a, a pleiotropic cytokine playing a key role in both inflammation and chronic age- related diseases. The TNF gene lies in a cluster of func- tionally related genes that also includes lymphotoxin alpha (LTA), lymphotoxin beta (LTB), and leukocyte-specific transcript-1 (LST1) and is located in the class III region of the major histocompatibility complex (MHC) on chromo- some 6. The levels of TNF-a production are influenced by inter-individual genetic variation (10). In particular, the (A/G)-308 polymorphism (rs1800629), located in the pro- moter of the TNF gene, is associated with allele-specific expression levels, with the less frequent allele (allele A, also referred as allele 2) being associated with a higher expres-
+
+Usually, the genetic component of longevity is in- vestigated by comparing allele and/or genotype frequencies at specific candidate loci between cases and controls (gene frequency [GF] method), represented, respectively, by classes of participants of different ages, including a class of long-lived individuals. However, by dealing with cross- sectional data, the GF approach ignores cohort effects in population mortality changes. Furthermore, the definition of the age-classes is often arbitrary so that positive (or neg- ative) results may simply depend on the rather naive as- sumption that age-related allele and/or genotype frequency trajectories vary in the population always according to a monotonous function (27). The possibility of overcoming these methodological limits is offered by the addition of demographic information to genetic data (28–30). Genetic– demographic (GD) methods allow the estimation of hazard rates and survival functions in relation to candidate alleles and genotypes. In such a way it is possible to compare survival functions between individuals carrying or not carrying a candidate allele or genotype without introducing
+
+Table 1. Polymorphisms Analyzed and Primers Used for PCR Amplification
+
+Location Distance from TNF-308 Polymorphism Number of Alleles Primers Used for PCR Amplification Intergenic region 7.3 kb (AC)n 13 IR2*: 59-gcctctagatttcatccagccaca IR4: 59-cctctctcccctgcaacacaca Intron (LTA gene) 2.4 kb (TC)n 2 IR6: 59-ggtttctctgactgcatcttgtcc IR7*: 59-tcatggggagaacctgcagagaa (A/G)-308 Promoter (TNF gene) — G>A (rs1800629) 2 TNF1.1: 59-aggcaataggttttgagggccat TNF1.2: 59-tcctccctgctccgattccg Intron (LST1 gene) 12.8 kb (TC)n 3 IR13: 59-gtgcctggttctggagcctctc IR14**: 59-tgagacagaggataggagagacag
+
+Notes: Loci are ordered from the most telomeric (TNFa) to the most centromeric (TNFe). *Primers labeled with 6-FAM (6-carboxyfluorescein) fluorescent dye. **Primer labeled with TET (tetrachloro-6-carboxyfluorescein) fluorescent dye. PCR ¼ polymerase chain reaction; TNF ¼ tumor necrosis factor gene; LTA ¼ lymphotoxin alpha; LST ¼ leukocyte-specific transcript-1.
+
+recruited centenarians (35 men and 114 women) had a fairly good health status, did not suffer major pathologies or disabilities, and were classified in categories A and B according to the criteria elsewhere reported (31). All the participants were informed about the aim of the study and gave their approval according to Italian laws.
+
+arbitrary age classes, and taking into account cohort effects in mortality changes (28,29). Furthermore, the addition of demographic to genetic data not only is able to reveal sex- and age-specific allelic effects, but also permit a rational definition of the age classes to be screened (30).
+
+The aim of the present study was to investigate if the (A/G)-308 polymorphism affects the probability of reaching extreme old age. To this purpose, we genotyped at the (A/G)-308 locus a wide group of healthy participants ranging from 19 to 110 years, and added demographic information to genetic data to detect possible differential survival of persons carrying different genotypes.
+
+Genotyping
+
+chloroform according to standard procedures (32). Features and relative positions of the four loci were analyzed, and the primers used to amplify each marker are summarized in Table 1. For the analysis of the (A/G)-308 polymorphism, a previously described method (33) was applied. To analyze the TNFa, TNFc, and TNFe microsatellite polymorphisms the original method (34) was modified to allow a simulta- neous analysis of the three markers through multiplex poly- merase chain reaction (PCR) and fluorescence detection of the amplification products. PCR was performed in a 9700 thermal cycler (Perkin-Elmer Applied Biosystems, Foster City, CA) under the following conditions: 2 minutes at 948C; 30 cycles of 30 seconds at 948C, 30 seconds at 56.58C, and 30 seconds at 728C; 6 minutes at 728C for the final extension. For each sample, 100 ng of DNA was amplified in a 25-lL reaction volume composed of [Mg2þ] 1.5 mM, [dNTP] 300 lM, 1 U of Taq polymerase, and the following primers: IR2 (0.12 lM), IR4 (0.12 lM), IR6 (0.4 lM), IR7 (0.4 lM), IR13 (0.08 lM), and IR14 (0.12 lM). Primers IR2, IR7, and IR14 were fluorescence-labeled (see Table 1) to allow for the detection of amplification products per- formed by capillary electrophoresis on an automated DNA sequencer (Abi Prism 310; Applied Biosystems, Foster City, CA). The size of microsatellite DNA fragments was mea- sured by using Genescan software (Applied Biosystems).
+
+Furthermore, due to the high complexity of the chromo- somal region in which the TNF gene is located, we checked also the association with longevity of haplotypes defined by alleles of three microsatellite loci (TNFa, TNFc, TNFe) and the (A/G)-308 polymorphism. In this case, because we were dealing with a multiallelic system, the classic GD algorithm was not appropriate (29), and only the comparison of haplo- type frequencies among age classes was applied.
+
+M ETHODS
+
+Sample
+
+A total of 747 (401 women and 346 men) unrelated individuals, 19–110 years old (median age 73 years) born and residing in northern or central Italy, and whose parents and grandparents were from this same area, participated in the study. Information about health status was obtained for all the participants, and no acute pathological condition was present. The recruitment was carried out as part of a multi- center study on aging conducted in several regions of central and northern Italy during the years1996–2004. Young and middle-aged volunteers were recruited among university students and workers and in blood donor centers, whereas elderly people (excluding centenarians) were mainly re- cruited among guests of elderly residences. Centenarian age was verified by researching archival records in the City Hall and/or church registries, paying attention to the concordance between reported age and personal chronologies (age of marriage and of military service for men, age of first and last pregnancy for women, age of children, etc.); centenarians were contacted via telephone through members of their families, after previous contact of their family doctor. The
+
+GD Analysis
+
+At the basis of the classical GD analysis (28) there is the survival function S(x;t ) of a cohort, defined as the fraction 0 of individuals in a population born at a certain time t and 0 still alive at time t þ x. Because the sample consists of 0 individuals drawn from the Italian population, with ages in the range of 19–110 years, cohorts from the 19th century up to the end of the 20th century are represented in it. For each cohort, the survival function was computed by using the
+
+(Arlequin software) in which the likelihood of the observed data evaluated under the hypothesis of no association between loci is compared to that evaluated under the hypothesis of association. Differences in allele, genotype, and haplotype frequency distribution among age groups were tested by a Monte Carlo likelihood ratio chi-square test implemented in the statistical software package SPSS for Windows (SPSS, Inc., Chicago, IL).
+
+tables of death counts per calendar year and per year of birth and of birth counts per year, as reported for Italy in the Human Mortality Database (www.mortality.org). To take into account the dramatic changes in mortality that the cohorts under study experienced we used a synthetic survival function S(x) computed from the cohort survival functions as described in (29). In the text that follows, the term ‘‘synthetic’’ will be dropped for brevity. Because data are available both for male and female subpopulations, distinct survival functions were computed for the two genders. If we regard the population (whole, male, or female) as consisting of carriers of A allele (AA and AG genotypes) and noncarriers of A allele (GG genotypes), we can define the survival functions S (x) and S (x) of carriers A B and noncarriers, respectively. The relationships between S (x), S (x), S(x), and the age-related frequencies of A B carriers and noncarriers can be found in (29). The marginal survival functions S (x) and S (x) were estimated from the A B genotypes and ages of the individuals in the sample by maximizing an appropriate likelihood (29). The null hypothesis S (x) ¼ S (x) ¼ S(x), which means that the A B TNF(A/G)-308 polymorphism does not affect survival, was tested by using the likelihood ratio. Because in this case the probability distribution of the ratio is not known, it was empirically built up by Monte Carlo simulation (29) (1000 virtual samples). A Matlab (MathWorks, Natick, MA) code described in (29) was used for all the above analyses.
+
+R ESULTS
+
+GD Analysis of Survival Functions
+
+categorized according to the presence or absence in the genotype of the A allele at the TNF(A/G)–308 locus. In particular, we estimated the survival function of carriers (AA plus AG) and noncarriers (GG) of the A allele, thus assuming that AA and AG genotypes have a comparable effect on the survival phenotype (dominance of the A allele). This consideration came from literature data that report a functional role of the allele A associated with a higher expression of TNF-a (11–13). Furthermore, as the survival function is sex-specific, the analysis was carried out in men and women separately. Figure 1 shows the maximum likelihood estimates of the survival functions in male carriers and noncarriers of allele A (AA plus AG genotypes and GG genotype, respectively). At all ages, the survival function estimated in the A carriers (S (x)) was A lower than that in the noncarriers (S (x)); furthermore, the B null hypothesis S (x) ¼ S (x) ¼ S(x), where S(x) is the A B survival function estimated in the whole male population, was rejected with an empirical probability level of p ¼ .044. In women, the survival functions of Aþ and A– participants were not significantly different from that of the population (p ¼ .16; data not shown). Therefore, the data indicated a dominant, detrimental effect of allele A on survival, present in men but not in women.
+
+To compare gene and/or haplotype frequencies between age classes, we defined three sex-specific age classes: for men [women], the first class consists of individuals ,66 years old [,73 years old], the second class of individuals 66–88 years old [73–91 years old], the third class of individuals .88 years old [.91 years old]. These classes have been introduced in (30), where the rationale of the choice is widely discussed. In brief, considering the shape of the survival function S(x) (both in women and men) we can observe that it is characterized by changes of the curvature. Therefore, the limit between the youngest class and the intermediate class can be chosen as the age at which the curvature of the graph is negative and has the largest abso- lute value (formally, the age corresponding to the minimum value of the second derivative S99(x) of the survival function). Equivalently, the limit between the intermediate class and the oldest class was chosen as the age at which the curvature of the graph is positive and has the largest absolute value (formally, the age at which the second derivative S99(x) of the survival function attains the maxi- mum value). Note that the age classes defined according to this criterion are gender-specific and account for the dif- ferent survival of men and women in the Italian population.
+
+Three age classes were defined on the basis of demo- graphic information as described in Methods, and the allele and genotype frequency distributions of the TNF(A/G)-308 polymorphism were compared among the classes (Table 2). A significant frequency variation was observed in men, with a progressive tendency to a decrease of Aþ participants in the older classes (from 27.7% in class 1, to 22.2% in class 2, to 10.7% in class 3, p ¼ .019); similarly, a decrease of the A allele in classes of increasing age was also observed (p¼.028). No significant difference was observed in women (p . .05 for both genotypes and alleles).
+
+Allele and genotype frequencies were estimated within each age class by allele and/or genotype count. An expec- tation maximization (EM) algorithm, implemented in the Arlequin software package (35), was used to obtain maxi- mum likelihood estimation of multilocus haplotype fre- quencies the standard deviations of which were calculated by bootstrap resampling (1000 replications). Pairwise link- age disequilibrium was tested by using a likelihood ratio test
+
+Haplotype Analysis
+
+To check if the detrimental effect of the A allele observed in men did involve a particular haplotype, three microsatellites (TNFa, TNFc, TNFe) located in the TNF genomic region were analyzed in addition to the TNF(A/G)-308 marker. First, Hardy–Weinberg equilibrium was verified for each single microsatellite (TNFa: p¼.18; TNFc: p¼.62; TNFe: p¼.26).
+
+ 40 20 30 40 50 60 70 80 90 100 110
+
+Figure 1. Maximum likelihood estimates of the survival functions of allele A carriers (S (x); AA plus AG genotypes; blue curve) and noncarriers (S (x); GG A B genotype; red curve) in the sample of Italian men. The raw curves (crossed lines) are smoothed (continuous lines) by approximation to a Gompertz–Makeham mortality model (29). The synthetic survival function of the Italian male population (S(x); green curve) is also reported as a reference. The null hypothesis S (x)¼S (x)¼S(x) is A B rejected with an empirical probability level p ¼ .044.
+
+Second, pairwise linkage disequilibrium between loci was analyzed (p , .003 in all the pairs). Third, the frequency of the four-marker haplotypes was estimated in the three age classes. The haplotype results in our sample are shown in Table 3,
+
+where the rare haplotypes (frequency lower than 1%) are grouped with reference to allele A/G of the TNF(A/G)-308 marker. To check the difference in the haplotype frequency distribution among the three classes we applied a likelihood
+
+Table 2. Relative Frequency (% 6 SE) of TNF(A/G)-308 Genotypes and Alleles in Participants Categorized According to Sex and Age
+
+Men Women Age Class 1 Age Class 2 Age Class 3 Age Class 1 Age Class 2 Age Class 3 (,66 y) N ¼ 191 (66–88 y) N ¼ 99 (.88 y) N ¼ 56 (,73 y) N ¼ 155 (73–91 y) N ¼ 80 (.91 y) N ¼ 166 Genotypes Aþ 27.75 6 3.24 22.22 6 4.18 10.71 6 4.13 21.94 6 3.32 23.75 6 4.76 23.49 6 3.29 A– 72.25 6 3.24 77.78 6 4.18 89.29 6 4.13 78.06 6 3.32 76.25 6 4.76 76.51 6 3.29 p ¼ .019 NS Alleles A 15.18 6 1.84 11.11 6 2.23 6.25 6 2.29 11.94 6 1.84 11.88 6 2.56 11.75 6 1.77 G 84.82 6 1.84 88.89 6 2.23 93.75 6 2.29 88.06 6 1.84 88.12 6 2.56 88.25 6 1.77 p ¼ .028 NS
+
+Notes: ‘‘Aþ’’¼‘‘AA’’þ‘‘AG’’ genotypes; ‘‘A–’’¼‘‘GG’’ genotype. The results of the Monte Carlo likelihood ratio chi-square test for differences in the allele/ genotype frequency distribution among age classes are shown. SE ¼ standard error; TNF ¼ tumor necrosis factor; NS ¼ not significant.
+
+Table 3. Frequency Distribution of Four-Marker Haplotypes the TNF Region, in 346 Male Participants Categorized
+
+the effect of which on survival may be comparable to that of alleles that affect the population’s cumulative mortality because of their association with a number of complex age- related diseases, for example, the e4 allele of the apolipo- protein E (APOE) gene (36). Interestingly, the TNF(A/G)-308 polymorphism has been suggested to play a role in the pathogenesis of cardiac ischemic damage, a major causes of death more prevalent in men; in particular, carriers of allele A are prone to more severe ischemic damages following myocardial infarction (21).
+
+Age Class 1 Age Class 2 Age Class 3 (,66 y) (66–88 y) (.88 y) 2n ¼ 382 2n ¼ 198 2n ¼ 112 Haplotypes Freq. % 6 SE Freq. % 6 SE Freq. % 6 SE 2.1.A.3* 4.69 6 1.10 5.56 6 1.64 2.68 6 1.59 4.1.A.3 5.21 6 1.16 2.02 6 1.04 1.79 6 1.20 rare Aþ 5.21 6 1.14 3.54 6 1.31 1.79 6 1.25 1.2.G.3* 0.78 6 0.49 2.53 6 1.12 0.89 6 0.84 10.1.G.3* 19.53 6 2.14 21.72 6 2.87 23.21 6 4.00 11.1.G.3* 5.99 6 1.25 5.05 6 1.54 6.25 6 2.35 13.1.G.3* 3.39 6 0.94 10.10 6 2.13 4.46 6 1.95 2.2.G.1* 13.80 6 1.75 7.07 6 1.79 8.93 6 2.79 2.2.G.3* 4.17 6 1.10 2.53 6 1.17 5.36 6 2.15 4.1.G.3* 0.78 6 0.49 2.53 6 1.17 0.89 6 1.01 5.2.G.2 2.08 6 0.75 2.02 6 1.02 0.89 6 0.89 5.2.G.3* 2.86 6 0.90 3.03 6 1.27 5.36 6 2.25 6.1.G.3* 16.41 6 1.93 10.61 6 2.14 18.75 6 3.77 7.1.G.3* 4.43 6 1.15 8.08 6 2.02 8.93 6 2.71 7.2.G.3 4.17 6 1.10 1.51 6 1.00 0.89 6 1.01 9.2.G.3* 1.04 6 0.51 4.03 6 1.38 0.89 6 0.93 Rare Gþ 5.46 6 1.16 8.07 6 1.94 8.04 6 2.57
+
+It is worth nothing that the TNF(A/G)-308 polymorphism is a functional polymorphism with allele-specific effects on gene expression (11,12). The finding that genotypes in- cluding the allele that increases gene expression (A allele) are detrimental for surviving up to old age is in line with the idea that inflammatory responses may contribute to devel- opment of chronic degenerative diseases (37) and that indi- viduals with a pro-inflammatory genetic asset have a higher mortality risk, as postulated by the inflammaging theory (7–9).
+
+The detrimental effect of allele A is restricted to men. Taking into account the functional role of this poly- morphism and the sex-specificity of the physiological set- up, this finding is not unexpected. In any case, this result adds a further piece of evidence to the idea that the genetic component that modulates the probability of reaching extreme old age is gender-specific and likely more important in men than in women (38).
+
+Notes: The haplotype nomenclature refers to alleles of the four loci, reported (from left to right) in the following order: TNFa, TNFc, TNF(A/G)-308, TNFe. Haplotypes with a frequency lower than 1% are pooled into two categories of rare haplotypes, based on the presence of allele A (rare Aþ) or G (rare Gþ) at the TNF-308 locus. Standard errors (SE) of haplotype frequencies were calculated through 1000 bootstrap resampling cycles. A likelihood ratio chi-square test for differences in the haplotype frequency distribution among age classes gave the following result: v2 ¼ 58.7, df ¼ 32, p ¼ .0027.
+
+It should be noted that the GD method, as it has been applied in the present study, is potentially subject to two possible sources of bias. The first is that we recruited participants from a wide part of Italy (northern and central Italy), but we had to use demographic data referred to the whole Italian population, because a more restrictive and preferable set of data referred to northern-central Italy was not available in demographic databases. The second pos- sible source of bias is the contribution of migration flows which, when present, could violate the assumption of equal initial gene frequencies in different birth cohorts, required by the GD approach (28). However, in our study we included only northern and central Italian participants whose families were from the same geographic area (i.e., northern and central Italy) up to the third generation; consequently, in our opinion, the bias due to migration was likely minimal, even considering that in Italy the migration from south to north was quite rare before the middle of the last century. Furthermore, it should be noted that the effect of internal migration in Italy could hardly affect the application of the GD method to the TNF(A/G)-308 locus, given that allele frequencies at this locus do not vary among different areas of Italy. In fact, available data do not suggest a frequency variation of TNF(A/G)-308 alleles between northern and southern Italy, and a recently published article (39) reports exactly the same allele frequency distribution in 216 healthy controls from Northern Italy and 146 healthy controls from Southern Italy.
+
+*Allelic combinations included in Caucasian conserved extended haplotypes in the MHC region (40).
+
+the MHC region (40). TNF ¼ tumor necrosis factor.
+
+TNF ¼ tumor necrosis factor.
+
+ratio test to the data of Table 3 and found p ¼ .0027, thus confirming association between the TNF genomic region and age class. Due to the number of variables with respect to the sample size, it does not make sense to compare the frequency of each single haplotype among the age classes; however, it can be seen from Table 3 that the frequency of haplotypes including the A allele tends to decrease as the population ages and survival selection operates.
+
+D ISCUSSION
+
+The results of the present study indicate that the genotype at the TNF(A/G)-308 locus affects the probability of reaching extreme old age in a gender-specific manner. By using two different approaches both based on the addition of demographic to genetic data (Figure 1 and Table 2) we show that, in men, the presence of allele A in the genotype is unfavorable to attain longevity: The survival function is lower in allele A carriers than in noncarriers (Figure 1); the frequency of Aþ genotypes decreases with increasing age (Table 2). This observation is in agreement with the well- known association of the TNF(A/G)-308 polymorphism, and in particular of the A allele, with major age-related diseases, for example asthma, obesity, rheumatoid arthri- tis, systemic lupus erythematosus, and insulin resistance (14–20). From this perspective, the A allele is a frailty allele,
+
+The haplotype data reported in Table 3 confirm that the entire TNF region is associated with the age of the sample group. Indeed, the whole distribution of haplotype frequen- cies differs among the three age classes (p ¼ .0027). This
+
+Braun N, Michel U, Ernst BP, et al. Gene polymorphism at position -
+
+of the tumor-necrosis-factor-alpha (TNF-alpha) in multiple sclerosis and its influence on the regulation of TNF-alpha production. Neurosci Lett.
+
+;
+
+:
+
+–
+
+Wilson AG, Symons JA, M
+
+owell TL, M
+
+evitt HO, Duff GW. Effects of a polymorphism in the human tumor necrosis factor alpha promoter on transcriptional activation. Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Kroeger KM, Carville KS, Abraham LJ. The -
+
+tumor necrosis factor-alpha promoter polymorphism effects transcription. Mol Immu- nol.
+
+;
+
+:
+
+–
+
+Danis VA, Millington M, Hyland V, Lawford R, Huang Q, Grennan D. Increased frequency of the uncommon allele of a tumour necrosis factor alpha gene polymorphism in rheumatoid arthritis and systemic lupus erythematosus. Dis Markers.
+
+;
+
+:
+
+–
+
+Chagani T, Pare PD, Zhu S, et al. Prevalence of tumor necrosis factor- alpha and angiotensin converting enzyme polymorphisms in mild/ moderate and fatal/near-fatal asthma. Am J Respir Crit Care Med.
+
+;
+
+:
+
+–
+
+Witte JS, Palmer LJ, O’Connor RD, Hopkins PJ, Hall JM. Relation between tumour necrosis factor polymorphism TNFalpha-
+
+and risk of asthma. Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+Herrmann SM, Ricard S, Nicaud V, et al. Polymorphisms of the tumour necrosis factor-alpha gene, coronary heart disease and obesity. Eur J Clin Invest.
+
+;
+
+:
+
+–
+
+Pihlajamaki J, Ylinen M, Karhapaa P, Vauhkonen I, Laakso M. The effect of the -
+
+A allele of the TNF-alpha gene on insulin action is dependent on obesity. Obes Res.
+
+;
+
+:
+
+–
+
+Jaquet D, Tregouet DA, Godefroy T, et al. Combined effects of genetic and environmental factors on insulin resistance associated with reduced fetal growth. Diabetes.
+
+;
+
+:
+
+–
+
+Nicaud V, Raoux S, Poirier O, Cambien F, O’Reilly DS, Tiret L. The TNF alpha/G-
+
+A polymorphism influences insulin sensitivity in offspring of patients with coronary heart disease: the European Atherosclerosis Research Study II. Atherosclerosis.
+
+;
+
+:
+
+–
+
+Antonicelli R, Olivieri F, Cavallone L, et al. Tumor necrosis factor- alpha gene -
+
+G > A polymorphism is associated with ST-elevation myocardial infarction and with high plasma levels of biochemical ischemia markers. Coron Artery Dis.
+
+;
+
+:
+
+–
+
+Wang XY, Hurme M, Jylha M, Hervonen A. Lack of association between human longevity and polymorphisms of IL-
+
+cluster, IL-
+
+, IL-
+
+and TNF-alpha genes in Finnish nonagenarians. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Ross OA, Curran MD, Rea IM, et al. HLA haplotypes and TNF polymorphism do not associate with longevity in the Irish. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Bruunsgaard H, Benfield TL, Andersen-Ranberg K, et al. The tumor necrosis factor alpha -
+
+G>A polymorphism is associated with dementia in the oldest old. J Am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Soto-Vega E, Richaud-Patin Y, Llorente L. Human leukocyte anti- gen class I, class II, and tumor necrosis factor-alpha polymorphisms in a healthy elder Mexican Mestizo population. Immun Ageing.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Inflammation, genetics, and longevity: further studies on the protective effects in men of IL
+
+(cid:
+
+)
+
+promoter SNP and its interaction with TNFa (cid:
+
+)
+
+promoter SNP. J Med Genet.
+
+;
+
+:
+
+–
+
+De Benedictis G, Franceschi C. The unusual genetics of human longevity. Sci Aging Knowledge Environ.
+
+;
+
+:pe
+
+Yashin AI, De Benedictis G, Vaupel JW, et al. Genes, demography, and life span: the contribution of demographic data in genetic studies on aging and longevity. Am J Hum Genet.
+
+;
+
+:
+
+–
+
+Dato S, Carotenuto L, De Benedictis G. Genes and longevity: a genetic- demographic approach reveals sex- and age-specific gene effects not shown by the case-control approach (APOE and HSP
+
+loci). Biogerontology.
+
+;
+
+:
+
+–
+
+Passarino G, Montesanto A, Dato S, et al. Sex and age specificity of susceptibility genes modulating survival at old age. Hum Hered.
+
+;
+
+:
+
+–
+
+Franceschi C, Motta L, Valensin S, et al. Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE). Aging (Milano).
+
+;
+
+:
+
+–
+
+finding is not unexpected, taking into account the strong linkage disequilibrium observed at these loci and their inclusion in the ‘‘TNF haplotype block’’ (40–42). In addition, a systematic tendency to frequency reduction is detectable in all the haplotypes containing allele A as the age of the sample group increases (Table 3), thus suggesting that the detrimental effect on survival shown in Figure 1 is in fact due chiefly to the A allele of the TNF-308 locus.
+
+Conclusion
+
+The present study has revealed male-specific association between TNF(A/G)-308 polymorphism and survival. This result not only agrees with the correlation found between this polymorphism and age-related complex diseases, but also with the idea that inflammation is a key modulator of the probability of reaching extreme old age.
+
+from http://biomedgerontology.oxfordjournals.org/ by guest on March 17, 2016
+
+ACKNOWLEDGMENTS
+
+This work has been partially supported by grants from European Union Grants GEHA (LSHM-CT-2004-503270), Emilia-Romagna Project ‘‘ER- GenTech,’’ FP6 EU Project ‘‘T-CIA,’’ and by University of Bologna ‘‘Pallotti’’ Research Funds.
+
+Drs. Cardelli and Cavallone contributed equally to this work.
+
+CORRESPONDENCE
+
+Address correspondence to Maurizio Cardelli, PhD, Department of Gerontological Research, Italian National Research Center on Aging (I.N.R.C.A),ViaBirarelli8,60100Ancona,Italy.E-mail:maucard@libero.it
+
+REFERENCES
+
+Franceschi C, Olivieri F, Marchegiani F, et al. Genes involved in immune response/inflammation, IGF
+
+/insulin pathway and response to oxidative stress play a major role in the genetics of human longevity: the lesson of centenarians. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Bonafe` M, Olivieri F, Cavallone L, et al. A gender-dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Gender specific association between (cid:
+
+)
+
+IL-
+
+promoter polymorphism and longevity. Genes Immun.
+
+;
+
+:
+
+–
+
+Balistreri CR, Candore G, Colonna-Romano G, et al. Role of Toll-like receptor
+
+in acute myocardial infarction and longevity. JAMA.
+
+;
+
+:
+
+–
+
+Candore G, Balistreri CR, Grimaldi MP, et al. Opposite role of pro- inflammatory alleles in acute myocardial infarction and longevity: results of studies performed in a Sicilian population. Ann N Y Acad Sci.
+
+;
+
+:
+
+–
+
+Grimaldi MP, Candore G, Vasto S, et al. Role of the pyrin M
+
+V (A
+
+G) allele in acute myocardial infarction and longevity: a study in the Sicilian population. J Leukoc Biol.
+
+;
+
+:
+
+–
+
+Salvioli S, Capri M, Valensin S, et al. Inflamm-aging, cytokines and aging: state of the art, new hypotheses on the role of mitochondria and new perspectives from systems biology. Curr Pharm Des.
+
+;
+
+:
+
+–
+
+Franceschi C, Capri M, Monti D, et al. Inflammaging and anti- inflammaging: a systemic perspective on aging and longevity emerged from studies in humans. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Franceschi C, Bonafe M, Valensin S, et al. Inflamm-aging. An evolutionary perspective on immunosenescence. Ann N Y Acad Sci.
+
+;
+
+:
+
+–
+
+Westendorp RG, Langermans JA, Huizinga TW, et al. Genetic influence on cytokine production and fatal meningococcal disease. Lancet.
+
+;
+
+:
+
+–
+
+Candore G, Balistreri CR, Listi F, et al. Immunogenetics, gender, and longevity. Ann N Y Acad Sci.
+
+;
+
+:
+
+–
+
+Perri F, Piepoli A, Bonvicini C, et al. Cytokine gene polymorphisms in gastric cancer patients from two Italian areas at high and low cancer prevalence. Cytokine.
+
+;
+
+:
+
+–
+
+Dorak MT, Shao W, Machulla HK, et al. Conserved extended haplotypes of the major histocompatibility complex: further character- ization. Genes Immun.
+
+;
+
+:
+
+–
+
+Yunis EJ, Larsen CE, Fernandez-Vina M, et al. Inheritable variable sizes of DNA stretches in the human MHC: conserved extended haplotypes and their fragments or blocks. Tissue Antigens.
+
+;
+
+:
+
+–
+
+Garcia-Merino A, Alper CA, Usuku K, et al. Tumor necrosis factor (TNF) microsatellite haplotypes in relation to extended haplotypes, susceptibility to diseases associated with the major histocompatibility complex and TNF secretion. Hum Immunol.
+
+;
+
+:
+
+–
+
+extracting DNA from human nucleated cells. Nucleic Acids Res.
+
+;
+
+:
+
+Wilson AG, di Giovine FS, Blakemore AI, Duff GW. Single base polymorphism in the human tumour necrosis factor alpha (TNF alpha) gene detectable by Nc
+
+restriction of PCR product. Hum Mol Genet.
+
+;
+
+:
+
+Udalova IA, Nedospasov SA, Webb GC, Chaplin DD, Turetskaya RL. Highly informative typing of the human TNF locus using six adjacent polymorphic markers. Genomics.
+
+;
+
+:
+
+–
+
+Excoffier L, Laval G, Schneider S. Arlequin version
+
+: An integrated software package for population genetics data analysis. Evol Bioinform Online.
+
+;
+
+:
+
+–
+
+Gerdes LU, Jeune B, Ranberg KA, Nybo H, Vaupel JW. Estimation of apolipoprotein E genotype-specific relative mortality risks from the distribution of genotypes in centenarians and middle-aged men: apolipoprotein E gene is a ‘‘frailty gene,’’ not a ‘‘longevity gene.’’ Genet Epidemiol.
+
+;
+
+:
+
+–
+
+Van Bodegom D, May L, Meij HJ, Westendorp RG. Regulation of human life histories: the role of the inflammatory host response. Ann N Y Acad Sci.
+
+;
+
+:
+
+–
+
+
+
+
+

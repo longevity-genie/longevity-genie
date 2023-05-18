@@ -1,0 +1,315 @@
+Apolipoprotein AIV codon 360 mutation increases with human aging and is not associated with Alzheimer’s disease
+
+Aksam Merched, Yongjing Xia, Anna Papadopoulou, Ge´rard Siest, Sophie Visvikis*
+
+CentredeMe´decinePre´ventiveUPRES,2,rueduDoyenJacquesParisot,F-54501Vandoeuvre-le`s-Nancy,France
+
+Received 8 December 1997; received in revised form 29 December 1997; accepted 29 December 1997
+
+Abstract
+
+In order to evaluate genetic apolipoprotein polymorphisms as risk factors for Alzheimer’s disease (AD), we studied apolipo- protein (apo) AIV after apoE, an apolipoprotein also present in the brain. The allelic distribution of apoAIV codon 360 poly- morphism was no different in AD group (n= 120) compared with elderly healthy individuals (n= 119). Surprisingly, this polymorphism was over-represented (11.40%, vs. 5.7% P, 0.005) in all these aged subjects (74.29 – 8.46 years) and inde- pendently of the clinical and mental status compared with the younger population (39.00 – 9.69 years) of the same regional recruitment. These results suggest that the apoAIV (360:His) allele could be a marker of aging and longevity.  1998 Elsevier Science Ireland Ltd.
+
+Keywords: Longevity; Genetic marker; Alzheimer’s disease; Apolipoprotein E; Apolipoprotein AIV (360:Gln:His); DNA morphism
+
+cell culture and animal models [3,10]. Others suggest that apoAIV may act in the CNS as a factor to control appetite during food intake [8].
+
+Apolipoprotein (apo) AIV is a component of chylomi- crons and high-density lipoproteins which shows a genetic polymorphism in Caucasian populations with two common alleles, ApoAIV-1 and ApoAIV-2. Previously, we identified these alleles to be a result of glutamine (CAG) to histidine (CAT) substitution at codon 360 [1]. Postulated functions of this apolipoprotein include: acting as an activator of the enzyme lecithin:cholesterol acyltransferase (LCAT) [20], promoting removal of cellular cholesterol from extrahepatic tissue [21] and modulating the activation of lipoprotein lipase by apoC-II [9]. Genetic-association studies have demonstrated a relationship between apoAIV polymorph- ism and interindividual variability in plasma cholesterol, triglyceride and glucose levels in supposedly healthy popu- lations, but the results have been somewhat controversial [15–17,25]. Little is known about the function of this apo- lipoprotein at the level of the central nervous system (CNS). Some studies have attributed roles to apoAIV during degen- erative and regenerative processes in the peripheral and central nervous systems, as well as during development in
+
+It was reported that apoAIV was first supposed to cross the blood-brain-barrier [6,14]. However, the recent localiza- tion of apoAIV within the brain [12] and in the CSF [2] increases the potential role of this protein in the CNS. Unchanged apoAIV expression in Alzheimer’s disease (AD) brains compared with controls suggests that qualita- tive rather than quantitative change may be linked to this pathology. Collectively, these data led us to investigate the common apoAIV polymorphism implication in AD. We report our findings as a response to very recent results reporting an association of the apoAIV codon 360 mutation with AD [4].
+
+The population studied included 120 patients (88 females, 32 males) with probable AD established according to the criteria of the NINCDS-ADRDA work group. All patients with AD had a mini-mental state (MMS) score of less than 25. Moreover, we included a population of 119 presumed-healthy elderly subjects (62 females, 57 males) participating in systematic health screening at the Center for Preventive Medicine in Nancy, France. These subjects were
+
+0304-3940/98/$19.00   1998 Elsevier Science Ireland Ltd. All rights reserved PII S0304-3940(98)00025-1
+
+Table 1
+
+ApoE and AIV allelic distributions in AD and control groups
+
+AD patients Elderly control group All elderly General populationa n(M/F%) 120 (27.5/72.5) 119 (51.8/48.2) 239 (60.4/39.6) 264 (50.4/49.6) Age (years – SD) 77.87 – 8.47 70.68 – 6.52 74.29 – 8.46 39.00 – 9.69 AIV allelic frequency (AIV-2) 9.5% 13.27% 11.38%b 5.68% ApoE allelic frequency e4c 27.70% 12.27% – – e3 66.84% 79.55% – – e2 5.46% 8.18% – –
+
+a from our previous results [23]. b P, 0.005 compared with general population. c P, 0.0005 for comparison between AD and elderly control
+
+described here and previously reported revealed similarities in AD patients but also very significant differences in elderly control groups (13.27% here vs. 3.5% in the study of Csazar et al. [4]) despite the same mean age for both groups. The reason for this discrepancy is unclear. Never- theless, it is interesting to note that the control populations in both studies were also different in ApoE genetics. ApoE4 frequency in our group was 12.27% and it was 7% in the study of Csazar et al. [4]. This is relatively low compared with the frequency of this allele in the general population of many European countries (see [19] for review). It is also low compared with what is already reported in larger popula- tions by the same authors [11] who reported a e4-allele frequency of 12.9% in a sample of 202 subjects.
+
+supposed to be free of AD symptoms after clinical exam- inations performed by general clinicians. The results of this study were compared with those previously described from the general population of the same region [23].
+
+Genotyping was performed with DNA isolated from nucleated blood cells [18]. The ApoE genotype was deter- mined as described elsewhere [13]. ApoAIV codon 360 genotyping was performed with a technique using a bispe- cific-allele primer amplification established in our labora- tory [26]. In this technique a simple electrophoresis of PCR products is used for typing the variation at codon 360. When DNA was not available, apoE and apoAIV phenotyping was performed using two-dimensional electrophoresis as described elsewhere [22,23].
+
+Of primary interest in the current study is the fact that the frequency of the apoAIV 360 mutation was relatively ele- vated in the elderly population, independently of the clinical state (e.g. in either an AD population or the control group compared with younger individuals). This mutation was also frequent in 26 patients with vascular dementia (9.26%, not shown). These finding suggest that this muta- tion may be linked more to healthy aging or ‘longevity’ than to a specific aging-disease. It is clear that apoAIV (360:Gln:His) allele frequencies are different between Eur- opean countries with a gradient increasing from north (4.9%) to south (10.5%) [5]. However, these data were col- lected from younger populations and did not address elderly populations. The relevance of the potential implication of the apoAIV (360:Gln:His) allele in aging is beyond the scope of this study. This question can be addressed better in a population which includes older subjects.
+
+The frequency of apoAIV alleles was not significantly different between AD and the elderly control group (Table 1). However, in both groups, apoAIV (360:His) allele fre- quency was higher than in the general population with a – – mean age of 39.00 9.69 years, compared with 70.68 – 6.52 years for elderly and 77.87 8.47 years for AD , , patients (P 0.05 and P 0.001, respectively). These results suggest that this mutation is over-represented at an advanced age and is not linked to AD risk.
+
+Next the results were analyzed with respect to apoE poly- morphism and the presence or absence of the e4-allele: the major genetic risk factor of AD (Table 2). Irrespective of the presence or the absence this allele, individuals have the same apoAIV allelic distribution and there is no significant additional risk for AD for the apoAIV (360:Gln:His) allele carriers. In the AD group, the mini-mental score [7] was not influenced by apoAIV 360 polymorphism (not shown).
+
+Table 2
+
+ApoAIV 360 allelic distribution according to e4-allele presence between AD and elderly control group
+
+With 1 or 2 e4-allele Without e4-allele Subjects AD patients controls AD patients controls Without AIV-2-allele 48 20 48 63 With 1 or 2 AIV-2-allele 10 6 12 21 Odds ratio (confidence interval) 0.69 (0.22–2.15) 0.75 (0.50–1.13)
+
+Subjects
+
+
+
+a structural change [24] that may lead it to be more hydro- phobic, more efficient in LCAT activation and better linked to lipoproteins. All these functions, with others to be deter- mined, may protect from cardio and cerebrovascular dis- eases. Our results suggest that apoAIV(360:His) could modulate aging-associated functions and needs to be inves- tigated in longevity studies.
+
+A.J., Brain expression of Apolipoproteins E, J, and A-I in Alz- heimer’s disease, J. Neurochem.,
+
+(
+
+)
+
+–
+
+[
+
+] Hixson, J.E. and Vernier, D.T., Restriction isotyping of human apolipoprotein E by gene amplification and cleavage with Hh
+
+, J. Lipid. Res.,
+
+(
+
+)
+
+–
+
+[
+
+] Karathanasis, S.K., Yunis, I. and Zannis, V.I., Structure, evolu- tion, and tissue-specific synthesis of human apolipoprotein AIV, Biochemistry,
+
+(
+
+)
+
+–
+
+[
+
+] Lagrost, L., Gambert, P., Meunier, S., Morgado, P., Desgres, J., d’Athis, P. and Lallemant, C., Correlation between apolipopro- tein AIV and triglyceride concentrations in human sera, J. Lipid Res.,
+
+(
+
+)
+
+–
+
+[
+
+] Menzel, H.J., Boerwinkle, E., Schrangl-Will, S. and Utermann, G., Human apolipoprotein AIV polymorphism: frequency and effect on lipid and lipoprotein levels, Hum. Genet.,
+
+(
+
+) (
+
+)
+
+–
+
+[
+
+] Menzel, H.J., Sigurdsson, G., Boerwinkle, E., Schrangl-Will, S., Dieplinger, H. and Utermann, G., Frequency and effect of human apolipoprotein AIV polymorphism on lipid and lipopro- tein levels in an Icelandic population, Hum. Genet.,
+
+(
+
+) (
+
+)
+
+–
+
+[
+
+] Miller, S.A., Dykes, D.D. and Polesky, S., A simple salting out procedure for extracting DNA from human nucleated cells, Nucl. Acids. Res.,
+
+(
+
+)
+
+–
+
+[
+
+] Siest, G., Pillot, T., Re´gis-Bailly, A., Leninger-Muller, B., Steinmetz, J., Galteau, M.M. and Visvikis, S., Apolipoprotein E: an important gene and protein to follow in laboratory medicine, Clin. Chem.,
+
+(
+
+) (
+
+)
+
+–
+
+[
+
+] Steinmetz, A. and Utermann, G., Activation of lecithin choles- terol acyltransferase by human apolipoprotein A IV, J. Biol. Chem.,
+
+(
+
+)
+
+–
+
+[
+
+] Steinmetz, A., Barbaras, R., Ghalim, N., Clavey, V., Fruchart, J.C. and Ailhaud, G., Human apolipoprotein AIV binds to apo- lipoprotein AI/AII receptor sites and promotes cholesterol efflux from adipose cells, J. Biol. Chem.,
+
+(
+
+) (
+
+)
+
+–
+
+[
+
+] Visvikis, S., Steinmeitz, J., Cuvelier, I., Galteau, M.M. and Siest, G., Study of Ap
+
+I and Ap
+
+polymorphisms using two dimensional electrophoresis. In M.M. Galteau and G. Siest (Eds.), Recent Progresses in Two-Dimensional Electrophor- esis, Presses Universitaires Nancy, France,
+
+, pp.
+
+–
+
+[
+
+] Visvikis, S., Steinmetz, J., Boerwinkle, E., Gueguen, R., Galteau, M.M. and Siest, G., Frequency and effects of the apo- lipoprotein AIV polymorphism, Clin. Genet.,
+
+(
+
+)
+
+–
+
+[
+
+] Weinberg, R.B., Jordan, M.K. and Steinmetz, A., Distinctive structure and function of human apolipoprotein variant Ap
+
+- IV-
+
+, J. Biol. Chem.,
+
+(
+
+) (
+
+)
+
+–
+
+[
+
+] Zaiou, M., Visvikis, S., Gueguen, R., Parra, H.J., Fruchart, J.C. and Siest, G., DNA polymorphism of human apolipoprotein AIV gene: frequency and effects on lipid, lipoprotein levels in a French population, Clin. Genet.,
+
+(
+
+)
+
+–
+
+[
+
+] Zaiou, M., Visvikis, S., Visvikis, A. and Siest, G., A rapid and reliable method for direct genotyping of codon
+
+in the human apolipoprotein AIV gene, J. Lipid Res.,
+
+(
+
+)
+
+–
+
+[
+
+] Boerwinkle, E., Visvikis, S. and Chan, L., Two for amino acid substitutions in the APO A
+
+gene, Nucleic Res.,
+
+(
+
+)
+
+[
+
+] Borghini, I., Barga, F., Pometta, D. and James, R.W., terization of subpopulations of lipoprotein particles isolated human cerebrospinal fluid, Biochem. Biophys. Acta, (
+
+)
+
+–
+
+[
+
+] Boyles, J.K., Notterpek, L.M. and Anderson, L.J., of apolipoproteins in the regenerating and remyelinating malian peripheral nerve., J. Biol. Chem.,
+
+(
+
+)
+
+[
+
+] Csazar, A., Kalman, J., Szalai, C., Janka, Z. and Romics, Association of the apolipoprotein A-IV codon
+
+mutation patients with Alzheimer’s disease, Neurosci. Lett.,
+
+–
+
+[
+
+] Ehnholm, C., Tenkanen, H., de Knijff, P., Havekes, Rosseneu, M., Menzel, H.J. and Tiret, L., On behalf of EARS group. Genetic polymorphism of apolipoprotein AIV five different regions of Europe, Atherosclerosis,
+
+–
+
+[
+
+] Elshourbagy, N.E., Liao, W.S., Mahley, R.W. and Taylor, Apolipoprotein E
+
+NA is abundant in the brain and as well as in the liver, and is present in other peripheral of rats and marmosets, Proc. Natl. Acad. Sci. USA,
+
+–
+
+[
+
+] Folstein, M.R., Folstein, S.C. and M
+
+ugh, G., state’: a practical method for grading the cognitive state patients for the clinician, J. Psychiatry Res.,
+
+(
+
+)
+
+[
+
+] Fujimoto, K., Fukagawa, K., Sakata, T. and Tso, P., sion of food intake by apolipoprotein A-IV is mediated the central nervous system in rats, J. Clin. Invest.,
+
+–
+
+[
+
+] Goldberg, I.J., Scheraldi, C.A., Yacoub, L.K., Saxena, U. Bisgaier, C.L., Lipoprotein apo CII activation of lipase. Modulation by apolipoprotein AIV, J. Biol. Chem., (
+
+)
+
+–
+
+[
+
+] Goodrum, J.F., Bouldin, T.W., Zhang, H.Z., Maeda, N. Popko, B., Nerve regeneration and cholesterol occur in the absence of apolipoproteins E and A-I in mice, Neurochem.,
+
+(
+
+)
+
+–
+
+[
+
+] Hallman, D.M., Boerwinkle, E., Saha, N., Sandholzer, Menzel, H.J., Csazar, A. and Utermann, G., The E polymorphism: comparison of allele frequencies and in nine populations, Am. J. Hum. Genet.,
+
+(
+
+) [
+
+] Harr, S.D., Uint, L., Hollister, R., Hyman, B.T. and

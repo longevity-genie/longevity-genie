@@ -1,0 +1,1151 @@
+Association of the FOXO3A Locus with Extreme Longevity in a Southern Italian Centenarian Study
+
+Chiara Viviani Anselmi,1* Alberto Malovini,1,2* Roberta Roncarati,1 Valeria Novelli,1 Francesco Villa,1 Gianluigi Condorelli,1 Riccardo Bellazzi,2 and Annibale Alessandro Puca,1
+
+Abstract
+
+A number of potential candidate genes in a variety of biological pathways have been associated with longevity in model organisms. Many of these genes have human homologs and thus have the potential to provide in- sights into human longevity. Recently, several studies suggested that FOXO3A functions as a key bridge for various signaling pathways that influence aging and longevity. Interestingly, Willcox and colleagues identified several variants that displayed significant genotype–gender interaction in male human longevity. In particu- lar, a nested case–control study was performed in an ethnic Japanese population in Hawaii, and five candidate longevity genes were chosen based on links to the insulin–insulin-like growth factor-1 (IGF-1) signaling path- way. In the Willcox study, the investigated genetic variations (rs2802292, rs2764264, and rs13217795) within the FOXO3A gene were significantly associated with longevity in male centenarians. We validated the association of FOXO3A polymorphisms with extreme longevity in males from the Southern Italian Centenarian Study. Par-   ticularly, rs2802288, a proxy of rs2802292, showed the best allelic association—minor allele frequency (MAF)   7a 0.49; p 0.003; odds ratio (OR) 1.51; 95% confidence interval (CI), 1.15–1.98). Furthermore, we undertook a meta-analysis to explore the significance of rs2802292 association with longevity by combining the association results of the current study and the findings coming from the Willcox et al. investigation. Our data point to a key role of FOXO3A in human longevity and confirm the feasibility of the identification of such genes with centenarian–controls studies. Moreover, we hypothesize the susceptibility to the longevity phenotype may well be the result of complex interactions involving genes and environmental factors but also gender.
+
+Introduction
+
+for several age-related diseases that cause significant mor- bidity and mortality among older people.
+
+GING IS A MULTIFACTORIAL AND COMPLEX by stochastic interactions (random damage to vital mol- ecules), extrinsic interventions (such as diet and caloric re- striction), and intrinsic/genetic alterations. A number of cen- tenarian (people aged 100 years old or older) studies exploit the strong selection of favorable genotypes in exceptionally aged individuals to study candidate genes and to perform genome wide analyses. Replications of observed associations of genotypes with longevity, coupled with functional stud- ies to define mechanisms whereby specific genotypes influ- ence lifespan-associated phenotypes, are essential to delin- eate true positive genetic findings. Such findings could potentially lead to preventive and therapeutic interventions
+
+Numerous genes have been identified that are either pos- itively or negatively selected in the centenarian population as a consequence of a demographic selection,1–3 but no con- sistent replications have been observed in independent pop- ulation, with the exception of Apolipoprotein E (APOE).4,5 In addition, animal studies have provided insights into the types of genes that can be involved in the regulation of life- span. The first longevity mutant to be identified was the Caenorhabditis elegans gene PAX2 age-1.6 This mutant encodes phosphatidylinositol-3-kinase (PI3K),7 which has a key role in a signaling pathway that is homologous to the mammalian insulin–insulin-like growth factor-1 (IGF-1) pathway. Ge-
+
+1Unit of Genetics and Cardiovascular Research Institute, Istituto Ricovero Cura Carattere Scientifico “Multimedica”, Sesto S. Giovanni,
+
+2 Department of Computer Engineering and Systems Science, University of Pavia, Pavia, Italy. *These authors contributed equally to this work.
+
+netic studies in C. elegans have demonstrated that activation of the PIK3/Akt pathway by IGF-1 suppresses activity of the DAF-16 forkhead transcription factor, the nematode ortholog of mammalian FOXO proteins. FOXO transcription factors belong to the Forkhead family of proteins, a family charac- terized by a conserved DNA-binding domain (Forkhead box) for phosphorylation by the survival kinase Akt.8–10 Particu- larly, in mammals the FOXO subgroup (FOXO1, FOXO3, FOXO4, and FOXO6) promotes the expression of numerous downstream genes that mediate stress resistance, innate im- munity, metabolic processes, and toxin degradation.11–15
+
+rs13217795 (p   0.0006), and rs2802292 (p r<( 0.0001).22 The aim of our study was to support the potential role of FOXO3A as a key component that influences longevity with a case–control study. We screened 480 long-living “cases” (281 males and 199 females) and 335 young controls (195 males, 140 females) from an isolated and homogeneous pop- ulation of southern Italy (Southern Italian Centenarian Study, SICS) with an Illumina BeadChip 300K system, and we focused on the FOXO3A gene. As previously described, we hypothesized that gender might influence the association between FOXO3A and longevity; thus, we analyzed males and females separately. We applied a powerful method for correcting for stratification of our population. Last, we ex- ploited a meta-analysis approach to pool Willcox’s findings to find evidence for a statistical association for the SNP rs2802292.
+
+A moderate reduction in the intake of calories (also known as caloric restriction [CR]) is extremely effective in delaying age-related decline and increasing longevity in organisms ranging from yeast to mammals.16–19 In this regard, Bonkowski and colleagues observed a striking difference in the response of growth hormone (GH) receptor/GH-bind- ing protein knockout (GHRKO) and normal mice to an iden- tical regimen of CR.20 When male and female longevity data were analyzed separately, it became evident that the effects of CR on maximal longevity were sexually dimorphic in GHRKO mice but not in normal mice.
+
+Materials and Methods
+
+Subject features
+
+This case–control study was carried on as a part of the SICS. The SICS (2002) assembled a large cohort of 600 DNA samples of nonagenarians/centenarians (age range 90–109 years) and 800 DNA samples of young controls (age range 18–48 years) from a isolated region of southern Italy east of Naples with a high prevalence of longevity and health and characterized by a high level of endogamy.23 All participants for the current study were well characterized; in fact, de- tailed phenotypic information about self-reported health his- tory and cognitive and physical functions measured through Blessed memory tests and Barthel scores of activity of daily living; demographics and exposure to common risk factors such as alcohol and smoking were also collected. For the aim of the present investigation, 281 long-lived men (age range 90–108 years) and 195 controls (age range 18–48 years) were genotyped (Table 1).
+
+It should be noted that susceptibility to many common diseases, as well as longevity, may well be the result of com- plex interactions involving genes, environmental factors, and, intriguingly, gender. In this scenario, FOXO is a key component of the insulin pathway, free radical production, and human longevity.
+
+In the prospective population-based Leiden 85 plus Study (866 females and 379 males, aged 85 years or more), the ef- fect of genetic variants in FOXO1A and FOXO3A were ana- lyzed on metabolic profiles, fertility, fecundity, age-related diseases (i.e., diabetes, myocardial infarction, etc.), and mor- tality.21 In detail, FOXO3A haplotypes showed no associa- tion with longevity and other investigated variables. One possible drawback of this finding is total absence of gender stratification. In fact, the hormonal environment as well as tissue-specific gene expression is known to differ signifi- cantly between genders in vertebrates. Hormones may dif- ferentially affect gene expression in somatic tissues, thus leading to the gender-specific susceptibility to a complex phenotype, such as longevity.20 In this regard, Willcox et al.22 performed a nested case–control study of five candidate longevity genes (ADIPOQ, FOXO1A, FOXO3A, SIRT, and COQ7) with links to the insulin–IGF signaling pathway (IIS). This nested case–control study was conducted in an ethnic Japanese population from the Island of Oahu, Hawaii, with 213 male longevity “cases” and 402 male “average-lived” controls. Three single-nucleotide polymorphisms (SNPs) were found to be associated with the “longevity” phenotype   at the locus of the FOXO3A gene: rs2764264 (p 0.0002),
+
+The subjects were enrolled by an Italian subsidiary (As- sociazione Longevità) of Elixir Pharmaceuticals (former Cen- tagenetix Inc). All subjects donated blood samples for DNA study and gave written informed consent to the study. The study was conducted in accordance with the ethical princi- ples that have their origins in the Declaration of Helsinki.
+
+Genotyping by the Illumina BeadChip system
+
+Genotyping was carried out using the Infinium II Assay- HumanHap BeadChip 317K-duo system (Illumina) using standard protocols. In fact, Illumina’s Infinium II Whole-Ge- nome Genotyping Assay is designed to interrogate a large number of SNPs at unlimited levels of loci multiplexing. The HumanHap 317-Duo workflow can be divided in three main
+
+TABLE 1. AGE (YEARS) DISTRIBUTION BY GENDER AND BY CENTENARIAN/CONTROL PHENOTYPE
+
+Males Females   I+ Phenotype n Mean SD Min–Max n Mean SD Min–Max I+   Centenarians 281 94.96 2.97 90–108 199 98.05 3.25 90–109   Controls 195 33.53 7.33 18–48 140 31.39 7.31 18–48
+
+n, number of individuals; SD, standard deviation; Min, minimum age; M, Maximum age.
+
+segments: (1) sample preparation; (2) sample fragmentation and hybridization; (3) extension, staining, and scanning.
+
+We used the OR and 95% CI for homozy- gous minor versus homozygous major alleles from the cur- rent analysis and from Willcox et al. study to calculate the natural logarithms of the OR (Log-OR) and its standard er- ror (SE). The Log-OR estimates were combined to obtain a summary OR following fixed26 and Der Simonian and Laird random effects27 models using inverse variance calculations. Between-dataset heterogeneity was identified using the I2 metric for inconsistency,28 and its statistical significance was assessed by means of the (cid:3)2 distributed Q statistic 29 (the   number of df is given by k 1, where k is the number of an- alyzed datasets). All calculations have been performed us- ing R v2.7.1 software.
+
+The BeadChps were imaged using a two-color confocal  laser system with 0.8- m resolution. The bead intensities were extracted, and genotypes were calculated using an Il- lumina-supplied cluster file, which is based on a set of ref- erence samples. The normalization algorithm adjusts for nominal offset, cross-talk, and intensity variations observed in the two-color channels. The data for each BeadChip were self-normalized using information contained within the ar- ray. This normalization algorithm removes outliers, adjusts for channel-dependent background and global intensity dif- ferences, and also scales the data. The X and Y color chan- nels undergo an affine coordinate transformation to make the data appear as canonical as possible, with the homozy- gotes lying along the transformed x and y axes. All geno- types were evaluated using a quantitative quality score called GenCall score. A GenCall score ranges from 0 to 1 and reflects the proximity within a cluster plot of the intensities of that genotype to the centroid of the nearest cluster.
+
+Haplotype analyses. We used HaploView 4.030 for blocks definition, haplotypes estimation, and association tests. We defined haplotype blocks using the Four Gamete Rule, a vari- ant on the algorithm described in the Wang study,31 and we estimated haplotypes using the default accelerated expecta- tion-maximization (EM) algorithm.30 Differences in haplo- type frequencies between centenarians and controls were tested by means of (cid:3)2 tests; haplotypes with a frequency “—<0 0.01 were excluded from the analysis.
+
+Statistical analysis
+
+Quality control. Individuals showing a genotyping rate  ‘Oo *<9 93% and SNPs with a genotyping rate 95% were excluded from the dataset. We screened for contaminations and eval- uated relationships among individuals using identity by descent (IBD) estimations. Samples showing extreme het- erozygosis and related individuals were removed. X chro- mosome data were used to check for the discordances in terms of gender assignment. SNPs with a minor allele fre- aey<\ quency (MAF) 0.01 and markers deviating from the Hardy–Weinberg equilibrium (HWE) in the control popula- one< tion (p-HWD 0.001) were excluded from the analysis.
+
+Covariate analyses. Associations between clinical risk factors and cognitive variables with genotypes were tested among nonagenarians by means of logistic and linear re- gression using R v2.7.1 software (http://www.R-project. org). All statistical analyses were performed using PLINK v1.0432 software except when specified.
+
+Results
+
+We recruited and phenotyped 281 male longevity “cases” (mean age 95 years) and 195 male “controls” (mean age 33 years) as part of the SICS. Subsequently, we genotyped these subjects (Table 1) using the Illumina 300k SNPs mapping BeadChip. After a preliminary phase of quality control (see Methods section), we looked for evidence of population het- erogeneity on a set of 258 males centenarians (cases) and 178 males controls by applying PCA as implemented in the EigenSoft 2.0 package.24 The estimation of the over-disper- () sion of trend test statistics ( ) was 1.05, decreasing to 1.027 after correction for the first four significant principal com- ponents. These results indicates a small or null confounding effect of population structure on our association results (Fig. 1)
+
+Population structure. To assess the absence of population stratification, we applied the principal component analysis (PCA) approach, a method that can capture subtle and ex- tensive variations due to ethnical, experimental, and techni- cal features.24 All autosomal SNPs and individuals that passed the quality control filters (299,772 SNPs, 258 cente- narians, 178 controls) were used as input to the EigenSoft 2.024 software using the default parameters, except for the number of outliers removal iterations, which was set to 0 to obtain estimates for all subjects.
+
+To test for associations between SNPs and the longevity phenotype, we compared allele and genotype frequencies be- tween cases and controls by means of allelic and genotypic association tests (Table 2, Supplemental Table 1). Results from all analyses were very similar for significantly associ- ated SNPs whether or not adjustments for population struc- ture were applied (Supplemental Table 2). None of the ana- “eey< ( lyzed SNPs showed deviations from HWE (p-HWD 0.05) or significant differences in missing data fractions between r<( cases and controls (p 0.05). All SNPs showed a genotyp- meee >9 ing call rate 98.8%.
+
+Association tests. We evaluated the association of mark- ers with longevity phenotype by means of allelic association tests (1 degree of freedom [df]) and applied the Pearson (cid:3)2 —<5 test (2 df) and Fisher exact test (if cell counts were 5) to compare genotype frequencies between cases and controls. We also performed logistic regression under an additive model and logistic regression comparing homozygous mi- nor versus homozygous major alleles. Correction for popu- lation stratification was performed using logistic regression under an additive model adjusting along the top four sta- tistical significant principal components. Allele frequencies, genotype counts, odd ratios (OR), and 95% confidence in- tervals (95% CI) were also estimated for each SNP.
+
+We also performed logistic regression analyses assuming an additive model and by comparing homozygous minor versus homozygous major alleles on a set of SNPs located at the FOXO3A locus (Table 2). To confirm the null influence
+
+ Centenarians + Controls  Centenarian   
+
+Δ FIG. 1. Population structure of centenarians (+) and control subjects ( ). Each scatterplot shows the first two components that were estimated using genotype data for more than 300K SNPs in centenarians and control subjects the program EigenSoft 2.0. The two populations are ethnically identical, as shown in the rightmost scatter plot.
+
+of population structure on our results, we also performed as- sociation tests correcting along the top four principal com- ponents by means of logistic regression assuming an addi- tive effect of allele dosage on the same SNP set. We first focused on rs2802288, showing linkage disequilibrium (LD) with rs2802292 (r2 —e 1) in the HapMap CEU data panel.33 Particularly, allelic association tests highlighted significant  om) = ( association for rs2802288 in males (MAF 0.49; p 0.003;  OR 1.51; 95% CI, 1.15–1.98). Moreover, this association was also confirmed by logistic regression under an additive  ~“o model (p 0.0026; OR 1.53; 95% CI, 1.16–2.03) and by comparing homozygous minor versus homozygous major oO) = ( mS alleles (p 0.0023; OR 2.44; 95% CI, 1.37–4.34) (Table 2).
+
+Using this analysis, multimarker association tests showed  a slightly significant association (p 0.03) for a 24kb haplo- type (Fig. 2, block 1; Table 3) comprising three SNPs carry- ing the minor allele (A) for rs2802288, and defining bound- aries of a locus affected by a potential causative mutation for the extreme longevity phenotype. As can be observed in Fig.   2, the LD plot defines a locus that includes the 5 -untrans- lated regions and the first coding region of the investigated gene. Subsequently, to confirm the gender-specificity of the FOXO3A association, we also studied 199 female longevity “cases” (mean age 98 years) and 140 female “controls” (mean age 31 years) drawn from the same population (88% power to detect the association). No differences in terms of allele frequencies between centenarians and controls were de- tected for rs2802288 in female individuals (176 centenarians and 113 controls that pass the quality control filtering crite- ria) (MAF week’ 0.48; p me) = ( 0.3975; OR  0.86; 95% CI, 0.62–1.21) (Table 2). The absence of association in the female gender has been further confirmed by logistic regression assuming y= ws an additive model (p 0.4034; OR 0.87; 95% CI, 0.62–1.21) and by comparing homozygous minor versus homozygous Oo”) = ( oey major alleles (p 0.4048; OR 0.75; 95% CI, 0.39–1.47) (Table 2).
+
+pute25 software to represent the 6q21 region better. Interest-   ingly, the imputed rs2802292 (MAF 0.47) that was previ- ously indicated by Willcox et al.22 as the best association, showed r2 — 0.79 with rs2802288 (MAF  0.49), similar to that observed in the HapMap CEU panel.33 In fact, our im- putation analysis confirmed that rs2802292, unrepresented on the BeadChip, was responsible for the strongest associa-   mo) = ( tion effect in this region (MAF 0.468; p 0.0028; OR, 1.53; CI 95%, 1.16–2.03, allelic association test). Additionally, we confirmed this significant association by logistic regression —) = ( under additive model (p 0.0022; OR, 1.57; CI 95%, 1.17–2.10) and by comparing homozygous minor versus ho- »oo)= mozygous major alleles (p 0.0019; OR, 2.58; CI 95%, 1.42–4.70) (Table 2).
+
+Furthermore, we undertook a meta-analysis to explore the significance of the rs2802292 association with longevity by combining the association results of the current study and the findings coming from the Willcox et al. investigation. We combined the logarithm of the OR estimates and 95% CI for homozygous minor versus homozygous major alleles from G‘G the current analysis (OR 2.44; 95% CI, 1.37–4.34) and from  the Willcox et al. study (OR 2.75; 95% CI, 1.51–5.02) to ob- tain a summary OR using fixed26 and Der Simonian and Laird random effects models.27 Fixed effects models assume that the effect of a risk allele has the same value in each dataset whereas random effects models assume that the risk allele effects for each study vary around some overall aver- age effect.35 The inconsistency metric I2,28 was 0%, while the Q statistic29 was not statistically significant (p   0.88), indi- cating a null between-study heterogeneity evidence. Because no evidence of between-study heterogeneity has been proven, fixed effects26 and Der Simonian and Laird random effects27 coincide, generating identical summary point esti- mates (OR  2.66; 95% CI, 1.74–4.07; p see= 0.0001) (Fig. 3).
+
+To evaluate a possible joint effect of the FOXO3A gene and the environmental exposure (such as smoke, etc.) or FOXO3A and the nongenetic attributes (such as clinical-cog- nitive variables), we performed a covariates analysis. No sig- nificant association of genotypes with cognitive variables (Barthel score, cognitive score, anxiety, depression) or clini- cal phenotypes (diabetes mellitus, glaucoma, high blood pressure, kidney diseases, osteoporosis, smoking history, cancer) was detected. As a result, we could hypothesize that FOXO3A has an effect on longevity independently of the tested variables. Subsequently, we generated a LD plot with the software HaploView v4.0.30 LD blocks are delineated by black lines in Fig. 2 and defined using the Four Gamete Rule, a variant on the algorithm described in previously published study,31 as implemented in HaploView software.34
+
+
+
+ronim ,slortnoc FAM ;snairanetnec ni ycneuqerf elella ronim ,sesac FAM ;elpmas elohw no desab ycneuqerf elella ronim ,llarevo FAM ;)selamef ,F;selam ,M( sisylana cificeps-redneG ,redneG ledom evitidda rednu noisserger citsigol ,)cilella( tset noitaicossa cilella rof ,ylevitcepser ,eulavp ,p ;slavretni ecnedifnoc %59 ,IC %59 ;oitar sddo ,RO ;noitalupop lortnoc eht ni .elbaliava ton ,AN ;)suogyzomoh( )MM( selella rojam suogyzomoh susrev )mm( ronim suogyzomoh gnirapmoc noisserger
+
+SLORTNO ROp)IC %59( ROp)IC %59( ROslortnoCsesaCllarevOredneGPNS 29.04251.0)58.1–19.0( 03.19561.0)08.1–09.0(72.181.022.02.0M2096849sr 25.03550.0)10.1–54.0( 76.04360.0)20.1–74.0( 96.072.012.032.0F 44.26200.0)30.2–61.1( 35.1300.0)89.1–51.1( 15.134.035.094.0M8822082sr 57.04304.0)12.1–26.0( 78.05793.0)12.1–26.0( 68.05.074.084.0F 65.140.0)14.2–20.1( 75.11.041.021.0M15099401sr 23.04748.0)16.1–65.0( 59.07948.0)06.1–75.0( 59.021.011.021.0F 85.22200.0)01.2–71.1( 75.18200.0)30.2–61.1( 35.114.015.074.0Mb,a2922082sr 08.03561.0)01.1–65.0( 97.02861.0)11.1–365.0( 97.022.081.02.0M01802231sr 21.11744.0)87.1–87.0( 71.12844.0)77.1–87.0( 71.12.032.022.0F 99.17220.0)68.1–50.1( 04.17620.0)18.1–40.1( 73.163.034.04.0Mb4624672sr 30.13556.0)13.1–56.0( 29.05756.0)03.1–66.0( 39.024.04.014.0F 41.22154.0)46.1–08.0( 51.14634.0)76.1–08.0( 61.151.071.071.0M3321437sr 16.30701.0)94.2–29.0( 15.17401.0)84.2–29.0( 15.121.061.041.0F 27.17328.0)05.1–27.0( 40.12718.0)35.1–17.0( 50.151.051.051.0M74789571sr 97.21191.0)34.2–48.0( 34.15281.0)64.2–48.0( 44.11.031.021.0F 67.14501.0)09.1–49.0( 43.14721.0)08.1–39.0( 92.12.042.022.0M7935829sr 17.07360.0)20.1–74.0( 96.09960.0)30.1–94.0( 17.013.042.062.0F 47.19747.0)35.1–47.0( 60.1937.0)65.1–37.0( 70.151.051.051.0M90220221sr 97.21191.0)34.2–48.0( 34.15281.0)64.2–48.0( 44.11.031.021.0F 17.11881.0)08.1–98.0( 72.1602.0)57.1 78.0( 42.191.022.012.0M6680849sr 15.00730.0)79.0–44.0( 56.02140.0)99.0–64.0( 76.092.012.042.0F 27.19287.0)25.1–37.0( 50.11577.0)45.1 27.0( 60.151.051.051.0M86870221sr 77.22991.0)14.2–38.0( 24.15091.0)44.2–48.0( 34.11.031.021.0F 03.29510.0)549.1–70.1( 44.16710.0)09.1–60.1( 24.13.083.053.0Mb,a59771231sr 78.11250.0)87.1–1( 33.18750.0)47.1 99.0( 13.143.014.083.0M0693512sr 38.09792.0)81.1–95.0( 38.09003.0)81.1–95.0( 38.024.083.04.0F 56.12611.0)86.1–49.0( 62.17811.0)76.1 49.0( 52.133.083.063.0M9220083sr 57.00132.0)51.1–75.0( 18.05822.0)41.1–75.0( 18.014.063.083.0F 56.13411.0)86.1–59.0( 62.1811.0)76.1 49.0( 52.133.083.063.0M9495391sr 77.02222.0)41.1–75.0( 18.00022.0)41.1–75.0( 18.014.063.083.0F .sPNS detupmIa .la te xoclliW yb derolpxe sPNSb FAM ;snairanetnec ni ycneuqerf elella ronim ,sesac FAM ;elpmas elohw no desab ycneuqerf elella ronim ,llarevo FAM ;)selamef ,F;selam ,M( sisylana cificeps-redneG ,redneG
+
+SLORTNO CDNASLAUDIVIDN IGNIVI L-GNO LNISUCO LA3OXOF.2ELBA T
+
+15 16Block 3 (11 kb)4BLLIZE LSE898202218)9980868!60zz0zz1 81L6ES8768!2PLB6S2581eeezbeelss~~ orgozzerssT6Z7OBTS!}S066r01S1 20698684 
+
+FIG. 2. Pattern of LD of FOXO3A region displayed using D with HaploView. LD displays were generated using the D  thins)<]   4<1 color scheme. The different shades of gray indicate different D values (0 D 1). Haplotype blocks were generated us- ing the Four Gamete Rule as implemented in HaploView software. Boxed in light gray is rs2802288, boxed in dark gray are the SNPs explored by Willcox et al.
+
+Discussion
+
+ent cellular functions, such as differentiation, metabolism, proliferation, and survival.11,36,37
+
+Research into aging has been rejuvenated by the recent discovery of SNPs in candidate genes that can extend the lifespan of laboratory model organisms. Thus, these poly- morphisms can also delay, ameliorate, or even abolish the impact of many aging-related diseases, including cardiovas- cular disease, neurodegeneration, and cancer. FOXO tran- scription factors have been implicated in regulating differ-
+
+In this respect, in the Leiden Prospective Study the over- all and individual haplotype frequencies were not different between the elderly and young control group for the FOXO3A locus.21 However, possible limitations of the study are in the absence of gender stratification. In fact, due to the profound effect of this pathway on the reproductive/hor- monal system, which differs between males and females, it
+
+TABLE 3. HAPLOTYPE ASSOCIATION TEST OF BLOCK 1 USING HAPLOVIEW
+
+Frequency Frequency Block 1 Gender Frequency for cases for controls p value CGA M 0.51 0.48 0.57 0.003 F 0.51 0.53 0.49 0.3683 TAA M 0.2 0.21 0.17 0.1588 F 0.23 0.21 0.27 0.0634 CAA M 0.17 0.18 0.16 0.4968 F 0.13 0.15 0.11 0.2556 CAG M 0.12 0.14 0.09 0.0381 F 0.12 0.11 0.12 0.8689
+
+    Block 1, haplotypes in block 1, Gender, gender-specific analysis (M males, F females); Frequency, haply- type frequency based on whole sample; Frequency for cases, haplotype frequency in centenarians, Frequency for controls, haplotype frequency in the control population; p-vaule, haplotypic association test p-value.
+
+Homozygous OR and 95% ClCurrent Study 2.68 (1.42-4.70) |Willcox et al 2.75 (1.61-6.02) !Random effects 2.66 (1.74-4.07) ;Fixed effects 2.66 (1.74-4.07) i 0406 08 1 12 14 16 18 2 22 24 26 28 3 32 34 36 38 4 42 44 46 48 5
+
+FIG. 3. Meta-analysis of rs2802292 variant in the current investigation and in Willcox et al. study. Each study is repre- sented by the estimate of the homozygous minor versus homozygous major alleles OR and its 95% CI (circle). Summary effects by random effects (diamond) and fixed effects (rectangle) calculations are also shown.
+
+metric28 value (I2   0%) confirmed the absence of between- study heterogeneity. In absence of heterogeneity between the two datasets, we obtained identical estimates of the ORs and the 95% CIs for homozygous minor versus homozygous ma- jor alleles from both fixed26 and random effects27 models —   (OR 2.66; 95% CI, 1.74–4.07; p 0.0001) (Fig. 3).
+
+is possible that variants that affect genes of this pathway are gender-specific enriched/depleted as the populations age. Hence, variants that influence longevity in males may not affect female longevity and vice versa.
+
+Recently, Willcox and colleagues demonstrated an associ- ation between exceptional longevity and the FOXO3A gene in an ethnic Japanese population in Hawaii, focusing on male individuals only.22 Although there was no population strat- ification effect observed in this study, it is a possible limita- tion in most studies. Stratification is the result of imbalance of ethnic background between cases and controls. It is usu- ally modest when the recruitment is consistent among cases and controls, and for populations that did not experience re- cent immigration. In the present study, we extrapolated the FOXO3A locus from our genome-wide association data on a part of the SICS. Particularly, we genotyped (with BeadChip 300k, Illumina) 281 SIC male nonagenarians and 195 SIC male controls. It was encouraging to report the association between rs2802292 at the FOXO3A locus and the longevity phenotype was convincingly and independently confirmed in our SICS homozygous minor versus homozygous major alleles (p   0.0019; OR  2.58; CI 95%, 1.42–4.70). Moreover, to avoid the possible drawback of population structure, we demonstrated a small or null confounding effect of popula- tion structure on our association results, thus excluding type I errors (Fig. 1, Supplemental Table 2). Our aim was to repli- cate rs2802292 in male longevity and to explore the FOXO3A locus in males and females to generate eventual new candi- date SNPs for longevity and to clarify the gender interaction on the FOXO3A locus and longevity. Replication efforts re- quire adequate sample size and our male population was »>9 sufficient to achieve 90% power to detect an allele with 40% allele frequency and a factor of 1.5 effect, as previously re- ported in Willcox paper for rs2802292.22
+
+This is the first convincing replication of an association with longevity after the APOE association.5 As stressed by National Cancer Institute–National Human Genome Re- search Institute (NCI-NHGRI) Working Group on Replica- tion in Association Studies,39 validation of the postulated gene-investigated phenotype association in a population dif- ferent from that of the previous study is of great value.
+
+It is also established that mitochondrial Sirtuin 3 interacts with, and under specific cellular conditions regulates, the ac- tivity of FOXO3A. Additionally, SIRT3 regulates a series of essential intracellular processes that defend the cell against multiple types of cellular damage, including oxidative dam- age.40 A rise in the level of reactive oxygen species (ROS) has two important effects: It can damage proteins, lipids, and DNA, leading to cell death or it can trigger the activation of specific physiologic signaling pathway.41 Moreover, a GH- IGF1 pathway has been implicated in determination of longevity in a variety of species.18,19,42 Genetic variants that are either positively or negatively selected as population ages impact on survival (demographic selection). In this regard, the FOXO3A gene SNP rs2802292 should have a protective role.
+
+These observations imply that the FOXO3A gene SNP rs2802292, or SNPs in LD, have a protective role by par- tially increasing the ability of other proteins to activate FOXO3A, or by increasing FOXO3A activity on down- stream targets. Resequencing of the FOXO3A locus will clarify the nature of the genetic variation that is tracked by rs2802292. It is possible that the variation does not need to affect coding genes, because coding genes are less than one- third of the evolutionary conserved genome.38 Further- more, future population studies on diseases of aging will clarify if FOXO3A associates across diseases, like the longevity gene APOE and Alzheimer and cardiovascular diseases. From the data that we obtained in our population,
+
+Meta-analysis represents a well-established method for summarizing results and drawing conclusions from differ- ent studies for a set of common hypotheses. Therefore, we applied this approach to combine our association results for the SNP rs2802292 with the findings coming from Willcox et al. study and to achieve more statistical power. The null-sig- nificance of the Q-statistics29 (p  0.88) and the inconsistency
+
+the association is strictly linked with the male gender. Tak- ing in consideration this new evidence, we would suggest a gender-specific analysis for the longevity phenotype. To conclude, the discovery and replication of a convincing as- sociation of FOXO3A locus contributes to the hypothesis that the impact of the IGF-I–insulin pathway on longevity is a property that has been evolutionarily conserved throughout the animal kingdom.
+
+tion. Cell
+
+;
+
+:
+
+Weindruch R, Sohal RS. Seminars in medicine of the Beth Israel Deaconess Medical Center. Caloric intake and aging. N Engl J Med
+
+;
+
+:
+
+Kenyon C. The plasticity of aging: insights from long-lived mutants. Cell
+
+;
+
+:
+
+Tatar M, Bartke A, Antebi A. The endocrine regulation of aging by insulin-like signals. Science
+
+;
+
+:
+
+Bonkowski MS et al. Targeted disruption of growth hor- mone receptor interferes with the beneficial actions of calo- rie restriction. Proc Natl Acad Sci USA
+
+;
+
+:
+
+Kuningas M et al., Haplotypes in the human Foxo
+
+a and Foxo
+
+a genes; impact on disease and mortality at old age. Eur J Hum Genet
+
+;
+
+:
+
+Willcox BJ et al. FOXO
+
+A genotype is strongly associated with human longevity. Proc Natl Acad Sci USA
+
+;
+
+:
+
+Colonna V et al. Campora: A young genetic isolate in South Italy. Hum Hered
+
+;
+
+:
+
+Price AL et al., Principal components analysis corrects for stratification in genome-wide association studies. Nat Genet
+
+;
+
+:
+
+Marchini J. et al. A new multipoint method for genome-wide association studies by imputation of genotypes. Nat Genet
+
+;
+
+:
+
+Pettiti D. Meta-analysis, decision analysis, and cost-effec- tiveness analysis. Methods for quantitative synthesis in medicine,
+
+nd ed. Oxford University Press: New York,
+
+, p.
+
+Fleiss JL. The statistical basis of meta-analysis. Stat Methods Med Res Division of Biostatistics. Columbia School of Pub- lic Health, New York,
+
+;
+
+:
+
+–
+
+Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measur- ing inconsistency in meta-analyses. BMJ
+
+;
+
+:
+
+Lau J, Ioannidis JP, Schmid CH. Quantitative synthesis in systematic reviews. Ann Intern Med
+
+;
+
+:
+
+Barrett JC, Fry B, Maller J, Daly MJ. Haploview: Analysis and visualization of LD and haplotype maps. Bioinformat- ics
+
+;
+
+:
+
+Wang N et al. Distribution of recombination crossovers and the origin of haplotype blocks: the interplay of population history, recombination, and mutation. Am J Hum Genet
+
+;
+
+:
+
+Purcell S et al. PLINK: A tool set for whole-genome associ- ation and population-based linkage analyses. Am J Hum Genet
+
+;
+
+:
+
+A haplotype map of the human genome. International Ha
+
+ap Consortium. Nature
+
+;
+
+:
+
+Gabriel SB et al. The structure of haplotype blocks in the hu- man genome. Science
+
+;
+
+:
+
+Evangelou E, Maraganore DM, Ioannidis JP. Meta-analysis in genome-wide association datasets: strategies and appli- cation in Parkinson disease. PL
+
+ONE
+
+;
+
+:e
+
+Brunet A. [The multiple roles of FOXO transcription factors]. Med Sci (Paris)
+
+;
+
+:
+
+Brunet A. et al. Stress-depen- dent regulation of FOXO transcription factors by the SIRT
+
+deacetylase. Science
+
+;
+
+:
+
+Skurk C et al. The Akt-regulated forkhead transcription fac- tor FOXO
+
+a controls endothelial cell viability through mod- ulation of the caspase-
+
+inhibitor FLIP. J Biol Chem
+
+;
+
+:
+
+Altshuler D, Daly MJ, Lander ES. Genetic mapping in hu- man disease. Science
+
+;
+
+:
+
+Chanock SJ et al. Replicating genotype-phenotype associa-
+
+Acknowledgments
+
+We thank all the patients and medical doctors of Cilento Health District ASL SA3 that participated in this study. We are grateful to Elixir Pharmaceuticals for access to the DNA samples. This work was sponsored by Italian Ministry of Health (1% funds), Italian Ministry of Research and Univer- sity (FIRB RBIN04X9XE), and by the FIRB project ITAL- BIONET, Rete Italiana di Bioinformatica. R.R. and V.N. were supported by a fellowship of the Doctorate School of Mo- lecular Medicine, Università degli Studi di Milano.
+
+References
+
+type associated with exceptional longevity. JAMA
+
+Perls T, Terry D. Genetics of exceptional longevity. Gerontol
+
+;
+
+:
+
+Suh Y et al. Functionally significant insulin-like growth tor I receptor mutations in centenarians. Proc Natl Acad USA
+
+;
+
+:
+
+Christensen K, Johnson TE, Vaupel JW. The quest for netic determinants of human longevity: challenges and sights. Nat Rev Genet
+
+;
+
+:
+
+Novelli V et al., Lack of replication of genetic with human longevity. Biogerontology
+
+;
+
+:
+
+Friedman DB, Johnson TE. A mutation in the age-
+
+gene Caenorhabditis elegans lengthens life and reduces maphrodite fertility. Genetics
+
+;
+
+:
+
+Ogg S et al. The Fork head transcription factor DAF-
+
+duces insulin-like metabolic and longevity signals in C. egans. Nature
+
+;
+
+:
+
+Kaestner KH, Knochel W, Martinez DE. Unified ture for the winged helix/forkhead transcription Genes Dev
+
+;
+
+:
+
+M
+
+lwee J, Bubb K, Thomas JH. Transcriptional outputs the Caenorhabditis elegans forkhead protein DAF-
+
+Cell
+
+;
+
+:
+
+Murphy CT et al. Genes that act downstream of DAF-
+
+influence the lifespan of Caenorhabditis elegans. Nature (
+
+),
+
+(
+
+).
+
+Brunet, A. et al., Akt promotes cell survival by lating and inhibiting a Forkhead transcription factor.
+
+;
+
+:
+
+Burgering BM, Kops GJ. Cell cycle and death control: live Forkheads. Trends Biochem Sci
+
+;
+
+:
+
+Kops GJ et al. Forkhead transcription factor FOXO
+
+a tects quiescent cells from oxidative stress. Nature
+
+Kops GJ. et al. Control of cell cycle exit and entry by tein kinase B-regulated forkhead transcription factors. Cell Biol
+
+;
+
+:
+
+Xuan Z, Zhang MQ. From worm to human: approaches to identify FOXO target genes. Mech Dev
+
+;
+
+:
+
+Okawara M et al., Resveratrol protects dopaminergic neu- rons in midbrain slice culture from multiple insults. Biochem Pharmacol
+
+;
+
+:
+
+Houstis N, Rosen ED, Lander ES. Reactive oxygen species have a causal role in multiple forms of insulin resistance. Nature
+
+;
+
+:
+
+Guarente L, Kenyon C. Genetic pathways that regulate age- ing in model organisms. Nature
+
+;
+
+:
+
+Address reprint requests to: Dr .Annibale Alessandro Puca Unit of Genetics and Cardiovascular Research Institute IRCCS Policlinico Mult
+
+edica Via Milanese
+
+Sesto S.Giovanni
+
+E-mail: puca@longevita.org
+
+Received: December 23, 2008 Accepted: January 29, 2008
+
+This article has been cited by:
+
+David Gems, Linda Partridge.
+
+Genetics of Longevity in Model Organisms: Debates and Paradigm Shifts. Annual of Physiology
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Joris Deelen, Hae-Won Uh, Ramin Monajemi, Diana Heemst, Peter E. Thijssen, Stefan Böhringer, Erik B. Akker, M. Craen, Fernando Rivadeneira, André G. Uitterlinden, Rudi G. J. Westendorp, Jelle J. Goeman, P. Eline Slagboom, Houwing-Duistermaat, Marian Beekman.
+
+Gene set analysis of GWAS data for human longevity highlights the the insulin/IGF-
+
+signaling and telomere maintenance pathways. AGE
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Friederike Flachsbart, Michael Möller, Carolin Däumer, Liljana Gentschew, Rabea Kleindorp, Michael Krawczak, Amke Stefan Schreiber, Almut Nebel.
+
+Genetic investigation of FOXO
+
+A requires special attention due to sequence with FOXO
+
+B. European Journal of Human Genetics
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Alessia Peserico, Fulvio Chiacchiera, Valentina Grossi, Antonio Matrone, Dominga Latorre, Marta Simonatto, Aurora James G. Ryall, Lydia W. S. Finley, Marcia C. Haigis, Gaetano Villani, Pier Lorenzo Puri, Vittorio Sartorelli, Cristiano
+
+A novel AMPK-dependent Fo
+
+A-SIRT
+
+intramitochondrial complex sensing glucose levels. Cellular and Molecular Sciences . [Cros
+
+ef]
+
+Jean-Marc Zingg, Syeda T. Hasan, Mohsen Meydani.
+
+Molecular mechanisms of hypolipidemic effects of Bi
+
+actors n/a-n/a. [Cros
+
+ef]
+
+Sachi Inukai, Frank Slack.
+
+Micr
+
+NAs and the Genetic Network in Aging. Journal of Molecular Biology . [Cros
+
+ef]
+
+T. A. Donlon, J. D. Curb, Q. He, J. S. Grove, K. H. Masaki, B. Rodriguez, A. Elliott, D. C. Willcox, B. J. Willcox.
+
+Gene Variants and Human Aging: Coding Variants May Not Be Key Players. The Journals of Gerontology Series A: Biological and Medical Sciences
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Marianne Nygaard, Mette Soerensen, Friederike Flachsbart, Jonas Mengel-From, Qihua Tan, Stefan Schreiber, Almut Kaare Christensen, Lene Christiansen.
+
+AKT
+
+fails to replicate as a longevity-associated gene in Danish and nonagenarians and centenarians. European Journal of Human Genetics . [Cros
+
+ef]
+
+Anatoliy I. Yashin, Deqing Wu, Konstantin G. Arbeev, Eric Stallard, Kenneth C. Land, Svetlana V. Ukraintseva.
+
+Genes Influence Life Span: The Biodemography of Human Survival. Rejuvenation Research
+
+:
+
+,
+
+-
+
+[Abstract] [Full HTML] [Full Text PDF] [Full Text PDF with Links] [Supplemental Material]
+
+Karen N. Conneely, Brian C. Capell, Michael R. Erdos, Paola Sebastiani, Nadia Solovieff, Amy J. Swift, Clinton T. Temuri Budagov, Nir Barzilai, Gil Atzmon, Annibale A. Puca, Thomas T. Perls, Bard J. Geesaman, Michael Boehnke, Collins.
+
+Human longevity and common variations in the LMNA gene: a meta-analysis. Aging Cell
+
+:
+
+,
+
+-
+
+W. E. Sonntag, A. Csiszar, R. d
+
+abo, L. Ferrucci, Z. Ungvari.
+
+Diverse Roles of Growth Hormone and Growth Factor-
+
+in Mammalian Aging: Progress and Controversies. The Journals of Gerontology Series A: Biological Sciences Medical Sciences . [Cros
+
+ef]
+
+H. A. Tissenbaum.
+
+Genetics, Life Span, Health Span, and the Aging Process in Caenorhabditis elegans. The Gerontology Series A: Biological Sciences and Medical Sciences . [Cros
+
+ef]
+
+J. M. Murabito, R. Yuan, K. L. Lunetta.
+
+The Search for Longevity and Healthy Aging Genes: Insights From Studies and Samples of Long-Lived Individuals. The Journals of Gerontology Series A: Biological Sciences and Medical [Cros
+
+ef]
+
+Mark M
+
+ormick, Kan Chen, Priya Ramaswamy, Cynthia Kenyon.
+
+New genes that extend Caenorhabditis elegans’ in response to reproductive signals. Aging Cell
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Mette Soerensen, Serena Dato, Qihua Tan, Mikael Thinggaard, Rabea Kleindorp, Marian Beekman, Rune Jacobsen, H. Eka Suchiman, Anton J.M. de Craen, Rudi G.J. Westendorp, Stefan Schreiber, Tinna Stevnsner, Vilhelm A. Bohr, P. Eline Almut Nebel, James W. Vaupel, Kaare Christensen, Matt M
+
+ue, Lene Christiansen.
+
+Human longevity and variation in IGF-
+
+/insulin signaling, DNA damage signaling and repair and pro/antioxidant pathway genes: Cross sectional and studies. Experimental Gerontology . [Cros
+
+ef]
+
+Anne Brunet.
+
+Bien vieillir. médecine/sciences
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Ester Verdaguer, Felix Junyent, Jaume Folch, Carlos Beas-Zarate, Carme Auladell, Mercè Pallàs, Antoni Camins.
+
+biology: a new frontier for drug discovery. Expert Opinion on Drug Discovery
+
+-
+
+[Cros
+
+ef]
+
+Anna Ferrario, Francesco Villa, Alberto Malovini, Fiorella Araniti, Annibale A Puca.
+
+The application of genetics to the study of exceptional longevity in humans: potential and limitations. Immunity & Ageing
+
+:
+
+,
+
+[Cros
+
+ef]
+
+Joris Deelen, Hae-Won Uh, Ramin Monajemi, Diana Heemst, Peter E. Thijssen, Stefan Böhringer, Erik B. Akker, Anton M. Craen, Fernando Rivadeneira, André G. Uitterlinden, Rudi G. J. Westendorp, Jelle J. Goeman, P. Eline Slagboom, Jeanine Houwing-Duistermaat, Marian Beekman.
+
+Gene set analysis of GWAS data for human longevity highlights the relevance the insulin/IGF-
+
+signaling and telomere maintenance pathways. AGE
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Friederike Flachsbart, Michael Möller, Carolin Däumer, Liljana Gentschew, Rabea Kleindorp, Michael Krawczak, Amke Stefan Schreiber, Almut Nebel.
+
+Genetic investigation of FOXO
+
+A requires special attention due to sequence with FOXO
+
+B. European Journal of Human Genetics
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Alessia Peserico, Fulvio Chiacchiera, Valentina Grossi, Antonio Matrone, Dominga Latorre, Marta Simonatto, Aurora James G. Ryall, Lydia W. S. Finley, Marcia C. Haigis, Gaetano Villani, Pier Lorenzo Puri, Vittorio Sartorelli, Cristiano
+
+A novel AMPK-dependent Fo
+
+A-SIRT
+
+intramitochondrial complex sensing glucose levels. Cellular and Molecular Sciences . [Cros
+
+ef]
+
+Jean-Marc Zingg, Syeda T. Hasan, Mohsen Meydani.
+
+Molecular mechanisms of hypolipidemic effects of Bi
+
+actors n/a-n/a. [Cros
+
+ef]
+
+Sachi Inukai, Frank Slack.
+
+Micr
+
+NAs and the Genetic Network in Aging. Journal of Molecular Biology . [Cros
+
+ef]
+
+T. A. Donlon, J. D. Curb, Q. He, J. S. Grove, K. H. Masaki, B. Rodriguez, A. Elliott, D. C. Willcox, B. J. Willcox.
+
+Gene Variants and Human Aging: Coding Variants May Not Be Key Players. The Journals of Gerontology Series A: Biological and Medical Sciences
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Marianne Nygaard, Mette Soerensen, Friederike Flachsbart, Jonas Mengel-From, Qihua Tan, Stefan Schreiber, Almut Kaare Christensen, Lene Christiansen.
+
+AKT
+
+fails to replicate as a longevity-associated gene in Danish and nonagenarians and centenarians. European Journal of Human Genetics . [Cros
+
+ef]
+
+Anatoliy I. Yashin, Deqing Wu, Konstantin G. Arbeev, Eric Stallard, Kenneth C. Land, Svetlana V. Ukraintseva.
+
+Genes Influence Life Span: The Biodemography of Human Survival. Rejuvenation Research
+
+:
+
+,
+
+-
+
+[Abstract] [Full HTML] [Full Text PDF] [Full Text PDF with Links] [Supplemental Material] Karen N. Conneely, Brian C. Capell, Michael R. Erdos, Paola Sebastiani, Nadia Solovieff, Amy J. Swift, Clinton T.
+
+2. Joris Deelen, Hae-Won Uh, Ramin Monajemi, Diana Heemst, Peter E. Thijssen, Stefan Böhringer, Erik B. Akker, Anton J. M. Craen, Fernando Rivadeneira, André G. Uitterlinden, Rudi G. J. Westendorp, Jelle J. Goeman, P. Eline Slagboom, Jeanine J. Houwing-Duistermaat, Marian Beekman. 2013. Gene set analysis of GWAS data for human longevity highlights the relevance of the insulin/IGF-1 signaling and telomere maintenance pathways. AGE 35:1, 235-249. [CrossRef]
+
+3. Friederike Flachsbart, Michael Möller, Carolin Däumer, Liljana Gentschew, Rabea Kleindorp, Michael Krawczak, Amke Caliebe, Stefan Schreiber, Almut Nebel. 2013. Genetic investigation of FOXO3A requires special attention due to sequence homology
+
+4. Alessia Peserico, Fulvio Chiacchiera, Valentina Grossi, Antonio Matrone, Dominga Latorre, Marta Simonatto, Aurora Fusella, James G. Ryall, Lydia W. S. Finley, Marcia C. Haigis, Gaetano Villani, Pier Lorenzo Puri, Vittorio Sartorelli, Cristiano Simone. 2013. A novel AMPK-dependent FoxO3A-SIRT3 intramitochondrial complex sensing glucose levels. Cellular and Molecular Life
+
+Sachi Inukai, Frank Slack. 2013. MicroRNAs and the Genetic Network in Aging. Journal of Molecular Biology . [CrossRef] T. A. Donlon, J. D. Curb, Q. He, J. S. Grove, K. H. Masaki, B. Rodriguez, A. Elliott, D. C. Willcox, B. J. Willcox. 2012. FOXO3 Gene Variants and Human Aging: Coding Variants May Not Be Key Players. The Journals of Gerontology Series A: Biological Sciences
+
+8. Marianne Nygaard, Mette Soerensen, Friederike Flachsbart, Jonas Mengel-From, Qihua Tan, Stefan Schreiber, Almut Nebel, Kaare Christensen, Lene Christiansen. 2012. AKT1 fails to replicate as a longevity-associated gene in Danish and German nonagenarians and centenarians. European Journal of Human Genetics . [CrossRef]
+
+10. Karen N. Conneely, Brian C. Capell, Michael R. Erdos, Paola Sebastiani, Nadia Solovieff, Amy J. Swift, Clinton T. Baldwin, Temuri Budagov, Nir Barzilai, Gil Atzmon, Annibale A. Puca, Thomas T. Perls, Bard J. Geesaman, Michael Boehnke, Francis S. Collins. 2012. Human longevity and common variations in the LMNA gene: a meta-analysis. Aging Cell 11:3, 475-481. [CrossRef] 11. W. E. Sonntag, A. Csiszar, R. deCabo, L. Ferrucci, Z. Ungvari. 2012. Diverse Roles of Growth Hormone and Insulin-Like Growth Factor-1 in Mammalian Aging: Progress and Controversies. The Journals of Gerontology Series A: Biological Sciences and
+
+J. M. Murabito, R. Yuan, K. L. Lunetta. 2012. The Search for Longevity and Healthy Aging Genes: Insights From Epidemiological Studies and Samples of Long-Lived Individuals. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences .
+
+15. Mette Soerensen, Serena Dato, Qihua Tan, Mikael Thinggaard, Rabea Kleindorp, Marian Beekman, Rune Jacobsen, H. Eka D. Suchiman, Anton J.M. de Craen, Rudi G.J. Westendorp, Stefan Schreiber, Tinna Stevnsner, Vilhelm A. Bohr, P. Eline Slagboom, Almut Nebel, James W. Vaupel, Kaare Christensen, Matt McGue, Lene Christiansen. 2012. Human longevity and variation in GH/ IGF-1/insulin signaling, DNA damage signaling and repair and pro/antioxidant pathway genes: Cross sectional and longitudinal
+
+Anna Ferrario, Francesco Villa, Alberto Malovini, Fiorella Araniti, Annibale A Puca. 2012. The application of genetics approaches to the study of exceptional longevity in humans: potential and limitations. Immunity & Ageing 9:1, 7. [CrossRef]
+
+19. Annibale Puca, Albino Carrizzo, Anna Ferrario, Francesco Villa, Carmine Vecchione. 2012. Endothelial nitric oxide synthase, vascular integrity and human exceptional longevity. Immunity & Ageing 9:1, 26. [CrossRef]
+
+Sergio Davinelli, D Craig Willcox, Giovanni Scapagnini.
+
+Extending healthy ageing: nutrient sensitive pathway and centenarian population. Immunity & Ageing
+
+:
+
+,
+
+[Cros
+
+ef]
+
+C. Tazearslan, M. Cho, Y. Suh.
+
+Discovery of Functional Gene Variants Associated With Human Longevity: Opportunities and Challenges. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences . [Cros
+
+ef]
+
+Graziele Souza Lira Ferrari, Carlos Kusano Bucalen Ferrari.
+
+Exercise modulation of total antioxidant capacity (TAC): towards a molecular signature of healthy aging. Frontiers in Life Science
+
+:
+
+-
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Anup Kumar Nair, Divya Sugunan, Harish Kumar, Gopalakrishnapillai Anilkumar.
+
+Association analysis of common variants in FOXO
+
+with type
+
+diabetes in a South Indian Dravidian population. Gene . [Cros
+
+ef]
+
+H. Florez, Y. Ma, J. P. Crandall, L. Perreault, S. M. Marcovina, G. A. Bray, C. D. Saudek, E. Barrett-Connor, W. C. Knowler.
+
+Parental Longevity and Diabetes Risk in the Diabetes Prevention Program. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences . [Cros
+
+ef]
+
+Rabea Kleindorp, Friederike Flachsbart, Annibale A. Puca, Alberto Malovini, Stefan Schreiber, Almut Nebel.
+
+Candidate gene study of FOXO
+
+, FOXO
+
+, and FOXO
+
+reveals no association with human longevity in Germans. Aging Cell
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+F. Flachsbart, M. Ufer, R. Kleindorp, S. Nikolaus, S. Schreiber, A. Nebel.
+
+Genetic Variation in the CYP
+
+C Monooxygenase Enzyme Subfamily Shows No Association With Longevity in a German Population. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences . [Cros
+
+ef]
+
+E A Pollina, A Brunet.
+
+Epigenetic regulation of aging stem cells. Oncogene
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Stefan Walter, Gil Atzmon, Ellen W. Demerath, Melissa E. Garcia, Robert C. Kaplan, Meena Kumari, Kathryn L. Lunetta, Yuri Milaneschi, Toshiko Tanaka, Gregory J. Tranah, Uwe Völker, Lei Yu, Alice Arnold, Emelia J. Benjamin, Reiner Biffar, Aron S. Buchman, Eric Boerwinkle, David Couper, Philip L. De Jager, Denis A. Evans, Tamara B. Harris, Wolfgang Hoffmann, Albert Hofman, David Karasik, Douglas P. Kiel, Thomas Kocher, Maris Kuningas, Lenore J. Launer, Kurt K. Lohman, Pamela L. Lutsey, Johan Mackenbach, Kristin Marciante, Bruce M. Psaty, Eric M. Reiman, Jerome I. Rotter, Sudha Seshadri, Michelle D. Shardell, Albert V. Smith, Cornelia van Duijn, Jeremy Walston, M. Carola Zillikens, Stefania Bandinelli, Sebastian E. Baumeister, David A. Bennett, Luigi Ferrucci, Vilmundur Gudnason, Mika Kivimaki, Yongmei Liu, Joanne M. Murabito, Anne B. Newman, Henning Tiemeier, Nora Franceschini.
+
+A genome-wide association study of aging. Neurobiology of Aging . [Cros
+
+ef]
+
+Alberto Malovini, Maddalena Illario, Guido Iaccarino, Francesco Villa, Anna Ferrario, Roberta Roncarati, Chiara Viviani Anselmi, Valeria Novelli, Ersilia Cipolletta, Eleonora Leggiero, Alessandro Orro, Maria Rosaria Rusciano, Luciano Milanesi, Angela Serena Maione, Gianluigi Condorelli, Riccardo Bellazzi, Annibale A. Puca.
+
+Association Study on Long-Living Individuals from Southern Italy Identifies rs
+
+in the CAMKIV Gene That Regulates Survival Proteins. Rejuvenation Research
+
+:
+
+,
+
+-
+
+Rabea Kleindorp, Friederike Flachsbart, Annibale A. Puca, Alberto Malovini, Stefan Schreiber, Almut Nebel. 2011. Candidate gene study of FOXO1, FOXO4, and FOXO6 reveals no association with human longevity in Germans. Aging Cell 10:4, 622-628.
+
+[Cros
+
+ef]
+
+F. Flachsbart, M. Ufer, R. Kleindorp, S. Nikolaus, S. Schreiber, A. Nebel.
+
+Genetic Variation in the CYP
+
+C Enzyme Subfamily Shows No Association With Longevity in a German Population. The Journals of Gerontology Series A: Sciences and Medical Sciences . [Cros
+
+ef]
+
+E A Pollina, A Brunet.
+
+Epigenetic regulation of aging stem cells. Oncogene
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Stefan Walter, Gil Atzmon, Ellen W. Demerath, Melissa E. Garcia, Robert C. Kaplan, Meena Kumari, Kathryn L. Yuri Milaneschi, Toshiko Tanaka, Gregory J. Tranah, Uwe Völker, Lei Yu, Alice Arnold, Emelia J. Benjamin, Reiner Aron S. Buchman, Eric Boerwinkle, David Couper, Philip L. De Jager, Denis A. Evans, Tamara B. Harris, Wolfgang Albert Hofman, David Karasik, Douglas P. Kiel, Thomas Kocher, Maris Kuningas, Lenore J. Launer, Kurt K. Lohman, Pamela Lutsey, Johan Mackenbach, Kristin Marciante, Bruce M. Psaty, Eric M. Reiman, Jerome I. Rotter, Sudha Seshadri, Michelle Shardell, Albert V. Smith, Cornelia van Duijn, Jeremy Walston, M. Carola Zillikens, Stefania Bandinelli, Sebastian E. David A. Bennett, Luigi Ferrucci, Vilmundur Gudnason, Mika Kivimaki, Yongmei Liu, Joanne M. Murabito, Anne B. Henning Tiemeier, Nora Franceschini.
+
+A genome-wide association study of aging. Neurobiology of Aging . [Cros
+
+ef]
+
+Alberto Malovini, Maddalena Illario, Guido Iaccarino, Francesco Villa, Anna Ferrario, Roberta Roncarati, Chiara Viviani Valeria Novelli, Ersilia Cipolletta, Eleonora Leggiero, Alessandro Orro, Maria Rosaria Rusciano, Luciano Milanesi, Angela Maione, Gianluigi Condorelli, Riccardo Bellazzi, Annibale A. Puca.
+
+Association Study on Long-Living Individuals Southern Italy Identifies rs
+
+in the CAMKIV Gene That Regulates Survival Proteins. Rejuvenation Research
+
+:
+
+, [Abstract] [Full Text HTML] [Full Text PDF] [Full Text PDF with Links] [Supplemental Material]
+
+Bérénice A. Benayoun, Sandrine Caburet, Reiner A. Veitia.
+
+Forkhead transcription factors: key players in health and Trends in Genetics
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Almut Nebel, Rabea Kleindorp, Amke Caliebe, Michael Nothnagel, Hélène Blanché, Olaf Junge, Michael Wittig, Ellinghaus, Friederike Flachsbart, Heinz-Erich Wichmann, Thomas Meitinger, Susanna Nikolaus, Andre Franke, Krawczak, Mark Lathrop, Stefan Schreiber.
+
+A genome-wide association study confirms APOE as the major gene survival in long-lived individuals. Mechanisms of Ageing and Development . [Cros
+
+ef]
+
+Elad Ziv, Donglei Hu.
+
+Genetic variation in insulin/IGF-
+
+signaling pathways and longevity. Ageing Research Reviews
+
+-
+
+[Cros
+
+ef]
+
+V M Renault, P U Thekkat, K L Hoang, J L White, C A Brady, D Kenzelmann Broz, O S Venturelli, T M Johnson, P R Z Xuan, E E Santo, M Q Zhang, H Vogel, L D Attardi, A Brunet.
+
+The pro-longevity gene Fo
+
+is a direct target the p
+
+tumor suppressor. Oncogene . [Cros
+
+ef]
+
+Liu Hui, Yu Weijian, Deng Xuelian, Liu Qigui.
+
+Variations in short tandem repeats deduced on the basis of the number repeats and the relationship of these variations with longevity. AGE
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Mercè Pallàs, Felix Junyent, Ester Verdaguer, Carlos Beas-Zarate, Antoni Camins.
+
+Aging control with resveratrol. Discovery Today: Therapeutic Strategies . [Cros
+
+ef]
+
+H. E. Wheeler, S. K. Kim.
+
+Genetics and genomics of human ageing. Philosophical Transactions of the Royal Society Biological Sciences
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Melissa Dobson, Guri Tzivion.
+
+Foxo
+
+A
+
+S-Nature Molecule Pages . [Cros
+
+ef]
+
+F. Flachsbart, M. Ufer, R. Kleindorp, S. Nikolaus, S. Schreiber, A. Nebel. 2011. Genetic Variation in the CYP2C Monooxygenase Enzyme Subfamily Shows No Association With Longevity in a German Population. The Journals of Gerontology Series A: Biological
+
+Stefan Walter, Gil Atzmon, Ellen W. Demerath, Melissa E. Garcia, Robert C. Kaplan, Meena Kumari, Kathryn L. Lunetta, Yuri Milaneschi, Toshiko Tanaka, Gregory J. Tranah, Uwe Völker, Lei Yu, Alice Arnold, Emelia J. Benjamin, Reiner Biffar, Aron S. Buchman, Eric Boerwinkle, David Couper, Philip L. De Jager, Denis A. Evans, Tamara B. Harris, Wolfgang Hoffmann, Albert Hofman, David Karasik, Douglas P. Kiel, Thomas Kocher, Maris Kuningas, Lenore J. Launer, Kurt K. Lohman, Pamela L. Lutsey, Johan Mackenbach, Kristin Marciante, Bruce M. Psaty, Eric M. Reiman, Jerome I. Rotter, Sudha Seshadri, Michelle D. Shardell, Albert V. Smith, Cornelia van Duijn, Jeremy Walston, M. Carola Zillikens, Stefania Bandinelli, Sebastian E. Baumeister, David A. Bennett, Luigi Ferrucci, Vilmundur Gudnason, Mika Kivimaki, Yongmei Liu, Joanne M. Murabito, Anne B. Newman,
+
+29. Alberto Malovini, Maddalena Illario, Guido Iaccarino, Francesco Villa, Anna Ferrario, Roberta Roncarati, Chiara Viviani Anselmi, Valeria Novelli, Ersilia Cipolletta, Eleonora Leggiero, Alessandro Orro, Maria Rosaria Rusciano, Luciano Milanesi, Angela Serena Maione, Gianluigi Condorelli, Riccardo Bellazzi, Annibale A. Puca. 2011. Association Study on Long-Living Individuals from Southern Italy Identifies rs10491334 in the CAMKIV Gene That Regulates Survival Proteins. Rejuvenation Research 14:3, 283-291.
+
+30. Bérénice A. Benayoun, Sandrine Caburet, Reiner A. Veitia. 2011. Forkhead transcription factors: key players in health and disease. Trends in Genetics
+
+31. Almut Nebel, Rabea Kleindorp, Amke Caliebe, Michael Nothnagel, Hélène Blanché, Olaf Junge, Michael Wittig, David Ellinghaus, Friederike Flachsbart, Heinz-Erich Wichmann, Thomas Meitinger, Susanna Nikolaus, Andre Franke, Michael Krawczak, Mark Lathrop, Stefan Schreiber. 2011. A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals. Mechanisms of Ageing and Development . [CrossRef]
+
+Y. Zeng, L. Cheng, H. Chen, H. Cao, E. R. Hauser, Y. Liu, Z. Xiao, Q. Tan, X.-L. Tian, J. W. Vaupel. 2010. Effects of FOXO Genotypes on Longevity: A Biodemographic Analysis. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences
+
+A:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Mette Soerensen, Serena Dato, Kaare Christensen, Matt M
+
+ue, Tinna Stevnsner, Vilhelm A. Bohr, Lene Christiansen.
+
+Replication of an association of variation in the FOXO
+
+A gene with human longevity using both case-control and longitudinal data. Aging Cell
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Wen-Hung Chung, Ro-Lan Dao, Liang-Kung Chen, Shuen-Iu Hung.
+
+The role of genetic variants in human longevity. Ageing Research Reviews
+
+, S
+
+-S
+
+[Cros
+
+ef]
+
+Antoni Camins, Francesc X. Sureda, Felix Junyent, Ester Verdaguer, Jaume Folch, Carme Pelegri, Jordi Vilaplana, Carlos Beas- Zarate, Mercè Pallàs.
+
+Sirtuin activators: Designing molecules to extend life span. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms
+
+:
+
+-
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Cynthia Kenyon.
+
+A pathway that links reproductive status to lifespan in Caenorhabditis elegans. Annals of the New York Academy of Sciences
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Amke Caliebe, Rabea Kleindorp, Hélène Blanché, Lene Christiansen, Annibale Alessandro Puca, Irene Maeve Rea, Eline Slagboom, Friederike Flachsbart, Kaare Christensen, Gerald Rimbach.
+
+No or only population-specific effect of PON
+
+on human longevity: A comprehensive meta-analysis. Ageing Research Reviews
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Riin Tamm, Kai Saks, Mati Pääsuke.
+
+Research on ageing and longevity in Estonia. Reviews in Clinical Gerontology
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Cynthia J. Kenyon.
+
+The genetics of ageing. Nature
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+M. Barbieri, M. R. Rizzo, M. Papa, V. Boccardi, A. Esposito, M. F. White, G. Paolisso.
+
+The IRS
+
+Gly
+
+Asp Variant Is Associated With Human Longevity. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences
+
+A:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+Y. Li, W.-J. Wang, H. Cao, J. Lu, C. Wu, F.-Y. Hu, J. Guo, L. Zhao, F. Yang, Y.-X. Zhang, W. Li, G.-Y. Zheng, H. Cui, X. Chen, Z. Zhu, H. He, B. Dong, X. Mo, Y. Zeng, X.-L. Tian.
+
+Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Human Molecular Genetics
+
+:
+
+,
+
+-
+
+[Cros
+
+ef]
+
+M. Barbieri, M. R. Rizzo, M. Papa, V. Boccardi, A. Esposito, M. F. White, G. Paolisso. 2010. The IRS2 Gly1057Asp Variant Is Associated With Human Longevity. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences 65A:3, 282-286.
+
+47. Y. Li, W.-J. Wang, H. Cao, J. Lu, C. Wu, F.-Y. Hu, J. Guo, L. Zhao, F. Yang, Y.-X. Zhang, W. Li, G.-Y. Zheng, H. Cui, X. Chen, Z. Zhu, H. He, B. Dong, X. Mo, Y. Zeng, X.-L. Tian. 2009. Genetic association of FOXO1A and FOXO3A with longevity trait in Han Chinese populations. Human Molecular Genetics 18:24, 4897-4904. [CrossRef] 48. Seung-Jae Lee, Coleen T. Murphy, Cynthia Kenyon. 2009. Glucose Shortens the Life Span of C. elegans by Downregulating DAF-16/FOXO Activity and Aquaporin Gene Expression. Cell Metabolism 10:5, 379-391. [CrossRef]

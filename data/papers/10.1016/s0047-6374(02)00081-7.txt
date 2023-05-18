@@ -1,0 +1,431 @@
+Mechanisms of Ageing and Development 123 (2002) 1403(cid:2)1410 /
+
+www.elsevier.com/locate/mechagedev
+
+influences on human longevity by polymorphism (Tyrosine Hydroxylase gene) A relative risk approach
+
+a b b b c a Qihua Tan , D. Bellizzi , G. Rose , S. Garasto , C. Franceschi , T. Kruse , d b d,e, J.W. Vaupel , G. De Benedictis , A.I. Yashin *
+
+a Department of Clinical Biochemistry and Genetics, KKA, Odense University Hospital, Odense, b Cell Biology Department, University of Calabria, Rende, Italy
+
+Department of Clinical Biochemistry and Genetics, KKA, Odense University Hospital, Odense, b Cell Biology Department, University of Calabria, Rende, Italy c Department of Experimental Pathology, University of Bologna, Bologna, Italy d Max-Planck Institute for Demographic Research, Doberaner Str. 114, 18057 Rostock, Germany e Center for Demographic Studies and Sanford Institute, Duke University, Durham, NC, USA
+
+Received 27 February 2002; received in revised form 1 July 2002; accepted 17 July 2002
+
+Abstract
+
+A new method based on the recently developed relative risk approach is introduced, and applied to data from Italian centenarian study (965 subjects aged from 13 to 109 years old) for investigating influences on longevity by Tyrosine Hydroxylase (TH) gene variability. The strategic parameterization enables the model to disentangle the various ways by which HUMTHO1.STR alleles (alleles 6, 7, 8, 9, 10*, 10, as defined according to the number of repeats) may contribute in reducing or increasing the hazard of death with different patterns of influences. Among all the alleles, we have found that allele 10* (10 imperfect repeats) shows a remarkable dominant and beneficial effect that reduces the log hazard of death in an additive manner. The results confirm that HUMTHO1.STR polymorphism is involved in the modulation of human longevity. # 2002 Elsevier Science Ireland Ltd. All rights reserved.
+
+Keywords: TH gene; Relative risk; Polymorphism; Longevity
+
+1. Introduction
+
+Life span is a complex trait, which is shaped by genetic, environmental, and stochastic factors. The genetic component has been intensively investi- gated by correlation studies in twins (McGue et
+
+Increasing evidence shows that, as in model organisms, the capability to cope with stress in humans is also a leading factor in rate and quality of aging (Franceschi et al., 2000). Therefore, all the genes involved in the complex mechanisms which
+
+* Corresponding author. Tel.: (cid:
+
+)
+
+-
+
+-
+
+; fax: (cid:
+
+)
+
+- / /
+
+-
+
+* Corresponding author. Tel.: (cid:1)49-381-2081106; fax: (cid:1)49- / / 381-2081169
+
+0047-6374/02/$ - see front matter # 2002 Elsevier Science Ireland Ltd. All rights reserved. PII: S0 04 7-6 37 4(0 2)0 008 1-7
+
+Q. Tan et al. / Mechanisms of Ageing and Development 123 (2002) 1403(cid:2)1410 /
+
+control stress response are longevity candidate genes. The Tyrosine Hydroxylase (TH) gene (11p15.5) encodes TH, the rate-limiting enzyme in the synthesis of catecholamines, amino acid- derived molecules produced by the sympathetic nervous system in response to stress. An STR marker (HUMTHO1.STR) lies inside TH intron 1 (Polymeropoulos et al., 1991) a region which is involved in RNA alternative splicing of the TH primary transcript for generating four tissue- specific types of mRNA (Kobayashi et al., 1988). Association between HUMTHO1 variability and longevity was firstly observed (De Benedictis et al., 1998). Thereafter, gene(cid:2)environment interactions / and sex-specific genetic effects have been observed when HUMTHO1 variability was analyzed by models that combine genotypic and demographic information in the estimation of genetic influence on life span (Tan et al., 2001b). The involvement of the 11p15.5 chromosomal region in the long- evity phenotype has been confirmed by linkage disequilibrium studies carried out by analyses of two other polymorphic genes occurring in the same chromosomal region: Insulin and Insulin Growth Factor 2 (De Luca et al., 2001). However, the effects of HUMTHO1.STR allele(cid:2)allele inter- / actions on hazard of death and longevity have not been analyzed until now. The aim of the present study is to introduce an analytical method that permits to disentangle the effects of HUMTHO1.STR alleles on the longevity trait. The results confirm that this polymorphism is involved in the modulation of human longevity and that allele(cid:2)allele interaction plays an impor- / tant role.
+
+view as far as the grandparents’ generations. All individuals gave informed consent prior to their inclusion in the study. A total of 965 subjects were collected in the new update. Among them, 210 are centenarians who were over 100 years old when blood sample was taken. In the centenarians, 68 are males and 142 are females with a female to male sex ratio about 2.1. The remaining 755 subjects cover a wide range of ages (from 13 to 99 years) with a median age of 59.
+
+2.2. DNA analysis
+
+DNA was extracted from blood buffy coats following standard procedures. HUMTHO1 typ- ing was carried out on PCR amplified DNA fragments (De Benedictis et al., 1998) by GEN- ESCAN software (ABIPRISM 310 Genetic Ana- lyzer, Applied Biosystem) and designated according to the repeat number.
+
+2.3. Population survival data
+
+The method for data analysis is based on the survival distribution function for the population from which the sample has been taken. Since subjects in the sample were born into different birth cohorts, we used in the calculation birth cohort life tables corresponding to subjects’ ages at participation. The Italian population survival data were provided by the Max-Planck Institute for Demographic Research in Rostock, Germany.
+
+2.4. Statistical method
+
+The statistical method we are going to apply is based on a relative risk approach that has been recently proposed and described by Yashin et al. (1998, 1999b, 2000), Tan et al. (2001b). We define the relative risk of one observed genotype r as the ratio of hazard of death for carriers, m(x, r), to that for the non-carriers or the baseline hazard, m (x). Then, according to the proportional hazard 0 assumption, m(x, r)(cid:3)rm (x). The corresponding / 0 survival function for the carriers is,
+
+2.1. Samples
+
+The data used in this study is an updated version of the data by which TH gene/longevity associa- tion was first discovered (De Benedictis et al., 1998). All individuals in the sample are unrelated, clinically healthy and are from various socio- economic backgrounds. For each individual, ori- gin and residence in Italy were checked by inter-
+
+Q. Tan et al. / Mechanisms of Ageing and Development 123 (2002) 1403(cid:2)1410 /
+
+where mn i(x), fn i(x) are numbers of males and females at age x in each of the three genotypes. Parameters that maximize the likelihood function are estimated by the maximum likelihood proce- dure in Gauss software (Aptech System, 1996).
+
+Here, s (x) is the baseline survival distribution 0 corresponding to the baseline hazard function, H (x) is the cumulative hazard at age x. Although 0 r can take any value greater than zero, a genotype with r larger than 1 increases the hazard of death, while a genotype with r smaller than 1 reduces it.
+
+There are two important features in this ap- proach. First, no parametric form of the baseline survival function is imposed. The estimation procedure is based on a two-step algorithm described by Tan et al. (2001b). In this procedure, the sex-specific baseline survivals are calculated non-parametrically from Eq. (2) for given risk and frequency parameters. The so obtained distribu- tion-free baseline survivals are then introduced in Eq. (3) for parameter estimation by maximizing the likelihood function. The procedure is iterated until the maximum likelihood is achieved. Second, the risk parameters for heterozygous and homo- zygous genotypes are specified separately, which allows for detecting recessive and additive effects in gene action.
+
+For a given single allele, there are three geno- types that can be observed among the subjects, that is, individuals with no such allele designated as ((cid:4)(cid:4)), individuals with one such allele   / / / / / (cid:4)) and individuals with two such alleles ((cid:1)(cid:1)). If / / / frequency of the allele is p, then the corresponding genotype frequencies can be calculated as (1(cid:4)p)2, / 2p(1(cid:4)p) and p2 according to the binomial dis- / tribution. Risks on hazard of death are defined for each genotype but on a relative base, that is, we take the genotype ((cid:4)(cid:4)) as the reference with / / relative risk 1, and relative risks for heterozygous (—+/+-) and homozygous ((cid:1)(cid:1)) genotypes r / / / / / / 1 and r , respectively. Further, we define the risk of 2 gene(cid:2)sex interaction, r , as the risk of male / g(cid:5)s carriers to that of female carriers. Then the average survival at age x for a mixed population is (Vaupel
+
+3. Results
+
+Table 1 shows the distribution of subjects according to age group, sex and HUMTHO1.STR genotype. Table 2 shows, for each allele, the estimated initial allele frequency and the relative risks by genotype. Significance levels for risk parameters (relative risks for the allele and for gene(cid:2)sex interaction) were determined by testing / the statistical differences between the estimated risks and 1, with the null hypothesis H :r(cid:3)1. The 0 / probability of a Type I error is a(cid:3)0.05. /
+
+Allele 10* is interesting in that both heterozy- gous and homozygous genotypes display beneficial influences that reduce the carriers’ hazards of death. Corresponding relative risks are 0.920 (p (cid:4)value(cid:3) /0.013) and 0.851 (p (cid:4)value(cid:3) /0.005) for the heterozygous and homozygous genotypes, respectively. However, after correction for multi- ple comparisons, we obtain a probability of making type I error a?(cid:3)1(cid:4)(1(cid:4)0.013)6 :0.076 / / / / for the risk of allele 10* heterozygous genotype, that is borderline significant, while the risk for the 10*10* homozygous genotype remains significant (a?(cid:3)0.030). Interestingly, the relative risk of the /
+
+m / f / males and females obtainable from population statistics. The corresponding genotype frequencies at age x for the three genotypes in males are p (x)(cid:3)(p2s (x)r 2r g(cid:5)s=s¯ (x)); p (x)(cid:3) m 2 0;m m m 1 (2p(1(cid:4)p)s (x)r 1r g(cid:5)s=s¯ (x)); p (x)(cid:3)((1(cid:4) 0;m m m 0 p)2s (x)=s¯ (x)): In the same way, we can calcu- 0;m m late p (x), p (x) and p (x) for females. Based on f 2 f 1 f 0 multinomial distribution (Evans et al., 1993), the likelihood function can be written as,
+
+of subjects by age group, sex and genotype
+
+Genotype 13(cid:2)34 35(cid:2)64 65(cid:2)99 100(cid:1) Total / / / / Male Female Male Female Male Female Male Female Allele 6 ((cid:4)(cid:4)) 37 60 70 57 55 95 32 82 488 / / ((cid:4)(cid:1),  31 38 60 51 61 81 31 48 401 / / / / ((cid:1)(cid:1)) 3 9 9 6 20 12 5 12 76 / / Allele 7 ((cid:4)(cid:4)) 44 70 102 69 110 130 44 105 674 / / ((cid:4)(cid:1),  27 33 36 43 25 53 21 33 271 / / / / ((cid:1)(cid:1)) 0 4 1 2 1 5 3 4 20 / / Allele 8 ((cid:4)(cid:4)) 53 86 108 91 102 146 48 115 749 / / ((cid:4)(cid:1),  17 18 30 20 34 41 18 27 205 / / / / ((cid:1)(cid:1)) 1 3 1 3 0 1 2 0 11 / / Allele 9 ((cid:4)(cid:4)) 42 59 83 79 89 124 48 90 614 / / ((cid:4)(cid:1),  27 43 47 30 43 60 20 51 321 / / / / ((cid:1)(cid:1)) 2 5 9 5 4 4 0 1 30 / / Allele 10* ((cid:4)(cid:4)) 49 76 83 69 88 111 45 73 594 / / ((cid:4)(cid:1),  21 27 53 41 43 65 20 56 326 / / / / ((cid:1)(cid:1)) 1 4 3 4 5 12 3 13 45 / / Allele 10 ((cid:4)(cid:4)) 66 102 135 111 134 184 68 134 934 / / ((cid:4)(cid:1),  5 5 4 3 2 4 0 7 30 / / / / ((cid:1)(cid:1)) 0 0 0 0 0 0 0 1 1 / /
+
+of log hazard of death is additive on the estimated relative risk. In Fig. 1, we plot the observed and the estimated frequencies of alleles 8 and 10* carriers by age. While frequency for allele eight carriers is almost constant (Fig. 1A), the frequency
+
+heterozygous genotypes for allele 10* is approxi- mately the square root of the risk of the 10*10* homozygous genotype, thus suggesting a dose- effect for this allele. According to the model specification, allele 10* phenotypic value in term
+
+Table 2
+
+Estimated allele frequency and relative risks by genotype for each allele
+
+Allele Frequency Heterozygous genotype Homozygous genotype Gene(cid:2)sex interaction / Risk SE P-value Risk SE P-value Risk SE P-value 6 0.290 1.055 0.034 0.107 1.058 0.055 0.295 0.906 0.042 0.025 7 0.161 1.026 0.038 0.501 0.993 0.074 0.927 0.956 0.049 0.365 8 0.118 1.039 0.043 0.356 1.147 0.141 0.298 0.899 0.049 0.040 9 0.210 0.983 0.034 0.618 1.409 0.178 0.022 1.064 0.052 0.218 10* 0.201 0.920 0.032 0.013 0.851 0.053 0.005 1.111 0.054 0.039 10 0.036 0.916 0.080 0.291 2.548 1.077 0.151
+
+Q. Tan et al. / Mechanisms of Ageing and Development 123 (2002) 1403(cid:2)1410 /
+
+Freq.Freq, 0.30 (A)    Est.A Obs.0.25A& 4A0.200.15 —      20 40 60 80 100Age(B)0.450.40 xx0.35Est.3K Obs.0.30 x20 40 60 80 100Age
+
+method, a simulation study has been performed by generating 10,000 data sets having exactly the same data structure (size, age and sex composi- tions) as our sample. To be simple, we assume there is one allele at a locus with relative risk on hazard of death r(cid:3)0.9 for heterozygous carriers / and r2 (cid:3)0.81 for homozygous carrier. We also / assume the allele has no sex-specific effect in that r (cid:3)1. Frequency for the allele is set to 0.2. For g(cid:5)s / each of the 10,000 data sets, the method described above is applied to retrieve the parameters. Although we assume the risk of heterozygous genotype is the square root of the risk of homo- zygous genotype in the simulation, we assign two irrelevant risk parameters for the two genotypes in the estimation to see if our model can correctly capture their corresponding true values. Fig. 2 presents the results. The median of allele frequency from the 10,000 estimates is 0.200 and 95% range {0.180, 0.220} (Fig. 2A). The medians for esti- mates on relative risks are 0.895 for heterozygous genotype with 95% range {0.822, 0.970}, 0.801 for homozygous genotype with 95% range {0.687, 0.934} and 1.001 for gene(cid:2)sex interaction with / 95% range {0.875, 1.138} (Fig. 2B(cid:2)D). All the / parameter estimates converge to their true values set in the simulation. It is interesting to see that the medians of risk estimates on heterozygous and homozygous carriers of the allele are related as 0.8952 (cid:3)0.801. This shows again that the model / retrieves the parameters used for the simulation.
+
+Fig. 1. Observed and estimated frequencies for carriers of allele 8 (A) and allele 10* (B) by age.
+
+for 10* allele carriers climbs up as age advances (Fig. 1B) revealing obvious survival advantages for 10* allele carriers.
+
+As for the other alleles, allele 9 seems to be recessive and detrimental, because the homozy- gotes for this allele tend to have increased hazard of death over the ages (r(cid:3)1.409 with SE(cid:3)0.178, / / P(cid:3)0.022). However, such a risk value becomes / non-significant after adjustment for multiple com- parisons.
+
+4. Discussion
+
+Lastly, as for gene(cid:2)sex interaction, we see from / Table 2 that alleles 6, 8 seem to decrease and allele 10* to increase the risks of death in males. However, also in this case, the P values become non-significant after adjustment for multiple com- parisons.
+
+Given the complexity of the longevity trait, a demanding issue is to develop new models that are capable to capture the various gene trajectories relating to the trait which occur as the population ages and survival selection operates. The present study could serve as a hint in this direction, because it introduces an analytical method which permits to reveal the interaction between the alleles of a gene (TH) associated with human longevity. The method is applied to a large data set, so that
+
+Note in Table 2, we only estimate one risk for carriers of allele 10 (non-significant) because we only observe one homozygous carrier of the allele in the sample (Table 1).
+
+1500100050000.17 0.19 0.21 0.23Allele Frequency1200800400(C)800800600400200(B)0.8 0.9 1.0 1.1Risk Heter.(D)  05 06 07 08 0.9 1.0Risk Homo.08 09 1.0 1.1 1.2 1.3Risk GxS
+
+Fig. 2. Parameter estimates from 10,000 simulated data for: (A) allele frequency (true value 0.2); (B) risk of heterozygous genotype (true value 0.9); (C) risk of homozygous genotype (true value 0.81); and (D) risk of gene(cid:2)sex interaction (true value 1). /
+
+tion enables the parameterization for disentangling the various components that are functioning towards longevity, even if the phenotypic effects sustained by the gene on the trait were very subtle (for example, beneficial effects sustained by allele 10*).
+
+subtle effects of the gene variant on the complex trait could be revealed. The basic statistical model described in this paper has been introduced in recent publications (Yashin et al., 1998, 1999b, 2000; Tan et al., 2001b,c). However, the parame- terization in the present application shows the feasibility of detecting an allele(cid:2)allele interaction / (see Table 2 and Fig. 1) which implies dominant and additive beneficial effects on the risk of death (allele 10*). An important feature of this applica- tion is the combination of individual genetic data with population demographic information in de- termining the relative risks of the observed genes. The baseline hazard function in this approach is estimated non-parametrically so that no specific survival distribution is imposed on the likelihood function (Tan et al., 2001b). Parameter estimates in this procedure depend heavily on the propor- tional hazard assumption similar to that in Cox’s proportional hazard model. Problems of such an assumption when applied to the genetics of human longevity are discussed in Yashin et al. (1999b), Tan et al. (2001b). However, it can be seen from this study that the proportional hazard assump-
+
+bility is implicated in human longevity, and in an allele-specific way. How could these effects be explained from a biological point of view? TH encodes the rate-limiting enzyme for the synthesis of cathecolamines, aminoacid-derived molecules that act both as hormones (adrenalin) and neuro- transmitters (dopamine and noradrenalin). The TH gene is therefore a master gene in the neuro- endocrine system (NES). Vertebrates have devel- oped a complex hierarchy of multi-organ NES, integrated with the immune system to form the immune-NES. This system governs the capability to cope with a variety of stress-factors and, consequently, rate and quality of aging (Fran- ceschi et al., 2000). The HUMTHO1 microsatellite acts, in vitro, as a transcription regulatory element showing a silencing effect which correlates with the
+
+nese et al., 2001). In particular, the inhibition is proportional to the number of repeats up to allele 8, while by increasing the number of repeats up to 10, no further inhibitory effect is observed, but rather a relative enhancement depending on the cell lines used (Albanese et al., 2001). These findings support the idea that HUMTHO1 micro- satellite regulates TH transcription in an allelic- specific way, and modulates the activity of the TH gene acting as a quantitative genomic effector. These allele-specific effects would explain the dominant and dose-dependent beneficial effects we observed for allele 10* by our approach. This effect is not found for allele 10, likely because its low frequency with respect to the sample size. On the other hand, a large amount of data suggest the importance of an efficient production of catheco- lamines in healthy aging and longevity. Indeed, there are now numerous studies demonstrating that sympathetic factors play a central role not only in cardiovascular homeostatic control, but also in pathogenesis and/or in the progression of several cardiovascular diseases, such as essential hypertension (Rahn et al., 1999) and myocardial infarction (Bertel et al., 1982). Therefore, a good efficiency in TH gene transcription may be a key for an appropriate response towards stochastic and age-related stress factors, and consequently for longevity.
+
+References Albanese, V., Faucon Biguet, N., Klefer, H., Bayard, E., Mallet, J., Meloni, R.,
+
+Quantitative effects on gene silencing by allelic variation at a tetranucleotide microsa- tellite. Hum. Mol. Genet.
+
+,
+
+(cid:
+
+)
+
+/ Aptech System,
+
+Gauss: Mathematical and Statistical System, vol. I: System and Graphics Manual. Aptech Systems, Maple Valley, WA. Bertel, O., Buhler, F.R., Baitsch, G., Ritz, R., Burkart, F.,
+
+Plasma adrenaline and noradrenaline in patients with acute myocardial infarction. Relationship to ventricular arhythmias of varying severity. Chest
+
+,
+
+(cid:
+
+)
+
+/ De Benedictis, G., Tan, Q., Jeune, B., Christensen, K., Ukraintseva, S.V., Bonafe, M., Franceschi, C., Vaupel, J.W., Yashin, A.I.,
+
+Recent advances in human gene- longevity association studies. Mech. Ageing Dev.
+
+,
+
+(cid:
+
+) /
+
+De Benedictis, G., Carotenuto, L., Carrieri, G., De Luca, M., Falcone, E., Rose, G., Cavalcanti, S., Corsonello, F., Feraco, E., Baggio, G., Bertolini, S., Mari, D., Mattace, R., Yashin, A.I., Bonafe, M., Franceschi, C.,
+
+Gene/ longevity association studies at four autosomal loci (REN, THO, PARP, SOD
+
+). Eur. J. Hum. Genet.
+
+,
+
+(cid:
+
+)
+
+/ De Luca, M., Rose, G., Bonafe`, M., Garasto, S., Greco, V., Weir, B.S., Franceschi, C., De Benedictis, G.,
+
+Sex- specific longevity associations defined by Tyrosine hydro- xylase-insulin(cid:
+
+)insulin growth factor
+
+haplotypes on the /
+
+p
+
+chromosomal region. Exp. Gerontol.
+
+,
+
+(cid:
+
+) /
+
+Evans, M., Hastings, N., Peacock, J.B.,
+
+Statistical Distributions, Second edition. Wiley Interscience, New York,
+
+(cid:
+
+)
+
+/ Franceschi, C., Valensin, S., Bonafe`, M., Paolisso, G., Yashin, A.I., Monti, D., De Benedictis, G.,
+
+The network and remodeling theories of aging: historical background and new perspectives. Exp. Gerontol.
+
+,
+
+(cid:
+
+)
+
+/ Herskind, A.M., M
+
+ue, M., Holm, N.V., Sorensen, T.I., Harvald, B., Vaupel, J.W.,
+
+The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+(cid:
+
+)
+
+Hum. Genet.
+
+,
+
+(cid:
+
+)
+
+/ / Kobayashi, K., Kaneda, N., Ichinose, H., Kishi, F., Nakazawa, A., Kurosawa, Y., Fujita, K., Nagatsu, T.,
+
+Structure of the human tyrosine hydroxylase gene: alternative splicing from a single gene accounts for generation of four
+
+NA types. J. Biochem.
+
+,
+
+(cid:
+
+)
+
+/ M
+
+ue, M., Vaupel, J.W., Holm, N., Harvald, B.,
+
+Longevity is moderately heritable in a sample of Danish twins born
+
+(cid:
+
+)
+
+J. Gerontol.
+
+, B
+
+(cid:
+
+)B
+
+/ / Meloni, R., Albanese, V., Ravassard, P., Treilhou, F., Mallet, J.,
+
+A tetranucleotide polymorphic microsatellite,
+
+On the whole, the results confirm that the biological background of the aging process is really complex, even if a single locus is considered. With more molecular data becoming available, we hope that the model here presented could help to locate important genes that reside in the genetic realm of human longevity.
+
+Acknowledgements
+
+This work was supported by the Italian Ministry of University and Technological and Scientific Research (COFIN 2000(cid:2)2000, Genetic Determi- / nants in Human Longevity), by the Italian Ministry of Health (IRCCS 2000(cid:2)2002, Marcatori genetici e / biologici di invecchiamento normale e patologico), by Istituto Nazionale Riposo Cura Anziani (IN-
+
+Q. Tan et al. / Mechanisms of Ageing and Development 123 (2002) 1403(cid:2)1410 /
+
+located in the first intron of the tyrosine hydroxylase gene, acts as a trascription regulatory element in vitro. Hum. Mol. Genet.
+
+,
+
+(cid:
+
+)
+
+/ Polymeropoulos, M.H., Xiao, H., Rath, D.S., Merril, C.R.,
+
+Tetranucleotide repeat polymorphism at the human tyrosine hydroxylase gene (TH). Nucl. Acids Res.
+
+,
+
+Puca, A.A., Daly, M.J., Brewster, S.J., Matise, T.C., Barrett, J., Shea-Drinkwater, M., Kang, S., Joyce, E., Nicoli, J., Benson, E., Kunkel, L.M., Perls, T.,
+
+A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome
+
+Proc. Natl. Acad. Sci. USA
+
+,
+
+(cid:
+
+)
+
+/ Rahn, K.H., Barenbrock, M., Hausberg, M.,
+
+The sympathetic nervous system in the pathogenesis of hyper- tension. J. Hypertens.
+
+, S
+
+(cid:
+
+)S
+
+/ Tan, Q., Yashin, A.I., De Benedictis, G., Cintolesi, F., Rose, G., Bonafe, M., Franceschi, C., Vach, W., Vaupel, J.W.,
+
+A logistic regression model for measuring gene- longevity associations. Clin. Genet.
+
+(
+
+),
+
+(cid:
+
+)
+
+/ Tan, Q., De Benedictis, G., Yashin, I.A., Bonafe, M., D
+
+uca, M., Valensin, S., Vaupel, J.W., Franceschi, C.,
+
+Measuring the genetic influence in modulating human life span: gene(cid:
+
+)environment and gene(cid:
+
+)sex interactions. Bioger- / / ontology
+
+,
+
+(cid:
+
+)
+
+/ Tan, Q., Yashin, A.I., Bladbjerg, E.M., de Maat, M.P., Andersen-Ranberg, K., Jeune, B., Christensen, K., Vaupel, J.W.,
+
+Variations of cardiovascular disease associated genes exhibit sex-dependent influence on human longevity. Exp. Gerontol.
+
+(
+
+),
+
+(cid:
+
+)
+
+/ Tan, Q., Yashin, I.A., Bladbjerg, E.M., Maat, P.M., Andersen- Ranberg, K., Jeune, B., Christensen, K., Vaupel, J.W.,
+
+A case-only approach for assessing gene by sex interaction in human longevity. J. Gerontol. Biol. Sci., A Biol. Sci. Med. Sci.
+
+(
+
+), B
+
+(cid:
+
+)B
+
+/ Tan, Q., De Benedictis, G., Ukraintseva, S.V., Franceschi, C., Vaupel, J.W., Yashin, A.I.,
+
+A centenarian-only approach for assessing gene(cid:
+
+)gene interaction in human / longevity. Eur. J. Hum. Genet.
+
+(
+
+),
+
+(cid:
+
+)
+
+/ Vaupel, J.W., Yashin, A.I.,
+
+Heterogeneity’s ruses: some surprising effects of selection on population dynamics. Am. Stat.
+
+,
+
+(cid:
+
+)
+
+/ Yashin, A.I., Vaupel, J.W., Andreev, K.F., Tan, Q., Iachine, I.A., Carotenuto, L., De Benedictis, G., Bonafe, M., Valensin, S., Franceschi, C.,
+
+Combining genetic and demographic information in population studies of aging and longevity. J. Epidemiol. Biostatist.
+
+,
+
+(cid:
+
+)
+
+/ Yashin, A.I., Iachine, I.A., Harris, J.R.,
+
+Half of the variation in susceptibility to mortality is genetic: find- ings from Swedish twin survival data. Behav. Genet.
+
+,
+
+(cid:
+
+) /
+
+Yashin, A.I., De Benedictis, G., Vaupel, J.W., Tan, Q., Andreev, K.F., Iachine, I.A., Bonafe, M., D
+
+uca, M., Valensin, S., Carotenuto, L., Franceschi, C.,
+
+Genes, demography, and life span: the contribution of demographic data in genetic studies on aging and longevity. Am. J. Hum. Genet.
+
+,
+
+(cid:
+
+) /
+
+Yashin, A.I., De Benedictis, G., Vaupel, J.W., Tan, Q., Andreev, K.F., Iachine, I.A., Bonafe, M., D
+
+uca, M., Valensin, S., Carotenuto, L., Franceschi, C.,
+
+Genes and longevity: lessons from studies on centenarians. J. Gerontol.
+
+a, B
+
+(cid:
+
+)B
+
+/

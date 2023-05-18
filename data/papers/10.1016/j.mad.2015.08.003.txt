@@ -1,0 +1,256 @@
+Accepted Manuscript
+
+Title: Metabolism and successful aging: polymorphic variation of syndecan-4 (SDC4) gene associate with longevity and lipid profile in healthy elderly Italian subjects.
+
+Author: Giuseppina Rose Paolina Crocco Francesco De Rango Andrea Corsonello Fabrizia Lattanzio Maria De Luca Giuseppe Passarino
+
+Mechanisms of Ageing and Development
+
+Please cite this article as: Rose, Giuseppina, Crocco, Paolina, Rango, Francesco De, Corsonello, Andrea, Lattanzio, Fabrizia, Luca, Maria De, Passarino, Giuseppe, Metabolism and successful aging: polymorphic variation of syndecan-4 (SDC4) gene associate with longevity and lipid profile in healthy elderly Italian subjects.Mechanisms of Ageing and Development http://dx.doi.org/10.1016/j.mad.2015.08.003
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Metabolism and successful aging: polymorphic variation of syndecan-4 (SDC4) gene
+
+Rose1*, Paolina Crocco1*, Francesco De Rango1, Andrea Corsonello3, Fabrizia
+
+Maria De Luca2, Giuseppe Passarino1.
+
+3Italian National Research Centre on Ageing, Cosenza, Italy
+
+4Scientific Direction of the Italian National Research Centre on Ageing, Ancona,
+
+*Giuseppina Rose and Paolina Crocco equally contributed to this study.
+
+Corresponding Author:
+
+SDC
+
+links longevity and lipid profile.  SDC
+
+variants rs
+
+and rs
+
+in SDC
+
+are associated with human  SDC
+
+variants rs
+
+and rs
+
+in SDC
+
+have an effect on the lipid profile
+
+ABSTRACT
+
+SDC4 alleles affect lipid profile in elderly subjects and may in part mediate the link between
+
+Keywords
+
+Aging; Longevity; Extracellular Matrix; Metabolism; Syndecans
+
+adhesion and behavior (Morgan et al., 2007; Xianet al., 2010).
+
+that signaling between cells and the ECM plays a pivotal role in tissue/organ homeostasis
+
+Sdc mutant flies also display less fat and glycogen reserves and lower metabolic activity than
+
+invertebrates, humans contain four SDC genes. Three of them, SDC1, SDC2, and
+
+(aged 64-107). We then determined whether the SNPs found to be associated with old
+
+2. METHODS
+
+2.1. Study subjects
+
+The study was carried out in a cohort of 624 unrelated subjects (287 males and 337 females, age
+
+of Calabria, Italy. A written informed consent was obtained from all participants before enrolling
+
+in the study.
+
+2.2. Phenotypic measurements
+
+HbA1c was chosen as a clinical marker of CHD because levels of HbA1c between 6.0 and
+
+clothes and without shoes. Blood samples were withdrawn after 12-h overnight fast and
+
+analysis. The selected SNPs are reported in Table
+
+and a primer extension reaction using the mass extension primer and the terminator. The
+
+95%; however, genotyping completion rate was lower than 65% for rs6104125.
+
+model]). For each model, a z-score was returned, representing the z-statistics for the
+
+analyses, with a pmodel referred to the p value for the most likely genetic model.
+
+SNPs influenced gene expression, we explored the Genotype-Tissue Expression (GTEx)
+
+
+
+3.1. SCD4 association with longevity
+
+longevity, however, was not significant after adjusting for multiple testing (Table 2); hence,
+
+caution is needed in interpreting this finding. The z-statistics of these models indicated that
+
+rs2228384. The haplotype analysis for these two polymorphic sitesrevealed that, although the
+
+Thus, haplotype analysis confirmed association results with the single markers.
+
+with longevity, was correlated with higher levels of LDL-C (positive score; (cid:1868)Recessive Model = 0.022).
+
+3.2. Exploring the functional consequences of SDC4 variants
+
+“likely to affect binding” (score 2b).
+
+of these markers may be the actual causal variant.
+
+4. DISCUSSION
+
+the SDC4 gene affect human longevity. Specifically, we found that Italian elderly subjects
+
+particularly intriguing since we previously showed that American children (age 7 to 12
+
+disease (Miller et al., 2011), suggests that this SDC4 genetic variant might
+
+molecular link between SDC4 and lipid profile.
+
+strongly motivate further studies to determine how SDC4 genotypes can affect human health
+
+Conflict of interest
+
+ACKNOWLEDGEMENT
+
+This work was supported by the European Union's FP7 [grant number 259679] and by
+
+di molecole di interesse per la salute dell'uomo".
+
+Aronow WS, Ahn C. Correlation of serum lipids with the presence or absence of coronary artery
+
+maps. Bioinformatics. 2005;21:263-5.doi: 10.1093/bioinformatics/bth457
+
+aging. Diabetes. 2012;61:1315-22.doi: 10.2337/db11-1300
+
+cardiovascular disease: A population-based register study. Scandinavian Journal of Primary Health
+
+Bonnans C, Chou J, Werb Z. Remodelling the extracellular matrix in development and disease.
+
+Nat Rev Mol Cell Biol. 2014;15:786-801.doi:10.1038/nrm3904
+
+using RegulomeDB. Genome Res. 2012;22:1790-7. doi: 10.1101/gr.137323.112
+
+Cabrera MA, de Andrade SM, Dip RM.Lipids and all-cause mortality among older adults: a
+
+year follow-up study. Scientific World Journal. 2012;2012:930139. doi:
+
+Passarino G, Jeune B, Franceschi C; GEHA Project Consortium. Health status and 6 years survival
+
+Age (Dordr). 2014;36(2):949-66. doi: 10.1007/s11357-013-9604-1.
+
+with advanced heart failure.Cardiology. 2014;127(1):45-50. doi: 10.1159/000355164.
+
+medicine. J Cell Sci. 2008;121:255-64.doi: 10.1242/jcs.006064
+
+Mol Sci. 2013;14(8):16443-72. doi: 10.3390/ijms140816443.
+
+2010;5:e11286.doi: 10.1371/journal.pone.0011286.
+
+Luca M, Crocco P, Wiener H, Tiwari HK, Passarino G, Rose G. Association of a common
+
+genome. Nature. 2012; 489: 57–74. doi:10.1038/nature11247.
+
+CE, Tanzi RE. Genetics of aging. Science. 1997; 278:407-11.
+
+ML, Wang Z, Park PW, Murphy G, Bernfield M. Shedding of syndecan-1 and -4
+
+metalloproteinase. J Cell Biol. 2000; 148(4):811–24. doi: 10.1083/jcb.148.4.811
+
+variability in healthy ageing people reveals another paradox in the oldest old subjects. Ann. Hum.
+
+2003;2:257-64. doi: 10.1046/j.1474-9728.2003.00060.x
+
+Gunta SS, Thadhani RI, Mak RH. The effect of vitamin D status on risk factors for cardiovascular
+
+disease. Nat Rev Nephrol. 2013;9:337-47.doi:10.1038/nrneph.2013.74
+
+2005;1:119-28.doi: 10.1371/journal.pgen.0010017
+
+Hjelmborg J, Iachine I, Skytthe A, Vaupel JW, McGue M, Koskenvuo M, Kaprio J, Pedersen NL,
+
+Kumsta C, Ching TT, Nishimura M, Davis AE, Gelino S, Catan HH, Yu X, Chu CC, Ong
+
+Panowski SH, Baird N, Bodmer R, Hsu AL, Hansen M.Integrin-linked kinase modulates longevity
+
+Laaksi IT, Ruohola JP, Ylikomi TJ, Auvinen A, Haataja RI, Pihlajamäki HK, Tuohimaa
+
+young Finnish men. Eur J Clin Nutr. 2006;60:1035-8.doi:10.1038/sj.ejcn.1602414
+
+McVean and the 1000 Genomes Project Consortium. An integrated map of genetic variation from
+
+1,092 human genomes, Nature 2012; 491: 56–65. doi:10.1038/nature11632.
+
+aspects of the research on healthy ageing and longevity. Immun Ageing. 2012 Apr 23;9(1):6.
+
+syndecans. Nat Rev Mol Cell Biol. 2007;8:957-69.doi:10.1038/nrm2289
+
+of aging and longevity. Cell Cycle. 2014;13:1063-77. doi: 10.4161/cc.28433.
+
+Pai JK, Cahill LE, Hu FB, Rexrode KM, Manson JE, Rimm EB. Hemoglobin a1c is associated
+
+increased risk of incident coronary heart disease among apparently healthy, nondiabetic men
+
+Razzolini R, Tarantini G, Ossena G, Favaretto E, Bilato C, Manzato E, Dalla-Volta S, Iliceto S.
+
+syndecan ectodomains from 3T3-L1 adipocytes: a proposed mechanism for stabilization of
+
+N, Costa R, Luchsinger J, Tang MX, Lee JH, Mayeux R.Relationship between
+
+lipids and all-cause mortality in nondemented elderly.J Am Geriatr Soc. 2005;53(2):219-26.doi:
+
+Sentinelli F, Minicocci I, Montali A, Nanni L, Romeo S, Incani M, Cavallo MG, Lenzi A, Arca
+
+lipoprotein cholesterol and mortality in older people. J Am Geriatr Soc.
+
+Ward LD, Kellis M. HaploReg: a resource for exploring chromatin states, conservation, and
+
+J Hum Genet. 2005;76:887-93.doi: 10.1086/429864
+
+Wolfson M, Budovsky A, Tacutu R, Fraifeld V. The signaling hubs at the crossroad of longevity
+
+10.1016/j.biocel.2008.08.026
+
+Xian X, Gopal S, Couchman JR. Syndecans as receptors and organizers of the extracellular matrix.
+
+Cell Tissue Res. 2010;339:31-46.doi: 10.1007/s00441-009-0829-3
+
+Table 1. Anthropometric and metabolic characteristics of the study cohort stratified according to
+
+Table 1. Anthropometric and metabolic characteristics of the study cohort stratified according to
+
+Table 2. Results of robust association tests between SDC4 SNPs and longevity
+
+SNP MAF Z1.add Z.rec Z.dom P2.add P.rec P.dom Theop3 rs2228384 0.38 (C) 1.821 1.276 1.634 0.069 0.202 0.102 0.140 rs2072785 0.40 (T) 1.270 -0.041 1.881 0.204 0.967 0.060 0.124 rs1981429 0.44 (G) -1.385 -2.495 0.018 0.166 0.013 0.986 0.028 rs2267871 0.30 (T) -1.761 -0.589 -2.055 0.078 0.556 0.040 0.082 rs2251252 0.47 (A) 2.245 0.950 2.663 0.025 0.342 0.008 0.018 rs2284277 0.21 (A) -0.530 -0.412 -0.457 0.596 0.680 0.648 0.836 rs6130811 0.31 (G) 2.456 0.994 2.609 0.014 0.320 0.009 0.020 rs2070639 0.49 (T) -1.630 -1.443 -1.209 0.103 0.149 0.227 0.203 rs4599 0.21 (G) -0.690 0.328 -0.985 0.490 0.743 0.325 0.545 rs749111 0.16 (T) -0.854 -0.744 -0.712 0.393 0.457 0.477 0.630 rs11697824 0.16 (A) -0.580 -0.073 -0.644 0.562 0.942 0.519 0.769
+
+1Z-score represents the z-statistics under the additive, recessive and dominant models. 2p-value calculated for each genetic model. 3Theoprefers to the p-value adjusted for multiple comparisons (due to the three different genetic models). In bold, p-value significant after adjusting for multiple comparisons.
+
+bold, p-value significant after adjusting for multiple comparisons. Minor Allele Frequency in our control group.
+
+SNPs rs2228384 rs1981429 Freqa Score P-valueb T G 0.41452 -2.42697 0.01523 T T 0.18413 0.97116 0.33147 C G 0.01198 1.00192 0.31638 C T 0.38937 1.44286 0.14906
+
+4. Results of the RobustSNP association test with the hematological variables (total triglyceride, HDL cholesterol, LDL cholesterol, Fasting glucose and Hemoglobin in the control group.
+
+SNP Z1.add Z.rec Z.dom P2.add P.rec P.dom Theop3 Total cholesterol rs1981429 -1.496 -0.315 -2.091 0.135 0.753 0.036 0.077 rs2251252 1.043 1.948 -0.029 0.297 0.051 0.977 0.108 rs6130811 1.148 1.612 0.566 0.251 0.107 0.572 0.212 Triglyceride rs1981429 2.251 1.779 2.168 0.024 0.075 0.030 0.049 rs2251252 -1.238 -0.716 -1.291 0.216 0.474 0.197 0.356 rs6130811 -1.167 -1.862 -0.659 0.243 0.063 0.510 0.129 HDL cholesterol rs1981429 -0.451 0.461 -1.087 0.652 0.645 0.277 0.463 rs2251252 0.479 0.429 0.372 0.632 0.668 0.710 0.859 rs6130811 0.665 0.709 0.463 0.506 0.478 0.643 0.715 LDL cholesterol rs1981429 -2.318 -1.226 -2.626 0.020 0.220 0.009 0.020 rs2251252 1.397 2.288 0.241 0.162 0.022 0.809 0.049 rs6130811 1.369 1.981 0.675 0.171 0.048 0.499 0.101 Fasting glucose rs1981429 -0.306 -0.098 -0.382 0.760 0.922 0.703 0.907 rs2251252 0.064 0.994 -0.909 0.949 0.320 0.363 0.528 rs6130811 0.294 0.877 -0.400 0.769 0.381 0.689 0.603
+
+Triglyceride
+
+Fasting glucose
+
+Hemoglobin A1c rs1981429 -0.198 -0.190 -0.140 0.843 0.849 0.889 0.975 rs2251252 -0.728 0.524 -1.446 0.467 0.600 0.148 0.274 rs6130811 -0.008 0.855 -0.748 0.993 0.392 0.455 0.614
+
+represents the z-statistics under the additive, recessive and dominant models. 2p-value calculated for each genetic model. 3Theoprefers to the p-value adjusted for multiple comparisons (due to the three different genetic models). In bold, p-value significant after adjusting for multiple comparisons.
+

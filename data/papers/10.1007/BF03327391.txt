@@ -1,0 +1,465 @@
+Association between longevity and cytokine gene polymorphisms. A study in Sardinian centenarians
+
+Giovanni Mario Pes1, Domenico Lio2, Ciriaco Carru1, Luca Deiana1, Giovannella Claudio Franceschi4,5, Luigi Ferrucci5, Fabiola Oliveri5, Letizia Scola2, Antonio Crivello2, Giuseppina Candore2, Giuseppina Colonna-Romano2, and Calogero Caruso2
+
+1Chair of Clinical Biochemistry, University of Sassari, Sassari, 2Study Group on Immunosenescence, Department of Pathobiology and Biomedical Methodologies, University of Palermo, Palermo, 3Medicine Unit, Padova Hospital, Padova, Italy, 4Department of Experimental Pathology, University Bologna, Bologna, 5Istituto Nazionale di Riposo e Cura per Anziani, Ancona and Firenze, Italy
+
+analyzed according to gender. Conclusions: These data indicate that gene polymorphisms of cytokines playing a major regulatory role in the inflammatory response do not affect life expectancy in the Sar- dinian population. Thus, cytokine/longevity associ- ations have a population-specific component, being affected by the population-specific gene pool as well as by gene-environment interactions, behaving as survival rather than longevity genes.
+
+ABSTRACT. Background and aims: Human longevity seems to be directly correlated with optimal functioning of the immune system, suggesting that some genetic determinants of longevity reside in those polymorphisms for the immune system genes which regulate immune-inflammatory responses, in particular cytokine gene polymorphisms. The fre- quency of –174C single nucleotide polymorphism (SNP) in the promoter region of the interleukin(IL)- 6 gene is increased in Italian male centenarians. Moreover, the frequency of –1082G SNP at the 5’ flanking region of the IL-10 gene coding sequence is increased among male centenarians, and that of +874A SNP at the interferon (IFN)-γ gene was found more frequently in female centenarians. These find- ings indicate that different alleles at different cy- tokine gene codings for pro- (IL-6, IFN-γ) or anti-in- flammatory (IL-10) cytokines may affect the indi- vidual life-span expectancy, influencing the type and intensity of immune-inflammatory responses against environmental stressors. Methods: In the pre- sent study, we analyzed these IL-6, IL-10 and IFN-γ gene polymorphisms in 112 (36 male, 76 female) centenarians from the island of Sardinia, whose population shows a genetic background quite dif- ferent from that of mainland Italy, as well as in 137 sixty-year-old controls from the same geographic area. Results: No significant differences were ob- served on analyzing IL-6, IL-10 and IFN-γ polymor- phism frequencies among centenarians and con-
+
+INTRODUCTION
+
+Human longevity is the result of several interacting factors including genetic, environmental and behav- ioral components (1). Several studies indicate that hu- man longevity is inextricably linked with optimal func- tioning of the immune system (2). However, the prob- lem arises as to whether people live longer because of “good” immune function, or whether they possess good immune function because other factors have en- abled them to survive longer (3). Thus, to understand better the role of the immune system in longevity, we must search for immunogenetic markers of longevity (2, 3). Cytokine dysregulation is believed to play a key role in the proposed remodeling of the immune-in- flammatory responses accompanying old age and, by regulating the type and magnitude of the immune re- sponse in the elderly, may play a pivotal role in aging and survival (2-6). More interestingly, some data indicate
+
+Key words: Centenarians, cytokines, immunogenetics, longevity, polymorphisms. Correspondence: C. Caruso, MD, Gruppo di Studio sull’Immunosenescenza, Dipartimento di Biopatologia e Metodologie Biomediche, Corso Tukory 211, 90134 Palermo, Italy. E-mail: marcoc@unipa.it Received May 19, 2003; accepted in revised form October 13, 2003.
+
+Received May 19, 2003; accepted in revised form October 13, 2003.
+
+that the lack of ability to control systemic inflammation is a good marker of immunological risk phenotype (2, 3, 7).
+
+registry of local parish archives, social security docu- ments, and the testimony of a first-degree relative. One hundred and thirty-seven 60-year-old (±1 year) healthy controls (68 men, 69 women), without clinical symp- toms of immune-inflammatory diseases, were randomly selected from the inhabitants of the same province. This age was chosen based on the consideration that, at this age, both men and women have less than 1% proba- bility of becoming centenarians (19). Written informed consent for enrolling in the study and for personal da- ta management was obtained from all subjects accord- ing to Italian law. Blood specimens were collected in tripotassium EDTA sterile tubes and immediately stored at -70°C. Genomic DNA was stored at -20°C for ge- netic analysis.
+
+Some recent evidence has linked cytokine poly- morphisms with longevity and differential longevity in males and females (8-11). A study performed on Italian centenarians reported that those individuals who are ge- netically predisposed to produce high levels of inter- leukin(IL)-6 during aging, i.e., C- men at IL-6 –174 C/G single nucleotide polymorphism (SNP), have a reduced capacity to reach the extreme limits of human life (8). Moreover, –1082G IL-10 SNP, associated with high production of the cytokine, is increased among Italian male centenarians (9, 10), whereas +874T SNP at interferon (IFN)-γ gene, part of the 12CA/+847T hap- lotype responsible for increased production of the cy- tokine, is found less frequently in female centenarians (11). These findings indicate that different alleles at dif- ferent cytokine gene codings for pro- (IL-6 or IFN-γ) or anti-inflammatory (IL-10) cytokines affect individual life span expectancy, influencing the type and intensi- ty of immune-inflammatory responses to environmen- tal stressors. These gender-related effects are difficult to explain. However, men and women have claimed to fol- low different strategies to reach longevity, and the number of centenarian women always outnumbers that of centenarian men, the ratio between women and men in centenarians ranging from 4/1 to 7/1, with the exception of Sardinia, where it is about 2.1/1 (12, 13).
+
+Cytokine genotyping
+
+Amplification of the –174C/G IL-6 promoter SNP was performed as previously described, and the presence of a –174C allele was revealed by the presence of the NlaIII cutting site (8). IL-10 –1082 G→A SNP was identified us- ing an amplification refractory mutational system (ARMS) PCR method, as previously described (9). T→A alleles at +874 of IFN-γ gene were identified using ARMS method- ology, as previously described (11, 20).
+
+Statistical analysis
+
+IL-6 –174G/C, IL-10 –1082 G/A, and IFN-γ +874T/A allele frequencies were evaluated by gene count. Data were tested for goodness of fit between ob- served and expected genotype values (χ2 test) and their fit to the Hardy-Weinberg equilibrium. χ2 tests (3 x 2 or 2 x 2 tables) were performed to calculate significant different genotype (or allele) distribution between centenarians and controls.
+
+Since the above studies were performed with Italian centenarians, it is not known whether the results are valid in populations of other ethnic origin. Notably, in Finnish and Irish populations, discordant results have been ob- tained (14-16). However, the authors did not study cen- tenarians, but somewhat younger cohorts, which were less selective than the centenarians investigated in the Italian studies (8-11). In the present paper, we analyzed IL-6, IL- 10 and IFN-γ SNPs in a sample of Sardinian centenarians, to evaluate if the reported associations of these SNPs with longevity are also detectable in a population that shows a genetic background quite different from that of main- land Italy (17, 18).
+
+RESULTS
+
+Table 1 shows the genotypic distribution of IL-6, IL- 10 and IFN-γ SNPs among centenarians and controls, and Table 2 shows their allele frequencies. All 112 cen- tenarians and 137 controls were typed for IL-6 poly- morphisms; IL-10 and IFN-γ polymorphisms were de- termined in 87 centenarians and 85 controls and in 96 centenarians and 94 controls respectively. No significant differences were observed on analyzing IL-6, IL-10 and IFN-γ genotype and allele frequencies among cen- tenarians and controls, either together or when data were analyzed by gender (Tables 1, 2). It is rather sim- plistic to examine the influence of a single cytokine in isolation, since cytokines interact in networks in which the functions of one cytokine are modified, modulated or substituted by another one(s) (21). However, no significant interactions were found when the three polymorphisms were analyzed in combination (data not shown).
+
+METHODS
+
+Subjects and study design
+
+The AKEA study of Sardinian centenarians (the name “AKEA” is derived from an expression in the Sardinian language which means “health and life for 100 years!”) was carried out between January 1 and December 31, 1997 (12). One hundred and forty-one centenarians underwent a full interview, 129 donated a blood sample, and 112 consented to the genetic study described here. Their dates of birth were checked by matching information from census records, the baptism
+
+1 - Genotype frequencies for –174G→C IL-6 gene SNP, for –1082G→A IL-10 gene SNP, and for +874T→A IFN-γ-10 gene SNP centenarians and controls from Sardinia (percentages in brackets).
+
+IL-6 –174G IL-10 –1082G IFN-γ +874 Genotypes GG GC CC GG GA AA TT TA AA Centenarians 57 47 8 16 68 3 11 72 13 (50.9%) (42.0%) (7.1%) (18.4%) (78.2%) (3.4%) (11.5%) (75%) (13.5%) Men 21 12 3 6 25 1 6 22 4 (58.3%) (33.3%) (8.3%) (18.8%) (78.1%) (3.1%) (18.8%) (68.7%) (12.5%) Women 36 35 5 10 43 2 5 50 9 (47.4%) (46.0%) (6.6%) (18.2%) (78.2%) (3.6%) (7.9%) (78.1%) (14.0%) Controls 65 63 9 19 60 6 14 65 15.0 (47.4%) (46.0%) (6.6%) (22.4%) (70.6%) (7.0) (14.9%) (69.1%) (16.0%) Men 32 32 4 6 22 3 6 21 9 (47.9%) (47.9%) (5.1%) (19.3%) (71.0%) (9.7%) (16.7%) (58.3%) (25.0%) Women 33 31 5 13 38 3 8 44 6 (47.8%) (44.9%) (7.2%) (24.1%) (70.4%) (5.5%) (13.8%) (75.9%) (10.3%)
+
+All groups were in Hardy-Weinberg equilibrium (p>0.05). test was performed (3 x 2 contingency tables) to calculate significant different genetic between centenarians and controls. No significant differences were observed. Note that cytokine SNPs were respectively typed in112 centenarians and controls (IL-6), 87 centenarians and 85 controls (IL-10), and 96 centenarians and 94 controls (IFN-γ).
+
+DISCUSSION
+
+and in the balancing of the pro-inflammatory/anti-in- flammatory pathways (26). Elevated IL-6 levels are asso- ciated with the development and severity of CHD, as well as with the transition to plaque instability (25, 27). Carriers of the –174G SNP appear to be prone to develop lipid abnormalities and have poorer glucose handling capaci- ty, higher glycosylated blood hemoglobin, higher fasting insulin levels, and higher insulin sensitivity (28). Accord- ingly, C+ men have been suggested to be protected from CHD (29, 30). Thus, in an aging population, those people who have the tendency to produce elevated IL-6 quantities are less likely to reach the goal of longevity, probably due to their increased proneness to cardiovas- cular events. The discrepancies observed in some studies on the association between IL-6 –174 SNP and CHD (25) may be due to the fact that the influence of individual genotype on plasma IL-6 levels is rather variable and may depend on the genetic background of the population under study (31).
+
+Aging is associated with chronic, low-grade inflam- matory activity leading to long-term tissue damage, and systemic chronic inflammation has been found to be re- lated to all-cause mortality risk in older persons. The genetic constitution of the organism interacting with sys- temic inflammation may also cause defined organ-specific illnesses, indicating the critical importance of unregulated systemic inflammation in the shortening of survival in hu- mans (2, 3, 22). Thus, inflammatory cytokines are be- lieved to play a pathogenetic role in age-related diseases, and genetic variations located within their promoter re- gions have been shown to influence susceptibility to age- related diseases by modifying gene transcription and therefore cytokine production. Conversely, controlling inflammatory status may avoid or delay the main leading cause of death, i.e., coronary heart disease (CHD), lead- ing to successful aging and longevity (2, 3, 22-25).
+
+IL-6 plays a pivotal role in acute phase responses
+
+Table 2 - Frequencies for –174G→C IL-6 gene SNP, for –1082G→A IL-10 gene SNP, and for +874T→A IFN-γ-10 gene SNP in tenarians and controls from Sardinia (absolute number of genes analyzed per group in brackets).
+
+Alleles IL-6 IL-6 IL-10 IL-10 IFN-γ IFN-γ –174G –174C –1082G –1082A +874T +874A Centenarians 0.719 (161) 0.281 (63) 0.575 (100) 0.425 (74) 0.490 (94) 0.510 (98) Men 0.750 (54) 0.250 (18) 0.578 (37) 0.422 (27) 0.531 (34) 0.469 (30) Women 0.704 (107) 0.296 (45) 0.573 (63) 0.427 (47) 0.469 (60) 0.531 (68) Controls 0.704 (193) 0.296 (81) 0.576 (98) 0.424 (72) 0.495 (93) 0.515 (95) Men 0.706 (96) 0.294 (40) 0.548 (34) 0.452 (28) 0.458 (33) 0.542 (39) Women 0.703 (97) 0.297 (41) 0.592 (64) 0.408 (44) 0.517 (60) 0.483 (56)
+
+χ2 test with Yate’s correction was performed to calculate significant different SNP distribution between centenarians and controls. No significant differences were observed. Note that cytokine SNPs were respectively typed in 112 centenarians and 137 controls (IL-6), 87 centenarians and 85 controls (IL-10), and 96 centenarians and 94 controls (IFN-γ).
+
+ward the same change in Irish nonagenarians (15). In- terestingly, a decrease in IFN-γ +874T SNP was observed among female Sardinian centenarians, although the dif- ferences did not reach statistical significance (Table 2). This last datum may be due to the relatively small number of Sardinian female centenarians, which may have limited the statistical power of the study. Thus, in our opinion, the Italian findings are not due to chance.
+
+considered to mediate potent downregulation of inflam- matory responses (32). Serum levels of IL-10 are de- creased in patients with unstable angina, in keeping with data from animal studies which indicate that IL-10 plays a protective role in atherosclerosis (33). Some case-con- trol studies do not support the role of IL-10 polymor- phisms in CHD (34, 35). However, a recent study sug- gests that –1082A allele, associated with low production of cytokine IL-10 and elevated markers of systemic in- flammation such as C-reactive protein, is predictive of higher cardiovascular morbidity in dialysis patients com- pared with the –1082G genotype. Moreover, a prelimi- nary report in two Italian samples of patients affected by myocardial infarction suggests the protective role of IL-10 –1082G SNP (36, 37).
+
+However, it must be remembered that, in Sardinia, male and female centenarians are apparently almost equal in number (2/1), unlike other areas in Europe. This suggests the relevance of peculiar genetic or envi- ronmental characteristics responsible for the attain- ment of longevity by men (12, 17, 18), which may make the possession of these IL-6 and IL-10 SNPs not relevant for men. It is noteworthy that the epidemio- logical data available on CHD in Sardinia indicate the low mortality of this population, compared with main- land Italy. Interestingly, the frequency of the well-known risk factor APOEε 4 is unusually low and, most inter- estingly, does not change in the different age groups, i.e., does not decrease in old subjects, and does not in- fluence lipid metabolism (41).
+
+IFN-γ is one of the pivotal cytokines in the induction of immune-mediated inflammatory responses (38). No data have yet been presented on the association between CHD and IFN-γ polymorphisms. However, in both ex- perimental animals and human beings, IFN-γ is involved
+
+It is therefore seemingly puzzling that these polymor- phisms, which probably avoid or delay death linked to CHD, are associated with longevity in Italians but not in Sar- dinians. Several possibilities may explain this discrepancy.
+
+On the whole, these findings suggest that cytokine/ longevity associations have a population-specific com- ponent, being affected by the population-specific gene pool as well as by gene-environment interactions and behaving as survival rather than longevity assurance genes (2).
+
+dinians. Several possibilities may explain this discrepancy. The original Italian findings may be chance effects. However, IL-6 data (8) have been confirmed in the Irish population (15, 16). In a recent Irish study, a non-signif- icant trend for a reduced frequency of the GG polymor- phism of IL-6 in octo/nonagenarians from the BELFAST study group compared with younger subjects of the local population was reported. This trend was more marked in elderly males than in females (15). In another study per- formed on aged Irish people, an overall decrease in the –174GG in the total aged cohort, with particular re- spect to total males in comparison with controls during the study, appeared to concur with Italian findings (16). So, in studies carried out to date, IL-6 looks like the most in- teresting cytokine with respect to longevity, since in three studies, in separate Caucasian European elderly populations and with different selection criteria, appear to demonstrate a decrease in IL-6 –174GG homozygote fre- quency with extreme old age. The frequency of the anti- inflammatory high-producer polymorphism cytokine of IL- 10, which was also apparently increased in Italian cen- tenarian men (9), was not increased in separate studies on other Caucasoid nonagenarians or in male subjects ana- lyzed separately (14, 15). However, the results were confirmed in a further study performed in South Italy (10), and in the Italian population, the reciprocal anti-inflam- matory low-producer polymorphism is associated with un- successful aging (37, 40). Lastly, the IFN-γ, high-pro- ducer combination haplotype 12CA/+847T showed a de- crease in centenarian Italian women (11), with a trend to-
+
+ACKNOWLEDGEMENTS
+
+The authors are grateful to A. Errigo, MD, for help in subject re- cruitment and blood sample processing. The “AKEA project” coordi- nated by Prof. L. Deiana was funded by grants from the Regione Au- tonoma della Sardegna and the Italian Ministry of Education, Univer- sity and Research (MIUR) (ex 40% and ex 60%). The “Gruppo di Stu- dio sull’Immunosenescenza”, coordinated by Prof. C. Caruso, was funded by grants from MIUR (ex 40%, to CC and DL; ex 60% to CC, DL, GC and GCR) and from the Ministry of Health projects “Parametri immunologici età-correlati” and “Studio multicentrico sui determi- nanti genetici e non genetici di salute nell'età avanzata”. Collaboration between this group and the Istituto Nazionale di Riposo e Cura per Anziani (INRCA) was enhanced by a cooperation contract (“Longevi- ty and elderly disability biological markers”) and by the EU thematic net- work program ImAginE (QLK6-CT-1999-02031).
+
+REFERENCES
+
+Cournil A, Kirkwood TB. If you would live long, choose your par- ents well. Trends Genet
+
+;
+
+:
+
+-
+
+Candore G, Colonna-Romano G, Lio D, Caruso C. Immuno- logical and immunogenetic markers of successful and unsuc- cessful aging. Adv Cell Aging Gerontol
+
+;
+
+:
+
+-
+
+Pawelec G, Barnett Y, Forsey R, et al. T cells and aging.
+
+update. Front Biosci
+
+;
+
+: d
+
+-
+
+Caruso C, Candore G, Cigna D, et al. Cytokine production pathway in the elderly. Immunol Res
+
+;
+
+:
+
+-
+
+Ginaldi L, De Martinis M, D'Ostilio A, Marini L, Loreto MF, Quaglino D. Immunological changes in the elderly. Aging Clin Exp Res
+
+;
+
+:
+
+-
+
+Franceschi C, Bonafè M, Valensin S, et al. Inflamm-aging. An evolutionary perspective on immunosenescence. Ann N Y Acad Sci
+
+;
+
+:
+
+-
+
+Pawelec G, Ouyang Q, Colonna-Romano G, Candore G, Lio D, Caruso C. Is human immunosenescence clinically relevant? Look- ing for immunological risk phenotypes. Trends Immunol
+
+;
+
+:
+
+-
+
+Bonafe M, Olivieri F, Cavallone L, et al. A gender-dependent ge- netic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol
+
+;
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, et al. Gender-specific association be- tween –
+
+IL-
+
+promoter polymorphism and longevity. Genes Immun
+
+;
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, et al. Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-
+
+-
+
+promoter SNP and its interaction with TNF-alpha -
+
+promoter SNP. J Med Genet
+
+;
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, et al. Allele frequencies of +
+
+T→A single nucleotide polymorphism at the first intron of interferon-γ gene in a group of Italian centenarians. Exp Gerontol
+
+;
+
+:
+
+-
+
+Deiana L, Ferrucci L, Pes GM, et al. AKEn
+
+nnos. The Sardinia Study of Extreme Longevity. Aging Clin Exp Res
+
+;
+
+:
+
+-
+
+Franceschi C, Motta L, Valensin S, et al. Do men and women fol- low different trajectories to reach extreme longevity? Italian Mul- ticenter Study on Centenarians. Aging Clin Exp Res
+
+;
+
+:
+
+-
+
+Wang XY, Hurme M, Jylha M, Hervonen A. Lack of association between human longevity and polymorphisms of IL-
+
+cluster, IL-
+
+, IL-
+
+and TNF-alpha genes in Finnish nonagenarians. Mech Ageing Dev
+
+;
+
+:
+
+-
+
+Ross OA, Curran MD, Meenagh A, et al. Study of age-association with cytokine gene polymorphisms in an aged Irish population. Mech Ageing Dev
+
+;
+
+:
+
+-
+
+Rea IM, Ross OA, Armstrong M, et al. Interleukin-
+
+-gene C/G
+
+polymorphism in nonagenarian and octogenarian subjects in the BELFAST study. Reciprocal effects on IL-
+
+, soluble IL-
+
+re- ceptor and for IL-
+
+in serum and monocyte supernatants. Mech Ageing Dev
+
+;
+
+:
+
+-
+
+Lio D, Pes GM, Carru C, et al. Association between the HLA-DR alleles and longevity: a study in Sardinian population. Exp Geron- tol
+
+;
+
+:
+
+-
+
+Passarino G, Underhill PA, Cavalli-Sforza LL., et al. Y chromo- some binary markers to study the high prevalence of males in Sar- dinian centenarians and the genetic structure of the Sardinian pop- ulation. Hum Hered
+
+;
+
+:
+
+-
+
+Vaupel JW. Trajectories of mortality at advanced age. In Watch- er KW, Finch CE, Eds. The biodemography of longevity. Wash- ington, DC: National Academy Press,
+
+: pp
+
+-
+
+Scola L, Licastro F, Chiappelli M, et al. Allele frequencies of +
+
+T→A single nucleotide polymorphism at the first intron of IFN-γ gene in Alzheimer’s disease patients. Aging Clin Exp Res
+
+;
+
+:
+
+-
+
+Bidwell J, Keen L, Gallagher G, et al. Cytokine gene polymorphism in human disease: on-line databases. Genes Immun
+
+;
+
+:
+
+-
+
+Bruunsgaard H, Pedersen M, Pedersen BK. Aging and proin- flammatory cytokines. Curr Opin Hematol
+
+;
+
+,
+
+-
+
+Bidwell J, Keen L, Gallagher G, et al. Cytokine gene polymor-
+
+Immun
+
+;
+
+:
+
+-
+
+Andreotti F, Porto I, Crea F, Maseri A. Inflammatory gene morphisms and ischaemic heart disease: review of population sociation studies. Heart
+
+;
+
+:
+
+-
+
+Stephens JW, Humphries SE. The molecular genetics of diovascular disease: clinical implications. J Intern Med
+
+:
+
+-
+
+Ershler WB, Keller ET. Age-associated increased gene expression, late-life diseases, and frailty. Annu Rev
+
+;
+
+:
+
+-
+
+Ridker PM, Rifai N, Stampfer MJ, Hennekens CH. concentration of interleukin-
+
+and the risk of future myocardial farction among apparently healthy men. Circulation
+
+;
+
+-
+
+Fernandez-Real JM, Broch M, Vendrell J, et al. Interleukin-
+
+polymorphism and insulin sensitivity. Diabetes
+
+;
+
+:
+
+Yudkin JS, Kumari M, Humphries SE, Mohamed-Ali V. mation, obesity, stress and coronary heart disease: is
+
+the link? Atherosclerosis
+
+;
+
+:
+
+-
+
+Rauramaa R, Vaisanen SB, Luong LA, et al. Stromelysin-
+
+interleukin-
+
+gene promoter polymorphisms are determinants asymptomatic carotid artery atherosclerosis. Arterioscler Vasc Biol
+
+;
+
+:
+
+-
+
+Vickers MA, Green FR, Terry C, et al. Genotype at a polymorphism of the interleukin-
+
+gene is associated with line levels of plasma C-reactive protein. Cardiovasc Res
+
+;
+
+-
+
+Moore KW, de Waal Malefyt R, Coffman RL, O'Garra A. leukin-
+
+and the interleukin-
+
+receptor. Annu Rev
+
+;
+
+,
+
+-
+
+Smith DA, Irving SD, Sheldon J, Cole D, Kaski JC. Serum of the anti-inflammatory cytokine interleukin-
+
+are decreased patients with unstable angina. Circulation
+
+;
+
+:
+
+-
+
+Donger C, Georges JL, Nicaud V, et al. New polymorphisms the interleukin-
+
+gene--relationships to myocardial infarction. J Clin Invest
+
+;
+
+:
+
+-
+
+Koch W, Kastrati A, Bottiger C, Mehilli J, von Beckerath Schomig A. Interleukin-
+
+and tumor necrosis factor gene morphisms and risk of coronary artery disease and myocardial farction. Atherosclerosis
+
+;
+
+:
+
+-
+
+Girndt M, Kaul H, Sester U, et al. Anti-inflammatory leukin-
+
+genotype protects dialysis patients from events. Kidney Int
+
+;
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, et al. IL-
+
+polymorphisms in affected by acute myocardial infarction. Genes Immun
+
+; (Abstract).
+
+Billiau A, Heremans H, Vermeire K, Matthys P. latory properties of interferon-gamma. An update. Ann Acad Sci
+
+;
+
+:
+
+-
+
+Laurat E, Poirier B, Tupin E, et al. In vivo downregulation of T cell
+
+immune responses reduces atherogenesis in apolipoprotein knockout mice. Circulation
+
+;
+
+:
+
+-
+
+Lio D, Licastro F, Scola L, et al. Interleukin-
+
+promoter morphism in sporadic Alzheimer's disease. Genes Immun
+
+:
+
+-
+
+Deiana L, Pes GM, Carru C, et al. Lack of influence apolipoprotein E
+
+on lipoprotein levels in the island of Sardinia. Eur J Clin Invest
+
+:
+
+:
+
+-

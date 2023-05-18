@@ -1,0 +1,505 @@
+BRCA1 Gene Sequence Variation in Centenarians
+
+of Gerontological Research, Italian National Research Center on Aging (INRCA), Ancona, Italy
+
+ABSTRACT: With the ample gene sequence information that has become avail- able with the human genome project virtually completed, it has become possi- ble to identify functional gene variants and their frequencies in elderly populations with different aging-related characteristics. Such a genetic epide- miological approach could lead to new insights with respect to the basic mech- anisms of aging and longevity as well as the identification of new targets to prevent or retard some of the late-age adverse effects. Using our recently devel- oped two-dimensional gene scanning (TDGS) technology platform we demon- strate the feasibility of this approach by screening two different populations of centenarians for polymorphic variation in the BRCA1 breast cancer suscepti- bility gene, one of the many genes involved in genome maintenance. The initial results obtained with this approach suggest differences in BRCA1 genotype fre- quencies between the centenarian populations and controls.
+
+KEYWORDS: 2-D gene scanning; BRCA1; Centenarians; Allelic variants; Ge- nome instability
+
+The success of the human genome project combined with new technologies of ge- netic analysis have greatly facilitated the identification of genes with inherited mu- tations that predispose to various age-related disorders, including specific cancers. Such genes are often involved in genome stability pathways, to maintain DNA integ- rity. Examples are the DNA mismatch repair genes, MLH1 and MSH2, heritable mu- tations in which predispose to colon cancer,1 and the breast cancer susceptibility genes BRCA1 and BRCA2.2,3 It is assumed that increased genomic instability and mutation accumulation is causally related to the increased risk of cancer observed in individuals with heritable defects in these genes.
+
+Address for correspondence: Dr. Jan Vijg, University of Texas Health Science Center, Research Park, South Texas Centers for Biology in Medicine, 15355 Lambda Drive, San nio, TX 78245. Voice: 210-562-5027; fax: 210-562-5028. vijg@uthscsa.edu
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+In a more general sense, genomic instability in organs and tissues has been con- sidered as a major cause of aging. In this respect, increased mutation accumulation could lead to tissue atrophy and neoplasms, as well as increased loss of cellular func- tion.4–6 This process could be driven by oxygen free radicals and other sources of spontaneous DNA damage, although unambiguous evidence for such a causal rela- tionship is still lacking.7,8 Oxidative stress is known to induce genome rearrange- ment mutations, such as large deletions, inversions or translocations.9,10 These types of mutation have been demonstrated to accumulate during aging in various tissues of normal mice.11 In this respect, it has been speculated that, in addition to causing cell death and cell transformation, a relatively small number of such large mutations could destabilize the genome, leading to dysregulation of normal patterns of gene expression.6
+
+Ultimately, the quality of genome stability systems determines the rate and spec- trum of mutation accumulation during aging. In this respect, evidence is accumulat- ing that defects in those systems that control the frequency of large DNA rearrangement mutations are associated with symptoms of accelerated senescence, in both mice and humans. This is the case for mice with defects in double-strand break repair genes, which can be expected to greatly accelerate the rate of illegiti- mate recombinations. Recent evidence indicates that mice with inactivated genes in- volved in non-homologous end joining, i.e., Ku86, prematurely exhibit symptoms of age-related degeneration in various tissues, including liver, skin and bone.12 Disrup- tion of the mouse Ercc1 gene, which is involved in both nucleotide excision repair and a mitotic recombination pathway, also shows symptoms of accelerated senes- cence, including premature replicative senescence of Ercc1-mutant cells.13 Prema- ture replicative senescence, which could be an important marker for in vivo aging,14 has also been observed for murine cells deficient for other genes involved in recom- binational repair and non-homologous end joining, including Atm, Brca2, Ku70 and DNA ligase IV.12 Cellular proliferation defects have also been observed in murine Brca1 mutant cells and a mammary-specific conditional Brca1 knock-out mouse model revealed genetic instability and tumorigenesis in combination with growth in- hibition in vivo.15
+
+The possible role of genomic instability in aging is further exemplified by recent work investigating telomere maintenance in the preservation of tissue functioning during aging. In a study of third generation telomerase-deficient mice, shortened life span was found to be accompanied by reduced capacity to respond to stresses such as wound healing, hematopoietic ablation and by an increased incidence of sponta- neous malignancies.16 The results of these studies underscore that in proliferative or- gans the early initiation of genetic instability due to telomere erosion can greatly accelerate age-related loss of cell viability and increase tumor formation.
+
+An important body of evidence that large genomic mutations are causally related to the degenerative aspects of the aging process has been derived from human syn- dromes of accelerated aging, such as Werner syndrome. Werner syndrome, which is caused by a heritable mutation in a human homologue of the bacterial RecQ gene, termed WRN in humans,17 is characterized by the accelerated occurrence of certain aspects of the senescent phenotype, including cancer.18 The WRN gene encodes both a helicase and an exonuclease19 and is thought to play a role in suppressing genomic instability.20 Indeed, cultured somatic cells from patients with Werner syndrome dis-
+
+TABLE 1. Genome stability pathways that control large rearrangements and aging
+
+Symptoms of accelerated Genome senescence stability pathway Genes Null mice In vitro In vivo Human syndrome DSB-repair KU70, KU86, Ku70, Ku86 Yes Yes DNA-PKcs PKcs, SCID SIR2/3/4 RAD51 Yes Yes BRCA1/2 Brca1/2 Hereditary breast Yes Yes cancer ERCC1 Ercc1 Recombination RECQ1-5 Wrn, Blm Werner, Bloom, suppression Rothmund Thomson Telomere mTR, hTERT mTR Yes Yes maintenance TERF1/2 TNKS TIN2 Cell cycle ATM Atm Yes Ataxia telangiectasia check-point TP53 Tp53 Li-Fraumeni activity
+
+play an increased rate of somatic mutations and a variety of cytogenetic abnormali- ties, such as deletions and translocations.21 This high level of genomic instability could be the cause of the severe limitation of in vitro life span demonstrated in Wern- er cells.18 Also other so-called progeroid syndromes, such as ataxia telangiectasia and Bloom syndrome show increased genomic instability.18
+
+TABLE 1 summarizes the pathways and some of the genes thus far identified that are involved in the suppression of large genomic mutations. As discussed above, de- fects in many of these genes have been found associated with accelerated senes- cence, but not always and not to the same extent. This is expected, since even if aging would be totally based on genomic instability it would be highly unlikely that com- plete inactivation of any gene in any of these pathways would closely mimic the nor- mal aging process. Instead, one would expect combinations of subtle allelic variants of these genes to determine the aging phenotype. It is possible to test this by creating mouse models with a variety of knock-in variants of the relevant genome stability genes. However, an alternative and reasonable approach would be to compare fre- quencies of the various alleles of loci involved in genome maintenance and repair and more specifically the pathways listed in TABLE 1 in different human populations with characteristic aging-related phenotypes. Such phenotypes could include ex- tremely short or extremely long life, extreme susceptibility or extreme resistance to organ-specific age-related loss of function and extreme susceptibility or extreme re- sistance to age-related disease. One would expect that at least some of those allelic variants that give rise to amino acid changes, has functional consequences in terms of the level of proficiency at which genome maintenance operates. At present, it is
+
+  Comprehensive survey of candidate genes for potentiallyfunctional polymorphisms in elderly populations J Define haplotypes, i.e., alleles, and assess allele and genotype frequencies  Predict functional impact at the protein and pathway level     
+
+FIGURE 1. Flow chart of the sequential steps in gene-based asssociation studies.
+
+not possible to accurately predict functionality directly from variations in the gene coding sequences. However, statistically significant variations among populations with well-defined aging-related characteristics could provide a good starting point for subsequent functional studies. This approach is schematically depicted in FIGURE 1.
+
+Thus far, association studies have been based on single polymorphisms in candi- date genes. The best known example in this respect is the observed lower frequency of the APOE4 variant in centenarians,22 a higher frequency of which had previously been found associated with sporadic Alzheimer’s disease.23 However, any positive result could be due to an effect of the polymorphism on the function of the candidate gene or it could be due to some other gene variant that is in linkage disequilibrium with the marker locus. It has recently been shown that the distances over which link- age disequilibrium acts are small, i.e., typically less than 3 kb,24 although these data have recently been challenged.25 Nevertheless, unless all polymorphic variation in a large number of candidate genes is detected, this type of studies is unlikely to yield significant results in most cases.
+
+With the rapid emergence of complete sequence information for all human genes it is theoretically possible to scrutinize all genes or families of genes suspected to be involved in a complex phenotype for all possible polymorphic variation in a group of subjects as compared to a control group. Individual differences in complex phe- notypes, of which familial aggregation or twin studies suggest a genetic component, could be due to common variants of genes controlling one or more functional path- ways thought to play a role in the phenotype. In a recent study, Cargill et al.26 sys- tematically surveyed the coding regions of 106 genes relevant to cardiovascular disease, endocrinology and neuropsychiatry for all possible variants in a sample of mixed ethnic groups. For this purpose, they used a combination of oligonucleotide chip array hybridization and DHPLC (HPLC of DNA fragments in a temperature gradient). In these 106 genes a total of 560 single nucleotide polymorphisms were discovered.
+
+To identify potentially functional SNPs involved in blood pressure homeostasis and hypertension Halushka et al.27 used the same technology to assay 75 candidate
+
+VIJG et al.: BRCA1 GENE SEQUENCE VARIATION IN CENTENARIANS
+
+genes in a sample of 74 ethnically heterogeneous individuals with a range of hyper- tension phenotype diversity. A total of 387 SNPs were detected in gene coding se- % quences, 54 of which were predicted to lead to altered protein.
+
+direct functional relevance to a complex phenotype. There are two potential tions to this approach. The first involves the relatively small number of genes have been completely identified in terms of structure and function. Although ally all human genes are now available as ESTs, only a limited number has been fined by a complete cDNA sequence and functional pathway. Indeed, for only ′ few genes a complete genomic sequence including 3 UTR, promoter and flanking regions is readily available. With the genome program drawing to a the next few years it is reasonable to expect that most of these gaps will be filled ly soon and that complete sequence information and pathway assignments will
+
+A second potential limitation to screen directly for functional polymorphic vari- ants involved in a complex trait involves the technology to screen multiple genes in large numbers of individuals for all possible sequence variation, which is still in its infancy. Most technology in this respect is limited by the need to PCR amplify each individual target sequence for mutational scanning. Moreover, the most advanced methods, such as the DNA chip method used in the two studies described above, in- volve relatively expensive technology that has not been completely validated (a sig- nificant number of variants are missed). A cost-effective method developed in our laboratory is based on extensive multiplex PCR to obtain the target fragments, which are subsequently analyzed on two-dimensional denaturing gradient gels for all pos- sible sequence variants.28,29
+
+TWO-DIMENSIONAL GENE SCANNING
+
+The most reliable way of detecting DNA sequence alterations in genes is nucle- otide sequencing, the gold standard in mutation detection. Sequencing is PCR-based with preparation of template on an exon-by-exon basis. This is expensive and labor- intensive, even in the semi-automated setting. Other mutation scanning techniques, e.g., single strand conformation polymorphism analysis, trade off accuracy for rela- tive throughput. Many novel methods with the potential of both a high throughput and a high accuracy remain immature and unproven in practice. Moreover, virtually all methods rely on PCR amplification to obtain the target sequences.30
+
+gel electrophoresis (DGGE). DGGE allows for the separation of DNA differing by as little as one base pair, on the basis of differences in temperature.31 A given DNA fragment comprises one or more representing a stretch of between about 50 and 500 base pairs with equal % temperature (the temperature at which each base pair has a 50 probability in either the helical or the denatured state). Therefore, when a fragment migrates, parallel to the gradient of denaturants (urea/formamide the lowest melting domain will denature first and, because of of the DNA strands, the fragment will be retarded in the gel. The melting of a domain is dependent on the base composition of the fragment
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+base pairs have a higher melting temperature than A-T base pairs) and the stacking interactions of the bases. Therefore, DNA sequence variations will be reflected by the positions in the gel where the fragments are halted.
+
+introducing so-called GC-clamps, i.e., a stretch of 30 to 50 G and C bases, to the tar- get DNA fragments.32 A convenient way of attaching a GC-clamp to the target frag- ment is by making it part of one of the primers.33 Without GC-clamping, a DNA fragment consisting of one melting domain will become completely single stranded upon denaturation and runs off the gel. By adding a GC-clamp, a single high melting domain is artificially created at one end of the target fragment. This will prevent complete melting and ensures that the fragment halts at the melting temperature of the target sequence. However, when the target DNA fragment consists of multiple melting domains, only mutations in the lowest melting domain are readily detected. To facilitate detection of all possible mutations, it is imperative that the target frag- ment represents only one melting domain. Fortunately, since the addition of a GC- clamp allows for stacking interactions with neighboring bases, the entire target frag- ment will often behave as one melting domain. However, this is not always the case, and in practice, the target fragment needs to be “designed”, e.g., through the strategic positioning of PCR primers to achieve the ideal single melting domain.
+
+duction of a heteroduplexing step using one round of denaturation/renaturation, usu- ally at the end of PCR amplification of the target fragment. In this manner, a heterozygous mutation is revealed as four different double-stranded fragments: two homoduplex molecules (one homoduplex wild type and one homoduplex mutant) and two heteroduplex molecules (each comprising one wild type and one mutant strand). The less stable mismatched heteroduplex molecules will melt earlier than the two homoduplex molecules.
+
+% Although DGGE has the crucial advantage of having close to 100 sensitivity in detecting mutations,34,35 it has typically been applied in a serial fashion, e.g., on an exon by exon basis, for analyzing large genes. With the introduction of two-dimen- sional gene scanning (TDGS) we have transformed the method from the existing se- rial to a parallel system. The first step in TDGS is a large-scale multiplex PCR. Initial pre-amplification of multiple exons by long-distance PCR has been demon- strated to provide suitable template for a highly specific multiplex PCR. Indeed, the over-representation of the exon-containing genomic fragments, relative to the ge- nomic environment, permits multiplex groups of as many as 24 fragments.36
+
+A successful implementation of extensive multiplex PCR amplification in DGGE-based gene mutational scanning tests requires a high-resolution separation system. An example of such a system is the original two-dimensional DGGE format31 in which fragments are first separated according to size and, subsequently, further sorted as a function of their melting temperature. Although high resolution may also be obtained by using one-dimensional denaturing gradient gels, the 2-D system allows characterization of each fragment on the basis of its xy-coordinates (size and melting temperature). In practice, by using the 2-D system, it is possible to completely visualize all fragments corresponding to an entire gene or multiple genes for a particular DNA sample and immediately recognize each exon and variants therein (schematically depicted for the BRCA1 gene in FIG. 2). Different sequence
+
+ 
+
+FIGURE 2. Empirical two-dimensional gene scanning pattern of the gene BRCA1. All coding exons were amplified from genomic DNA obtained from blood of a normal individ- ual. The sample was found to contain polymorphisms in exons 3 and 20. (Modified after van Orsouw et al.29)
+
+variants in the same exon can be distinguished on the basis of their unique 4-spot pat- terns.29 A potential hindrance to the widespread application of this system to multi- ple, novel genes involves the difficulties in the design of PCR primers generating single-domain fragments which can be resolved under one set of electrophoretic conditions. In order to minimize the time needed to optimize TDGS tests with re- spect to PCR conditions, melting behavior and distribution of fragments in the 2-D gel, a computerized test design has been developed.37
+
+An automated system for 2-D DNA electrophoresis has been This sys- tem has a modest throughput of only 4 2-D gels per day. However, with one technician who can easily operate up to three of these systems a total of 140,000 bp of genomic DNA can be comprehensively analyzed per day for all possible sequence variants. The system is presently modified to increase the throughput per instrument to about 500,000 bp per day.
+
+To test the general applicability and usefulness of TDGS in generating complete spectra of sequence variation in large genes or in multiple genes, we screened cen- tenarian and control populations, on a pilot scale, for functional variants of BRCA1.
+
+TABLE 2. Polymorphisms defining haplotypesa
+
+Exon 11 Exon16 Type 1186 2196 2731 3232 3238 3667 4956 a A G C A G A A b A G T G G G G c A A T G G G G d A G T A G A A e A G C A A A A f G G C A G A A
+
+aOut of 256 possible haplotypes.
+
+COMMON BRCA1 GENE VARIANTS AND SUSCEPTIBILITY TO BREAST CANCER IN CENTENARIANS
+
+BRCA1 is the first human familial breast cancer susceptibility gene As mentioned above and summarized in TABLE 1, BRCA1 is a tumor suppressor gene likely to be involved in DNA recombinational repair.39 A large number of distinct heritable mutations in BRCA1 have been described, most of which result in a trun- cated BRCA1 protein.40 Heritable mutations in BRCA1 confer an over 90% life time risk of breast cancer. In view of the large size of the gene (24 exons, comprising 5592 bp of coding DNA) large-scale gene sequence comparisons in population-based studies have not been performed. However, the data available suggest that the fre- quency of highly penetrant BRCA1 mutations in the normal population is between 1 in 500 and 1 in 2000 individuals.41 The lack of cost-efficient re-sequencing technol- ogy has also constrained population studies on common polymorphisms in BRCA1, which could confer more modest individual risk. In principle, such common variants could explain a far larger part of breast cancer cases.
+
+As mentioned above, one of the benefits of parallel screening by TDGS is that each pattern reveals all homo- and heterozygous variants in the entire gene. The ef- fect of association studies on functional gene variants will now be much more valu- able than the study of single polymorphisms in candidate genes, as has been done so far. So far, a total of 7 polymorphic sites in 6 TDGS fragments in BRCA1 have been identified that give rise to an amino acid change. Owing to strong linkage disequi- librium, these 7 polymorphic sites generate only 6 different haplotypes, i.e., alleles (A–F; TABLE 2). The frequencies of these alleles were compared between groups of centenarians and controls. Centenarians were selected for this study because breast cancer is extremely rare in such individuals of highly advanced age. Hence, it is pos- sible that optimal sequence variants of this gene contribute to this extreme resistan- cy, possibly as a consequence of its increased proficiency in the process of recombinational repair. Two different centenarian populations were studied, i.e., one population consisted of 102 centenarians from the New England area42 and one pop- ulation consisted of 84 centenarians from Italy.43 The control population consisted of 97 individuals from Italy. All three populations were mainly white.
+
+Frequency (%)706050402010        (HH Centenarians It (n=168)[Hl Controls tt (n=194)[17 Breasvovarian cancer probands(Shattuck-Eidens et al, 1997) (n=1590)                   arians NE (n=198)1994) (n=650)= (n=54)1994) (n=322)     I   Haplotype/alleleAPOE4 
+
+FIGURE 3. BRCA1 allele frequencies in two different centenarian populations and one control population (NE = New England; IT = Italy). The allele frequency of APOE4 has been determined in the same populations as a control and was compared with the results of Schächter et al.22
+
+Results so far obtained indicate that there are no significant differences in BRCA1 allele (haplotype) frequencies among the three populations (FIG. 3). This also ap- plied to the APOE4 variant that was included as a positive control. However, in keep- ing with earlier studies the frequency of the APOE4 variant was lower in the centenarians as compared to controls (FIG. 3). Comparison to previously published results obtained from 795 breast- and/or ovarian cancer probands sampled from the US and Europe40 confirmed that at the allele frequency level only minor differences are observed.
+
+Although allele frequencies might give an early indication of possible of the population-specific effect of the different haplotypes and disease, actual ciation should be carried out using the frequencies of allele combinations (i.e., + otype frequencies). As shown in FIGURE 4, the BRCA1 genotype a a showed to more frequent in both centenarian groups compared to the control = + (p 0.1473), whereas genotype “a b” was less frequent (p = 0.0526). In this + the A4 A4 APOE genotype was not found for any of the 99 New England ians and scored 2 times for the 27 control individuals in which this was (FIG. 4).
+
+The high number of genotypes and the low frequency of some of the alleles re- quire the analysis of large numbers of samples. Only when the sample repository is sufficiently high, reliable conclusions can be drawn regarding the frequencies of all genotypes including some of the rare ones. In this respect, especially haplotype “f” is of interest because of the presence of Arg356 instead of Gln356. There is evidence
+
+Frequency (%)201510                    ~OP 7= = Hi Centenarians NE (n=102)AS entenarians It (n=84)L x BG] Controls It (n=97)s v y —___=~] ControlsSchacher eval, 1994) (=161)4> >LL ==— T Tata atb APOE4/E4Genotype 
+
+FIGURE 4. Genotype frequency of two of the most frequent BRCA1 allele combina- tions in the two centenarian populations and the control population. The APOE4/E4 frequen- cy has been included as control and compared with Schächter et al.22 as in FIGURE 3.
+
+that Arg356 homozygosity is less frequent in breast cancer patients than in controls44 indicating that it may be protective against breast cancer. Although in our present study the frequency of allele f with the Arg356 present was found to be slightly higher in centenarians, the number of individuals analyzed is still too low to draw any definite conclusions.
+
+SUMMARY
+
+One way to test possible causal relationships between various functional path- ways and the aging process is to comparatively analyze polymorphic variation in genes participating in these pathways in elderly populations with different aging- related characteristics. The results of the Human Genome Project now make it fea- sible to identify most if not all genes involved in the candidate pathways that drive the aging process or confer longevity. For this purpose, efficient genotyping methods are needed that allow the comprehensive sequence analysis of multiple genes at the population level. Using our recently developed two-dimensional gene scanning (TDGS) technology platform we demonstrated the feasibility of this approach by screening two different populations of centenarians for polymorphic variation in the BRCA1 breast cancer susceptibility gene. The results indicate that using this tech- nology relatively large numbers of individuals, i.e., hundreds, can be screened in a relatively short time for all possible sequence variants of this very large gene. Al- though the number of individuals analyzed is still insufficient to draw definite con- clusions, a clear trend towards a difference in genotype frequency involving two of the most common alleles became apparent. Based on these results we conclude that rather than studying individual polymorphisms in groups of elderly with different
+
+VIJG et al.: BRCA1 GENE SEQUENCE VARIATION IN CENTENARIANS
+
+aging-related characteristics, it should be feasible to analyze multiple genes partici- pating in functional pathways that are possibly involved in aging and longevity for differences in the frequency of potentially functional alleles.
+
+1. FISHEL, R., M.K. LESCOE, M.R.S. RAO, et al. 1993. The human mutator gene homolog MSH2 and its association with hereditary nonpolyposis colon cancer. Cell 75: 1027–
+
+MIKI, Y., J. SWENSEN, D. SHATTUCK-EIDENS, et al
+
+A strong candidate for the breast and ovarian cancer susceptibility gene BRCA
+
+Science
+
+:
+
+–
+
+WOOSTER, R., G. BIGNELL, J. LANCASTER, et al.
+
+Identification of the breast cancer susceptibility BRCA
+
+Nature
+
+:
+
+–
+
+FAILLA, G.
+
+The aging process and carcinogenesis. Ann. N.Y. Acad. Sci.
+
+:
+
+–
+
+SZILARD, L.
+
+On the nature of the aging process. Proc. Natl. Acad. Sci. USA
+
+:
+
+–
+
+VIJG, J.
+
+Somatic mutations and aging: a re-evaluation. Mutation Res.
+
+:
+
+–
+
+MARTIN, G.M., S.N. AUSTAD & T.E. JOHNSON.
+
+Genetic analysis of ageing: role of oxidative age and environmental stresses. Nature Genet.
+
+:
+
+–
+
+COLLINS, A.R.
+
+Oxidative DNA damage, antioxidants, and cancer. Bi
+
+ssays
+
+:
+
+–
+
+HSIE, A.W., L. RECIO, D.S. KATZ, et al.
+
+Evidence for reactive oxygen species including mutations in mammalian cells. Proc. Natl. Acad. Sci. USA
+
+:
+
+–
+
+GILLE, J.J.P., C.G.M. VAN BERKEL & H. JOENJE.
+
+Mutagenicity of metabolic oxy- gen radicals in mammalian cell cultures. Carcinogenesis
+
+:
+
+–
+
+DOLLÉ, M.E.T., H. GIESE, C.L. HOPKINS, et al.
+
+Rapid accumulation of genome rearrangements in liver but not in brain of old mice. Nature Genet.
+
+:
+
+–
+
+VOGEL, H., D.S. LIM, G. KARSENTY, et al.
+
+Deletion of Ku
+
+causes early onset of senescence in mice. Proc. Natl. Acad. Sci. USA
+
+:
+
+–
+
+WEEDA, G., I. DONKER, J. DE WIT, et al.
+
+Disruption of mouse ERCC
+
+results in a novel repair syndrome with growth failure, nuclear abnormalities and senescence. Curr. Biol.
+
+:
+
+–
+
+CAMPISI, J.
+
+Replicative senescence: an old lives’ tale? Cell
+
+:
+
+-
+
+XU, X., K.-U. WAGNER, D. LARSON, et al.
+
+Conditional mutation of Brca
+
+in mammary epithelial cells results in blunted ductal morphogenesis and tumour forma- tion. Nature Genet.
+
+:
+
+–
+
+RUDOLPH, K.L., S. CHANG, H.W. LEE, et al.
+
+Longevity, stress response, and can- cer in aging telomerase-deficient mice. Cell
+
+:
+
+–
+
+YU, C-E., J. OSHIMA, Y.-H. FU, et al.
+
+Positional cloning of the Werner’s syn- drome gene. Science
+
+:
+
+–
+
+TURKER, M.S. & G.M. MARTIN.
+
+Genetics of human disease, longevity and aging. In Principles of Geriatric Medicine and Gerontology,
+
+th edit. W.R. Hazzard, J.P. Blass, W.H. Ettinger, Jr., et al., Eds.:
+
+–
+
+M
+
+raw-Hill Book Co.
+
+HUANG S., B. LI, M.D. GRAY, et al.
+
+The premature ageing syndrome protein, WRN, is a
+
+′→
+
+′ exonuclease. Nature Genet.
+
+:
+
+–
+
+YAMAGATA, K., J. KATO, A. SHIMAMOTO, et al.
+
+Bloom’s and Werner’s syndrome genes suppress hyperrecombination in yeast sgs
+
+mutant: implication for genomic instability in human diseases. Proc. Natl. Acad. Sci. USA
+
+:
+
+–
+
+FUKUCHI, K., G.M. MARTIN & R.J. MONNAT, JR.
+
+Mutator phenotype of Werner syndrome is characterized by extensive deletions. Proc. Natl. Acad. Sci. USA
+
+:
+
+–
+
+SCHÄCHTER, F., L. FAURE-DELANEF, F. GUÉNOT, et al.
+
+Genetic associations with
+
+F., L. FAURE-DELANEF, F. GUÉNOT, et al. 1994. Genetic associations with human longevity at the APOE and ACE loci. Nature Genet. 6: 29–32.
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+CORDER, E.H., A.M. SAUNDERS, W.J. STRITTMATTER, et al.
+
+Gene dose of apolipo- protein E type
+
+allele and the risk of Alzheimer's disease in late onset families. Sci- ence
+
+:
+
+–
+
+KRUGLYAK, L.
+
+Prospects for whole-genome linkage disequilibrium mapping of common disease genes. Nature Genet
+
+:
+
+–
+
+COLLINS, A., C. LONJOU & N.E. MORTON.
+
+Genetic epidemiology of single-nucle- otide polymorphisms. Proc. Natl. Acad. Sci. USA
+
+:
+
+–
+
+CARGILL, M., D. ALTSHULER, J. IRELAND, et al.
+
+Characterization of single-nucle- otide polymorphisms in coding regions of human genes. Nature Genet.
+
+:
+
+–
+
+HALUSHKA, M.K., J.-B. FAN, K. BENTLEY, et al.
+
+Patterns of single-nucleotide polymorphisms in candidate genes for blood-pressure homeostasis. Nature Genet.
+
+:
+
+–
+
+VAN ORSOUW, N.J., D. LI, P. VAN DER VLIES, et al.
+
+Mutational scanning of large genes by extensive PCR multiplexing and two-dimensional electrophoresis: applica- tion to the RB
+
+gene. Hum. Mol. Genet.
+
+:
+
+–
+
+VAN ORSOUW, N.J., R.K. DHANDA, Y. ELHAJI, et al.
+
+A highly accurate, low cost test for BRCA
+
+mutations. J. Med. Genet.
+
+:
+
+–
+
+ENG, C. & J. VIJG.
+
+Genetic testing: the problems and the promise. Nature Bio- technol.
+
+:
+
+–
+
+FISCHER, S.G. & L.S. LERMAN.
+
+Length-independent separation of DNA restric- tion fragments in two-dimensional electrophoresis. Cell
+
+:
+
+–
+
+MYERS, R.M., S.G. FISCHER, L.S. LERMAN & T. MANIATIS.
+
+Nearly all single base substitutions in DNA fragments joined to a GC-clamp can be detected by denaturing gradient gel electrophoresis. Nucleic Acids Res.
+
+:
+
+–
+
+SHEFFIELD, V.C., D.R. COX, L.S. LERMAN & R.M. MYERS.
+
+Attachment of a
+
+- base-pair G + C-rich sequence (GC-clamp) to genomic DNA fragments by the poly- merase chain reaction results in improved detection of single-base changes. Proc. Natl. Acad. Sci. USA
+
+:
+
+–
+
+GULDBERG, P., K.F. HENRIKSEN & F. GUTTLER.
+
+Molecular analysis of phenyketo- nuria in Denmark:
+
+% of the mutations detected by denaturing gradient gel electro- phoresis. Genomics
+
+:
+
+–
+
+MOYRET, C., C. THEILLET, P.L. PUIG, et al.
+
+Relative efficiency of denaturing gra- dient gel electrophoresis and single strand conformation polymorphism in the detc- tion of mutations in exons
+
+to
+
+of the p
+
+gene. Oncogene
+
+:
+
+–
+
+LI, D. & J. VIJG.
+
+Multiplex co-amplification of
+
+retinoblastoma gene exons after pre-amplification by long-distance PCR. Nucleic Acids Res.
+
+:
+
+–
+
+VAN ORSOUW, N.J., R.K. DHANDA, R.D. RINES, et al.
+
+Rapid design of denaturing gradient-based two-dimensional electrophoretic gene mutational scanning tests. Nucleic Acids Res.
+
+:
+
+–
+
+DHANDA, R.K., W. SMITH, C.B. SCOTT, et al.
+
+A simple system for automated two- dimensional electrophoresis: applications to genetic testing. Genet. Testing
+
+:
+
+–
+
+VENKITARAMAN, A.R.
+
+Breast cancer genes and DNA repair. Science
+
+:
+
+–
+
+SHATTUCK-EIDENS, D., A. OLIPHANT, M. MCCLURE, et al.
+
+BRCA
+
+sequence anal- ysis in women at high risk for susceptibility mutations. Risk factor analysis and implications for genetic testing. JAMA
+
+:
+
+–
+
+FORD, D., D.F. EASTON & J. PETO.
+
+Estimates of the gene frequency of BRCA
+
+and its contribution to breast and ovarian cancer incidence. Am. J. Hum. Genet.
+
+:
+
+–
+
+PERLS, T.T., K. BOCHEN, M. FREEMAN, et al.
+
+Validity of reported age and preva- lence of centenarians in a New England sample. Age Ageing
+
+:
+
+–
+
+DE BENEDICTIS, G., E. FALCONE, G. ROSE, et al.
+
+DNA multiallelic systems reveal gene/longevity associations not detected by diallelic systems. The APOB locus. Human Genet.
+
+:
+
+–
+
+DUNNING, A.M., M. CHIANO, N.R. SMITH, et al.
+
+Common BRCA
+
+variants and susceptibility to breast and ovarian cancer in the general population. Hum. Mol. Genet.
+
+:
+
+–

@@ -1,0 +1,143 @@
+pathogens.4 The specificity of the SELDI-TOF mass spec- trometry profile for IAI is suggested by the presence of the 10.8-kDa proteolytic fragment of IGFBP-1, which has not been described in other inflammatory conditions. During pregnancy, the decidua, fetal membranes, and amniotic fluid are rich sources of IGFBP-1.5 Thus, the presence of the unique IGFBP-1 proteolytic fragment together with the presence of calgranulins is consistent with intrauterine infection.
+
+all cells. However, in atherosclerotic tissue its expression is markedly up-regulated, and the inflammatory media- tors produced by its activation exert various atherogenic effects.2,3 In this study, we evaluated whether prevalence of the TLR4 genotype may have an association with acute myocardial infarction (AMI) and with longevity.
+
+Methods. We studied 105 young Sicilian men (mean age, 41 years; range, 20-46 years) consecutively admitted for AMI to the cardiac unit of Palermo University Hospital. Current smoking was present in 74% (former and current in 89%), family history of CVD in 58%, type 2 diabetes in 17%, obe- sity in 34%, hypertension in 29%, hypercholesterolemia in 61%, and hypertriglyceridemia in 43%.
+
+We used pooled maternal serum samples to ascertain the possibility of detecting calgranulin B and IGFBP-1 proteolytic fragment noninvasively—without an amnio- centesis. In biomarker discovery, pooled samples are frequently used to optimize detection of potential bio- markers. We agree that larger prospective trials that test serum samples from patients are necessary to confirm our findings.
+
+One control group consisted of 127 Sicilian men matched by age strata (mean age, 38 years; range, 20-50 years). These were students and staff personnel who were judged to be in good health based on their clinical history and on blood tests (complete blood cell count, erythrocyte sedimenta- tion rate, and levels of glucose, blood urea nitrogen, creati- nine, electrolytes, C-reactive protein, liver transaminases, iron, proteins, cholesterol, and triglycerides). Of these young controls, 20% were moderate smokers; no other major car- diac risk factor was present.
+
+Michael G. Gravett, MD gravettm@ohsu.edu Department of Obstetrics & Srinivasa R. Nagalla, MD Department of Pediatrics Oregon Health & Science University Prote
+
+enix Inc
+
+A second control group consisted of 55 Sicilian oldest old men (mean age, 100 years; range, 96-104 years). By using the demographic lists of the registry offices of Palermo and surrounding municipalities, 166 potentially eligible oldest old men were identified in the Palermo area. Ninety-one (55%) agreed to participate. The control group was com- posed of the 55 (60%) who did not have any cardiac risk factors or major age-related diseases (eg, coronary heart dis- ease, severe cognitive impairment, severe physical impair- ment, clinically evident cancer, or renal insufficiency), al- though some had decreased auditory and visual acuity.4 Because immigration and intermarriage in Sicily have his- torically been rare, the Sicilian ethnicity of all participants was confirmed by having all 4 grandparents born in Sicily. The study was approved by the hospital ethics committee and written informed consent was obtained from all par- ticipants.
+
+Financial Disclosure: Drs Gravett and Nagalla are the founders of ProteoGenix and retain stock options in the company.
+
+1. Heine RP, Weisenfeld H, Mortimer L, Greig PC. Amniotic fluid defensins: po- tential markers of subclinical intrauterine infection. Clin Infect Dis. 1998;27:513-
+
+2. SearleBC,DasariS,TurnerM,etal.High-throughputidentificationofproteins and unanticipated sequence modifications using a mass-based alignment algo- rithm for MS/MS de novo sequencing results. Anal Chem. 2004;76:2220-2230. 3. Vogl T, Propper C, Hartmann M, et al. S100A12 is expressed exclusively by granulocytesandactsindependentlyfromMRP8andMRP14.JBiolChem.1999; 274:25291-25296.
+
+4. Roth J, Vogl T, Sorg C, Sunderkotter C. Phagocyte-specific S100 proteins: a novel group of proinflammatory molecules. Trends Immunol. 2003;24:155-158. 5. Hills FA, Gunn LK, Hardiman P, Thamaratnam S, Chard T. IGFBP-1 in the pla- centa, membranes and fetal circulation: levels at term and preterm delivery. Early
+
+DNA was genotyped for the +896 A G (Asp299Gly) TLR4 single-nucleotide polymorphism (SNP) according to published methods.5 The Asp299Gly SNP has been shown to attenuate receptor signaling.3,5 Differences in SNP fre-   quency among the groups were evaluated by 2 test. We per- formed a logistic regression analysis to test the association of SNP with AMI after adjustment for smoking habits, fam- ily history of CVD, and the presence of type 2 diabetes, obe- sity, hypertension, hypercholesterolemia, and hypertriglyc- eridemia. A similar analysis was performed comparing young controls with oldest old controls.
+
+Role of Toll-like Receptor 4 in Acute Myocardial Infarction and Longevity
+
+To the Editor: A major trait characterizing centenarians is a relatively low frequency of cardiovascular disease (CVD). Since a proinflammatory genotype appears to contribute to the risk of ischemic heart disease, the prevalence of proinflammatory alleles would also be expected to be relatively low in people experiencing lon- gevity.1 Toll-like receptor 4 (TLR4), the activity of which may be modulated by genetic polymorphisms, is a signal- ing receptor in innate immune defense. It is activated by lipopolysaccharide from gram-negative bacteria and endogenous ligands, including those produced in response to tissue injury. TLR4 is expressed on virtually
+
+Results. We found significant differences in the fre- quency of TLR genotypes among the 3 studied groups “AsP<.( (P .001). The Asp299Gly SNP was underrepresented in pa- tients with AMI and overrepresented in the oldest old men
+
+(Reprinted) JAMA, November 17, 2004—Vol 292, No. 19 2339
+
+Marco Caruso, MD Enrico Hoffmann, MD Department of Internal Medicine Cardiovascular and Nephro
+
+Urological Diseases University of Palermo Claudio Franceschi, MD Italian National Research Center on Aging Ancona, Italy Department of Experimental Pathology and Interdepartmental Center “L. Galvani” University of Bologna Bologna, Italy Calogero Caruso, MD marcoc@unipa.it Immunosenescence Unit Department of Pathobiology and Biomedical University of Palermo
+
+Marco Caruso, MD
+
+→ Table. Genotype Distribution and Allele Frequency of +896 A G (Asp299Gly) TLR4 Gene Polymorphisms in Male Patients With Acute Myocardial Infarction, Young Male Controls, and Oldest Old Male Controls From Sicily
+
+Enrico Hoffmann, MD Department of Internal Medicine Cardiovascular and Nephro
+
+Urological Diseases University of Palermo Claudio Franceschi, MD Italian National Research Center on Aging Ancona, Italy Department of Experimental Pathology and
+
+Abbreviation: AMI, acute myocardial infarction. *The distribution of genotypes was in Hardy-Weinberg equilibrium (by (cid:1)2 test) in all of the groups. †Allele frequencies were significantly different among the 3 groups ((cid:1)2, P(cid:2).001). After adjustment for smoking habits, family history of CVD, and the presence of type 2 dia- betes, obesity, hypertension, hypercholesterolemia, and hypertriglyceridemia, signifi- cant differences in frequencies of single nucleotide polymorphisms persisted be- tweenpatientswithAMIandoldestoldmen(P=.002),andbetweenyoungandoldest old controls (P(cid:2).001).
+
+AccesstoData:DrC.Carusohadfullaccesstoallofthedatainthestudyandtakes responsibility for the integrity of the data and the accuracy of the data analyses. Funding/Support: This study was supported by grants from the University of Pa- lermo(DrsCandore,Lio,Colonna-Romano,andC.Caruso)andfromtheUniversity ofBologna(DrFranceschi),aswellasfundsfromtheEU5FPT-CIAproject(DrFran- ceschi)andtheItalianMinistryofHealth(GeneticandNon-geneticFactorsofHealth in Elderly) (Drs Franceschi and Colonna-Romano). The collaboration between the “Gruppo di Studio sull’Immunosenescenza” coordinated by Dr C. Caruso and the Istituto Nazionale di Riposo e Cura per Anziani (INRCA), Ancona, was supported by an INRCA grant (Longevity and Elderly Disability Biological Markers). Role of the Sponsors: The organizations funding this study had no role in the de- sign and conduct of the study; the collection, interpretation, and analysis of the
+
+(P .001), with intermediate values in healthy young con- trols (TABLE). After adjustment for risk factors, significant differences in SNP frequency persisted between patients with AMI and oldest old men (P=.002) and between young con- Mae?P<. trols and oldest old controls (P .001).
+
+Role of the Sponsors: The organizations funding this study had no role in the de- sign and conduct of the study; the collection, interpretation, and analysis of the data; the preparation of the data; or the preparation, review, or approval of the
+
+Comment. Some studies have shown that individuals with the Asp299Gly TLR4 SNP have a lower risk of atheroscle- rosis and a decreased risk of acute coronary events inde- pendent of the standard coronary risk factors. However, dis- cordant results have been reported. The causes of the discrepancies are not clear, but the inclusion criteria, the study populations, and the measured end point differed sub- stantially among the studies.3,5 However, our results sup- port a role of the innate immune defense system and par- ticularly TLR4 in CVD. These results fit well with a recent study supporting a role of TLR4 in atherogenesis3 and with the largest epidemiologic evaluation so far,6 which showed lower levels of C-reactive protein with concomitant reduc- tion in risk of coronary artery disease in patients carrying the studied SNP.
+
+Disclaimer: Dr Balistreri is a PhD student in the pathobiology PhD curriculum (di- rected by Dr C. Caruso) of Palermo University and this work is in partial fulfill- ment of the requirement for the PhD.
+
+Lio D, Candore G, Crivello A, et al. Opposite effects of IL-
+
+common gene polymorphisms in cardiovascular diseases and in successful ageing: genetic back- ground of male centenarians is protective against coronary heart disease. J Med Genet.
+
+;
+
+:
+
+-
+
+Michelsen KS, Wong MH, Shah PK, et al. Lack of Toll-like receptor
+
+or my- eloid differentiation factor
+
+reduces atherosclerosis and alters plaque pheno- typeinmicedeficientinapolipoprotei
+
+Pro
+
+at
+
+ca
+
+c
+
+SA.
+
+;
+
+:
+
+-
+
+Edfeldt K, Bennet AM, Eriksson P, et al. Association of hypo-responsive toll- likereceptor
+
+variantswithriskofmyocardialinfarction.Eu
+
+ear
+
+;
+
+:
+
+-
+
+Franceschi C, Motta L, Valensin S, et al. Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenar- ians (IMUSCE). Aging (Milano).
+
+;
+
+:
+
+-
+
+Kiechl S, Lorenz E, Reindl M, et al. Toll-like receptor
+
+polymorphisms and atherogenesis. N Engl J Med.
+
+;
+
+:
+
+-
+
+Kolek MJ, Anderson JL, Muhlestein JB, et al. Toll-like receptor
+
+D
+
+G poly- morphism predicts lower risk of coronary artery diseases and diabetes [abstract]. Circulation.
+
+:
+
+S.
+
+Our comparison with the oldest old may help elucidate the role of genetics in age-associated diseases character- ized by a multifactorial etiology. Finally, TLR4 polymor- phisms, which attenuate receptor signaling, enhance the risk of infections5 but decrease that of atherogenesis, pre- sumably by limiting inflammatory responses. Hence, the mutation might result in an increased chance of longevity in a modern environment with reduced pathogen load and improved control of severe infections by antibiotics.1
+
+Financial Disclosure Omitted: In the Preliminary Communication entitled “Diag- nosisofIntra-amnioticInfectionbyProteomicProfilingandIdentificationofNovel Biomarkers” published in the July 28, 2004, issue of JAMA (2004;292:462-469), afinancialdisclosurewasomitted.OregonHealthandScienceUniversity(OHSU), DrsGravett,Rosenfeld,Reddy,Jacob,Roberts,andNagallaandMrTurnerallhave asignificantfinancialinterestinProteogenixInc,acompanythatmayhaveacom- mercial interest in the results of this research and technology. Among the 3 in- vestigators involved in statistical analysis of the study (Drs Gravett, Lapidus, and Hitti),thelatter2havenopotentialfinancialinterestintheresultsofthisresearch. This potential conflict of interest has been reviewed and a management plan ap- proved by the OHSU Conflict of Interest in Research Committee, and the Integ- rity Program Oversight Council has been implemented.
+
+Carmela Rita Balistreri, Sc
+
+Giuseppina Candore, P
+
+Giuseppina Colonna-Romano, Sc
+
+Domenico Lio, MD Immunosenescence Unit Department of Pathobiology and Biomedical Methodologies University of Palermo Palermo, Italy
+
+2340 JAMA, November 17, 2004—Vol 292, No. 19 (Reprinted)

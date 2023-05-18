@@ -1,0 +1,615 @@
+Gender-Specific Association Between FSHR and PPARG Common Variants and Human Longevity
+
+Rosa Maria Corbo,1,3 Alessandro Pinto,2 and Renato Scacchi3
+
+Abstract
+
+Men and women have different life expectancies. Not unexpectedly, several genes involved in life span deter- mination have been found to influence the probability of achieving longevity differently in men and women. This investigation examines the association between longevity and polymorphisms of follicle-stimulating hor- mone receptor (FSHR, Asn680Ser polymorphism) and peroxisome proliferator-activated receptor gamma (PPARG, Pro12Ala polymorphism), two genes that previous investigations suggested may exert a gender- specific influence on human longevity. A sample of 277 individuals (mean age, 82.9 – 5.7years) was recruited in 2000. On the basis of mortality data collected in 2009, the sample was divided into two groups of subjects surviving over 90 years (long-lived) or not (controls). The frequency of the FSHR 680 Ser/Ser genotype was significantly higher in the sample of long-lived women compared to controls, indicating that the FSHR 680 Ser/ Ser genotype may favor survival to more than 90 years of age only in women (odds ratio [OR] = 4.21; 95% confidence interval [CI], 1.10–16.10, p = 0.036). In contrast, the frequency of the PPARG Pro/Ala genotype was significantly higher in the sample of male subjects who died before 90 years of age than in the long-lived, suggesting that carrying the PPARG Pro/Ala genotype may prevent the attainment of advanced age only in men (OR = 0.13; 95% CI, 0.02–0.79; p = 0.03). We then searched the literature for studies reporting a differential role for the genetic component in male and female longevity. To do this, we selected longevity genes with a gender- specific effect. A review of the studies showed that genetic factors tend to have a greater relevance in deter- mining longevity in men than in women. The possible impact of this phenomenon is discussed.
+
+Introduction
+
+disease.2–4 Not unexpectedly, among the various genetic factors involved in life span determination, some have been found to have a gender-specific effect, influencing the probability of achieving longevity differently between men and women.5–7
+
+life expectancies. This widespread phenomenon can be traced back across populations at least to the 18th century.1 Epidemiological data indicate that the higher mortality of men for all leading causes of death, including accidents and such diseases as cancer or heart disease, influenza, and pneumonia, could account for this gender gap in aging.1
+
+In the present study, we investigated the possible associ- ation between longevity and follicle-stimulating hormone receptor (FSHR) and peroxisome proliferator-activated re- ceptor gamma (PPARG), two genes that could have a gen- der-specific influence on human longevity. The FSHR gene (OMIM 136435), located on chromosome 2p21, encodes the receptor of the follicle-stimulating hormone (FSH), a go- nadotropin essential for normal reproductive function in males and females.8 It is a member of the hypothalamic– pituitary–gonadal axis that regulates the production of sex steroids, including estrogen. Its action is mediated by the FSH receptor, a member of the family of G protein–coupled receptors, located on the surface of Sertoli cells in the testis and the granulosa cells in the ovary.8
+
+Much research has gone into attempts to clarify to what extent human aging and longevity are dependent on genetic factors. Numerous studies using animal models (Cae- norhabditis elegans, Drosophila melanogaster) have helped to identify longevity genes in the strict sense, i.e., those be- longing to pathways that delay the onset and/or reduce the rate of aging (e.g., stress resistance and oxidative damage or inflammation or DNA repair).2–4 Studies on human longev- ity have suggested that some polymorphic genes may in- fluence life span through their association with common
+
+1Department of Biology and Biotechnology, La Sapienza University, Rome, Italy. 2Experimental Medicine Department, Food Science and Human Nutrition Research Unit, La Sapienza University, Rome, Italy. 3CNR Institute of Molecular Biology and Pathology, Rome, Italy.
+
+had since died) and those aged 90 years or older in 2009. The control sample was made up of individuals who had died between 2000 and 2009 before reaching age 90 years.
+
+Two FSHR non-synonymous single-nucleotide polymor- phisms (SNPs) (rs 6165 and rs 6166) are widely distributed in human populations (ALFRED, http://alfred.med.yale.edu/ alfred/index.asp/) and have usually been found in strong linkage disequilibrium.8 In a previous study investigating the possible determinants of the higher prevalence of late- onset sporadic Alzheimer disease (AD) in women, we found that a FSHR genotype was associated with a significantly lower risk of AD only in women, suggesting a gender- specific protective role of the FSHR genotype against AD susceptibility.9
+
+The protocol for the collection of biological material for the scientific studies was approved by the institutional com- mittees (Local Health Unit, Salerno 3). The study was ap- proved by the Department Board (12/06/2009 session) of the former Department of Genetics and Molecular Biology of La Sapienza University, Rome. Written informed consent was obtained from all subjects.
+
+Venous blood was drawn in ethylenediaminetetraacetic acid (EDTA) from all subjects. Genomic DNA was extracted from whole blood according to the procedure described by Miller et al.17 The two FSHR SNPs were genotyped accord- ing to the techniques reported by Sudo et al.18 The PPARG Pro12Ala polymorphism was investigated by PCR using the primers reported by Mori et al.19 The PCR product was di- gested overnight by HhaI, examined on an agarose gel, and detected using ethidium bromide.
+
+Human peroxisome proliferator-activated receptor-c (PPAR-c), the most extensively studied isoform of the nuclear receptor superfamily (PPAR-a, PPAR-d, and PPAR-c), has a key role in regulating lipid and glucose homeostasis, adipo- cyte differentiation, and fatty acid storage. The PPAR-c gene (PPARG, OMIM 601487), located on chromosome 3p25, con- tains 9 exons. Two protein isoforms are produced by alter- native mRNA splicing. PPARG2 is encoded by exons 1–6 and exon B.10 A polymorphic site in exon B, Pro12Ala (rs1801282), has been widely investigated in relation to various disorders, including type 2 diabetes, insulin sensitivity, obesity, cardio- vascular disease, cancer, and AD.10–13 There is wide agree- ment on a protective role of the PPARG 12Ala allele against type 2 diabetes.12 PPARG has been also suggested to be a longevity determinant in the mouse,14 and a male gender- specific association of the Pro/Ala heterozygous genotype with longevity has been previously observed.15
+
+Allelic frequencies were determined by the gene-counting method. Agreement between the observed genotype distri- butions and those expected according to Hardy–Weinberg equilibrium was verified by an exact test. Linkage disequi- librium (D) between the two FSHR SNPs and haplotype fre- quencies were estimated by the maximum likelihood method using the EH program (http://linkage.rockefeller.edu/ott/ eh.htm/).20 The differences in allele and genotype frequencies between long-lived subjects and non-survivor controls were analyzed by a chi-squared test. The probability of surviving to age over 90 years ( ‡90 years) or not associated with the FSHR and PPARG genotypes was estimated by the odds ratios (ORs) adjusted for other variables calculated by logistic re- gression. Statistical analyses were performed using Statistix 8.0 Analytical Software.
+
+The aim of this study was to verify a possible association between longevity and both FSHR and PPARG. We were interested to see whether the protective action FSHR exerted against AD in women, a disease of advanced age, could extend to survival, predisposing to longevity. We also wanted to examine PPARG, which is involved in suscepti- bility to numerous degenerative diseases of advanced age, AD included, for its effect on a longevity association ob- served only in men. The association between FSHR and PPARG polymorphisms and longevity, defined as survival to age 90 years and older, was investigated by means of a follow-up study.
+
+Results
+
+In a previous study on FSHR,9 we observed an almost complete linkage disequilibrium between the polymor- phisms at codon 307 (alleles Thr and Ala) and at codon 680 (alleles Asn and Ser). In the present study, after having ascertained in a subsample (n =96) that the two FSHR polymorphisms were in total linkage disequilibrium (FSHR 307-680 haplotype frequencies: ThrAsn =0.521, AlaAsn =0, ThrSer = 0.005, AlaSer = 0.474; D= 100% of Dmax, p < 0.0001), we typed the total sample only for polymorphism FSHR Asn680Ser. In the total sample, the observed FSHR 680 ge- notype frequencies agreed with those expected according to Hardy–Weinberg equilibrium ( p= 0.94) and the FSHR 680 Asn allele frequency was 0.531 –0.022.
+
+Materials and Methods
+
+The sample was recruited in 2000 for the multidisciplinary LONCILE (Longevity of Cilento) study on the anthropolog- ical and biological characteristics of the elderly population of the Cilento area in the district of Salerno, southern Italy.16 It consisted of 277 unrelated individuals (43.7% males) born between 1900 and 1930 (mean age, 82.9–5.7 years– standard deviation [SD]), enrolled without selection criteria, except age (> 70 years) and birthplace. Mortality data on 267 sub- jects were collected in 2009. In 2000, 14.5% were aged 90 years old or older. During the 9-year follow-up period, the mortality rate was 62.5% (51.5 % men); 55.1% of the subjects died before reaching age of 90 years. As the mean life ex- pectancy in this Italian geographic area in the year 2000 for subjects 83 years old is 7 years for women and 6 years for men (ISTAT, http://demo.istat.it/unitav/index.html/), we defined as long-lived those subjects who survived to over age 90 years ( ‡ 90 years). The sample of the long-lived (n =114) comprised subjects aged 90 years or older in 2000 (regardless of whether the participants were still living or
+
+Table 1 reports the distribution of the FSHR 680 genotypes in the long-lived and the controls of both sexes. A marginally significant increase ( p= 0.07) in FSHR 680 Ser/Ser genotype frequency (0.25) was observed in the long-lived women as compared to the control women (0.08). The crude OR for the probability of surviving to age 90 years (‡ 90 years) or not associated with the FSHR 680 Ser/Ser genotype, calculated only for the women, was 3.75 (95% CI 1.003–14.03, p= 0.039), suggesting that carrying the FSHR 680 Ser/Ser genotype favors the survival of women to 90 years and older. In contrast, no difference in the FSHR 680 genotype frequencies was observed between the long-lived and the control males.
+
+Table Estimates of the Effects of
+
+PPARG Pro la Genotypes on the Probability
+
+A of Surviving to Age over Years in Men
+
+Table and Pro la Genotype 1. FSHR 680 PPARG 12A Distribution in Long-Lived Subjects and Controls
+
+Males Females Long-lived Controls Long-lived Controls FSHR 680 No. (%) No. (%) No. (%) No. (%) genotypes Asn/Asn 8 (22) 8 (19) 22 (37) 13 (36) Asn/Ser 20 (54) 24 (59) 22 (37) 20 (56) Ser/Ser 9 (24) 9 (22) 15 (25) 3 (8) p 0.92 0.07 PPARG genotypes Pro/Pro 45 (92) 41 (79) 57 (88) 37 (93) Pro/Ala 3 (6) 11 (22) 7 (11) 3 (8) Ala/Ala 0 0 1 (2) 0 p 0.03 0.62
+
+Variable OR 95% CI p value PPARG Pro/Ala genotype 0.13 0.02–0.79 0.03 ESR1 PP genotype 4.78 0.99–23.7 0.05 CYP19 T carrying genotypes 1.67 0.56–4.96 0.35 Fertility level 1.55 0.50–4.79 0.44
+
+OR, Odds ratio; CI, confidence interval.
+
+in the long-lived men as compared to the control men (0.22). The crude OR for the probability of surviving to age 90 years or older or not associated with the PPARG Pro/Ala genotype, calculated only for the men, was 0.248 (95% CI 0.065–0.954), indicating that carrying the PPARG Pro/Ala genotype could limit survival to 90 years or older in men. Conversely, no difference in PPARG Pro12Ala genotype frequencies was observed between the long-lived and the control women.
+
+Logistic regression analysis was then applied to the female sample to correctly evaluate the effect of the FSHR 680 Ser/ Ser genotype on longevity after adjusting for other covari- ates. In the analysis, the dependent variable was having survived to age over 90 years or not. Together with the FSHR 680 Ser/Ser genotype, the other explanatory variables were the estrogen receptor-a (ESR1) and aromatase (CYP19) ge- notypes that, in a previous study on the same sample, were observed to promote longevity in both men and women.21
+
+Logistic regression analysis was then applied to the male sample to better evaluate the effect of PPARG genotypes on longevity after entering as further co-variates the CYP19 and ESR1 genotypes, as well as an index of the fertility level (number of children > 3 [population median value]) or not. The fertility level was included in the model because we observed in a previous study involving the same sample an association between the PPARG Ala allele and a significantly higher number of children only for the men.23 The analysis (Table 3) confirmed that carrying the PPARG Ala allele may preclude survival to more than 90 years of age (PPARG Pro/Ala genotype adjusted OR= 0.13), and that this associ- ation is independent of the other co-variates entered into the model. The influence of ESR1 on survival was present, al- though only marginally significant, while CYP19 genotypes and fertility level did not appear to have an effect on sur- vival. No significant interaction was observed between the PPARG Pro/Ala genotype and fertility level.
+
+FSHR is known to play a crucial role in fertility. In a previous study22 on the women of the present sample (not selected for fertility disorders), however, we observed that the FSHR Asn680Ser genotypes were not associated with a differential fertility (mean number of children/FSHR geno- types analysis of variance [ANOVA] p= 0.30); therefore, no index of fertility level was included in the logistic analysis. The analysis (Table 2) indicates that the FSHR 680 Ser/Ser genotype is significantly associated with surviving to more than 90 years of age (FSHR 680 Ser/Ser: adjusted OR= 4.21). Accordingly, together with the ESR1 polymorphism, the FSHR 680 polymorphism may be assumed to be an inde- pendent determinant of longevity. The influence of the CYP19 genotypes on survival to older ages was not apparent in the present analysis.
+
+Published data on longevity genes with a gender-specific action were then collected (Table 4), and the studies were reviewed. For gene variants. the nomenclature used by the authors was reported and the dbSNP ID number was added for completeness in some cases.
+
+In the total sample, the distribution of the observed PPARG genotype frequencies agreed with those expected according to Hardy–Weinberg equilibrium (p =0.93), and the PPARG Pro allele frequency was 0.942 –0.01. Table 1 also reports the distribution of PPARG Pro12Ala genotypes in the long-lived and the controls. A significant decrease (p= 0.03) in PPARG Pro/Ala genotype frequency (0.06) was observed
+
+Discussion
+
+In the present study, we searched for a possible asso- ciation between FSHR and PPARG polymorphisms and longevity by means of a follow-up study. The study design chosen for the present investigation aimed to avoid the ‘‘cohort effect’’ observed in association studies on human longevity where the control sample is often composed of younger subjects belonging to birth cohorts too distant from those of the long-lived and having thus experienced different social and environmental influences.24,25 Further- more, while ‘‘younger’’ control life span is unknown, the present control group was certainly composed of non-long- lived subjects. Our findings seem to indicate that the FSHR and PPARG genes are both involved in determining lon- gevity in a gender-specific way, albeit with an opposite sign.
+
+Variable OR 95% CI p value FSHR680 Ser/Ser genotype 4.21 1.10–16.1 0.036 ESR1 PP genotype 3.48 1.11–10.9 0.033 CYP19 T carrying genotypes 1.23 0.48–3.14 0.67
+
+OR, Odds ratio; CI, confidence interval.
+
+Table Genes with a Potential Gender-Specific Influence on Life Span Determination 4.
+
+Gene Protein function Variant(s) Gender association Ref. ADA Regulation of immune system ADA*1/2 (rs73598374) Males 44,45 ADIPOQ Regulation of energy homeostasis and glucose/ rs7799039 Males 46 lipid metabolism APOA4 Major component of high-density lipoprotein 1033 A/G (rs5104) Males 6 and chylomicrons EXO1 Genomic stability, DNA repair rs1776180 Females 47 FOXO1A Cell cycle regulation, angiogenesis rs2755209, rs2755213 Females 48 FSHR Male and female gonadal function Asn680Ser (rs6166) Females Pres. inv. GH-1 Growth and metabolism rs2665802 Females 49 HFE Regulation of iron absorption in the intestine C282Y (rs1800562) Females 7 HLA Immune system HLA-DR5, Females 7 HLA-B8,DR3 Males 7 HSP70-1 Stress response and immune system functions -110A/C (rs1008438) Females 35–37 HSP70-2 Stress response and immune system functions 1267A/G (rs1061581) Females 37 IFN-G Immune-mediated inflammation response + 874T/A (rs2430561) Females 50 IGF-1R Somatic growth, cell cycle progression, and 3174G/A (rs2229765) Males 51 transformation IL6 Immunoregulatory cytokine -174G/C (rs1800795) Males 38 IL10 Anti-inflammatory cytokine -1082G/A (rs1800896) Males 39,40 LEP Body weight regulation, angiogenesis, immune rs1501299 Males 46 response mtDNA Energy metabolism, oxidative stress J haplogroup Males 52 PPARG Lipid/glucose homeostasis, adipocyte differen- Pro12Ala (rs1801282) Males 15, pres. inv. tiation, inflammation response RANTES Inflammation response rs2107538, rs22807889 Males/females 53 SIRT3 Regulation of energy homeostasis and oxidative VNTR intron 5 Males 54 stress TH Physiology of adrenergic neurons STR intron 1 (TCAT)n Males 55 TNFA Pro-inflammatory cytokine -308A/G (rs1800629) Males 56
+
+subfertility status, as confirmed by some clinical investiga- tions for the Ser/Ser genotype.8,27
+
+Of the two FSHR polymorphisms examined at first and found to be in complete linkage disequilibrium (Thr307Ala and Asn680Ser), only the FSHR Asn680Ser polymorphism, which is the more extensively studied,8 was examined in the total sample. A significant excess of the FSHR 680 Ser/Ser genotype was found in the sample of long-lived women compared to controls, suggesting that the FSHR 680 Ser/Ser genotype may favor survival to more than 90 years of age only in women. From previous observations that the FSHR 680 Ser/Ser genotype seems to have a protective role against AD onset in women,9 it could be speculated that the pre- disposition to longevity associated with the FSHR 680 Ser/ Ser genotype could depend on a protective effect conferred by this genotype against the occurrence of AD, a degenera- tive disease of older age and with a higher prevalence in women.
+
+The finding that the FSHR genotype possibly associated with lower fertility may confer a predisposition to longer life span would be in line with the longevity–fertility trade-off hypothesis. This hypothesis postulates that an antagonistic relationship exists between the two functions because they compete for the same resources.28,29 Hence, increased fertility could come at the expense of a longer life span and vice versa. Despite certain discrepancies,30 the longevity–fertility trade-off mechanism seems to work in humans as well.31,32 The FSHR gene could be part of that set of pleiotropic genes that, in different ways, exert their function across different ages of life in response to different contexts, including dif-
+
+The PPARG Pro/Ala genotype showed a significantly higher frequency in the sample of male subjects who died before 90 years than in the long-lived, suggesting that car- rying the PPARG Pro/Ala genotype may prevent the at- tainment of advanced age, but only in men. This PPARG effect on longevity appears to be independent of the opposite action of the ESR1 PP genotype and fertility level. Here it should be added that the increased reproductive efficiency associated with the PPARG Pro/Ala genotype previously observed in this sample23 did not seem to influence longev- ity, a not unexpected finding because the trade-off phe- nomenon usually concerns only women.30
+
+Taking into account other data showing that the FSHR 680 Ser/Ser genotype confers a lower risk of osteoporosis in postmenopausal women compared to the FSHR 680 Asn/ Asn genotype,26 the more general hypothesis could be ad- vanced that the FSHR Ser/Ser genotype favors survival to older age in women because it appears to predispose to healthy aging. We were unable to find any effect of the FSHR genotype on reproductive efficiency in the present sample of women.22 However, to provide a more complete picture, it should be added that in most studies the FSHR 680 Ser/Ser homozygotes are reported to be associated with significantly higher serum FSH levels.8,18 This property could result in a mild resistance of FSH which, in turn, may lead to a
+
+The negative relationship observed between the PPARG Pro/Ala genotype and longevity is in line with the results of
+
+an epidemiological study that reported that the Ala allele may be a risk factor for AD in octogenarian subjects (male and female subjects).13 Moreover, several studies have re- vealed that PPAR-c, together with PPAR-a, inhibits the ex- pression of inflammatory genes such as cytokines, matrix metalloproteinases (MMPs), and acute-phase proteins.33 And because inflammation is believed to have a major role in aging and aging-related diseases, the anti-inflammatory ac- tion of PPARG could have a beneficial effect on aging pro- cesses. In this context, it could be conjectured that the PPARG Ala allele, which was found to be less active,34 may confer on Pro/Ala heterozygotes a weaker inflammatory inhibitory action, with a lower beneficial effect on aging and longevity compared to Pro/Pro genotypes.
+
+the attainment of longevity (hemochromatosis, HFE). A possible inference is that environmental factors may be more important in determining the life span of women rather than that of men. This difference should be taken into account when making projections on life span length,43 because changing environmental factors such as diet, lifestyle be- haviors, drugs, and advances in medical science may affect female and male longevity differently. For example, one environmental factor that could specifically influence female longevity in the next decades is modern reproductive be- havior (e.g., birth control, family planning, delayed child- bearing, and spacing birth order), associated with a reduced fertility rate (http://ec.europa.eu/employment_social/social_ situation/docSer/Serec_2007_638_en.pdf/). According to the hypothesis of a trade-off between fertility and longevity, the reduced investment of somatic resources in reproduction might indeed favor a longer life span in women.
+
+In a previous study, the PPARG Pro/Ala genotype was reported to be positively associated with longevity but, again, only in men.15 The opposite action of the PPARG Pro/ Ala genotypes observed in the present study might depend on the different age composition of both the long-lived and the control samples. As observed for other longevity genes,6 the PPARG action could be age-dependent, possibly because of its involvement in susceptibility for age-related diseases such as AD or diabetes, which may have an age-specific prevalence. Conversely, we found that the male gender- specific association of PPARG polymorphism seems to sup- port previous observations.15
+
+In conclusion, the data presented here are in line with the growing body of evidence for the need to take into account the impact of gender on human physiology and pathology. Extending this concept to aging could help us to better un- derstand its gender-related mechanisms and to plan inter- ventions for healthy longevity in men and women alike.
+
+Acknowledgments
+
+The whole data set would indicate that the PPARG gene plays a peculiar role in male longevity and that its action may be age-dependent. Finally, while an overall analysis including FSHR and PPARG together with other relevant variables would undoubtedly have been appropriate, as the complex phenotype longevity is the result of gene–gene/ gene–environment interactions, the size of the study sample was too small to perform an analysis of this magnitude.
+
+This work study was supported by La Sapienza University, Progetti AST 2009, Progetti Universita` 2010 (to R.M.C.). We thank K.A. Britsch for reviewing the manuscript. We are grateful to the anonymous reviewers for their helpful comments.
+
+Author Disclosure Statement
+
+No competing financial interests exist.
+
+Trying to unravel the differential role of the genetic com- ponent in male and female longevity, we collected published data on longevity genes with a gender-specific action (Table 4). Among the associations reported, those of HSP70,35–37 HLA-B8,DR3 ,7 IL-6 ,38 IL-10, 39,40 and PPARG15 have been replicated in independent samples. A greater number of as- sociations are related to male gender. This trend is in line with the emerging picture showing that the genetic background seems to play a more prominent role in longevity attainment in males than in females.6 Looking at the function of male longevity genes, it is evident that the vast majority are part of key processes in life span determination, including immune system regulation, inflammation response, and oxidative damage control. Notably, another large group of genes that seems to regulate male life span comprises those regulating lipid and glucose metabolism, somatic growth, and body weight, all of which are involved in metabolic processes that can be affected by caloric restriction, another basic mechanism modulating the aging process.41,42 PPARG, involved in in- flammation processes as well as lipid and glucose metabolism, would fit well within this emerging framework.
+
+References
+
+Austad SN. Why women live longer than men: Sex differ- ences in longevity. Gend Med
+
+;
+
+:
+
+–
+
+Browner WS, Kahn AJ, Ziv E, Reiner AP, Oshima J, Cawthon RM, Hsueh WC, Cummings SR. The genetics of human longevity. Am J Med
+
+;
+
+:
+
+–
+
+Capri M, Salvioli S, Sevini F, Valensin S, Celani L, Monti D, Pawelec G, De Benedictis G, Gonos ES, Franceschi C. The genetics of human longevity. Ann NY Acad Sci.
+
+;
+
+:
+
+–
+
+Christensen K, Johnson TE, Vaupel JW. The quest for genetic determinants of human longevity: Challenges and insights. Nat Rev Genet
+
+;
+
+:
+
+–
+
+Franceschi C, Motta L, Valensin S, Rapisarda R, Frantone A, Berardelli M, Motta M, Monti D, Bonafe M, Ferrucci L, Deiana L, Pes GM, Carru C, Desole MS, Barbi C, Sartoni G, Gemelli C, Lescai F, Olivieri F, Marchigiani F, Cardelli M,Cavallone L, Gueresi P, Cossarizza A, Troiano L, Pini G, Sansoni P, Passeri G, Lisa R, Spazzafumo L, Amadio L, Giunta S, Stecconi R, Morresi R, Viticchi C, Mattace R, De- Benedictis G, Baggi
+
+Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE). Aging
+
+;
+
+:
+
+–
+
+Passarino G, Montesanto A, Dato S, Giordano S, Domma F, Mari V, Feraco E, De Benedictis G. Sex and age specificity of susceptibility genes modulating survival at old age. Hum Hered
+
+;
+
+:
+
+–
+
+By comparison, genes associated with female longevity are not only fewer but tend to be more heterogeneous in function as well: some are involved in the basic pathways of aging, such as immune function and inflammation, others possibly involved in fertility or susceptibility to postmeno- pausal diseases (FSHR), and still others that preserve a healthy status during the reproductive years, thus favoring
+
+Corbo RM, Ulizzi L, Piombo L, Scacchi R. Study on a sible effect of four longevity candidate genes (ACE, PPAR-c, and APOE) on human fertility.
+
+;
+
+:
+
+–
+
+Capri M, Salvioli S, Monti D, Caruso C, Candore G, Vasto Olivieri F, Marchegiani F, Sansoni P, Baggio G, Mari Passarino G, De Benedictis G, Franceschi C. Human gevity within an evolutionary perspective: the paradigm of a post-reproductive genetics. Exp
+
+;
+
+:
+
+–
+
+De Rango F, Dato S, Bellizzi D, Rose G, Marzi E, L, Franceschi C, Skytthe A, Jeune B, Cournil A, Robine Gampe J, Vaupel JW, Mari V, Feraco E, Passarino G, velletto A, De Benedictis G. A novel sampling design explore gene-longevity associations: the ECHA study. Eur Hum Genet.
+
+;
+
+:
+
+–
+
+Rendina D, Gianfrancesco F, De Filippo G, Merlotti Esposito T, Mingione A, Nuti R, Strazzullo P, Mossetti Gennari L. FSHR gene polymorphisms influence bone eral density and bone turnover in postmenopausal Eur J Endocrinol
+
+;
+
+:
+
+–
+
+Lussiana C, Guani B, Mari C, Restagno G, Massobrio Revelli A. Mutations and polymorphisms of the FSH ceptor (FSHR) gene: Clinical implications in female dity and molecular biology of FSHR protein and Obstet Gynecol Surv
+
+;
+
+:
+
+–
+
+Penn DJ, Smith KR. Differential fitness costs of between the sexes. Proc Natl Acad Sci USA
+
+Gagnon A, Smith KR, Tremblay M, Ve´zina H, Pare´ Desjardins B. Is there a trade-off between fertility and gevity? A comparative study of women from three historical databases accounting for mortality selection. Am Hum Biol
+
+;
+
+:
+
+–
+
+Le Bourg E. Does reproduction decrease longevity in beings? Ageing Res Rev
+
+;
+
+:
+
+–
+
+Westendorp RG, Kirkwood TB. Human longevity at the of reproductive success. Nature
+
+;
+
+:
+
+–
+
+Korpelainen H. Fitness, reproduction and longevity European aristocratic and rural Finnish families in
+
+s and
+
+s. Proc R Soc Lond B Biol Sci
+
+Chung JH, Seo AY, Chung SW, Kim MK, Leeuwenburgh Yu BP, Chung HY. Molecular mechanism of PPAR in regulation of age-related inflammation. Ageing Res
+
+;
+
+:
+
+–
+
+Deeb SS, Fajas L, Nemoto M, Pihlajamaki J, Mykkanen Kuusisto J, Laakso M, Fujimoto W, Auwerx J.
+
+Pro
+
+Ala substitution in PPARGamma
+
+associated with creased receptor activity, lower body mass index and proved insulin sensitivity. Nat Genet
+
+;
+
+:
+
+–
+
+Altomare K, Greco V, Bellizzi D, Berardelli M, Dato S, Rango F, Garasto S, Rose G, Feraco E, Mari V, Passarino Franceschi C and De Benedictis G. The allele (A)(-
+
+)in promoter region of the HSP
+
+-
+
+gene is unfavorable longevity in women. Biogerontology
+
+;
+
+:
+
+–
+
+Singh R, Kølvraa S, Bross P, Christensen K, Gregersen Tan Q, Jensen UB, Eiberg H, Rattan SI. Heat-shock
+
+genes and human longevity: A view from Denmark. NY Acad Sci
+
+;
+
+:
+
+–
+
+Singh R, Kølvraa S, Bross P, Christensen K, Bathum Gregersen N, Tan Q, Rattan SI. Anti-inflammatory shock protein
+
+genes are positively associated with survival. Curr Pharm Des
+
+;
+
+:
+
+–
+
+Sci.
+
+;
+
+:
+
+–
+
+Simoni M, Nieschlag E, Gromoll J. Isoforms and single cleotide polymorphisms of the FSH receptor gene: tions for human reproduction. Hum Reprod
+
+;
+
+:
+
+–
+
+Corbo RM, Gambina G, Broggio E, Scacchi R. Influence variation in the follicle-stimulating hormone receptor (FSHR) and age at menopause on the development of heimer’s disease in women. Dement Geriatr Cogn
+
+;
+
+:
+
+–
+
+Meirhaeghe A, Amouyel P. Impact of genetic variation PPARGamma in humans. Mol Genet Metab
+
+Altshuler D, Hirschhorn JN, Klannemark M, Lindgren Vohl MC, Nemesh J, et al. The common Pro
+
+Ala polymorphism is associated with decreased risk type
+
+diabetes. Nat Genet
+
+;
+
+:
+
+–
+
+Gouda HN, Sagoo GS, Harding AH, Yates J, Sandhu Higgins JP. The association between the peroxisome liferator-activated receptor-gamma
+
+(PPARG
+
+) gene variant and type
+
+diabetes mellitus: A H
+
+E and meta-analysis. Am J Epidemiol
+
+;
+
+:
+
+–
+
+Scacchi R, Pinto A, Gambina G, Rosano A, Corbo RM. peroxisome proliferator-activated receptor gamma Pro
+
+Ala polymorphism is associated with higher risk Alzheimer’s disease in octogenarians. Brain Res
+
+Argmann C, Dobrin R, Heikkinen S, Auburtin A, Pouilly Cock TA, Koutnikova H, Zhu J, Schadt EE, Auwerx PPARGamma
+
+is a key driver of longevity in the PL
+
+Genet
+
+;
+
+:e
+
+Barbieri M, Bonafe` M, Rizzo MR, Ragno E, Olivieri Marchegiani F, Franceschi C, Paolisso G. Gender association of genetic variation in peroxisome activated receptor (PPAR)gamma-
+
+with longevity. Gerontol
+
+;
+
+:
+
+–
+
+Cresta M, Gregorio G. Il disegno dello studio LONCILE. Antrop.
+
+;
+
+:
+
+–
+
+Miller SA, Dykes DD, Polesky HF. A simple salting procedure for extracting DNA from human nucleated Nucleic Acids Res
+
+;
+
+:
+
+Sudo S, Kudo M, Wada S, Sato O, Hsueh AJ, Fujimoto Genetic and functional analyses of polymorphisms in human FSH receptor gene. Mol Hum Reprod
+
+Mori H, Ikegami H, Kawaguchi Y, Seino S, Yokoi N, J, Inoue I, Seino Y, Yasuda K, Hanafusa T, Yamagata Awata T, Kadowaki T, Hara K, Yamada N, Gotoda Iwasaki N, Iwamoto Y, Sanke T, Nanjo K, Oka Y, A, Maeda E, Kasuga M. The Pro
+
+/Ala substitution PPARGamma is associated with resistance to development diabetes in the general population: Possible involvement impairment of insulin secretion in individuals with type diabetes. Diabetes
+
+;
+
+:
+
+–
+
+Terwilliger J, Ott J. Handbook for Human Genetic Johns Hopkins University Press, Baltimore,
+
+Corbo RM, Ulizzi L, Positano L, Scacchi R. Association CYP
+
+and ESR
+
+pleiotropic genes with human longevity. Gerontol A Biol Sci Med Sci
+
+;
+
+:
+
+–
+
+Corbo RM, Gambina G, Scacchi R. How contemporary man reproductive behaviors influence the role of related genes: The example of the p
+
+gene. PL
+
+;
+
+:e
+
+the first intron of interferon-gamma gene in a group Italian centenarians. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Albani D, Batelli S, Polito L, Vittori A, Pesaresi M, Gajo De Angeli S,Zanardo A, Gallucci M, Forloni G. A morphic variant of the insulin-like growth factor
+
+receptor correlates with male longevity in the Italian lation: a genetic study and evaluation of circulating from the "Treviso Longeva (TRELONG)" study. BMC iatr
+
+;
+
+;
+
+:
+
+De Benedictis G, Rose G, Carrieri G, De Luca M, Falcone Passarino G, Bonafe M, Monti D, Baggio G, Bertolini S, D, Mattace R, Franceschi C. Mitochondrial DNA variants are associated with successful aging and in humans. FASEB J
+
+;
+
+:
+
+–
+
+Laplana M, Fibla J. Distribution of functional variants of inflammation-related genes RANTES and in long-lived individuals. Cytokine.
+
+;
+
+:
+
+–
+
+Bellizzi D, Rose G, Cavalcante P, Covello G, Dato S, Rango F, Greco V, Maggiolini M, Feraco E, Mari V, ceschi C, Passarino G, De Benedictis G. A novel VNTR hancer within the SIRT
+
+gene, a human homologue of is associated with survival at oldest ages.
+
+;
+
+:
+
+–
+
+De Benedictis G, Carotenuto L, Carrieri G De Luca M, cone E, Rose G, Cavalcanti S, Corsonello F, Feraco E, G, Bertolini S, Mari D, Mattace R, Yashin AI, Bonafe` Franceschi C. Gene/longevity association studies at autosomal loci (REN, THO, PARP, SOD
+
+). Eur J Hum
+
+;
+
+:
+
+–
+
+Cardelli M, Cavallone L, Marchegiani F, Oliveri F, Dato Montesanto A, Lescai F, Lisa R, De Benedictis G, C. A genetic-demographic approach reveals association between survival and tumor necrosis (A/G)-
+
+polymorphism. J. Gerontol. A Biol Sci Med
+
+;
+
+:
+
+–
+
+Di Bona D, Vasto S, Capurso C, Christiansen L, Deiana L, Franceschi C, Hurme M, Mocchegiani E, Rea M, Lio D, Candore G, Caruso C. Effect of interleukin-
+
+polymorphisms on human longevity: A systematic review and meta- analysis. Ageing Res Rev
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, Colonna-Romano G, Candore G, Bonafe` M, Cavallone L, Franceschi C, Caruso C. Gender- specific association between -
+
+IL-
+
+promoter poly- morphism and longevity. Genes Immun
+
+;
+
+:
+
+–
+
+Khabour OF, Barnawi JM. Association of longevity with IL-
+
+-
+
+G/A and TNF-alpha -
+
+G/A polymorphisms. Int J Immunogenet.
+
+;
+
+:
+
+–
+
+Bordone L, Guarente L. Calorie restriction, SIRT
+
+and me- tabolism: Understanding longevity. Nat Rev Mol Cell Biol
+
+;
+
+:
+
+–
+
+Abete I, Navas-Carretero S, Marti A, Martinez JA. Nutrigenetics and nutrigenomics of caloric restriction. Prog Mol Biol Transl Sci.
+
+;
+
+:
+
+–
+
+Kinsella KG. Future longevity-demographic concerns and consequences. J Am Geriatr Soc.
+
+;
+
+(
+
+Suppl):S
+
+–S
+
+Napolioni V, Lucarini N. Gender-specific association of ADA genetic polymorphism with human longevity. Biogerontol- ogy
+
+;
+
+:
+
+–
+
+Napolioni V, Carpi FM, Giann`ı P, Sacco R, Di Blasio L, Mignini F, Lucarini N, Persico AM. Age- and gender-specific epistasis between ADA and TNF-a influences human life- expectancy. Cytokine
+
+;
+
+:
+
+–
+
+Khabour OF, Mesmar FS, Alatoum MA, Gharaibeh MY, Alzoubi KH. Associations of polymorphisms in adiponectin and leptin genes with men’s longevity. Aging Male
+
+;
+
+:
+
+–
+
+Nebel A, Flachsbart F, Till A, Caliebe A, Blanche´ H, Arlt A, Ha¨sler R, Jacobs G, Kleindorp R, Franke A, Shen B, Nikolaus S, Krawczak M, Rosenstiel P, Schreiber S. A functional EXO
+
+promoter variant is associated with prolonged life expec- tancy in centenarians. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+Li Y, Wang WJ, Cao H, Lu J, Wu C, Hu FY, Guo J, Zhao L, Yang F, Zhang YX, Li W, Zheng GY, Cui H, Chen X, Zhu Z, He H, Dong B, Mo X, Zeng Y, Tian XL. Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chi- nese populations.Hum Mol Genet
+
+;
+
+:
+
+–
+
+van Heemst D, Beekman M, Mooijaart SP, Heijmans BT, Brandt BW, Zwaan BJ, Slagboom PE, Westendorp RG. Re- duced insulin/IGF-
+
+signalling and human longevity. Aging Cell
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, Bonafe` M, Franceschi C, Olivieri F, Colonna-Romano G, Candore G, Caruso C. Allele fre- quencies of +
+
+T/A single nucleotide polymorphism at
+
+Rosa Maria Corbo La Sapienza University Department of Biology and Biotechnology Piazzale A. Moro
+
+Rome
+
+E-mail: rosamaria.corbo@uniroma1.it

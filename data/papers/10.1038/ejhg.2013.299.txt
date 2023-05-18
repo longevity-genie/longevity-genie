@@ -1,0 +1,555 @@
+Human longevity and variation in DNA damage response and repair: study of the contribution of sub-processes using competitive gene-set analysis
+
+Birgit Debrabant*,1,8, Mette Soerensen*,1,2,8, Friederike Flachsbart3, Serena Dato4, Jonas Mengel-From1,2, Tinna Stevnsner5, Vilhelm A Bohr5,6, Torben A Kruse2, Stefan Schreiber3, Almut Nebel3, Kaare Christensen1,2,7, Qihua Tan1,2 and Lene Christiansen1,2
+
+DNA-damage response and repair are crucial to maintain genetic stability, and are consequently considered central to aging and longevity. Here, we investigate whether this pathway overall associates to longevity, and whether specific sub-processes are more strongly associated with longevity than others. Data were applied on 592 SNPs from 77 genes involved in nine sub-processes: DNA-damage response, base excision repair (BER), nucleotide excision repair, mismatch repair, non-homologous end-joining,
+
+DNA-damage response and repair are crucial to maintain genetic stability, and are consequently considered central to aging longevity. Here, we investigate whether this pathway overall associates to longevity, and whether specific sub-processes are strongly associated with longevity than others. Data were applied on 592 SNPs from 77 genes involved in nine sub-processes: DNA-damage response, base excision repair (BER), nucleotide excision repair, mismatch repair, non-homologous end-joining, homologous recombinational repair (HRR), RecQ helicase activities (RECQ), telomere functioning and mitochondrial DNA processes. The study population was 1089 long-lived and 736 middle-aged Danes. A self-contained set-based test of all SNPs displayed association with longevity (P-value ¼9.9 (cid:2)10(cid:3)5), supporting that the overall pathway could affect longevity. Investigation of the nine sub-processes using the competitive gene-set analysis by Wang et al indicated that BER, HRR and RECQ associated stronger with longevity than the respective remaining genes of the pathway (P-values¼0.004–0.048). For HRR and RECQ, only one gene contributed to the significance, whereas for BER several genes contributed. These associations did, however, generally not pass correction for multiple testing. Still, these findings indicate that, of the entire pathway, variation in BER might influence longevity the most. These modest sized P-values were not replicated in a German sample. might, though, be due to differences in genotyping procedures and investigated SNPs, potentially inducing differences in the coverage of gene regions. Specifically, five genes were not covered at all in the German data. Therefore, investigations in additional study populations are needed before final conclusion can be drawn. European Journal of Human Genetics advance online publication, 12 February 2014; doi:10.1038/ejhg.2013.299
+
+Keywords: competitive gene-set analysis; human longevity; SNPs; case-control data; DNA-damage response and DNA
+
+INTRODUCTION
+
+lesions (eg induced by UV light); mismatch repair among other repair errors arising during DNA replication, while double-strand break repair (DSB) removes DSB breaks and complex lesions (eg induced by ionizing radiation or chemotherapeutics). DSB is divided into homologous recombinational repair and non-homologous end- joining. The RecQ helicases are among the other things important for ensuring the proper structure of the DNA helix during DNA repair.8 Severe mutations in two of the RecQ helicase genes, WRN and RECQL4, can cause Werner and Rothmund–Thomson premature aging syndromes, respectively.9,10 Additional mechanisms affect the stability of the chromosomes’ ends, the telomeres. Telomeres undergo shortening with every replication cycle in cells lacking telomerase until the telomeres reach a critical length at which the cell enters cellular senescence.11,12 Telomere shortening is associated with organismal aging; in humans, leukocyte telomere length is inversely related to age13,14 and is associated with an increased risk of age-
+
+It has been estimated that about 25% of the variation in human life span is caused by genetic factors,1 a contribution which is likely to be minimal before age 60 years and most pronounced from age 85 years onwards.2 Candidate longevity genes encode proteins involved in several biological processes including DNA-damage response and DNA repair,3 which are essential for cellular function due to the constant exposure of living cells to various kinds of endogenous and exogenous agents. Such agents can damage diverse cellular components, including the DNA, and potentially induce genomic instability or mutagenesis. To maintain the integrity of the genome, DNA-damage response processes detect the DNA lesions and activate cell cycle arrest and DNA repair processes.4 The DNA repair processes each repair a certain subset of DNA lesions:5–7 base excision repair removes single-base lesions (eg oxidative lesions induced by reactive oxygen species (ROS)); nucleotide excision repair operates on bulky
+
+1Epidemiology, Biostatistics and Biodemography, The Danish Aging Research Center, Institute of Public Health, University of Southern Denmark, Odense, 2Department of Clinical Genetics, Odense University Hospital, Odense, Denmark; 3Institute of Clinical Molecular Biology, Christian-Albrechts-University, Kiel, 4Department of Biology, Ecology and Earth Science, University of Calabria, Rende, Italy; 5Department of Molecular Biology and Genetics, The Danish Aging Research Aarhus University, Aarhus, Denmark; 6Laboratory of Molecular Gerontology, National Institute on Aging, National Institute of Health, Baltimore, MD, USA; 7Department of Biochemistry and Pharmacology, Odense University Hospital, Odense, Denmark *Correspondence: B Debrabant or M Soerensen, Epidemiology, Biostatistics and Biodemography, The Danish Aging Research Center, Institute of Public University of Southern Denmark, J.B. Winsloews Vej 9B, 5000 Odense C, Denmark. Tel: +45 65503544 (BD) or +45 65412822 (MS); Fax: +45 65503682 or +45 65414875 (MS); E-mail: bdebrabant@health.sdu.dk or msoerensen@health.sdu.dk 8These authors contributed equally to this work and are mentioned in alphabetical order. Received 14 November 2012; revised 7 November 2012; accepted 26 November 2013
+
+1Epidemiology, Biostatistics and Biodemography, The Danish Aging Research Center, Institute of Public Health, University of Southern Denmark, Odense, Denmark; 2Department of Clinical Genetics, Odense University Hospital, Odense, Denmark; 3Institute of Clinical Molecular Biology, Christian-Albrechts-University, Kiel, Germany; 4Department of Biology, Ecology and Earth Science, University of Calabria, Rende, Italy; 5Department of Molecular Biology and Genetics, The Danish Aging Research Center, Aarhus University, Aarhus, Denmark; 6Laboratory of Molecular Gerontology, National Institute on Aging, National Institute of Health, Baltimore, MD, USA; 7Department of Clinical
+
+*Correspondence: B Debrabant or M Soerensen, Epidemiology, Biostatistics and Biodemography, The Danish Aging Research Center, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej 9B, 5000 Odense C, Denmark. Tel: +45 65503544 (BD) or +45 65412822 (MS); Fax: +45 65503682 (BD) or +45 65414875 (MS); E-mail: bdebrabant@health.sdu.dk or msoerensen@health.sdu.dk 8These authors contributed equally to this work and are mentioned in alphabetical order.
+
+Data set – subjects of the replication population
+
+related disease and with higher mortality.15–18 Finally, mitochondrial DNA (mtDNA) is exposed to specifically high levels of ROS due to its vicinity to oxidative phosphorylation and is thus potentially exposed to high levels of oxidative damage. Specific proteins maintain the function and repair of mtDNA. Accumulation of mtDNA mutations and mitochondrial dysfunction, likely influenced by age-dependent changes in ROS and DNA repair processes, is thought to have important roles in the aging process.19–21
+
+The details of the replication population are described in Nebel et al.43 The age ranges of the 763 long-lived individuals and the 1085 controls were 94–110 and 45–77 years, respectively (50% males). All participants were of the German ancestry. Approval was received from the ethics committee of the Christian- Albrechts-University.
+
+Data set – genotype data of the discovery population
+
+The details of the selection of sub-processes, genes and SNPs and the generation of genotype data are described in Soerensen et al.40 Sub-processes and genes were identified by a comprehensive literature search in five different databases (including http://www.ncbi.nlm.nih.gov). To cover the core biological functions of the sub-processes, five different databases were consulted (including http://www.biocarta.com). In total, 80 genes were chosen that belonged to one or more of the nine sub-processes. The gene regions plus 5000 base pairs upstream and 1000 base pairs downstream and candidate SNPs in these regions (previously associated SNPs, coding SNPs and SNPs with potential functional impact) were identified using the NCBI (http://www.ncbi.nlm.nih.gov) and UCSC (http://www.genome.ucsc.edu) genome browsers as well as other SNP databases (eg snpper.chip.org). To cover the common genetic variation within each genomic region, tagging SNPs were obtained from the HapMap consortium database (http:// www.hapmap.ncbi.nlm.nih.gov) for the CEU population and selected with the HaploView software (http://www.broadinstitute.org/haploview) with the R240.8 and MAF45% criteria.
+
+are crucial to genetic stability, which is considered of major importance for the aging process and longevity from nematodes to humans.9,19,22–25 Also, research in animal models shows that overexpression or depletion of some of the genes in the processes affects the life span of the organism (eg POLB, RAD52 and TP5326–28), and common genetic variants in humans have been put forward as associated with longevity, for example, in WRN and MLH1).29,30
+
+single variants to human longevity, have been published; still, only two genes repeatedly show an association, APOE and FOXO3A.3,31–34 One reason for this may be that the effect of the individual variant is believed to be small,35 and hence may not be easily identified by single variant analysis. Moreover, to avoid false positive findings, there is a need to correct for multiple testing as numerous variants are often tested at the same time. This requires very low P-values in order to obtain significance. Investigation of the combined effect of genetic variants of entire pathways is a recent approach,36 which may circumvent such difficulties. From a biological point of view, the rationale for such analysis is that it is the collective functions of the gene products in a pathway, which has a role in the cell, and, thus, the joint effect of the gene products is important to study. From a statistical point of view, a combined analysis of sets of SNPs and genes is also advantageous as it reduces the multiple testing burden and typically increases power.37,38
+
+DNA was isolated from blood spot cards or full blood using QIAamp DNA Kits (Du¨sseldorf, Germany), and genotyping of all samples was performed on the Illumina GoldenGate platform (San Diego, CA, USA). Data cleaning of all samples were made according to the manufacturer’s recommendations in the GenomeStudio software (http://www.illumina.com/software/genomestudio_ software.ilmn). First samples and SNPs with a call rate o90% were excluded. Next, further data cleaning was done of SNPs with (a) a call rate 90–95%, (b) close clusters (score o2.3), (c) clusters of low intensity (score o0.2 or 40.8), (d) a heterozygote cluster shifting towards a homozygote cluster (score o0.13), (e) excess heterozygosity (score o(cid:3)0.3 or 40.2) and of (f) SNPs located on the X chromosome. Overall 8.8% of the individuals and 10.4% of the SNPs were excluded, leaving data on 592 SNPs in 77 genes from 1089 oldest-old and 736 controls. The 77 genes are listed by sub-process in Table 1. This data has been analyzed at the single-SNP level for the association to human longevity.40
+
+In this study, we focus on common variation in 77 DNA-damage response and repair genes composing the above mentioned nine sub- processes. First, we investigate the association of the overall pathway with longevity. Next, we apply a gene-set method put forward by Wang et al39 to test whether any of the nine sub-processes is more associated with longevity than the other sub-processes. The analyses were carried out in a study population of 1089 oldest-old and 736 middle-aged Danes, whereas replication was done in a German study population of 763 long-lived individuals and 1085 controls.
+
+Data set – genotype data of the replication population
+
+Data on 700 SNPs from the same 77 gene regions was extracted from an existing data set of 664472 SNPs from the German replication sample.43 Genotyping was done using the Affymetrix Genome-Wide Human SNP Array 6.0 (San Francisco, CA, USA). Quality control was carried out in R44 and Plink;45 SNPs were included if (a) the call rate was Z95% in the cases and controls, (b) the MAF was Z0.02 in the controls or |MAF (controls) – MAF (cases)| 40.02 and (c) the Hardy–Weinberg equilibrium P-value in the controls was 40.01. Population stratification was found to be low.43 After visual inspection of cluster plots, 696 SNPs were applied in the replication study.
+
+MATERIALS AND METHODS
+
+Data set – subjects of the discovery population
+
+Statistical analyses – self-contained set-based analysis
+
+The details of the discovery population are described in Soerensen et al.40 The oldest-old were participants from The Danish 1905 Cohort Study,41 a nationwide population-based survey of an entire birth cohort, initiated in 1998 when 3600 birth cohort members were still alive; 2262 participated in the survey of which 1651 gave blood samples. The age range for the 1089 individuals included here was 92.2–93.8 years (29% males). The control group was of 736 individuals from the Study of Middle-Aged Danish Twins,42 started in 1998 by random selection of 2640 intact twin pairs from 22 consecutive birth years (1931–1952) via the nationwide Danish Central Person Registry. Only one twin from each twin pair was included in the present study, and the age range was 46.0–55.0 years (50% males). Due to minimal immigration into both cohorts, they are considered genetically homogenous, and population stratification is considered minimal. Permission to collect blood samples and usage of register-based information was granted by The Danish National Committee on Biomedical Research Ethics.
+
+A set-based analysis of all SNPs was performed in Plink.45 We applied the most inclusive settings, (ie set-max 99999, set-r2 1 and set-p 1). Single-marker P-values from Cochran–Armitage’s trend test were summarized by the overall mean of all SNPs, thus estimating the average association of the entire SNP-set with longevity. Significance was determined by permuting the phenotype labels 10000 times.
+
+Statistical analyses – competitive gene-set analysis
+
+We performed a gene-set analysis using the competitive46 gene-set enrichment method published by Wang et al,39 which we implemented in R.44 The analysis was in four steps: step 1: an association analysis was conducted to calculate a statistic (respectively P-value) for each SNP, step 2: based on these, a gene statistic was assigned to each gene choosing the statistic corresponding to the most significant SNP in each gene, step 3: based on these gene statistics, the enrichment score was calculated for each of the nine sub-processes,
+
+Table 1 The 77 genes grouped by biological sub-process
+
+DNA-damage response BER (no. of NER (no. of MMR (no. of HRR (no. of NHEJ (no. of RECQ (no. of Telomere functioning Mitochondrial DNA (no. of genes¼8) genes¼26) genes¼18) genes¼14) genes¼7) genes¼5) genes¼5) (no. of genes¼9) processes (no. of genes¼12) ATM APEX1 DDB1 (uv- EXO1 LIG1 DCLRE1C BLM ACD (pip) C10orf2 (twinkle) (ape1) ddb1) (artemis) ATR APTX DDB2 (uv- LIG1 MRE11A LIG4 RECQL PIF1 ERCC6 (csb) (aprataxin) ddb2) (recq1) BRIP1 (facj) ERCC6 (csb) ERCC1 MLH1 NBN PRKDC (dna- RECQL4 POT1 ERCC8 (csa) pkcs) (recq4) FANCA (faca) ERCC8 (csa) ERCC2 (xpd) MLH3 RAD50 XRCC4 RECQL5 RECQL4 (recq4) LONP1 (lonp) (recq5) FANCD2 (facd) FEN1 ERCC3 (xpb) MSH2 RAD51 XRCC5 WRN TERF1 NEIL2 (ku80/ku86) H2AFX (h2a.x) HMGB1 ERCC4 (xpf) MSH3 RAD52 TERF2 POLG (polg) (hmg1) TP53 (p53) LIG1 ERCC5 (xpg) MSH6 RAD54L TERF2IP (rap1) POLRMT (mtrpol) (rad54) YBX1 (yb1) LIG3 ERCC6 (csb) PCNA TERT RECQL4 (recq4) NEIL1 ERCC8 (csa) PMS1 WRN SUPV3L1 (suv3) NEIL2 LIG1 PMS2 TFAM (mttfa) NTHL1 PCNA POLD1 (pold) TP53 (p53) OGG1 POLD1 (pold) RFC1 (rfc) YBX1 (yb1) PARP1 POLE (pole) RPA1 (rpa) PCNA RAD23B YBX1(yb1) PNKP (pnk) RFC1 (rfc) POLB RPA1 (rpa) POLD1 (pold) XPA POLE (pole) XPC RECQL4 (recq4) RECQL5 (recq5) RFC1 (rfc) RPA1 (rpa) UNG WRN XRCC1
+
+Abbreviations: BER, base excision repair; HRR, homologous recombinational repair; MMR, mismatch repair; NER, nucleotide excision repair; NHEJ, non-homologous end-joining; RECQ, RecQ helicase activities. Names of gene products are given in parenthesis if different from gene names.
+
+w2(2df)-distribution under the null, ie we used(cid:3)log P as single-marker statistic, where P is the P-value from the trend test). The trend test was included as it is the most applied model in the literature on the genetics of human longevity. In setup III (best-test model), we inspected all possible modes of inheritance simultaneously by combining Cochran–Armitage’s trend test and w2 tests based on assumption-free (2df), recessive (1df) and dominant (1df) models. Thereby we defined the test statistic for each SNP to be the minimum P-value of these four tests (back-transformed so the test statistic equaled (cid:3)log (min 1rir4 Pi), where P1–P4 correspond to the P-values from the four tests, respectively). This procedure is analogous to the MAX test described previously by Freidlin et al.47 The log-transformation used in setups II and III was applied to make the three setups comparable as the enrichment score used by the method of Wang et al39 is sensitive to the scale of the statistics. As the three setups are highly dependent, the enrichment score q- values were calculated (by FDR) individually for each of them.
+
+reflecting the degree of over-representation of associated genes within a sub-process as opposed to the genes outside the sub-process, step 4: was determined by permuting the phenotype labels 10000 times and repeating steps above, hereby generating the enrichment score P-value for each of the sub-processes. Following the recommendations of the authors,39 we used a parameter p ¼ 1 to calculate the enrichment score.
+
+After deriving the enrichment score P-values for each of the nine sub- processes, we used the false discovery rate (FDR) to take the testing of nine sub-processes into account. As described by Wang et al39 for a given sub- process S* (in our case S1–S9) with a normalized enrichment score NES* (NES1-NES9), the FDR was estimated as the proportion of sub-processes with a normalized ES (after permutation) at least as high as NES*, divided by the proportion of sub-processes with a normalized ES (non-permuted) at least as high as the observed NES*. We estimated corresponding enrichment score q-values as the minimal FDR obtainable when declaring a test significant.
+
+Moreover, step 1 was implemented in three different ways referred to setup I, II and III. We applied the three setups to inspect their influence on results. In setup I, we used w2(2df)-statistics (assumption-free model) assessing the difference in genotype frequencies between cases and controls without constraints on the genotypic model. In setup II, Cochran–Armitage’s test statistic was used (suitably transformed to obtain a
+
+RESULTS
+
+The set-based test resulted in an overall P-value of 9.9(cid:2)10(cid:3)5 for the combined set of SNPs. This result supports that variation in
+
+German study population did not show significant results: P-value (self-contained set-based analysis)¼ 0.227 and P-values (competitive gene-set analysis)¼0.468–0.919 (see Supplementary Table 2).
+
+response and DNA repair genes appears to be of for human longevity.
+
+Competitive gene-set analysis of the nine sub-processes
+
+The results of the initial SNP analysis (step 1), using the three different statistical setups, can be seen in Supplementary Table 1. The data can further be found in the GWAS Central data base (www.gwascentral.org). Table 2 shows enrichment score P- and q-values obtained for the nine sub-processes compared to the respective remaining genes of the entire pathway, under the three different statistical setups. We found the results to be consistent with only slight differences; uniformly over the three setups, sub-processes BER, HRR and RECQ showed P-values below 0.05, whereas the remaining sub-processes were non-significant. However, when taking into account the number of sub-processes investigated, only HRR showed a q-value below 0.05 and only in setup II (see Table 2).
+
+DISCUSSION
+
+In this study, we aimed to investigate whether genetic variation in any of the sub-processes of DNA-damage response and DNA repair influences human longevity more than others. This is an important question as the individual sub-processes contribute to different aspects of the maintenance of genetic stability, and therefore have diverse biological roles, which are likely to affect longevity in different manners.
+
+Table 3 Ranking of the genes in the BER, HRR and RECQ sub- processes
+
+Sub-process Gene p-gene (gene statistic) Rank BER WRN 2.1(cid:2)10(cid:3)8 3 APTX 3.6(cid:2)10(cid:3)8 4 NTHL1 1.4(cid:2)10(cid:3)7 5 POLB 1.8(cid:2)10(cid:3)5 6 RPA1 2.4(cid:2)10(cid:3)4 9 XRCC1 4.9(cid:2)10(cid:3)4 13 YBX1 1.5(cid:2)10(cid:3)3 16 PARP1 2.4(cid:2)10(cid:3)3 20 OGG1 2.8(cid:2)10(cid:3)3 21 PCNA 3.0(cid:2)10(cid:3)3 22 ERCC8 4.9(cid:2)10(cid:3)3 26 UNG 6.0(cid:2)10(cid:3)3 28 LIG3 1.9(cid:2)10(cid:3)2 36 POLD1 2.8(cid:2)10(cid:3)2 41 APEX1 2.9(cid:2)10(cid:3)2 42 HMGB1 3.6(cid:2)10(cid:3)2 43 RFC1 4.1(cid:2)10(cid:3)2 46 NEIL1 5.1(cid:2)10(cid:3)2 50 PNKP 6.3(cid:2)10(cid:3)2 51 LIG1 6.5(cid:2)10(cid:3)2 54 NEIL2 7.3(cid:2)10(cid:3)2 57 ERCC6 8.8(cid:2)10(cid:3)2 61 POLE 1.6(cid:2)10(cid:3)1 68 RECQL4 1.6(cid:2)10(cid:3)1 69 FEN1 1.9(cid:2)10(cid:3)1 73 RECQL5 8.1(cid:2)10(cid:3)1 77 HRR RAD52 4.3(cid:2)10(cid:3)18 1 NBN 2.1(cid:2)10(cid:3)3 18 MRE11A 4.0(cid:2)10(cid:3)3 24 RAD54L 2.7(cid:2)10(cid:3)2 39 LIG1 6.5(cid:2)10(cid:3)2 54 RAD51 7.8(cid:2)10(cid:3)2 59 RAD50 1.2(cid:2)10(cid:3)1 64 RECQ WRN 2.1(cid:2)10(cid:3)8 3 BLM 7.8(cid:2)10(cid:3)4 15 RECQL4 1.6(cid:2)10(cid:3)1 69 RECQL 2.0(cid:2)10(cid:3)1 75 RECQL5 8.1(cid:2)10(cid:3)1 77
+
+As the three setups showed consistent results, the subsequent analyses in the discovery data were restricted to setup III. To examine which genes contributed to the nominal significance of BER, HRR and RECQ, the individual gene statistics for all genes in these sub-processes were inspected (see Table 3). These gene statistics enter the calculation of the enrichment score as weights and provide intuitive information about the extent to which the score was mainly determined by specific genes. We found several low-ranking genes in the case of BER, while for HRR the association was mostly due to a single gene, RAD52, and to a much lower degree NBN, MRE11A and RAD54L. Similarly, the P-value for RECQ was primarily due to WRN and to a smaller extent BLM. In a post-hoc analysis, we then repeated the gene-set analysis of BER, RECQ and HRR removing the respective lowest ranking gene from the data set. Only BER remained nominally significant (P-value¼0.037), while loss of significance of RECQ (P-value¼0.34) and HRR (P- value¼ 0.88) confirmed that the importance of RECQ and HRR each was induced by only one gene.
+
+Replication study in German long-lived individuals and controls The single-SNP data from the German replication population can be found in the GWAS Central data base (www.gwascentral.org). Repeating the self-contained set-based analysis of all SNPs as well as the competitive gene-set analysis of BER, HRR and RECQ in the
+
+Table 2 Competitive gene-set analysis of the genetic variation in the nine sub-processes of DNA-damage response and DNA repair in relation to human longevity
+
+Setup I – w2 II – trend test III – best-test model Sub-processes P-value q-value P-value q-value P-value q-value DmgRes 0.113 0.171 0.475 0.556 0.299 0.447 BER 0.015 0.110 0.029 0.121 0.016 0.111 NER 0.679 0.681 0.556 0.563 0.679 0.681 MMR 0.434 0.553 0.498 0.556 0.686 0.681 HRR 0.035 0.110 0.004 0.030 0.025 0.111 NHEJ 0.099 0.171 0.163 0.286 0.112 0.231 RECQ 0.032 0.110 0.048 0.159 0.049 0.160 TeloFunc 0.076 0.159 0.077 0.163 0.130 0.231 MitoDNA 0.616 0.681 0.439 0.556 0.608 0.681
+
+Abbreviations: BER, base excision repair; HRR, homologous recombinational repair; RECQ, RecQ helicase activities. Rank: overall rank of each gene among all 77 DNA-damage response and DNA repair genes. P-gene values below 0.05 are shown in bold. The P-gene values listed here were based on statistical setup III and the log-transformed P-gene values were used as weights in the calculation of the enrichment score. The P-gene values for setups I and II can be derived from Supplementary Table 1.
+
+Abbreviations: BER, base excision repair; DmgRes, DNA-damage response; HRR, homologous recombinational repair; MitoDNA, mitochondrial DNA processes; MMR, mismatch repair; NER, nucleotide excision repair; NHEJ, non-homologous end-joining; RECQ, RecQ helicase activities; TeloFunc, telomere functioning.
+
+males and females (data not shown). Similarly, stratification of the competitive gene-set analysis yielded consistent significance of BER. Still, HRR and RECQ did not show significance (setup III, data not shown). The latter might possibly be due to the reduction in sample size in the sex-stratified analysis. Altogether, in the present data, gender-specific differences do not appear to be overly relevant.
+
+association, indicating that DNA-damage response and repair overall appears to be important for human longevity. In the subsequent competitive gene-set analysis, we found nominal significant associa- tion with longevity of three sub-processes: BER, HRR and RECQ, which indicates that these may be of greater importance compared with the remaining six sub-processes. Notably, the lack of comparative significance for the remaining sub-processes does not necessarily imply that these are irrelevant for longevity, but rather that they appear less important than BER, HRR and RECQ. When correcting for the test of nine sub-processes, only HRR remained significant and only in setup II (Table 2). One reason for the lack of significance for the remaining associations could be reduced power due to an inadequate sample size (1089 oldest-old and 736 middle-aged), which implies that larger study populations may be needed for a more conclusive result. Then again, the lack of significance could well be an inherent part of the competitive analysis as we compare the associations of sub-processes all of which are considered relevant for longevity; thus, it may be difficult to uncover a significant relative difference between such sub-processes. Our findings indicate that repair of certain types of DNA damage likely could be of particular importance for human longevity; for instance damage induced by ROS or ionizing radiation, which is repaired by BER and HRR, respectively. Moreover, ROS induced damage can give rise to DNA DSBs during DNA replication, which potentially induce replication stress and replication fork collapse, a
+
+An issue of increasing interest in genetic association studies is gene- environment (G(cid:2) E) interactions. It is, though, problematic to consider environmental factors in case-control studies of longevity; these factors may not be constant over time, that is, the longevity cases could have experienced a different environment when they were at the age of the younger controls. Instead, a longitudinal design that investigates survival during old age would be more suitable for G(cid:2) E studies. In relation to DNA repair, a G(cid:2)E analysis could be especially appealing as the sub-processes repair certain types of DNA damage induced by certain types of environmental sources. An example is the oxidative damage repaired by BER, which, among others, is induced by the general metabolism, which might be affected differently by diverse types and amounts of food intake.
+
+difference between such sub-processes. Our findings indicate that repair of certain types of DNA damage likely could be of particular importance for human longevity; for instance damage induced by ROS or ionizing radiation, which is repaired by BER and HRR, respectively. Moreover, ROS induced damage can give rise to DNA DSBs during DNA replication, which potentially induce replication stress and replication fork collapse, a situation in which HRR is crucial. Finally, the roles of the RECQ helicases for ensuring the proper structure of the DNA during repair could be central. This is especially interesting considering the existence of premature aging syndromes, such as the Werner syndrome, caused by mutations in a RECQ gene.
+
+When we performed the self-contained set-based analysis (of all SNPs under study) and the competitive gene-set analysis of BER, HRR and RECQ in the German study population, we did not observe replication. There are a number of possible reasons for this. First of all, different genotyping procedures were used in the two study populations. This may cause differences in the coverage of the variation in the gene regions, which potentially could affect the relative difference between the sub-processes. Specifically, five genes were not covered at all in the German data: H2AFX (DNA-damage response), APEX1 (BER), ACD (telomere functioning), ERCC1 (nucleotide excision repair) and RECQL4 (BER, RECQ, telomere functioning and mtDNA processes). Moreover, not exactly the same SNPs were genotyped in the two study populations; hence, depending on the LD of the discovery SNPs, these might not all be tagged in the German data. Secondly, we aimed to replicate very modest-sized enrichment score P-values (P¼0.004–0.048, Table 2), of which only one in nine remained significant after correcting for the test of nine sub-processes. Thus, it may be difficult to replicate associations with such values as compared to replicating those with smaller P-values. Furthermore, it might be difficult to detect a relative significance between sub-processes (competitive gene-set analysis) in the German data set considering that the overall pathway was non-significant (self- contained set-based analysis). Thirdly, the Germans were older than the Danes, and, if the associations are not constant throughout old age, they may not replicate well. Such change in association with age has been reported previously.52 Finally, it is possible that the effect of BER, HRR, RECQ and of the pathway overall is population specific, perhaps mediated through population-specific characteristics in environment. Such population-specific effects have previously been suggested for single variants.53 Hence, before final conclusion can be drawn, additional studies in other, preferably larger, study
+
+An interesting aspect of the gene-set analysis is whether the nominal significance of BER, HRR and RECQ was mainly driven by one gene or by the combined effect of several genes. For RECQ and HRR, the associations were driven primarily by WRN and RAD52, respectively. The latter might indicate that variation in one of the sub- units of the rad51/rad52/rad54 protein complex may be sufficient to modify the function of the entire HRR. Our results could also indicate that RAD52 and WRN have roles beyond HRR and RECQ. WRN is a clear example of this, as it takes part in three of nine sub-processes. Similarly, one study indicates that rad52 may affect BER via an interaction with ogg1.48 Finally, as our definition of the sub-processes is based on existing knowledge of DNA-damage response and repair mechanisms, we cannot exclude that additional cross-talks between the sub-processes are yet to be discovered. Contrary to this, the association of BER appears scattered over the entire gene-set, suggesting that variation in different parts of the sub-process may have consequences for longevity. Considering the central role of oxidative damage to several proposed biological theories of aging,22,49 the fact that we observe this for BER, the DNA repair process primarily responsible for repair of oxidative DNA lesions, is indeed interesting.
+
+to this, the association of BER appears scattered over the entire suggesting that variation in different parts of the sub-process have consequences for longevity. Considering the central role of damage to several proposed biological theories of aging,22,49 fact that we observe this for BER, the DNA repair process primarily for repair of oxidative DNA lesions, is indeed interesting.
+
+is obviously how the details and widths of the sub-processes are identified. This is in general a complicated task as there is no gold standard and available databases may lack sufficient detail36 and accordance in the pathway composition.50 Consequently, it is possible that some relevant genetic variation is not covered in the present study.
+
+CONCLUSION
+
+In this study, we investigated the association between human long- evity and genetic variation in nine sub-processes of DNA-damage response and repair, all considered to have key roles in maintenance of genetic stability and the aging process. We observed significant support for an association of the entire pathway with longevity. In the competitive analysis, we furthermore found BER, HRR and RECQ to be nominally significantly more associated with longevity than other sub-processes, although this did, in general, not remain significant
+
+An intriguing aspect of human longevity is the difference in survival, a difference which has been suggested, at in part, to have a genetic basis.51 A sex-stratified self-contained based analysis of all SNPs investigated showed significance for
+
+for BER, the association was caused by several genes, which indicates that, of the entire pathway, variation in BER might influence longevity the most. Still, as these findings did not show replication in the German study population, more analyses are needed in additional study populations before final conclusion can be drawn.
+
+–
+
+Cabelof DC, Ikeno Y, Nyska A et al: Haploinsufficiency in DNA polymerase increases cancer risk with age and alters mortality rate. Cancer Res
+
+;
+
+–
+
+Park PU, Defossez PA, Guarente L: Effects of mutations in DNA repair genes formation of ribosomal DNA circles and life span in Saccharomyces cerevisiae. Cell Biol
+
+;
+
+:
+
+–
+
+Tyner SD, Venkatachalam S, Choi J et al: p
+
+mutant mice that display early associated phenotypes. Nature
+
+;
+
+:
+
+–
+
+Castro E, Edland SD, Lee L et al: Polymorphisms at the Werner locus:
+
+Leu/Phe,
+
+Cys/Arg, longevity and atherosclerosis. Am J Med Genet
+
+:
+
+–
+
+Kim DJ, Yi SM, Lee SY et al: Association between the MLH
+
+gene and Hum Genet
+
+;
+
+:
+
+–
+
+Schachter F, Faure-Delanef L, Guenot F et al: Genetic associations with longevity at the APOE and ACE loci. Nat Genet
+
+;
+
+:
+
+–
+
+Willcox BJ, Donlon TA, He Q et al: FOXO
+
+A genotype is strongly associated human longevity. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Flachsbart F, Caliebe A, Kleindorp R et al: Association of FOXO
+
+A variation human longevity confirmed in German centenarians. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Soerensen M, Dato S, Christensen K et al: Replication of an association of variation the FOXO
+
+A gene with human longevity using both case-control and longitudinal Aging Cell
+
+;
+
+:
+
+–
+
+Manolio TA, Collins FS, Cox NJ et al: Finding the missing heritability of diseases. Nature
+
+;
+
+:
+
+–
+
+Deelen J, Uh HW, Monajemi R et al: Gene set analysis of GWAS data for longevity highlights the relevance of the insulin/IGF-
+
+signaling and maintenance pathways. Age (Dordr)
+
+;
+
+:
+
+–
+
+Wang K, Li M, Hakonarson H: Analysing biological pathways in association studies. Nat Rev Genet
+
+;
+
+:
+
+–
+
+Wang L, Jia P, Wolfinger RD, Chen X, Zhao Z: Gene set analysis of association studies: methodological issues and perspectives. Genomics
+
+;
+
+:
+
+Wang K, Li M, Bucan M: Pathway-based approaches for analysis of association studies. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Soerensen M, Dato S, Tan Q et al: Human longevity and variation in signaling, DNA damage signaling and repair and pro/antioxidant pathway genes: sectional and longitudinal studies. Exp Gerontol
+
+;
+
+:
+
+–
+
+Nybo H, Gaist D, Jeune B et al: The Danish
+
+cohort: a nationwide survey. J Aging Health
+
+;
+
+:
+
+–
+
+Gaist D, Vaeth M, Tsiropoulos I et al: Risk of subarachnoid haemorrhage in first relativesof patients with subarachnoid haemorrhage: follow upstudy based registries in Denmark. BMJ
+
+;
+
+:
+
+–
+
+Nebel A, Kleindorp R, Caliebe A et al: A genome-wide association study APOE atthe major geneinfluencingsurvival inlong-lived individuals. Mech Ageing
+
+;
+
+:
+
+–
+
+R Development Core Team: R: A language and environment for statistical R Foundation for Statistical Computing: Vienna, Austria
+
+Purcell S, Neale B, Todd-Brown K et al: PLINK: a toolset for whole-genome and population-based linkage analysis. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Goeman JJ, Buhlmann P: Analyzing gene expression data in terms of gene methodological issues. Bioinformatics
+
+;
+
+:
+
+–
+
+Freidlin B, Zheng G, Li Z, Gastwirth JL: Trend tests for case-control studies of markers: power, sample size and robustness. Hum Hered
+
+;
+
+:
+
+–
+
+de Souza-Pinto NC, Maynard S, Hashiguchi K et al: The recombination protein cooperates with the excision repair protein OGG
+
+for the repair of oxidative lesions mammalian cells. Mol Cell Biol
+
+;
+
+:
+
+–
+
+Harman D: The aging process: major risk factor for disease and death. Proc Natl Sci USA
+
+;
+
+:
+
+–
+
+Lambert JC, Grenier-Boley B, Chouraki V et al: Implication of the immune system Alzheimer’s disease: evidence from genome-wide pathway analysis. J Alzheimers
+
+;
+
+:
+
+–
+
+Montesanto A, Latorre V, Giordano M, Martino C, Domma F, Passarino G: The component of human longevity: analysis of the survival advantage of parents siblings of Italian nonagenarians. Eur J Hum Genet
+
+;
+
+:
+
+–
+
+Jacobsen R, Martinussen T, Christiansen L et al: Increased effect of the Ap
+
+gene survival at advanced age in healthy and long-lived Danes: two nationwide studies. Aging Cell
+
+;
+
+:
+
+–
+
+Di Bona D, Vasto S, Capurso C et al: Effect of interleukin-
+
+on human longevity: a systematic review and meta-analysis. Ageing Res. Rev
+
+:
+
+–
+
+CONFLICT OF INTEREST
+
+The authors declare no conflict of interest.
+
+ACKNOWLEDGEMENTS
+
+study was supported by the Max-Planck Institute for Demographic (Rostock, Germany), the INTERREG 4 A programme Syddanmark– (by EU funds from the European Regional Development the European Union’s Seventh Framework Programme (FP7/2007–2011)
+
+This study was supported by the Max-Planck Institute for Demographic Research, (Rostock, Germany), the INTERREG 4 A programme Syddanmark– Schleswig-K.E.R.N (by EU funds from the European Regional Development Fund), the European Union’s Seventh Framework Programme (FP7/2007–2011) under grant agreement no. 259679, the National Institute on Aging (P01 AG08761), the RESOLVE project (FP7-HEALTH-F4-2008-202047) and the Novo Nordisk, the Aase and Ejnar Danielsen, the Brødrene Hartmann, the King Christian the 10th and the Einer Willumsens Mindelegat Foundations. The Danish Aging Research Center is supported by a grant from the VELUX Foundation, while Mette Soerensen is supported by an individual postdoctoral grant from The Danish Council for Independent Research – Medical Sciences.
+
+of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet
+
+;
+
+:
+
+–
+
+Hjelmborg JVb, Iachine I, Skytthe A et al: Genetic influence on human lifespan and longevity. Hum Genet
+
+;
+
+:
+
+–
+
+Christensen K, Johnson TE, Vaupel JW: The quest for genetic determinants of human longevity: challenges and insights. Nat Rev Genet
+
+;
+
+:
+
+–
+
+Ciccia A, Elledge SJ: The DNA damage response: making it safe to play with knives. Mol Cell
+
+;
+
+:
+
+–
+
+Hiom K: Coping with DNA double strand breaks. DNA Repair (Amst)
+
+;
+
+:
+
+–
+
+Hoeijmakers JH: Genome maintenance mechanisms for preventing cancer. Nature
+
+;
+
+:
+
+–
+
+Jeppesen DK, Bohr VA, Stevnsner T: DNA repair deficiency in neurodegeneration. Prog Neurobiol
+
+;
+
+:
+
+–
+
+Bohr VA: Rising from the Re
+
+-age: the role of human Re
+
+helicases in genome maintenance. Trends Biochem Sci
+
+;
+
+:
+
+–
+
+Burtner CR, Kennedy BK: Progeria syndromes and ageing: what is the connection? Nat Rev Mol Cell Biol
+
+;
+
+:
+
+–
+
+Croteau DL, Singh DK, Hoh FL, Lu H, Bohr VA: RECQL
+
+in genomic instability and aging. Trends Genet
+
+;
+
+:
+
+–
+
+Blackburn EH, Greider CW, Szostak JW: Telomeres and telomerase: the path from maize, Tetrahymena and yeast to human cancer and aging. Nat Med
+
+;
+
+:
+
+–
+
+Campisi J,d’Adda de Fagagn
+
+:Cellularsenescence:when bad things happen togood cells. Nat Rev Mol Cell Biol
+
+;
+
+:
+
+–
+
+Lindsey J, M
+
+ill NI, Lindsey LA, Green DK, Cooke HJ: In vivo loss of telomeric repeats with age in humans. Mutat Res
+
+;
+
+:
+
+–
+
+Slagboom PE, Droog S, Boomsma DI: Genetic determination of telomere size in humans: a twin study of three age groups. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Bakaysa SL, Mucci LA, Slagboom PE et al: Telomere length predicts survival independent of genetic influences. Aging Cell
+
+;
+
+:
+
+–
+
+Kimura M, Hjelmborg JV, Gardner JP et al: Telomere length and mortality: a study of leukocytes in elderly Danish twins. Am J Epidemiol
+
+;
+
+:
+
+–
+
+Njajou OT, Cawthon RM, Damcott CM et al: Telomere length is paternally inherited and is associated with parental lifespan. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Shay JW, Woodring WE: Telomeres and Telomerase in aging and cancer. Molecular Biology of Aging and Cancer, In: Guarente LP, Partridge L, Wallace DC (eds). Molecular Biology of Aging. Cold Spring Harbor Laboratory Press: New York,
+
+, pp
+
+–
+
+Barja G: Free radicals and aging. Trends Neurosci
+
+;
+
+:
+
+–
+
+Bohr VA, Anson RM: DNA damage, mutation and fine structure DNA repair in aging. Mutat Res
+
+;
+
+:
+
+–
+
+Kujoth GC, Bradshaw PC, Haroon S, Prolla TA: The role of mitochondrial DNA mutations in mammalian aging. PL
+
+Genet
+
+;
+
+: e
+
+Supplementary Information accompanies this paper on European Journal of Human Genetics website (http://www.nature.com/ejhg)

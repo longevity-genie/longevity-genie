@@ -1,0 +1,685 @@
+Human longevity and common variations in the LMNA gene: a meta-analysis
+
+Karen N. Conneely,1 Brian C. Capell,2* Michael R. Erdos,2 Paola Sebastiani,3 Nadia Solovieff,3 Amy J. Swift,2 Clinton T. Baldwin,4 Temuri Budagov,5 Nir Barzilai,5 Gil Atzmon,5 Annibale A. Puca,6 Thomas T. Perls,4 Bard J. Geesaman,7
+
+testing in the initial and follow-up samples (OR = 1.18, P = 7.5 · 10)4, multiple-testing-adjusted P = 0.037). These results suggest that LMNA variants may play a role in human lifespan. Key words: genetics; human; longevity; longevity gene.
+
+Paola Sebastiani,
+
+Nadia Solovieff,
+
+Amy J. Swift,
+
+Clinton T. Baldwin,
+
+Temuri Budagov,
+
+Nir Barzilai,
+
+Gil Atzmon,
+
+Annibale A. Puca,
+
+Thomas T. Perls,
+
+Bard J. Geesaman,
+
+Michael Boehnke
+
+and Francis S. Collins
+
+Department of Human Genetics, Emory University School of Medicine, Atlanta, GA
+
+, USA
+
+Genome Technology Branch, National Human Genome Research National Institutes of Health, Bethesda, MD
+
+, USA
+
+Department of Biostatistics, Boston University School of Public Health, Boston, MA
+
+, USA
+
+New England Centenarian Study, Geriatrics Section, Department of Medicine, Boston Medical Center and, Boston University School of Medicine, Boston, MA
+
+, USA
+
+Department of Medicine and Genetics, Albert Einstein College of Medicine, Bronx, NY
+
+, USA
+
+Istituto Ricovero Cura Carattere Scientifico Multimedica, Milano, Italy Istituto di Tecnologie Biomediche – Consiglio Nazionale delle Ricerche, Segrate, Italy
+
+Elixir Pharmaceuticals, Cambridge, MA
+
+, USA
+
+Department of Biostatistics and Center for Statistical Genetics,
+
+Introduction
+
+Single gene mutations have been shown to extend the lifespan of worms, yeast, and mice (Kenyon, 2005). Similarly, twin studies have shown that 25–30% of the variance in human lifespan can be attributed to genetic differences (Herskind et al., 1996; Ljungquist et al., 1998; Skytthe et al., 2003). With the completion of the International HapMap Project, power to detect common variants for common and complex diseases has increased (Manolio et al., 2008), and the search for genetic contributors to human aging and lifespan has been accelerated. The results thus far have been somewhat discouraging: only APOE and FOXO3A have been consistently associated with longevity across populations in candidate gene studies (Christensen et al., 2006; Novelli et al., 2008). Even strong candidates such as the WRN gene associated with the premature aging syndrome, Werner syndrome (Castro et al., 2000), have displayed incon- sistent results (Christensen et al., 2006). Similarly, all longevity-associated SNPs reaching genome-wide significance in two recently published gen- ome-wide association studies were associated with the APOE gene (Dee- len et al., 2011; Nebel et al., 2011). However, because variants with subtler associations with longevity will not be detectable at genome-wide significance levels with conventional sample sizes, candidate gene studies remain a useful approach.
+
+Summary
+
+A mutation in the LMNA gene is responsible for the most dra- matic form of premature aging, Hutchinson–Gilford progeria syndrome (HGPS). Several recent studies have suggested that protein products of this gene might have a role in normal physi- ological cellular senescence. To explore further LMNA’s possible role in normal aging, we genotyped 16 SNPs over a span of 75.4 kb of the LMNA gene on a sample of long-lived individuals (LLI) (US Caucasians with age ‡ 95 years, N = 873) and geneti- cally matched younger controls (N = 443). We tested all common nonredundant haplotypes (frequency ‡ 0.05) based on sub- groups of these 16 SNPs for association with longevity. The most significant haplotype, based on four SNPs, remained significant after adjustment for multiple testing (OR = 1.56, P = 2.5 · 10)5, multiple-testing-adjusted P = 0.0045). To attempt to replicate these results, we genotyped 3448 subjects from four indepen- dent samples of LLI and control subjects from (i) the New Eng- land Centenarian Study (NECS) (N = 738), (ii) the Southern Italian Centenarian Study (SICS) (N = 905), (iii) France (N = 1103), and (iv) the Einstein Ashkenazi Longevity Study (N = 702). We repli- cated the association with the most significant haplotype from our initial analysis in the NECS sample (OR = 1.60, P = 0.0023), but not in the other three samples (P > 0.15). In a meta-analysis combining all five samples, the best haplotype remained signifi- cantly associated with longevity after adjustment for multiple
+
+One major candidate gene for longevity that has not yet been explored is LMNA. Defects in the LMNA gene, which encodes the nuclear envelope proteins lamin A and lamin C, have been associated with at least 13 dis- eases, including Hutchinson–Gilford progeria syndrome (HGPS) (Gruen- baum et al., 2005; Capell & Collins, 2006). HGPS is a rare but devastating condition in which symptoms resembling premature aging appear at a very young age, typically within a year of birth. Owing to accelerated car- diovascular disease leading to eventual heart attack or stroke, individuals with HGPS have an average life expectancy of 13 years (Capell et al., 2007; Merideth et al., 2008).
+
+Scientists have long questioned whether HGPS is truly a model of nor- mal human aging. Although displaying many features typically associated with normal aging (alopecia, skin wrinkling, atherosclerosis), HGPS appar- ently lacks other common features such as tumors or dementia. However, recent evidence obtained since the identification of mutations in LMNA as the cause of HGPS suggests that there may in fact be a molecular rela- tionship. For example, there is evidence that a very small amount of the mutant lamin A protein produced in HGPS, termed ‘progerin’, is pro- duced in normal cells (Scaffidi & Misteli, 2006; Cao et al., 2007). Levels of the progerin transcript increase with age in normal cells (Rodriguez et al., 2009), and work using a monoclonal antibody specific for progerin has demonstrated that progerin accumulates in human skin in an age-depen- dent manner (McClintock et al., 2007). Further work in normal human fibroblasts has demonstrated that progerin production is activated by progressive telomere damage during cellular senescence (Cao et al., 2011). Finally, it has been established that numerous other abnormalities present in HGPS are also common in cells from aged individuals. These
+
+Karen Conneely,
+
+Michael Street, Suite
+
+, Atlanta, GA
+
+, USA. Tel: +
+
+(
+
+)
+
+; fax +
+
+(
+
+)
+
+-
+
+; e-mail: kconnee@emory.edu *Present address: Department of Dermatology, University of Pennsylvania, Philadelphia, PA,
+
+, USA. Accepted for publication
+
+February
+
+include nuclear blebbing, particular epigenetic changes, and increased levels of DNA damage. Most remarkably, suppressing the production of the mutant progerin protein through the use of an antisense morpholino reversed all of these abnormalities in cell culture (Scaffidi & Misteli, 2006).
+
+genetically matched younger controls, N = 443), we genotyped 16 SNPs covering two coherent linkage disequilibrium (LD) blocks, corresponding to the LMNA gene and promoter region (Fig. 1). A total of 2414 nonre- dundant haplotypes (i.e., haplotypes not in perfect LD with another hap- lotype) involving 2–16 SNPs were present with estimated frequency ‡ 0.05 in our Stage 1 analysis. We tested all SNPs and all 2414 haplotypes for association with longevity. SNP 6 showed the strongest single-SNP association (P = 0.0137) in Stage 1, but was not significant upon correc- tion for multiple testing via permutation tests. However, an excess of sig- nificant haplotypes over what is expected under no association was evident. We examined the proportion of haplotypes that were significant at a range of significance thresholds (a = 0.00005, 0.0001, 0.0005, 0.001, 0.005, 0.01, and 0.05) and in all cases observed significantly more than expected under no association. P-values for association tests of each of these haplotypes are plotted against their quantiles in Fig. S1 (Support- ing Information). The most significant haplotype, involving SNPs 6, 7, 13, and 15 (GTCT), remained significant after adjustment for multiple testing via permutation tests (P = 2.5 · 10)5, multiple-testing-adjusted P = 0.0045). Haplotypes involving SNPs 4 and 5 were also significant, and the most significant 6-SNP haplotype involved SNPs 4, 5, 6, 7, 13, and 15 (GAGTCT) (P = 4.0 · 10)5). One hundred and forty nonredundant haplo- types involving different combinations of 2–6 of these six SNPs were pres- ent with estimated frequency > 0.05.
+
+reversed all of these abnormalities in cell culture (Scaffidi & Misteli, 2006). The corollary to this observation is the possibility that variants of LMNA that produce less progerin might be protective and thus promote a longer lifespan. To investigate further the potential links of HGPS, LMNA, and progerin with the normal aging process, we sought to determine whether common variants in the LMNA gene might be associated with extreme human longevity. Toward this end, we tested variants of the LMNA gene for association with extreme longevity in five independent samples of long-lived individuals (LLI) and control subjects.
+
+Results
+
+Characteristics of the five study samples are shown in Table 1. In the Stage 1 sample (US Caucasians with age ‡ 95 years, N = 873 and
+
+Table 1 Samples tested
+
+Sample N Age range Mean age Stage 1 (US) 873 LLI ‡ 95 101.5 443 controls < 50 38.6 NECS (US) 545 LLI 96–113 103.2 193 controls 55–92 76.8 French 557 LLI ‡ 99 103.1 546 controls 18–70 51.2 SICS (Southern Italy) 455 LLI 90–109 97.6 450 controls 18–46 32.9 Ashkenazi Jewish 354 LLI 95–109 97.9 348 controls 43–90 70.7
+
+To follow up on these 140 haplotypes, we selected SNPs 4, 5, 6, 7, 13, and 15 for genotyping in our four Stage 2 samples (Table 1). One of the six SNPs was not successfully genotyped in the French sample, but for purposes of haplotype inference, we were able to impute genotypes for this SNP using MaCH 1.0 (Li et al., 2010) in conjunction with phased hap- lotype information from the HapMap CEU sample (estimated r2 between true underlying genotype and imputed genotype = 0.97). Additional LMNA SNPs beyond SNPs 4, 5, 6, 7, 13, and 15 were also genotyped based on convenience and were included in the SNP association analysis in Table 2 but not the haplotype analysis. SNP association results for all
+
+LLI, long-lived individuals; NECS, New England Centenarian Study; SICS, Southern Italian Centenarian Study.
+
+   Block 1 (2 kb) Block 2 (33 kb)
+
+Fig. 1 Linkage disequilibrium (R2 in HapMap CEU sample) between SNPs in LMNA region. Labeled SNPs indicate SNPs tested in Table 2. Encircled SNP names indicate SNPs involved in GTCT haplotype in Table 3.
+
+Stage 1 NECS French SICS Ashkenazi Jewish Meta- SNP Ref SNP ID (N = 1316) (N = 738) (N = 1103) (N = 905) (N = 702) analysis 1 rs2275075 0.54 0.73 0.78 2 rs3814314 0.017 0.81 0.039 3 rs11578696 0.21 0.93 0.39 4 rs4661146 0.12 0.17 0.42 0.65 0.72 0.97 5 rs10737170 0.11 0.016 0.84 0.54 0.45 0.075 6 rs915179 0.014 0.0086 0.96 0.66 0.59 0.020 7 rs2485662 0.054 0.11 0.81 0.82 0.35 0.026 8 rs547915 0.11 0.84 0.84 0.29 9 rs582690 0.078 0.42 0.35 10 rs6686943 0.51 11 rs508641 0.014 0.95 0.044 12 rs12117552 0.21 0.26 0.71 13 rs4641 0.50 0.14 0.61 0.30 0.45 0.98 14 rs12063072 0.36 0.060 0.065 15 rs1468772 0.034 0.35 0.41 0.14 0.0056 16 rs6669212 0.041 0.48 0.36 0.18
+
+NECS, New England Centenarian Study; SICS, Southern Italian Centenarian Study.
+
+five samples are shown in Table 2. When we combined results across samples, SNP 15 showed the strongest single-SNP association in the meta-analysis (OR = 1.17, P = 0.0056) with odds ratios ranging from 1.09 to 1.22 in the four samples tested, but was not significant after cor- rection for multiple testing via permutation tests (multiple-testing- adjusted P = 0.105).
+
+The Stage 1 sample had previously been tested for the presence of pop- ulation stratification between LLI and control subjects (see Supporting information) (Geesaman et al., 2003). However, to ensure that the asso- ciation with the GTCT haplotype did not result from subtle population stratification, we refit the model including the principal components of genotypes from 73 ancestry informative markers (AIMs) from a published panel of European substructure AIMs (Tian et al., 2008). Inclusion of the first four principal components from the AIM genotypes as covariates in the analyses did not substantially diminish the strength of the association. For the 1242 individuals for whom AIMs were available, a similar associa- tion between the GTCT haplotype and longevity was observed before (OR = 1.47, P = 0.00039) and after (OR = 1.46, P = 0.00060) inclusion of the principal components. Although a Tracy–Widom test (Patterson et al., 2006) suggested that four principal components was sufficient to account for potential population stratification, the observed result was robust to the number of principal components included in the model (P ranged from 0.00057 to 0.00062 when 1–10 principal components were included). Similarly, the top two principal components from gen- ome-wide data were available for 671 of the NECS individuals; inclusion of these components as covariates in the analysis slightly strengthened the result. In both cases, the inclusion of principal components in the analyses affected the results only minimally, suggesting that the observed haplotype association in the Stage 1 and NECS samples is not driven by population stratification. Similarly, analysis of the first two principal com- ponents did not reveal evidence of population stratification in a genome- wide study of SICS cases and controls (Malovini et al., 2011). The French sample had been previously tested for population stratification on 57 randomly selected microsatellite markers. As described in Supporting
+
+In replication analyses of the 140 haplotypes of SNPs 4, 5, 6, 7, 13, and 15 in the four Stage 2 samples, an excess of significant haplotypes was observed in the New England Centenarian Study (NECS) sample (Fig. S2; P < 0.01, Supporting information) for all significance thresholds exam- ined (a = 0.00005, 0.0001, 0.0005, 0.001, 0.005, 0.01, and 0.05), but not in the other three Stage 2 samples. When the results for all 140 followed-up haplotypes were combined across all five samples in a meta- analysis (Table 3 and Fig. 2), the original GTCT haplotype of SNPs 6, 7, 13, and 15 was again the most significant (P = 7.5 · 10)4) and remained significant after permutation-based adjustment for multiple testing in both stages of the analysis (multiple-testing-adjusted P = 0.037).
+
+If the genetic load is greater for older individuals, restricting the defini- tion of LLI to include only centenarians should lead to a stronger genetic effect (Tan et al., 2008). For the four samples whose age and sex infor- mation was available [Stage 1, NECS, Southern Italian Centenarian Study (SICS), and the Ashkenazi sample], we reperformed the association test for the GTCT haplotype within each sample after restricting the definition of LLI to include individuals with age ‡ 100. However, the odds ratio for GTCT did not change substantially in any of the four samples. We also performed a sex-stratified version of the haplotype analysis. Similar results were observed in the sex-stratified analysis for each sample, and results were similar for men and women within each sample.
+
+Sample N Case Control OR Z statistic P-value Adjusted P-value Stage 1 1316 0.235 0.163 1.56 4.21 0.000025 0.0045 NECS 738 0.239 0.163 1.60 3.05 0.0023 French 1103 0.208 0.207 1.01 0.074 0.94 SICS 905 0.175 0.157 1.14 1.05 0.29 Ashkenazi 702 0.114 0.139 0.80 )1.40 0.16 Full meta-analysis 1.18 3.37 0.00075 0.037 (two-stage)
+
+NECS, New England Centenarian Study; SICS, Southern Italian Centenarian Study.
+
+study (Table 1). Notably, the association with GTCT was observed in two of the three samples that had ascertained older sets of LLI (mean age > 100); Tan et al. (2008) has argued that the power of association studies investigating exceptional longevity markedly increases with the use of centenarian subjects compared to nonagenarians. However, in the four samples where individual ages were available, we observed similar results when the definition for cases was narrowed to include only centenarians. Another potential source of heterogeneity is environmental differences across samples owing to region of origin. The association between GTCT and longevity was observed in two of the three US samples, but not in the European samples. One region-specific environmental exposure that could interact with aging-related genes to affect longevity is diet. Dietary differences between Europe and the US have been proposed as explana- tions for regional differences in rates of coronary mortality (Renaud & de Lorgeril, 1992; de Lorgeril et al., 1994), and caloric restriction and several dietary antioxidants, including resveratrol, found in red wine, can alter expression of aging-related genes in the hearts and brains of mice (Park et al., 2009).
+
+Stage 1:NECS:French:SICS:Ashkenazi:Meta-analysis: 06Odds ratioLa=tl08 10 «120 «141.618 20 22
+
+Replicating genetic association results across diverse populations has generally been difficult in the longevity literature (Christensen et al., 2006). For example, a strong association between longevity and a FOXO3A SNP (Willcox et al., 2008) replicated in some samples (Flachsbart et al., 2009; Li et al., 2009), including men from the SICS (Anselmi et al., 2009), but was not present in others (Kuningas et al., 2007) (Paw- likowska et al., 2009; Soerensen et al., 2010), including women from the SICS (Anselmi et al., 2009), although two of these studies reported asso- ciations with other FOXO3A SNPs. Reasons proposed for the lack of repli- cation in some samples included those discussed above, as well as lack of gender stratification in some analyses (Anselmi et al., 2009), although, as described in Results, this does not appear to be an issue in the present study.
+
+Fig. 2 Forest plot of odds ratios for meta-analysis of haplotype GTCT on SNPs 6, 7, 13, and 15 across five samples. For each subsample, the black box is centered at the estimated odds ratio, and the gray line represents a 95% confidence interval. Area of the black box varies in proportion to the precision of each estimate. For the meta-analysis, the black diamond is centered at the estimated odds ratio and spans the 95% confidence interval for the meta-analysis odds ratio.
+
+Information, v2 £ 1.00 in all cases, indicating that the French LLI and con- trols were well matched.
+
+Discussion
+
+We observed evidence for association with longevity involving a 4-SNP haplotype, and an excess of significant associations among the same set of correlated haplotypes, in an initial sample of centenarians and younger controls. This result was replicated in one of four follow-up samples, and the association was sufficiently strong in those two samples to remain sig- nificant when combined in a meta-analysis of all five.
+
+The meta-analysis results presented here complement a growing body of experimental evidence (Scaffidi & Misteli, 2006; McClintock et al., 2007; Cao et al., 2011) in suggesting a potential role for LMNA and prog- erin in aspects of normal aging. However, given the incomplete replica- tion we observed, further work is needed to validate and interpret the results reported here. One of the four SNPs in our reported haplotype, rs4641, is a coding SNP for which allele-specific expression has been dem- onstrated (Rodriguez & Eriksson, 2011), with 2.3-fold greater expression for transcripts with the C allele, which is part of the GTCT haplotype asso- ciated with greater longevity in our meta-analysis. Another SNP in our reported haplotype, rs915179, associated with longevity in a recent gen- ome-wide association study (Sebastiani et al., 2012), although this study included most of our NECS cases and controls along with other subjects. Additional association studies of LMNA variants in independent samples and additional experiments focusing on functional consequences of the associated variants would be particularly valuable in establishing and elu- cidating the role of LMNA in the normal aging process.
+
+Had our initial haplotype association been unreplicated in all four fol- low-up samples, it would have been difficult to argue against the possibil- ity of a false positive. However, the probability of observing a second false positive of similar strength is low (< 0.005): in the same 10 000 per- mutations used to adjust the meta-analysis P-value for multiple testing, the best haplotype observed in the Stage 1 sample was followed up with an association in the same direction with |Z| > 3.05 in one or more of the four follow-up samples only 46 times.
+
+Other possible explanations for incomplete replication include unde- tected population structure, use of under-powered replication samples, and heterogeneity between samples. However, adjustment for potential population stratification via principal components only modestly dimin- ished the associations reported here. Similarly, differential power based on sample size differences does not appear to explain the incomplete rep- lication as the NECS sample was arguably the least well-powered owing to small sample size and skewed case–control ratio. Heterogeneity between samples can occur for a variety of reasons. For example, the GTCT haplotype could tag a functional variant in some samples but not others owing to differential LD patterns. Alternatively, a functional variant tagged by GTCT could correlate with the longevity phenotype only in the NECS and Stage 1 samples; this can result from differential ascertainment of cases or from between-sample differences in environmental exposures (McCarthy et al., 2008). One potential source of heterogeneity is differ- ential ascertainment of LLI, as the minimum age for inclusion varied by
+
+Experimental procedures
+
+Samples
+
+We analyzed one initial (Stage 1) and four follow-up (Stage 2) samples of LLI and younger controls. Samples collected for the Stage 1 study by Elixir Pharmaceuticals were Caucasians primarily of Northern European ances- try. Samples were also obtained from the New England (NECS), French, Southern Italian (SICS), and Ashkenazi Jewish Centenarian Studies. Details of sample collection, as well as steps taken to ensure that the study samples did not overlap, can be found in Supporting information.
+
+meta-analysis test statistic. Permutation tests for two-stage studies are complicated by the fact that only partial genotyping is performed in the second stage of the study. Our strategy for dealing with this was, for per- mutation purposes only, to use MaCH 1.0, along with inferred haplotypes from the HapMap CEU sample, to impute the full 16-SNP haplotypes for all Stage 2 samples. We were then able to perform a full two-stage analy- sis in each permutation as follows:
+
+SNP selection
+
+We downloaded all SNP genotype data for the CEU population from )40 kb to +10 kb of LMNA from the website of the International Hap- Map (International HapMap Consortium 2005): http://www.hapmap.org. These genotype data in raw HapMap format were uploaded to Tagger (http://www.broad.mit.edu/mpg/tagger/), and our multiplex assay design (see Supporting Information for details) was created from the list of tag SNPs to capture all variants of interest in our LMNA region of interest. We used r2 > 0.8 as the threshold for accepting tag SNPs. Ten SNPs were selected in HapMap Phase I, release #16 along with the synonymous cod- ing SNP, rs4641, which was not in HapMap Phase I. Upon release of Hap- Map Phase II, release #19 we selected SNPs in the LMNA region again and added five additional SNPs not tagged (r2 < 0.8) by the previously selected SNPs. Based on Phase II of the HapMap, these 16 SNPs offered comprehensive coverage and representation of common variants in the LMNA region and were genotyped in Stage 1.
+
+1 Randomly reassign case–control status within each of the five samples.
+
+2 Compute trend test statistics for all haplotypes (or SNPs) in the permuted Stage 1 sample.
+
+3 To mimic the selection of six SNPs for genotyping in the Stage 2 samples, as was performed in the original study, select the most signifi- cant 6-SNP haplotype from the (permuted) Stage 1 analysis for follow-up. Perform trend tests of association for all six SNPs and for all haplotypes composed of 2–6 SNP combinations of these six SNPs in the four per- muted Stage 2 samples.
+
+4 Compute meta-analysis statistics for all haplotypes (or SNPs) tested on all five permuted samples; record the value of the most significant meta-analysis test statistic.
+
+For Stage 2 samples, we genotyped the six SNPs from the most signifi- cant 6-SNP haplotype in Stage 1. Additional SNPs from the original 16 were genotyped in some Stage 2 samples based on convenience; these SNPs were tested for association (Table 2), but were not included in the haplotype analysis. Details on SNP genotyping are provided in Supporting information.
+
+We performed 10 000 permutations, and recorded the best meta- analysis test statistic for each permutation. We computed the empirical P-value as the proportion of permutations in which the best statistic from the permutation was greater in magnitude than the best statistic from the original data analysis.
+
+Statistical analysis
+
+We used the MaCH 1.0 haplotype inference and imputation software (Li et al., 2010) to infer 16-SNP haplotypes for all individuals in Stage 1 and 6-SNP haplotypes for all individuals in Stage 2. For individuals with miss- ing genotypes, the most likely genotype was inferred based on haplotype frequencies within the sample. We imputed genotypes for SNP rs1468772 that was not genotyped in the French sample, using MaCH (Li et al., 2010) in conjunction with phased haplotype information from the HapMap CEU sample.
+
+Population stratification
+
+As described in Supporting Information, the Stage 1 and French samples had previously been tested for the presence of population stratification between LLI and control subjects and the Stage 1 sample had been genet- ically matched. There was no evidence of population stratification in the French sample (mean v2 = 1.00 across 57 random microsatellite markers) or in the genetically matched Stage 1 sample (mean v2 = 0.95 across 80 random SNPs) (Geesaman et al., 2003).
+
+Weperformedassociationtestsinallfivesamplesandcombinedthesam- ples in a meta-analysis using R (R Development Core Team 2011). We per- formed all SNP and haplotype association tests as Cochran–Armitage tests (Cochran,1954;Armitage,1955)foralineartrendbetweenthenumberof copies of a reference allele (0, 1, or 2) and the likelihood that an individual belongstothecaseorcontrolgroup.WefirsttestedeachSNPorhaplotype for association with centenarian status. We computed meta-analysis statistics for all followed-up SNPs and haplotypes as the weighted sum of z-statistics from the trend tests. The weights for sample i were defined as qffiffiffi 5 n P
+
+For theStage1sample,wealsogenotypedAIMsfrom apublishedpanel specific to European genetic substructure (Tian et al., 2008); genotyping and quality control are described in Supporting Information. We used R to compute principal components and to identify the most important principal components via a Tracy–Widom test (Patterson et al., 2006). To perform an analysis adjusted for population stratification, we included the topprincipalcomponents as covariatesintheoriginalanalysis.
+
+Principal components based on genotypes from the 370K Illumina SNP chip (collected as part of a separate study – Sebastiani et al., 2012) were available for a subset of the NECS sample. We used EIGENSTRAT (Price et al., 2006) to compute the principal components and identified the principal components that were most informative based on visual inspection of a scree plot. To perform an analysis adjusted for population stratification, we included the top principal components as covariates in the original analysis.
+
+To account for the testing of multiple correlated SNPs and haplotypes in Stage 1, we performed permutation tests by (i) randomly permuting case–control status and (ii) recomputing the test statistics for all SNPs and haplotypes. Based on 10 000 permutations, we then computed adjusted P-values that reflected the probability of observing each result by chance alone. To establish whether our most extreme P-value was significantly different than what would be expected if no true association existed, we computed an empirical P-value as the proportion of permutations in which a more extreme result was observed in any of the SNPs or haplo- types analyzed. To establish whether a significant excess of haplotypes with P < a was observed for a given a-level, we computed empirical P-values as the proportion of permutations in which we observed as many haplotypes with P < a as in our original data.
+
+Acknowledgments
+
+This work has been supported by the intramural program of the National Human Genome Research Institute and by grants from Glenn Award for Research in Biological Mechanisms of Aging (N.B.), the NIH PO1 AG027734 (N.B.), the NIH⁄NIA Longevity Consortium U19 AG023122 (G.A., T.P), the NIH⁄NIA R56 AG027216 (C.B.), and NIH⁄NHLBI R01 HL87681-01 (N.S.). We thank Drs. Gilles Thomas,
+
+To account for multiple testing in the two-stage analysis, we performed permutation tests in R to obtain an empirical P-value for the best observed
+
+Malovini A, Illario M, Iaccarino G, Villa F, Ferrario A, Roncarati R, Anselmi CV, Novelli V, Cipolletta E, Leggiero E, Orro A, Rusciano MR, Milanesi L, Maione AS, Condorelli G, Bellazzi R, Puca AA (2011) Association study on long-living individuals from Southern Italy identifies rs10491334 in the CAMKIV gene that
+
+Helene Blanche, and Valerie Morel for genotyping the French sam- ples analyzed in this study and Narisu Narisu for providing technical assistance with the genotyping of the Stage 1 samples.
+
+Novelli V, Cipolletta E, Leggiero E, Orro A, Rusciano MR, Milanesi L, Maione AS, Condorelli G, Bellazzi R, Puca AA (
+
+) Association study on long-living individuals from Southern Italy identifies rs
+
+in the CAMKIV gene that regulates survival proteins. Rejuvenation Res.
+
+,
+
+–
+
+Manolio TA, Brooks LD, Collins FS (
+
+) A Ha
+
+ap harvest of insights into the genetics of common disease. J. Clin. Invest.
+
+,
+
+–
+
+M
+
+arthy MI, Abecasis GR, Cardon LR, Goldstein DB, Little J, Ioannidis JP, Hir- schhorn JN (
+
+) Genome-wide association studies for complex traits: con- sensus, uncertainty and challenges. Nat. Rev. Genet.
+
+,
+
+–
+
+M
+
+lintock D, Ratner D, Lokuge M, Owens DM, Gordon LB, Collins FS, Dja- bali K (
+
+) The mutant form of lamin A that causes Hutchinson-Gilford progeria is a biomarker of cellular aging in human skin. PL
+
+One
+
+, e
+
+Merideth MA, Gordon LB, Clauss S, Sachdev V, Smith AC, Perry MB, Brewer CC, Zalewski C, Kim HJ, Solomon B, Brooks BP, Gerber LH, Turner ML, Domingo DL, Hart TC, Graf J, Reynolds JC, Gropman A, Yanovski JA, Gerhard-Herman M, Collins FS, Nabel EG, Cannon RO III, Gahl WA, Introne WJ (
+
+) Pheno- type and course of Hutchinson-Gilford progeria syndrome. N. Engl. J. Med.
+
+,
+
+–
+
+Nebel A, Kleindorp R, Caliebe A, Nothnagel M, Blanche H, Junge O, Wittig M, Ellinghaus D, Flachsbart F, Wichmann HE, Meitinger T, Nikolaus S, Franke A, Krawczak M, Lathrop M, Schreiber S (
+
+) A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals. Mech. Ageing Dev.
+
+,
+
+–
+
+Novelli V, Viviani Anselmi C, Roncarati R, Guffanti G, Malovini A, Piluso G, Puca AA (
+
+) Lack of replication of genetic associations with human longevity. Biogerontology
+
+,
+
+–
+
+Park SK, Kim K, Page GP, Allison DB, Weindruch R, Prolla TA (
+
+) Gene expression profiling of aging in multiple mouse strains: identification of aging biomarkers and impact of dietary antioxidants. Aging Cell
+
+,
+
+–
+
+Patterson N, Price AL, Reich D (
+
+) Population structure and eigenanalysis.
+
+AS, Condorelli G, Bellazzi R, Puca AA (
+
+) Association study on long-living individuals from Southern Italy identifies rs
+
+in the CAMKIV gene that regulates survival proteins. Rejuvenation Res.
+
+,
+
+–
+
+Manolio TA, Brooks LD, Collins FS (
+
+) A Ha
+
+ap harvest of insights into the genetics of common disease. J. Clin. Invest.
+
+,
+
+–
+
+M
+
+arthy MI, Abecasis GR, Cardon LR, Goldstein DB, Little J, Ioannidis JP, Hir- schhorn JN (
+
+) Genome-wide association studies for complex traits: con- sensus, uncertainty and challenges. Nat. Rev. Genet.
+
+,
+
+–
+
+M
+
+lintock D, Ratner D, Lokuge M, Owens DM, Gordon LB, Collins FS, Dja- bali K (
+
+) The mutant form of lamin A that causes Hutchinson-Gilford progeria is a biomarker of cellular aging in human skin. PL
+
+One
+
+, e
+
+Merideth MA, Gordon LB, Clauss S, Sachdev V, Smith AC, Perry MB, Brewer CC, Zalewski C, Kim HJ, Solomon B, Brooks BP, Gerber LH, Turner ML, Domingo DL, Hart TC, Graf J, Reynolds JC, Gropman A, Yanovski JA, Gerhard-Herman M, Collins FS, Nabel EG, Cannon RO III, Gahl WA, Introne WJ (
+
+) Pheno- type and course of Hutchinson-Gilford progeria syndrome. N. Engl. J. Med.
+
+,
+
+–
+
+Nebel A, Kleindorp R, Caliebe A, Nothnagel M, Blanche H, Junge O, Wittig M, Ellinghaus D, Flachsbart F, Wichmann HE, Meitinger T, Nikolaus S, Franke A, Krawczak M, Lathrop M, Schreiber S (
+
+) A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals. Mech. Ageing Dev.
+
+,
+
+–
+
+Novelli V, Viviani Anselmi C, Roncarati R, Guffanti G, Malovini A, Piluso G, Puca AA (
+
+) Lack of replication of genetic associations with human longevity. Biogerontology
+
+,
+
+–
+
+Park SK, Kim K, Page GP, Allison DB, Weindruch R, Prolla TA (
+
+) Gene expression profiling of aging in multiple mouse strains: identification of aging biomarkers and impact of dietary antioxidants. Aging Cell
+
+,
+
+–
+
+Patterson N, Price AL, Reich D (
+
+) Population structure and eigenanalysis. PL
+
+Genet.
+
+, e
+
+Pawlikowska L, Hu D, Huntsman S, Sung A, Chu C, Chen J, Joyner AH, Schork NJ, Hsueh WC, Reiner AP, Psaty BM, Atzmon G, Barzilai N, Cummings SR, Browner WS, Kwok PY, Ziv E (
+
+) Association of common genetic variation in the insulin⁄IGF
+
+signaling pathway with human longevity. Aging Cell
+
+,
+
+–
+
+Price AL, Patterson NJ, Plenge RM, Weinblatt ME, Shadick NA, Reich D (
+
+) Principal components analysis corrects for stratification in genome-wide associ- ation studies. Nat. Genet.
+
+,
+
+–
+
+R Development Core Team (
+
+) R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. Renaud S, de Lorgeril M (
+
+) Wine, alcohol, platelets, and the French paradox for coronary heart disease. Lancet
+
+,
+
+–
+
+Rodriguez S, Eriksson M (
+
+) Low and high expressing alleles of the LMNA gene: implications for laminopathy disease development. PL
+
+One
+
+, e
+
+Rodriguez S, Coppede F, Sagelius H, Eriksson M (
+
+) Increased expression of the Hutchinson-Gilford progeria syndrome truncated lamin A transcript during cell aging. Eur. J. Hum. Genet.
+
+,
+
+–
+
+Scaffidi P, Misteli T (
+
+) Lamin A-dependent nuclear defects in human aging. Science
+
+,
+
+–
+
+Sebastiani P, Solovieff N, D
+
+an A, Walsh K, Puca A, Hartley SW, Melista E, Andersen S, Dworkis DA, Wilk JB, Myers RH, Steinberg MH, Montano M, Bald- win CT, Hoh J, Perls TT (
+
+). Genetic signatures of exceptional longevity in humans. PL
+
+One
+
+, e
+
+Skytthe A, Pedersen NL, Kaprio J, Stazi MA, Hjelmborg JV, Iachine I, Vaupel JW, Christensen K (
+
+) Longevity studies in Geno
+
+Utwin. Twin Res.
+
+,
+
+–
+
+Soerensen M, Dato S, Christensen K, M
+
+ue M, Stevnsner T, Bohr VA, Christian- sen L (
+
+) Replication of an association of variation in the FOXO
+
+A gene with human longevity using both case-control and longitudinal data. Aging Cell
+
+,
+
+–
+
+Tan Q, Zhao JH, Zhang D, Kruse TA, Christensen K (
+
+) Power for genetic association study of human longevity using the case-control design. Am. J. Epidemiol.
+
+,
+
+–
+
+Tian C, Plenge RM, Ransom M, Lee A, Villoslada P, Selmi C, Klareskog L, Pulver AE, Qi L, Gregersen PK, Seldin MF (
+
+) Analysis and application of European genetic substructure using
+
+K SNP information. PL
+
+Genet.
+
+, e
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, Yano K, Masaki KH, Willcox DC, Rodriguez B, Curb JD (
+
+) FOXO
+
+A genotype is strongly associated with
+
+References
+
+Anselmi CV, Malovini A, Roncarati R, Novelli V, Villa F, Condorelli G, Bellazzi R, Puca AA (
+
+) Association of the FOXO
+
+A locus with extreme longevity in a southern Italian centenarian study. Rejuvenation Res.
+
+,
+
+–
+
+Armitage P (
+
+) Tests for linear trends in proportions and frequencies. Biomet- rics
+
+,
+
+–
+
+Cao K, Capell BC, Erdos MR, Djabali K, Collins FS (
+
+) A lamin A protein isoform overexpressed in Hutchinson-Gilford progeria syndrome interferes with mitosis in progeria and normal cells. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Cao K, Blair CD, Faddah DA, Kieckhaefer JE, Olive M, Erdos MR, Nabel EG, Col- lins FS (
+
+) Progerin and telomere dysfunction collaborate to trigger cellular senescence in normal human fibroblasts. J. Clin. Invest.
+
+,
+
+–
+
+Capell BC, Collins FS (
+
+) Human laminopathies: nuclei gone genetically awry. Nat. Rev. Genet.
+
+,
+
+–
+
+Capell BC, Collins FS, Nabel EG (
+
+) Mechanisms of cardiovascular disease in accelerated aging syndromes. Circ. Res.
+
+,
+
+–
+
+Castro E, Edland SD, Lee L, Ogburn CE, Deeb SS, Brown G, Panduro A, Riestra R, Tilvis R, Louhija J, Penttinen R, Erkkola R, Wang L, Martin GM, Oshima J (
+
+) Polymorphisms at the Werner locus: II.
+
+Leu⁄Phe,
+
+Cys⁄Arg, longevity, and atherosclerosis. Am. J. Med. Genet.
+
+,
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Cochran WG (
+
+) Some methods for strengthening the common v
+
+tests. Bio- metrics
+
+,
+
+–
+
+Deelen J, Beekman M, Uh HW, Helmer Q, Kuningas M, Christiansen L, Kremer D, van der Breggen R, Suchiman HE, Lakenberg N, van den Akker EB, Passto- ors WM, Tiemeier H, van Heemst D, de Craen AJ, Rivadeneira F, de Geus EJ, Perola M, van der Ouderaa FJ, Gunn DA, Boomsma DI, Uitterlinden AG, Chris- tensen K, van Duijn CM, Heijmans BT, Houwing-Duistermaat JJ, Westendorp RG, Slagboom PE (
+
+) Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell
+
+,
+
+–
+
+Flachsbart F, Caliebe A, Kleindorp R, Blanche H, von Eller-Eberstein H, Nikolaus S, Schreiber S, Nebel A (
+
+) Association of FOXO
+
+A variation with human longevity confirmed in German centenarians. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Geesaman BJ, Benson E, Brewster SJ, Kunkel LM, Blanche H, Thomas G, Perls TT, Daly MJ, Puca AA (
+
+) Haplotype-based identification of a microsomal transfer protein marker associated with the human lifespan. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Gruenbaum Y, Margalit A, Goldman RD, Shumaker DK, Wilson KL (
+
+) The nuclear lamina comes of age. Nat. Rev. Mol. Cell Biol.
+
+,
+
+–
+
+Herskind AM, M
+
+ue M, Holm NV, Sorensen TI, Harvald B, Vaupel JW (
+
+) The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum. Genet.
+
+,
+
+–
+
+International Ha
+
+ap Consortium (
+
+) A haplotype map of the human gen- ome. Nature
+
+,
+
+–
+
+Kenyon C (
+
+) The plasticity of aging: insights from long-lived mutants. Cell
+
+,
+
+–
+
+Kuningas M, Magi R, Westendorp RG, Slagboom PE, Remm M, van Heemst D (
+
+) Haplotypes in the human Foxo
+
+a and Foxo
+
+a genes; impact on disease and mortality at old age. Eur. J. Hum. Genet.
+
+,
+
+–
+
+Li Y, Wang WJ, Cao H, Lu J, Wu C, Hu FY, Guo J, Zhao L, Yang F, Zhang YX, Li W, Zheng GY, Cui H, Chen X, Zhu Z, He H, Dong B, Mo X, Zeng Y, Tian XL (
+
+) Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum. Mol. Genet.
+
+,
+
+–
+
+Li Y, Willer CJ, Ding J, Scheet P, Abecasis GR (
+
+) M
+
+H: using sequence and genotype data to estimate haplotypes and unobserved genotypes. Genet. Epi- demiol.
+
+,
+
+–
+
+Ljungquist B, Berg S, Lanke J, M
+
+learn GE, Pedersen NL (
+
+) The effect of genetic factors for longevity: a comparison of identical and fraternal twins in the Swedish Twin Registry. J. Gerontol. A Biol. Sci. Med. Sci.
+
+A, M
+
+– M
+
+de Lorgeril M, Renaud S, Mamelle N, Salen P, Martin JL, Monjaud I, Guidollet J, Touboul P, Delaye J (
+
+) Mediterranean alpha-linolenic acid-rich diet in sec- ondary prevention of coronary heart disease. Lancet
+
+,
+
+–
+
+Supporting Information
+
+redundant haplotypes and six SNPs in the NECS sample. As a service to our authors and readers, this journal provides support- ing information supplied by the authors. Such materials are peer- reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from sup- porting information (other than missing files) should be addressed to
+
+supporting information may be found in the online ver- of this article: S
+
+Experimental procedures: sample collection and S
+
+Quantile plot of P-values from association tests of
+
+non- haplotypes and
+
+SNPs in the Stage
+
+sample.

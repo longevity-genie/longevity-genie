@@ -1,0 +1,497 @@
+Gender-specific association between 1082 IL-10 promoter polymorphism and longevity
+
+D Lio1, L Scola1, A Crivello1, G Colonna-Romano1, G Candore1, M Bonafe`2, L Cavallone3, C Franceschi2,3 and C Caruso1 1Dipartimento di Biopatologia e Metodologie Biomediche, Universita` di Palermo, Palermo, Italy; 2Dipartimento di Patologia Sperimentale, Universita` di Bologna, Bologna, Italy; 3Istituto Nazionale di Riposo e Cura per Anziani di Ancona, Ancona,
+
+Lio1, L Scola1, A Crivello1, G Colonna-Romano1, G Candore1, M Bonafe`2, L Cavallone3,
+
+1Dipartimento di Biopatologia e Metodologie Biomediche, Universita` di Palermo, Palermo, Italy; 2Dipartimento di Patologia Sperimentale, Universita` di Bologna, Bologna, Italy; 3Istituto Nazionale di Riposo e Cura per Anziani di Ancona, Ancona, Italy
+
+Ageing is characterized by a pro-inflammatory status, which could contribute to the onset of major age-related diseases. Thus, genetic variations in pro- or anti-inflammatory cytokines might influence successful ageing and longevity. IL-10 is an appropriate candidate because it exerts powerful inhibitory effects on pro-inflammatory function. IL-10 production is controlled by several polymorphic elements in the 5(cid:1) flanking region of IL-10 gene on 1q32 locus, involving alleles at two microsatellite regions and several polymorphisms in promoter region. We analysed in 190 Italian centenarians ((cid:2)99 years
+
+Thus, genetic variations in pro- or anti-inflammatory cytokines might influence successful ageing and longevity. IL-10 is appropriate candidate because it exerts powerful inhibitory effects on pro-inflammatory function. IL-10 production is controlled by several polymorphic elements in the 5(cid:1) flanking region of IL-10 gene on 1q32 locus, involving alleles at microsatellite regions and several polymorphisms in promoter region. We analysed in 190 Italian centenarians ((cid:2)99 old, 159 women and 31 men) and in 260 (cid:3)60 years old control subjects (99 women and 161 men), matched for geographical distribution, genotype frequencies for −1082G→A, −819C→T and −592C→A IL-10 proximal promoter biallelic polymorphisms by sequence specific probes. −1082G homozygous genotype was increased in centenarian (P ae 0.025) but not in centenarian women. No difference was found between centenarians and control subjects the other two polymorphisms. The presence of −1082GG genotype, suggested to be associated with high IL-10 production, significantly increases the possibility to reach the extreme limit of human lifespan in men. Together with previous data on other polymorphic loci (Tyrosine Hydroxylase, mitochondrial DNA, IL-6, haemochromatosis, IFN-(cid:4)), finding points out that that gender is a major variable in the genetics of longevity, suggesting that men and women different strategies to reach longevity. Concerning the biological significance of this association, we have not searched functional proves that IL-10 is involved. Thus, we should conclude that our data only suggest that a marker on 1q32 genomic region may be involved in successful ageing in man. However, recent data on IL-6 and IFN-(cid:4) genes suggest longevity is negatively associated with genotypes coding for a pro-inflammatory profile. Thus, it is intriguing that the possession of −1082G genotype, suggested to be associated with IL-10 high production, is significantly increased in centenarians.
+
+geographical distribution, genotype frequencies for −1082G→A, −819C→T and −592C→A IL-10 proximal promoter gene biallelic polymorphisms by sequence specific probes. −1082G homozygous genotype was increased in centenarian men (P ae 0.025) but not in centenarian women. No difference was found between centenarians and control subjects regarding
+
+functional proves that IL-10 is involved. Thus, we should conclude that our data only suggest that a marker on 1q32 genomic region may be involved in successful ageing in man. However, recent data on IL-6 and IFN-(cid:4) genes suggest longevity is negatively associated with genotypes coding for a pro-inflammatory profile. Thus, it is intriguing that the possession of −1082G genotype, suggested to be associated with IL-10 high production, is significantly increased in centenarians.
+
+Keywords: IL-10; longevity; inflammation; centenarians; immunogenetics
+
+Introduction
+
+survival from 80 to more than 100 years of age. Indeed, there is some evidence that extreme longevity clusters in some families,3 and preliminary results from several studies suggest a modest ‘recurrent risk’ for exceptional longevity.4 Therefore, the role of genetics in longevity might be much higher than predicted.5
+
+Current evidence, based primarily on Scandinavian Twin Registries, suggests that about a quarter of the variation in adult lifespan can be attributed to genetic factors, ie the heritability of lifespan is about 25%.1,2 It is not known, however, how important genetic factors are in explaining
+
+A dysregulation of both immune and inflammatory responses occurring with increasing age is believed to substantially contribute to morbidity and mortality in humans.6–8 Conversely, human longevity seems to be directly correlated with optimal functioning of the immune system,9 suggesting that some genetic determi- nants of successful ageing might reside in those poly- morphisms for the immune system genes that regulate immune responses.5,10
+
+Correspondence: Prof. C Caruso, Laboratorio di Immunopatologia, Dipart- imento di Biopatologia e Metodologie Biomediche, Corso Tukory 211,
+
+imento di Biopatologia e Metodologie Biomediche, Corso Tukory 211, 90134 Palermo, Italy. E-mail: marcoc(cid:1) unipa.it These studies have been supported by grants from MURST, Rome (ex 40%, Immunogenetics of Longevity, coordinated by Professor Calogero Caruso, to CC and DL), ex 60% to CC and DL., from Min- istery of Health Projects ‘Immunological parameters age-related’ and ‘Pharmacogenomics of Alzheimer’s Disease’, from Sicilian Government ‘Breast Cancer and Immune Response’ and by a cooperation contract between the Dipartimento di Biopatologia e Metodologie Biomediche dell’Universita` di Palermo and the Istituto Nazionale di Riposo e Cura per Anziani di Ancona (Longevity and elderly disability biological markers). Besides, the collaboration between the two groups is partly enhanced by European net- work ImAginE. Received 6 September 2001; revised 16 October 2001; accepted 16
+
+In several cytokine genes, polymorphisms located within promoter regions, mostly single nucleotide poly- morphisms (SNP), or microsatellites, have been described which affect gene transcription, causing interindividual variations in cytokine production. These polymorphisms might confer flexibility in the immune response by allowing differential production of cytokines.11 Cytokine gene polymorphisms have been shown to be involved in the susceptibility, severity and clinical outcome of several
+
+diseases.11–13 In particular ‘high producer’ alleles of proinflammatory cytokines have been shown to be associated with inflammatory age-related diseases14–18 and disability19, and with a decreased probability to reach extreme longevity.20
+
+jects, and no difference was found when gender was con- sidered (Table 1).
+
+Discussion
+
+IL-10, a cytokine produced by macrophages, T cells and B cells, is a major immunoregulatory cytokine, usually considered to mediate potent downregulation of the inflammatory responses.21 The IL-10 production, inde- pendently by interaction with other cytokine gene pro- ducts,25 is genetically controlled by several polymorphic cht. elements in the 5 flanking region of IL-10 gene.22,26 In fact, it has been demonstrated the presence of multiple aa  SNPs in the human IL-10 5 flanking region and some of − − − these (ie 592, 819, 1082) combine with microsatellite alleles to form haplotype associated with differential IL- 10 production.22,23,26–30 Recently, three polymorphisms in the proximal region of IL-10, that might be probable tar- gets for transcription regulating factors, have been described even if conflicting results have been reported on what of these may influence, alone or in reciprocal linkage, the IL-10 transcription.31,32 However, in the proximal region of the promoter, a biallelic poly- − → morphism at 1082 (G A) has been described and the − homozygous genotype for the SNP allele 1082*G seems to be associated with higher IL-10 production respect to G/A heterozygous and A/A homozygous.23,33 The effects of this allelic promoter region difference (relative to the transcription start site) on IL-10 gene activation have been confirmed in reporter gene assays.34 On the other hand, it has been to take into account that in different cells, with different stimuli different effects may be observed.23,28,33 However, this SNP seems to be func- − tionally relevant. In fact, the 1082A carriers (ie IL-10 low producers) have been shown to be more likely to develop inflammatory diseases (or to be affected by more severe clinical patterns), such as rheumatoid arthritis and
+
+Conversely, it can be hypothesised that anti-inflamma- tory cytokines might be involved in successful ageing and longevity. The cytokine IL-10 seems to be an appro- priate candidate from this point of view. In fact, IL-10 was recognized for its ability to inhibit activation and effector function of T cells, monocytes and macrophages, and its principal routine function appears to be to limit and ultimately terminate inflammatory responses.21 The expression of IL-10 is tightly regulated. Its levels are vari- able between individuals and almost 70% of such intra- individual variation is heritable. In fact, IL-10 production ran is controlled by several polymorphic elements in the 5 flanking region of IL-10 gene on 1q32 locus, involving alleles at two microsatellite regions and several SNPs both in distal and proximal promoter region.22
+
+However, in the proximal promoter region, three dif- ferent inheritable haplotypes, involving three biallelic − → − → − polymorphisms at 1082 (G A), 819 (C T) and 592 → (C A) nucleotides of IL-10 promoter, have been ident- − − − ified. One containing the 1082G allele ( 1082G/ 819 − C/ 592C) seems to be associated with high IL-10 pro- − duction and two containing the 1082A allele − − − − − − ( 1082A/ 819C/ 592C and 1082A/ 819T/ 592A) seem to be associated with lower cytokine production.23 The prevalence of these polymorphisms was analysed in a large number of Italian centenarians and compared to a group of younger control subjects.
+
+Results
+
+− → − → − The three SNPs at 1082 (G A), 819 (C T) and 592 → (C A) under study are in strong linkage. Thus, as observed in other Caucasian populations,24 only three out of eight possible haplotypes (GCC, ACC and ATA) − − − segregate in our population. The 1082G/ 819C/ 592C haplotype was the more represented haplotype in both ± ± the controls and centenarians (0.62 0.02 vs 0.68 0.03) − − − whereas the 1082A/ 819T/ 592A was the less frequent ± ± haplotype (0.16 0.01 vs 0.13 0.02). The frequencies of − − − the 1082A/ 819C/ 592C haplotype respectively were ± ± 0.21 0.01 and 0.19 0.02. No significant differences in haplotype distribution between centenarians and controls were observed, by performing the analysis both on the whole and according to gender (data not shown).
+
+The positive significant association between 1082 IL- 10 polymorphism and longevity was observed in centen- arian men but not in women, in accord with previous observations on polymorphisms in Tyrosine Hydroxylase gene38 and mtDNA haplogroups.39 On the other hand,  haemochromatosis40 and interferon(IFN)- 41 gene polymorphisms have been shown to be associated with longevity in women, but not in men. Altogether, these findings point out that gender is a major variable in the genetics of longevity, and suggest as a working hypoth- esis that men and women follow different strategies to reach longevity.42
+
+The clean effect of a given gene is a function of the gene pair combination received from parents and for − 1082 SNP a gene dosage dependent effect on the IL-10 production has been suggested.23 Thus, we have evalu- ated the homo- and heterozygous frequency for the three SNPs under study in the two groups of subjects (Table − 1). The number of centenarians homozygous for 1082G genotype was increased in comparison with younger con- trol subjects, but this increase attained significance only 8 in men (P 0.025). Turner et al23 showed not only that − 1082G allele is correlated with a high capability to pro- duce IL-10 but also that this characteristic is independent − − on the polymorphisms at positions 819 and 592. How- − → ever, in our samples, genotype frequencies for 819C T − → and 592C A homozygous and heterozygous SNPs were not different between centenarians and control sub-
+
+Concerning the biological significance of this associ- ation, we have not searched for functional proves that IL- 10 is involved. Thus, we should conclude that our data only suggest that a marker on 1q32 genomic region may be involved in successful ageing in man. That might due to IL-10 or other gene sequences associated with the pres- − ence of 1082G allele.
+
+However, ageing is associated with increased inflam- matory activity reflected by increased circulating levels of pro-inflammatory cytokines, and acute phase proteins in vivo,7,8 in turn related to higher risk of morbidity and mortality in the elderly.8,15–19,43 Moreover, recent data on “ae IL-620 and IFN- 41 genes suggest that longevity is negatively associated with genotypes coding for a pro- inflammatory profile. Thus, it is intriguing that the
+
+− → − → − → Table 1 Genotype frequencies for 1082G A, 819C T and 592C A IL-10 promoter gene SNPs among Italian centenarians and
+
+− − − Genotypes 1082 819 592 GG GA AA CC CT TT CC CA AA All the subjects (P = NS)a (P = NS)a (P = NS)a Centenarians 87 81 22 142 45 3 142 45 3 = (n 190) (46%) (43%) (11%) (75%) (23%) (2%) (75%) (23%) (2%) Controls 97 137 26 177 80 3 177 80 3 = (n 260) (37%) (53%) (10%) (68%) (31%) (1%) (68%) (31%) (1%) << = = Men (P 0.025)* (P NS)* (P NS)* Centenarians 18 9 4 24 6 1 24 6 1 = (n 31) (58%) (29%) (13%) (78%) (19%) (3%) (78%) (19%) (3%) Controls 55 88 18 110 49 2 24 6 1 = (n 161) (34%) (55%) (11%) (68%) (30%) (1%) (77%) (19%) (3%)
+
+aChi-square test (3 × 2 tables) was performed to calculate significant different genotype distribution between centenarians and controls.
+
+possession of 1082G genotype, suggested to be associa- ted with IL-10 high production, is significantly increased in centenarians.
+
+population pairwise differentiation test (Arlequin × Software). 3 2 tables were constructed to determine stat- Ae istical significance ( 2 analysis) of differences in percent- ages of homo and heterozygous individuals for the single IL-10 nucleotide polymorphisms in centenarians and con- trol groups.
+
+Furthermore, studies on cytokine gene polymorphisms may help in identifying genetic factors, which impinge upon survival and longevity in humans.
+
+Materials and methods
+
+References
+
+Herskind AM, Mcgue M, Holm NV, Sorensen TIA, Harvald B, Vaupel JW. The heritability of human longevity a population- based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet
+
+;
+
+:
+
+–
+
+Ljungquist B, Berg S, Lanke J, M
+
+learn GE, Pedersen NL. The effect of genetic factors for longevity a comparison of identical and fraternal twins in the Swedish Twin Registry. J Gerontol A Biol Sci Med Sci
+
+;
+
+: M
+
+–M
+
+Robine JM, Kirkwood TBL, Allard M. Sex and longevity. Sexuality, Gender, Reproduction, Parenthood. Springer-Verlag: Berlin,
+
+Perls T, Shea-Drinkwater M, Bowen-Flynn J et al. Exceptional familial clustering for extreme longevity in humans. J Am Geriatr Soc
+
+;
+
+:
+
+–
+
+Caruso C, Candore G, Colonna Romano G et al. Immunogenetics of longevity. Is major histocompatibility complex polymorphism relevant to the control of human longevity? A review of litera- ture data. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+Pawelec G, Effros RB, Caruso C, Remarque E, Barnett Y, Solana R. T cells and aging. Front Biosci
+
+;
+
+: D
+
+–
+
+Franceschi C, Bonafe` M, Valensin S et al. Inflamm-aging. An evolutionary perspective on immunosenescence. Ann NY Acad Sci
+
+;
+
+:
+
+–
+
+Bruunsgaard H, Pedersen M, Pedersen BK. Aging and proin- flammatory cytokines. Curr Opin Hematol
+
+;
+
+:
+
+–
+
+Franceschi C, Monti D, Sansoni P, Cossarizza A. The immu- nology of exceptional individuals: the lesson of centenarians. Immunol Today
+
+;
+
+:
+
+–
+
+Caruso C, Candore G, Colonna Romano G et al. HLA, aging and longevity: a critical reappraisal. Human Immunol
+
+;
+
+:
+
+–
+
+Bidwell J, Keen L, Gallagher G et al. Cytokine gene polymor- phism in human disease: on-line databases. Genes Immun
+
+;
+
+:
+
+–
+
+Bidwell J, Keen L, Gallagher G et al. Cytokine gene polymor- phism in human disease: on-line databases, supplement
+
+Genes Immun
+
+;
+
+:
+
+–
+
+Subjects and IL-10 typing
+
+(9 DNA samples were obtained from 190 centenarians ( 99 = years old, 159 women and 31 men) from north (n 58), = = centre (n 80) and south (n 52) Italy. Women outnum- bered men with a ratio of about 5:1, similar to that expected from previous investigations.42 Age was veri- fied by researching archival records in the City Hall and/or Church registries, paying attention to the con- cordance between reported age and personal chrono- logies (age of marriage and of military service for men, age of first and last pregnancy for women, age of chil- dren, among others). DNAs from 260 (99 women and 161 Ohaet men) 60 years old controls matched for geographical origin were also collected. Written informed consent for enrolling in the study and for personal data management was obtained from all the subjects according to Italian laws. Blood specimens were collected in tripotassium EDTA sterile tubes and immediately stored at − 70° C. Genomic DNA extraction was carried out according to − ° Miller et al44 and stored at 20 C for the IL-10 gene analy- − sis. Three different biallelic polymorphisms at 1082 → − → − → (G A), 819 (C T) and 592 (C A) nucleotides, were identified using the oligotyping hybridisation method- ology of Turner et al23 as previously described.25
+
+Statistical analysis
+
+IL-10 allele frequencies were evaluated by gene count and haplotype frequencies calculated by a maximum likelihood algorithm (Arlequin Software, University of Geneva). The data were tested for the goodness-of-fit aed between the observed and expected genotype values ( 2 test) and their fit to Hardy–Weinberg equilibrium. Analy- sis of statistical differences between haplotype fre- quencies in centenarians and controls were evaluated by
+
+13 http://www.pam.bris.ac.uk./services/GAI/cytokine4.htm. 14 Bhojak TJ, DeKosky ST, Ganguli M, Kamboh MI. Genetic poly-
+
+D’Alfonso S, Rampi M, Rolando V, Giordano M, Momigliano- Richiardi P. New polymorphisms in the IL-
+
+promoter region. Genes Immun
+
+;
+
+:
+
+–
+
+Gibson AW, Edberg JC, Wu J, Westendorp RG, Huizinga TW, Kimberly RP. Novel single nucleotide polymorphisms in the distal IL-
+
+promoter affect IL-
+
+production and enhance the risk of systemic lupus erythematosus. J Immunol
+
+;
+
+:
+
+–
+
+Westendorp RG, van Dunne FM, Kirkwood TB, Helmerhorst FM, Huizinga TW. Optimizing human fertility and survival. Nat Med
+
+;
+
+:
+
+Hutchinson IV, Pravica V, Hajeer A, Sinnott PJ. Identification of high and low responders to allografts. Rev Immunogenet
+
+;
+
+:
+
+–
+
+Crawley E, Kay R, Sillibourne J, Patel P, Hutchinson I, Woo P.  Polymorphic haplotypes of the interleukin-
+
+flanking region determine variable interleukin-
+
+transcription and are associa- ted with particular phenotypes of juvenile rheumatoid arthritis. Arthritis Rheum
+
+;
+
+:
+
+–
+
+Hajeer AH, Lazarus M, Turner D et al. IL-
+
+gene promoter polymorphisms in rheumatoid arthritis. Scand J Rheumatol
+
+;
+
+:
+
+–
+
+Tagore A, Gonsalkorale WM, Pravica V et al. Interleukin-
+
+(IL-
+
+) genotypes in inflammatory bowel disease. Tissue Antigens
+
+;
+
+:
+
+–
+
+Huizinga TW, Keijsers V, Yanni G et al. Are differences in interleukin
+
+production associated with joint damage? Rheu- matology
+
+;
+
+:
+
+–
+
+De Benedictis G, Carotenuto L, Carrieri G et al. Gene/longevity association studies at four autosomal loci (REN, THO, PARP, SOD
+
+). Eur J Hum Genet
+
+;
+
+:
+
+–
+
+De Benedictis G, Rose G, Carrieri G et al. Mitochondrial DNA inherited variants are associated with successful aging and lon- gevity in humans. FASEB J
+
+;
+
+:
+
+–
+
+Lio D, Balisteri CR, Colonna-Romano G et al. Association between the MHC class I gene HFE polymorphisms and lon- gevity: a study in Sicilian population. Genes Immun
+
+;
+
+:
+
+–
+
++ →
+
+Lio D, Scola L, Crivello A et al. Allele frequencies of
+
+T A single nucleotide polymorphism at the first intron of Interferon- east gene in a group of Italian centenarians. Exper Gerontol
+
+;
+
+: (in press).
+
+Franceschi C, Motta L, Valensin S et al. Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians. Aging (Milan)
+
+;
+
+:
+
+–
+
+Ershler WB, Keller ET. Age-associated increased interleukin-
+
+gene expression, late-life diseases, and frailty. Annu Rev Med
+
+;
+
+:
+
+–
+
+Miller SA, Dykes DD, Polesky HF. A simple salting out pro- cedure for extracting DNA from human nucleated cells. Nucl Acid Res
+
+;
+
+:
+
+–
+
+morphisms in the cathespin D and interleukin-
+
+genes and the risk of Alzheimer’s disease. Neurosci Lett
+
+;
+
+:
+
+–
+
+Grimaldi LM, Casadei VM, Ferri C et al. Association of early- onset Alzheimer’s disease with an interleukin-
+
+alpha gene poly- morphism. Ann Neurol
+
+;
+
+:
+
+–
+
+Hobson EE, Ralston SH. Role of genetic factors in the pathophy- siology and management of osteoporosis. Clin Endocrinol (Oxf)
+
+;
+
+:
+
+–
+
+Franceschi C, Valensin S, Lescai F et al. Neuroinflammation and the genetics of Alzheimer’s disease: the search for a pro- inflammatory phenotype. Aging (Milan)
+
+;
+
+:
+
+–
+
+M
+
+usker SM, Curran MD, Dynan KB et al. Association between polymorphism in regulatory region of gene encoding tumour necrosis factor alpha and risk of Alzheimer’s disease and vascu- lar dementia: a case-control study. Lancet
+
+;
+
+:
+
+–
+
+Ferrucci L, Harris TB, Guralnik JM et al. Serum IL-
+
+level and the development of disability in older persons. J Am Geriatr Soc
+
+;
+
+:
+
+–
+
+Bonafe` M, Olivieri F, Cavallone L et al. A gender-dependent gen- etic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol
+
+;
+
+:
+
+–
+
+Moore KW, de Waal Malefyt R, Coffman RL, O’Garra A. Interleukin-
+
+and the interleukin-
+
+receptor. Annu Rev Immu- nol
+
+;
+
+:
+
+–
+
+Kube D, Rieth H, Eskdale J, Kremsner PG, Gallagher G. Struc- a
+
+! tural characterisation of the distal
+
+flanking region of the human interleukin-
+
+gene. Genes Immun
+
+;
+
+:
+
+–
+
+Turner DM, Williams DM, Sankaran D, Lazarus M, Sinnott PJ, Hutchinson IV. An investigation of polymorphism in the interleukin-
+
+gene promoter. Eur J Immunogenet
+
+;
+
+:
+
+–
+
+Reynard MP, Turner D, Navarrete CV. Allele frequencies of   polymorphisms of the tumour necrosis factor- , interleukin-
+
+, pe RAE-y a interferon- and interleukin-
+
+genes in a north European Cauca- soid group from the UK. Eur J Immunogenet
+
+;
+
+:
+
+–
+
+Lio D, Candore G, Colombo A et al. A genetically determined a i high setting of TNF- influences immunological parameters of HLA-B
+
+,
+
+R
+
+positive subjects: implications for autoimmunity. Human Immunol
+
+;
+
+:
+
+–
+
+Donger C, Georges JL, Nicaud V et al. New polymorphisms in the interleukin-
+
+gene-relationships to myocardial infarction. Eur J Clin Invest
+
+;
+
+:
+
+–
+
+Eskdale J, Kube D, Tesch H, Gallagher G. Mapping of the ne human IL-
+
+gene and further characterization of the
+
+flanking sequence. Immunogenetics
+
+;
+
+:
+
+–
+
+Eskdale J, Gallagher G, Verweij CL, Keijsers V, Westendorp RGJ, Huizinga TWJ. Interleukin
+
+secretion in relation to human IL-
+
+locus haplotypes. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Eskdale J, Keijsers V, Huizinga T, Gallagher G. Microsatellite alleles and single nucleotide polymorphisms (SNP) combine to form four major haplotype families at the human interleukin-
+
+(IL-
+
+) locus. Genes Immun
+
+;
+
+:
+
+–

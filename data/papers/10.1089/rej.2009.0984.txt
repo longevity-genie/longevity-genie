@@ -1,0 +1,439 @@
+and KIR Frequencies in Sicilian Centenarians
+
+Florinda List`ı,1 Calogero Caruso,1 Giuseppina Colonna-Romano,1 Domenico Lio,1 Domenico Nuzzo,2 and Giuseppina Candore1
+
+Abstract
+
+Several studies suggest that human longevity appears to be linked inextricably with optimal functioning of the immune system, suggesting that specific genetic determinants may reside in loci that regulate the immune re- sponse, as human leukocyte antigen (HLA) and killer cell immunoglobulin-like receptor (KIR) genes. It has been suggested that longevity is associated with positive selection of alleles (i.e., HLA-DR11) or haplotypes (i.e., HLA- B8,DR3) that confer resistance to infectious disease(s). On the other hand, the cytolytic activity of natural killer (NK) cells is controlled by activating and inhibitory cell-surface receptors, including KIR. The genetic diversity of the KIR loci with respect to successful aging has been analyzed only in one study performed in the Irish popu- lation. Although two KIR genes (2DS3, 2DL5) displayed an initial increased frequency in the aged group, the significance of this association was lost when repeated in a second cohort. We have evaluated by polymerase chain reaction–sequence-specific primers (PCR-SSP) HLA-DRB1 and KIR receptors=HLA ligands frequencies in cente- narians and controls from Sicily. Our results demonstrate an increase of the HLA DRB1*18 allele in male cente- narians ( p ¼ 0.0266, after Bonferroni correction). Concerning KIR, no significant difference was observed after Bonferroni correction. However, our findings suggest that HLA=KIR=longevity associations are population spe- cific, being heavily affected by the population-specific genetic and environmental history. This kind of study is important to better understand aging and longevity, hence enhancing the planning of antiaging strategies.
+
+Introduction
+
+with longevity in the Sardinian population. On the other hand, association studies are subjected to a number of pos- sible confounding factors (as part of the homogeneity of the population in terms of geographic origin).5,6
+
+inextricably linked with optimal functioning of the immune system, sug- gesting that specific genetic determinants may reside in loci that regulate the immune response, as human leukocyte antigen (HLA), cytokine networks, and killer cell immuno- globulin-like receptor (KIR).1 The studies performed on the association between longevity and HLA (the human major histocompatibility complex [MHC]) are generally difficult to interpret, owing to major methodological problems. How- ever, some of these studies, which are well designed and performed and support suggestions derived from the mouse studies on MHC effects on longevity.2,3 These studies sug- gest that longevity is associated with positive selection of alleles (i.e., HLA-DR11) or haplotypes (i.e., HLA-B8,DR3) that confer resistance to infectious diseases, respectively, via peptide presentation or via antigen nonspecific control of immune response. It is noteworthy that these associations are mostly gender related.3,4
+
+Another crucial role is played by the KIRs in the regula- tion of innate immune response. They are glycoproteins ex- pressed on the cell surface of natural killer (NK) cells and subsets of T cells. These polymorphic receptors interact with specific motifs on HLA class I molecules, modulate NK cy- tolytic activity, and are encoded by genes located on chro- mosome 19q13.4.7–9
+
+The KIR gene family represents a highly polymorphic class of receptor-encoding genes, which have displayed considerable allelic diversity, and it is postulated that KIR polymorphism arises from both the occurrence of random point mutations and recombination between homologous KIR genes.10,11 At present, approximately 16 expressed KIR genes have been identified and these are classified into four major groups (KIR2DS, 3DS, 2DL, 3DL) on the basis of the structural organization and function of the receptors they encode.12 In addition, two KIR pseudogenes have been identified.9,13 These are named KIR2DP1 and KIR3DP1,
+
+In our previous case–control studies, we have demon- strated that both HLA-DR and -DQ alleles are not associated
+
+1Immunosenescence Unit, Department of Pathobiology and Biomedical Methodologies, University of Palermo, Palermo, Italy. 2Institute of Biomedicine and Molecular Immunology, National Research Council, Palermo, Italy.
+
+reflecting the high sequence homology they share with two- domain and three-domain KIR genes, respectively.
+
+typed for class II HLA alleles and KIR receptors =HLA li- gands by polymerase chain reaction–sequence-specific pri- mer (PCR-SSP; One Lambda, Inc. Canoga Park, CA) and KIR-TYPE=Epitop-TYPE (BAG Health Care GmbH, Lich, Germany). The KIR-TYPE kit was designed to identify 14 KIR genes (2DL1, 2DL2, 3DL1, 2DL4, 2DL5, 2DS1, 2DS2, 2DS3, 2DS4, 2DS5, 3DL1, 3DL2, 3DL3, 3DS1), 2 pseudogenes (2DP1 and 3DP1) and the common variants of KIR2DL5 (KIR2DL5A, KIR2DL5B), the KIR2DS4 allele (*001=002 and *003), and KIR3DP1 allele (*001=002 and *003), whereas the Epitop- TYPE kit was used to detect the alleles of the HLA specifi- cities HLA-Cw Asn80, HLA-Cw Lys80, HLA-B Bw4Threo, HLA-B Bw4 Iso, and HLA-A Bw4. The PCR reaction was amplified using a PCR thermal sequencer (Mycicler, Biorad, Milan, Italy). After the PCR process, the amplified DNA fragments were separated by agarose gel electrophoresis (2–2.5%), 0.5–1% Tris=borate=EDTA buffer, and ethidium bromide (0.5mg=mL). All the subjects positive for the HLA- DR3 subtype, HLA-DRB1*17, were typed for HLA-B8 by micro-SSP (One Lambda, Inc.) to identify carriers of HLA- B8,DR3(DR17) haplotype, which is part of the 8.1 ancestral haplotype (AH 8.1) HLA-A1, Cw7, B8, TNFAB*a2b3, TNFN*S, C2*C, Bf*s, C4A*Q0, C4B*1, DRB1*0301(DR17), DRB3*0101, DQA1*0501, DQB1*0201.4
+
+On the basis of gene content, two groups of KIR haplotype have been defined as A and B. Common to both groups of haplotypes are the ‘‘framework genes’’: KIR3DL2, KIR3DL3, and KIR2DL4.14 Group A haplotypes contain not more than nine loci, which include KIR2DL1, 2DL3, 2DL4, 2DS4, 3DL1, 3DL2, 3DL3, 2DP1, and 3DP1. In contrast, the group B haplotypes are more diverse and have several genes coding activating receptors.
+
+Several studies have associated KIR genes with disease susceptibility, immune responsiveness, and events following allogenic transplantation. Recent reports have implicated KIRs in affecting the outcome of hematopoietic stem cell transplan- tation.15 The genetic diversity of the KIR loci with respect to successful aging has been analyzed only in one study per- formed in the Irish population. Although, two KIR genes (2DS3, 2DL5) displayed an initial increased frequency in the aged group, the significance of this association was lost when repeated in a second cohort.16
+
+To validate (in our homogeneous population) the gender- related associations between HLA-DRB1 genes and longevity observed in other Caucasoid populations, and to ascertain whether a particular repertoire of KIR receptors is associated with successful aging, we have evaluated HLA-DRB1 and KIR genotypes in centenarians and controls from Sicily.
+
+Statistical analysis
+
+Allele frequencies were evaluated by gene count, and 2(cid:1)2 tables were constructed to determine the statistical signifi- cance (chi-squared test with Yates correction) of differences in allele frequency for the HLA-DR polymorphisms and KIR genes between centenarians and controls. The p values ob- tained were multiplied for the number of alleles under study (Bonferroni correction), i.e., 14 for DR typing and 19 KIR typing. The data were tested for the goodness of fit between the observed and expected genotype values and their fit to Hardy–Weinberg equilibrium (HWE).
+
+Materials and Methods
+
+Subjects
+
+We have genotyped 77 centenarians and 299 healthy con- trols for HLA-DRB1 and 44 centenarians and 57 healthy con- trols for KIR receptors=HLA ligands, all from Palermo and surrounding municipalities in western Sicily, Italy. The age of Sicilian centenarians was verified by archival records at the municipal offices and=or church registries. We paid particular attention to the concordance between reported age and per- sonal chronologies (age of marriage and of military service for men,age of firstand lastpregnancy for women,age of children, among others). This group did not have any cardiac risk factors or major age-related diseases (e.g., coronary heart disease, se- vere cognitive impairment, severe physical impairment, clini- cally evident cancer, or renal insufficiency), although some had decreased auditory and visual acuity, as would be expected.17 Most biochemical parameters, including cholesterol and tri- glycerides, were in the normal range. The healthy control group of 299 subjects was recruited amongst students or staff personnel who were checked and judged to be in good health on the basis of their clinical history and blood tests (complete blood cell count, erythrocyte sedimentation rate, glucose, urea nitrogen, creatinine, electrolytes, C-reactive protein, liver function tests, iron,proteins, cholesterol,triglycerides). Because immigration and intermarriage have historically been rare, the Sicilian ethnicity of all participants was established if all four grandparents were born in western Sicily. The study was ap- proved by the University Hospital Ethics Committee, and written informed consent was obtained from all participants.
+
+Results
+
+genes under investigation were consistent with those pre- dicted by the HWE. Table 1 shows the HLA-DRB1* allele frequencies in 299 controls and 77 centenarians. We found an increase of HLA DRB1*18 allele in male centenarians (p ¼0.0019), the increase remained significant after Bonfer- roni correction (p¼ 0.0266). Concerning the other alleles, no significant differences were observed between centenarians and controls (both in women and in men). A sample of subjects (38 healthy controls and 44 centenarians) was typed for HLA-B8, but there were no significant differences be- tween centenarians and controls concerning the HLA- B8,DR3 phenotype (data not shown).
+
+Concerning KIR genes, Table 2 shows the KIR gene fre- quencies in 57 healthy controls and 44 centenarians. Only a significant decrease of the 2DP1 KIR gene in centenarians was observed (p ¼0.03), and it was no longer significant after Bonferroni correction. No significant difference was obtained stratifying the subjects by gender (data not shown). Table 3 shows HLA ligands frequencies observed in 57 healthy con- trols and 44 centenarians. No significant difference was ob- served in centenarians and controls for HLA ligands.
+
+HLA and KIR typing
+
+The salting-out method was used to extract the DNA, following the standard protocol.18 The DNA samples were
+
+Table Allele Frequencies in Controls Women and Men 1. HLA-DRB1* 299 (171 128 ) and in Centenarians Women and Men from Sicily 77 (51 26 )
+
+Controls Centenarians HLA All Women Men All Women Men DRB1*01 43 (14.4%) 25 (14.5%) 18 (14%) 9 (12%) 7 (13.7%) 2 (8.7%) DRB1*15 74 (24.7%) 39 (22.6%) 35 (27.3%) 12 (16.2%) 7 (13.7%) 5 (21.7%) DRB1*16 20 (6.6%) 8 (4.6%) 12 (9.3%) 3 (4%) 1 (2%) 2 (8.7%) DRB1*17 70 (23.4%) 40 (23.2%) 30 (23.4%) 15 (20%) 12 (23.5%) 3 (13%) DRB1*18 2 (0.6%) 2 (1.1%) 0 6 (8.1%) 3 (5.8%) 3 (13%)a DRB1*4 62 (20.7%) 32 (18.6%) 30 (23.4%) 15 (20%) 11 (21.5%) 4 (17.4%) DRB1*10 12 (4%) 6 (3.4%) 6 (4.6%) 3 (2.7%) 3 (5.9%) 0 DRB1*11 117 (39.1%) 73 (42.4%) 44 (34.3%) 27 (36.5%) 19 (37.2%) 8 (34.8%) DRB1*12 10 (3.3%) 10 (5.8%) 0 3 (4%) 2 (4%) 1 (4.3%) DRB1*13 43 (14.4%) 26 (15.1%) 17 (13.3%) 17 (23%) 13 (25.5%) 4 (17.4%) DRB1*14 21 (7%) 13 (7.5%) 8 (6.2%) 7 (9%) 4 (7.9%) 3 (13%) DRB1*7 37 (16.1%) 24 (11.6%) 13 (10.1%) 9 (12%) 5 (9.8%) 4 (17.4%) DRB1*08 4 (1.3%) 2 (1.1%) 2 (1.5%) 1 (1.3%) 1 (1.9%) 0 DRB1*09 1 (0.3%) 1 (0.5%) 0 2 (2.7%) 1 (1.9) 1 (4.3)
+
+ap¼0.0019 by chi-squared Yates correction, p¼0.0266 after Bonferroni’s correction. HLA, Human leukocyte antigen.
+
+in the polymorphisms for genes that regulate immune re- sponses as HLA and KIR.1 HLA polymorphisms have been the focus of a vast number of aging association studies, in contrast to only two studies of KIR genes.16 Conflicting results have been obtained regarding HLA, suggesting that the ob- served age-related differences in the frequency of HLA anti- gens are due to bias. The studies performed on the association between longevity and HLA are generally difficult to inter- pret, owing to major methodological problems. However, as reported Caruso et al.,2,3 some that were well designed and performed suggest an HLA effect on longevity. In studies performed in Caucasoids, an increase in HLA-DRB1*11 in Dutch women over 85 years was observed.20 The same laboratory performed a further study and, by using a ‘‘birth- place-restricted comparison’’ in which the origin of all the subjects was ascertained, the authors were able to confirm that aging in women was positively associated with HLA- DR5.21 Two French studies confirmed the relevance of HLA- DR11 to longevity in aged populations.22,23 This increase is consistent with the protective effects of this allele in viral diseases, as HLA-DR5, or its subtype HLA-DR11, frequencies have been shown to be decreased in some viral diseases.2,3
+
+Analyzing the distributions of ‘‘A’’ haplotype, ‘‘B’’ haplotype, and ‘‘A=B’’ haplotype, there are not significant differences (data not shown). However, the A haplotype predominates in the Sicilian population (26% vs. 0% in healthy controls).
+
+Discussion
+
+Longevity is the result of several interacting factors, in- cluding genetic, environmental, and behavioral compo- nents.19 Several studies suggest that human longevity is inextricably linked to the optimal function of the immune system. Hence, genetic determinants of longevity might reside
+
+2. KIR in Healthy Controls and Centenarians 57 44
+
+Controls Centenarians KIR genes (n ¼57) (n ¼44) p value 2DL1 56 (98.2%) 42 (95.5%) 2DL2 40 (70%) 28 (63.6%) 2DL3 39 (68.4%) 30 (68%) 2DL4 56 (98.2%) 43 (97.7%) 2DL5A 10 (17.5%) 10 (22.7%) 2DL5B 18 (31.5%) 10 (22.7%) 2DS1 28 (49.1%) 19 (43.2%) 2DS2 36 (63.1%) 29 (66%) 2DS3 30 (52.6%) 24 (54.5%) 2DS4001=002 10 (17.5%) 8 (18%) 2DS4003=007 43 (75.4%) 32 (72.7%) 2DS5 24 (42.1%) 16 (36.3%) 3DL1 51 (89.5%) 39 (88.6%) 3DL2 54 (94.7%) 42 (95.5%) 3DL3 56 (98.2%) 44 (100%) 3DS1 25 (43.8%) 21 (47.7%) 2DP1 55 (96.5%) 37 (84%) 0.03a 3DP1001=004 2 (3.5%) 4 (9%) 3DP1003 53 (93%) 37 (84%)
+
+An association between longevity and the haplotype AH 8.1 seems to emerge. An excess of this AH in the oldest old men has been reported in French and in North Ireland populations.24,25 This association appears to be gender spe- cific. In fact, a Greek study showed a significant decrease of
+
+Table 3. The HLA Ligands Frequencies Observed in 57 Healthy Controls and 44 Centenarians
+
+Controls Centenarians Group (n¼ 57) (n ¼44) p value C1 16 (28%) 19 (43%) N.S. C2 17 (30%) 11 (25%) N.S. C1,C2 24 (42%) 14 (32%) N.S.
+
+aUncorrected p value by chi-squares Yates correction. KIR, Killer cell immunoglobulin-like receptor.
+
+HLA, Human leukocyte antigen; N.S., not significant.
+
+AH 8.1 in aged women.26 Thus, immune dysfunctions of AH 8.1 should contribute to early morbidity and mortality in elderly women, to more susceptibility to autoimmune dis- eases than men, and to longevity in elderly men.2–4
+
+significant after Bonferroni correction. As in other Caucasian populations, the A haplotype was found to be prevalent in Sicilian population. Thus, results obtained show that only an HLA allele (DRB1*18) is associated with longevity. To con- firm this association, a further study in a new cohort of centenarians and controls is needed. On the other hand, no significant association between successful aging and KIR gene content was observed in this Sicilian population.
+
+pected on the basis of available data on the genetics of lon- gevity, showing that the association of longevity with particular alleles may be found only in one gender.27 How- ever, in a longitudinal study, in which a total of 919 subjects aged 85 and older were HLA-typed and followed up for at least 5 years, no HLA association with mortality was found. 21
+
+pected on the basis of available data on the genetics of lon- gevity, showing that the association of longevity with particular alleles may be found only in one gender.27 How- ever, in a longitudinal study, in which a total of 919 subjects aged 85 and older were HLA-typed and followed up for at least 5 years, no HLA association with mortality was found. 21 Positive studies need confirmation in different Caucasoid populations with different ethnic backgrounds and=or rep- lication in a new cohort of oldest old from the same popu- lation. In Sardinian centenarians, we did not observed the associations demonstrated in the other well-planned and designed studies discussed above.5 One study set out to specifically confirm the previously reported increase in the frequency of AH 8.1 in aged men of the northern Irish population,25 but did not reveal any statistically significant haplotype frequency differences between the aged cohort of individuals compared to the younger controls. However, a striking decrease was observed when the aged women (13.1%) were compared to the control women (17.8%).28
+
+Although, the present study does not support a role for KIR diversity in aging, considerably more research is required to elucidate the precise role that NK cells play in longevity. It is conceivable that epistatic interactions between particular HLA and KIR haplotypes may contribute to the generation of a dynamic immune response that supports successful aging, whereas certain other haplotype combinations may produce suboptimal levels of immunity and reduced life span.
+
+Present and previous findings suggest that HLA=KIR= longevity associations are population specific, being heavily affected by the population-specific genetic and environmen- tal history. On the other hand, our group has performed several studies showing that inflammatory gene variants are associated with longevity.34,35 In our opinion, inflammatory genes are more relevant than immune response genes in the control of successful aging. However, this kind of study is important to better understand aging and longevity, hence enhancing the planning of antiaging strategies.36–38
+
+A pivotal role in the innate immune response is also played by NK cells in successful aging. In particular, some studies have showed that decreased NK cell function is associated with an increased incidence of infectious diseases both in aged humans 29 and in mice,30 highlighting the im- portance of a well-preserved NK cell function in old age. The elderly (>85 years) with low numbers of NK cells were reported to have three times the mortality risk in the first 2 years of follow up than those with high NK cell numbers.31 In addition, high NK cytotoxicity in aged people is related both to a low incidence of respiratory tract infections and to good development of protective antibody titers in response to influenza vaccination.32 Hence, preserved NK cytotoxicity should be considered a biomarker of healthy aging and longevity, whereas low NK cytotoxicity is a predictor of morbidity and mortality due to infections.
+
+Acknowledgments
+
+This work was supported by grants from the Italian Min- istry of Education, University and Research to C.C. and G.C.
+
+References
+
+Candore G, Colonna-Romano G, Lio D, Caruso C. Immunological and immunogenetic markers of successful and unsuccessful ageing. In: Pawelec G, ed. Advances in Cell Aging and Gerontology Basic Biology and Clinical Impact of Immunosenescence, Elsevier Science, Amsterdam,
+
+Caruso C, Candore G, Colonna-Romano G, Lio D, Bonafe` M, Valesin F, Franceschi C. HLA, aging and longevity: Aa critical reappraisal. Human Immunol
+
+;
+
+:
+
+–
+
+Caruso C, Candore G, Colonna-Romano G, Lio D, Bonafe` M, Valesin F, Franceschi C. Immunogenetics of longevity. Is major histocompatibility complex polymorphism relevant to the con- trol of human longevity? Mech Ageing Dev
+
+;
+
+:
+
+–
+
+Candore G, Lio D, Colonna-Romano G, Caruso C. Patho- genesis of autoimmune diseases associated with
+
+ances- tral haplotype: Effect of multiple gene interactions. Autoimmunity Rev
+
+;
+
+:
+
+–
+
+Li
+
+,Pe
+
+M,Carr
+
+,List`ıF,Ferlazz
+
+,Candor
+
+,Colonna- Roman
+
+,Ferrucc
+
+,Deian
+
+,Baggi
+
+,Francesch
+
+,Caruso C. Association between the HLA-DR alleles and longevity: A study in Sardinian population. Exp Gerontol
+
+;
+
+:
+
+–
+
+Scola L, Lio D, Candore G, Forte GI, Crivello A, Colonna- Romano G, Pes MG, Carru C, Ferrucci L, Deiana L, Baggio G, Franceschi C, Caruso C. Analysis of HLA-DRB
+
+, DQA
+
+, DQB
+
+haplotypes in Sardinian centenarians. Exp Gerontol
+
+;
+
+:
+
+–
+
+Moretta A, Sivori S, Vitali M, Pende D, Morelli L, Augugliaro R, Bottino C, Moretta L. Existence of both inhibitory (p
+
+) and activating (p
+
+) receptors for HLA-C molecules in hu- man natural killer cells. J Exp Med
+
+;
+
+:
+
+–
+
+diversity in immunosenescence and longevity has been in- vestigated only in the Irish population. Although, two KIR genes (2DS3, 2DL5) displayed an initial increased frequency in the aged group, the significance of this association was absent when repeated in a second cohort.16 Both activating and inhibitory KIR genes encode receptors with immune functions that clearly have the potential to optimize NK cell activity in the elderly, thereby contributing to prolonged life span. Hence, the increased prevalence of such a KIR gene in the healthy aged may reflect a role for the activating receptor it encodes in providing an improved level of innate immune protection against virus infection and cancer.
+
+In this study we evaluated the frequencies of genes HLA-DRB1 and KIR in centenarians and controls from Sicily. Our results demonstrate an increase of HLA DRB1*18 allele in male centenarians compared to controls even after Bon- ferroni correction. The frequency of the HLA-B8,DR3 hap- lotype is very low and not significant both in centenarians and in controls as well as in literature data.33 In regard to KIR genes, only a significant decrease of the 2DP1 KIR gene in centenarians was observed, which was no longer
+
+Papasteriades C, Boki K, Pappa H, Aedonopoulos S, Pa- pasteriadis E, Economidou J. HLA phenotypes in healthy aged subjects. Gerontology
+
+;
+
+:
+
+–
+
+Franceschi C, Motta L, Valensin S, Rapisarda R, Franzone A, Berardelli M, Motta M, Monti D, Bonafe` M, Ferrucci L, Deiana L, Pes GM, Carru C, Desole MS, Barbi C, Sartoni G, Gemelli C, Lescai F, Olivieri F, Marchegiani F, Cardelli M, Cavallone L, Gueresi P, Cossarizza A, Troiano L, Pini G, Sansoni P, Passeri G, Lisa R, Spazzafumo L, Amadio L, Giunta S, Stecconi R, Morresi R, Viticchi C, Mattace R, De Benedictis G, Baggio G. Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenar- ians (IMUSCE). Aging (Milano)
+
+;
+
+:
+
+–
+
+Ross OA, Curran MD, Rea IM, Hyland P, Duggan O, Bar- nett CR, Annett K, Patterson C, Barnett YA, Middleton D. HLA haplotypes and TNF polymorphism do not associate with longevity in the Irish. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+Ogata K, An E, Shioi Y, Nakamura K, Luo S, Yokose N, Minami S, Dan K. Association between natural killer cell activity and infection in immunologically normal elderly people. Clin Exp Immunol
+
+;
+
+:
+
+–
+
+Heller DA, Ahern FM, Stout JT, M
+
+learn GE. Mortality and biomarkers of aging in heterogeneous stock (HS) mice. J Gerontol Ser A Biol Sci Med
+
+;
+
+:
+
+–
+
+Remarque E, Pawelec G. T cell immunosenescence and its clinical relevance in man. Rev Clin Gerontol
+
+;
+
+:
+
+–
+
+Mysliwska J, Trzonkowski P, Szmit E, Brydak LB, Machala M, Mysliwski A. Immunomodulating effect of influenza vaccination in the elderly differing in health status. Exp Gerontol
+
+;
+
+:
+
+–
+
+Rendine S, Borelli I, Barbanti M, Sacchi N, Roggero S, Cur- toni ES. HLA polymorphisms in Italian bone marrow do- nors: A regional analysis. Tissue Antigens
+
+;
+
+:
+
+–
+
+Franceschi C, Motta L, Motta M, Malaguarnera M, Capri M, Vasto S, Candore G, Caruso C IMUSCE. The extreme lon- gevity: the state of the art in Italy. Exp Gerontol
+
+;
+
+:
+
+–
+
+Capri M, Salvioli S, Monti D, Caruso C, Candore G, Vasto S, Olivieri F, Marchegiani F, Sansoni P, Baggio G, Mari D, Pas- sarino G, De Benedictis G, Franceschi C. Human longevity within an evolutionary perspective: The peculiar paradigm of a post-reproductive genetics. Exp Gerontol
+
+;
+
+:
+
+–
+
+de Grey AD. Dissertations: commentary on some recent the- ses relevant to combating aging: August
+
+Rejuvenation Res
+
+;
+
+:
+
+–
+
+de Grey AD. Consolidating the mission to defeat aging: A big step forward. Rejuvenation Res.
+
+;
+
+:
+
+–
+
+Jirillo E, Candore G, Magrone T, Caruso C. A scientific ap- proach to anti-ageing therapies: State of the art. Curr Pharm Des.
+
+;
+
+:
+
+–
+
+Selvakumar A, Steffens U, Dupont B. Polymorphism domain variability of human killer cell inhibitory Immunol Rev
+
+;
+
+:
+
+–
+
+Martin Am, Freitas EM, Witt CS, Christiansen FT. genomic organization and evolution of the natural immunoglobulin-like receptor (KIR) gene cluster. genetics
+
+;
+
+:
+
+–
+
+Shilling HG, Lienert-Weidenbach K, Valiante NM, M, Parham P. Evidence for recombination as a for KIR diversification. Immunogenetics
+
+;
+
+:
+
+–
+
+Witt CS, Dewing C, Sayer DC, Uhrberg M, Parham P, tiansen FT. Population frequencies and putative haplotypes the killer cell immunoglobulin-like receptor sequences and idence for recombination. Transplantation
+
+;
+
+:
+
+–
+
+Marsh SG, Parham P, Dupont B, Geraghty DE, Trowsdale Middleton D, Vilches C, Carrington M, Witt C, LA, Shilling H, Garcia CA, Hsu KC, Wain H. immunoglobulin-like receptor (KIR) nomenclature Hum Immunol
+
+;
+
+:
+
+–
+
+Wilson MJ, Trokar M, Haude A, Milne S, Jones T, Sheer Beck S, Trowsdale J. Plasticity in the organization and quences of human KIR=ILT gene families. Proc Natl Sci USA
+
+;
+
+:
+
+–
+
+Parham P. MHC class I molecules and KIRs in human health and survival. Nat Rev Immunol
+
+;
+
+:
+
+–
+
+Ruggeri L, Capanni M, Urbani E, Perruccio K, WD, Tosti A, Posati S, Rogaia D, Frassoni F, Aversa Martelli MF, Velardi A. Effectiveness of donor natural cell alloreactivity in mismatched hematopoietic Science
+
+;
+
+:
+
+–
+
+Maxwell LD, Ross OA, Curran MD, Rea IM, Middleton Investigation of KIR diversity in immunosenescence longevity within the Irish population. Exp Gerontol
+
+:
+
+–
+
+Lio D, Malaguarnera M, Maugeri D, Ferlito L, Bennati Scola L, Motta M, Caruso C. Laboratory parameters in tenarians of Italian ancestry. Exp Gerontol
+
+;
+
+:
+
+–
+
+Miller SA, Dykes DD, Polesky HF. A simple salting procedure for extracting DNA from human nucleated Nucleic Acid Res
+
+;
+
+:
+
+Cournil A, Kirkwood TB. If you would live long, your parents well. Trends Genet
+
+;
+
+:
+
+–
+
+Lagaay AM, D’Amaro J, Ligthart GJ, Schreuder GM, Rood JJ, Hijmans W. Longevity and heredity in Association with the human leucocyte antigen Ann NY Acad Sci
+
+;
+
+:
+
+–
+
+Izaks GJ, Remarque EJ, Schreuder GMT, Westendorp Ligthart GJ. The effect of geographic origin on the of HLA antigens and their association with ageing. Eur Immunogenet
+
+;
+
+:
+
+–
+
+Ivanova R, He´non N, Lepage V, Charron D, Vicaut Scha¨chter F. HLA-DR alleles display sex-dependent on survival discriminate between individual and longevity. Hum Mol Genet
+
+;
+
+:
+
+–
+
+Klein J, Sato A. The HLA system. N Engl J Med
+
+:
+
+–
+
+Proust J, Moulias R, Fumeron F, Bekkhoucha F, Busson Schmid M, Hors J. HLA longevity. Tissue Antigens
+
+–
+
+Rea IM, Middleton D. Is the phenotypic A
+
+B
+
+Cw
+
+DR
+
+a marker for male longevity? J Am Soc
+
+;
+
+:
+
+–
+
+Gruppo di Studio Dipartimento di Biopatologia e Metodologie Universita` di Corso Tukory
+
+E-mail: gcandore@unipa.it

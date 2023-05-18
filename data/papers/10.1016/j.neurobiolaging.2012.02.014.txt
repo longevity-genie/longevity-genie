@@ -1,0 +1,801 @@
+www.elsevier.com/locate/neuaging
+
+Genetic variants influencing human aging from late-onset Alzheimer’s disease (LOAD) genome-wide association studies (GWAS)
+
+Hui Shia, Olivia Belbina, Christopher Medwaya, Kristelle Browna, Noor Kalshekera, Minerva Carrasquillob, Petroula Proitsic, John Powellc, Simon Lovestonec, Alison Goated, Steven Younkinb, Peter Passmoree, the Genetic and Environmental Risk for Alzheimer’s Disease (GERAD1) Consortium1, Kevin Morgana,*, for the Alzheimer’s Research UK
+
+Received 12 September 2011; received in revised form 16 January 2012; accepted 11 February 2012
+
+Abstract
+
+Genetics plays a crucial role in human aging with up to 30% of those living to the mid-80s being determined by genetic variation. Survival to older ages likely entails an even greater genetic contribution. There is increasing evidence that genes implicated in age-related diseases, such as cancer and neuronal disease, play a role in affecting human life span. We have selected the 10 most promising late-onset Alzheimer’s disease (LOAD) susceptibility genes identified through several recent large genome-wide association studies (GWAS). These 10 LOAD genes (APOE, CLU, PICALM, CR1, BIN1, ABCA7, MS4A6A, CD33, CD2AP, and EPHA1) have been tested for association with human aging in our dataset (1385 samples with documented age at death [AAD], age range: 58–108 years; mean age at death: 80.2) using the most significant single nucleotide polymorphisms (SNPs) found in the previous studies. Apart from the APOE locus (rs2075650) which showed compelling evidence of association with risk on human life span (p p=! 5.27 1X | 10(cid:3)4), none of the other LOAD gene loci demonstrated significant evidence of association. In addition to examining the known LOAD genes, we carried out analyses using age at death as a quantitative trait. No genome-wide significant SNPs were discovered. Increasing sample size and statistical power will be imperative to detect genuine aging-associated variants in the future. In this report, we also discuss issues relating to the analysis of genome-wide association studies data from different centers and the bioinformatic approach required to distinguish spurious genome-wide significant signals from real SNP associations.
+
+Keywords: Lifespan; Late onset Alzheimer’s disease; GWAS; Aging; Genes
+
+* Corresponding author at: University of Nottingham, Human Genetics, School of Molecular Medical Science, Queen’s Medical Centre, Nottingham NG7 2UH, United Kingdom. Tel.: (cid:4)44 0115 8230724.
+
+1 Data used in the preparation of this article were obtained from the Genetic and Environmental Risk for Alzheimer’s Disease (GERAD1) Consortium. As such, the investigators within the GERAD1 consortia contributed to the design and implementation of GERAD1 and/or provided data but did not participate in analysis or writing of this report. A full list of GERAD1 investigators can be found in the Acknowledgement section.
+
+2 The Alzheimer’s Research UK Consortium: Peter Passmore, David Craig, Janet Johnston, Bernadette McGuinness, Stephen Todd, Queen’s University Belfast, UK; Reinhard Heun (now at Royal Derby Hospital), Heike Kölsch, University of Bonn, Germany; Patrick G. Kehoe, University of Bristol, UK; Nigel M. Hooper, Emma R.L.C. Vardy (now at University of Newcastle), University of Leeds, UK; David M. Mann, University of Manchester, UK; Kristelle Brown, Noor Kalsheker, Kevin Morgan, University of Nottingham, UK; A. David Smith, Gordon Wilcock, Donald Warden, University of Oxford (OPTIMA), UK, Clive Holmes, University of Southampton, UK.
+
+0197-4580/$ – see front matter © 2012 Elsevier Inc. All rights reserved. 10.1016/j.neurobiolaging.2012.02.014
+
+1. Introduction
+
+al., 2003; Kenyon, 2010;). Genetic inactivation of the daf-2 gene (encoding the IGF-1 receptor homolog in C. elegans) increases the lifespan of C. elegans by approximately 100% (Sebastiani et al., 2009). Interestingly, there is emerging evidence that genes such as IGF-1/IGF1R (the orthologs of which play a major part in aging in animals) can play a role in human life span. Loss of function mutations in IGF1R have been found to be overrepresented in Ashkenazi Jewish centenarians compared with controls (Suh et al., 2008).
+
+Human aging is affected by both environmental and genetic factors (Cutler and Mattson, 2006). The heritability of aging is estimated to be 20%–30% to reach mid-80s estimated from twin studies. Survival to older ages likely involves an even greater genetic contribution (Herskind et al., 1996; Iachine et al., 1998; McGue et al., 1993). Fur- thermore, previous studies have shown that siblings of cen- tenarians have an approximately 4-fold higher chance of survival to their early 90s compared with siblings of indi- viduals who die at 73 years of age (Perls et al., 1998). A larger study conducted by the same group has shown an even higher increase (8–18-fold) in the “risk” of successful aging for siblings of centenarians compared with random controls (US 1900 birth cohort) (Perls et al., 2002). Evi- dence indicates strong familial aggregation toward aging.
+
+Aging genes in humans may not only increase the span but also postpone age-related diseases. A study has indicated a significant decreased prevalence age related diseases in offspring of long-lived parents pertension by 23%, diabetes mellitus by 50%, heart by 60%, and no incidences of stroke) compared with age-matched control groups (Atzmon et al., 2004).
+
+The molecular genetics that underlie the human aging process is complex and it is suggested that successful aging is likely due to numerous genes and environmental factors, each exerting a small effect (Kenyon, 2010; Lescai et al., 2009; Plomin et al., 2009).
+
+Characterizing various genetic and environmental factors influencing human life span is currently one of the world’s major scientific challenges (Jylhava and Hurme, 2010). To date, genome-wide association studies (GWAS) are one of the most widely used approaches for identifying common genetic variations associated with human diseases. It has been suggested that with increasing sample size, promising signals of association between human traits and genetic variants can be revealed (McCarthy, et al., 2008). Tan and Christensen have shown that increasing sample age from nonagenarians to centenarians further increases the power to discover variants associated with human aging (Tan et al.,
+
+GenAge is a database of genes related to aging (genom- ics.senescence.info). To date there are over 250 genes that have been recorded by the GenAge database based on ex- tensive literature reviews. All of these genes have shown possible association with human aging (de Magalhães et al., 2009). Most of these genes play critical parts in a variety of biological pathways in humans, and a significant number of these genes ((cid:5) 100) are related to severe human diseases. It is generally believed that genes and biomarkers implicated in age-related diseases such as coronary artery disease (CAD), cerebrovascular disease (CVD), and Alzheimer’s disease (AD) have a role in successful aging (Panza et al., 2009). Identification of genuine aging genes may uncover “master genes” that increase our understanding of many age-related diseases.
+
+The aim of this study was to (1) investigate whether the “known” late-onset Alzheimer’s disease (LOAD) genes play a role in human aging. This could address the question if these genes are directly associated with AD or indirectly by allowing successful aging; and (2) search for candidate genetic risk factors associated with human survival and aging, which may merit further study.
+
+There are a number of biological pathways that have been reported important in human aging, including lipid/cholesterol metabolism [GO:0006629; GO:0008203] (APOE, PON1, CETP) (Barzilai et al., 2003; de Chaves and Narayanaswami, 2008; Efrat and Aviram, 2010), immune system processes [GO:0002376] (IL6 and IL10) (Jylhävä and Hurme, 2009), drug metabolism [KEGG:hsa00982] (GSTT1) (Glatt et al., 2007; Taioli et al., 2001), energy metabolism in mitochondria (SIRT3) (Polito et al., 2010), and insulin receptor signaling pathway [GO:0008286] (IGF1R, FOXO3A, KLOTHO) (Arking et al., 2005; Suh et al., 2008; Willcox et al., 2008).
+
+2. Methods
+
+Through collaborative efforts, we were able to draw on combined sample GWAS datasets and analyze subject-level genotype data from 1385 subjects (1047 LOAD cases and 338 controls) with documented age at death (AAD) (Table 1). The AAD histogram follows a normal distribution (Fig.  1), with mean AAD of 80.2 years of age (SD 8.9 years). All of these data were subject to subsequent quality control (QC) procedures and analysis. The data analysis was per- formed using PLINK software package (pngu.mgh.harvard. /~p edu/ purcell/plink) release 1.06 (Purcell et al., 2007).
+
+Insights into human aging have been gained from study- ing model organisms. Extension of lifespan can be achieved by manipulating a few genes in laboratory animals, such as flies, worms, and mice (Kenyon, 2010). The insulin/insulin- like growth factor 1 (IGF-1) signaling pathway has a well- established role in influencing lifespan within model organ-
+
+2.1. Datasets; pooling and QC
+
+We have obtained data from 9 research centers, 3 from the USA and 6 from the UK (GERAD1 Consortium). The GERAD1 sample comprised up to 3941 AD cases and 7848
+
+Table 1
+
+Summary of sample information
+
+Dataset Sample AD status Gender Genotyping Mean AAD Origin size (AD/controls) (male/female) chip (AD/controls) Mayo 434 220/214 246/188 Illumina 300 73.5/71.7 USA NIMH 46 46/0 12/34 Illumina 610 78.1/- USA WashU 332 294/38 140/192 Illumina 610 84.1/86.1 USA Belfast 235 213/22 99/136 Illumina 610 82.2/83.1 UK Bristol 59 43/16 21/38 Illumina 610 82.5/81.6 UK London 238 194/44 83/155 Illumina 610 86.1/83.0 UK Manchester 1 1/0 0/1 Illumina 610 79.0/- UK Nottingham 39 35/4 18/21 Illumina 610 83.6/79.5 UK Oxford 1 1/0 0/1 Illumina 610 79.5/- UK Pooled 1385 1047/338 619/766 — 81.5/76.1 —
+
+Genome-wide association studies (GWAS) data were obtained from a total of 9 centers, 3 from the USA (NIMH, WashU, and Mayo) and 6 from the UK (Nottingham, Bristol, Manchester, Belfast, Oxford, and London). Sample size, number of cases and controls, and gender for each cohort are as indicated together with details of the mean age at death in years for cases and controls and the genotyping chip used in each study. “-” means the information is not applicable. Key: AAD, age at death; AD, Alzheimer’s disease; NIMH, National Institute of Mental Health; WashU, Washington University.
+
+AAD, age at death; AD, Alzheimer’s disease; NIMH, National Institute of Mental Health; WashU, Washington University.
+
+the National Institute of Mental Health (NIMH) AD Genetics Initiative. All AD cases met criteria for either probable (Na- tional Institute of Neurology and Communicative Disorders and Stroke and the Alzheimer’s Disease and Related Disorders Association (now known as the Alzheimer’s Association) [NINCDS-ADRDA], Diagnostic and Statistical Manual of Mental Disorders, 4th Ed [DSM-IV]) or definite (Consortium to Establish a registry for Alzheimer’s Disease [CERAD]) AD. All elderly controls screened for dementia using the Mini Mental State Examination (MMSE) or Alzheimer’s Disease Assessment Scale-cognitive subscale (ADAS-cog), were deter- mined to be free from dementia at neuropathological examination or had a Braak score of 2.5 or lower. All studies used the Illumina 610 QuadChip, except the Mayo study which used the Illumina HumanHap300 chip (Carrasquillo et al., 2009).
+
+controls. A subset of this sample has been used in this study, comprising 3333 cases and 1225 elderly screened controls genotyped at the Sanger Institute on the Illumina (San Diego, CA, USA) 610-quad chip. These samples were recruited by the Medical Research Council (MRC) Genetic Resource for AD (Cardiff University; Kings College, London; Cambridge Uni- versity; Trinity College, Dublin), the Alzheimer’s Research Trust (ART) Collaboration (University of Nottingham; Uni- versity of Manchester; University of Southampton; University of Bristol; Queen’s University, Belfast; the Oxford Project to Investigate Memory and Ageing [OPTIMA], Oxford Univer- sity); Washington University, St. Louis, MO, USA; MRC PRION Unit, University College London, London; and the South East Region AD project (LASER-AD), University Col- lege, London; Competence Network of Dementia (CND) and Department of Psychiatry, University of Bonn, Germany; and
+
+Number of Individuals200100566064687276 80 84 88Age at death (yrs)9296 100 104108
+
+Fig. 1. Histogram plot representing the spread of age at death (AAD) of samples included in this study. The x- and y-axis represent AAD in years and number of individuals, respectively. This graph follows a normal distribution, with mean AAD  80.2 years (n  1385).
+
+HAAHEEAEG, aMayo 8 CentresQuality Control i JSNP Genotyping Rate per SNP >0.95 Illumina 300 Illumina 610MAF > 0.01Westar Bley(600,489 SNPs,1385 subjects)Hardy-Weinberg Equilibrium p > 0.001 ——— SNP Genotyping Rate >0.99 if 0.05 > MAF > 0.01Subject Genotyping Rate > 0.95 SNPs common to both SNPs only present onplatforms Illumina 610Deeg PECsQuality QualityHapMapii2s i Control i ControlCEU (60) LD prune (r? < 0.2)LS Rn 287,913 SNPs, 240,517 SNPs,5 5 FZ $$ 1380 subjects, 950 subjects,JPT+CHB (90) BC-TORI0 | o}(-leie} GR=0.99 GR=0.99YRI(60)>Merged Data 348,935 ae Merged Data 2BESOIN) [ees (528,430SNPs and1364 subjects)            16 genetic outlierswere removed fromMerged Data 2    PrincipalComponentPINS
+
+Quality ControlSNP Genotyping Rate per SNP >0.95TNO ne sgRYN etalon i) atl cies OR OR oe ek On OyeHardy-Weinberg Equilibrium p > 0.001Subject Genotyping Rate > 0.95 
+
+ Quality QualityHapMap#23 i Control ControlCEU (60) LD prune (r? < 0.2)———— PAY ACR) Le 240,517 SNPs,A ec Een aacJPT+CHB (90) WEEEJ0RS0 |e} lei GR=0.99 GR=0.99>  Merged Data 3CEES Merged Data 2BESOIN) [ees (528,430 SNPs and1364 subjects)        16 genetic outlierswere removed fromMerged Data 2PrincipalComponentPINS
+
+Fig. 2. Genome-wide association studies (GWAS) data quality control (QC) and data merging strategy. Flow diagram summarizing the processes undertaken for data preparation and QC prior to subsequent analyses. Each GWAS dataset is represented by numbered squares (top right corner). The data were then merged together under PLINK “Consensus call” mode (Merged Data 1). These data were split into 2 groups (Dataset “A” and “B”) according to genotyping rate (single nucleotide polymorphisms [SNPs] which had | > 95% genotyping rate for all samples [both chips] and the rest of the SNPs with genotyping rate eee2 > 6 95% for samples typed on the Illumina 610 chip). Both of these groups were subject to QC separately (see Quality Control panel at top left corner). The 2 datasets were then merged (Merged Data 2). Dataset “A” (which contained SNPs common to both platforms) was linkage disequilibrium (LD) pruned and merged with HapMap data (European [CEU], Asian [CHB/JPT], and Yoruba [YRI]) to form “Merged Data 3”. This was then used in a principal components analysis which revealed 16 individuals as genetic outliers. These were removed from “Merged Data 2”. Abbreviation: GR, genotyping rate.
+
+fast, Oxford, and London), NIMH, and Washington Uni- versity (WashU) where possible. All GWAS datasets were transformed into the same PLINK format (1 and 2 coding in PLINK.bed.fam and .bim format). Any samples which overlapped between GWAS datasets were re- moved. Each sample was checked individually for dis- crepancies between AAD and age at sampling (AAS). Samples with age at sampling greater than AAD were
+
+polymorphisms (SNPs) present on the Illumina 300 chip, and enabled us to merge all the datasets.
+
+AAD information were extracted from the Mayo dataset (Car- rasquillo et al., 2009) using the “--keep” and “--make-bed” command in PLINK. This was repeated for samples from the Alzheimer’s Research UK (ARUK) data (which encom- passed centers in Nottingham, Bristol, Manchester, Bel-
+
+CentreLondonOxfordNIMHWashUNottinghamMayoManchesterBristolBelfast Age at death (yrs)
+
+removed from further analysis. Data merging was per- formed using “--bmerge” in PLINK in “Consensus call” mode.
+
+QC procedures were undertaken for the merged data to account for population stratification and differences in the Illumina chip versions. Data merging and QC procedures are illustrated in Fig. 2. The merged data were separated into 2 GWAS datasets (“A” and “B”) using the “--geno 0.05” command in PLINK.
+
+For both of the GWAS datasets, the following QC pro- cedures were carried out in order.
+
+SNPs with genotyping rate less than
+
+(--geno
+
+) were excluded from further analysis.
+
+SNPs with a minor allele frequency (MAF) less than
+
+(--maf
+
+) were excluded from further analysis.
+
+A list of SNPs with MAF between
+
+and
+
+was generated (--freq). Within this short list, SNPs with a genotyping rate less than
+
+(--geno
+
+) were ex- cluded (--exclude) from further analysis.
+
+SNPs with a Hardy-Weinberg Equilibrium p value less than
+
+(--hwe
+
+--hwe-all) were excluded from further analysis, irrespective of status (AD cases or controls).
+
+Individuals with a genotyping rate less than
+
+(--mind
+
+) were excluded from further analysis.
+
+Using the QC’d GWAS dataset “A”, a linkage disequi- librium (LD) pruned subset of
+
+,
+
+SNPs common to all arrays and Ha
+
+ap data (--indep-pairwise) was gen- erated. No
+
+SNPs within this list had an LD r
+
+value greater than
+
+across sliding windows (window size of
+
+SNPs and
+
+SNPs to shift the window). This subset of SNPs was used by EIGENSTRAT (Price et al.,
+
+) for the following calculations: A. to detect genetic outliers defined by any individual whose ancestry is at least
+
+SD from the mean on
+
+of the top
+
+axes of variation; B. to calculate principal components (PCs), C. To generate a population stratification plot Ha
+
+ap data were used as the reference dataset—we used a filtered version of Ha
+
+ap data (European [CEU], Asian [CHB/JPT], Yoruba [YRI]) release
+
+in PLINK binary format (.bed.bim and .fam) from the PLINK web site (Purcell et al.,
+
+).
+
+EIGENSTRAT was used to calculate the genomic con- Qa. trol inflation factor ( ). This was performed iteratively using the GWAS dataset “A” with AAD including between
+
+to
+
+PCs. Each calculation generated a  XN single value, thus a total of
+
+values were gener- ated. The number of PCs to be included as covariates NY was determined when the lowest value was acquired  after comparison of all
+
+values.
+
+Extraction of PCs from EIGENSTRAT results.
+
+Fig. 3. Box and whisker plot, showing the age at death (AAD) distribution for each center. The central box represents the distance between the first and third quartiles with the median marked with a diamond. The circles indicate that an individual’s AAD is outside 2 times the interquartile range. The dashed rectangle highlights that the majority of the data have a similar range of AAD with the exception of the National Institute of Mental Health (NIMH) and Mayo data.
+
+taset “B” consisted of SNPs only on the Illumina 610 chip. The 2 GWAS datasets were merged using the same methods (--bmerge) as described above (shown as merged data 2 in Fig. 2).
+
+frequency due to interchip and intercohort differences, as they can cause an inflation of the type I error rate. A box and whisker plot was drawn using StatsDirect (version 2.7.8) (Fig. 3). Only 2 centers (Mayo and NIMH) showed signif- icant differences in AAD range compared with the rest of the data. Therefore, we carried out 2 logistic regression tests using the WashU data as a control and the Mayo and NIMH data as cases. The test incorporated the top 6 PC (described previously) and AAD as covariates. For each comparison, a Q-Q plot of (cid:2)2 of observed versus expected p values was generated using “estlambda” function in GenABEL (version 1.6.4) (Fig. 4) (Aulchenko et al., 2007).
+
+A. to detect genetic outliers defined by any whose ancestry is at least
+
+SD from the mean on of the top
+
+axes of variation; B. to calculate principal components (PCs), C. To generate a population stratification plot data were used as the reference dataset—we used filtered version of Ha
+
+ap data (European Asian [CHB/JPT], Yoruba [YRI]) release
+
+PLINK binary format (.bed.bim and .fam) from PLINK web site (Purcell et al.,
+
+). EIGENSTRAT was used to calculate the genomic Qa. trol inflation factor ( ). This was performed using the GWAS dataset “A” with AAD between
+
+to
+
+PCs. Each calculation generated  XN single value, thus a total of
+
+values were ated. The number of PCs to be included as NY was determined when the lowest value was  after comparison of all
+
+values. Extraction of PCs from EIGENSTRAT results.
+
+2.2. Quantitative trait analysis
+
+Ten known LOAD susceptibility genes (APOE, CLU, PICALM, CR1, BIN1, ABCA7, MS4A6A, CD33, CD2AP, and EPHA1) were tested for association with human aging using the most significant SNPs found in the previous GWAS (Table 2). The best proxy (with the highest LD; using HapMap data) was used to inform the effect of SNPs if they were not present in our data.
+
+Quantitative trait (QT) analysis of all SNPs was per- formed using multivariable linear regression (--linear) ad- justed for AD status, gender, and the top 6 PC. AAD was used as a continuous trait in this analysis thus giving max- imum statistical power. Manhattan plots were drawn using
+
+After the above QC, dataset “A” consisted of SNPs common to both Illumina 300 and Illumina 610 chips, whereas da-
+
+a) Mayo compared with WashU. b) NIMH compared with WashU        e47g 35 zea 38 8Ry °°0 5 10 15, 20Expected Expected
+
+Fig. 4. Q-Q plot of (cid:2)2-(cid:2)2 p values to determine bias in single nucleotide polymorphism (SNP) frequencies observed in Mayo (a), and National Institute of Mental Health (NIMH) (b) versus Washington University (WashU) data. (a) Logistic regression (Mayo versus WashU samples) adjusted for the top 6 principal components (PCs) and age at death (AAD). Five SNPs (circled) showed significant bias in the Mayo compared with WashU data taking into account population stratification and AAD. (b) Logistic regression comparing NIMH data versus WashU data adjusted for the top 6 PCs and AAD. No bias was observed in NIMH compared with WashU. Solid line represents expected under null hypothesis, i.e., no difference (or no association); open circles represent data points; dashed line the fitted slope of all data points. The diagram was drawn using GenABEL in R (version 2.12.1).
+
+  carried out using “Grouping Categorize” function in StatsDirect. For each of the LOAD susceptibility gene loci, the allele frequency was calculated and stratified by AAD cate- gory. The effect of the minor allele of each SNP involved in life span was as illustrated (Fig. 6).
+
+Haploview (version 4.1) to visualize GWAS results (Fig. 5) (Barrett et al., 2005). A histogram of AAD from all indi- viduals that passed QC was drawn using StatsDirect soft- ware (version 2.7.8) (Fig. 1).
+
+The separation into 5 AAD categories were used only to facilitate visualization of MAF of candidate SNPs in the different age ranges, and was not used to generate p values.
+
+Power calculations were undertaken using QUANTO version 1.2.4.The required sample size was estimated using an additive model created by the software.
+
+3. Results
+
+2.4. MAF analysis of SNPs responsible for LOAD
+
+3.1. Dataset composition and QC
+
+The full range of AAD (58–108 years) was separated into 5 AAD categories, the boundaries of which were selected to ensure each group contains an approximately equal number of samples. This ensures SNP minor allele frequencies across each of the age categories are directly comparable. This was
+
+The combined GWAS dataset has a sample size 1385 before QC. After QC, 4 participants were removed for low genotyping rate (--mind 0.05) from the Mayo GWAS (Carrasquillo et al., 2010). A single sample from Bristol
+
+SNP used in our study Gene SNP cited in literature LD (r2) Literature rs2075650 APOE rs2075650 — Harold et al. (2009) rs11136000 CLU rs11136000 — Harold et al. (2009) rs3851179 PICALM rs3851179 — Harold et al. (2009) rs3818361 CR1 rs3818361 — Hollingworth et al. (2011) rs744373 BIN1 rs744373 — Hollingworth et al. (2011) rs3764650 ABCA7 rs3764650 — Hollingworth et al. (2011) rs610932 MS4A6A rs610932 — Hollingworth et al. (2011) rs3865444 CD33 rs3865444 — Hollingworth et al. (2011) rs1485780 CD2AP rs9349407 0.913 Hollingworth et al. (2011) rs11767557 EPHA1 rs11767557 — Hollingworth et al. (2011)
+
+The most significant single nucleotide polymorphisms (SNPs) found in previous late-onset Alzheimer’s disease (LOAD) genome-wide association studies (GWAS) were selected for testing for their effects on human life span. The SNPs, associated genes, and the GWAS are as indicated. “-” indicates the original index SNP was used rather than a proxy. Key: LD, linkage disequilibrium.
+
+3411051880 | (c¥P2C9)152944476(TCERG1L) = 104x107 7.00 |6.75) o-#510460926 ¢ ee i     -log10(p-value)oa 4 .>= 5x10 — : x - -  ntChrt = Chr2 se Chr3 == Chr4 see ChrS me Chr6 ee Chi? = Chis == Chr se Chr10 ee Chrit Chri? se Chri3 meme Chri 4 mm Chr15 == Chri6
+
+——me Chit Chr?  Chi3 Se Chr4 ee Chr5 em Chr6 ee Chi7 ee Chis Se Cho  Chr10 ee Chri Chri? em Chris em Chris mm Chri § Se Chri6Chi 7 Chris se Chrig = Chr20 em Chr21 se Chr22  
+
+Fig. 5. Manhattan plot of genome-wide association studies (GWAS) in human aging. Chromosomal position is shown on the x-axis versus -log GWAS p 10 value on the y-axis. The threshold for genome-wide significance (p pa 1.04 LX | 10(cid:3)7) and p value threshold (p   5 5X | 10(cid:3)5) are indicated by the horizontal lines. Single nucleotide polymorphisms (SNPs) between these thresholds show “suggestive” associations. The 5 SNPs (highlighted by circles) exhibit significant differences in allele frequencies between samples from Mayo and Washington University (WashU) (see Fig. 4). Two of the 5 SNPs (rs4110518 and rs2944476) showed spurious genome-wide significant signals as a result of this bias.
+
+ LOAD cases (mean AAD 81.63 years) and controls (mean AAD AH 76.09 years), and similarly between male (mean AAD  77.93 years) and female (mean AAD  82.17 years). Anaysis of variance (ANOVA) tests of the variance of AAD between the groups (LOAD cases vs. controls and male vs. female) were found to be significant (p << ( 0.001). This confirmed that AD status and gender were appropriate covariates.
+
+was removed due to discrepancies between AAD and age at onset (AAO). An additional 16 samples were removed as genetic outliers by PCs analysis using EIGENSTRAT. This included 14 samples from the Mayo data, 1 from NIMH, and 1 from Belfast. The mean AAD in the pooled dataset (post QC) was greater than 80 years of age
+
+The multidimensional scaling (MDS) plot showed 3 dis- tinct clusters. As expected each cluster represents different population ancestry—CEU, middle right; CHB/JPT, bottom left; and YRI, top left (Fig. 7). UK, USA, and HapMap_ CEU samples formed a single cluster. On closer inspection, slight deviation between UK and USA samples exists and this was accounted for by including PCs as covariates.
+
+After stringent QC, there were 1364 samples (1031 LOAD cases and 333 controls, 608 male and 756 female) and 528,430 SNPs remaining for further analysis.
+
+3.2. Analysis and results
+
+Genomic control inflation factor ((cid:1) ) was calculated using EIGENSTRAT by iteratively including 0 to 10 PC (Price et al., 2006). We found that including 6 PC generated the lowest genomic control inflation factor ((cid:1)  1.003).
+
+Assessment of the 10 LOAD susceptibility genes yielded compelling evidence of association of APOE locus   (rs2075650) with human aging (uncorrected p 5.27 10(cid:3)4), which withstood multiple testing after Bonferroni correction for 10 independent tests (Table 3A).
+
+Minor Allele Frequency (MAF)0.50 -0.45 -0.400.350.300.250.200.15,0.100.050.00  —e APOE~@-clu—@—PICALM_—=> CRI—m-BINI—#—ABCAT—@-MS4A6A,+033> a CD2AP—@-EPHAL$73>73-78>78-82 >82-89 289Age at death (yrs)
+
+Fig. 6. Minor allele frequency (MAF) analysis for 10 late-onset Alzheimer’s disease (LOAD) genes with respect to aging. The figure shows the relationship between single nucleotide polymorphism (SNP) MAFs and human aging, where age at death (AAD) is separated into 5 categories. Each AAD category contains roughly equal amounts of samples to avoid bias in sample sizes. All 10 known LOAD genes are shown together with the APOE locus highlighted in bold (all other loci in gray). The APOE locus (rs2075650) showed significant association with aging, with MAF   0.27, AAD — 89 years of age (n  1136), and MAF  0.21, AAD >t 89 years of age (n  228). None of the other gene loci were significantly associated with aging.
+
+In addition to examining the association of these 10 LOAD susceptibility genes with aging, we performed a genome-wide analysis which includes all SNPs on the Illu- mina platforms after QC. The genome-wide significance threshold was calculated (p  1.04  10(cid:3)7) using Bonfer-  roni correction for the number of independent tests (n 483,066), which was estimated using the method we have previously described (Shi et al., 2010).
+
+There were 41 SNPs with p value IA 5  10(cid:3)5. These SNPs span the genome, representing 35 distinct signals (pairwise r2 ,— 0.8) across 13 chromosomes. Twenty-four of them are located within 20 kilobase (kb) of known human genes with a wide range of functions. SNPs with p values “— &  5 xX 10(cid:3)5 are shown in Table 3B. These signals are at best tentative but may merit study in larger sample sets.
+
+Without conducting logistic regression comparison, ini- tial analysis of the association study suggested 2 genome- wide significant SNPs—rs4110518 (p fg 5.96 xX 10(cid:3)9) and
+
+No variants appear to be associated with aging with a genome-wide level of significance (p  1.04 Ae 10(cid:3)7).
+
+       . © UKUSAsa VY HapMap_cetUK .USAHapMap_ceU - oe anHapMap_JPTCHSHapMap_YRi eweeet    
+
+Fig. 7. Multidimensional scaling (MDS) plot depicting the principal component analysis of Merged Data 3. Population stratification was tested using HapMap data #23 as reference. UK and USA and HapMap CEU samples formed a single cluster (shown inside the dashed rectangle). Up-pointing triangles represent Asian (CHB/JPT) population (bottom left), and right-pointing triangles represent Yoruba (YRI) population (top left). One HapMap individual from the Asian samples appears to have dual ethnicity. The diagram on the right shows a magnified section including UK, USA, and HapMap CEU samples.
+
+Table 3
+
+Summary of results SNP [major/minor] CHR BP Gene p Direction of effect (A) rs2075650 [T/C] 19 50087459 APOE 5.27E-04 — rs3764650 [A/C] 19 997520 ABCA7 1.35E-01 — rs610932 [C/A] 11 59695883 MS4A6A 1.76E-01 + rs3851179 [G/A] 11 85546288 PICALM 2.27E-01  rs11767557 [A/G] 7 142819261 EPHA1 2.67E-01 — rs3865444 [C/A] 19 56419774 CD33 4.42E-01 + rs3818361 [G/A] 1 205851591 CR1 5.63E-01  rs1485780 [A/C] 6 47664589 CD2AP 6.04E-01 — rs744373 [A/G] 2 127611085 BIN1 6.89E-01 + rs11136000 [G/A] 8 27520436 CLU 9.75E-01 — (B) rs987839 [T/C] 12 21266105 SLCO1B1 3.19E-06  rs17205854 [G/A] 5 64458658 3.74E-06  rs17811551 [T/C] 5 64462993 ADAMTS6 3.74E-06  rs1857821 [A/G] 4 77101003 NAAA 5.12E-06  rs7525717 [G/A] 1 56700226 5.76E-06 — rs4673651 [A/G] 2 212712848 ERBB4 6.08E-06 — rs17049647 [G/T] 2 130093855 7.12E-06 + rs10518142 [G/T] 4 77061898 NAAA 8.89E-06  rs2444861 [A/G] 8 99170108 C8orf47 8.99E-06  rs1418425 [G/A] 1 111270409 9.64E-06 — rs2271528 [C/T] 4 77107860 SDAD1 1.02E-05 + rs1555453 [A/C] 9 27316780 MOBKL2B 1.07E-05  rs13111494 [A/G] 4 77204512 ART3 1.28E-05  rs12740413 [C/T] 1 16388466 ARHGEF19 1.30E-05 — rs3210458 [C/T] 3 142494320 ACPL2 1.52E-05 + rs4859571 [G/A] 4 77076333 NAAA 1.56E-05  rs7803143 [T/C] 7 6211011 PSCD3 1.57E-05 — rs7622678 [T/C] 3 198798845 BDH1 1.93E-05 — rs4720752 [G/A] 7 7735965 RPA3 1.93E-05 — rs6962026 [C/T] 7 6213048 PSCD3 2.07E-05 — rs10901296 [C/T] 9 132755477 ABL1 2.37E-05 + rs680109 [C/A] 11 105255919 GRIA4 2.52E-05  rs1537438 [G/T] 13 26806973 2.53E-05  rs11206814 [C/T] 1 56690636 2.67E-05 — rs12562047 [A/C] 1 164095780 UCK2 2.70E-05 + rs2710548 [A/G] 4 126492980 FAT4 2.79E-05 — rs6454676 [C/T] 6 88934174 2.90E-05 + rs17047650 [C/T] 3 68547103 FAM19A1 3.19E-05  rs10433502 [C/T] 3 68569792 FAM19A1 3.49E-05  rs10485170 [T/C] 6 88939371 3.67E-05  rs12257410 [A/C] 10 13832528 FRMD4A 3.77E-05  rs3125524 [C/T] 10 133104931 3.83E-05  rs4280854 [A/G] 5 105923201 3.85E-05  rs1037381 [A/G] 2 105669675 3.99E-05 — rs6532496 [A/G] 4 95799427 PDLIM5 4.00E-05 — rs17618813 [G/A] 4 114153483 ANK2 4.16E-05 + rs7103504 [G/A] 11 99006474 CNTN5 4.39E-05 — rs10085518 [C/T] 7 6252040 PSCD3 4.59E-05 — rs4686837 [G/A] 3 188222371 ST6GAL1 4.60E-05 + rs6491207 [T/C] 13 26828900 4.63E-05  rs7952321 [G/T] 11 55539349 OR5AS1 4.68E-05 —
+
+Results of the analysis of (A) the 10 documented late-onset Alzheimer’s disease (LOAD) susceptibility loci (APOE, CLU, PICALM, CR1, BIN1, ABCA7, MS4A6A, CD33, CD2AP, and EPHA1) with human aging. (B) Single-nucleotide polymorphisms (SNPs) (rs number [major/minor allele]) from our analysis with p values s<s 5 5 xX | 10(cid:3)5. Chromosome number (CHR), base pair position (BP), and gene name is shown together with p value and direction of effect: “(cid:4)” indicates the minor allele of any given SNP is protective, whereas “(cid:3)” means the minor allele of the SNP has a detrimental effect on aging. In (B), the gene name is shown if the SNP is within 20 kilobase of a known gene.
+
+rs2944476 (p 2.19 Comparing SNPs between NIMH and WashU data showed no significant difference in allele frequency, whereas 5 SNPs showed significant difference in allele frequency comparing Mayo data with
+
+for the major allele “A”. No effect was seen for the  viduals carrying “AG” genotype (p 0.891).
+
+It is perhaps unsurprising that the 2 SNPs which showed genome-wide level of significance overlap with the 5 SNPs that showed significant bias between Mayo and WashU data, as the AAD of the Mayo data are significantly younger (as previously described). It is not possible to correct for center, as the spread of the AAD is considered crucial in detecting genuine aging-associated variants. The difference in allele frequency due to samples with young AAD in Mayo and old AAD in WashU may well represent genuine associations. Including center as a covariate would abolish our ability to detect this effect.
+
+APOE has been extensively examined with respect to human aging due to its role in AD and vascular disease. A longitudinal study following subjects for 18 years using 1094 individuals aged 75 and older showed that the risk of mortality was affected by the APOE gene. Risk was in- creased by 22% in those carrying the APOE &4 4 allele, decreased by 28% in those carrying the APOE ; €2 2 allele, and individuals carrying APOE  3 allele showed no significant difference in risk (Lewis and Brunner, 2004; Rosvall et al., 2009). The association between the APOE i i€2 2 variant and aging has been investigated in Finish centenarians, where a trend of association was observed—9%, 21%, and 25% in people aged 100 to 101, 102 to 103, and 104 years and older, respectively (Frisoni et al., 2001). SNP rs2075650 is '€4 known to be in tight LD with the APOE 4 allele (Yu et al., 2007). The direction of the effect of this SNP in our study  is compatible with previous findings for the APOE 4 allele (Christensen et al., 2006). Apolipoprotein E (APOE) is a major transporter of cholesterol and has been implicated in multiple age-related diseases including LOAD and vascular diseases (Panza et al., 2007).
+
+The Manhattan plot shown in Fig. 5 represented a sce- nario before removal of these 5 false positive SNPs.
+
+3.3. Power calculation
+
+Power calculations indicate that a sample size approxi- mately between 3000 and 15,000 is required in order to have 80% power to detect an association with a MAF ranging above 0.05. Approximately 4000 to 19,000 samples will be needed if 95% power is required.
+
+This estimation should be interpreted with caution as it is based on a number of assumptions (such as effect size and mode of inheritance), and gene-environment interaction 3 XE (G E) has not been taken into account.
+
+We observed no evidence of association with the remain- ing LOAD genes implying that these genes are genuine LOAD genes with no detectable effects on human aging. However we cannot rule out the possibility that these genes may have a weak effect on aging that our dataset was not sufficiently large enough to detect.
+
+4. Discussion
+
+It is known that advancing age is one of the biggest risk factors for LOAD. The prevalence of LOAD has been estimated ranging from 0.6% in persons aged 65 to 69 years to 22.2% in persons aged 90 and older (Lobo et al., 2000). Because age is one of the biggest risk factors for LOAD, it is important to understand whether genes involved in LOAD play a role in successful aging.
+
+We subsequently analyzed all SNPs on the Illumina chips after stringent QC procedures. The mean AAD for the samples analyzed was older than 80 years. This minimized the possibility of early death (prior to age 40 years) as a result of underlying nongenetic factors or highly penetrant genetic factors affecting our analysis (McGue et al., 1993).
+
+In an assessment of all SNPs on the chip, none were found to approach genome-wide significance as calculated for this study (p y< 1.04  10(cid:3)7). The inability to detect any novel aging associated variants is likely the result of a lack of power. The calculation of power using QUANTO (ver- sion 1.2.4) has suggested a much larger sample size is required in order to detect an association with common variants. With rare exceptions, common variants are known to exert only small to moderate effects, according to previ- ous studies of many complex disorders and traits (Bodmer and Bonilla, 2008). Presenting our data on genes that lie between 10(cid:3)5 and 10(cid:3)8, while not making genome wide significance, may enable groups to identify genes for future study especially if there is overlap with other studies. Ad- ditionally these data could be used as part of a larger meta-analysis.
+
+In this study, we have performed an association test of the top GWAS LOAD genes (APOE, CLU, PICALM, CR1, BIN1, ABCA7, MS4A6A, CD33, CD2AP, and EPHA1) with human aging using the most significant SNPs found in previ- ous studies. Apart from the well-documented association be- tween APOE and LOAD, the association with the other 9 genes was identified recently through large GWAS, each with a sample size of over 10,000 (Harold et al., 2009; Hollingworth et al., 2011; Lambert et al., 2009; Naj et al., 2011).
+
+The results of our analysis provided compelling evidence of association between APOE locus (rs2075650) and human aging (p  5.27 xX 10(cid:3)4) (Table 3A) with risk effect based on the analysis of 1364 samples using AAD as a continuous trait. The minor allele frequency plot (Fig. 6) shows that the MAF of this SNP significantly decreases in the old AAD category (MAF  0.21; AAD ov> 89 years of age; n  228) compared with the other 4 younger AAD categories (MAF   0.27; AAD )=i 89; n   1136). Individuals homozy- gous for the minor allele “G” showed significantly lowered   AAD (p 0.002) compared with individuals homozygous
+
+GWAS provide a method of identifying common genetic variations associated with disease or phenotype in an unbi- ased manner. However, it comes with a price of multiple testing given that many thousands of SNPs are tested si-
+
+multaneously, and a very stringent significance threshold (p  5  10(cid:3)8) is often used to infer a genome-wide significant association and to avoid a large number of false positives (Bertram and Tanzi, 2008).
+
+factors associated with aging. We have addressed this by correcting for AD status. However, it is possible that APOE association with age in the AD group could be due to its involvement in duration and severity of AD (Dal Forno et al., 2002). We do not however have clinical pathological features for these samples, and therefore cannot explore these endophenotypes.
+
+We have conducted an analysis using AAD as a quan- titative trait; this is believed to provide more power compared with the traditional case/control approach. The advantage of statistical power gained compared with the case/control analysis is dependent upon the design of the study. For example, dichotomizing the AAD distribution into cases and controls would give less power than com- paring the low and high extremes of the quantitative trait (Plomin et al., 2009). Increasing statistical power by including more samples is imperative to elucidate genu- ine genetic associations in our study. Including more samples with the extreme phenotypes (e.g., exceptional longevity—nonagenarian and centenarians) would give more power than addition of samples of average AAD (Plomin et al., 2009; Tan et al., 2010).
+
+Considering that “pure controls” where individuals die without experiencing any age-related diseases probably do not exist, we considered it valid to undertake an analysis using both sets. However, due to the large number of AD cases that have been used relative to the number of controls (about three-quarters of the total), any association with human aging implicated in the study may be biased and specific to the AD population. We acknowledge this as a limitation. However, using just the control population would result in insufficient numbers for a valid analysis. Follow-up studies using only control samples will be re- quired to confirm these associations.
+
+Domestic and international collaborations are often re- quired to raise sufficiently large sample sizes in order to have adequate power to detect genuine disease associations. This is especially true for SNPs with a small effect size. However, such combined analysis can in some instances generate new problems. For instance, interchip and interco- hort differences could create spurious genome-wide signif- icant associations. More importantly, these SNPs may pass all conventional QC filtering (e.g., Hardy-Weinberg equi- librium p value, minor allele frequency, and genotyping rate threshold) increasing the likelihood of generating false pos- itive results, which are not corrected for by principal com- ponent analysis.
+
+Genetic and Environmental Risk for Alzheimer’s Disease Consortium (GERAD1) Collaborators
+
+man, Valentina Moskvina, Richard Abraham, Paul Holling- worth, Marian Hamshere, Jaspreet Singh Pahwa, Kimberley Dowzell, Amy Williams, Nicola Jones, Charlene Thomas, Alexandra Stretton, and Angharad Morgan, Medical Re- search Council (MRC) Centre for Neuropsychiatric Genet- ics and Genomics, Neurosciences and Mental Health Re- search Institute, Department of Psychological Medicine and Neurology, School of Medicine, Cardiff University, Cardiff, UK; Simon Lovestone, John Powell, Petroula Proitsi, and Michelle K. Lupton, Department of Neuroscience, Institute of Psychiatry, Kings College London, London, UK; Carol Brayne, Institute of Public Health, University of Cam- bridge, Cambridge, UK; David C. Rubinsztein, Cambridge Institute for Medical Research, University of Cambridge, Cambridge, UK; Michael Gill, Brian Lawlor, and Aoibhinn Lynch, Mercer’s Institute for Research on Aging, St. James’ Hospital and Trinity College, Dublin, Ireland; Kevin Mor- gan, and Kristelle Brown, Institute of Genetics, Queen’s Medical Centre, University of Nottingham, Nottingham, UK; Peter Passmore, David Craig, Bernadette McGuinness, and Stephen Todd, Ageing Group, Centre for Public Health, School of Medicine, Dentistry and Biomedical Sciences, Queen’s University Belfast, Belfast, UK; Clive Holmes, Division of Clinical Neurosciences, School of Medicine, University of Southampton, Southampton, UK; David Mann, Clinical Neuroscience Research Group, Greater Manchester Neurosciences Centre, University of Man- chester, Salford, UK; A. David Smith, Oxford Project to Investigate Memory and Ageing (OPTIMA), University of Oxford, Level 4, John Radcliffe Hospital, Oxford, UK;Seth Love, and Patrick G. Kehoe, Dementia Research Group,
+
+As shown in Figs. 4 and 5, ignoring comparison of data from different centers (Mayo and WashU) would give spu-  rious genome-wide significant associations (rs4110518, p 5.96 Ooy X 10(cid:3)9 and rs2944476, p  2.19  10(cid:3)8). Therefore, an extra caution should be made when performing GWAS analysis which utilizes data from multiple centers.
+
+Including center as a covariate has been widely used to solve such problems raised by centers and this is largely effective. However this is not always possible, especially in circumstances where the number of cases and controls are significantly different between centers. In our study, cor- recting for center was not possible due to the AAD bias in centers sampled. The overall spread of AAD is crucial to our analysis and the difference in allele frequency between individuals with relatively young AAD (Mayo) and rela- tively old (WashU) may well represent genuine associa- tions.
+
+Furthermore, we have employed samples from both LOAD cases and controls in this study which is intended to achieve maximum power to detect novel aging-associated variants. Ideally this test is better performed using only control samples, as the AD group is likely to be affected by different environmental and genetic factors in addition to
+
+GERAD1 acknowledgements
+
+Molecular Neuroscience and Reta Lilla Weston Laborato- ries, Institute of Neurology, London, UK; Simon Mead, MRC Prion Unit, Department of Neurodegenerative Dis- ease, UCL Institute of Neurology, London, UK; Nick Fox, and Martin Rossor, Dementia Research Centre, Department of Neurodegenerative Diseases, University College, Lon- don, Institute of Neurology, London, UK; John Collinge, MRC Prion Unit, Department of Neurodegenerative Dis- ease, UCL Institute of Neurology, London, UK; Wolfgang Maier, Frank Jessen, Reiner Heun, and Heike Kölsch, De- partment of Psychiatry, University of Bonn, Bonn, Ger- many; Britta Schürmann, Department of Psychiatry, and Institute for Molecular Psychiatry, University of Bonn, Bonn, Germany;Hendrik van den Bussche, Institute of Pri- mary Medical Care, University Medical Center Hamburg- Eppendorf, Germany; Isabella Heuser, Department of Psy- chiatry, Charité, Berlin, Germany; Johannes Kornhuber, Department of Psychiatry, University of Erlangen, Nürn- berg, Germany; Jens Wiltfang, LVR-Hospital Essen, De- partment of Psychiatry and Psychotherapy, University Du- isburg-Essen, Germany; Martin Dichgans, Institute for Stroke and Dementia Research, and Department of Neurol- ogy, Klinikum der Universität München, Munich, Germa- ny; Lutz Frölich, Central Institute of Mental Health, Med- ical Faculty Mannheim, University of Heidelberg, Germany; Harald Hampel, Department of Psychiatry, Psy- chosomatic Medicine and Psychotherapy, Goethe Univer- sity, Frankfurt, Germany; Michael Hüll, Centre for Geriatric Medicine and Section of Gerontopsychiatry and Neuropsy- chology, Medical School, University of Freiburg, Germany; Dan Rujescu, Alzheimer Memorial Center and Geriatric Psychiatry Branch, Department of Psychiatry, Ludwig- Maximilian University, Munich, Germany; Alison Goate, Departments of Psychiatry, Neurology and Genetics, Wash- ington University School of Medicine, St. Louis, MO, USA; John S.K. Kauwe, Department of Biology, Brigham Young University, Provo, UT, USA; Carlos Cruchaga, Petra No- wotny, John C. Morris, and Kevin Mayo, Departments of Psychiatry, Neurology and Genetics, Washington Univer- sity School of Medicine, St. Louis, MO, USA; Gill Living- ston, Nicholas J. Bass, Hugh Gurling, and Andrew McQuil- lin, Department of Mental Health Sciences, University College London, London, UK; Rhian Gwilliam, and Pana- giotis Deloukas, The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, UK; Markus M. Nöthen, Department of Genomics, Life and Brain Center, University of Bonn, Bonn, Germany; Peter
+
+Trust, Medical Research Council (MRC), Alzheimer’s Re- search Trust (ART) and the Welsh Assembly Government. ART supported sample collections at the Kings College, London, the South West Dementia Bank, Universities of Cambridge, Nottingham, Manchester, and Belfast. The Bel- fast group acknowledges support from the Alzheimer’s So- ciety, Ulster Garden Villages, N. Ireland R&D Office, and the Royal College of Physicians/Dunhill Medical Trust. The MRC and Mercer’s Institute for Research on Ageing sup- ported the Trinity College group. The South West Dementia Brain Bank acknowledges support from Bristol Research into Alzheimer’s and Care of the Elderly. The Charles Wolfson Charitable Trust supported the OPTIMA group. Washington University was funded by NIH grants, Barnes Jewish Foundation, and the Charles and Joanne Knight Alzheimer’s Research Initiative. Patient recruitment for the MRC Prion Unit/UCL Department of Neurodegenerative Disease collection was supported by the UCLH/UCL Bio- medical Centre. LASER-AD was funded by Lundbeck SA. The Bonn group was supported by the German Federal Ministry of Education and Research (BMBF), Competence Network Dementia, and Competence Network Degenera- tive Dementia, and by the Alfried Krupp von Bohlen und Halbach-Stiftung. The GERAD1 Consortium also used samples ascertained by the NIMH AD Genetics Initiative.
+
+Disclosure statement
+
+The authors declare that there are no conflicts of interest. Approval was obtained from the ethics committee or institutional review board of each institution responsible for the ascertainment and collection of samples. Written in- formed consent was obtained for all individuals who par- ticipated in this study.
+
+Acknowledgements
+
+We thank all of our collaborators who provided data for this study (ARUK and GERAD1 consortia), together with the Alzheimer’s disease centers that collected the samples, as well as the subjects and their families, whose help and participation made this work possible. This work was sup- ported by Alzheimer’s Research UK and the Big Lottery Fund.
+
+References
+
+Arking, D.E., Atzmon, G., Arking, A., Barzilai, N., Dietz, H.C., Association between a functional variant of the KLOTHO gene high-density lipoprotein cholesterol, blood pressure, stroke, and gevity. Circ. Res.
+
+,
+
+–
+
+Atzmon, G., Schechter, C., Greiner, W., Davidson, D., Rennert, G., zilai, N.,
+
+Clinical phenotype of families with longevity. J. Geriatr. Soc.
+
+,
+
+–
+
+Aulchenko, Y.S., Ripke, S., Isaacs, A., van Duijn, C.M., 2007. GenABEL: an R library for genome-wide association analysis. Bioinformatics 23,
+
+Frolich, L., Hampel, H., Hull, M., Rujescu, D., Goate, A.M., Kauwe, J.S., Cruchaga, C., Nowotny, P., Morris, J.C., Mayo, K., Sleegers, K., Bettens, K., Engelborghs, S., De Deyn, P.P., Van Broeckhoven, C., Livingston, G., Bass, N.J., Gurling, H., M
+
+uillin, A., Gwilliam, R., Deloukas, P., Al-Chalabi, A., Shaw, C.E., Tsolaki, M., Singleton, A.B., Guerreiro, R., Muhleisen, T.W., Nothen, M.M., Moebus, S., Jockel, K.H., Klopp, N., Wichmann, H.E., Carrasquillo, M.M., Pankratz, V.S., Younkin, S.G., Holmans, P.A., O’Donovan, M., Owen, M.J., Williams, J.,
+
+Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer’s disease. Nat. Genet.
+
+,
+
+–
+
+Herskind, A.M., M
+
+ue, M., Holm, N.V., Sørensen, T.I., Harvald, B., Vaupel, J.W.,
+
+The heritability of human longevity: a population- based study of
+
+Danish twin pairs born
+
+–
+
+Hum. Genet.
+
+,
+
+–
+
+Hollingworth, P., Harold, D., Sims, R., Gerrish, A., Lambert, J.C., Carras- quillo, M.M., Abraham, R., Hamshere, M.L., Pahwa, J.S., Moskvina, V., Dowzell, K., Jones, N., Stretton, A., Thomas, C., Richards, A., Ivanov, D., Widdowson, C., Chapman, J., Lovestone, S., Powell, J., Proitsi, P., Lupton, M.K., Brayne, C., Rubinsztein, D.C., Gill, M., Lawlor, B., Lynch, A., Brown, K.S., Passmore, P.A., Craig, D., M
+
+uinness, B., Todd, S., Holmes, C., Mann, D., Smith, A.D., Beau- mont, H., Warden, D., Wilcock, G., Love, S., Kehoe, P.G., Hooper, N.M., Vardy, E.R., Hardy, J., Mead, S., Fox, N.C., Rossor, M., Col- linge, J., Maier, W., Jessen, F., Ruther, E., Schurmann, B., Heun, R., Kolsch, H., van den Bussche, H., Heuser, I., Kornhuber, J., Wiltfang, J., Dichgans, M., Frolich, L., Hampel, H., Gallacher, J., Hull, M., Rujescu, D., Giegling, I., Goate, A.M., Kauwe, J.S., Cruchaga, C., Nowotny, P., Morris, J.C., Mayo, K., Sleegers, K., Bettens, K., Engel- borghs, S., De Deyn, P.P., Van Broeckhoven, C., Livingston, G., Bass, N.J., Gurling, H., M
+
+uillin, A., Gwilliam, R., Deloukas, P., Al- Chalabi, A., Shaw, C.E., Tsolaki, M., Singleton, A.B., Guerreiro, R., Muhleisen, T.W., Nothen, M.M., Moebus, S., Jockel, K.H., Klopp, N., Wichmann, H.E., Pankratz, V.S., Sando, S.B., Aasly, J.O., Bar- cikowska, M., Wszolek, Z.K., Dickson, D.W., Graff-Radford, N.R., Petersen, R.C., van Duijn, C.M., Breteler, M.M., Ikram, M.A., Deste- fano, A.L., Fitzpatrick, A.L., Lopez, O., Launer, L.J., Seshadri, S., Berr, C., Campion, D., Epelbaum, J., Dartigues, J.F., Tzourio, C., Alperovitch, A., Lathrop, M., Feulner, T.M., Friedrich, P., Riehle, C., Krawczak, M., Schreiber, S., Mayhaus, M., Nicolhaus, S., Wagenpfeil, S., Steinberg, S., Stefansson, H., Stefansson, K., Snaedal, J., Bjornsson, S., Jonsson, P.V., Chouraki, V., Genier-Boley, B., Hiltunen, M., Soini- nen, H., Combarros, O., Zelenika, D., Delepine, M., Bullido, M.J., Pasquier, F., Mateo, I., Frank-Garcia, A., Porcellini, E., Hanon, O., Coto, E., Alvarez, V., Bosco, P., Siciliano, G., Mancuso, M., Panza, F., Solfrizzi, V., Nacmias, B., Sorbi, S., Bossu, P., Piccardi, P., Arosio, B., Annoni, G., Seripa, D., Pilotto, A., Scarpini, E., Galimberti, D., Brice, A., Hannequin, D., Licastro, F., Jones, L., Holmans, P.A., Jonsson, T., Riemenschneider, M., Morgan, K., Younkin, S.G., Owen, M.J., O’Donovan, M., Amouyel, P., Williams, J.,
+
+Common variants at ABCA
+
+, MS
+
+A
+
+A/MS
+
+A
+
+E, EPHA
+
+, CD
+
+and CD
+
+AP are associ- ated with Alzheimer’s disease. Nat. Genet.
+
+,
+
+–
+
+Holzenberger, M., Dupont, J., Ducos, B., Leneuve, P., Géloën, A., Even, P.C., Cervera, P., Le Bouc, Y.,
+
+IGF-
+
+receptor regulates lifespan and resistance to oxidative stress in mice. Nature
+
+,
+
+–
+
+Iachine, I.A., Holm, N.V., Harris, J.R., Begun, A.Z., Iachina, M.K., Laiti- nen, M., Kaprio, J., Yashin, A.I.,
+
+How heritable is individual susceptibility to death? The results of an analysis of survival data on Danish, Swedish and Finnish twins. Twin Res.
+
+,
+
+–
+
+Jylhava, J., Hurme, M.,
+
+Gene variants as determinants of longevity: focus on the inflammatory factors. Pflugers Arch.
+
+,
+
+–
+
+Kenyon, C.J.,
+
+The genetics of ageing. Nature
+
+,
+
+–
+
+[DOI:
+
+/nature
+
+] [Pu
+
+ed:
+
+]. Lambert, J.C., Heath, S., Even, G., Campion, D., Sleegers, K., Hiltunen, M., Combarros, O., Zelenika, D., Bullido, M.J., Tavernier, B., Leten-
+
+ics: the implications of systematic meta-analyses. Nat. Rev. Neurosci.
+
+,
+
+–
+
+Bodmer, W., Bonilla, C.,
+
+Common and rare variants in multifactorial susceptibility to common diseases. Nat. Genet.
+
+,
+
+–
+
+Carrasquillo, M.M., Belbin, O., Zou, F., Allen, M., Ertekin-Taner, N., Ansari, M., Wilcox, S.L., Kashino, M.R., Ma, L., Younkin, L.H., Younkin, S.G., Younkin, C.S., Dincman, T.A., Howard, M.E., Howell, C.C., Stanton, C.M., Watson, C.M., Crump, M., Vitart, V., Hayward, C., Hastie, N.D., Rudan, I., Campbell, H., Polasek, O., Brown, K., Passmore, P., Craig, D., M
+
+uinness, B., Todd, S., Kehoe, P.G., Mann, D.M., Smith, A.D., Beaumont, H., Warden, D., Holmes, C., Heun,R., Kölsch, H., Kalsheker, N., Pankratz, V.S., Dickson, D.W., Graff- Radford, N.R., Petersen, R.C., Wright, A.F., Morgan, K., Morgan, K.,
+
+Concordant association of insulin degrading enzyme gene (IDE) variants with IDE
+
+NA, Abeta, and Alzheimer’s disease. PL
+
+One
+
+, e
+
+Carrasquillo, M.M., Zou, F., Pankratz, V.S., Wilcox, S.L., Ma, L., Walker, L.P., Younkin, S.G., Younkin, C.S., Younkin, L.H., Bisceglio, G.D., Ertekin-Taner, N., Crook, J.E., Dickson, D.W., Petersen, R.C., Graff- Radford, N.R., Younkin, S.G.,
+
+Genetic variation in PCDH
+
+X is associated with susceptibility to late-onset Alzheimer’s disease. Nat. Genet.
+
+,
+
+–
+
+Christensen, K., Johnson, T.E., Vaupel, J.W.,
+
+The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Clancy, D.J., Gems, D., Harshman, L.G., Oldham, S., Stocker, H., Hafen, E., Leevers, S.J., Partridge, L.,
+
+Extension of life-span by loss of CHICO, a Drosophila insulin receptor substrate protein. Science
+
+,
+
+–
+
+Cutler, R.G., Mattson, M.P.,
+
+The adversities of aging. Ageing Res. Rev.
+
+,
+
+–
+
+Dal Forno, G., Carson, K.A., Brookmeyer, R., Troncoso, J., Kawas, C.H., Brandt, J.,
+
+APOE genotype and survival in men and women with Alzheimer’s disease. Neurology
+
+,
+
+–
+
+de Chaves, E.P., Narayanaswami, V.,
+
+Apolipoprotein E and choles- terol in aging and disease in the brain. Future Lipidol.
+
+,
+
+–
+
+de Magalhães, J.P., Budovsky, A., Lehmann, G., Costa, J., Li, Y., Fraifeld, V., Church, G.M.,
+
+The Human Ageing Genomic Resources: online databases and tools for biogerontologists. Aging Cell
+
+,
+
+–
+
+Efrat, M., Aviram, M.,
+
+Paraoxonase
+
+interactions with HDL, anti- oxidants and macrophages regulate atherogenesis - a protective role for HDL phospholipids. Adv. Exp. Med. Biol.
+
+,
+
+–
+
+Frisoni, G.B., Louhija, J., Geroldi, C., Trabucchi, M.,
+
+Longevity and the epsilon
+
+allele of apolipoprotein E: the Finnish Centenarians Study. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M
+
+Glatt, S.J., Chayavichitsilp, P., Depp, C., Schork, N.J., Jeste, D.V.,
+
+Successful aging: from phenotype to genotype. Biol. Psychiatry
+
+,
+
+–
+
+Harold, D., Abraham, R., Hollingworth, P., Sims, R., Gerrish, A., Ham- shere, M.L., Pahwa, J.S., Moskvina, V., Dowzell, K., Williams, A., Jones, N., Thomas, C., Stretton, A., Morgan, A.R., Lovestone, S., Powell, J., Proitsi, P., Lupton, M.K., Brayne, C., Rubinsztein, D.C., Gill, M., Lawlor, B., Lynch, A., Morgan, K., Brown, K.S., Passmore, P.A., Craig, D., M
+
+uinness, B., Todd, S., Holmes, C., Mann, D., Smith, A.D., Love, S., Kehoe, P.G., Hardy, J., Mead, S., Fox, N., Rossor, M., Collinge, J., Maier, W., Jessen, F., Schurmann, B., van den
+
+P., Harold, D., Sims, R., Gerrish, A., Lambert, J.C., Carras- quillo, M.M., Abraham, R., Hamshere, M.L., Pahwa, J.S., Moskvina, V., Dowzell, K., Jones, N., Stretton, A., Thomas, C., Richards, A., Ivanov, D., Widdowson, C., Chapman, J., Lovestone, S., Powell, J., Proitsi, P., Lupton, M.K., Brayne, C., Rubinsztein, D.C., Gill, M., Lawlor, B., Lynch, A., Brown, K.S., Passmore, P.A., Craig, D., McGuinness, B., Todd, S., Holmes, C., Mann, D., Smith, A.D., Beau- mont, H., Warden, D., Wilcock, G., Love, S., Kehoe, P.G., Hooper, N.M., Vardy, E.R., Hardy, J., Mead, S., Fox, N.C., Rossor, M., Col- linge, J., Maier, W., Jessen, F., Ruther, E., Schurmann, B., Heun, R., Kolsch, H., van den Bussche, H., Heuser, I., Kornhuber, J., Wiltfang, J., Dichgans, M., Frolich, L., Hampel, H., Gallacher, J., Hull, M., Rujescu, D., Giegling, I., Goate, A.M., Kauwe, J.S., Cruchaga, C., Nowotny, P., Morris, J.C., Mayo, K., Sleegers, K., Bettens, K., Engel- borghs, S., De Deyn, P.P., Van Broeckhoven, C., Livingston, G., Bass, N.J., Gurling, H., McQuillin, A., Gwilliam, R., Deloukas, P., Al- Chalabi, A., Shaw, C.E., Tsolaki, M., Singleton, A.B., Guerreiro, R., Muhleisen, T.W., Nothen, M.M., Moebus, S., Jockel, K.H., Klopp, N., Wichmann, H.E., Pankratz, V.S., Sando, S.B., Aasly, J.O., Bar- cikowska, M., Wszolek, Z.K., Dickson, D.W., Graff-Radford, N.R., Petersen, R.C., van Duijn, C.M., Breteler, M.M., Ikram, M.A., Deste- fano, A.L., Fitzpatrick, A.L., Lopez, O., Launer, L.J., Seshadri, S., Berr, C., Campion, D., Epelbaum, J., Dartigues, J.F., Tzourio, C., Alperovitch, A., Lathrop, M., Feulner, T.M., Friedrich, P., Riehle, C., Krawczak, M., Schreiber, S., Mayhaus, M., Nicolhaus, S., Wagenpfeil, S., Steinberg, S., Stefansson, H., Stefansson, K., Snaedal, J., Bjornsson, S., Jonsson, P.V., Chouraki, V., Genier-Boley, B., Hiltunen, M., Soini- nen, H., Combarros, O., Zelenika, D., Delepine, M., Bullido, M.J., Pasquier, F., Mateo, I., Frank-Garcia, A., Porcellini, E., Hanon, O., Coto, E., Alvarez, V., Bosco, P., Siciliano, G., Mancuso, M., Panza, F., Solfrizzi, V., Nacmias, B., Sorbi, S., Bossu, P., Piccardi, P., Arosio, B., Annoni, G., Seripa, D., Pilotto, A., Scarpini, E., Galimberti, D., Brice, A., Hannequin, D., Licastro, F., Jones, L., Holmans, P.A., Jonsson, T., Riemenschneider, M., Morgan, K., Younkin, S.G., Owen, M.J., O’Donovan, M., Amouyel, P., Williams, J., 2011. Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are associ- ated with Alzheimer’s disease. Nat. Genet. 43, 429–435.
+
+D., Abraham, R., Hollingworth, P., Sims, R., Gerrish, A., Ham- shere, M.L., Pahwa, J.S., Moskvina, V., Dowzell, K., Williams, A., Jones, N., Thomas, C., Stretton, A., Morgan, A.R., Lovestone, S., Powell, J., Proitsi, P., Lupton, M.K., Brayne, C., Rubinsztein, D.C., Gill, M., Lawlor, B., Lynch, A., Morgan, K., Brown, K.S., Passmore, P.A., Craig, D., McGuinness, B., Todd, S., Holmes, C., Mann, D., Smith, A.D., Love, S., Kehoe, P.G., Hardy, J., Mead, S., Fox, N., Rossor, M., Collinge, J., Maier, W., Jessen, F., Schurmann, B., van den
+
+Lambert, J.C., Heath, S., Even, G., Campion, D., Sleegers, K., Hiltunen, M., Combarros, O., Zelenika, D., Bullido, M.J., Tavernier, B., Leten-
+
+H. Shi et al. / Neurobiology of Aging 33 (2012) 1849.e5–1849.e18
+
+Panza, F., D’Introno, A., Capurso, C., Colacicco, A.M., Seripa, D., Pilotto, A., Santamato, A., Capurso, A., Solfrizzi, V.,
+
+Lipoproteins, vascular-related genetic factors, and human longevity. Rejuvenation Res.
+
+,
+
+–
+
+Panza, F., Frisardi, V., Capurso, C., D’Introno, A., Colacicco, A.M., Seripa, D., Pilotto, A., Vendemiale, G., Capurso, A., Solfrizzi, V.,
+
+Apolipoprotein E, dementia, and human longevity. J. Am. Geri- atr. Soc.
+
+,
+
+–
+
+Perls, T.T., Bubrick, E., Wager, C.G., Vijg, J., Kruglyak, L.,
+
+Siblings of centenarians live longer. Lancet
+
+,
+
+Perls, T.T., Wilmoth, J., Levenson, R., Drinkwater, M., Cohen, M., Bogan, H., Joyce, E., Brewster, S., Kunkel, L., Puca, A.,
+
+Life-long sustained mortality advantage of siblings of centenarians. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Plomin, R., Haworth, C.M., Davis, O.S.,
+
+Common disorders are quantitative traits. Nat. Rev. Genet.
+
+,
+
+–
+
+Polito, L., Kehoe, P.G., Forloni, G., Albani, D.,
+
+The molecular genetics of sirtuins: association with human longevity and age-related diseases. Int. J. Mol. Epidemiol. Genet.
+
+,
+
+–
+
+Price, A.L., Patterson, N.J., Plenge, R.M., Weinblatt, M.E., Shadick, N.A., Reich, D.,
+
+Principal components analysis corrects for stratifica- tion in genome-wide association studies. Nat. Genet.
+
+,
+
+–
+
+Purcell, S., Neale, B., Todd-Brown, K., Thomas, L., Ferreira, M.A., Bender, D., Maller, J., Sklar, P., de Bakker, P.I., Daly, M.J., Sham, P.C.,
+
+PLINK: a tool set for whole-genome association and population-based linkage analyses. Am. J. Hum. Genet.
+
+,
+
+–
+
+Rosvall, L., Rizzuto, D., Wang, H.X., Winblad, B., Graff, C., Fratiglioni, L.,
+
+APOE-related mortality: effect of dementia, cardiovascular disease and gender. Neurobiol. Aging
+
+,
+
+–
+
+Sebastiani, P., Montano, M., Puca, A., Solovieff, N., Kojima, T., Wang, M.C., Melista, E., Meltzer, M., Fischer, S.E., Andersen, S., Hartley, S.H., Sedgewick, A., Arai, Y., Bergman, A., Barzilai, N., Terry, D.F., Riva, A., Anselmi, C.V., Malovini, A., Kitamoto, A., Sawabe, M., Arai, T., Gondo, Y., Steinberg, M.H., Hirose, N., Atzmon, G., Ruvkun, G., Baldwin, C.T., Perls, T.T.,
+
+RNA editing genes associated with extreme old age in humans and with lifespan in C. elegans. PL
+
+One
+
+, e
+
+Shi, H., Medway, C., Bullock, J., Brown, K., Kalsheker, N., Morgan, K.,
+
+Analysis of Genome-Wide Association Study (GWAS) data looking for replicating signals in Alzheimer’s disease (AD). Int. J. Mol. Epidemiol. Genet.
+
+,
+
+–
+
+Suh, Y., Atzmon, G., Cho, M.O., Hwang, D., Liu, B., Leahy, D.J., Barzilai, N., Cohen, P.,
+
+Functionally significant insulin-like growth factor I receptor mutations in centenarians. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Taioli, E., Mari, D., Franceschi, C., Bonafè, M., Monti, D., Bertolini, S., Marinelli, D., Garte, S.,
+
+Polymorphisms of drug-metabolizing enzymes in healthy nonagenarians and centenarians: difference at GSTT
+
+locus. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Tan, Q., Zhao, J.H., Li, S., Kruse, T.A., Christensen, K.,
+
+Power assessment for genetic association study of human longevity using offspring of long-lived subjects. Eur. J. Epidemiol.
+
+,
+
+–
+
+Willcox, B.J., Donlon, T.A., He, Q., Chen, R., Grove, J.S., Yano, K., Masaki, K.H., Willcox, D.C., Rodriguez, B., Curb, J.D.,
+
+FOXO
+
+A genotype is strongly associated with human longevity. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Yu, C.E., Seltman, H., Peskind, E.R., Galloway, N., Zhou, P.X., Rosenthal, E., Wijsman, E.M., Tsuang, D.W., Devlin, B., Schellenberg, G.D.,
+
+Comprehensive analysis of APOE and selected proximate mark- ers for late-onset Alzheimer’s disease: patterns of linkage disequilib- rium and disease/marker association. Genomics
+
+,
+
+–
+
+neur, L., Bettens, K., Berr, C., Pasquier, F., Fievet, N., Barberger-Gateau, P., Engelborghs, S., De Deyn, P., Mateo, I., Franck, A., Helisalmi, S., Porcellini, E., Hanon, O., de Pancorbo, M.M., Lendon, C., Dufouil, C., Jaillard, C., Leveillard, T., Alvarez, V., Bosco, P., Mancuso, M., Panza, F., Nacmias, B., Bossu, P., Piccardi, P., Annoni, G., Seripa, D., Galimberti, D., Hannequin, D., Licastro, F., Soininen, H., Ritchie, K., Blanche, H., Dartigues, J.F., Tzourio, C., Gut, I., Van Broeckhoven, C., Alperovitch, A., Lathrop, M., Amouyel, P., 2009. Genome-wide association study identifies variants at CLU and CR1 associated with Alzheimer’s disease. Nat. Genet. 41, 1094–1099. F., Marchegiani, F., Franceschi, C., 2009. PON1 is a longevity
+
+A., Helisalmi, S., Porcellini, E., Hanon, O., de Pancorbo, M.M., Lendon, C., Dufouil, C., Jaillard, C., Leveillard, T., Alvarez, V., Bosco, P., Mancuso, M., Panza, F., Nacmias, B., Bossu, P., Piccardi, P., Annoni, G., Seripa, D., Galimberti, D., Hannequin, D., Licastro, F., Soininen, H., Ritchie, K., Blanche, H., Dartigues, J.F., Tzourio, C., Gut, I., Van Broeckhoven, C., Alperovitch, A., Lathrop, M., Amouyel, P.,
+
+Genome-wide association study identifies variants at CLU and CR
+
+associated with Alzheimer’s disease. Nat. Genet.
+
+,
+
+–
+
+Lescai, F., Marchegiani, F., Franceschi, C.,
+
+PON
+
+is a longevity gene: results of a meta-analysis. Ageing Res. Rev.
+
+,
+
+–
+
+Lewis, S.J., Brunner, E.J.,
+
+Methodological problems in genetic association studies of longevity—the apolipoprotein E gene as an example. Int. J. Epidemiol.
+
+,
+
+–
+
+Lobo, A., Launer, L.J., Fratiglioni, L., Andersen, K., Di Carlo, A., Breteler, M.M., Copeland, J.R., Dartigues, J.F., Jagger, C., Martinez-Lage, J., Soininen, H., Hofman, A.,
+
+Prevalence of dementia and major subtypes in Europe: A collaborative study of population-based cohorts. Neurologic Diseases in the Elderly Research Group. Neurology
+
+, S
+
+–S
+
+M
+
+arthy, M.I., Abecasis, G.R., Cardon, L.R., Goldstein, D.B., Little, J., Ioannidis, J.P., Hirschhorn, J.N.,
+
+Genome-wide association stud- ies for complex traits: consensus, uncertainty and challenges. Nat. Rev. Genet.
+
+,
+
+–
+
+M
+
+ue, M., Vaupel, J.W., Holm, N., Harvald, B.,
+
+Longevity is moderately heritable in a sample of Danish twins born
+
+–
+
+J. Gerontol.
+
+, B
+
+–B
+
+Naj, A.C., Jun, G., Beecham, G.W., Wang, L.S., Vardarajan, B.N., Buros, J., Gallins, P.J., Buxbaum, J.D., Jarvik, G.P., Crane, P.K., Larson, E.B., Bird, T.D., Boeve, B.F., Graff-Radford, N.R., De Jager, P.L., Evans, D., Schneider, J.A., Carrasquillo, M.M., Ertekin-Taner, N., Younkin, S.G., Cruchaga, C., Kauwe, J.S., Nowotny, P., Kramer, P., Hardy, J., Huentelman, M.J., Myers, A.J., Barmada, M.M., Demirci, F.Y., Bald- win, C.T., Green, R.C., Rogaeva, E., St. George-Hyslop, P., Arnold, S.E., Barber, R., Beach, T., Bigio, E.H., Bowen, J.D., Boxer, A., Burke, J.R., Cairns, N.J., Carlson, C.S., Carney, R.M., Carroll, S.L., Chui, H.C., Clark, D.G., Corneveaux, J., Cotman, C.W., Cummings, J.L., Decarli, C., Dekosky, S.T., Diaz-Arrastia, R., Dick, M., Dickson, D.W., Ellis, W.G., Faber, K.M., Fallon, K.B., Farlow, M.R., Ferris, S., Fro- sch, M.P., Galasko, D.R., Ganguli, M., Gearing, M., Geschwind, D.H., Ghetti, B., Gilbert, J.R., Gilman, S., Giordani, B., Glass, J.D., Grow- don, J.H., Hamilton, R.L., Harrell, L.E., Head, E., Honig, L.S., Hulette, C.M., Hyman, B.T., Jicha, G.A., Jin, L.W., Johnson, N., Karlawish, J., Karydas, A., Kaye, J.A., Kim, R., Koo, E.H., Kowall, N.W., Lah, J.J., Levey, A.I., Lieberman, A.P., Lopez, O.L., Mack, W.J., Marson, D.C., Martiniuk, F., Mash, D.C., Masliah, E., M
+
+ormick, W.C., M
+
+urry, S.M., M
+
+avid, A.N., M
+
+ee, A.C., Mesulam, M., Miller, B.L., Miller, C.A., Miller, J.W., Parisi, J.E., Perl, D.P., Peskind, E., Petersen, R.C., Poon, W.W., Quinn, J.F., Rajbhandary, R.A., Raskind, M., Reis- berg, B., Ringman, J.M., Roberson, E.D., Rosenberg, R.N., Sano, M., Schneider, L.S., Seeley, W., Shelanski, M.L., Slifer, M.A., Smith, C.D., Sonnen, J.A., Spina, S., Stern, R.A., Tanzi, R.E., Trojanowski, J.Q., Troncoso, J.C., Van Deerlin, V.M., Vinters, H.V., Vonsattel, J.P., Weintraub, S., Welsh-Bohmer, K.A., Williamson, J., Woltjer, R.L., Cantwell, L.B., Dombroski, B.A., Beekly, D., Lunetta, K.L., Martin, E.R., Kamboh, M.I., Saykin, A.J., Reiman, E.M., Bennett, D.A., Mor- ris, J.C., Montine, T.J., Goate, A.M., Blacker, D., Tsuang, D.W., Hakonarson, H., Kukull, W.A., Foroud, T.M., Haines, J.L., Mayeux, R., Pericak-Vance, M.A., Farrer, L.A., Schellenberg, G.D.,
+
+Com- mon variants at MS
+
+A
+
+/MS
+
+A
+
+E, CD
+
+AP, CD
+
+and EPHA
+
+are associated with late-onset Alzheimer’s disease. Nat. Genet.
+
+,
+
+–
+
+Gerontol. 48, B237–B244. A.C., Jun, G., Beecham, G.W., Wang, L.S., Vardarajan, B.N., Buros, J., Gallins, P.J., Buxbaum, J.D., Jarvik, G.P., Crane, P.K., Larson, E.B., Bird, T.D., Boeve, B.F., Graff-Radford, N.R., De Jager, P.L., Evans, D., Schneider, J.A., Carrasquillo, M.M., Ertekin-Taner, N., Younkin, S.G., Cruchaga, C., Kauwe, J.S., Nowotny, P., Kramer, P., Hardy, J., Huentelman, M.J., Myers, A.J., Barmada, M.M., Demirci, F.Y., Bald- win, C.T., Green, R.C., Rogaeva, E., St. George-Hyslop, P., Arnold, S.E., Barber, R., Beach, T., Bigio, E.H., Bowen, J.D., Boxer, A., Burke, J.R., Cairns, N.J., Carlson, C.S., Carney, R.M., Carroll, S.L., Chui, H.C., Clark, D.G., Corneveaux, J., Cotman, C.W., Cummings, J.L., Decarli, C., Dekosky, S.T., Diaz-Arrastia, R., Dick, M., Dickson, D.W., Ellis, W.G., Faber, K.M., Fallon, K.B., Farlow, M.R., Ferris, S., Fro- sch, M.P., Galasko, D.R., Ganguli, M., Gearing, M., Geschwind, D.H., Ghetti, B., Gilbert, J.R., Gilman, S., Giordani, B., Glass, J.D., Grow- don, J.H., Hamilton, R.L., Harrell, L.E., Head, E., Honig, L.S., Hulette, C.M., Hyman, B.T., Jicha, G.A., Jin, L.W., Johnson, N., Karlawish, J., Karydas, A., Kaye, J.A., Kim, R., Koo, E.H., Kowall, N.W., Lah, J.J., Levey, A.I., Lieberman, A.P., Lopez, O.L., Mack, W.J., Marson, D.C., Martiniuk, F., Mash, D.C., Masliah, E., McCormick, W.C., McCurry, S.M., McDavid, A.N., McKee, A.C., Mesulam, M., Miller, B.L., Miller, C.A., Miller, J.W., Parisi, J.E., Perl, D.P., Peskind, E., Petersen, R.C., Poon, W.W., Quinn, J.F., Rajbhandary, R.A., Raskind, M., Reis- berg, B., Ringman, J.M., Roberson, E.D., Rosenberg, R.N., Sano, M., Schneider, L.S., Seeley, W., Shelanski, M.L., Slifer, M.A., Smith, C.D., Sonnen, J.A., Spina, S., Stern, R.A., Tanzi, R.E., Trojanowski, J.Q., Troncoso, J.C., Van Deerlin, V.M., Vinters, H.V., Vonsattel, J.P., Weintraub, S., Welsh-Bohmer, K.A., Williamson, J., Woltjer, R.L., Cantwell, L.B., Dombroski, B.A., Beekly, D., Lunetta, K.L., Martin, E.R., Kamboh, M.I., Saykin, A.J., Reiman, E.M., Bennett, D.A., Mor- ris, J.C., Montine, T.J., Goate, A.M., Blacker, D., Tsuang, D.W., Hakonarson, H., Kukull, W.A., Foroud, T.M., Haines, J.L., Mayeux, R., Pericak-Vance, M.A., Farrer, L.A., Schellenberg, G.D., 2011. Com- mon variants at MS4A4/MS4A6E, CD2AP, CD33 and EPHA1 are associated with late-onset Alzheimer’s disease. Nat. Genet. 43, 436–

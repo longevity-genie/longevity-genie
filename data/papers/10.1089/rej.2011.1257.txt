@@ -1,0 +1,1341 @@
+Polygenic Effects of Common Single-Nucleotide Polymorphisms on Life Span: When Association Meets Causality
+
+Anatoliy I. Yashin,1,2 Deqing Wu,1 Konstantin G. Arbeev,1 and Svetlana V. Ukraintseva1,2
+
+Abstract
+
+Recently we have shown that the human life span is influenced jointly by many common single-nucleotide polymorphisms (SNPs), each with a small individual effect. Here we investigate further the polygenic influence on life span and discuss its possible biological mechanisms. First we identified six sets of prolongevity SNP alleles in the Framingham Heart Study 550K SNPs data, using six different statistical procedures (normal linear, Cox, and logistic regressions; generalized estimation equation; mixed model; gene frequency method). We then estimated joint effects of these SNPs on human survival. We found that alleles in each set show significant additive influence on life span. Twenty-seven SNPs comprised the overlapping set of SNPs that influenced life span, regardless of the statistical procedure. The majority of these SNPs (74%) were within genes, compared to 40% of SNPs in the original 550K set. We then performed a review of current literature on functions of genes closest to these 27 SNPs. The review showed that the respective genes are largely involved in aging, cancer, and brain disorders. We concluded that polygenic effects can explain a substantial portion of genetic influence on life span. Composition of the set of prolongevity alleles depends on the statistical procedure used for the allele selection. At the same time, there is a core set of longevity alleles that are selected with all statistical procedures. Functional relevance of respective genes to aging and major diseases supports causal relationships between the identified SNPs and life span. The fact that genes found in our and other genetic association studies of aging/ longevity have similar functions indicates high chances of true positive associations for corresponding genetic variants.
+
+Introduction
+
+fects. The criteria for associating a single genetic variant with a trait in GWAS are based on comparison of p values resulting from testing the null hypotheses regarding the absence of the variant effect on life span, with a threshold that is supposed to take into account the need for multiple comparisons; this typically leads to p values below 10-7.
+
+(GWAS) of life span and other complex traits1–3 have shown that such traits can be affected by the joint influence of large numbers of common single-nucleotide polymorphisms (SNPs), each having small individual effects and little pre- dictive value. The results of these studies indicate an urgent need for advancing methods of evaluating the joint effects of SNP alleles on aging and longevity and investigating bio- logical mechanisms of such joint influence.
+
+Addressing the joint influence of alleles, each with a small/low significant effect, could help both to significantly improve efficiency of the use of genome-wide SNP data and to explain a substantial part of so called ‘‘missing heritabili- ty’’ of complex traits,8 including the aging-related ones. Re- cent GWAS1–3,9,10 strongly support this idea demonstrating that life span and other complex traits, such as height and body mass index (BMI), are significantly influenced by large numbers of jointly acting, common SNPs, each with a small individual effect. However, the SNP alleles in these studies were typically selected using one or two statistical models, which might not be sufficient for meaningful interpretation
+
+Individual small-effect, low-significance SNP alleles have been observed in many GWAS of complex traits, including life span4–7; however, such variants were typically excluded from further analyses. This is because respective studies considered only individual (and not collective) SNP effects on the traits of interest, which required extremely low p value thresholds to reach a genome-wide significance level for the individual ef-
+
+of the study results, because different statistical models may potentially yield different numbers of SNPs influencing the trait of interest. This stresses the importance of advancing statistical approaches to analyses of joint genetic effects on aging and longevity. Indeed, the potential influence of a genetic variant on life span can be described by not just one but by many different statistical models. The use of different models might result in different estimates of the effect size and in different p values for the same SNP allele, so that the results of selection (i.e., composition of the set of longevity alleles), and hence conclusions about genetics of life span, may depend substantially on the statistical model used in the allele selection procedure. Controlling for different observed covariates may add variability to the results of analyses.
+
+About 9,300 individuals from all generations of the FHS were genotyped for about 550,000 SNPs using Affymetrix 500K (genome-wide) and 50K (enriched with SNPs within genes) mapping arrays, overall representing a significant part of human genome variability. On average, 40% of SNPs were located within genes in the combined 550K set. In this study, we used information about 1,471 genotyped partici- pants of the FHS Original cohort who passed quality control (QC), including 1,173 individuals for whom life spans were available. Information about 517 individuals (all deceased) from the FHSO cohort was used for validating the connec- tion between life span and genetic variants in this cohort using ‘‘longevity’’ alleles obtained in the analyses on the original FHS cohort. Individual information on the SNP genotyping and phenotypic traits collected in the FHS was obtained through the dbGaP web site, upon request for con- trolled access for individual level data (www.ncbi.nlm.nih .gov/projects/gap/cgi-bin/study.cgi?study_id=phs000007.v3 .p2/). The histograms of the life span distribution for two groups of deceased individuals (genotyped+nongenotyped and genotyped) from the original FHS cohort are shown in Fig. 1, a and b, respectively.
+
+To address this problem and enhance the efficiency of studying joint genetic effects on aging/longevity traits in this paper, we first used six statistical models for allele selection procedures: (1) Normal linear (N), (2) Cox (C), and (3) lo- gistic (L) regressions; (4) generalized estimation equation (GEE); (5) mixed model (MM); and (6) gene frequency (GF) method. Then we evaluated the joint influence of SNP alleles selected with each of the six methods on life span, as well as the effect on life span of the SNPs from the overlapping set of alleles selected with all of the six statistical procedures. In all regression methods, possible effects of observed covariates on the results of selection were taken into account. These include gender, birth cohort, and smoking status, taken from the original cohort data of the Framingham Heart Study (FHS). Then we used SNP alleles influencing life span in the FHS Original cohort to predict the relationship between the number of ‘‘longevity’’ alleles and life span in the FHS Off- spring cohort.
+
+Percent 30 40 50 60 70 80 90 100Lifespan  60 65 70 75 80 85 90 95 100 105Lifespan
+
+Finally, we reviewed current literature and online infor- mation sources to explore functional properties of genes re- lated to ‘‘longevity’’ SNPs in the overlapping set of SNPs selected in the six statistical procedures. The findings that corresponding genes have functional relevance to physio- logical aging and/or aging-associated health disorders would support a causal relationship between these SNPs and life span.
+
+Data and Methods
+
+Framingham Study Data
+
+In this study, we used genetic and nongenetic data for the FHS Original and Offspring cohorts. The FHS Original co- hort was launched at Exam 1 in 1948 (9/1948–4/1953) and has continued with biennial examinations to the present. The FHS Original cohort consists of 5,209 respondents (55% fe- males) aged 28–62 years residing in Framingham, Massa- chusetts, between 1948 and 1951.11 Nearly all subjects were Caucasians. Examination included an interview, physical examination, and laboratory tests.
+
+The Offspring cohort (FHSO) was launched at Exam 1 in 1971 (8/1971–9/1975) and has on average been examined every 3–4 years since enrollment. The FHSO dataset consists of a sample of 3,514 biological descendants of the Original cohort, 1,576 of their spouses, and 34 adopted Offspring for a total sample of 5,124 subjects (52% females).12,13 The FHSO subjects were enrolled in 1971–1975 using research protocols similar to those of the FHS, so that comparisons of the results from the FHSO and the FHS could be made.
+
+FIG. 1. The histograms of life span distribution for (a) 4,760 deceased (genotyped and nongenotyped) and (b) 1,173 de- ceased genotyped individuals from the original Framinghan Heart Study (FHS) cohort.
+
+Validating polygenic influence on lifespan in the FHSO cohort
+
+The use of the Shapiro–Wilk test indicates that the normal approximation of the life span distribution for genotyped individuals can be used (for more information about other descriptive statistics relevant to these analyses, see Supple- mental Material (www.liebertpub.com/rej).
+
+To be sure that ‘‘longevity’’ alleles from each of the six sets had a joint effect on life span, not only in population of the FHS original cohort but also in population of other individ- uals (whose genetic information was not used in the allele selection procedure), we calculated values of respective in- dices for each of the 517 individuals from the FHSO cohort. Then we estimated parameters of linear regressions consid- ering life span as a function of respective indices.
+
+QC procedure
+
+Following Lunetta et we applied a GWAS QC proce- dure (call rate‡80%; minor allele frequency [MAF]>1%; Hardy–Weinberg equilibrium [HWE]>10-7) to the data on genotyped (550K SNPs) individuals from the original cohort in the FHS. (See Table S1 and Fig. S3 in Supplemental Data for additional information concerning call rates and other infor- mation about selected SNPs; see also Discussion section).
+
+Analyses and Results
+
+Normal regression
+
+The N regression procedure for selecting longevity alleles (with p value threshold £ 10-7) was applied to 1,173 mem- bers of the original FHS cohort who passed the QC proce- dure and for whom life span data were available. The implementation of this procedure resulted in 823N-longevity alleles.
+
+Identifying ‘‘longevity’’ alleles
+
+To identify ‘‘longevity’’ alleles, we applied six different statistical procedures to selecting individual SNP alleles for their positive effect on life span, using 550K SNP data and the FHS original cohort genotyped sample. These procedures use N regression , the GEE approach, MM, C regression, L regression, and GF method. Because the use of the different procedures is likely to result in different sets of ‘‘longevity’’ alleles, we will distinguish them using the notions of GEE- alleles, MM-alleles, N-alleles, C-alleles, L-alleles, and GF- alleles, meaning that the selection procedure used general estimation equation, mixed model, normal, Cox, logistic re- gressions, or the gene frequency method, respectively. In case of the N-, GEE, MM-, and C- models, life span was considered as a dependent variable. In the L-model, the in- dicator of the event that life span exceeded the age of 90 years, I(LS > 90), was considered as a dependent variable. We use 90 years as the cutoff age for longevity to have enough individuals who survived the cutoff age. This also allowed us to compare the results of our analyses with those of other studies6 in which the same cutoff age has been used. In all five regression models, selection was performed controlling for gender, birth year, and smoking status (ever or never smoked).
+
+The GEE method
+
+The GEE procedure for selecting longevity alleles (with p£ 10-7) was applied to 1,173 members of the original FHS cohort, taking into account sib relationships among indi- viduals. The implementation of this procedure resulted in 1217 GEE-longevity alleles.
+
+Mixed model
+
+The MM regression procedure for selecting longevity al- leles (with p£ 10-7) was applied to the data on 1,173 mem- bers of the original FHS cohort, taking into account sib relationships among individuals. In this model, the observed covariates, including SNP genotypes, were considered as fixed-effects components, and the random effect was mod- eled as a random variable having the multivariate normal distribution with zero mean and covariance matrix defined as Rr, where R is the relationship matrix and r is the additive genetic variance due to polygenic relationships among re- lated individuals. The implementation of this procedure re- sulted in 1,202 MM-longevity alleles.
+
+Seven sets of ‘‘longevity’’ alleles
+
+The six sets of ‘‘longevity’’ alleles identified using six dif- ferent statistical procedures may consist of different numbers of such alleles. To be sure that our results were independent from the method of alleles selection, we also considered the set of SNP alleles at the intersection (I) of the six sets. Each allele in this set was thus selected using all of the six statis- tical procedures. We call such alleles ‘‘I-longevity alleles,’’ meaning ‘‘I’’ for ‘‘intersection.’’ Thus, altogether we obtained seven sets of longevity alleles.
+
+Cox regression
+
+The C regression procedure for selecting longevity alleles was applied to 1,441 members of the original FHS cohort who passed the QC procedure. This number is larger than that used in normal regression because Cox regression al- lows for dealing with individuals which life spans are cen- sored (e.g., some study participants are alive). The procedure selected SNP variants for which the estimate of the regres- sion parameter was negative and significant with p£ 10-7. This procedure resulted in selection of 3,683 C-longevity alleles.
+
+Evaluating additive (polygenic) genetic effects on life span
+
+For each genotyped individual in the original FHS cohort, and for each of the seven sets of longevity alleles, we cal- culated the value of polygenic score index—the number of genetic variants contained in a person’s genome (genetic dose). Then we estimated parameters of seven linear re- gression models, considering life span as a dependent and the polygenic score as an independent variables.10
+
+Logistic regression
+
+The L regression procedure for selecting longevity alleles considered survival to the age of 90 years as longevity phe- notype. The procedure was applied to 1,331 individuals. This number differs from the two methods above because
+
+individuals censored before the age 90 were excluded from the analyses (e.g., alive individuals, whose age did not ex- ceed 90 years). Similar to other regressions, this procedure also controlled for the same observed covariates. It is im- portant to note that the use of the selection threshold p£10-7 (as in four procedures above) did not produce any longev- ity alleles. An increase of this threshold up to p£10-4 resulted in selection of 97 L-longevity alleles.
+
+gether we obtained seven sets of longevity SNP alleles: Six model-specific sets and one intersection set.
+
+The results of evaluating polygenic influence on life span obtained by applying linear regression without observed covariates to the life span data in the original FHS cohort are shown in Table 2 for each of seven sets of selected genetic variants. One can see that each relationship explains a sub- stantial portion of the phenotypic variance. In all cases, the values of the slope (as well as the intercept) associated with polygenic effects were highly statistically significant (p£10-15). We repeated these analyses controlling for observed covariates, including gender, birth cohort, and smoking status (ever, or never smoking). In all cases, the polygenic effects were highly statistically significant.
+
+Gene frequency method
+
+This method does not allow us to control for observed covariates. We compared gene frequencies in three age groups: 60–75, 75–85, and 85+ . The SNP allele was assigned to be a longevity allele if its frequency increased at the in- terval of aging and if this increase was statistically signifi- cant. We used p£ 10-4 as the level of significance for selecting longevity alleles. The use of smaller p values for selecting longevity alleles failed to select any genetic variant. As a result of this procedure, 52 GF-longevity alleles were selected.
+
+To test whether longevity alleles obtained from the data on the FHS Original cohort jointly influence life span in the Offspring cohort, we calculated the values of the seven polygenic score indices for each of the 517 deceased indi- viduals from the FHSO cohort. Then we estimated parame- ters of seven linear regressions considering life span as a function of each of the polygenic score indices. The per- centages of life span variance in the FHSO cohort explained by each of seven sets of genetic variants selected from the data on the original cohort are shown in Table 2.
+
+I-longevity alleles
+
+The intersection of the four sets of longevity alleles se- lected by each of four methods resulted in the new set of 27 I- longevity alleles. All alleles passed the test for the linkage disequilibrium. The list of respective SNPs and change in their MAFs over age is shown in Table 1. Note that alto-
+
+In each of seven cases and in both FHS cohorts, the esti- mates of the slope (as well as the intercept) parameter were positive and highly statistically significant (p £10-9). We also observed that individuals in the FHSO cohort having larger numbers of longevity alleles taken from the I-set with 27 such alleles had better survival than those from the same cohort who have a smaller number of such alleles in their genome (see Fig. S1 in Supplemental Data). Note that the difference in survival functions for carriers of different numbers of longevity alleles does not prove that the 27 de- tected genetic variants are true positive longevity alleles. The fact that individuals from both FHS cohorts were genotyped on the same chip can lead to apparently robust false-positive findings.
+
+MAF MAF MAF P: 85–105 SNP (60–75) (75–85) (85–105) vs. 60–75 rs3800358 25.90% 28.10% 31.60% 5.41E-03 rs1974676 35.40% 38.80% 41.60% 4.96E-03 rs1834497 44.70% 47.20% 50.40% 9.79E-03 rs2590504 37.30% 38.90% 43.20% 8.54E-03 rs2024714 26.80% 30.00% 35.30% 7.43E-05 rs41383 25.00% 28.10% 31.00% 4.55E-03 rs16975963 46.70% 49.60% 53.30% 7.13E-03 rs13008689 23.20% 25.60% 28.50% 6.86E-03 rs3120819 42.10% 43.80% 48.40% 8.06E-03 rs9876781 34.90% 37.80% 42.40% 8.68E-04 rs9517320 30.80% 33.30% 37.70% 2.04E-03 rs139170 34.70% 37.70% 41.40% 3.32E-03 rs4648884 27.70% 30.50% 33.00% 9.92E-03 rs739401 32.40% 35.60% 39.50% 1.54E-03 rs10256972 36.50% 38.90% 43.60% 2.24E-03 rs10937739 41.90% 44.40% 48.40% 4.04E-03 rs5771675 30.90% 32.90% 36.50% 9.85E-03 rs12623542 36.70% 39.20% 44.00% 1.92E-03 rs9616906 22.70% 25.70% 30.80% 9.36E-05 rs13053175 28.00% 30.40% 33.60% 6.97E-03 rs4148544 24.60% 27.30% 29.70% 9.77E-03 rs2370413 35.20% 38.70% 42.60% 1.10E-03 rs10819510 26.50% 29.20% 32.00% 7.74E-03 rs1205035 36.20% 38.20% 42.00% 9.83E-03 rs432203 38.00% 40.90% 44.30% 7.79E-03 rs1327533 25.30% 28.90% 33.70% 3.56E-04 rs2826891 36.50% 40.00% 43.10% 4.02E-03
+
+Additional arguments confirming that detected genetic are linked to life span could come from three of information from: (1) The new GWAS performed independent populations; (2) the results obtained in GWAS on independent populations performed by researchers; or (3) the fact that genes linked to detected belong to established metabolic pathways involved the regulation of aging and life span. Such pathways have identified in a number of earlier studies using inde- populations. In this paper we investigated the third of information mentioned above.
+
+Genes closest to the 27 I-longevity SNPs: Their roles in aging and health
+
+The fact that the 27 I-longevity alleles jointly significantly influenced life span, regardless of the statistical method used for their selection, indicates potential functional significance of respective genes in physiological aging and/or age- associated diseases, because both the aging and the diseases are major contributors to life span. To see if this is the case, we looked for where these 27 SNPs are located in the genome and conducted a review of current knowledge on biological functions (established or suggested) of genes closest to these
+
+SNP,Single-nucleotidepolymorphism;MAF,minorallelefrequency.
+
+Table Results of Analyses of Joint Effects of ‘‘Longevity’’ Alleles on Life Span 2.
+
+GEE Normal Cox Logistic GF MM Intersection N 1,173 1,173 1,471 1,331 1,471 1,173 1,471 ind N 1,217 823 3,683 97 52 1,202 27 SNPs R2 16.6% 16.9% 13% 16% 16.1% 18.5% 14.4% orig R2 10.6% 10.3% 6% 9% 8.3% 10.2% 8.2% off
+
+The first six columns show the effect of SNP alleles on life span for each of the six models used in the allele selection procedure. The last column shows this effect for the intersection set (of I-longevity alleles). The rows in the table denote: N , number of individuals from the ind FHS original cohort, which data were used in the alleles selection procedures; N , number of SNPs selected with respective model; R2 , SNPs orig percent of life span variance in the FHS original cohort explained by respective model; R2 , percent of life span variance in the FHS offspring off cohort explained by the respective model.
+
+GEE, Generalized estimation equation; normal, normal linear regression; Cox, Cox regression; logistic, logistic regression; MM, model; GF, gene-frequency method; SNP, single-nucleotide polymorphism.
+
+plasticity, and memory formation). Other (less com- mon) processes were inflammation, detoxification, and replicative senescence. Health outcomes predominantly associated with these genes were cancer and brain disorders. Other (less common and mostly suggestive) associations were with CVDs and asthma.
+
+SNPs. For this, we used peer-review publications available through PubMed, as well as online sources of genetic infor- mation, such as NCBI Entrez SNP, Entrez Gene, GeneCards, OMIM, KEGG, PANTHER, Your Favorite Gene (powered by Ingenuity), and some others. The results are summarized in Tables 3 and 4.
+
+This review resulted in a number of important findings:
+
+The majority (
+
+%) of SNPs from the core set of
+
+SNPs were located within genes, compared to only
+
+% of SNPs in the original
+
+K set. This supports poten- tial functional relevance of these SNPs for achieving longevity.
+
+A total of
+
+% (
+
+of
+
+) of those longevity SNPs that were located within genes are intronic. No longevity SNPs were found in exons. This finding is important because it suggests that the identified genetic effects on longevity might be linked to changes in protein con- centrations rather than to the changes in protein struc- ture. Indeed, introns may perform various jobs, such as alternative splicing or regulation of gene transcription levels with the help of an enhancer located in the intron. The latter is the reason why intronic polymorphisms may have functional effects, even when the introns are not translated. When activated by a transcription factor, the enhancer may increase the level of gene expression several-fold, which in turn will increase the yield of a respective protein. Therefore, polymorphisms in in- tronic enhancers may potentially significantly affect the balance of protein concentrations, without any changes in the protein structures, thus providing the possible mechanism of their influence on life span. To see if this is the case, it is necessary to connect the results of SNP genotyping with the results of the analyses of expres- sion of respective genes and proteins in a further study. Currently, there is indirect evidence in support of such mechanism. One of the authors of this paper (Dr. Wu), in an earlier work on nematode worms,
+
+demonstrated a correlation between levels of gene–protein expression and survival, not related to the changes in gene–protein structure (the worms were genetically identical).
+
+A review of functions and biological effects (known, as well as suggested) of genes closest to the
+
+I-longevity SNPs revealed that biological processes most often as- sociated with these genes are cell growth/proliferation, apoptosis, cell adhesion, and neural activities (such as information processing, response to damage, synaptic
+
+Discussion
+
+Potential mechanisms connecting genes and life span
+
+A closer look on findings shown in Tables 3 and 4 allows for clarifying important features of mechanisms connecting genes and life span. The detected genes are typically multi- functional, with overlapping functions, so that each gene can contribute to several cell functions, and each function is supported by several genes. The latter provides support for the polygenic influence with potentially interchangeable and additive effects of the identified SNPs on life span.
+
+A substantial part of the genes closest to the 27 longevity SNPs (26% of all loci, and 35% of the SNPs located within genes) are involved in regulating cell growth/proliferation and apoptosis (Tables 3 and 4). These cell responses and relevant pathways are thought to be the key players in physiological aging and linked to the decline in stress resis- tance. The pathways regulating growth/proliferation and apoptosis are known to be deeply interacting,15,16 so that the collective effects of genes involved in relevant pathways on life span could be expected.
+
+Also a substantial number of the genes closest to I-lon- gevity SNPs are involved in cell–cell and focal adhesion (CDH4, SVEP1, NCAM2, RAC2, PARVG, RUNX3). The portion of the SNPs related to the adhesion genes was sur- prisingly large (22% of all I-longevity SNPs, and 30% of the I- longevity SNPs located within genes). One of the genes (CDH4) was also identified in an earlier GWAS of brain aging involving Framingham participants.17 Another one (NCAM2) is a close relative of the NCAM1 neural adhesion gene featured in pathway analysis in the recent GWAS of life span by Walter et al.18
+
+To understand mechanisms of the influence of cell adhe- sion genes on life span, it is important to stress that these genes may favor longevity through aging as well as cancer- related processes,19–21 and this influence may potentially involve significant tradeoffs; e.g., Hong et al.19 found that cell adhesion genes in mice were overactivated by the aging process, whereas calorie restriction (the only proved
+
+seneGtsesolCriehTfo)detsegguSronwonK(snoitcnuFdna tnavelerrojaMstceffecipytonehpdnasnoitcnuF ssecorplacigoloibdetaicossaebotdeveilebronwonknietorp/eneGecnatsiDnoitaleR redrosidhtlaehronietorp/enegsihthtiwnoitpircsedenegtsesolCenegotenegotrhCPNS romut;sisotpopAsecudni,noitarefilorpstibihnIetavitcarehtienaCdetaler-tnur:3XNUR0cinortnI14888464sr ;noisserppusruomutasasnoitcnuf; 14sisotpopa;noitpircsnartsserppusro3rotcafnoitpircsnart ;esnopserenummirodeteledyltneuqerf;rosserppusrehtohtiwstcaretni amhtsasesserppus; 24recnacnidecnelissrotcafnoitpircsnart 54–34amhtsa,ygrellanielor;4-LIenegoduesP1.41P941-11PR609,48-cinegretnI19180213sr noitamrofniniarBlanoruenrofecnavelerevahyaM-noruenforebmeM1ekil-niclacoppih:1LACPH0cinortnI26764791sr ;gnissecorpnidevlovniebdnagnilangis-muiclaccfiiceps ralucsavoidracnoitalugertnedneped-muiclacsnietorpgnidnib )?(amhtsa,esaesid,noitalyrohpsohpnispodohrfoylimaf 74,64amhtsadnanoisnetrepyh ;noitarefilorplleCdnahtworgllecsetalumitScinegotimAa-FGT0cinortnI2302234sr esnopserniarblleclaruen,.g.e,noitarefilorpelbaeditpepylop ;egamadot;niarbderujniehtninoitarefilorpFGEehtotdnibot )?(ekorts;recnac; 84ekortsnievitcetorpebyamtcadnarotpecer detalugerpu; 94sisotpopastibihnihtiwyllacitsigrenys srecnacemosnietomorpotb-FGT noitarefilorpllec3.790131CA0gnidocnoN224532621sr 3.747110CA664,351-cinegretnI298680031sr noitamrofniniarB;yticitsalpcitpanysotdekniLenarbmemcitpanystsoP2ninetnyslac:2NTSLC0cinortnI37944381sr ;gnissecorp; 05yromemcidosipehtiwdetaicossatsehgihhtiwsnietorp yromem2NTSLCehtfotceffelaicfienebcigreABAGnislevel DA;noitamrofdnayromemnoelellaCdesserpxe;snoruen niarbneewtebytivitcennoclaidemehtni htiwdetaicossa; 15snoigerebollaropmet 25DAninoitcnufevitingoc /tserraelcyclleCsetalugernoitalyrohpsohpPIRTARTA:enegtsesolC2.3C42-11PR0gnidocnoN31876789sr evitacilperesnopsernitserraelcycllecnietorpgnitcaretni ecnecsenesyamRTA; 35egamadANDot)PIRTA( ecnecsenesevitacilperreggirtosla 45.egamadANDfoecnesbani ;yromem;sisotpopAhtworgllecfolortnocevitagenehTeninoerht/enireSnietorp:C2R2PPP0cinortnI493773901sr ;sredrosidniarb,sisotpopasecudni;lavivrusdnasi2esatahpsohp,2esatahpsohp )?(sDVC,recnacylbissop;noitaitnereffidlanoruen;niarbnitnadnubatinubusyrotaluger nielor; 75–55recnacnidevlovni-negotimyfidomnacammag,B gninrael,yticitsalpcitpanysnietorpdetavitca nidetpursid;yromemdnaKPAM(esanik ralopibdnaytilibasidlautcelletniytivitca muiclaclaidracoym; 95,85redrosid
+
+72.3 seneGtsesolCriehTfo)detsegguSronwonK(snoitcnuFdna
+
+)(.3 tnavelerrojaMstceffecipytonehpdnasnoitcnuF ssecorplacigoloibdetaicossaebotdeveilebronwonknietorp/eneGecnatsiDnoitaleR redrosidhtlaehronietorp/enegsihthtiwnoitpircsedenegtsesolCenegotenegotrhCPNS 1.1B322-1PR050,901-cinegretnI65305021sr sredrosidpeelSdnaemordnyssgelsseltseR–nietorpnidevlovnIniamodBTB:9DBTB0RTU_emirp368530083sr ;emordnysetteruoTylbissopsnoitcaretninietorp9gniniatnoc 16niarbehtninoitalugernorinepo7rhc:05fro7C0cinortnI727965201sr 05emarfgnidaer ;noisehdalleCdnanoisehdallecnielorasyalP:nietorpniamoditlumAdnaFGE:1PEVS0cinortnI93357231sr htworgelcsumdetavitcaforekram;sisenegoym,A-FWv,PCC,ihsuSniamodnixartnep noitarenegerdnafonoitaluger;sllecetilletasekil-FGE/FGE1gniniatnoc 26etafllecmetselcsumdna,gnidnibmuiclac sniamodnixartnep ;noitarefilorplleCswolla,noitamrofynolocsecnahnE-nwoD"(MIRD/6A19460AAIK351,6-maertsnwoD94050952sr recnac;htworgtnednepedni-egarohcnanidetaluger ;noitarefilorpllecetomorpyam)"sisatsateM 36laitnetopcinegocnosahnietorpgnitcaretni cinegocnohtiw scitsiretcarahc3.3J56-11PR762,73-cinegretnI901591801sr setebaid;recnaCnoigerenegsihtnisnoitaretlAANRtsezylataCANRt-lynietsyc:SRAC0cinortnI11104937sr recnachtiwdetaicossaneebevah;noitalycaonimaesatehtnys 56,46yhtaporhpencitebaiddnaraendetacol enegdetnirpmi aniniamod rosserppus-romut noigereneg tnedneped-muiclaCcaidracdnahtoomsnielortnatropmIfoyrtneehtsetaideMC1ahpla:C1ANCAC0cinortnI213140732sr niarb;sessecorpenomroh,noitcartnocelcsumotnisnoimuiclacepyt-Lfotinubus ;yromem,emuloveneg,esaelerrettimsnartoruenronidevlovni;sllecdetag-egatlov ;sredrosidniarbnoisivid,ytilitomllec;noisserpxe-muiclacfoyteiravlennahcmuiclac ralucsavoidracerasmsihpromylop;htaeddnasessecorptnedneped esaesid,redrosidralopibotdeknil yerg,yromem,ainerhpozihcs esnopserdna,emulovrettam 96–66tnemtaertnoisnetrepyhot ;noitarenegerniarB,noitarenegernoxarofderiuqeRehtnisetapicitraPeninoerht/enires:42KTS0cinortnI310237159sr ylbissop;yromemylbissop;17,07yticitsalpcitpanysedacsacKPAM42esanik recnacdnaDP 27,17DPdnarecnacnidevlovni fotropsnarT;ecnatsisergurditlumnidevlovnIsuoiravtropsnarTenisoneda:4CCBA0cinortnI314458414sr ,scitoibonexralullecnielorayalpyamssorcaselucelomgnidnib-etahpsohpirt ;noitacfiixotedlavivrusdnanoitacfiixotedralullecartnidnaartxesretropsnartettessac recnac 47,37recnacmorfsenarbmemylimaf
+
+tnavelerrojaMstceffecipytonehpdnasnoitcnuF ssecorplacigoloibdetaicossaebotdeveilebronwonknietorp/eneGecnatsiDnoitaleR redrosidhtlaehronietorp/enegsihthtiwnoitpircsedenegtsesolCenegotenegotrhCPNS ;ytinummietannIyek;noisserperlanoitpircsnarTraelcunelbicudni-c-NFI,ylimafRLN:5CRLN0cinortnI6138314sr ;noitammaflniforotalugerevitagenlanoitpircsnartniamodDRAC noitcefnilarivsyawhtapyrotammaflniehtforotaluger5gniniatnoc ytinummietanniniIepytdnaBj-FN 67,57esnopserlarivitnadnagnillangisnorefretni2.285610CA0gnidocnoN9136957961sr ;noisehdalleC,htworgtuosnoxanidevlovnInisetapicitraPnirehdac-R:4HDC0cinortnI024174202sr ,emulovniarb,tnempolevedelcsumdnayendiktnedneped-muiclac)laniter( ;gniganiarbromutsatcayam;ytilitomllecnoisehdallec–llec recnacynamnidetalyhtem;rosserppus msihpromylop; 77,12srecnac larbereclatothtiwdetaicossa 71emulovniarb ;noisehdalleclarueNyam;noisehdallecsetaideM,nietorpniarBlleclaruen:2MACN0cinortnI121986282sr niarb,recnacenoz-ot-enoznieloryalpehtfoylimafrepus2elucelomnoisehda )?(sredrosidyramirpehtfonoitcejorp;nilubolgonummi niarbnidna,snoxayrotcafloamsalpfoeno esnopsersetaidem; 87sredrosidderohcna-enarbmem ,tsaerbniyparehtenegotsnietorp 97srecnacetatsorp ;noisehdalleCetartsbus-etycokuelnidevlovnIsnietorpgnidnib-nitcA,nivrap:GVRAP0cinortnI22071931sr noisserppusromutetycokueldnanoitcaretnilacofhtiwdetaicossaammag romut; 08noitargimnoisehda 18erutaefrosserppus niarbfonoitalugeRyltnanimoderperasnietorpAFAT,a1-PIMotdetaleRrebmem:5A91MAF0cinortnI225761775sr dnanoitammaflnisnoigercfiicepsnidesserpxeehtforebmemaylimafAFATfo lanoruendesoporp; 28niarbehtfoenikomehc-CC )?(lavivruscfiiceps-niarbsanoitcnufot.ylimaf senikoruenrosenikomehc2.050000CA255,3-maertspU226096169sr /htworglleCllecB; 38tnempolevedllecTSARehtfoesaPTGdetaler-sar:2CAR299,7-maertspU2257135031sr ;noitarefilorp; 58noitammaflni; 48noisehdaylimafrepusnixotmunilutob3C ;noisehdallec,noisehdaCSHetaludomnacllecgnitaluger2etartsbus ,ytinummi,noitazilibom,noteleksotyc,htworg noitammaflni 68noitarefilorpdnasesaniknietorpdna noitavitca ,noitamrofniciteneggnizitametsysdnagnihcraesrofsloothcraeserdnasesabatadenilno,esiwrehtodetacidnitonfi)2(;)detacidnisecnerefer(srepaphcraeserdeweiver-reeP)1(:noitamrofnifosecruoS .)ytiunegnIybderewop(eneGetirovaFruoYdna,REHTNAP,GGEK,MIMO,sdraCeneG,eneGzertnE,PNSzertnEIBCNsahcus ,DA;gniterces–dicacirytubonima-c,cigreABAG;rotcafhtworglamredipe,FGE;a-rotcafhtworggnimrofsnart,a-FGT;4-nikuelretni,4-LI;emosomorhc,rhC;msihpromylopeditoelcun-elgniS,PNS
+
+Table Examples of Similarity in Functions and Phenotypic Effects of ‘‘Longevity’’ 4. or ‘‘Aging’’ Genes Found in Our and Other Studies
+
+Examples of ‘‘longevity’’ or ‘‘aging’’ genes from other studies that have been linked Genes closest to I-longevity Biological processes/disorders to similar biological processes or health SNPs from our study associated with these genes disorders as genes in our study KIAA0649; STK24; PPP2R2C; Cell growth; proliferation; IGF-187; MINPP16; LMO418 TGFA; RAC2 cancer RP11-24C3.2; PPP2R2C; RUNX3; Growth arrest; senescence; p5325,88; p2189; FOXO3A90,91; p16Ink4a20,92 CDH4; CARS; PARVG apoptosis; tumor suppression CDH4; SVEP1; NCAM2; RAC2; Cell adhesion p16Ink4a20; set of 478 aging- and 586 PARVG; RUNX3 mouse genes19; CDH417; NCAM118 CLSTN2; HPCAL1; CDH4; STK24; Central nervous system p5393; Klotho94,95; CDH417; TOMM 40, TGFA; FAM19A5; PPP2R2C; information processing; brain LMO4, GRIA1, NETO1, NCAM1, NCAM2, CACNA1C aging; brain disorders; memory CACNA1C18 NLRC5; FAM19A5; RAC2; Immunity; inflammation Set of 478 aging- and 586 CR-related RUNX3 mouse genes19; IL-1096 ABCC4 Detoxification; metabolism GSTT197,98 of xenobiotics
+
+Some of the genes shown here are linked to multiple biological processes; therefore, the same gene name may appear in more than one row.
+
+stress resistance (e.g., through delayed memory loss and brain regenerative response to damage), and (2) lower to brain disorders. It is not clear which mech- is prevailing, or if there is a trade-off. Because brain starts early in life,22 typically long before the mani- of aging in other organs and onsets of major dis- including in the brain, the brain aging could be a factor contributing to brain disorders later in life.
+
+intervention so far) attenuated them. That is, the level of cell adhesion was associated with the slower aging. In relation to interpretation of our study this would mean that in cases where the adhesion act together toward the lower level of the adhesion, could favor longevity due to the slower aging. On the hand, enhanced levels of cell adhesion were shown to protective against cancer.20 In this case, longevity SNPs together toward the higher level of the cell adhesion favor longevity due to a lower cancer risk. This means to truly understand how the SNP alleles related to the genes favor survival, one needs at least to know if down- or upregulate respective genes/proteins/path- It again stresses the importance of connecting the re- of GWAS with the results of analyses of the genes/ expression.
+
+Summarizing this part of the Discussion, the fact that many of the identified genes participate in regulating both aging and cancer, or both brain aging and brain disorders, raises a question about distinguishing between the aging and disease-related functional effects of SNP alleles that under- line the increases in longevity. Do these alleles favor lon- gevity mainly because they attenuate physiological aging changes in body (and respective decline in stress resistance), or mainly because they help to reduce risks and postpone onsets of common diseases with high fatality rates, such as cancer and AD? They may do both, but there may also be trade-offs. For example, it is well known that risks of many common diseases, including cancer and AD, typically decline at older ages, when the overall risk of death continues to increase.16,23 This indicates that there may be factors, in- cluding genetic ones, that affect the age-associated increase in vulnerability to death due to physiological aging (and related decline in stress resistance), and risks of major dis- eases, differently or even oppositely. For example, van Heemst et al.24 demonstrated that individuals with Pro/Pro genotype of p53 corresponding to a reduced apoptosis in cells had a significant increase in both overall survival (by 41%) and mortality from cancer. In another study, Ørsted et al.25 found that the overall 12-year survival was increased in p53 Pro/Pro versus Arg/Arg homozygotes despite po- tential cancer-favoring properties of the former genotype. Boquoi et al.26 have recently reported that expression of a key tumor suppressor protein p16 (loss of which is associ- ated with many human cancers) induced premature aging in mice via blocking cell proliferation in normal tissues. This
+
+As Table 3 shows, the health effects of the genes related to longevity SNPs focus mostly on cancer and brain disorders. Roughly, about half of all genes in the table are shown to be involved in cancer development, or at least in regulation of highly relevant cell responses (proliferation, senescence, ap- optosis, and adhesion). Therefore, one reason why the joint contribution of respective genes is important for surviving old age could be that certain alleles of these genes, acting together, reduce cancer risk in individuals. Indeed, a ma- jority of long-living people (at least nowadays) are those who have managed to avoid cancer until very old age; e.g., Newman et al.6 have been reported significantly less cancers among those who survived age 90 compared to those who did not.
+
+Finally, about one-third of the genes closest to I-longevity SNPs are involved in brain activities that are highly relevant to brain aging (speed of information processing, brain re- sponse to damage, and memory formation), and also in brain disorders (Alzheimer disease [AD], Parkinson’s disease [PD], bipolar disorder, and schizophrenia), most often through calcium signaling pathways. As Table 3 shows, the possible mechanisms of prolongevity effects of polymorphisms in these genes may involve: (1) Slower brain aging and decline
+
+account the possibility of trade-offs between genetic factors influencing aging and diseases (as well as between diseases), when trying to explain mechanisms of the observed genetic
+
+Moreover, the same gene may play prolongevity or antil- ongevity roles dependent on the functioning of other genes, meaning that its effect may be opposite in the two individ- uals. They may be opposite in the same individual in dif- ferent periods of his/her life and in different environments. Statistical models used in the allele selection procedures es- timate average effect of genetic variants on life span. That is why the estimate of such an effect may be modified when the number of individuals in a sample changes (e.g., as a result of using different quality control procedure, or by adding a portion of newly genotyped individuals to the initial sam- ple). Similarly, the use of different statistical models in the allele selection procedure provides researchers with different approximations of the real connection between genes and life span resulting in different subsets of selected genetic vari- ants.
+
+False positives and replication issues
+
+The large numbers of SNP alleles selected using N-, GEE-, MM-, and C-methods, as well as substantial difference in these numbers, indicate high chances of having false-positive alleles in selected sets. The numbers of selected false-positive alleles depends on the QC procedure. In our study, we used the call rate‡ 80%, HWE> 10-7, and MAF ‡ 1%, which is likely to be not stringent enough. More stringent QC proce- dures (e.g., Fornage et al.27 and O’Seaghdha et al.28) may substantially reduce the number of false positives. Note that intersection of the six sets of selected SNP alleles may sub- stantially reduce the chances of having false positives in the I-set and increase the chances of selecting true positive al- leles. Table S1 in the Supplemental Data shows that 5 out of 27 SNPs (rs16975963, rs1327533, rs432203, rs41383, rs3120819) have a call rate between 80% and 90%, 2 out of remaining 22 SNPs (rs2370413, rs9616906) have a call rate between 90% and 95%, and 3 out of remaining 20 SNPs (rs12623542, rs13008689, rs1834497) have a call rate between 95% and 97%. The fact that 17 out of 27 selected SNPs passed through the most stringent QC with the call rate of 97% indicates high chances for them to be true positive alleles. It is important to note that the 27 SNPs selected in our paper passed through additional stringent QC procedure (which was not used in the studies discussed above). They have been selected in each of six different procedures based on different statistical models (see Fig. S6 and Fig. S7 in Sup- plemental Data concerning additional properties of selected
+
+Lunetta et al.4 performed GWAS using genetic data on 100K SNPs (Affymetrix 100K GeneChip) collected in partic- ipants of the FHS Original and Offspring cohorts. The Cox proportional hazards model was used to perform the re- gression analysis of survival times from age at study entry to age at death. Models were adjusted for a number of observed covariates, including birth cohorts and behavioral and physiological characteristics. The authors concluded that longevity and aging traits are associated with a number of SNPs; however, none of the associations achieved genome- wide significance.
+
+Newman et al.6 performed a meta-analysis of GWAS of longevity (defined as survival to age 90 years or older) in Caucasians from four prospective cohort studies. The au- thors found 273 SNPs associations with p< 0.0001, but none reached the prespecified significance level of 5· 10-8. The authors concluded that survival studies of larger size or more extreme or specific phenotypes may support or refine their findings.
+
+Note that replicating GWAS findings in a new study with an independent population might be a less reliable and cost- ineffective method of confirming true positive associations compared to testing the roles of the detected genes in known metabolic pathways. Indeed, with heritability in life span about 25%, the environmental factors contribute up to 75% of variability in this trait. Because environmental factors influ- ence life span by activating appropriate genes from meta- bolic pathways involved in the regulation of aging, health, and longevity, distinct conditions might activate different genes from the same or different pathways. Therefore, it is likely that different sets of SNP alleles will be associated with life span in the two independent populations, reducing chances to replicate GWAS findings in independent popu- lations. This conclusion is illustrated by the results of two recent GWAS produced by established research groups, where none of the previously identified longevity genes were found.29,30 Does it mean that earlier genetic studies of lon- gevity produced false-positive results? Not necessarily. It is most likely that the idea of replication using independent population does not fully correspond to the multi-factorial nature of complex traits.
+
+Taking into account the difficulties in detecting individual longevity alleles with significant effects using traditional GWAS, as well as the results of earlier studies evaluating narrow-sense heritability of longevity between 15% and 30%,10,31,32 we recently tested the presence of the additive genetic influence on life span, using the FHS data.10 Such influence was demonstrated for other complex traits, such as height.3 To select respective alleles, Yashin et al.10 used a linear regression model without observed covariates and demonstrated that significant additive effects of common SNPs on life span do exist. The results of our analyses showed that detected sets of genetic variants depend on the statistical model used in allele selection procedure, but also have many genetic variants in common. These analyses also showed that SNP alleles from each of the six sets have sub- stantial joint genetic influence on life span, which was also highly statistically significant. Thus, our study demonstrated that six different methods used in the allele selection proce- dure lead to the same conclusion: A substantial portion of variability in human life span is associated with the additive genetic component. This conclusion is in concert with the results of recent studies of genetic contribution to variability of complex traits.33
+
+It is important to point out that the selected 27 longevity SNPs do not exhaust all SNP variants positively influencing life span in a given dataset. The complexity of life span as a phenotypic trait indicates that many other genes with small effects might be involved in the regulation of life span.
+
+In the pregenomic era, the additive genetic contribution to complex traits was a major focus of genetic studies of such traits. Respective statistical models described phenotypic traits as a sum of independent genetic and environmental
+
+components without interaction. The genetic influence on a trait was characterized by the narrow-sense heritability, i.e., the proportion of phenotypic variance, explained by the additive genetic component. Although, using today’s knowledge about phenotypes (e.g., life span) and factors affecting them, mathematical models used for heritability calculations look oversimplified, many conclusions derived from them have important practical meaning. For example, the estimates of heritability have been used to measure se- lection rate in breeding.34 The presence of additive genetic effects on phenotypic traits was also one of the key as- sumptions in evolutionary models of natural selection.35 However, despite recognition of the importance of additive genetic components in phenotypic variation of complex traits, and a number of publications33,36–38 clearly demon- strating the possibility of estimating this component from available genome-wide SNP data, as well as the benefits of using the estimate in analyses of genetic influence on com- plex traits (e.g., risks of diseases), the potential of this ap- proach for studying life span, ages at disease onset, or other health-related durations remain largely underused.
+
+significance level (rs9664222, 6.77·10-7) is also involved in regulating cell proliferation (Table 4). In a more recent meta- analysis of nine GWA studies by Walter et al.,18 the authors identified 14 SNPs associated with time to death with a conventional level of significance (p <10-5), and also 862 SNPs with p <10-3, and evaluated biological processes as- sociated with genes closest to these SNPs. Similar to our study, cell adhesion and neuronal activities (e.g., involving NCAM1 and CACNA1C genes) were overrepresented among the relevant processes (Table 4).
+
+Taking into account that about 75% of phenotypic varia- tion in life span could be due to nongenetic factors, and that these factors likely influence traits not directly but through genes involved in various pathways, one should not expect to exactly replicate the effect of a specific SNP allele in other populations. However, the fact that ‘‘longevity’’ or ‘‘aging’’ genes identified in different studies often represent the same molecular function, pathway, cell response, or biological process indicates that it may be reasonable to respectively address the issue of replication of gene-longevity associa- tions,39 i.e., to do it on the level of gene functions, pathways, and their outcomes, rather than on the level of individual SNPs or genes.
+
+The set of I-longevity alleles selected in these analyses differs from that selected in our earlier paper,10 although these sets have nine genetic variants in common. This is likely to be due to the differences in approaches to selecting genetic variants associated with life span.
+
+Conclusions
+
+The results of this study stress the importance of using several statistical approaches for identifying alleles in GWAS of complex traits, as well as the importance of using estab- lished metabolic pathways involved in regulation of these traits for confirming research findings. The latter creates an important link between population-based GWAS and the results of experimental studies focused on verifying molec- ular biological mechanisms, metabolic pathways, and pro- tein interaction networks affecting phenotypic traits.
+
+The longevity alleles selected in this study differ from those selected in the studies of Lunetta et al.4 and Newman et al.6 discussed above. As results of our study show, one possible reason for this could be differences in the allele se- lection procedures. The control for observed covariates was also different. In contrast to Newman et al.,6 we did not control for observed covariates that could be considered as mediators of genetic influence on life span (e.g., physiological variables) in our study. Although controlling for such cov- ariates may reduce effects of nongenetic factors affecting life span through these covariates, it may also reduce the num- ber of selected genetic variants affecting this trait (see also Supplemental Data).
+
+The fact that the majority of detected SNPs were located in genes and were intronic indicates a potentially pivotal role of changes in intronic enhancers and in gene/protein expres- sion (not related to the changes in protein structure) in achieving longevity, as compared to the role of the changes in coding exons. This hypothesis needs further testing.
+
+The SNPs identified in our study do not have exact overlaps with the SNPs found in other recent GWAS of longevity.5,7,18 While recognizing all the possible statistical reasons for such lack of replication (discussed above), it is important to stress that on the level of gene functions, pathways, cell responses, and health effects, in which the identified SNPs or related genes are involved, there are clear overlaps across respective studies, as well as with many other (not genome-wide) genetic association studies of aging and longevity (Table 4). For example, rs2024714 is one of the 27 I-longevity SNPs, which is located in the intronic region of CDH4, a cell adhesion gene involved in brain information processing and tumor suppression. In an earlier GWAS conducted by Framingham researchers using the Affymetrix 100K SNP array, a polymorphism (rs1970546) in the same CDH4 gene (and also located in the intronic region of this gene) was found to be significantly (p =3.7· 10-8) associated with total cerebral brain volume used in that study as en- dophenotype of brain aging.17 Another example: Several of the 27 SNPs from our study are located within or close to genes involved in regulating cell proliferation (e.g., RAC2, TGF-a). Similarly, in Newman et al.,6 a gene (MINPP1) linked to one of the identified longevity SNPs with highest
+
+We also found that longevity genes from the intersecting set are not random, but are largely involved in regulating aging and cancer, as well as brain aging and brain disorders. Discovering the functional relevance of these genes to aging and major diseases supports a causal relationship underlying associations between the identified SNPs and life span, and reduces the chances for these alleles to be false positives.
+
+Although the available information on functional effects of the detected longevity alleles is currently not comprehensive enough to draw conclusion about precise mechanisms of their influence on life span (e.g., it is in most cases unclear if the effects of these alleles result in up- or downregulating respective genes/proteins/pathways), discussing these mechanisms is necessary for formulating priority questions that need to be addressed in further studies, e.g., about rel- ative contribution of genetically slower aging versus lower disease risks for achieving longevity, possibility of pleiotro- pic effects (e.g., trade-offs) of the same genetic factor on aging and diseases, as well as on different diseases.16 It is also crucial to connect the results of GWAS with the results of analyses of expression of respective genes and proteins.
+
+Marked similarities in functions and phenotypic effects of many genes found in our and other genetic associations studies of aging/longevity indicate that replication of the results of genetic association studies can be achieved by us- ing available information about the involvement of respec- tive genes in certain pathways, cell responses, physiological processes, and health disorders.40
+
+fluence of small-effect genetic variants on human longevity. Aging
+
+;
+
+:
+
+–
+
+Dawber TR, Meadors GF, Moore FE. Epidemiological ap- proaches to heart disease: The Framingham Study. Am J Public Health
+
+;
+
+:
+
+–
+
+Kannel WB, Feinleib M, M
+
+amara PM, et al. An investi- gation of coronary heart disease in families: The Framing- ham offspring study. Am J Epidemiol
+
+;
+
+:
+
+–
+
+Splansky GL, Corey D, Yang Q, et al. The third generation cohort of the national heart, lung, and blood institute’s Framingham Heart Study: Design, recruitment, and initial examination. Am J Epidemiol
+
+;
+
+:
+
+–
+
+Rea SL, Wu DQ, Cypser JR, et al. A stress-sensitive reporter predicts longevity in isogenic populations of Caenorhabditis elegans. Nat Genet
+
+;
+
+:
+
+–
+
+Levine AJ, Feng ZH, Mak TW, et al. Coordination and communication between the p
+
+and IGF-
+
+-AKT-TOR signal transduction pathways. Genes Dev
+
+;
+
+:
+
+–
+
+Ukraintseva SV, Arbeev KG, Akushevich I, et al. Trade-offs between cancer and other diseases: Do they exist and in- fluence longevity? Rejuvenation Res
+
+;
+
+:
+
+–
+
+Seshadri S, D
+
+tefano AL, Au R, et al. Genetic correlates of brain aging on MRI and cognitive test measures: a genome- wide association and linkage analysis in the Framingham study. BMC Med. Genet
+
+;
+
+Walter S, Atzmon G, Demerath EW, et al. A genome-wide association study of aging. Neurobiol Aging
+
+;
+
+:
+
+.e
+
+–
+
+,e
+
+Hong S-E, Heo H-S, Kim DH, et al. Revealing system-level correlations between aging and calorie restriction using a mouse transcriptome. Age
+
+;
+
+:
+
+–
+
+Seluanov A, Hine C, Azpurua J, et al. Hypersensitivity to contact inhibition provides a clue to cancer resistance of naked mole-rat. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Miotto E, Sabbioni S, Veronese A, et al. Frequent aberrant methylation of the CDH
+
+gene-promoter in human colo- rectal and gastric cancer. Cancer Res
+
+;
+
+:
+
+–
+
+Finch CE. The neurobiology of middle-age has arrived. Neurobiol Aging
+
+;
+
+:
+
+–
+
+Ukraintseva SV, Yashin AI. Individual aging and cancer risk: How are they related? Demographic Res
+
+;
+
+:
+
+–
+
+van Heemst D, Mooijaart SP, Beekman M, et al. Variation in the human TP
+
+gene affects old age survival and cancer mortality. Exp Gerontol
+
+;
+
+:
+
+–
+
+Orsted DD, Bojesen SE, Tybjaerg-Hansen A, Nordestgaard BG. Tumor suppressor p
+
+Arg
+
+Pro polymorphism and longevity, cancer survival, and risk of cancer in the general population. J Exp Med
+
+;
+
+:
+
+–
+
+Boquoi A, Chen T, Enders GH. Chemoprevention of mouse intestinal tumorigenesis by the cyclin-dependent kinase in- hibitor SNS-
+
+Cancer Prev Res
+
+;
+
+:
+
+–
+
+Fornage M, Debette S, Bis JC, et al. Genome-wide association studies of cerebral white matter lesion burden: The CHARGE Consortium. Ann Neurol
+
+;
+
+:
+
+–
+
+O’Seaghdha CM, Yang Q, Glazer NL, et al. Common vari- ants in the calcium-sensing receptor gene are associated with total serum calcium levels. Hum Mol Genet
+
+;
+
+:
+
+–
+
+Nebel A, Kleindorp R, Caliebe A, et al. A genome-wide as- sociation study confirms APOE as the major gene influenc- ing survival in long-lived individuals. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+The next logical steps in studying the genetic influence on longevity could deal with analyses of genetic mechanisms underlying complex relationships among physiological ag- ing changes, onsets of major diseases, and life span, taking into account the effects of both individual genes and poly- genic influence (additive and nonadditive) on these traits, as well as the impact of nongenetic factors.
+
+Acknowledgments
+
+The FHS project is conducted and supported by the Na- tional Heart, Lung, and Blood Institute (NHLBI) in collabo- ration with Boston University (N01 HC25195). The FHS data used for the analyses were obtained through dbGaP (phs000007.v3.p2). The authors acknowledge the investiga- tors that contributed the phenotype and genotype data for this study. This manuscript was not prepared in collabora- tion with investigators of the FHS and does not necessarily reflect the opinions or views of the FHS, Boston University, or the NHLBI. This work was partly supported by NIH/NIA grant R01AG030612.
+
+Author Disclosure Statement
+
+No competing financial interests exist.
+
+References
+
+Yang J, Benyamin B, M
+
+voy BP, et al. Common SNPs plain a large proportion of the heritability for human Nat Genet
+
+;
+
+:
+
+–
+
+Peterson RE, Maes HH, Holmans P, et al. Genetic risk score comprised of common polygenic variation is ated with body mass index. Hum Genet
+
+;
+
+:
+
+–
+
+Allen HL, Estrada K, Lettre G, et al. Hundreds of clustered in genomic loci and biological pathways human height. Nature
+
+;
+
+:
+
+–
+
+Lunetta KL, D’Agostino RB, Sr., Karasik D, et al. correlates of longevity and selected age-related A genome-wide association study in the Framingham BMC Med Genet
+
+;
+
+(Suppl
+
+):S
+
+Hardy J, Singleton A. Genomewide association studies human disease. New Engl J Med
+
+;
+
+:
+
+–
+
+Newman AB, Walter S, Lunetta KL, et al. A meta-analysis four genome-wide association studies of survival to age years or older: The cohorts for heart and aging research Genomic Epidemiology Consortium. J Gerontol A Biol Med Sci
+
+;
+
+:
+
+–
+
+Malovini A, Illario M, Iaccarino G, et al. Association on long-living Individuals from Southern Italy rs
+
+in the CAMKIV gene that regulates proteins. Rejuvenation Res
+
+;
+
+:
+
+–
+
+Manolio TA, Collins FS, Cox NJ, et al. Finding the heritability of complex diseases. Nature
+
+;
+
+:
+
+–
+
+Purcell SM, Wray NR, Stone JL, et al. Common variation contributes to risk of schizophrenia and disorder. Nature
+
+;
+
+:
+
+–
+
+murine hepatocellular carcinomas. Mol Cancer Res
+
+;
+
+:
+
+–
+
+Preuschhof C, Heekeren HR, Li S-C, et al. KIBRA and CLSTN
+
+polymorphisms exert interactive effects on human episodic memory. Neuropsychologia
+
+;
+
+:
+
+–
+
+Jacobsen LK, Picciotto MR, Heath CJ, et al. Allelic variation of calsyntenin
+
+(CLSTN
+
+) modulates the impact of devel- opmental tobacco smoke exposure on mnemonic processing in adolescents. Biol Psychiatry
+
+;
+
+:
+
+–
+
+Liu F, Arias-Vasquez A, Sleegers K, et al. A genomewide screen for late-onset Alzheimer disease in a genetically iso- lated Dutch population. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Myers JS, Zhao R, Xu X, et al. Cyclin-dependent kinase
+
+- dependent phosphorylation of ATRIP regulates the G(
+
+)-M checkpoint response to DNA damage. Cancer Res
+
+;
+
+:
+
+–
+
+Toledo LI, Murga M, Gutierrez-Martinez P, et al. ATR sig- naling can drive cells into senescence in the absence of DNA breaks. Genes Dev
+
+;
+
+:
+
+–
+
+Eichhorn PJA, Creyghton MP, Wilhelmsen K, et al. A RNA interference screen identifies the protein phosphatase
+
+A subunit PR
+
+gamma as a stress-sensitive inhibitor of c-SRC. PL
+
+Genet
+
+;
+
+:
+
+–
+
+Banerjee AK, Read CA, Griffiths MH, et al. Clonal divergence in lung cancer development is associated with allelic loss on chromosome
+
+Genes Chromosomes Cancer
+
+;
+
+:
+
+–
+
+Strack S. Overexpression of the protein phosphatase
+
+A regulatory subunit B gamma promotes neuronal differenti- ation by activating the MAP kinase (MAPK) cascade. J Biol Chem
+
+;
+
+:
+
+–
+
+Backx L, Vermeesch J, Pijkels E, et al. PPP
+
+R
+
+C, a gene disrupted in autosomal dominant intellectual disability. Eur J Med Genet
+
+;
+
+:
+
+–
+
+Borsotto M, Cavarec L, Bouillot M, et al. PP
+
+A-B gamma subunit and KCNQ
+
+K+ channels in bipolar disorder. Pharmacogenom J
+
+;
+
+:
+
+–
+
+Hasdemir C, Aydin HH, Celik HA, et al. Transcriptional profiling of septal wall of the right ventricular outflow tract in patients with idiopathic ventricular arrhythmias. Pacing Clin Electrophysiol
+
+;
+
+:
+
+–
+
+Jellen LC, Beard JL, Jones BC. Systems genetics analysis of iron regulation in the brain. Biochimie
+
+;
+
+:
+
+–
+
+Shefer G, Benayahu D. SVEP
+
+is a novel marker of activated pre-determined skeletal muscle satellite cells. Stem Cell Rev Rep
+
+;
+
+:
+
+–
+
+Yang L, Zhao J, Lu WQ, et al. KIAA
+
+, a
+
+A
+
+/DRIM- interacting protein with the oncogenic potential. Biochem Biophys Res Commun
+
+;
+
+:
+
+–
+
+Debelenko LV, Arthur DC, Pack SD, et al. Identification of CARS-ALK fusion in primary and metastatic lesions of an inflammatory myofibroblastic tumor. Lab Invest
+
+;
+
+:
+
+–
+
+Pezzolesi MG, Poznik GD, Mychaleckyj JC, et al. Genome- wide association scan for diabetic nephropathy susceptibil- ity genes in type
+
+diabetes. Diabetes
+
+;
+
+:
+
+–
+
+Moosmang S, Haider N, Klugbauer N, et al. Role of hip- pocampal Ca(v)
+
+Ca
+
++ channels in NMDA receptor- independent synaptic plasticity and spatial memory. J Neurosci
+
+;
+
+:
+
+–
+
+O’Donovan MC, Craddock NJ, Owen MJ. Genetics of psy- chosis; insights from views across the genome. Hum Genet
+
+;
+
+:
+
+–
+
+Kempton MJ, Ruberto G, Vassos E, et al. Effects of the CACNA
+
+C risk allele for bipolar disorder on cerebral gray
+
+Deelen J, Beekman M, Uh H-W, et al. Genome-wide asso- ciation study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell
+
+;
+
+:
+
+–
+
+M
+
+ue M, Vaupel JW, Holm N, Harvald B. Longevity is moderately heritable in a sample of Danish twins born
+
+–
+
+J Gerontol
+
+;
+
+:B
+
+–B
+
+Herskind AM, M
+
+ue M, Holm NV, et al. The heritability of human longevity: A population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet
+
+;
+
+:
+
+–
+
+Hill WG, Goddard ME, Visscher PM. Data and theory point to mainly additive genetic variance for complex traits. PL
+
+Genet
+
+;
+
+:e
+
+Falconer DS, Mackay TFC. Introduction to Quantitative Ge- netics. Addison Wesley Longman, Harlow, Essex, UK,
+
+Fisher RA. The Genetical Theory of Natural Selection. Oxford, Clarendon Press,
+
+Lee SH, Wray NR, Goddard ME, Visscher PM. Estimating missing heritability for disease from genome-wide associa- tion studies. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Yang J, Lee SH, Goddard ME, Visscher PM. GCTA: A tool for genome-wide complex trait analysis. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Visscher PM, Hill WG, Wray NR. Heritability in the geno- mics era—concepts and misconceptions. Nat Rev Genet
+
+;
+
+:
+
+–
+
+Novelli V, Anselmi CV, Roncarati R, et al. Lack of replication of genetic associations with human longevity. Biogerontol- ogy
+
+;
+
+:
+
+–
+
+Torkamani A, Scott-Van Zeeland AA, Topol EJ, Schork NJ. Annotating individual human genomes. Genomics
+
+;
+
+:
+
+–
+
+Tong D-d, Jiang Y, Li M, et al. RUNX
+
+inhibits cell prolif- eration and induces apoptosis by TGF-beta-dependent and -independent mechanisms in human colon carcinoma cells. Pathobiology
+
+;
+
+:
+
+–
+
+Subramaniam MM, Chan JY, Yeoh KG, et al. Molecular pathology of RUNX
+
+in human carcinogenesis. Biochim Biophys Acta Rev Cancer
+
+;
+
+:
+
+–
+
+Fainaru O, Shseyov D, Hantisteanu S, Groner Y. Accelerated chemokine receptor
+
+-mediated dendritic cell migration in Runx
+
+knockout mice and the spontaneous development of asthma-like disease. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Naoe Y, Setoguchi R, Akiyama K, et al. Repression of in-
+
+missing heritability for disease from genome-wide tion studies. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Yang J, Lee SH, Goddard ME, Visscher PM. GCTA: A for genome-wide complex trait analysis. Am J Hum Genet
+
+;
+
+:
+
+–
+
+Visscher PM, Hill WG, Wray NR. Heritability in the mics era—concepts and misconceptions. Nat Rev
+
+;
+
+:
+
+–
+
+Novelli V, Anselmi CV, Roncarati R, et al. Lack of of genetic associations with human longevity. ogy
+
+;
+
+:
+
+–
+
+Torkamani A, Scott-Van Zeeland AA, Topol EJ, Schork Annotating individual human genomes.
+
+;
+
+:
+
+–
+
+Tong D-d, Jiang Y, Li M, et al. RUNX
+
+inhibits cell eration and induces apoptosis by TGF-beta-dependent -independent mechanisms in human colon carcinoma Pathobiology
+
+;
+
+:
+
+–
+
+Subramaniam MM, Chan JY, Yeoh KG, et al. pathology of RUNX
+
+in human carcinogenesis. Biophys Acta Rev Cancer
+
+;
+
+:
+
+–
+
+Fainaru O, Shseyov D, Hantisteanu S, Groner Y. chemokine receptor
+
+-mediated dendritic cell migration Runx
+
+knockout mice and the spontaneous development asthma-like disease. Proc Natl Acad Sci USA
+
+Naoe Y, Setoguchi R, Akiyama K, et al. Repression of terleukin-
+
+in T helper type
+
+cells by Runx/Cbf beta ing to the Il
+
+silencer. J Exp Med
+
+;
+
+:
+
+–
+
+Hollingsworth JW, Maruoka S, Boon K, et al. In utero plementation with methyl donors enhances allergic disease in mice. J Clin Invest
+
+;
+
+:
+
+–
+
+Kamide K, Kokubo Y, Yang J, et al. Hypertension bility genes on chromosome
+
+p
+
+-p
+
+in a general population. J Hypertens
+
+;
+
+:
+
+–
+
+Imada Y, Fujimoto M, Hirata K, et al. Large scale study for asthma in the Japanese population. BMC Notes
+
+;
+
+:
+
+Guerra-Crespo M, Gleason D, Sistos A, et al. growth factor-alpha induces neurogenesis and improvement in a chronic stroke model
+
+;
+
+:
+
+–
+
+Cavin LG, Wang F, Factor VM, et al. Transforming factor-alpha inhibits the intrinsic pathway of apoptosis through activation of nuclear factor-kappa B
+
+matter volume in healthy undividuals. Am J Psychiatry
+
+;
+
+:
+
+–
+
+Kamide K, Yang J, Matayoshi T, et al. Genetic polymor- phisms of L-type calcium channel alpha
+
+C and alpha
+
+D subunit genes are associated with sensitivity to the anti- hypertensive effects of L-type dihydropyridine calcium- channel blockers. Circ J
+
+;
+
+:
+
+–
+
+Lorber B, Howe ML, Benowitz LI, Irwin N. Mst
+
+b, an Ste
+
+- like kinase, regulates axon regeneration in mature CNS and PNS pathways. Nat Neurosci
+
+;
+
+:
+
+–
+
+Zach S, Felk S, Gillardon F. Signal transduction protein array analysis links LRRK
+
+to Ste
+
+kinases and PKC zeta that modulate neuronal plasticity. PL
+
+One
+
+;
+
+:e
+
+Thalappilly S, Suliman M, Gayet O, et al. Identification of multi-SH
+
+domain-containing protein interactome in pan- creatic cancer: A yeast two-hybrid approach. Proteomics
+
+;
+
+:
+
+–
+
+Low S-K, Kiyotani K, Mushiroda T, et al. Association study of genetic polymorphism in ABCC
+
+with cyclophosphamide- induced adverse drug reactions in breast cancer patients. J Hum Genet
+
+;
+
+:
+
+–‘
+
+Moyer AM, Sun Z, Batzler AJ, et al. Glutathione pathway genetic polymorphisms and lung cancer survival after plat- inum-based chemotherapy. Cancer Epidemiol Biomarkers Prev
+
+;
+
+:
+
+–
+
+Cui J, Zhu L, Xia X, et al. NLRC
+
+Negatively regulates the NF-kappa B and type I interferon signaling pathways. Cell
+
+;
+
+:
+
+–
+
+Benko S, Magalhaes JG, Philpott DJ, Girardin SE. NLRC
+
+Limits the activation of inflammatory pathways. J Immunol
+
+;
+
+:
+
+–
+
+Andrews GL, Mastick GS. R-cadherin is a Pax
+
+-regulated, growth-promoting cue for pioneer axons. J Neurosci
+
+;
+
+:
+
+–
+
+Kulahin N, Walmod PS. The neural cell adhesion molecule NCAM
+
+/OCAM/RNCAM, a close relative to NCAM. In: Berezin V (ed.). Structure and Function of the Neural Cell Adhesion Molecul
+
+cam. Adv Ex
+
+ed Biol
+
+;
+
+(Part
+
+):
+
+Williams DA, Zheng Y, Cancelas JA. Rho GTPases and regulation of hematopoietic stem cell localization. Methods Enzymol
+
+;
+
+:
+
+–
+
+Albani D, Batelli S, Polito L, et al. A polymorphic variant of the insulin-like growth factor
+
+(IGF-
+
+) receptor correlates with male longevity in the Italian population: a genetic study and evaluation of circulating IGF-
+
+from the ‘‘Treviso Longeva (TRELONG)’’ study. BMC Geriatr
+
+;
+
+:
+
+Bojesen SE, Nordestgaard BG. The common germline Arg
+
+Pro polymorphism of p
+
+and increased longevity in humans. Cell Cycle
+
+;
+
+:
+
+–
+
+Gravina S, Lescai F, Hurteau G, et al. Identification of single nucleotide polymorphisms in the p
+
+(CDKN
+
+A) gene and correlations with longevity in the Italian population. Aging- Us
+
+;
+
+:
+
+–
+
+Li Y, Wang W-J, Cao H, et al. Genetic association of FOX- O
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum Mol Genet
+
+;
+
+:
+
+–
+
+Willcox BJ, Donlon TA, He Q, et al. FOXO
+
+A genotype is strongly associated with human longevity. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Matheu A, Maraver A, Collado M, et al. Anti-aging activity of the Ink
+
+/Arf locus. Aging Cell
+
+;
+
+:
+
+–
+
+Di Giovanni S, Knights CD, Rao M, et al. The tumor sup- pressor protein p
+
+is required for neurite outgrowth and axon regeneration. EMBO J
+
+;
+
+:
+
+–
+
+Kuro-o M. Klotho as a regulator of fibroblast growth factor signaling and phosphate/calcium metabolism. Curr Opin Nephrol Hypertens
+
+;
+
+:
+
+–
+
+Imai M, Ishikawa K, Matsukawa N, et al. Klotho protein activates the PKC pathway in the kidney and testis and suppresses
+
+-hydroxyvitamin D-
+
+alpha-hydroxylase gene expression. Endocrine
+
+;
+
+:
+
+–
+
+Khabour OF, Barnawi JM. Association of longevity with IL-
+
+-
+
+G/A and TNF-alpha-
+
+G/A polymorphisms. Int J Immunogenet
+
+;
+
+:
+
+–
+
+Taioli E, Mari D, Franceschi C, et al. Polymorphisms of drug- metabolizing enzymes in healthy nonagenarians and cente- narians: Difference at GSTT
+
+locus. Biochem Biophys Res Commun
+
+;
+
+:
+
+–
+
+Onder G, Capoluongo E, Giovannini S, et al. Interaction be- tween GSTM
+
+genotype and IL-
+
+on mortality in older adults: Results from the i
+
+IRENTE study. Cytokine
+
+;
+
+:
+
+–
+
+like kinase, regulates axon regeneration in mature CNS PNS pathways. Nat Neurosci
+
+;
+
+:
+
+–
+
+Zach S, Felk S, Gillardon F. Signal transduction protein analysis links LRRK
+
+to Ste
+
+kinases and PKC zeta modulate neuronal plasticity. PL
+
+One
+
+;
+
+:e
+
+Thalappilly S, Suliman M, Gayet O, et al. Identification multi-SH
+
+domain-containing protein interactome in creatic cancer: A yeast two-hybrid approach.
+
+;
+
+:
+
+–
+
+Low S-K, Kiyotani K, Mushiroda T, et al. Association of genetic polymorphism in ABCC
+
+with induced adverse drug reactions in breast cancer J Hum Genet
+
+;
+
+:
+
+–‘
+
+Moyer AM, Sun Z, Batzler AJ, et al. Glutathione genetic polymorphisms and lung cancer survival after inum-based chemotherapy. Cancer Epidemiol Prev
+
+;
+
+:
+
+–
+
+Cui J, Zhu L, Xia X, et al. NLRC
+
+Negatively regulates NF-kappa B and type I interferon signaling pathways.
+
+;
+
+:
+
+–
+
+Benko S, Magalhaes JG, Philpott DJ, Girardin SE. Limits the activation of inflammatory pathways. J
+
+;
+
+:
+
+–
+
+Andrews GL, Mastick GS. R-cadherin is a growth-promoting cue for pioneer axons. J
+
+;
+
+:
+
+–
+
+Kulahin N, Walmod PS. The neural cell adhesion NCAM
+
+/OCAM/RNCAM, a close relative to NCAM. Berezin V (ed.). Structure and Function of the Neural Adhesion Molecul
+
+cam. Adv Ex
+
+ed Biol
+
+–
+
+Takahashi S, Kato K, Nakamura K, et al. Neural cell sion molecule
+
+as a target molecule for prostate and cancer gene therapy. Cancer Sci
+
+;
+
+:
+
+–
+
+Yoshimi R, Yamaji S, Suzuki A, et al. The integrin-linked kinase complex is critically involved leukocyte-substrate interaction. J Immunol
+
+Lopez-Serra L, Ballestar E, Ropero S, et al. Unmasking epigenetically silenced candidate tumor suppressor genes removal of methyl-C
+
+-binding domain proteins.
+
+;
+
+:
+
+–
+
+Tom Tang Y, Emtage P, Funk WD, et al. TAFA: A secreted family with conserved cysteine residues and stricted expression in the brain. Genomics
+
+;
+
+:
+
+–
+
+Guo F, Cancelas JA, Hildeman D, et al. Rac GTPase Rac
+
+and Rac
+
+play a redundant and crucial role in development. Blood
+
+;
+
+:
+
+–
+
+Arana E, Vehlow A, Harwood NE, et al. Activation of small GTPase Rac
+
+via the B cell receptor regulates B adhesion and immunological-synapse formation.
+
+;
+
+:
+
+–
+
+Dooley JL, Abdel-Latif D, St Laurent CD, et al. Regulation inflammation by Rac
+
+in immune complex-mediated lung injury. Am J Physiol–Lung Cell Mol
+
+;
+
+:L
+
+–L
+
+Received: August 30, 2011 Accepted: January 15, 2012

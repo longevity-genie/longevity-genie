@@ -1,0 +1,377 @@
+www.elsevier.com/locate/mechagedev
+
+HLA haplotypes and TNF polymorphism do not associate with longevity in the Irish
+
+Owen A. Ross *, Martin D. Curran , I. Maeve Rea , Paul Hyland , Orla Duggan , b b e b Christopher R. Barnett , Kathryn Annett , Chris Patterson , Yvonne A. Barnett , a,b,c
+
+b School of Biomedical Sciences, University of Ulster, Coleraine, Northern Ireland, UK c School of Biology and Biochemistry, Queens University of Belfast, Belfast, Northern Ireland, UK d Department of Geriatric Medicine, Queens University of Belfast, Belfast, Northern Ireland, UK e Department of Epidemiology and Public Health, Queens University of Belfast, Belfast, Northern Ireland,
+
+Received 26 June 2002; received in revised form 10 July 2002; accepted 20 December 2002
+
+Abstract
+
+Polymorphism of the human leukocyte antigen has been implicated in a number of autoimmune disorders including ageing. In the course of the present study, no association of the human leukocyte antigen (HLA)-A1, B8, DR3 haplotype with a male Irish aged population, as previously reported, was observed. Two polymorphic nucleotides in the TNF cluster (G(cid:1)308A TNF-a and G(cid:2)252A / / TNF-b), associated with increased TNF-a production, were shown to be in tight linkage disequilibrium with the class I and II HLA loci, generating HLA haplotypes with extended linkage disequilibrium. However, no age-related allele or genotype frequencies were observed for either polymorphic nucleotide. # 2003 Elsevier Science Ireland Ltd. All rights reserved.
+
+Keywords: HLA; TNF; Polymorphism; Immunosenescence
+
+1. Introduction
+
+Pawelec, 1998; Pawelec, 1999; Franceschi et al., 2000; Malaguarnera et al., 2001). The highly polymorphic human leukocyte antigen (HLA) complex is located on chromosome 6p21 and is divided into three regions containing class I, class III and class II genes, respec- tively. In spite of the pivotal role that the polymorphic HLA antigens play in immunosurveillance and the immune response, and the multitude of studies per- formed, conclusive evidence of association with success- ful longevity has remained elusive (Reviewed in Caruso
+
+Human longevity would appear to be inextricably linked with optimal functioning of the immune system, suggesting that specific genetic determinants may reside in polymorphic loci that regulate the immune response. Dysregulation of immune function accompanying age- ing (immunosenescence) is postulated to contribute to morbidity and mortality in the aged via an increased risk of disease, infection, tumours, and autoimmune disor- ders (Franceschi et al., 1995; Pawelec and Solana, 1997; Franceschi et al., 1998; Makinodan, 1998; Solana and
+
+The majority of studies so far have focused on the action of class I and II HLA loci, but there are many class III genes with the potential to modulate immune function, such as the TNF genes. The TNF locus is located within the central HLA class III region, and the multiple pro- and anti-inflammatory activities of TNF
+
+* Corresponding author. Tel.: (cid:
+
+)
+
+-
+
+-
+
+; fax: (cid:
+
+)
+
+-
+
+- / /
+
+0047-6374/03/$ - see front matter # 2003 Elsevier Science Ireland Ltd. All rights reserved. doi:10.1016/S0047-6374(03)00037-X
+
+and related cytokines in the TNF cluster, make them attractive targets along with other HLA genes for unravelling the molecular mechanisms underlying the development of many diseases and ageing. TNF genes display strong linkage disequilibrium with HLA class I and II genes and defects in TNF production may contribute to HLA-associated disorders. Polymorphism at two nucleotides (G(cid:1)308A TNF-a and G(cid:2)252A / / TNF-b) is associated with increased TNF-a production (Makhatadze, 1998; Hajeer and Hutchinson, 2001; Lio et al., 2001).
+
+PCR amplification was performed in 50 ml reaction volumes containing 67 mM Tris(cid:3)HCl pH 8.8; 16 mM / (NH ) SO ; 1.5 mM MgCl ; 0.01% (w/v) Tween; 100 4 2 4 2 mM of each dNTP; 0.1 mM of each primer; 1 unit Taq polymerase (Bioline UK Ltd, London, UK); 0.1(cid:3)0.5 mg / DNA. The following cycling conditions were employed; samples were held at 96 8C for 5 min, followed by 35 cycles of 96 8C for 1 min, 60 8C for 1 min, 72 8C for 1 min. After the final cycle, the samples were held at 72 8C for 5 min, and then at 15 8C until removed from the PCR machine (Perkin-Elmer 9600 Thermal Cycler). Successful amplification was confirmed using gel elec- trophoresis on a 1% agarose gel stained with ethidium bromide (0.5 mg/ml).
+
+An increase in the frequency of the HLA haplotype A1B8Cw7DR3 was previously reported by Rea and Middleton (1994) in elderly males in the northern Irish population and this haplotype has also been associated with an enhanced TNF-a production (Lio et al., 1997, 2001). The aim of the present study was to establish the presence of this longevity marker in males from the north of Ireland and to evaluate the contribution polymorphism within the TNF cluster has on longevity.
+
+2.4. TNF polymorphism genotyping by SSOP
+
+Amplified DNA (2 ml) was applied to a charged nylon membrane as reported (Middleton et al., 1995). Hybri- disations, stringent washes and chemiluminescence de- tection of the hybridised digoxigenin-labelled probes were carried out as recently reported (Williams et al., 1999). The DNA sequence of the probes with the polymorphic nucleotide underlined were:
+
+2.1. Subjects
+
+One hundred control samples (59% female, 41% male with an age-range of 19(cid:3)45 years old) were chosen at / random from the archival DNA bank of normal healthy Caucasian individuals from the Northern Ireland popu- lation stored at the Northern Ireland Histocompatibility and Immunogenetics Laboratory of Belfast City Hospi- tal. Ninety-three aged samples (70% female, 30% male with an age-range of 80(cid:3)97 years old) from the Belfast / Elderly Longitudinal Free-living Ageing Study were also included in the study (Rea et al., 2000). All DNA samples were from healthy aged Caucasian individuals from the Northern Ireland population displaying no signs of age-related disorders, still living independently and approximating SENIEUR status (Ligthart et al., 1984, 1990). There was no duplication with respect to the samples used for the previous study (Rea and Middleton, 1994).
+
+Stringent wash temperatures and concentrations for each of the probes were empirically determined and are given above.
+
+The aged and control subjects were HLA-A, -B and - DR typed by sequence specific oligonucleotide probes (SSOP) as previously reported (Middleton et al., 2000).
+
+Purified PCR products (Qiagen QIAquick PCR purification kit, Qiagen Ltd, Sussex, UK) of a number of samples displaying homozygote profiles for each of the TNF polymorphisms analysed were sequenced on a 373A automated DNA sequencer (Curran et al., 1996), using the amplification primers at a concentration of 3.2 picomoles, to confirm the specificity of the amplifica- tion, and the exact location and sequence of the polymorphic nucleotide encountered.
+
+The oligonucleotide primers employed for the ampli- fication of the 107 bp region of the TNF-a and the 772 bp region of the TNF-b genes were as reported (adapted from Barber et al., 1999):
+
+The results of this study did not reveal any statistically significant haplotype frequency differences between the aged cohort of individuals in comparison to the younger controls, or when analysed with respect to gender. When the haplotype analysis was performed the two poly- morphic markers in the TNF genes were observed to be in tight linkage disequilibrium with the HLA haplo- types. The extended HLA-A1, -B8, -DR3, TNF-aA, TNF-bG haplotype was not observed to increase within the aged group as a whole (11.3%) in comparison to the controls (12.8%). When the data was analysed with respect to gender, a slight increase was observed in the aged males (7.1%) compared to the younger control male (6.1%). In contrast, a decrease was observed when the aged females (13.1%) were compared to the control females (17.8%). It should be noted that the numbers recruited into this study are not sufficiently large enough to provide the statistical power needed to exclude a more subtle effect on ageing.
+
+Using the acquired allele data, HLA-A, -B, -DR, TNF-a and TNF-b, five loci haplotypes were estimated by the expectation-maximisation algorithm using the software package (Schneider et al., 2000). To ARLEQUIN test for departures from Hardy(cid:3)Weinberg a Markov- / chain random walk algorithm was used (Guo and Thompson, 1992) also implemented in . ARLEQUIN
+
+2.7. Statistical analysis
+
+Fisher’s exact probability tests were performed to assess whether the frequency differences observed be- tween the aged and control groups for haplotypes and the TNF polymorphisms were statistically significant using the computer package ‘ ’. The males as MICROSTAT a group and females as a group within each experi- mental age category were also assessed for statistically significant frequency differences using the same ap- proach. Multiple comparisons were taken into account by employing Bonferroni’s correction, a(cid:5)1(cid:1)0.951/n / / (where n is equal to the number of comparisons), and the level of statistical significance adjusted accordingly.
+
+One of the most characteristic features of the HLA- A1, -B8, -DR3 haplotype is the increased spontaneous release of TNF-a, and this haplotype is also associated with a high in vivo and in vitro production of TNF-a (Lio et al., 1997, 2001). On this basis it was decided to include two polymorphic nucleotide markers in the TNF cluster, also associated with increased TNF-a produc- tion, in the haplotype analysis (Hajeer and Hutchinson, 2001). The individual frequencies of the two genetic variants were also assessed for association with the Irish aged population in this study (Table 2). However, no significant frequency differences in the genotype or allele frequencies were observed for either the G(cid:1)308A TNF- / a or G(cid:2)252A TNF-b polymorphic markers for either / the two age groups as a whole or when the data was analysed with respect to gender.
+
+3. Results and discussion
+
+The dysregulation of the immune function that accompanies ageing may be directed by polymorphism in the genes of the immune system. The highly poly- morphic HLA is of crucial importance for immunosur- veillance within the body and is associated with a number of autoimmune disorders and ageing.
+
+The individual HLA-A, -B, -DR antigens and two single nucleotide polymorphisms of the TNF cluster were determined and the frequency of extended HLA haplotypes, incorporating the TNF polymorphisms, were analysed using the software package ARLEQUIN (Schneider et al., 2000). There was no evidence of significant departure from Hardy(cid:3)Weinberg equili- / brium for the samples when a Markov-chain random walk algorithm was used (Guo and Thompson, 1992). As expected, a high degree of polymorphism was observed between the individuals of this study, with the most common haplotypes presented in Table 1.
+
+The frequency of HLA antigens is largely dependent upon the geographic location of the study population (Caruso et al., 2000, 2001). In this study, the homo- geneous nature of the population from the north of Ireland, coupled with low levels of immigration due to the regions troubled past, has helped to alleviate some of the potential bias. The extremely polymorphic nature of the HLA complex creates a diverse range of haplotypes, thus lowering the power of the subsequent statistical analysis. Major limitations in the studies reported to date are the number of aged individuals available, and complete background histories of health or ethnicity for study participants. It is proposed that HLA haplotype frequencies are often affected by environmental deter- minants such as a famine or an epidemic (Izaks et al., 2000). The evidence accumulated to date would suggest that there are a number of gender-specific HLA haplotypes associated with successful ageing in different geographic regions. To fully elucidate the role of the HLA in longevity broad studies need to be performed integrating the many HLA typing laboratories through-
+
+In recent times, a plethora of studies have been performed in an attempt to fully resolve the role polymorphism of the HLA has in longevity. However, to date, a large body of conflicting data has been amassed (Caruso et al., 2000, 2001). The present study set out to specifically confirm the previously reported increase in the frequency of the HLA-A1, -B8, -DR3 haplotype (22.9 vs 8.7%) in aged males of the northern Irish population (Rea and Middleton, 1994).
+
+Table
+
+The observed frequencies of the most common HLA and TNF polymorphic haplotypes in the healthy aged individuals and the young controls
+
+Total HLA-A HLA-B HLA-DRB1 TNF-a TNF-b Controls n(cid:5)100 (%) Aged n(cid:5)93 (%) / / 1 8 3 A G 12.8 11.3 3 7 15 G A 7.3 5.4 2 44 4 G A 6 zero Males HLA-A HLA-B HLA-DRB1 TNF-a TNF-b Controls n(cid:5)41 (%) Aged n(cid:5)28 (%) / / 3 7 15 G A 8.5 8.9 1 8 3 A G 6.1 7.1 2 44 4 G A 3.7 1.8 2 44 7 G G 4.9 Females HLA-A HLA-B HLA-DRB1 TNF-a TNF-b Controls n(cid:5)59 (%) Aged n(cid:5)65 (%) / / 1 8 3 A G 17.8 13.1 3 7 15 G A 6.8 3.9 2 44 4 G A 5.8 zero 29 44 7 G A 5.1  /
+
+The observed allele and genotype frequencies for the two polymorphic markers of the TNF genes
+
+Controls n(cid:5)100 Aged n(cid:5)93 / / Male n(cid:5)41 (%) Female n(cid:5)59 (%) Total (%) Male n(cid:5)28 (%) Female n(cid:5)65 (%) Total (%) / / / / TNF-a AA 2 (5) 5 (8) 7 (7) 1 (4) 7 (11) 8 (9) AG 11 (27) 21 (36) 32 (32) 9 (32) 22 (34) 31 (33) GG 28 (68) 33 (56) 61 (61) 18 (64) 36 (55) 54 (58) A 15 (18) 31 (26) 46 (23) 11 (20) 36 (28) 47 (25) G 67 (82) 87 (74) 154 (77) 45 (80) 94 (72) 139 (75) TNF-b AA 18 (44) 18 (31) 11 (36) 11 (39) 25 (38) 36 (39) AG 18 (44) 33 (56) 51 (51) 12 (43) 28 (43) 40 (43) GG 5 (12) 8 (14) 13 (13) 5 (18) 12 (18) 17 (18) A 54 (66) 69 (58) 123 (61) 34 (61) 78 (60) 112 (60) G 28 (34) 49 (42) 77 (39) 22 (39) 52 (40) 74 (40)
+
+Acknowledgements
+
+out Europe to increase the number of aged samples and provide a strong foundation for meta-analysis.
+
+The high degree of polymorphism within the HLA region creates an opportunity where a unique immuno- logical profile can be generated for individuals. This study attempted to widen the scope of HLA association studies by including polymorphism located in the class III region. Many class III genes have the potential to modulate immune function such as, com- plement proteins and the heat shock proteins and it is important to consider the effects that polymorphism of these genes may have during immunosenescence. The formation of immunogenetic profiles for successfully aged individuals incorporating such parameters as HLA haplotypes and cytokine gene polymorphism profiles will contribute to a resolution of the underlying molecular mechanisms occurring during immunosenes- cence.
+
+The authors wish to acknowledge The European Union for support under the aegis of European Union Concerted Action on the Molecular Biology of Immu- nosenescence (EUCAMBIS; Biomed 1 contract CT94- 1209); and Immunology and Ageing in Europe (IMA- GINE; QLK6-CT-1999-O2031). OA Ross was a recipi- ent of a CAST Award jointly funded by the Department of Education and Learning (Northern Ireland) and the Histocompatibility and Immunogenetics Charitable Trust Fund.
+
+References
+
+Barber, M.D., Powell, J.J., Lynch, S.F., Gough, N.J., Fearon, K.C., Ross, J.A., 1999. Two polymorphisms of the tumour necrosis
+
+factor gene do not influence survival in pancreatic cancer. Exp. Immunol.
+
+,
+
+(cid:
+
+)
+
+/ Caruso, C., Candore, G., Colonna Romano, G., Lio, D., Bonafe, Valensin, S., Franceschi, C.,
+
+HLA, aging, and longevity: critical reappraisal. Hum. Immunol.
+
+,
+
+(cid:
+
+)
+
+/ Caruso, C., Candore, G., Colonna Romano, G., Lio, D., Bonafe, Valensin, S., Franceschi, C.,
+
+Immunogenetics of longevity. major histocompatibility complex polymorphism relevant to control of human longevity? A review of literature data. Mech. Dev.
+
+,
+
+(cid:
+
+)
+
+/ Curran, M.D., Williams, F., Earle, J.A.P., Rima, B.K., van M.G., Bunce, M., Middleton, D.,
+
+Long-range PCR fication as an alternative strategy for characterizing novel alleles. Eur. J. Immunogenet.
+
+,
+
+(cid:
+
+)
+
+/ Hajeer, A.H., Hutchinson, I.V.,
+
+Influence of TNF-a polymorphisms on TNF-a production and disease. Hum. nol.
+
+,
+
+(cid:
+
+)
+
+/ Franceschi, C., Monti, D., Barbieri, D., Grassilli, E., Troiano, Salvioli, S., Negro, P., Capri, M., Guido, M., Azzi, R., Sansoni, Paganelli, R., Fagiolo, U., Baggio, G., Donazzan, S., Mariotti, D’Addato, S., Gaddi, A., Ortolani, C., Cossarizza, A., Immunosenescence in humans: deterioration or remodelling? Rev. Immunol.
+
+,
+
+(cid:
+
+)
+
+/ Franceschi, C., Passeri, M., De Benedictis, G., Motta, L., Immunosenescence. Aging Clin. Exp. Res.
+
+(
+
+),
+
+(cid:
+
+)
+
+/ Franceschi, C., Bonafe, M., Valensin, S.,
+
+Human cence: the prevailing of innate immunity, the failing of immunity, and the filling of immunological space. Vaccine
+
+(cid:
+
+)
+
+/ Guo, S., Thompson, E.,
+
+Performing the exact test of Weinberg proportion for multiple alleles. Biometrics
+
+, / Izaks, G.J., Remarque, E.J., Schreuder, G.M., Westendorp, Ligthart, G.J.,
+
+The effect of geographic origin on frequency of HLA antigens and their association with Eur. J. Immunogenet.
+
+,
+
+(cid:
+
+)
+
+/ Ligthart, G.J., Corberand, J.X., Fournier, C., Galanaud, P., W., Kennes, B., Muller-Hermelink, H.K., Steinmann, G.G., Admission criteria for immunogerontological studies in man: SENIEUR protocol. Mech. Age Dev.
+
+,
+
+(cid:
+
+)
+
+/ Ligthart, G.J., Corberand, J.X., Goertzen, H.G.M., Minders, Knook, D.L., Hijmans, W.,
+
+Necessity of the assessment health status in human immunogerontological studies: of the SENIEUR protocol. Mech. Age Dev.
+
+,
+
+(cid:
+
+)
+
+/ Lio, D., Candore, G., Colonna Romano, G., D’Anna, C., Gervasi, Di Lorenzo, G., Modica, M.A., Potestio, M., Caruso, C.,
+
+Modification of cytokine patterns in subjects bearing the HLA- B
+
+,DR
+
+phenotype: implications for autoimmunity. Cytokines Cell Mol. Ther.
+
+,
+
+(cid:
+
+)
+
+/ Lio, D., Candore, G., Colombo, A., Colonna Romano, G., Gervasi, F., Marino, V., Scola, L., Caruso, C.,
+
+A genetically determined high setting of TNF-a influences immunologic para- meters of HLA-B
+
+,DR
+
+positive subjects: implications for auto- immunity. Hum. Immunol.
+
+,
+
+(cid:
+
+)
+
+/ Makhatadze, N.J.,
+
+Tumor necrosis factor locus: genetic organi- sation and biological implications. Hum. Immunol.
+
+,
+
+(cid:
+
+)
+
+/ Makinodan, T.,
+
+Studies on the influence of age on immune response to understand the biology of immunosenescence. Exp. Gerontol.
+
+(
+
+/
+
+),
+
+(cid:
+
+)
+
+/ Malaguarnera, L., Ferlito, L., Imbesi, R.M., Gulizia, G.S., Di Mauro, S., Maugeri, D., Malaguarnera, M., Messina, A.,
+
+Immuno- senescence: a review. Arch. Gerontol. Geriatr.
+
+,
+
+(cid:
+
+)
+
+/ Middleton, D., Williams, F., Cullen, C., Mallon, E.,
+
+Modifica- tion of an HLA-B PCR-SSOP typing system leading to improved allele determination. Tissue Antigens
+
+,
+
+(cid:
+
+)
+
+/ Middleton, D., Curran, M.D., Williams, F.,
+
+Immunogenetics and lifespan, HLA. In: Barnett, Y.A., Barnett, C.R. (Eds.), Methods in Molecular Medicine, Aging Methods and Protocols, vol.
+
+Humana Press Inc, Totowa, NJ, USA. Pawelec, G., Solana, R.,
+
+Immunosenescence. Immunol. Today
+
+(
+
+),
+
+(cid:
+
+)
+
+/ Pawelec, G.,
+
+Immunosenescence: impact in the young as well as the old? Mech. Age Dev.
+
+,
+
+(cid:
+
+)
+
+/ Rea, I.M., Middleton, D.,
+
+Is the phenotypic combination A
+
+B
+
+Cw
+
+DR
+
+a marker for male longevity? JAGS
+
+,
+
+(cid:
+
+)
+
+/ Rea, I.M., M
+
+aster, D., Woodside, J.V., Young, I.S., Archbold, G.P., Linton, T., Lennox, S., M
+
+ulty, H., Harmon, D.L., Whitehead, A.S.,
+
+Community-living nonagenarians in North- ern Ireland have lower plasma homocysteine but similar methyle- netetrahydrofolate reductase thermolabile genotype prevalence compared to
+
+(cid:
+
+)
+
+-year-old subjects. Atherosclerosis
+
+,
+
+(cid:
+
+) / /
+
+Schneider, S., Roessli, D., Excofier, L.
+
+ARLEQUIN: a software for population genetics data analysis. Version
+
+Genetics and Biometry Laboratory, Department of Anthropology, University of Geneva. Solana, R., Pawelec, G.,
+
+Molecular and cellular basis of immunosenescence. Mech. Age Dev.
+
+,
+
+(cid:
+
+)
+
+/ Williams, F., Meenagh, A., Maxwell, A.P., Middleton, D.,
+
+Allele resolution of HLA-A using oligonucleotide probes in a two stage typing strategy. Tissue Antigens
+
+,
+
+(cid:
+
+)
+
+/
+
+Modification of cytokine patterns in subjects bearing the HLA- B8,DR3 phenotype: implications for autoimmunity. Cytokines Cell
+
+D., Candore, G., Colonna Romano, G., D’Anna, C., Gervasi, F., Di Lorenzo, G., Modica, M.A., Potestio, M., Caruso, C., 1997.

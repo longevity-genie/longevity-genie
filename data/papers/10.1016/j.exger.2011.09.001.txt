@@ -1,0 +1,695 @@
+Contents lists available at SciVerse ScienceDirect Experimental Gerontology journal homepage: www.elsevier.com/locate/expgero  
+
+journal homepage: www.elsevier.com/locate/expgero
+
+of mtDNA haplogroup F with healthy longevity in the female Chuang
+
+Feng a,b, Jianyi Zhang a, Ming Liu a, Gang Wan a, Keyan Qi a, Chenguang Zheng c, Zeping Lv d, Caiyou Hu ⁎ Zeng e,f, Simon G. Gregory g, Ze Yang a,
+
+a Genetics Department, National Institutes of Geriatrics, Beijing Hospital, Ministry of Health P.R. China, Beijing 100730, b Beijing Neurosurgical Institute, Capital Medical University, Beijing 100050, China c Guangxi Chuang Autonomous Women and Children Health Hospital, Nanning 530003, China d Guangxi Chuang Autonomous Jiangbin Hospital, Nanning 530012, China e Duke Center for Study of Aging and Human Development, Medical School of Duke University, Durham, NC 27710, USA f China Center for Economic Research, National School of Development, Peking University, Beijing 100871, China g Duke Center for Human Genetics, Duke University Medical Center, Durham, NC 27710, USA
+
+Human longevity is a complex heritable genetic trait. Based on substantial evidence from model organisms, it is clear that mitochondria play a pivotal role in aging and lifespan. However, the effects that mitochondrial genome variations have upon longevity and longevity-related phenotypes in Chuang people in China have yet to be established. By genotyping 15 variants for 10 haplogroups in 738 Chuang subjects, including 367 long-lived individuals and 371 controls, we found that haplogroup F was significantly associated with longev- ity in females of Zhuang population of China (p=0.003, OR: 2.01, 95%CI: 1.263–3.197). Additionally, hap- logroup F was related to higher HDL levels (pb0.05) in long-lived individuals. Further analysis suggests that the non-synonymous variant m.13928GNC in haplogroup F was also associated with longevity in female Zhuang Chinese which might account for the beneficial effect of F.
+
+© 2011 Elsevier Inc. All rights reserved.
+
+1. Introduction
+
+inheritance (Abbott et al., 1978; Brand et al., 1992; Korpelainen, 1999; Sont and Vandenbroucke, 1993) and because mitochondria play pivotal roles in energy production and metabolism, genetic variants associated with mtDNA are likely to be key genetic components that contribute to longevity and successful aging.
+
+Longevity and successful aging is a complex trait that is by multiple genetic and environmental factors (Christensen et al., 2006; Glatt et al., 2007). A better understanding of mechanisms of successful aging and longevity has important implications for lowering the risk for age-related disease and disability. Studies in model organisms have found hundreds of genetic variants that lead to life extension. Population studies have suggested that the genetic contribution to variations in humanlifespanisapproximately25%(Christensenetal.,2006).However, the mechanisms by which genetics contribute to human longevity and successful aging are still not clear.
+
+A growing body of evidence indicates that mtDNA variants play a pivotal role in the aging process. For example, some mtDNA mutations or haplogroups (i.e., the combination of several common mtDNA vari- ants) are associated with age-related degenerative diseases (Chinnery et al., 2001; Feder et al., 2009; Fuku et al., 2007; Tanaka, 2002; van der Waltetal.,2003).However,othersareassociatedwithincreasedlongev- ity, such as 9055A in the French (Ivanova et al., 1998) and Irish, 5178A (Tanaka et al., 1998) in the Japanese and 150T in the Irish, Finnish and Japanese (Niemi et al., 2003, 2005; Zhanget al., 2003). MtDNA canbe di- vided into haplogroups according to the ancient polymorphims present in its coding region and D-loop. The European population is almost dis- tributed among the nine haplogroups designated as H, I, J, K, T, U, V, W and X, whereas haplogroups A, B, C, D, F and G and certain subclusters of macrohaplogroups M and N are characteristic of Asian populations. Haplogroups A, B, C and D are specific to Amerindian and haplogroups L1, L2 and L3 to African populations. mtDNA haplogroup J confers a higher chance to attain longevity than other mtDNA haplogroups in
+
+Human mitochondrial DNA (mtDNA) is a 16,569 bp double-stranded circular genome which is the only repository of genetic information out- side the nucleus. The mtDNA encodes for 22 tRNAs, 2 rRNAs and 13 pro- teins that are essential components for the assembly and function of the respiratory chain. Because longevity is characteristic of maternal
+
+⁎ Corresponding author at: Genetics Department, National Institutes of Geriatrics, Beijing Hospital, Ministry of Health P.R. China, #1 Dahua Rd, Dongdan, Beijing 100730, China. Tel.: +86 10 5811 5043; fax: +86 10 6523 7929. E-mail address: fj79330@163.com (Z. Yang).
+
+0531-5565/$ – see front matter © 2011 Elsevier Inc. All rights reserved. doi:10.1016/j.exger.2011.09.001
+
+three independent populations in northern Italy, northern Ireland and Finland (De Benedictis et al., 1999; Niemi et al., 2003; Ross et al., 2001). A significant enrichment of subhaplogroups D4a, D5 and D4b2b was shown in long-living Japanese individuals (Alexe et al., 2007; Bilal et al., 2008).
+
+old for women and men, respectively; range: 90–111 years old). The control group comprised 264 women and 107 men (mean [SD] age: 46.6 [4.65] and 47.0 [5.11] years old for women and men, respectively; range: 35–65 years old). All subjects from Bama were unrelated and belonged to the Chuang population, which is one of the largest ethnic groups in mainland China with approximately 15,000,000 persons; it is second only to the Han population.
+
+Additionally, circumstantial evidence suggests that mtDNA varia- tions could influence aging and longevity either by bearing mutations that can modulate the mitochondrial function or by relying upon more complex relationships between mitochondrial and nuclear ge- nomes (Santoro et al., 2006). It has been observed in cybrid cell models that mtDNA haplogroup H or J differently modulates the ex- pression of some nuclear genes related to the stress response, such as interleukin-1β, tumor necrosis factor receptor 2 and interleukin- 6, not only under basal conditions but also under oxidative stress con- ditions (Bellizzi et al., 2006; Santoro et al., 2006).
+
+dard demographic indicators of quality of age reporting, in the Chuang population in China were 100.1–104.3 and 2.3–2.9 respec- tively, based on the 1982, 1990 and 2000 census data (Zeng, 2009). According to the United Nations' criteria, a Whipple's Index b105 and a Myer's Index b10 indicate good quality of age reporting. Thus, we are confident that the age information of the subjects who belong to Chuang ethnic group recruited in this study is reliable. In the con- trol group of this study, we excluded individuals with one or two par- ents who survived to 90 years old or above, and in fact, they were not able to be randomly chosen. Twelve baseline and metabolic indexes, such as, age, gender, weight, height, body mass index (BMI), systolic blood pressure (SBP), diastolic blood pressure (DBP), fasting blood glucose (FBG), serum total triglyceride (TG), serum total cholesterol (TC), HDL-cholesterol (HDL-c) and LDL-cholesterol (LDL-c) are mea- sured in all selected ‘longevity’ and control subjects.
+
+However, the effect of mtDNA haplogroups on longevity is popula- tion specific because haplogroups are defined by common mtDNA single nucleotide polymorphisms (mtSNP) in each ethnic group and the distribution of mtSNP allele frequency varies considerably depending on the population studied. For example, the mtDNA hap- logroup D (characteristic of m.5178CNA) in the Japanese population was associated with longevity. However the association between haplogroup D and longevity has not been found in southern Chinese populations (Yao et al., 2002b). Similarly, the association between haplogroup J and longevity was found in the population of northern Italy but not of southern Italy (Dato et al., 2004).
+
+The research ethics committee of Beijing Hospital approved this study. Informed consent was obtained from all enrolled subjects, and the study was carried out in full compliance with all principles of the Helsinki Accord.
+
+The contribution of mtDNA variations to longevity and longevity- related phenotypes in the Chuang people in China has not been established. Based on previous studies, we hypothesized that mtDNA variations could be associated with exceptional longevity in the Chuang Chinese population, and we speculated that the support- ing evidence for this association might be gained by further studying the effect of mtDNA variations on longevity-related phenotypes such as serum lipid or blood glucose levels. Previous studies have shown that subjects with exceptional longevity have favorable lipid profiles (Arai et al., 2001; Atzmon et al., 2005; Barzilai et al., 2003; Paolisso et al., 1997) and that these phenotypes are associated with several ge- netic variants located in the nuclear genome (Barzilai et al., 2003; Koropatnick et al., 2008; Pablos-Mendez et al., 1997; Rontu et al., 2006). However, conclusive evidence linking mtDNA variations to metabolic phenotypes such as serum lipid levels or blood glucose levels is still not clear among individuals with successful aging.
+
+2.2. Study strategy
+
+To control for population stratification, we restricted our analysis to a singleethnicgroup(Chuang)inageneticallyisolated,homogeneouslocal population from a rural county (Bama) in the southern China. We chose two samples of ‘longevity’ and younger control subjects which have not been matched by age to identify the association between mtDNA varia- tions and longevity. The strategy was as follows: 1) we identified 25 hap- logroups/subhaplogroups that include 225 mtDNA variants in long-lived individuals by sequencing twenty complete mitochondrial genomes and constructing a phylogenetic tree in preliminary study; 2) we determined which mtDNA haplogroups were associated with longevity in the Bama Chuangpopulationbythecase–controlassociationanalysiswithinadata- set of 738 subjects consisting of 367 centenarians and 371 controls; 3) we examined the effect of gender on longevity-associated mtDNA variations by stratification analysis for women and men separately; and 4) we gath- ered further supporting evidence of the association of mtDNA variations with longevity by analyzing the relationship of mtDNA variations with longevity-related phenotypes.
+
+To pursue this hypothesis, we selected genetically isolated, homo- geneous, long-lived Chuang individuals from Bama as our study pop- ulation. Bama is a rural county in southern China with a population of 250,000 residents and an area of 1971 km2. The population lives in a valley surrounded by many steep mountains, serving as a closed geo- graphical environment in which the population has historically had little communication with outside populations. Therefore, the elders, with exceptional longevity selectively, maintained genetic homoge- neity because there was very little migration. Based on our prelimi- nary study, mtDNA haplogroups/subhaplogroups (M7/M7b′c/M7b1′ 2, F/F3, M8/C and D/D4/D4a) were selected from 25 haplogroups/sub- haplogroups in the population as our work loci used to examine the association with longevity.
+
+2.3. Sequencing complete mitochondrial genome and phylogeny construction
+
+GenomicDNA wasextractedfromperipheralblood leukocytesusing a Wizard® Genomic DNA Purification Kit (Cat.No.A1120, Promega, U.S.A.). The complete mtDNA of 20 individuals (selected from 367 ‘lon- gevity subjects’) (age range 90–107 years, mean [SD] age, 96.4[5.31] years) who were of normal physical, psychological and cognitive func- tioning was amplified by polymerase chain reaction in a total of 34 overlapping fragments of approximately 700 bp and sequenced by Invitrogen Corporation (No.7 Rong Chang East Street, Long Sheng In- dustry Park, Building 204 BDA, Beijing 100176, P.R. China). The detailed condition is listed in Supplementary Table 1. For the complete mito- chondrial genome sequencing, altogether 225 mtDNA variants were found in long-lived individuals using the revised Cambridge Reference Sequence (rCRS) (Andrews et al., 1999) as the reference.
+
+2. Subjects and methods
+
+2.1. Subjects
+
+In this study, ‘longevity’ subjects were classified as participants who had survived to age 90 years or more, with “younger controls” being less than 65 years of age. 738 individuals from Bama were recruited, in- cluding 367 long-lived individuals and 371 local and unrelated younger controls. The individuals with exceptional longevity included 269 women and 98 men (mean [SD] age: 95.4 [4.84] and 95.1 [4.51] years
+
+The phylogenetic tree of 20 complete mtDNA sequences was ated by the neighbor-joining program (1000× bootstrapped)
+
+2.5. Statistical methods
+
+MEGA version 3.1 (Kumar et al., 2004).Then, using sequence alignment and sequence comparisons, the positions of the individual nucleotide changes were incorporated into nodes of the tree. Each mtDNA was assigned to its respective haplogroup as described in the literature (Kivisild et al., 2002; Kong et al., 2006; Kong et al., 2003; Tanaka et al., 2004; Yao et al., 2002a). Coding-region mutation motifs were mainly employed for the definition of the haplogroup (Bandelt et al., 2000). Each mtDNA sequence was analyzed for possible sequencing errors, identified by base changes inconsistent with the most likely hap- logroup. Sequences with multiple potential errors were excluded from the dataset and subsequently re-sequenced. On the basis of our phy- logeny (Fig. 1) and East Asian haplogroups as previously described (Kivisild et al., 2002; Kong et al., 2003, 2006; Tanaka et al., 2004; Yao et al., 2002a), 25 haplogroups/subhaplogroups in long-lived Bama individuals were identified, as shown in Fig. 1. And the frequen- cies of all observed haplogroups/subhaplogroups are presented in Sup- plementary Table 2.
+
+All statistical analyses were conducted using the SPSS 11.5 soft- ware package. An unpaired Student's t-test and a chi-squared test were used to compare quantitative and qualitative phenotypes and demographic data between long-lived subjects and controls. The chi-squared and Fisher's exact tests were carried out to explore the association of each mtDNA variant or haplogroup with longevity. We performed gender stratification analysis by Mantel–Haenszel chi-squared test. The p-value, odds ratios (ORs) and their 95% confi- dence intervals (CIs) were calculated. For haplogroup analyses, we compared each haplogroup with all other haplogroups pooled into one group. Because there are no recombination mechanisms in mito- chondria, some of the mtSNPs in the present study are tightly linked to each other. Since some of the markers are in linkage disequilibrium and the haplogroup comparisons are not independent, p values reported for mtSNPs and haplogroups are not adjusted for multiple testing (Rosa et al., 2008). A significant threshold was set at pb0.05.
+
+2.4. Selection of mtSNPs for haplogroups classification and genotyping of mtSNPs
+
+3. Results
+
+3.1. The characteristics of the study subjects
+
+10 candidate haplogroups/subhaplogroups that included 15 com- mon mtDNA variants were selected as our working loci for the asso- ciation study and further genotyping (details in Supplementary Table 3). Genotypes of 15 mtDNA variants were analyzed by PCR or restriction site-generating PCR (RG-PCR) followed by restriction di- gestion analysis. The mtDNA variants 10,400, 15,487, 6455, 4071, 12,811, 3010, 3970 and 10,310 were genotyped by RG-PCR-RFLP using a base change on the 3′ terminal of the forward or reverse prim- er to form a restriction site. The mitochondrial DNA variants 13,263, 4048, 5178 (Castri et al., 2009), 14,979, 13,928, 10,320 and 5585 were typed by PCR-RFLP. The detailed condition and restriction en- zyme are listed in Supplementary Table 4. We subjected DNA samples to direct sequencing to confirm the accuracy of genotyping by the two methods.
+
+The baseline characteristics of the 738 Chuang individuals are pre- sented in Table 1. In terms of biological characteristics, BMI and serum concentration of TG were lower in long-lived individuals than in the controls (pb0.001). The SBP, DBP and FBG levels, serum concentration of TC and LDL-c were higher in long-lived individuals than in the controls (pb0.001).
+
+3.2. mtDNA variation associated with longevity
+
+Ten mtDNA haplogroups/subhaplogroups were investigated by the association analysis. Haplogroup F was found to be significantly more frequent in longevity subjects (21.0%) than in local controls
+
+dOLaas£dOasTyOas Ta0as41701472715010M126acas —BS5alZz$eC pvdas9a0usyaousBie|a5gszvoas ¢¥Oas1393816304Rr639210310,1824 3BY 0,10535 5585 po10586 Sor813338 10320 |11065F2 | FsFB |ok 66538575$6038=3B 8ag ha6 &7aoas
+
+Fig. 1. The phylogenetic tree of complete mtDNA sequence MtDNA phylogenetic tree includes 20 complete mtDNA sequences (SEQA1-10 and SEQB1-10). The tree is rooted in macrohaplogroup M and N. Suffixes A and T refer to transversions, ‘d’ means deletion. B5* represents an undefined subhaplogroup of B5.
+
+3.3. The effect of gender on the association of mtDNA variation with longevity
+
+Table 1
+
+The characteristics in 738 Chuang subjects in China.
+
+Longevity Control p value (n=367) (n=371) Age (yr) 95.34±4.75 46.75±4.79 b0.001 Gender (M/F) 98/269 107/264 – BMI (kg/m2) 18.69±3.21 24.03±2.69 b0.001 SBP (mm Hg) 146.31±21.94 117.21±13.71 b0.001 DBP (mm Hg) 80.13±11.38 75.27±9.38 b0.001 FBG (mmol/l) 5.34±1.54 4.83±0.59 b0.001 TC (mmol/l) 4.91±1.24 4.62±0.72 0.001 HDL-c (mmol/l) 1.51±0.61 1.52±0.33 0.970 LDL-c (mmol/l) 2.85±0.92 2.27±0.64 b0.001 TG (mmol/l) 1.37±0.93 1.51±0.44 0.022
+
+Sex differences exist in longevity, with women living longer than men. When we stratified the Bama cohort by gender we found signif- icant association of longevity in females for haplogroup F (p=0.003, OR: 2.01, 95%CI: 1.263–3.197) and the three mtSNPs (m.3970CNT, m.13928GNC and m.10310GNA) that defined haplogroup F (p=0.001, OR: 1.970, 95%CI: 1.305–2.976; p=0.004, OR: 1.799, 95%CI: 1.204–2.689 and p=0.003, OR: 2.010, 95%CI: 1.263–3.197). However, there was no such significant association found in males (Table 3). Additionally, subhaplogroup F3 and one mtDNA variant (m.10320GNA) in subhaplogroup F3 were slightly associated with
+
+Note: Values are given as means±SDs. BMI = body mass index, SBP = systolic blood pressure, DBP = diastolic blood pressure, FBG = fasting blood glucose, TG = serum total triglyceride, TC = serum total cholesterol, HDL-c = high density lipoprotein- cholesterol, LDL-c = low density lipoprotein- cholesterol.
+
+3.4. mtDNA variation associated with longevity-related phenotype
+
+To attain supporting evidence for the association of mtDNA variations withlongevity,wetestedtherelationshipof FBG,TG, TC,HDL-candLDL-c levelswithmtDNAhaplogroupFamongtheBamapopulation.Theresults showed that mtDNA haplogroup F was associated with markedly higher HDL-c levels (pb0.05), but only in long-lived subjects, as shown in
+
+(13.5%). There was significantly statistical difference for haplogroup F between the long-lived and control groups for the two genders com- bined (p=0.010, OR: 1.703, 95%CI: 1.153–2.514, see Table 2), and the power was 85.5% by the statistical power calculator (http://www. dssresearch.com/toolkit/sscalc/size_p2.asp). To further determine the influence of haplogroup F on longevity, every mtDNA variant (m.3970CNT, m.13928GNC or m.10310GNA) in haplogroup F was ana- lyzed by the association study. The three mtDNA variants were found to be consistently associated with longevity for the two genders com- bined (p=0.009, OR: 1.602, 95%CI: 1.134–2.262; p=0.021, OR: 1.507, 95%CI: 1.075–2.114 and p=0.010, OR: 1.703, 95%CI: 1.153– 2.514, respectively, see Table 2).
+
+4. Discussion
+
+Although the mechanism by which mtDNA variation influences mitochondrial function, longevity and successful aging are unknown, the present study provides evidence of association between mtDNA haplogroups and longevity. At present, there are three methods in longevity studies (Christensen et al., 2006), i.e. case–control studies (Kleindorp et al., 2003; Li et al., 2009; Pan et al., 2011), linkage anal- ysis and longitudinal studies. The linkage studies require very large sample size while longitudinal studies are difficult to be carried out based on practical issues. Although case–control studies have the pri- marily methodological shortcoming of appropriate control groups, the advantage of this method is that variants with small effects can be detected (Christensen et al., 2006).
+
+Table 2
+
+Distribution of mtDNA haplogroups and variants between long-lived subjects and con- trols in Chuang population, Bama.
+
+Haplogroups Longevity % Controls % p value OR 95%CI (n=367) (n=371) M8 6.3 9.7 0.116 0.624 0.362–1.075 ⁎ C 5.2 4.6 0.845 1.133 0.580–2.216 M7 17.2 15.4 0.575 1.141 0.771–1.689 ⁎ M7b′c 17.2 14.6 0.383 1.217 0.819–1.810 ⁎ M7b1′2 16.1 13.2 0.316 1.261 0.837–1.900 D 8.7 9.7 0.733 0.888 0.539–1.462 ⁎ D4 8.2 7.3 0.744 1.137 0.662–1.951 ⁎ D4a 1.6 1.9 0.980 0.867 0.289–2.604 F 21.0 13.5 0.010 1.703 1.153–2.514 ⁎ F3 4.9 2.8 0.109 2.085 0.922–4.714 #Others 46.8 51.7 0.212 0.823 0.616–1.098 Variants 10400CNT 43.1 47.7 0.238 0.830 0.621–1.110 15487ANT 6.3 9.7 0.116 0.624 0.362–1.075 13263ANG 5.2 4.6 0.845 1.133 0.580–2.216 6455CNT 17.2 15.4 0.575 1.141 0.771–1.689 4071CNT 17.2 15.4 0.575 1.141 0.771–1.689 4048GNA 17.2 15.1 0.503 1.167 0.788–1.729 12811TNC 16.1 12.9 0.266 1.291 0.855–1.950 5178CNA 8.7 10.0 0.641 0.861 0.524–1.414 3010GNA 8.2 7.3 0.744 1.137 0.662–1.951 14979TNC 1.6 1.9 0.980 0.867 0.289–2.604 3970CNT 27.5 19.1 0.009 1.602 1.134–2.262 13928GNC 28.3 20.8 0.021 1.507 1.075–2.114 10310GNA 21.0 13.5 0.010 1.703 1.153–2.514 10320GNA 4.9 2.4 0.109 2.085 0.922–4.714 5585GNA 5.2 3.2 0.261 1.632 0.780–3.415
+
+In the present study, haplogroup F is significantly associated with exceptional longevity in women of an isolated Bama Chuang popula- tion in southern China, conferring approximately 2.0 times of the pro- tective effect (OR: 2.010, 95%:1.263–3.197, in Table 3). There are three potential explanations for this observation. First, previous stud- ies have suggested that haplogroup F may have a protective effect on several deleterious traits. For example, there were trends towards a lower prevalence of Leber's hereditary optic neuropathy (LHON) in patients with haplogroup F in southern Chinese and Thai populations (Ji et al., 2008; Tharaphan et al., 2006), and the association of hap- logroup F with low penetrance of idiopathic sensorineural hearing loss was shown in a Taiwanese population (Wu et al., 2007). There- fore, haplogroup F would be associated negatively with disorders and positively with longevity. Paradoxically, haplogroup F in a Japa- nese population was reported to be associated with the risk of type 2 diabetes mellitus which could increase mortality and is associated with decreased longevity. The discrepancy could be ascribable to the difference in the haplogroup frequencies between populations. Haplogroup F was widespread in Southeast Asian and at moderate frequencies in Northeast Asian (Li et al., 2007). Alternatively, to ex- plain the difference, we hypothesize certain interactions between mi- tochondrial haplogroups and nuclear polymorphisms and/or environmental factors.
+
+Second, the association of the haplogroup F with longevity might be specific in the isolated Bama population. Bama is surrounded by steep mountains, resulting in poor transportation and communica- tion with outside territories throughout history. These external fac- tors resulted in social isolation. And it is quite likely that this
+
+Note: Data in italics indicates pb0.05, OR=odds ratio, 95%CI=confidence interval. ⁎ C issubhaplogroup ofM8, ⁎ M7b′cand⁎ M7b1′2are subhaplogroups ofM7,⁎ D4and⁎ D4a are subhaplogroups of D, ⁎ F3 is subhaplogroup of F. “#Others” haplogroup categories include all other haplotypes except four haplogroups (M8, M7, D and F).
+
+Table 3
+
+Distribution of mtDNA haplogroups and variants between long-lived subjects and controls in female and male Chuang population.
+
+Haplogroups Women p value OR 95%CI Men p value OR 95%CI Longevity Controls Longevity Controls % (n=269) % (n=264) % (n=98) % (n=107) M8 6.3 9.1 0.230 0.675 0.354–1.287 6.1 11.2 0.198 0.516 0.186–1.433 ⁎ C 5.2 4.9 0.883 1.060 0.488–2.300 5.1 3.7 0.634 1.384 0.361–5.310 M7 17.5 15.2 0.469 1.186 0.748–1.879 16.3 15.9 0.932 1.033 0.490–2.177 ⁎ M7b′c 17.5 14.0 0.273 1.299 0.813–2.076 16.3 15.9 0.932 1.033 0.490–2.177 ⁎ M7b1′2 16.4 12.5 0.205 1.369 0.841–2.228 15.3 15.0 0.944 1.028 0.478–2.208 D 8.2 10.6 0.337 0.751 0.418–1.349 10.2 7.5 0.491 1.406 0.531–3.721 ⁎ D4 7.4 7.6 0.951 0.980 0.514–1.867 10.2 6.5 0.342 1.623 0.593–4.446 ⁎ D4a 1.5 1.9 0.715 0.782 0.208–2.944 2.0 1.9 0.929 1.904 0.151–7.917 F 22.3 12.5 0.003 2.010 1.263–3.197 17.3 15.9 0.779 1.111 0.532–2.320 ⁎ F3 5.2 1.9 0.039 2.844 1.010–8.011 4.1 3.7 0.899 1.096 0.266–4.505 #Others 45.7 52.7 0.110 0.758 0.539–1.065 50.0 49.5 0.947 1.019 0.589–1.763 Variants 10400CNT 41.6 47.7 0.157 0.781 0.555–1.100 46.9 47.7 0.917 0.971 0.561–1.682 15487ANT 6.3 9.1 0.230 0.675 0.354–1.287 6.1 11.2 0.198 0.516 0.186–1.433 13263ANG 5.2 4.9 0.883 1.060 0.488–2.300 5.1 3.7 0.634 1.384 0.361–5.310 6455CNT 17.5 15.2 0.469 1.186 0.748–1.879 16.3 15.9 0.932 1.033 0.490–2.177 4071CNT 17.5 15.2 0.469 1.186 0.748–1.880 16.3 15.9 0.932 1.033 0.490–2.177 4048GNA 17.5 14.4 0.332 1.259 0.790–2.006 16.3 16.8 0.924 0.965 0.462–2.017 12811TNC 16.4 12.1 0.162 1.418 0.868–2.316 15.3 15.0 0.944 1.028 0.478–2.208 5178CNA 8.2 11.0 0.271 0.722 0.403–1.292 10.2 7.5 0.491 1.406 0.531–3.721 3010GNA 7.4 7.6 0.951 0.98 0.514–1.867 10.2 6.5 0.342 1.623 0.593–4.446 14979TNC 1.5 1.9 0.715 0.782 0.208–2.944 2.0 1.9 0.929 1.094 0.151–7.917 3970CNT 29.4 17.4 0.001 1.970 1.305–2.976 22.4 23.4 0.876 0.949 0.494–1.823 13928GNC 30.1 19.3 0.004 1.799 1.204–2.689 23.5 24.3 0.889 0.955 0.502–1.817 10310GNA 22.3 12.5 0.003 2.010 1.263–3.197 17.3 15.9 0.779 1.111 0.532–2.320 10320GNA 5.2 1.9 0.039 2.844 1.010–8.011 4.1 3.7 0.899 1.096 0.266–4.505 5585GNA 5.6 3.0 0.148 1.890 0.787–4.535 4.1 3.7 0.899 1.096 0.266–4.505
+
+Note: Data in italics indicates pb0.05, OR=odds ratio, 95%CI=confidence interval. ⁎ C is subhaplogroup of M8, ⁎ M7b′c and ⁎ M7b1′2 are subhaplogroups of M7, ⁎ D4 and ⁎ D4a are subhaplogroups of D, ⁎ F3 is subhaplogroup of F. “#Others” haplogroup categories include all other haplotypes except four haplogroups (M8, M7, D and F).
+
+Table 5). In a previous study, pathogenic mutations in ND5 gene that cause LHON are speculated to increase reactive oxygen species (ROS) production from complex I (Lenaz et al., 2006). With respect to successful aging, the amino acid Ser531Thr replacement in ND5 subunits could account for specific phenotypes related to less coupled reactions, leading to lower levels of oxidative damage. If this is the case, we speculate that the accumulation of mtDNA deletions and point mutations would be slower in subjects with haplogroup F than in subjects with other haplogroups, resulting in less oxidative damage to the mtDNA. Thus, the protective effect of haplogroup F
+
+has had few opportunities for gene flow. In the isolated population, haplogroup F might be a protective factor for per- with successful aging. The present results need to be replicated additional populations.
+
+Third, there were three mtSNPs (3970CNT, 13928GNC, and 10310GNA) in haplogroup F that were consistently associated with longevity in the women of the Bama Zhuang population. Among hap- logroup F-specific mtSNPs m.13928GNC, which causes an amino acid change Ser531Thr in the MT-ND5 protein, would potentially seem to be a functionally relevant polymorphism (see Supplementary
+
+Table 4
+
+Metabolism phenotype based on mtDNA haplogroups F in Chuang population.
+
+All Women Men F+ F− p value F+ F− p value F+ F− p value FBG (mmol/l) Long-lived 5.30±1.65 5.35±1.52 0.82 5.40±1.71 5.27±1.48 0.63 4.97±1.39 5.56±1.63 0.22 Younger 4.77±0.55 4.86±0.57 0.20 4.78±0.63 4.81±0.54 0.75 4.77±0.52 4.90±0.60 0.16 TG (mmol/l) Long-lived 1.37±1.03 1.37±0.91 0.99 1.29±0.93 1.45±0.95 0.27 1.67±1.35 1.14±0.75 0.19 Younger 1.53±0.43 1.51±0.45 0.70 1.53±0.43 1.49±0.46 0.70 1.54±0.45 1.53±0.45 0.88 TC (mmol/l) Long-lived 4.88±1.27 5.03±1.14 0.41 4.98±1.25 5.16±1.05 0.38 4.55±1.35 4.61±1.27 0.88 Younger 4.54±0.76 4.62±0.73 0.41 4.39±0.81 4.59±0.70 0.20 4.62±0.74 4.64±0.74 0.86 HDL-c (mmol/l) Long-lived 1.68±0.72 1.48±0.57 0.02 1.74±0.69 1.52±0.59 0.03 1.44±0.81 1.35±0.50 0.62 Younger 1.47±0.25 1.51±0.35 0.44 1.42±0.29 1.50±0.27 0.23 1.50±0.23 1.51±0.40 0.77 LDL-c (mmol/l) Long-lived 2.84±0.76 2.86±0.95 0.86 2.90±0.76 2.90±0.93 0.97 2.60±0.75 2.76±1.00 0.60 Younger 2.22±0.57 2.26±0.61 0.63 2.29±0.67 2.23±0.58 0.93 2.21±0.52 2.28±0.63 0.49
+
+Note: Data in italics indicates pb0.05; F+ indicated subjects with haplogroup F, and F− suggested subjects without haplogroup F. FBG = fasting blood glucose, TG = serum total triglyceride, TC = serum total cholesterol, HDL-c = High density lipoprotein-cholesterol, LDL-c = Low density lipoprotein-cholesterol.
+
+trait expression. Further study of these factors could be important to obtain a clearer relationship of mtDNA variations with longevity. Supplementary materials related to this article can be found online
+
+on successful aging may be explained by decreased production of ROS from mitochondria. Further studies are needed to examine whether the production of superoxides or ROS from cybrids carrying mtDNA of haplogroup F is actually lower than that in cybrid carrying mtDNA of other haplogroups. However, the actual effect of the mtSNP m.13928GNC on mitochondrial function remains to be examined.
+
+doi:10.1016/j.exger.2011.09.001.
+
+Conflict of interest
+
+In the present study, haplogroup F was shown to be with longevity in females, whereas no such significant was found in males. Although the male group is small in size in the gender-stratified analyses, previous studies have that women live longer than men and the effect of genetic on successful aging is different between females and males et al., 2010). The gender difference in the association of the logroup with longevity may be attributable to the difference of iological background such as sex hormones and extrinsic factors as smoking, etc. (Candore et al., 2006; Ordovas, 2007). These ences might explain the present observation that women but men were distinctly influenced by the differences among drial haplogroup. Therefore, our results suggest a possible that the haplogroup F has the protective effect only on women, men. In addition, our analysis indicated subhaplogroup F3 in branch level of haplogroup F was associated with longevity and cessful aging in female subjects. However, in the present study, frequency of subhaplogroup F3 is very low (4.9% in long-lived lations and 3.0% in controls), the power in genetic association would thus fall off for this low frequency. Therefore, the association subhaplogroup F3 with longevity needs to be ascertained by tion in larger sample sizes.
+
+None of the authors has conflict of interest.
+
+Acknowledgments
+
+The authors thank the subjects for donating DNA samples. The study is supported partly by National Scientific Foundation of China (30972709, 30671110) and National Basic Research Program of China (973 Program) (2006CB503901) grants to Z.Y.
+
+References Abbott, M.H., Abbey, H., Bolling, D.R., Murphy, E.A.,
+
+The familial component in longevity—a study of offspring of nonagenarians: III. intrafamilial studies. Am. J. Med. Genet.
+
+,
+
+–
+
+Agoston-Coldea,L.,Zdrenghea, D.,Pop,D.,Craciun,A.,Rusu,M.L., Mocan,T.,
+
+Prev- alence and particularities of dyslipidaemia in subjects with coronary heart disease. Rom. J. Intern. Med.
+
+,
+
+–
+
+Alexe, G., Fuku, N., Bilal, E., Ueno, H., Nishigaki, Y., Fujita, Y., Ito, M., Arai, Y., Hirose, N., Bhanot, G., Tanaka, M.,
+
+Enrichment of longevity phenotype in m
+
+NA hap- logroups D
+
+b
+
+b, D
+
+a, and D
+
+in the Japanese population. Hum. Genet.
+
+,
+
+–
+
+Andrews, R.M., Kubacka, I., Chinnery, P.F., Lightowlers, R.N., Turnbull, D.M., Howell, N.,
+
+Reanalysis and revision of the Cambridge reference sequence for human mi- tochondrial DNA. Nat. Genet.
+
+,
+
+Arai, Y., Hirose, N., Nakazawa, S., Yamamura, K., Shimizu, K., Takayama, M., Ebihara, Y., Osono, Y., Homma, S.,
+
+Lipoprotein metabolism in Japanese centenarians: ef- fects of apolipoprotein E polymorphism and nutritional status. J. Am. Geriatr. Soc.
+
+,
+
+–
+
+Atzmon, G., Rincon, M., Rabizadeh, P., Barzilai, N.,
+
+Biological evidence for inheri- tance of exceptional longevity. Mech. Ageing Dev.
+
+,
+
+–
+
+Bandelt, H.J., Macaulay, V., Richards, M.,
+
+Median networks: speedy construction and greedy reduction, one simulation, and two case studies from human m
+
+NA. Mol. Phylogenet. Evol.
+
+,
+
+–
+
+Barzilai, N., Atzmon, G., Schechter, C., Schaefer, E.J., Cupples, A.L., Lipton, R., Cheng, S., Shuldiner, A.R.,
+
+Unique lipoprotein phenotype and genotype associated with exceptional longevity. JAMA
+
+,
+
+–
+
+Bellizzi, D., Cavalcante, P., Taverna, D., Rose, G., Passarino, G., Salvioli, S., Franceschi, C., De Benedictis, G.,
+
+Gene expression of cytokines and cytokine receptors is modulated by the common variability of the mitochondrial DNA in cybrid cell lines. Genes Cells
+
+,
+
+–
+
+Bennati, E., Murphy, A., Cambien, F., Whitehead, A.S., Archbold, G.P., Young, I.S., Rea, I.M.,
+
+BELFAST centenarians: a case of optimised cardiovascular risk? Curr. Pharm. Des.
+
+,
+
+–
+
+Bilal, E., Rabadan, R.,Alexe, G., Fuku, N., Ueno, H.,Nishigaki, Y., Fujita, Y., Ito, M., Arai, Y., Hirose, N., Ruckenstein, A., Bhanot, G., Tanaka, M.,
+
+Mitochondrial DNA hap- logroup D
+
+a is a marker for extreme longevity in Japan. PL
+
+One
+
+, e
+
+Brand, F.N., Kiely, D.K., Kannel, W.B., Myers, R.H.,
+
+Family patterns of coronary heart disease mortality: the Framingham Longevity Study. J. Clin. Epidemiol.
+
+,
+
+–
+
+Candore, G., Balistreri, C.R., Listi, F., Grimaldi, M.P., Vasto, S., Colonna-Romano, G., Fran- ceschi, C., Lio, D., Caselli, G., Caruso, C.,
+
+Immunogenetics, gender, and longev- ity. Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Castri, L., Melendez-Obando, M., Villegas-Palma, R., Barrantes, R., Raventos, H., Pereira, R., Luiselli, D., Pettener, D., Madrigal, L.,
+
+Mitochondrial polymorphisms are associated both withincreased and decreasedlongevity. Hum.Hered.
+
+,
+
+–
+
+Chinnery, P.F., Taylor, G.A., Howell, N., Brown, D.T., Parsons, T.J., Turnbull, D.M.,
+
+Point mutations of the m
+
+NA control region in normal and neurodegenerative human brains. Am. J. Hum. Genet.
+
+,
+
+–
+
+Christensen, K., Johnson, T.E., Vaupel, J.W.,
+
+The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Dato, S., Passarino, G., Rose, G., Altomare, K., Bellizzi, D., Mari, V., Feraco, E., Franceschi, C.,De Benedictis, G.,
+
+Association of the mitochondrial DNA haplogroup Jwith longevity is population specific. Eur. J. Hum. Genet.
+
+,
+
+–
+
+De Benedictis, G., Rose, G., Carrieri, G., De Luca, M., Falcone, E., Passarino, G., Bonafe, M., Monti, D., Baggio, G., Bertolini, S., Mari, D., Mattace, R., Franceschi, C.,
+
+Mito- chondrial DNA inherited variants are associated with successful aging and longev- ity in humans. FASEB J.
+
+,
+
+–
+
+Feder, J., Ovadia, O., Blech, I., Cohen, J., Wainstein, J., Harman-Boehm, I., Glaser, B., Mis- hmar, D.,
+
+Parental diabetes status reveals association of mitochondrial DNA haplogroup J
+
+with type
+
+diabetes. BMC Med. Genet.
+
+,
+
+Fuku, N., Park, K.S., Yamada, Y., Nishigaki, Y., Cho, Y.M., Matsuo, H., Segawa, T., Wata- nabe, S., Kato, K., Yokoi, K., Nozawa, Y., Lee, H.K., Tanaka, M.,
+
+Mitochondrial haplogroup N
+
+a confers resistance against type
+
+diabetes in Asians. Am. J. Hum. Genet.
+
+,
+
+–
+
+References
+
+Abbott, M.H., Abbey, H., Bolling, D.R., Murphy, E.A., 1978. The familial component longevity—a study of offspring of nonagenarians: III. intrafamilial studies. Am.
+
+In this analysis, we found that the mtDNA haplogroup F was not only associated with longevity but also has an effect on serum lipid level. Long-lived subjects with mtDNA haplogroup F demonstrated higher HDL-c levels. Higher HDL-c has been shown to be associated with a lower prevalence of cardiovascular disease, hypertension and metabolic syndrome (Agoston-Coldea et al., 2007; Jones, 2008; Woodward et al., 2007), all of which may increase mortality. Howev- er, we observed an effect of the mtDNA haplogroup F on metabolism in long-lived populations but not in controls. It is tempting to specu- late that because there were different serum lipid levels between the long-lived subjects and controls, no matter what their mtDNA vari- ants, multiple mechanisms other than mtDNA haplogroup F possibly maintain lipid metabolism. In addition, we list some phenotypes of longevity and compare with those of control subjects in Table 1. All of these phenotypes are quantitative traits that are complicated by a great deal of interplay between genes and environment (Turnpenny and Ellard, 2005). At the present study, several phenotypes in Table 1 are significantly different between two group subjects. Aging is a predominant reason for contributing to the difference of these traits. Although our results show that there is the statistical sig- nificance for mtDNA haplogroups between two group subjects, we are still not sure that the difference of these traits in Table 1 is due to the differences in mtDNA haplogroups.
+
+5. Conclusions
+
+Haplogroup F may be associated with successful aging and excep- tional longevity in women of the Bama Zhuang population. Hap- logroup F in long-lived individuals was associated with higher HDL levels, which gave supporting evidences for the association of mtDNA variants with successful aging and longevity. Although func- tional analysis is needed, the amino acid change S531T (m.13928GNC) in the MT-ND5 gene might account for the beneficial effect of haplogroup F. In addition, because longevity and successful aging are complex traits affected by local environments and other ad- ditional factors, these factors might interact with mtDNA variations in long-lived individuals and eventually increase desirable longevity
+
+Glatt, S.J., Chayavichitsilp, P., Depp, C., Schork, N.J., Jeste, D.V.,
+
+Successful aging: from phenotype to genotype. Biol. Psychiatry
+
+,
+
+–
+
+Ivanova, R., Lepage, V., Charron, D., Schachter, F.,
+
+Mitochondrial genotype associ- ated with French Caucasian centenarians. Gerontology
+
+,
+
+Ji, Y., Zhang, A.M., Jia, X., Zhang, Y.P., Xiao, X., Li, S., Guo, X., Bandelt, H.J., Zhang, Q., Yao, Y.G.,
+
+Mitochondrial DNAhaplogroups M
+
+b
+
+′
+
+an
+
+aaffectclinical expres- sion of Leber hereditary optic neuropathy in Chinese families with the m.
+
+G– Na mutation. Am. J. Hum. Genet.
+
+,
+
+–
+
+Jones, P.H.,
+
+Expert perspective: reducing cardiovascular risk in metabolic syn- drome and type
+
+diabetes mellitus beyond low-density lipoprotein cholesterol lowering. Am. J. Cardiol.
+
+,
+
+L–
+
+L. Kivisild,T.,Tolk,H.V.,Parik,J.,Wang,Y.,Papiha,S.S.,Bandelt,H.J.,Villems,R.,
+
+Theemerg- inglimbs and twigs of the Eas
+
+sian m
+
+NA tree. Mol.Biol. Evol.
+
+,
+
+–
+
+Kleindorp, R., Flachsbart, F., Puca, A.A., Malovini, A., Schreiber, S., Nebel, A.,
+
+Can- didate gene study of FOXO
+
+, FOXO
+
+, and FOXO
+
+reveals no association with human longevity in Germans. Aging Cell
+
+,
+
+–
+
+Kong, Q.P., Yao, Y.G., Sun, C., Bandelt, H.J., Zhu, C.L., Zhang, Y.P.,
+
+Phylogeny of east Asian mitochondrial DNA lineages inferred from complete sequences. Am. J. Hum. Genet.
+
+,
+
+–
+
+Kong, Q.P., Bandelt,H.J., Sun, C.,Yao, Y.G., Salas,A., Achilli, A., Wang,C.Y., Zhong,L., Zhu, C.L.,Wu,S.F.,Torroni,A.,Zhang,Y.P.,
+
+Updating th
+
+as
+
+sianm
+
+NA phylog- eny: a prerequisite for the identification of pathogenic mutations. Hum. Mol. Genet.
+
+,
+
+–
+
+Koropatnick, T.A., Kimbell, J., Chen, R., Grove, J.S., Donlon, T.A., Masaki, K.H., Rodriguez, B.L., Willcox, B.J., Yano, K., Curb, J.D.,
+
+A prospective study of high-density li- poprotein cholesterol, cholesteryl ester transfer protein gene variants, and healthy aging in very old Japanese–American men. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Korpelainen, H.,
+
+Genetic maternal effects on human life span through the inher- itance of mitochondrial DNA. Hum. Hered.
+
+,
+
+–
+
+Kumar, S., Tamura, K., Nei, M.,
+
+MEGA
+
+: integrated software for Molecular Evolu- tionary Genetics Analysis and sequence alignment. Brief. Bioinform.
+
+,
+
+–
+
+Lenaz, G., Fato, R., Genova, M.L., Bergamini, C., Bianchi, C., Biondi, A.,
+
+Mitochon- drial complex I: structural and functional aspects. Biochim. Biophys. Acta
+
+,
+
+–
+
+Li, H., Cai, X., Winograd-Cort, E.R., Wen, B., Cheng, X., Qin, Z., Liu, W., Liu, Y., Pan, S., Qian, J., Tan, C.C., Jin, L.,
+
+Mitochondrial DNA diversity and population differ- entiation in southern East Asia. Am. J. Phys. Anthropol.
+
+,
+
+–
+
+Li, Y., Wang, W.J., Cao, H., Lu, J., Wu, C., Hu, F.Y., Guo, J., Zhao, L., Yang, F., Zhang, Y.X., Li, W., Zheng, G.Y., Cui, H., Chen, X., Zhu, Z., He, H., Dong, B., Mo, X., Zeng, Y., Tian, X.L.,
+
+Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chi- nese populations. Hum. Mol. Genet.
+
+,
+
+–
+
+Niemi, A.K., Hervonen, A., Hurme, M., Karhunen, P.J., Jylha, M., Majamaa, K.,
+
+Mi- tochondrial DNA polymorphisms associated with longevity in a Finnish popula- tion. Hum. Genet.
+
+,
+
+–
+
+Niemi, A.K., Moilanen, J.S., Tanaka, M., Hervonen, A., Hurme, M., Lehtimaki, T., Arai, Y., Hirose, N., Majamaa, K.,
+
+A combination of three common inherited mito- chondrial DNA polymorphisms promotes longevity in Finnish and Japanese sub- jects. Eur. J. Hum. Genet.
+
+,
+
+–
+
+Ordovas, J.M.,
+
+Gender, a significant factor in the cross talk between genes, envi- ronment, and health. Gend. Med.
+
+(Suppl. B), S
+
+–S
+
+Pablos-Mendez, A.,Mayeux, R.,Ngai,C.,Shea,S.,Berglund, L.,
+
+Associationof ap
+
+polymorphism with plasma lipid levels in a multiethnic elderly population. Arter- ioscler. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Pan, H., Kong, Q.P., Cheng, Y.T., Lian, S.G., Yang, J., Gao, S.J., Xu, L.Y., Zhang, Y.P.,
+
+Absence ofassociationbetweenmitochondria
+
+NA C
+
+T polymorphism andlon- gevity in a Han Chinese population. Exp. Gerontol.
+
+,
+
+–
+
+Paolisso, G., Gambardella, A., Ammendola, S., Tagliamonte, M.R., Rizzo, M.R., Capurso, A., Varricchio, M.,
+
+Preserved antilipolytic insulin action is associated with a less atherogenic plasma lipid profile in healthy centenarians. J. Am. Geriatr. Soc.
+
+,
+
+–
+
+Rontu, R., Ojala, P., Hervonen, A., Goebeler, S., Karhunen, P.J., Nikkila, M., Kunnas, T., Jylha, M., Eklund, C., Hurme, M., Lehtimaki, T., 2006. Apolipoprotein E genotype is related to plasma levels of C-reactive protein and lipids and to longevity in nona-
+
+Jylha, M., Eklund, C., Hurme, M., Lehtimaki, T.,
+
+Apolipoprotein E genotype is related to plasma levels of C-reactive protein and lipids and to longevity in nona- genarians. Clin. Endocrinol. (Oxf)
+
+,
+
+–
+
+Rosa, A., Fonseca, B.V., Krug, T., Manso, H., Gouveia, L., Albergaria, I., Gaspar, G., Correia, M., Viana-Baptista, M., Simoes, R.M., Pinto, A.N., Taipa, R., Ferreira, C., Fontes, J.R., Silva, M.R., Gabriel, J.P., Matos, I., Lopes, G., Ferro, J.M., Vicente, A.M., Oliveira, S.A.,
+
+Mitochondrial haplogroup H
+
+is protective for ischemic stroke in Portuguese patients. BMC Med. Genet.
+
+,
+
+Ross, O.A.,M
+
+ormack, R.,Curran,M.D., Duguid, R.A., Barnett, Y.A.,Rea, I.M., Middleton, D.,
+
+Mitochondrial DNA polymorphism: its role in longevity of the Irish pop- ulation. Exp. Gerontol.
+
+,
+
+–
+
+Santoro, A., Salvioli, S., Raule, N., Capri, M., Sevini, F., Valensin, S., Monti, D., Bellizzi, D., Passarino, G., Rose, G., De Benedictis, G., Franceschi, C.,
+
+Mitochondrial DNA involvement in human longevity. Biochim. Biophys. Acta
+
+,
+
+–
+
+Shryock, H.S., Siegel, J.S.,Stockwell,E.G.,
+
+The Methods and Materials of Demogra- phy, Condensed ed. Academic Press, New York. Sont,J.K.,Vandenbroucke,J.P.,
+
+Life expectancyandmitochondria
+
+NA.Dowe in- herit longevity from our mother's mitochondria? J. Clin. Epidemiol.
+
+,
+
+–
+
+Tanaka, M.,
+
+Mitochondrial genotypes and cytochrome b variants associated with longevity or Parkinson's disease. J. Neurol.
+
+(Suppl.
+
+), II
+
+–II
+
+Tanaka, M., Gong, J.S., Zhang, J., Yoneda, M., Yagi, K.,
+
+Mitochondrial genotype as- sociated with longevity. Lancet
+
+,
+
+–
+
+Tanaka, M., Cabrera, V.M., Gonzalez, A.M., Larruga, J.M., Takeyasu, T., Fuku, N., Guo, L.J., Hirose,R.,Fujita,Y.,Kurata,M.,Shinoda, K.,Umetsu,K.,Yamada,Y.,Oshida,Y.,Sato, Y., Hattori, N., Mizuno, Y., Arai, Y., Hirose, N., Ohta, S., Ogawa, O., Tanaka, Y., Kawa- mori, R., Shamoto-Nagai, M., Maruyama, W., Shimokata, H., Suzuki, R., Shimodaira, H.,
+
+Mitochondrial genome variation in eastern Asia and the peopling of Japan. Genome Res.
+
+,
+
+–
+
+Tharaphan, P., Chuenkongkaew, W.L., Luangtrakool, K., Sanpachudayan, T., Suktitipat, B., Suphavilai, R., Srisawat, C., Sura, T., Lertrit, P.,
+
+Mitochondrial DNA hap- logroup distribution in pedigrees of Southeast Asian G
+
+A Leber hereditary optic neuropathy. J. Neuroophthalmol.
+
+,
+
+–
+
+Turnpenny, P.D., Ellard, S.,
+
+Emery's Elements of Medical Genetics,
+
+th ed. Else- vier/Churchill Livingstone, Edinburgh; New York. van der Walt, J.M., Nicodemus, K.K., Martin, E.R., Scott, W.K., Nance, M.A., Watts, R.L., Hubble, J.P., Haines, J.L., Koller, W.C., Lyons, K., Pahwa, R., Stern, M.B., Colcher, A., Hiner, B.C., Jankovic, J., Ondo, W.G., Allen Jr., F.H., Goetz, C.G., Small, G.W., Masta- glia,F.,Stajich,J.M.,M
+
+aurin,A.C.,Middleton,L.T.,Scott,B.L.,Schmechel,D.E.,Peri- cak-Vance, M.A., Vance, J.M.,
+
+Mitochondrial polymorphisms significantly reduce the risk of Parkinson disease. Am. J. Hum. Genet.
+
+,
+
+–
+
+Woodward, M., Barzi, F., Feigin, V., Gu, D., Huxley, R., Nakamura, K., Patel, A., Ho, S., Jamrozik, K.,
+
+Associations between high-density lipoprotein cholesterol and both stroke and coronary heart disease in the Asia Pacific region. Eur. Heart J.
+
+,
+
+–
+
+Wu, C.C.,Chiu, Y.H., Chen,P.J., Hsu, C.J.,
+
+Prevalence and clinical features of the mi- tochondrial m.
+
+ANG mutation in Taiwanese patients with idiopathic sensori- neural hearing loss and association of haplogroup F with low penetrance in three families. Ear Hear.
+
+,
+
+–
+
+Yao, Y.G., Kong, Q.P., Bandelt, H.J., Kivisild, T., Zhang, Y.P.,
+
+a. Phylogeographic dif- ferentiationof mitochondria
+
+NA i
+
+an Chinese.Am. J.Hum.Genet.
+
+,
+
+–
+
+Yao, Y.G., Kong, Q.P., Zhang, Y.P.,
+
+b. Mitochondrial DNA
+
+A polymorphism and longevity. Hum. Genet.
+
+,
+
+–
+
+Zeng, Y.,
+
+Healthy Longevity in China: Demographic, Socioeconomic, and Psycho- logical Dimensions. Springer, Dordrecht; London. Zhang, J.,Asin-Cayuela, J.,Fish, J.,Michikawa, Y.,Bonafe, M.,Olivieri, F.,Passarino, G., De Benedictis, G., Franceschi, C., Attardi, G.,
+
+Strikingly higher frequency in cen- tenarians and twins of m
+
+NA mutation causing remodeling of replication origin in leukocytes. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Zhang, J.,Asin-Cayuela, J.,Fish, J.,Michikawa, Y.,Bonafe, M.,Olivieri, F.,Passarino, G., De Benedictis, G., Franceschi, C., Attardi, G., 2003. Strikingly higher frequency in cen- tenarians and twins of mtDNA mutation causing remodeling of replication origin in leukocytes. Proc. Natl. Acad. Sci. U. S. A. 100, 1116–1121.

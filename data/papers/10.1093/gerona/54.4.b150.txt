@@ -1,0 +1,413 @@
+C4, BF, C3 Allele Distribution and Complement Activity in Healthy Aged People and Centenarians
+
+DiegoBellavia,' Giovanni Frada,' Pietro Di Franco,' Salvatore Feo,' Claudio Franceschi.v PaoloSansoni," and Melchiorre Brai1
+
+'DepartmentofImmunology, 2Institute of Internal Medicine, and3Department ofCellular andDevelopmental Biology, University ofPalermo, Palermo, Italy.
+
+Theaimofthisstudywastoexaminethecomplementsystemandthedistribution ofsomehuman leukocyte antigen(HIA) classIII alleles (C4, BF) in healthyagedpeople(77centenarians and89 elderly subjects). Wehavealsostudiedthealleles of C3, a complementcomponentgenetically unrelatedto HIA, theimmunochemicallevels ofC4 andC3andserumfunc tionalhemolytkactivityfor classical (CHSO)andalternative (APSO)complementpathway. Thelevels ofC3andC4andthe CHSOandAPSO werefound to bewiJhin thenormalrange. Thefrequencies ofC3, BF, and C4A alleles were similarin the cohorts that havebeenstudied. ForC4B nullallele (C4BQO)a trendtowardan increase in the oldercohortwasobserved, although thedifferences werenotsignificantafterstatisticalcorrection. Ourdata suggestthat thecomplementsystem iswell preserved in centenarians and elderly subjects andclassIII HIA antigens areequally distributed in agedcohorts and in
+
+terized by the absenceof the phenotypic product (QO ;:: quan tity 0). BF is also polymorphic with less allotypes (12). In a previous studythefrequency distribution of classIII alleles was investigated in Hungarian old peopleand a lowerfrequency of C4AQO andC4BQO was observed suggesting that the presence of null alleles, especially C4BQO, can negatively influence life expectation (13,14). Wecouldnotconfirm thesedatain a previ ous study in which we examined 82 Sicilian elderly persons (average age 80 years) and 304 controls (15). To betterunder standtheinfluence of C4 andBF allomorphisms in theexpecta tionof life,we studiedthe C4 andBF alleles in 77 centenarians and in 89 elderly subjects from Italy. We also analyzed the C3 alleles in these long-lived individuals to investigate the poly morphism of a complement component unrelated to HLA.
+
+THERE are several studies that address the or the changing equilibrium of the immune system ageing both in experimental animals and humans (1,2). individuals usually exhibit changes of both T- and segments with a high proportion of aged individuals showing hypergammaglobulinemia andincreased signsof autoimmunity (3-5), although usually withoutany of the associated patholo gies. Innate immunity has also been studied in and generally there are no age-related changes, if the are selected according to the criteria for health status (6). Several parameters of nonspecific immunityhavebeen in long-lived people, butpractically no information is available on theircomplement system. In thisstudyweexamined theim munochemical levels of C4 and C3 and serum functional hemolytic activity of the classical (CH50) and the alternative (AP50) complementpathways to ascertain if changesof this segmentof nonspecific immunity occurin theelderly.
+
+METHODS
+
+The study groups included 77 healthy centenarians (13males and 64 females, mean age 101.4 years, range 100to 107years), Years, 89elderly subjects (20malesand69females, meanage72 range70 to 89 years), and 235young subjects lessthan50 years old(134males and 101 females, meanage35 years, range18to 49 years). The elderly subjects were selected for being healthy according to the Senieur protocol (16). Centenarians were in goodmental andphysical condition. Theywerefreeof tumors or immunological disorders; mostof themalsofulfilled the criteria of the Senieurprotocol. All the individuals under study were Italian andunrelated andallof themgave theirinformed consent The semmsamples werefresh or stored at -80°C until tested.
+
+Some complement components are encoded by genes re lated to human leukocyte antigen (HLA). The HLA complex represents the systemof immunity whichis betterdefined at the geneticlevel,and thereare data showing different distributions of certain HLA alleles in aged cohorts, as compared to young healthycontrols(7-10).However, it is notyetknownwhethera clear-cut relation exists between HLA haplotypes andlongevity arid this raises the need for further studies on different HLA genesincludedin extended haplotypes withclassical classI and IT antigens (11).ClassIIIgenesencodenon-HLA-related prod ucts and also some of the complement components (C4, C2, andBF) in linkagewithclassI and IT and endowed withexten sivepolymorphism. Thefourth complement component (C4)is codedby two different genesC4A and C4B.At bothloci some 35 allotypes have been detected, including null alleles charac-
+
+C4 and BF typing were determined as previously (17,18). Briefly for C4 typing, ethylenediaminetetraacetate (EDTA)-plasma samples werepretreated withneuraminidase type VIIIfromclostridiumperfrigens (Sigma, St.Louis,
+
+Table1.Complement HemolyticActivity (ill) andImmunochemical Levelsof C3 andC4 (gIL) in Centenarians, ElderlySubjectsandYoung Controls*
+
+boxypeptidase B type I fromporcinepancreas (Sigma). The sam ples for BF analysis were not pretreated and, after running through a high-voltage agarose gel electrophoresis (HVAGE) (100 rnA, 70 W, 700 v) in a Tris-glycine buffer (pH 8.9), they were immunofixed with monospecific polyclonal antibodies (Atlantic antibodies, Stillwater, MI), dried, and stained with Coomassie blue.The presence of QO alleles wasassessed by den sitometry according to published methods(19,20) usinga densito mer(pharmacia-LKB Ultroscan, Uppsala, Sweden).
+
+Centenarians Elderly Young Normal range n =65 n=26 n= 103 CH50 159±32 150±32 161 ±43 139-203 AP50 162± 30 184± 55 175±44 114-204 C3 1.1 ±0.19 0.97±0.21 1.2±0.28 0.66-1.7 C4 0.23±0.06 0.22±0.06 0.24±0.08 0.1~.36
+
+C3 typingwas performed as described (21). The plasmasam pleswerenotpretreated, andafterHVAGE (100rnA,70W,700v) in a Tris-glycine buffer(pH 8.9)for 3 hours, theywerefixed in a 50%solution ofmethanol, dried,andstained withCoomassie blue.
+
+Note. Data are mean ± SD. *Therewere not statistically significant differ encesbetweenthegroupsonanyof thevariables.
+
+Only the DNA of 10 centenarians was available to study re striction fragment length polymorphism (RFLP) TaqIpolymor phism in order to define the C4 and 21-hydroxylase (CYP 21; 21-0H) gene structure. The genomic DNA was digested with the restriction enzyme Taq I and hybridized with two 32P_Ia_ belledprobes,one beingspecific for the 5' end of C4A andC4B genes and the other for steroid21-0H gene. For a detailedde scription of RFLP TaqIpolymorphismpatternsseeref.22.
+
+Table2.C4A,C4B,andBFAlleleFrequencies in Centenarians, ElderlySubjects,andYoung Controls*
+
+Centenarians Elderly Young n=77 n= 89 n=235 Alleles n Frequency n Frequency n Frequency C4A A3 118 0.77 135 0.76 360 0.77 A2 13 0.08 14 0.08 38 0.08 A6 3 0.02 2 0.01 20 0.04 AQO 14 0.09 17 0.09 38 0.08 Others 6 0.04 10 0.06 14 0.03 C4B Bl 112 0.73 143 0.80 368 0.78 B2 11 0.07 17 0.10 46 0.10 BQO 26 0.17 16 0.09 49 0.11 Others 5 0.03 2 0.01 7 0.01 n=77 n = 81 n= 234 BF n Frequency n Frequency n Frequency S 113 0.74 113 0.70 340 0.73 F 34 0.22 45 0.28 105 0.22 S07 2 0.01 4 0.02 13 0.03 Fl 5 0.03 0 0 10 0.02
+
+The complementactivity was testedvia the classicalpathway (CillO) using antibody-sensitized sheep red cells and veronal 2+, bufferedsaline(VBS) supplemented with Ca Mg2+, and 0.1% gelatinaccordingto Mayer (23) with slight modifications (24), and via the alternative pathway(AP50)employingunsensitized rabbit red cells and VBS containing 10 mM ethyleneglycolte tracetic acid (EGTA) and 7 mM Mg2+ according to published methods(25). C3 and C4levels were measuredimmunochemi callyby nephelometry.
+
+Statistical analysis was performed using the chi-square test with theYate'scorrectionfor continuityand Bonferronicorrec tionfor the number of studiedalleles(26).Differencesbetween meanswere estimatedby unpaired,two-tailed,Student'st test.
+
+REsULTS
+
+Functional assaysperformed on serumsamplesof the subjects under study showedthat theyhad intactclassical and alternative complement hemolytic activities andplasmaconcentrations ofC3 andC4 withinthenormalrange(Table 1).Thefrequency distribu tion of C4A, C4B and BF allelewas similarin all three groups (Table 2).Thefrequencies ofC4Anullalleles weresimilar incen 2= tenarians versus healthy elderly persons (9.1% vs 9.5%; X = 2= 0.002;p .9)and versusyoungpeople(9.1% vs 8.1%;X 0.05, = p .8).An increase of C4BQO in the oldercohortwas observed: 2 centenarians versus old people (17% vs 9%, X = 3.9,p = .05), 2= centenarians versus young people (17% vs 11%; X 3.9;p .04), butthisdifference wasnotmaintained aftercorrection forthe number of alleles examined. The study at DNA level did not show, in centenarians, anyC4/21-0H genedeletionor otherchar acteristic gene patterns (data not shown). C3 allele frequencies were similarin the three groups (Table 3). The alleledistribution of C4, BF, and C3 alleles followed the Hardy-Weinberg equilib rium. Similarly statistical differences werenot seen whenthe age classes were comparedaccording to gender in centenarians and alsoinhealthyelderlyandyoungsubjects (datanot shown).
+
+* Groups were compared with the chi- -square test. None of the comparisonswere statistically significant.
+
+Table3.C3AllotypeFrequencyin Centenarians, ElderlySubjects, andYoungControls*
+
+Centenarians Elderly Youngt = = n =75 n 29 n 213 Alleles n Frequency n Frequency n Frequency S 114 0.76 47 0.81 348 0.82 F 36 0.24 11 0.19 78 0.18 Genotype n % n % n % SS 43 57.3 18 62.1 144 67.6 FF 4 5.3 0 0.0 9 4.2 SF 28 37.4 11 37.9 60 28.2
+
+*Groupswerecomparedwiththe chi-square test.None of the comparisons werestatistically significant. tThe rareallelesfoundinyoungbutnotin elderly and centenarians werenotconsideredfor statistical analysis (C3 rare allelesin = = 224youngsubjects, n 13;frequency .03%).
+
+ 
+
+The widespread longevity in developed countries has ren dered it possible to study healthy centenarians (27,28); to our
+
+ity genetic units for certain human diseases (35), the great major ity of individuals carrying such alleles are healthy and even in diseased cohorts, the linkage of this alleles with certain HLA class I and IT phenotypes renders it impossible to identify with certainty the genetic elements responsible for the disease. The partial defect of C4, a complement component of the classical pathway, which is potentially capable of damaging self tissues when locally activated by immune complexes, is known to be fully compatible with good health. Finally, the distribution of class ill alleles varies widely according to ethnic background, thence inferences on their relationship to pathology have to be considered within this framework Moreover, major histocompat ibility complex (MHC) allele and haplotype frequencies differ markedly even within different regions of the same country (36). Any demographic change in recent times like migration into or within a country or differential reproduction rates within ethnic subsets, rather than differences in fitness, could be responsible of observed different distributions. To partially overcome such con founding effects our studied cohorts were recruited with contri butions from Northern, Central, and Southern Italy, thence repre senting the Italian population as a whole.
+
+knowledge, this is the first study of the complement system in centenarians and aged people. Our main findings are that the CH50 and AP50 complement hemolytic activity as well as the C3 and C4 serum concentrations are well preserved in both cen tenarians and the elderly persons. Similar findings have already been reported when other aspects of nonspecific immunity have been examined in healthy elderly persons (6,29). The increase in CHSO and AP50 activities, previously reported in elderly per sons (30), can be attributed to different criteria in the selection of the tested individuals. In our study, the centenarians and the el derly subjects were carefully selected for their healthy status, al though the Senieur protocol should be revisited to be adapted to centenarians (6), and the controls were healthy blood donors.
+
+The environment, including lifestyle, diet, and climate, influ ences longevity and the quality of life, but genetic factors also seem to play a role, because life span is species-specific (31). Mice of different inbred strains show a different longevity when reared in identical laboratory conditions (32). In humans, longevity has been shown to have often a familial distribution and the occurrence of concordance in premature death between adoptees and their biological parents also points toward genetic influences (7,33). The immune system is an important survival factor because it protects against foreign intruders, and it is one of the factors that contribute to efficiently control the selective pressures that are bringing human longevity to a higher limit. That the immune system also exerts an influence on longevity per se and on the quality oflife ofelderly persons is less obvious, but it can be easily inferred because components of the immune system are finely regulated by genetic factors, and some of the pathological abnormalities more frequently observed in the older age groups suggest that the immune system may be involved in their pathogenesis.
+
+In conclusion, it is possible that extreme longevity is not a privilege of a few individuals endowed with exceptional genetic prerogatives, but rather a potential attribute of the normal human genome with a certain tolerance for some variations not directly responsible for overt pathology.
+
+ACKNOWLEDGMENTS
+
+This study was supported by grants of the Ministero Universita Ricerca Scientifica e Tecnologica (40% nationally divided and 60% local) and by the Consiglio Nazionale Ricerca (grant 95.4383.04). We thank Prof. F.Tedesco for reviewing the manuscript and Prof. Maria Brai for statistical analysis.
+
+Address correspondence to Prof. Melchiorre Brai, Institute of General Pathology, Corso Tukory, 211, 90134 Palermo, Italy. E-mail: melbrai@ mbox.unipa.it
+
+Kramer and collegues (13,14) reported a marked reduction in the frequency of C4QO allele in old Hungarian groups and con cluded that individuals carrying this allele, especially males, may have a considerable shorter life expectancy than individuals lack ing a silent gene at this locus. These studies prompted us to eval uate class ill and C3 alleles in healthy Italian aged people and centenarians and we found that the allele frequency distribution of C4, BF, and C3 in the cohorts under study do not show any statistical difference. In the same direction the preliminary data on the DNA polymorphism of the C4/2l-0H region are of lim ited value because of the small number of studied samples (10 centenarians). The slight increase of C4BQO allele in centenari ans suggests that C4BQO is not a negative survival factor. It is important to note that the oldest person in our cohort was a C4BQO heterozygote (female, 107 years old, haplotype = A3BlBQOSF). Females outnumber males 5:1 in the oldest co hort, but the distribution ofalleles does not seem to be different in relation to gender. Our findings on healthy Italian centenarians are difficult to reconcile with the view that null alleles represent a negative selection factor for survival unless the ''unidentified dis ease" is one that leads males to death in a well-defined narrow age interval and is much less effective in females. Another possi bility is that C4QO individuals are unhealthy throughout their life and would never enter our study groups, which have been se lected for being healthy. However there is no report in the litera ture and in our own experience in healthy blood donors (34) of the possible feeble health state of C4QO carriers. Even though
+
+
+
+Franceschi C, Monti D, Sansoni P,Cossarizz
+
+The immunology of ex ceptional individuals: the lesson of centenarians. Immunol Today.
+
+;
+
+:
+
+-
+
+Miller RA. The aging immune system: primer and prospectus. Science.
+
+;
+
+:
+
+-
+
+Weksler ME, Schwab R. The immunogenetics of immune senescence. Exp Cli
+
+mmunogenet.
+
+;
+
+:
+
+-
+
+Paganelli R, Quinti I, Fagiolo U. et al. Changes in circulating B cells and immunoglobulin classes and subclasses in a healthy aged population. Clin Ex
+
+mmunol.
+
+;
+
+:
+
+-
+
+Mariotti S, Sansoni P,Barbesino G, et al. Thyroid and other organ-specific autoantibodies in healthy centenarians. Lancet.
+
+;
+
+:
+
+-
+
+Franceschi C, Monti D, Barbieri D, et al. Immunosenescence in humans: deterioration or remodelling?Int Re
+
+mmunol.
+
+;
+
+:
+
+-
+
+Lagaay AM, D'Amaro J, Ligthart GJ, Schreuder GM, van Rood
+
+, Hijmans W. Longevity and heredity in humans. Ann NY Acad Sci.
+
+;
+
+:
+
+-
+
+Takata H, Suzuki M, Ishii T, Sekiguchi S, Iri H. Influence of major histo compatibility complex region genes on human longevity among Okinawa Japanese centenarians and nonagenarians. Lancet.
+
+;ii:
+
+-
+
+Papasteriades C, Boki K, Pappa H, Aedonopoulos S, Papasteriadis E, Economidou J. HLA phenotypes in healthy aged subjects. Gerontology.
+
+;
+
+:
+
+-
+
+Ricci G, Colombo C, Ghiazza B, IIIeni MT. Association between longevity and allelic forms of human leukocyte antigens (
+
+LA): pop
+
+a tion study of aged Italian human subjects. Arch Immunol Ther Exp.
+
+;
+
+:
+
+-
+
+Morellini M, Trabace S, Lulli P,et al. HLA antigens and aging. Ann NY Aca
+
+ci.
+
+;
+
+:
+
+-
+
+Brai M, Tolon
+
+, Magr
+
+,Waks H, Brai M.Alternativecomplement path way: activitylevelsinallogenicpregnancy.Experientia.
+
+;
+
+:
+
+-
+
+Harrison RA, Lackmann PJ. Complement technology. In: Weir DM, Herzenberg LA, Blackzell C, eds. Handbook of Experimental Immunology. Oxford: Blackwell Scientific;
+
+:
+
+-
+
+Mattiuz PL, Ihde D, Piazza A, Ceppellini R, Bodmer WE New ap proaches to the population genetic and segregation analysis of the HLA system. In: Terasaki PI, ed. Histocompatibility Testing
+
+Copenhagn, Denmark: Munksgaard;
+
+:
+
+-
+
+Roush W.Live long and prosper? Science.
+
+;
+
+:
+
+-
+
+Holden C. New populations of old add to poor nations' burdens. Science.
+
+;
+
+:
+
+&-
+
+Sansoni P,Cossarizza A, Brianti V,et al. Lymphocyte subsets and natural killer cell activity in healthy old people and centenarians. Blood.
+
+;
+
+:
+
+-
+
+Ma
+
+regor RR, Shalit M. Neutrophil function in healthy elderly subjects: J Gerontol Me
+
+ci.
+
+O;
+
+:M
+
+-M
+
+Jazwinski SM. Longevity, genes, and aging. Science.
+
+;
+
+:
+
+-
+
+Smith GS, Walford RL. Influence of the main histocompatibility complex on ageing in mice. Nature.
+
+;
+
+:
+
+-
+
+Sorensen TIA, Nielsen
+
+, Andersen PK, Teasdale TW. Genetic and en vironmental influences on premature death in adult adoptees. N Engl J Med.
+
+;
+
+:
+
+-
+
+Brai M, Accardo P,Bellavia D. Polymorphism of the complement compo nents in human pathology.An
+
+ta
+
+e
+
+nt.
+
+;
+
+:
+
+-
+
+Walport M. Connective tissue diseases. In: Lechler R, ed. HIA and Diseases. San Diego, CA: Academic Press;
+
+:
+
+-
+
+Piazza A, Olivetti E, Griffo RM, et
+
+The distribution of HLA antingens in Italy. Gen
+
+eo.
+
+;
+
+:
+
+-
+
+genes. In: Whaley K, Laos M, Weiler JM, eds. Complement Disease. Boston
+
+ondon: Kluwer Academic Publisher,
+
+:
+
+-
+
+Kramer J, Rajczy K, Fust G. Low incidence of null alleles of the component of complement (C
+
+) in elderly people. Immunol
+
+;
+
+:
+
+-
+
+Kramer J, Fulop T, Rajczy K, Tuan NA, Fust G. A marked drop in the in cidence of the null alleles of the B gene of the fourth component of com plement (C
+
+B*QO) in elderly subjects: C
+
+B*QO as a probable selection factor for survival. Hu
+
+enet.
+
+;
+
+:
+
+-
+
+Cannella L, Franceschi C, Di Franco P, Giglio MA, D'Alia G, Brai M. Distribuzione degli alleli di ill classe in soggetti anziani. Proc. XIX Naz. GCI
+
+;
+
+Lighthart GJ, Corberaud JX, Fournier C, et al. Admission criteria for irn munogerontologic
+
+studies in man: the Senieur Protocol. Dev.
+
+;
+
+:
+
+-
+
+"
+
+Awdeh ZL, Alper CA. Inherited structural polymorphism of the fourth component of human complement. Pro
+
+at
+
+cad Sci USA;
+
+;
+
+:
+
+&-
+
+Sim E, Cross SJ. Phenotyping of human complement component C
+
+Bioche
+
+;
+
+:
+
+-
+
+Zhang WJ, Kay PH, Cobain TJ,Dawkins RL. C
+
+allotyping on plasma or serum: application to routine laboratories. Hum Immunol.
+
+;
+
+:
+
+-
+
+Kramer J, Gyodi E, Fust G. Usefulness of densitometry in typing human complement component C
+
+Immunogenetics.
+
+;
+
+:
+
+-
+
+'Rittner C, Stradrnann-Bellinghausen B. C
+
+reference typing report and nomenclature revision. Complemen
+
+nflamm.
+
+;
+
+:
+
+-
+
+Schneider PM. C
+
+DNA RFLP reference typing report. Inflamm.
+
+;
+
+:
+
+-
+
+Mayer MM. Complement and complement fixation. In: Kabat EA, Mayer MM, eds. Experimental Immunochemistry. Springfield, IL. Thomas,
+
+:
+
+-

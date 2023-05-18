@@ -1,0 +1,507 @@
+Human chitotriosidase polymorphism is associated with human longevity in Mediterranean nonagenarians
+
+Malaguarnera1, Luca Nnawuihe Ohazuruike2, Christina Tsianaka2, Tijana Antic2, Michelino Di Rosa1
+
+Lucia Malaguarnera1, Luca Nnawuihe Ohazuruike2, Christina Tsianaka2, Tijana Antic2, Michelino Di Rosa1 and Mariano Malaguarnera2
+
+Human phagocyte-specific chitotriosidase (CHIT-1) is a chitinolytic enzyme associated with several diseases involving macrophage activation. Previous studies have demonstrated that a high activity of Chit could have widespread effects on atherosclerosis, cardiovascular disease and dementia. The 24-bp duplication in the CHIT-1 gene is associated with a deficiency in enzymatic activity. In this study, we attempted to assess whether CHIT-1 could be a plausible candidate gene responsible for human longevity. Therefore, we compared the distribution of the CHIT-1 polymorphism genotype in three different populations of
+
+macrophage activation. Previous studies have demonstrated that a high activity of Chit could have widespread effects on atherosclerosis, cardiovascular disease and dementia. The 24-bp duplication in the CHIT-1 gene is associated with a in enzymatic activity. In this study, we attempted to assess whether CHIT-1 could be a plausible candidate gene responsible human longevity. Therefore, we compared the distribution of the CHIT-1 polymorphism genotype in three different populations the Mediterranean area (Italian, Greek and Tunisian) aged over 90 years. As a control group for each nonagenarian and centenarian, a 60–70-year-old subject was genotyped. We found that the heterozygote frequency for the 24-bp duplication in the CHIT-1 gene was not significantly different among the oldest old subjects of Mediterranean populations, whereas it was significantly different between oldest old subjects and control subjects, being highest among the oldest old subjects and among control groups. In the oldest old group, no subject was observed to be homozygous for CHIT-1 deficiency. Moreover, the mean enzymatic activity in heterozygous oldest subjects was lower than that in the control group. These data indicate that the heterozygosis for a 24-bp duplication in the CHIT-1 gene could have a protective effect in human longevity. Journal of Human Genetics (2010) 55, 8–12; doi:10.1038/jhg.2009.111; published online 30 October 2009
+
+Keywords: chitotriosidase; human longevity; Mediterranean area; polymorphism
+
+INTRODUCTION
+
+family, a group of glycoside hydrolases that cleave chitin. Chitin is a polysaccharide present as a structural component in fungi, nematodes and insects.3–4 The human CHIT-1 gene is localized on chromosome 1q31–q32.5 CHIT-1 is present in normal plasma and is mainly secreted by activated macrophages and to a lesser degree by neutrophils.6 Chit activity has been proposed as a biochemical marker of macrophage accumulation and activity in several lysosomal lipid storage diseases.7–10 Little is known regarding the physiological function of CHIT-1, although its phagocyte-specific expression points to a role of the enzyme in innate immunity.11–12 CHIT-1 mRNA expression is upre- gulated after stimulation by tumor necrosis factor alpha (TNF-a), interferon gamma (IFN-g), prolactin and lipopolysaccharide (LPS).13–15 In vitro studies using recombinant human CHIT-1 have demonstrated that CHIT-1 lyses the hyphal tip of Mucor rouxii and inhibits the growth of hyphae of Candida albicans.6 In vivo, neutropenic mice challenged with lethal doses of C. albicans or with Aspergillosis exhibit increased survival when treated with human recombinant CHIT-1.6 A 24-bp duplication in exon 10 in the CHIT-1 gene activates a cryptic 39 splice site in the same exon, generating an abnormally spliced
+
+Nonagenarians and centenarians comprise a small proportion of the whole population. This group because it survives to an extremely old age, continues to capture the interest of the medical and scientific community. An understandable reason for this interest is the hope to discover the factors allowing certain people to survive and advance greatly in age, whereas others do not. Demographic, clinical, biome- dical and genetic data of centenarians could provide some evidence with regard to the factors related to exceptional longevity.1 Nongenetic factors including diet, physical activity, health habits and psychosocial factors are important. Moreover, a number of studies suggest that about 25% of the variation in human lifespan in average-lived populations can be explained by genetic factors, but in populations with larger numbers of extraordinary survivors, the genetic contribu- tion to lifespan may be higher.2 Substantial interest has developed over past few years in identifying genes that are associated with longevity in humans. Nevertheless, studies on candidate ‘longevity-associated’ genes in humans, referred to as ‘longevity genes,’ have generally been limited.
+
+1Department of Biomedical Science, University of Catania, Catania, Italy and 2Department of Senescence, Urological and Neurological Sciences, University of Catania, Italy Correspondence: Professor L Malaguarnera, Department of Biomedical Science, University of Catania, Via Androne, 83, 95124 Catania, Italy. E-mail: lucmal@mbox.unict.it Received 2 July 2009; revised 2 October 2009; accepted 5 October 2009; published online 30 October 2009
+
+(Attica, Greek Macedonia, Thessalia, Epirus and Peloponnese), at their home. Nonagenarians and centenarians were identified by researching archival records in the City Hall and/or church registries.
+
+mRNA with an in-frame deletion of 87 nucleotides. The spliced mRNA encodes an enzymatically inactive protein that lacks an internal stretch of 29 amino acids.5 The resulting phenotype is an asympto- matic Chit activity deficiency. A mild enzymatic activity has been detected in subjects heterozygous for the duplication.16–17
+
+For each nonagenarian and centenarian, a 60–70-year-old control of the same gender was randomly selected from the inhabitants of the same city of the province. This age group control was chosen on the basis of the consideration that at this age both men and women have less than a 1% probability of becoming centenarians.27 Patients with malignant, inflammatory diseases or C- reactive protein levels 420 were excluded from all study groups. Controls living in the same municipality were excluded to avoid excessive consanguinity. Written informed consent was obtained from all study participants or from family representatives if participants were unable to provide consent. Blood specimens were collected in sterile tripotassium-EDTA tubes and immediately stored at (cid:3)701C. Genomic DNA was stored at (cid:3)201C for different genetic analyses.
+
+Chit activity seems to be related to the severity of atherosclerotic lesions, thereby suggesting a possible role for Chit as a marker of atherosclerotic extension.18–20 In addition, it was reported that patients with atherothrombotic stroke (ATS) and ischemic disease (IHD) had significantly higher Chit activities than the control group.19 However, ATS subjects had higher Chit activity than IHD subjects, whose atherosclerosis is localized more specifically in coronary vessels. This was confirmed by the observation that in the ATS group, Chit activity was related to carotid stenosis, in accordance with a clinical picture featured by a more widespread atherosclerosis.19 In addition, the increase in serum Chit activity was found to be age dependent. This phenomenon could be explained by the ongoing accumulation of lipid- laden macrophages during the gradual progression of atherosclerosis in relation to age. Inflammation has a central role in the beginning of the atherosclerosis process and in the mechanism underlying the develop- ment and progression of atherosclerosis complications, plaque rupture and subsequent thrombosis.21–22 Macrophages are present in all phases of atherogenesis and are markers of atherosclerotic plaque formation.23 Macrophage accumulation, localized in supra-aortic and coronary vessels, is associated with increased serum Chit activity, which reflects the state of activation of macrophages within atherosclerotic lesions.18 Interestingly, other investigations have suggested that Chit could have a crucial role even in pathological conditions, such as coronary artery disease,24 acute ischemic stroke,25 cerebrovascular dementia (CVD) and Alzheimer’s disease (AD).26–27 Recently, it has been shown that CHIT-1 may be involved in the progression of nonalcoholic steatohepatitis.28–29 Overall, these data underline the idea that CHIT-1, as an important factor in inflammation,15 could have widespread effects on aging phenotypes, particularly on cardiovascular disease and dementia, and as such may influence the ability to achieve a long and healthy life. In a study conducted on healthy elderly subjects (aged 65–94 years), it has been reported that levels of serum CHITwas higher compared with that in young people.30 However, to date and to the best of our knowledge, there is no information on the association between single-nucleotide polymorphisms (SNPs) in CHIT-1 gene and longevity. The aim of this study was to determine whether common, natural variations in the form of SNPs in the CHIT-1 gene might influence human aging and longevity.
+
+DNA analysis
+
+Genomic DNA was isolated from 5ml of peripheral blood as previously described.14 In total, 30ng of DNA was used as a template in subsequent PCR reactions. The duplication mutation analysis was performed using specific CHIT-1 primers: 5¢-AGCTATCTGAAGCAGAAG-3¢ and 5¢-GGAGAAGCCGG CAAAGTC-3¢. Fragments of 75 and 99bp were amplified from normal and mutant Chit genes, respectively. The DNAwas denatured at 951C for 4min for 1 cycle and amplified at 951C for 1min, 601C for 30s and at 721C for 30s for 35 cycles. The amplified DNA was separated on an 8% acrylamide/0.5(cid:4) Tris borate EDTA (TBE) gel and visualized by ethidium bromide staining. Electro- phoresis in MetaPhor gel (4%) allowed the detection of all fragments. A mixture of both fragments was detected in heterozygous subjects. Amplifica- tion was performed using the conditions described above.
+
+Chit activity
+
+Chit activity determination was performed as previously A volume of 5ml of undiluted plasma was incubated with 100ml of a solution containing 22mmoll(cid:3)l of the artificial substrate 4-methylumbelliferylb- D-N,N0,N00triacetylchitotriose (Sigma, Milan, Italy) in 0.5M citrate-phosphate buffer (pH 5.2) for 15min at 371C. The reaction was stopped using 2ml of 0.5moll(cid:3)1 Na CO –NaHCO buffer (pH 10.7). Fluorescence was read using a 2 3 3 Perkin-Elmer fluorimeter, on 365-nm excitation and 450-nm emission. Chit activity was measured as nanomoles of substrate hydrolyzed per ml per hour (nmolml(cid:3)1h(cid:3)1). The plasma Chit was expressed as nmolml(cid:3)1h(cid:3)1. Samples with Chit levels 411nmolml(cid:3)1h(cid:3)1 were assayed after a 10- or 50-fold dilution with distilled water.
+
+Statistical analysis
+
+were evaluated for deviation from Hardy–Weinberg equilibrium. General model and analysis of covariance were used to compare the proportion of study participants through CHIT-1 genotype. For the analysis of aging in case and controls, Student’s t-test was used for analysis and of plasma Chit activity values. Data are expressed as mean±s.d. was assessed by one-way analysis of variance (ANOVA) and t-test. Po0.05 was considered to be statistically significant.
+
+MATERIALS AND METHODS
+
+This study was carried out between 2003 and 2008. From the time of recruitment, the groups included the following:
+
+RESULTS
+
+A total of
+
+Italian subjects:
+
+male and
+
+female, aged
+
+–
+
+years (average age:
+
+years), and
+
+unrelated volunteers (average age:
+
+years), who presented themselves at the Department of Senescence, Urological and Neurological Sciences, Catania University Hospital, Catania, Italy. The date of birth of each subject was checked by matching information from the social security document, and by the testimony of a first-degree relative.  A total of
+
+Tunisian subjects:
+
+male and
+
+female, aged
+
+–
+
+years (average age:
+
+years), were recruited from Tunis, Hammamet, Monastir, Sousse, Mahadia, Sidi Bou Said, Djerba, Kairouen, Carthage, Bizerte, Gabes, El Jem, Le Grand Soud, Tozeur, at their home, using the archival records in the City Hall.  A total of
+
+Greek subjects:
+
+male and
+
+female, aged
+
+–
+
+years (average:
+
+years), were recruited from different regions of Greece
+
+A total of 258 90-year-old and 60-year-old subjects were genotyped. Table 1 shows the baseline characteristic of each subject, in which biological characteristics, general health status, disease prevalence and functional status are presented. In terms of biological characteristics, the long-living subjects were older, leaner (lower waist/hip ratio) and had lower triglyceride and glucose levels. These subjects also had better self-rated health and lower prevalence of cardiovascular disease (coronary heart disease (CHD) and stroke) and degenerative disease. Functionally, they seemed better able to walk, but had lower grip strength. There was no difference in the cognitive score between long- living and control subjects.
+
+Table 1 Baseline characteristics on the basis of case–control status
+
+Average control phenotype Average elderly phenotype (age 68.8±2.4 years) (n¼129) (age 97.6±3.6 years) (n¼29) Variables at baseline examination (2003–2008) Mean±s.d. Min–Max Mean±s.d. Min–Max P Biological, fasting values Body mass index (kgm(cid:3)2) 24±2.12 16.89–31.3 21.8±3.07 15.3–30.2 0.9290 Waist/hip ratio 0.93±0.08 0.7–1.12 0.90±0.06 0.71–1.02 0.0012 Total cholesterol (mg100ml(cid:3)1) 187.2±32 99–304 184.6±26.1 95–264 0.2120 HDL (mg100ml(cid:3)1) 51.62±12.6 33–127 50.2±14.5 29–96 0.4921 Triglycerides (mg100ml(cid:3)1) 160.2±88 51–750 147±86.2 42–481 0.0940 Glucose (mg100ml(cid:3)1) 117.2±35 71–312 108.2±22.9 77–281 0.0018 AST (IU/l) 33±29 32–73 30.2±21 19–61 0.1103 ALT (IU/l) 36±21 27–118 28±16 19–74 0.0968 Hemoglobin (g100ml(cid:3)1) 13.5±1.12 11–14 13±1.6 10.5–15 0.8106 General health status Self-rated ‘poor’ health 40.81 — 30.21 — 0.0159 Disease prevalence (%) CHD 28.12 — 6.92 — 0.0001 Stroke 8.21 — 3.3 — 0.0394 Diabetes 65.12 — 54.2 — 0.6587 Degenerative disease 21.6 — 12.42 — 0.0391 Physical/cognitive function Difficulty in walking (%) 24.21 — 18.83 — 0.0622 Grip strength (%) 29.12±7.54 3–30 24.12±3.47 8–45 0.0001 Cognitive score (CASI) 82±14.21 37–100 80.22±16.8 19–96 0.1000
+
+Abbreviations: CASI, cognitive abilities screening instrument; CHD, coronary heart disease; IU, international unit. P value from Student’s t test.
+
+Table 2 Frequencies of wild-type and mutant alleles in elderly (nonagenarians and centenarians) and in control subjects
+
+Elderly Control Populations No Genotype frequency Allele frequency Genotype frequency Allele frequency Wt Wt/H H/H Wt Wt/H Wt Wt/H H/H Wt Wt/H Tunisian 33 36.2 63.8 0 27.3 72.7 71.6 22.9 5.5 74.3 25.7 Greek 46 33.16 66.84 0 19.7 80.03 61.9 33.8 4.3 76.3 23.7 Italian 50 35.2 64.8 0 21.6 78.4 72.2 24.6 3.2 76 24
+
+mutant allele was 5.5, 4.3 and 3.2% in Tunisian, Greek and populations, respectively. We also examined the Chit activity in collected from oldest old subjects and from control subjects. Tunisian, Greek and Italian oldest groups, the plasma Chit activity were higher in subjects homozygous for the wild-type allele than those heterozygous for the mutant allele (Table 3; Figure 1a–c). control subjects, the level of plasma Chit activity was comparable that found in oldest old subjects, in relation to the allele (Table 3; Figure 1a–c).
+
+nonagenarian and centenarian population from the different Medi- terranean areas. The absence of homozygous individuals in the very old group deviates significantly from the expectations of Hardy–Weinberg equilibrium. In the oldest group, the frequency of this mutant allele was 72.7, 80.03 and 78.4% in Tunisian, Greek and Italian populations, respectively, whereas the frequency of the wild- type allele was 27.3, 19.7 and 21.6% in Tunisian, Greek and Italian populations, respectively (Table 2). In contrast, in control subjects, the heterozygote frequency for 24-bp duplication was 25.7, 23.7 and 24% in Tunisian, Greek and Italian populations, respectively (Table 2). In the oldest old group, no subject was found homozygous for CHIT-1 deficiency, whereas in the control group, the incidence of homozygous
+
+DISCUSSION
+
+In this study, we compared the distribution of the CHIT-1 poly- morphism genotype in two groups comprising different populations
+
+deletion of 87 nucleotides and enzyme deficiency, was not significantly different among the oldest old subjects from different Mediterranean populations, whereas it was significantly different between oldest old subjects and control subjects, being highest among oldest old subjects and lowest among control groups. In the oldest old group, no subject was found homozygous for CHIT-1 deficiency, whereas in the control group, the incidence of HH mutant allele was 4.4% in Tunisians, 3.12% in Greeks and 5.31% in Italians. We also found that the mean enzymatic activity for the oldest subjects was lower than that in control groups. This study indicates that the heterozygosity of the 24-bp duplication in the CHIT-1 gene could have a protective effect in human longevity.
+
+Table 3 Chit activity in elderly and control groups
+
+Elderly Controls Chit activity Populations Wt Wt/H Wt Wt/H Tunisian 33 183.4±9 40.4±18.7* 188.5±13.8 50.3±22.8* Greek 46 156.8±42 31.3±8.8* 209.6±17.6 53.7±16.3* Italian 50 177.2±16.3 49±21* 195.3±13.6 58.4±19*
+
+Greek 46 156.8±42 31.3±8.8* 209.6±17.6 53.7±16.3* Italian 50 177.2±16.3 49±21* 195.3±13.6 58.4±19* Wt/H versus WT:*Po0.001. 250 Tunisian Population 200 Control WT 150 Elderly WT Control WT/H Elderly WT/H 100 50 0 0 5 10 15 20 25 30 35 subjects Greek Population 300 250 200 Control WT 150 Elderly WT Control WT/H 100 Elderly WT/H 50 0 0 10 20 30 40 subjects 250 Italian Population 200 150 Control WT Elderly WT 100 Control WT/H Elderly WT/H 50 0 0 5 10 15 20 25 30 35 40 45 h/lm/lomnh/lm/lomnh/lm/lomn
+
+Wt/H versus WT:*Po0.001.
+
+It is noteworthy that CHIT-1, as an important factor in inflamma- tion,15 could have widespread effects on aging phenotypes, particularly on cardiovascular disease23–24 and dementia,26–27 and as such may influence the ability to achieve a long and healthy life. In fact, the baseline examination suggested that oldest old subjects were markedly healthier than controls, despite the fact that these subjects were, on an average, 30–37 years older. The oldest old subjects possessed signifi- cantly less age-related disease, including less prevalent CHD, stroke and degenerative diseases. They also had better self-rated health and generally high physical function, including less difficulty during walking. Interestingly, despite being more than three decades older than controls, the longevity cases had similar levels of cognitive function. This supports the existence of a ‘healthy aging’ phenotype in which individuals somehow delay or avoid major clinical disease and disability until late in life. Although previous studies have suggested that CHIT-1-deficient individuals show a certain degree of disadvantage, such as increased susceptibility to parasitic disease infections, to microorganisms containing chitin and to Gram-negative infections,17,31–35 other studies indicate that CHIT-1 deficiency is not a disadvantage but rather a selective advantage.36–37 Given the very high gene frequency of the main mutant allele, as shown in this study, it seems more likely that in humans, selection has occurred in the direction of decreasing or eliminating the activity of this enzyme. Therefore, it seems reasonable to look for an advantage, not of sufficient enzyme activity, but rather of deficient enzyme activity. In fact, in some Asian populations, the allele frequency of the insertion mutation is higher than that of the allele without the insertion.38 The evidence showing that chitins stimulate macrophages to produce interleukin (IL)-12, IL-18 and TNF-a39 supports the consideration that a deficiency of CHIT-1 confers a selective advantage. In addition, it has been demonstrated that chitins had T helper 1 (TH-1) adjuvant activity in developing immunity against a mycobacterial antigen,40 suggesting that Chit might modulate the circulating concentration of chitins and regulate immune responses. Therefore, Chit deficiency might provide individuals with an advantage in mounting an immune response against Mycobacterium. In summary, all evidence supports a potential role of CHIT-1 in human health, aging and longevity.
+
+case–control design. This study design selects cases and controls from an ongoing cohort study with longitudinally collected data. Therefore, several phenotypes of interest (for example, disease prevalence, health status and functions) were obtained by direct clinical examination when participants were younger, making the data less subject to recall bias. Undeniably, studies on exceptional survivors, such as centenar- ians, which have found evidence for phenotypes suggestive of slower aging, could suffer from significant recall bias. Namely, older partici- pants may not precisely recall their past medical history and functional status. However, in this study, a morbidity committee adjudicated major diseases, and performance-based measures of physical and
+
+Figure 1 The genotype of the 24-bp duplication in exon 10, homozygous wild-type (WT) and heterozygous mutant (WT/H) subjects was analyzed for Chit activity (value expressed as nmolml(cid:3)1h(cid:3)1) as described in Materials and methods: (a) Tunisian subjects, (b) Greek subjects and (c) Italian subjects. All zero (0) enzyme activity levels for homozygous mutant (HH) alleles were not included.
+
+from the Mediterranean area: a longevity group (129 subjects) aged over 90 years and a control group aged 60–70 years. We found that the heterozygote frequency for a 24-bp duplication, leading to an in-frame
+
+cognitive function were used to supplement self-reports, and evidence was found for such a healthy aging phenotype.
+
+atherosclerosis: Chitotriosidase and human cartilage gp-
+
+expressed in lesion phages. Arterioscler Throm
+
+asc. Biol.
+
+,
+
+–
+
+(
+
+). Artieda, M., Cenarro, A., Ganan, A., Jerico´, I., Gonzalvo, C., Casado, J. M. et al. chitotriosidase activity is increased in subjects with atherosclerosis disease. cler. Thromb. Vasc. Biol.
+
+,
+
+–
+
+(
+
+). Artieda, M., Cenarro, A., Gan˜a´n, A., Lukic, A., Moreno, E., Puzo, J. et al. events independently of C-reactive protein. Cardiology
+
+,
+
+–
+
+(
+
+). Ross, R. Atherosclerosis: an inflammatory disease. N. Engl. J. Med.
+
+, (
+
+). Libby, P.,Ridker, P. M.& Maseri,A.Inflammationand atherosclerosis.Circulation
+
+–
+
+(
+
+). Moreno, P. R., Falk, E., Palacios, I. F., Newell, J. B., Fuster, V. & Fallon, J. Macrophage infiltration in acute coronary syndromes. Implications for plaque Circulation
+
+,
+
+–
+
+(
+
+). Karadag, B., Kucur, M., Isman , F, Hacibekiroglu, M. & Vural, V. A. Serum sidase activity in patients with coronary artery disease. Circ. J.
+
+,
+
+–
+
+(
+
+). Sotgiu, S., Barone, R., Zanda, B., Arru, G., Fois, M. L., Arru, A. et al. Chitotriosidase patients with acute ischemic stroke. Eur. Neurol.
+
+,
+
+–
+
+(
+
+). Di Rosa, M., Dell’Ombra, N., Zambito, A. M., Malaguarnera, M., Nicoletti, F. Malaguarnera, L. Chitotriosidase and inflammatory mediator levels in disease and cerebrovascular dementia. Eur. J. Neurosci.
+
+,
+
+–
+
+(
+
+). Casal, J. A., Robles, A. & Tutor, J. C. Serum markers of monocyte/macrophage activation in patients with Alzheimer’s disease and other types of dementia. Biochem.
+
+,
+
+–
+
+(
+
+). Malaguarnera, L., Di Rosa, M., Zambito, A. M., Dell’Ombra, N., Nicoletti, F. Malaguarnera, M. Chitotriosidase gene expression in Kupffer cells of fatty liver disease patients. Gut
+
+,
+
+–
+
+(
+
+). Malaguarnera, L., Di Rosa, M., Zambito, A. M., Dell’Ombra, N., Di Marco, R. Malaguarnera, M. Potential role of chitotriosidase gene in nonalcoholic fatty disease evolution. Am. J. Gastroenterol.
+
+,
+
+–
+
+(
+
+). Kurt, I., Abasli, D., Cihan, M., Serdar, M. A., Olgun, A., Saruhan, E. et al. sidase levels in healthy elderly subjects. Ann. NY Acad. Sci.
+
+–
+
+(
+
+). Hise, A. G., Hazlett, F. E., Bockarie, M. J., Zimmerman, P. A., Tisch, D. J. & Kazura, W. Polymorphisms of innate immunity genes and susceptibility to lymphatic Genes Immun.
+
+,
+
+–
+
+(
+
+). Choi, E. H., Zimmerman, P. A., Foster, C. B., Zhu, S., Kumaraswami, V., Nutman, T. et al. Genetic polymorphisms in molecules of innate immunity and susceptibility infection with Wuchereria bancrofti in South India. Genes Immun.
+
+,
+
+–
+
+(
+
+). Lehrnbecher, T., Bernig, T., Hanisch, M., Koehl, U., Behl, M., Reinhardt, D. et Common genetic variants in the interleukin-
+
+and chitotriosidase genes are with the risk for serious infection in children undergoing therapy for acute leukemia. Leukemia
+
+,
+
+–
+
+(
+
+). Masoud, M., Rudensky, B., Elstein, D. & Zimran, A. Chitotriosidase deficiency survivors of Candida sepsis. Blood Cells Mol. Dis.
+
+,
+
+–
+
+(
+
+). Choi, E. H., Taylor, J. G., Foster, C. B., Walsh, T. J., Anttila, V. J., Ruutu, T. et Common polymorphisms incritical genes of innate immunity doesnot contribute risk for chronic disseminated candidiasis in adult leukemia patients. Med. Mycol.
+
+–
+
+(
+
+). Piras, I., Falchi, A., Melis, A., Ghiani, M. E., Calo`, C. M., Varesi, L. et al.
+
+duplication of CHIT
+
+gene is not correlated with coronary artery disease in Island (France). Exp. Mol. Pathol.
+
+,
+
+–
+
+(
+
+). Piras, I., Melis, A., Ghiani, M. E., Falchi, A., Luiselli, D., Moral, P. et al. Human gene distribution: new data from Mediterranean and European populations. J. Genet.
+
+,
+
+–
+
+(
+
+). Lee, P., Waalen, J., Crain, K., Smargon, A. & Beutler, E. Human polymorphisms G
+
+R and A
+
+V associated with reduced enzyme activity. Cells Mol. Dis.
+
+,
+
+–
+
+(
+
+). Shibata, Y., Foster, L. A., Kurimoto, M., Okamura, H., Nakamura, R. M., Kawajiri, et al. Immunoregulatory roles of IL-
+
+in innate immunity: IL-
+
+inhibits production of IFN gamma-inducing factors but enhances NK cell production of gamma. J. Immunol.
+
+,
+
+–
+
+(
+
+). Shibata, Y., Honda, I., Justice, J. P., Van Scott, M. R., Nakamura, R. M., Myrvik, Q. et al. Th
+
+adjuvant N-acetyl-D-glucosamine polymer up-regulates Th
+
+immunity down-regulates Th
+
+immunity against a
+
+- knockout and wild-type mice. Infect. Immun.
+
+,
+
+–
+
+(
+
+).
+
+In conclusion, we found that a common, natural genetic variation within the CHIT-1 gene was strongly associated with human longevity and was also associated with several phenotypes of healthy aging. A further study of the CHIT-1 polymorphism and aging phenotypes is warranted in other populations.
+
+ACKNOWLEDGEMENTS
+
+This study was supported by an FIRS grant No 9775 from MIUR (Ministero dell’Universita` e Ricerca Scientifica).
+
+Velkoff, V. Centenarians in the United States,
+
+and beyond. Stat. Bull. Insur. Co.
+
+,
+
+–
+
+(
+
+).
+
+Risch,N. & Zhang,H. Extremediscordantsibpairsformapping humans. Science
+
+,
+
+–
+
+(
+
+).
+
+Debono, M. & Gordee, R.S.Antibiotics that inhibit fungal cellwall Rev. Microbiol.
+
+,
+
+–
+
+(
+
+).
+
+Araujo, A. C., Souto-Padron, T. & de Souza, W. Cytochemical localization of drateresidues in microfilariae of Wuchereria bancroftiand Cytochem.
+
+,
+
+–
+
+(
+
+).
+
+Boot, R. G., Renkema, G. H., Verhoek, M., Strijland, A., Bliek, J., de Meulemeester, M. et al. The human chitotriosidase gene. Nature of inherited enzyme J. Biol. Chem.
+
+,
+
+–
+
+(
+
+).
+
+van Eijk, M., van Roomen, C. P., Renkema, G. H., Bussink, A. P., Andrews, Blommaart, E. F. et al. Characterization of human phagocyte-derived a component of innate immunity. Int. Immunol.
+
+,
+
+–
+
+(
+
+).
+
+Hollak, C. E., van Weely, S., van Oers, M. H. & Aerts, J. M. Marked elevation of chitotriosidase activity. A novel hallmark of Gaucher disease. J. Clin. Invest.
+
+,
+
+(
+
+).
+
+Brinkman, J., Wijburg, F. A., Hollak, C. E., Groener, J. E., Verhoek, M., Scheij, S. et Plasma chitotriosidase and CCL
+
+: early biochemical surrogate markers in type Niemann–Pick disease. J. Inherit. Metab. Dis.
+
+,
+
+–
+
+(
+
+).
+
+Michelakakis, H., Dimitriou, E. & Labadaridis, I. The expanding spectrum of with elevated plasma chitotriosidase activity: an update. J. Inherit. Metab. Dis.
+
+–
+
+(
+
+).
+
+Guo, Y., He, W., Boer, A. M., Wevers, R. A., de Bruijn, A. M., Groener, J. E. et Elevated plasma chitotriosidase activity in various lysosomal storage J. Inherit. Metab. Dis.
+
+,
+
+–
+
+(
+
+).
+
+Malaguarnera, L. Chitotriosidase: the yin and yang. Cell Mol. Life Sci.
+
+, (
+
+).
+
+Di Rosa, M., Zambito, A. M., Marsullo, A. R., Volti, G. L. & Malaguarnera, L. induces chitotriosidase expression in human macrophages through PTK, PI
+
+-K, MAPK pathways. J. Cell Biochem.
+
+,
+
+–
+
+(
+
+).
+
+Di Rosa, M., Musumeci, M., Scuto, A., Musumeci, S. & Malaguarnera, L. Effect interferon-gamma, interleukin
+
+, lipopolysaccharide and tumor necrosis on chitotriosidase synthesis in human macrophages. Clin. Chem. Lab. Med.
+
+–
+
+(
+
+).
+
+Malaguarnera, L., Musumeci, M., Licata, F., Di Rosa, M., Messina, A. & Musumeci, Prolactin induces chitotriosidase gene expression in human monocyte-derived phages. Immunol. Lett.
+
+,
+
+–
+
+(
+
+).
+
+Malaguarnera, L., Musumeci, M., Di Rosa, M., Scuto, A. & Musumeci, S. gamma, tumor necrosis factor- alpha, and lipopolysaccharide promote gene expression in human macrophages. J. Clin. Lab. Anal.
+
+,
+
+–
+
+(
+
+).
+
+Canudas, J., Cenarro, A., Civeira, F., Garc´ı-Otı´n, A. L., Ar´ıstegui, R., D´ıaz, C. et Chitotriosidase genotype and serum activity in subjects with combined effect of the lipid-lowering agents, atorvastatin and bezafibrate. Metabolism
+
+–
+
+(
+
+).
+
+Malaguarnera, L., Simpore`, J., Prodi, D. A., Angius, A., Sassu, A., Persico, I. et A
+
+-bp duplication in exon
+
+of human chitotriosidase gene from the sub-Saharan the Mediterranean area: role of parasitic diseases and environmental conditions. Immun.
+
+,
+
+–
+
+(
+
+).
+
+Boot, R. G., van Achterberg, T. A., van Aken, B. E., Renkema, G. H., Jacobs, M. Aerts, J. M. et al. Strong induction of members of the chitinase family of proteins

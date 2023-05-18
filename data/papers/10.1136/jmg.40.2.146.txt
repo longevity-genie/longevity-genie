@@ -1,0 +1,231 @@
+Relationship between microsatellite polymorphism in the haem oxygenase-1 gene promoter and longevity of the normal Japanese population
+
+M Yamaya, K Nakayama, S Ebihara, H Hirai, S Higuchi, H Sasaki
+
+JMedGenet2003;40:146–148
+
+xidative stress is associated with the pathogenesis of O various diseases such as cancer, pulmonary disease, and cardiovascular and cerebrovascular disease.1–3 In addition to environmental factors, genetic factors may be involved in determining a person’s susceptibility to diseases induced by oxidative stress. Although it is not obvious that these genotypes might be more frequent in older people,as the majority of the elderly are subject to age related disorders, healthy elderly people with some protective genetic back- ground may escape from age related disorders and can reach an advanced age.
+
+• We screened the frequencies of alleles with varying numbers of (GT) repeats in the HO-
+
+gene in n healthy Japanese subjects. • The proportion of allelic frequencies in class L with a large size of (GT) repeat, as well as the genotypic n quencies in group I with class L alleles, was lower in the oldest male subjects than in the younger males. In contrast, in the oldest female subjects, the portion of allelic frequencies in class L and the frequencies in group I with class L alleles, did not from that in the other female subjects. • The present study suggests that a large (GT) repeat n the HO-
+
+gene promoter may be a genetic factor that prevents the attainment of old age in male Japanese subjects.
+
+Haem oxygenase (HO) oxidatively degrades haem to biliverdin, which is subsequently reduced to bilirubin, an effi- cient scavenger of reactive oxygen species, by biliverdin reductase.4 Because not only HO-1, an inducible form of HO, but also a constitutive form of HO, including HO-2, provide cellular protection against haem and non-haem mediated oxi- dant injury,4 HO is suggested to have an important role in pro- tection against various reactive oxygen species.
+
+A (GT)n repeat of the rat prolactin gene is polymorphic,and this purine-pyrimidine alternating sequence, with Z confor- mation potential, negatively affects transcriptional activity in the rat prolactin gene.5 A (GT) repeat of the human HO-1 n gene is also polymorphic,6 and modulates human HO-1 gene transcription.7 We have shown that the large size (33< repeat) of a (GT) repeat in the HO-1 gene (X14782) is associated with n susceptibility to chronic pulmonary emphysema in Japanese populations and that a large (GT) repeat categorised as a class L allele inhibits HO-1 gene transcn ription induced by hydrogen peroxide in cultured cell lines.8 Based on these findings, we hypothesised that the number of (GT) repeats in the HO-1 n gene is associated with susceptibility to the development of diseases induced by oxidative stress.
+
+oldest (>75 years, 108 male and 99 female). DNA was extracted from peripheral blood leucocytes obtained from each subject, and screening of the length of the (GT) repeats n in the HO-1 gene promoter was performed with methods described previously.8
+
+Associations between groups and specific classes of allele,as well as age groups and genotype groups, were analysed for significance by the two tailed c 2 test.8 Probability values were corrected by Bonferroni’s method. Odds ratios and 95% confi- dence intervals (CIs) were calculated to assess the allelic fre- quencies with class L and the genotypic frequencies in group I with the class L allele. All subjects were Japanese and represented an ethnic isolate. Therefore, statistical artefacts caused by population stratification could be ruled out, as described by Reich and Goldstein.10 These parameters were chosen before the analysis and the present study was performed as a planned test. The HO-1 genotype distributions were in Hardy-Weinberg equilibrium.
+
+To test this hypothesis, we screened allelic frequencies of the (GT) repeats in the HO-1 gene promoter in 512 healthy n Japanese subjects (20-94 years old).
+
+SUBJECTS AND METHODS
+
+We recruited the subjects at a health screening. In order to be defined as healthy, all the subjects were interviewed on past history and present illness and their daily life style was evalu- ated. Subjects who had obvious symptoms or disabilities were excluded. Subjects with good control in response to treatment for chronic diseases such as hypertension, diabetes mellitus, and hyperlipidaemia were included. All the subjects were Japanese and were recruited from a single area.
+
+RESULTS
+
+Table 1 shows the average age and the frequencies of hypertension, diabetes mellitus, or hyperlipidaemia, risk factors for cardiovascular and cerebrovascular disease, in each group. The frequencies of hypertension, hyperlipidaemia, or diabetes mellitus were not different between subjects with or without the class L allele, except that the frequencies of diabetes mellitus were higher in older male and female subjects in group I than those in group II.
+
+The number of patients with cardiovascular and cerebrovas- cular diseases under medical supervision has increased in the Japanese population over 60 years old.9 The average life expectancy in Japan in 2000 was 77.6 years for men and 84.6 years for women. Therefore, we stratified the subjects into three age groups:younger (<60 years,59 male and 45 female), older (60 years < age <75 years,95 male and 106 female),and
+
+The distribution of the numbers of (GT)n repeats was trimodal as previously described in Japanese smokers with and without CPE,8 with one peak at 23 GT repeats and the other two peaks located close together, at 30 and 33 GT
+
+1 Average age and the number and ratio of subjects with hypertension, dialetes mellitus, or hyperlipidaemia
+
+Table 1 Average age and the number and ratio of subjects with hypertension, dialetes mellitus, or hyperlipidaemia Genotype Total (Group I + group II) Group I Group II Sex Age categories No Mean age HT DM HL No Mean age HT DM HL No Mean age HT DM HL Male Younger (<60 y) 59 29.3 3 (5) 0 (0) 1 (2) 23 29.9 1 (4) 0 (0) 0 (0) 36 28.9 2 (6) 0 (0) 1 (3) Older (>60 to 74 y) 95 69.2 39 (41) 9 (9) 18 (19) 29 69.2 13 (45) 5 (17) 7 (24) 66 69.2 26 (39) 4 (6) 11 (17) Oldest (>75 y) 108 80.5 43 (40) 16 (15) 13 (12) 22 81.6 7 (32) 3 (14) 1 (5) 86 80.2 36 (42) 13 (15) 12 (14) Female Younger (<60 y) 45 33.4 0 (0) 0 (0) 0 (0) 19 38.5 0 (0) 0 (0) 0 (0) 26 29.7 0 (0) 0 (0) 0 (0) Older (>60 to 74 y) 106 69.8 40 (38) 12 (11) 37 (34) 42 71.2 17 (40) 7 (17) 14 (33) 64 68.9 23 (36) 5 (8) 23 (36) Oldest (>75 y) 99 80.2 31 (31) 8 (8) 30 (30) 30 79.7 8 (27) 2 (7) 10 (33) 69 80.4 23 (33) 6 (9) 20 (29)
+
+Downloaded from http://jmg.bmj.com/ on June 22, 2015 - Published by group.bmj.com
+
+The ratio of subjects is expressed as (%) of subjects in each category. HT, hypertension; DM, diabetes mellitus; HL, hyperlipidaemia. Group I is the group of genotypes with a class L allele, which includes L/L, L/M, and L/S. Group II is the group of genotypes without a class L allele, which includes M/M, M/S, and
+
+2 Genotype and allele frequencies at the polymorphic locus
+
+Table 2 Genotype and allele frequencies at the polymorphic locus Allele frequencies Genotype frequencies Age categories L M•S Odds (95% Cl)† c 2, p value‡ Group I Group II Odds (95% Cl)† c 2, p value‡ Male c 2=9.76, p=0.008 c 2=6.91, p=0.032 Younger (<60 y) 27 (23%) 91 (77%) 1.98 (1.19 to 3.29)** 23 (39%) 36 (61%) 1.90 (1.04 to 3.49)+ Older (>60 to 74 y) 31 (16%) 159 (84%) 1.13 (0.70 to 1.85) 29 (31%) 66 (69%) 1.19 (0.68 to 2.07) Oldest (>75 y) 22 (10%) 194 (90%) 0.49 (0.29 to 0.82)** 22 (20%) 86 (80%) 0.50 (0.28 to 0.89)++ Female c 2=3.78, p=0.15 c 2=2.72, p=0.26 Younger (<60 y) 20 (22%) 70 (78%) 1.24 (0.71 to 2.15) 19 (42%) 26 (58%) 1.35 (0.70 to 2.20) Older (>60 to 74 y) 47 (22%) 165 (78%) 1.36 (0.87 to 2.11) 42 (40%) 64 (60%) 1.27 (0.76 to 2.14) Oldest (>75 y) 30 (15%) 168 (85%) 0.63 (0.39 to 1.00) 30 (30%) 69 (70%) 0.64 (0.38 to 1.10) Total c 2=11.8, p=0.0027 c 2=8.84, p=0.012 Younger (<60 y) 47 (23%) 161 (77%) 1.54 (1.06 to 2.24)* 42 (40%) 62 (60%) 1.57 (1.01 to 2.44)++ Older (>60 to 74 y) 78 (19%) 324 (81%) 1.27 (0.92 to 1.76) 71 (35%) 130 (65%) 1.26 (0.87 to 1.84) Oldest (>75 y) 52 (13%) 362 (87%) 0.56 (0.39 to 0.79)*** 52 (25%) 155 (75%) 0.57 (0.39 to 0.84)+++
+
+Group I is the group of genotypes with a class L allele, which includes L/L, L/M, and L/S. Group II is the group of genotypes without a class L allele, which includes M/M, M/S, and S/S. †Odds for class L allele in the indicated age category versus those in all other age categories. ‡c 2 and p value were calculated for differences among the three age categories. §Odds for group I in the indicated age category versus those in all other age categories. *p<0.03, **p<0.01, ***p<0.001. +p<0.05, ++p<0.02, +++p<0.005.
+
+in the HO-1 gene promoter may be a genetic factor that prevents the attainment of old age in Japanese males. There was no oldest male subject with the L/L genotype.On the other hand, the frequency of the L/S genotype in the oldest male subjects (8%) was significantly lower than that in younger (20%) and older (16%) male subjects. In contrast, in female subjects,the frequency of the L/S genotype in the oldest (12%) subjects did not differ significantly from that in the younger (16%) and older (16%) male subjects. These findings suggest that L/S genotypes may be an intermediate risk factor.
+
+n grouped into three classes, according to the numbers of (GT)n repeats, as described previously8: class S alleles (<27 repeats), class M alleles (27-32 repeats), and class L alleles (33 < repeats). As shown in table 2, the proportion of allelic frequencies in class L was significantly lower in the total old- est subjects (52 (13%)) than in the total other younger (47 (23%)) and older (78 (19%)) subjects (df=2, c 2=11.8, p=0.0027) (table 2). Similarly, in the oldest male subjects, the proportion of allelic frequencies in class L was significantly lower than that in other male younger and older subjects (df=2, c 2=9.78, p=0.008). In the oldest female subjects, the proportion of allelic frequencies in class L was also lower than that in other female younger and older subjects, although there was no significant difference (df=2, c 2=0.38, p=0.15). The odds ratio for class L in the total oldest subjects versus the total younger and older subjects was 0.56 (95% CI 0.39 to 0.79, p<0.001). Particularly, the odds ratio for class L in the oldest males versus the younger males and older subjects was 0.49 (95% CI 0.29 to 0.82, p<0.01).
+
+Because bilirubin has antioxidant activities,4 increased pro- duction of HO-1 may be associated with protection from the development of diseases induced by oxidative stress and may promote longevity in the male subjects with a small (GT) n repeat in the HO-1 gene promoter.
+
+
+
+Authors’ affiliations
+
+M Yamaya, K Nakayama, S Ebihara, H Hirai, H Sasaki, Department of Geriatric and Respiratory Medicine, Tohoku University School of Medicine, Sendai 980-8574, Japan S Higuchi, National Institute on Alcoholism, Kurihama National Hospital,
+
+The proportion of genotypic frequencies in group I with a class L allele (L/L, L/M, and L/S) was compared with that in group II without a class L allele (M/M, M/S, and S/S). The pro- portion of genotypic frequencies in group I was significantly lower in the oldest subjects (52 (25%)) than that in the total younger (42 (40%)) and older (71 (35%)) subjects (df=2, c 2=8.84, p=0.012). Similarly, in the oldest male subjects, the proportion of genotypic frequencies in group I was signifi- cantly lower than that in the other male subjects (df=2, c 2=6.91, p=0.032). In the oldest female subjects, the proportion of genotypic frequencies in group I was also lower than that in other female subjects, although there was no sig- nificant difference (df=2, c 2=2.72,p=0.26).The odds ratio for group I in the oldest subjects versus other younger and older subjects was 0.57 (95% CI 0.39 to 0.84, p<0.005) in the total subjects and 0.50 (95% CI 0.28 to 0.89, p<0.02) in male sub- jects, respectively. Furthermore, homozygosity for the class L allele (L/L genotype) was not observed in either the male or female oldest subjects.
+
+Correspondence to: Dr H Sasaki, Department of Geriatric and Respiratory Medicine, Tohoku University School of Medicine, 1-1 Seiryo-machi, Aoba-ku, Sendai 980-8574, Japan; dept@geriat.med.tohoku.ac.jp
+
+REFERENCES
+
+cancer: an overview. Cance
+
+es
+
+;
+
+:
+
+-
+
+Diaz MN, Frei B, Vita JA, Keaney JF Jr. Antioxidants and atherosclerotic heart disease. NEng
+
+Med
+
+;
+
+:
+
+-
+
+Robertson FW, Cumming AM. Genetic and environmental variation in serum lipoproteins in relation to coronary heart disease. JMe
+
+enet
+
+;
+
+:
+
+-
+
+Maines MD. The heme oxygenase system: a regulator of second messenger gases. Ann
+
+e
+
+harmaco
+
+oxicol
+
+;
+
+:
+
+-
+
+Nylor LH, Clark EM. d(TG)n+d(CA) sequences upstream of the rat prolactin gene form Z-DNA and inhibit gene transcription. Nuclei
+
+cids Res
+
+;
+
+:
+
+-
+
+Kimpara T, Takeda A, Watanabe K, Itoyama Y, Ikawa S, Watanabe M, Arai H, Sasaki H, Higuchi S, Okita N, Takase S, Saito H, Takahashi K, Shibahara S. Microsatellite polymorphism in the human heme oxygenase-
+
+gene promoter and its application in association studies with Alzheimer and Parkinson disease. Hu
+
+enet
+
+;
+
+:
+
+-
+
+Okinaga S, Takahashi K, Takeda K, Yoshizawa M, Fujita H, Sasaki H, Shibahara S. Regulation of human heme oxygenase-
+
+gene expression under thermal stress. Blood
+
+;
+
+:
+
+-
+
+Yamada N, Yamaya M, Okinaga S, Nakayama K, Sekizawa K, Shibahara S, Sasaki H. Microsatellite polymorphism in the heme oxygenase-
+
+gene promoter is associated with susceptibility to emphysema. A
+
+Hu
+
+enet
+
+;
+
+:
+
+-
+
+(Erratum, A
+
+Hum Genet
+
+;
+
+:
+
+)
+
+Statistics and Information Department, Minister’s Secretariat, Ministry of Health and Welfare Health, Health and Welfare Statistics Association. All patients under medical consultation, according to sex, age group and classification of diseases,
+
+In: Statisticalabstractsonhealthand welfarei
+
+apan. Tokyo: Statistics and Information Department, Minister’s Secretariat, Ministry of Health and Welfare Health, Health and Welfare Statistics Association,
+
+:
+
+-
+
+Reich DE, Goldstein DB. Detecting association in a case-control study while correcting for population stratification. Gene
+
+pidemiol
+
+;
+
+(suppl):
+
+-
+
+Hazzard WR. Biological basis of the sex differential in longevity. JAm Geriat
+
+oc
+
+;
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, Colonna-Romano G, Candore G, Bonafe M, Cavallone L, Franceschi C, Caruso C. Gender-specific association between –
+
+IL-
+
+promoter polymorphism and longevity. Genes Immunity
+
+;
+
+:
+
+-
+
+DISCUSSION
+
+We screened the frequencies of alleles with varying numbers of (GT) repeats in the HO-1 gene in 512 healthy Japanese n subjects. The proportion of allelic frequencies in class L with a large (GT) repeat, as well as the genotypic frequencies in n group I with class L alleles, was significantly lower in the old- est male subjects than in the other male subjects. In contrast, in the oldest female subjects, the proportion of allelic frequen- cies in class L, as well as the genotypic frequencies in group I with class L alleles, did not differ from that in other female subjects.
+
+The precise reason is uncertain why the size of a (GT) n repeat in the HO-1 gene promoter was not associated with the longevity of female subjects. However, many studies have shown that men and women follow different paths to attain longevity.11 12 This survival gene polymorphism may be less important in females, although several gender specifics have been reported to prevent the attainment of old age in female subjects.11 The present study suggests that a large (GT) repeat n
+
+Relationship between microsatellite polymorphism in the haem oxygenase-1 gene promoter and longevity of the normal Japanese population
+
+M Yamaya, K Nakayama, S Ebihara, H Hirai, S Higuchi and H Sasaki
+
+This article cites 10 articles, 4 of which you can access for free at: http://jmg.bmj.com/content/40/2/146#BIBL
+
+Email alerting service
+
+Receive free email alerts when new articles cite this article. Sign up in the box at the top right corner of the online article.
+
+Articles on similar topics can be found in the following collections
+
+Notes
+
+http://group.bmj.com/group/rights-licensing/permissions

@@ -1,0 +1,197 @@
+www.elsevier.com/locate/mechagedev
+
+Polymorphisms in the human homologue of the drosophila Indy (I’m not dead yet) gene
+
+Pauline Lee *, Ngoc Ho, Terri Gelbart, Ernest Beutler
+
+Division of Hematology, Department of Molecular and Experimental Medicine, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA
+
+Received 10 April 2003; received in revised form 30 May 2003; accepted 11 June 2003
+
+Abstract
+
+Insertion of a P element in one copy of the Drosophila Indy gene results in a significant increase in Drosophila lifespan. In order to examine whether mutations or polymorphisms in the human Indy gene promoted human longevity, the Indy gene was sequenced in 13 subjects of age 90(cid:1)99, 12 subjects between age 38(cid:1)49 and 18 subjects Bage 23. Three coding region polymorphisms resulting / / / in an amino acid change, F62L, V80L and I550V, two silent coding region polymorphisms, A99A and I551I, and three intron polymorphisms, IVS2(cid:2)10 C deletion, IVS9(cid:2)40T/A and IVS10(cid:2)38C/T were identified. The I550V polymorphism occurred in / / / whites, Hispanics, Asians and African(cid:1)Americans at allele frequencies of 0.3514, 0.5104, 0.4274 and 0.5375, respectively. The I550V / polymorphism was genotyped in 2366 subjects and examined for its association with age and weight. # 2003 Elsevier Ireland Ltd. All rights reserved.
+
+Keywords: Aging; Indy; NADC; SLC13A2; Polymorphism; Sodium dependent dicarboxylate transporter
+
+span by interference with normal metabolism resulting in ‘‘caloric restriction’’, because the expression of this gene in flies was limited to the fat body, midgut, and oenocytes, organs that are primary sites of intermediate metabolism, absorption, and metabolic storage.
+
+1. Introduction
+
+melanogaster and in Caenorhabditis elegans have been associated with increased life span. While aging in humans is clearly a complex phenomenon with a strong environmental component, there seems to be a genetic component as well (Cournil and Kirkwood, 2001). Accordingly, it seemed worthwhile to examine the gene that appears to have the most profound effect in D. melanogaster, viz. Indy (an acronym for I’m not dead yet) (Rogina et al., 2000), to determine whether it has an effect on human lifespan, or any other aspect of human health. In Drosophila interruption of Indy by a P element results in doubling of the life span in hetero- zygotes and a more modest increase in homozygotes. It was suggested (Rogina et al., 2000) that interruption of the Indy gene in D. melanogaster exerts its effect on life-
+
+The Indy gene encodes a sodium dicarboxylate transporter protein (NADC). There are two Indy homologues in Drosophila, Indy and Indy 2. There are four Indy homologues in humans, NADC1, NADC2, NADC3 and NADC4 and two homologues in rat, SDCT1 and SDCT2. The closest human homologue of Indy is the sodium-dependent dicarboxylate transporter, member 2 (also called NADC2 or SLC13A2) (cDNA Genbank NM_003984, gene AC005726). It seemed possible that polymorphisms in the human analogue of the Indy gene might affect lifespan. We have, therefore, sequenced the Indy gene in 13 subjects age 90(cid:1)99 and 30 / subjects 5age 49 to identify potential ‘‘longevity / promoting’’ mutations and genotyped 2366 normal subjects for the common I550V polymorphism to determine whether it has any effect on aging or on body weight.
+
+* Corresponding author. Tel.: (cid:
+
+)
+
+-
+
+-
+
+-
+
+; fax: (cid:
+
+)
+
+-
+
+-
+
+- / /
+
+0047-6374/03/$ - see front matter # 2003 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/S0047-6374(03)00149-0
+
+Table 2
+
+Oligomers used for allele specific oligomer hybridization of the F62L (186C0G), V80L (238 G0C) and I550V (1648 A0G) polymorph- / / / isms in the Indy gene
+
+Anonymized DNA samples for this study were obtained from consenting subjects who had participated in a large epidemiological study (Beutler et al., 2000). No patient identifiers were associated with the samples; only age, height, weight and ethnic origin.
+
+3. Results
+
+3.1. Identification of single nucleotide polymorphisms (SNPs) by complete sequencing of the coding region
+
+Amplification and sequencing was performed using the oligomers and conditions described in Table 1. Sequence analysis was done on a ABI Model 377 automatic sequencer.
+
+Complete sequencing of the coding region of the Indy gene was performed on 13 subjects between the age of 90 and 99, 12 subjects between the ages of 38(cid:1)49 and 18 / subjects Bage 23. Three polymorphisms resulting in / amino acid changes in the human Indy gene (human NADC2) were identified by direct sequencing (Fig. 1).
+
+For larger scale studies allele specific oligonucleotide hybridization (ASOH) was performed on the nt 186 C0 / G (F62L), nt 238 G0C (V80L) and nt 1648 A0G / / (I550V) polymorphisms with previously described meth- ods (Beutler and Gelbart, 2000) using oligomers de- scribed in Table 2.
+
+The first polymorphism was identified at nt 1648 A0 / G (I550V). The frequency of the G allele was 0.4615 in the 13 subjects age 90(cid:1)99 and 0.3167 in the 30 subjects / 549. The isoleucine at this position is not conserved /
+
+Primers used to amplify and sequence the human Indy gene
+
+Primer name 5?(cid:1)3? sequence Annealing / Size bp Temperature (8C) DMSO Indy Ex 1 Top ACACTCTGATTGCCAGACTGG 343 60 NO Indy Ex 1 Bot GAAGTTATGCTGGATCCTAAGG Indy Ex 2 Top TCTGACAGACAGGAGGTGGCAT 286 62 NO Indy Ex 2 Bot CCTTTGTCAACAAGGGCTGAG Indy Ex 3 Top AATGTCAGTGACTGCATCCCAT 631 62 NO Indy Ex 4 Bot TCCAAGATGACCAGCCCTCG Indy Ex 5 Top TGGGCTGTTCACAGACAAGGT 601 62 NO Indy Ex 6 Bot TTTTCCACATCTGCACCCAACT Indy Ex 7 Top CCTCAGCCTTTAGATGGTAGG 404 60 NO Indy Ex 7 Bot GTTACCTCCTGTTCTGCAATG Indy Ex 8 Top GGCTTGTCTATGGGAGAGGCT 276 62 5% Indy Ex 8 Bot CTGCCAAGTGTGGTGGAAGGT Indy Ex 9 Top AAGGCCTGTTTGTTCTTTGGTG 257 60 5% Indy Ex 9 Bot CCTCTGTGGGACAGAAGCAG Indy Ex 10 Top GCAGGAGCCTCATAGAGCCT 328 62 NO Indy Ex 10 Bot AGGATACTCTGCCCAGCAGG Indy Ex 11 Top GTTCCCCAGAGAAGCAGGAG 314 62 NO Indy Ex 11 Bot TGGCTTTAAGCTGCTTTGTGGT Indy Ex 12 Top TTGCTGGTAGGAGGGCTCCT 451 60 NO Indy Ex 12 Bot TTCCAGCACATAGGAAACTGAG
+
+enegydnIehtfoseicneuqerfepytolpaH selella68(cid:4)nycneuqerFI155I3561tn21xEV055I8461tn21xE83(cid:2)01SVI04(cid:2)9SVIA99A792tn3xEL08V832tn3xEC5roC401(cid:2)2SVIL26F681tn2xEepytolpaH //// 5645.0CACTGG4C1 6232.0CGCTAG5C2 3611.0CGCTGG5C3 9430.0CACTGG5C4 6110.0TGCTGC4Ca5 1850.0CACTAG5Ca6 9100.0CGroACTGG5ro4Ga7 .epytolpahderrefnIa
+
+
+
+Fig. 1. Polymorphisms in the Indy gene. All numbering begins with the initiator methionine, ATG, as 1.
+
+between species; it is a threonine and valine in D. Melanogaster Indy and Indy-2, respectively, and alanine and leucine in rat SDCT1 and 2, respectively (Rogina et al., 2000).
+
+Two coding region polymorphisms which do not encode a change in amino acid were identified, a G0 / A at nt 297 (A99A), and a C0T polymorphism at nt / 1653 (I551I) (Fig. 1). The A99A polymorphism occurred at a frequency of 0.2097 (n(cid:4)62 alleles). The I551I / polymorphism was found on one allele in the same African American subject carrying the V80L mutation. These synonymous mutations were not examined further.
+
+enegydnIehtfoseicneuqerfepytolpaH
+
+3.1.5. Intronic SNPs
+
+Three intron polymorphisms were also observed, a C deletion at IVS2(cid:2)10, a T0A at IVS9(cid:2)40 and a C0T / / / / at IVS10(cid:2)38 (Fig. 1). The IVS2(cid:2)10 C deletion / / occurred at polymorphic frequencies (0.6129 in 62 alleles) which were not significantly different between the young and old group. The IVS9(cid:2)40 and IVS10(cid:2)38 / / polymorphisms may be in linkage disequilibrium since they occurred in a single individual, a 45-year old Hispanic female. These intronic mutations were not examined further.
+
+Table 4
+
+Number of subjects and gene frequencies of the Indy nt 1648 A0G mutation in different ethnic groups /
+
+Genotype Ethnic group Alla Non-Hisp White Hispanic Asian African(cid:1)American / A/A 974 866 32 23 10 A/G 1050 891 77 25 17 G/G 342 265 35 14 13 Gene frequency (G) 0.3664 0.3514 0.5104 0.4274 0.5375
+
+a Includes subjects of mixed ancestry, and is therefore, greater than the sum of the other columns.
+
+3.2. Haplotype
+
+frequency of the two alleles in white women over 79 years of age did not differ significantly from those under 50 years of age (x2 (cid:4)0.7585; P(cid:4)0.38). Fig. 2 shows the / / cumulative age distributions of subjects with different genotypes as a quantile(cid:1)quantile plot (Wilk and Gna- / nadesikan, 1968).
+
+Seven haplotypes could be identified from the single nucleotide polymorphisms found by direct sequencing of the 43 subjects (Table 3). The first four haplotypes were observed in the homozygous state and the latter three haplotypes were inferred from heterozygous sub- jects. The relative ratio of the seven haplotypes was not statistically significant between subjects of ages 90(cid:1)99 / and subjects of ages 549 using a x2-test for indepen- / dence (P(cid:4)0.1979). /
+
+The V80L polymorphism occurs in the African American population at an allele frequency of 0.0083 (600 alleles) and was absent in the white (1522 alleles) and Asian (66 alleles) populations examined. Since the age range of the five African American subjects hetero- zygous for the V80L polymorphism ranged from 40 to 57 years, an association between the V80L polymorph- ism and aging could not be made. The valine at amino acid 80 is also not conserved between species in that it is an arginine and lysine in Drosophila Indy and Indy-2, respectively, and isoleucine and proline in rat SDCT1 and 2, respectively (Rogina et al., 2000).
+
+3.3.1. I550V
+
+The I550V polymorphism was common in the four ethnic groups examined (Table 4). The number of white subjects within different age groups and I550V geno- types are shown in Table 5. These data demonstrate that women of age (cid:3)80 had a slightly higher frequency of / the G allele (0.3764) than women B80 (0.3427), a / difference that was not quite statistically significant on a x2-test (P(cid:4)0.0762). The frequency of the 1648 G allele / in women of age (cid:3)90 was also not quite statistically / significant from women of age B90 (P(cid:4)0.0551). The / /
+
+The F62L polymorphism is a rare polymorphism or a sporadic mutation since it was not observed in 1390 additional alleles that were examined. The phenylala-
+
+Table 5
+
+Number of subjects with each Indy nt 1648 genotype at different ages among white, non-hispanic subjects
+
+Age Female Male A/A A/G G/G ALL A/A A/G G/G ALL B40 40 (55) 25 (35) 7 (10) 72 26 (39) 32 (49) 8 (12) 66 / 40(cid:1)49 39 (34) 58 (51) 17 (15) 114 45 (41) 52 (48) 12 (11) 109 / 50(cid:1)59 70 (44) 67 (42) 23 (14) 160 71 (42) 76 (46) 20 (12) 167 / 60(cid:1)69 80 (45) 72 (40) 26 (15) 178 72 (46) 66 (42) 18 (12) 156 / 70(cid:1)79 96 (46) 89 (43) 22 (11) 207 63 (48) 49 (38) 18 (14) 130 / 80(cid:1)89 231 (39) 279 (47) 80 (14) 590 21 (50) 16 (38) 5 (12) 42 / 90(cid:1)99 6 (35) 4 (24) 7 (41) 17 6 (43) 6 (43) 2 (14) 14 / G allele nt 1648 frequency 579 0.3427 (n(cid:4)1462) 0.3400 (n(cid:4)1256) / / / Age B80 0.3764a (n(cid:4)1214) 0.3214 (n(cid:4)112) / / /
+
+Numbers within the parentheses indicate the percentage of subjects with each genotype within the indicated age group. The 607 white female subjects of age B80 described here represent all of the women of age B80 participating in the large epidemiological study described in Section 2. / / a P(cid:4)0.0762 by Fisher’s exact test. /
+
+
+
+Fig. 2. Quantile(cid:1)quantile plots for ages of Indy genotypes G/G, A/A, and G/G(cid:2)A/A vs. Indy wildtype (A/A) by sex. The 458 line on the plots / / indicates where the points would fall if the distributions of the ages of the two populations were identical.
+
+nine at amino acid 62 is conserved between Drosophila Indy 2 and rat SDCT1 but not with Drosophila Indy (isoleucine) and rat SDCT2 (leucine) (Rogina et al.,
+
+between Drosophila, rodent and human Indy genes, suggesting that they were less likely to compromise the Indy protein. One of the mutations, F62L was observed only once, and then in a young individual. It was not detected in 1390 other alleles, and therefore, its effect on aging could not be determined. Another mutation V80L seemed to be limited to African(cid:1)Americans, and in the / sample of 600 African(cid:1)American alleles examined no / relationship to aging was apparent. One polymorphism, the 1648 A0G (I550V), which initial studies suggested / were in excess in the older population, was considered more extensively for its association with lifespan and body weight. An examination of 1338 female and 684 male white subjects demonstrated that the 1648 A0G / (I550V) mutation was not associated with an increase in lifespan and not related to lower body weight suggesting an effect on caloric restriction.
+
+3.4. Height and weight
+
+Because of the proposed catabolic effects of Indy mutations we calculated the average heights and weights of white subjects with different genotypes. The results, shown in Table 6, did not demonstrate an association of genotype with height and weight.
+
+4. Discussion
+
+We have identified three mutations in the human Indy gene that result in an amino acid changes. None of the
+
+Height and weight of white subjects with different Indy nt 1648 genotypes
+
+Female Male A/A (559) A/G (593) G/G (182) A/A (303) A/G (297) G/G (83) Height 63.3990.12 63.1990.11 63.5290.21 69.6590.16 69.6090.15 69.4990.36 / / / / / / Weight 151.3291.45 150.3591.30 154.5692.42 193.4091.97 191.0291.89 195.7694.31 / / / / / /
+
+Values given are mean9standard error. /
+
+Fund. The authors would like to acknowledge Dr Jill Waalen and Carol Halloran for their expert assistance.
+
+Our study involved a small number of elderly subjects (age 90(cid:1)99) and thus only the presence of a high / frequency ‘‘longevity promoting’’ mutation would have been observed. The examination of a larger elderly population would be necessary to identify less common ‘‘longevity promoting’’ haplotypes or polymorphisms in the Indy gene. Furthermore, since our study involved only unrelated subjects in a normal population, it remains possible that mutations in the Indy gene might play a role in the increased longevity seen in familial centenarians.
+
+References
+
+Beutler, E., Gelbart, T.,
+
+Large-scale screening for HFE muta- tions: methodology and cost. Genet. Testing
+
+,
+
+(cid:
+
+)
+
+/ Beutler, E., Felitti, V., Gelbart, T., Ho, N.,
+
+The effect of HFE genotypes in patients attending a health appraisal clinic. Ann. Intern. Med.
+
+,
+
+(cid:
+
+)
+
+/ Cournil, A., Kirkwood, T.B.,
+
+If you would live long, choose your parents well. Trends Genet.
+
+,
+
+(cid:
+
+)
+
+/ Rogina, B., Reenan, R.A., Nilsen, S.P., Helfand, S.L.,
+
+Extended life-span conferred by cotransporter gene mutations in drosophila. Science
+
+,
+
+(cid:
+
+)
+
+/ Wilk, M.B., Gnanadesikan, R.,
+
+Probability plotting methods for the analysis of data. Biometrika
+
+,
+
+(cid:
+
+)
+
+/
+
+Acknowledgements
+
+This is manuscript number 14417-MEM from The Scripps Research Institute. Supported by grant DK53505-04 and funds from the Stein Endowment

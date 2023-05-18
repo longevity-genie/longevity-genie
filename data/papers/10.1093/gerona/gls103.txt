@@ -1,0 +1,443 @@
+Distinguishing Between Longevity and Buffered- Deleterious Genotypes for Exceptional Human Longevity: The Case of the MTP Gene
+
+Derek M. Huffman ,1 , 2 Joris Deelen ,3 Kenny Ye , 4 Aviv Bergman ,5 Eline P. Slagboom ,3 Nir Barzilai ,1 , 2 , 6 and , 2 , 6
+
+1 Department of Medicine and 2 Institute for Aging Research, Albert Einstein College of Medicine of Yeshiva University, New York, New York . 3 Section of Molecular Epidemiology, Leiden University Medical Center, The Netherlands . 4 Departments of Epidemiology and Population Health , 5 Systems and Computational Biology , and 6 Genetics, Albert Einstein College of Medicine of Yeshiva University, New York, New York .
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Ondokuz Mayis University on November 9, 2014
+
+Address correspondence to Gil Atzmon, PhD, Department of Medicine and Genetics, Institute for Aging Research, The Albert Einstein College of Medicine, Golding Building, Suite 502b, 1300 Morris Park Avenue, Bronx, NY 10461. Email: gatzmon@aecom.yu.edu
+
+The single nucleotide polymorphism, rs2866164, in the MTP gene, has been associated with human longevity but has not been validated by subsequent longevity studies. Using our population of Ashkenazi Jews, we fi nd that the MTP CC genotype is signifi cantly overrepresented in centenarians and their offspring, as compared with controls ( p < .05). However, when we examined MTP CC genotype frequency pattern with aging, we observed a monotonic decline between ages 55 – 85 years followed by a dramatic enrichment after age 90 years, forming a U-shape pattern ( p < .05). Further- more, the M TP CC genotype was buffered by three validated longevity genotypes (p < .05). This buffering effect was found to confer an enrichment of the MTP CC genotype in centenarians, whereas their absence in CC controls resulted in poorer survivorship ( p < .05). Thus, we conclude that M TP CC is a buffered-deleterious genotype and that assessing genotype frequency across aging is essential for discerning longevity from buffered-deleterious genotypes.
+
+Key Words: Genetics — Aging — Microsomal triglyceride transfer protein — Buffering mechanism .
+
+Received October 26 , 2011 ; Accepted March 1 , 2012
+
+failed to detect any association between MTP and longevity ( 8 – 12 ) and have led several to conclude that the fi ndings of Geesaman and colleagues ( 6 ) were confounded by popula- tion stratifi cation in control participants .
+
+a lipid transfer protein found in the liver and intestine and is necessary for the proper assembly of apolipoprotein B – containing lipoproteins, very low - density lipoproteins (VLDL) , and chylomicrons ( 1 ). Gene association studies have linked haplotypes and single nucleotide polymorphisms (SNPs) in the M TP gene with several diseases and risk factors including fatty liver disease ( 2) , atherosclerotic risk factors ( 3 ), type 2 diabetes ( 4 ) , and blood pressure ( 5 ). In light of its pleiotropic effects and harmful associations with many dis- eases, it was not surprising that MTP also surfaced as one of the fi rst genes linked to exceptional human longevity ( 6 ).
+
+Because most humans die between ages 60 and 100 y ea rs, with fewer “ survivors ” populating each successive decade, one may assume that a monotonic trend (increase or decrease) in genotype prevalence with age suffi ces to discern poten- tial benefi cial longevity genes from deleterious genes. In the absence of other diseases, such a trend could provide a unique opportunity for genetic analysis of longevity. Indeed, a monotonic increase in genotype frequency with aging suggests that it may confer a survival advantage, as we and others have shown for four genotypes: CETP ( VV ) [rs5882] ( 13 ), A POC3 (C C ) [rs2542052] ( 14 ), A dipoQ (d el/del APM1 +2019) [rs56354395] (1 5) , and most recently, FOXO3a ( 16 , 17 ). Conversely, it is expected that higher prevalence of harmful genotypes in a cohort will result in increasing rates of mortality in that cohort, leading to a monotonic decline in deleterious genotype frequency over time. However, it has been observed that centenarian popu- lations are carriers of some variants of deleterious genes, even at levels comparable to or greater than younger control groups ( 18 , 19 ).
+
+U sing sibpair analysis on centenarians and their siblings, Puca and colleagues (7 ) performed the fi rst genomic screen- ing for exceptional human longevity and reported linkage with a region on chromosome 4. Fine mapping of the candi- date region uncovered two SNPs, Q95H [rs61733139] , and rs2866164 in the M TP gene ( 6 ). By comparing a population of exceptionally long-lived individuals residing in the United States (mean age 100.8 y ea rs) to a younger U.S. control cohort (mean age 38.6 y ea rs), it was found that the minor allele of SNP rs2866164 ( G) was the risk allele, as it was underrepresented in the long-lived population. However, several studies in other long-lived populations have since
+
+questionnaire. All p articipants underwent a physical exami- nation and provided a blood sample. We performed i dentity by d escent analysis to exclude cryptic relatedness among control – probands and control – offspring. In addition, Affyme- trix 6.0 was used to classify Ashkenazi origin ( four grand- parents) of all participants by p r inciple c o mponent a n alysis. Informed written consent was obtained in accordance with the policy of the Committee on Clinical Investigation of the Albert Einstein College of Medicine.
+
+genotypic frequency between two groups (young controls and long-lived individuals) as well as monotonic trend anal- ysis in a population containing participants at multiple ages ( 18 ). In order to aid in the discernment between longevity genotypes and deleterious genotypes, we proposed the Buffering Mechanisms in Aging hypothesis. This hypothe- sis states that an important property of many longevity genes (which are enriched in centenarians) is their ability to buffer against the harmful effects of deleterious genotypes ( 18 ). Specifi cally, in a subpopulation lacking longevity genotypes, the prevalence of a deleterious genotype will decline mono- tonically with age, whereas in a subpopulation endowed with a favorable longevity genotype(s), the prevalence of a buffered-deleterious genotype is expected not to vary or even increase with age. Indeed, we have shown that the deleterious variant of two age-related disease genes, Klotho and Lp(a) , demonstrate s a monotonic decline with age, but this is followed by a marked enrichment in prevalence among those surviving beyond 80 y ea rs, forming a U- s hape pattern with aging ( 18 ). Importantly, this pattern in geno- type frequency would have been missed if only a young and old cohort were compared.
+
+Analysis of SNP s
+
+The MTP gene spans 60 kb with 18 exons and is located on the long arm of chromosome 4. We selected the rs2866164 SNP of the M TP gene and genotyped it in probands, off- spring , and controls, using the PSQ HS 96A Pyrosequencer according to the manufacturer ’ s recommendations (Pyrose- quencing, Uppsala, Sweden; www . pyrosequencing . com ). Briefl y, a polymerase chain reaction product was generated from a primer pair that included one primer covalently coupled to biotin, the biotinylated template was bound to streptavidin-coated Sepharose High Performance beads, and this mixture was then annealed to a sequencing primer. Step- wise elongation of a sequencing primer strand upon sequential addition of a specifi ed sequence of deoxynucleotide tri- phosphates and the degradation of nucleotides by apyrase were carried out simultaneously. As the sequencing reaction progressed, the DNA strand was extended , and the sequence was determined from the measured signal output of light upon nucleotide incorporation. The resulting peaks in the pyrogram were analyzed using Pyrosequencing software. Primer sequences are available from the authors upon request. Error rates based on blind replicates were estimated to be 1.5%.
+
+T o determine whether the MTP gene may be a longevity or buffered-deleterious genotype, we characterized the prevalence of SNP rs2866164 in our well-characterized population of Ashkenazi Jew centenarians, their offspring, and age-matched Ashkenazi controls. We then tested its relationship to the metabolic phenotype and performed a buffering analysis for M TP genotype on survivorship. Here , we show that the CC variant of SNP rs2866164, in the MTP gene, is indeed a deleterious genotype that is buffered by longevity genotypes.
+
+M ethods
+
+Lipids and Lipoproteins
+
+Study P opulation
+
+Total plasma cholesterol, high-density lipoprotein- cholesterol (HDL-C), low-density lipoprotein-cholesterol (LDL-C), and apolipoprotein A-I (ApoA-I) and B (Apo - B) concentrations for the participants were performed by stan- dard automated methods at the clinical laboratories of Mon- tefi ore Medical Center, Bronx, NY. Plasma VLDL, LDL, triglycerides (TG) and HDL subclass levels, mean particle sizes, and chylomicrons were determined for all partici- pants by nuclear magnetic resonance spectroscopy at Lipo- Science Inc. (Raleigh, NC) as previously described ( 22 , 23 ). The LDL and HDL subclass distributions and particle sizes determined by n uclear magnetic resonance are highly corre- lated with those measured by gradient gel electrophoresis and density gradient ultracentrifugation (2 4, 2 5) . The ana- lytical reproducibility (given by the coeffi cient of variation) of LDL and HDL size is less than 0.5% ( 22 ), and the stability on repeated drawing for LDL size was 0.9% and for HDL size was 1.1%.
+
+141 women, median age = 97 y ea rs and 64 men, median age = 97 y ea rs), their offspring ( n = 145 total, 80 women, median age = 69 y ea rs and 65 men, median age = 68 y ea rs), and a control group of 288 Ashkenazi Jews (167 women, median age = 74 y ea rs and 121 men, median age = 75 y ea rs), not family related to the earlier participants , but from the same geographic area, were similarly assessed. The study population was identifi ed from the Longevity Genes Study at Albert Einstein College of Medicine, as described else- where ( 13 , 14 ), and the Einstein Aging Study, a community- based longitudinal study designed to identify predictive factors for cognitive decline and dementia ( 20 , 21 ). Partici- pants were recruited through publicity, and stated age was verifi ed by checking birth certifi cates or U.S. passports in all participants . Medical history, demographic characteristics, and clinical data were obtained uniformly using a structured
+
+U- S hape T rend Analysis
+
+by means of a log-rank test. Wilcoxon statistics were calculated to test homogeneity between groups , and cox proportional hazard models were used for survival analysis. Average time of follow-up for participants was 8.5 ± 0.3 and 8.7 ± 0.3 y ea rs for the “ b uffered ” and “ u nbuffered ” groups, respectively. Approximately 70% of the b uffered groups and 64% of the u nbuffered groups were still alive at the time of the analysis.
+
+In order to determine whether the M TP CC SNP is a buffered - deleterious genotype, we utilized the Buffering Mechanisms in Aging approach, whose statistical consider- ations are described in detail elsewhere ( 18 ). Briefl y, controls and probands were grouped together , and a generalized linear model was used to fi t the pattern of C C genotype prevalence with age. We confi rmed the existence of a signifi cant U - s hape pattern with age using a binomial model incorporating both linear and quadratic terms for age and testing for the sig- nifi cant quadratic component using the equation: P ( Y = 1) = b + b age + b age 2 , where Y = 1 was indicative of an indi- 0 1 2 vidual having the M TP CC genotype. Maximum likelihood estimates of the coeffi cients b , b , and b were then obtained 0 1 2 by the Fisher s coring method , and the signifi cance of the quadratic term (ie , U- s hape trend) was confi rmed using the likelihood ratio test prior to performing interaction analysis on the MTP CC genotype.
+
+R esults
+
+Participant C haracteristics for A ging C ohorts
+
+from http://biomedgerontology.oxfordjournals.org/ at Ondokuz Mayis University on November 9, 2014
+
+offspring , and Ashkenazi controls are presented in Table 1 . There were no signifi cant differences observed between offspring and controls for glucose, insulin, apolipoproteins, LDL-C , or LDL particle size. Offspring did have greater levels of TG ( p < .001) and tended to have elevated chylo- microns ( p = .06), VLDL-TG ( p = .06) , and total cholesterol ( p = .09), as compared with controls. However, offspring also had greater total unadjusted HDL-C ( p < .01) and smaller HDL particle size ( p < .001), though HDL-C was no longer signifi cant after adjusting for several covariates.
+
+Buffering Analysis
+
+Upon confi rmation of a signifi cant U- s hape t rend for the CC genotype in controls and probands, we then combined all offspring and control participants (excluding probands) harboring the CC genotype and subgrouped them by pres- ence or absence of one or more longevity genotypes, includ- ing CETP (homozygosity for the 405 V allele, VV ) [rs5882] ( 13 ), APOC3 (homozygosity for the − 641 C allele, C C ) [rs2542052] ( 14 ) , and ADIPOQ ( del/del APM1+2019) [rs56354395] (1 5) . We next performed logistic regression to test the interaction between the trend of the M TP CC geno- type across age with or without the presence of favorable lon- gevity genotypes. Because we did not detect any additive effect of harboring more than one favorable genotype, any carrier of one or more of the three longevity genotypes were combined as a single group. To test the signifi cance of inter- action effects between age and genotype, the model testing for main effect only and the model testing for the interaction effects were compared using the log-likelihood ratio test.
+
+MTP G enotype and A llele F requency in C entenarians, O ffspring , and C ontrols
+
+The prevalence of the MTP rs2866164 SNP and genotype frequency among centenarians, offspring , and controls are presented in Figure 1A and B , respectively. As compared with Ashkenazi controls, the C C genotype was more prevalent in both centenarians and their offspring ( p < .05 , Figure 1A ), but no signifi cant differences were observed in CG or GG genotype prevalence among groups. When assessing allele frequency in all three groups, the C allele was found to be overrepresented in offspring ( p = .001), as compared w ith controls, but no signifi cant difference was found between centenarians and controls ( p = .26, Figure 1B ).
+
+MTP CC G enotype I s A ssociated W ith an U nfavorable L ipid P rofi le
+
+Statistical A nalysis
+
+Characteristics of offspring and controls by MTP geno- type (C C vs C G/GG ) are presented in Table 2 . There were no signifi cant differences observed for glucose, insulin, choles- terol, apolipoproteins, VLDL particle size, HDL-C , or LDL-C ( Table 2 ). However, individuals with the C C genotype had signifi cantly greater levels of total TG ( p < .05, Figure 2A ), VLDL ( p < .05, Figure 2B ), and chylomicrons ( p < .05, Figure 2C ), even after adjustment for confounders.
+
+We used JMP software, version 9 (SAS Institute Inc., Cary, NC) for data analysis. Plasma VLDL and chylomi- cron were tested for normality of distribution using Shapiro – Wilk test and D ’ Agostino ’s K-squared test and were found to violate the normality assumption. Thus, a comparison between nonparametric variables was performed using Kruskal – Wallis one-way analysis of variance by ranks and Mann – Whitney rank sum test. Data are presented as means ± SE unless cited differently , and a p value less than or equal to .05 was considered statistically signifi cant. The partici- pants’ survival distribution was estimated by the Kaplan – Meier method, and the signifi cance of the difference in survival distribution among the MTP genotypes was tested
+
+The frequency of the MTP CC genotype with normal aging in controls and probands is shown in F igure 3A.
+
+Table 1. Demographic and Metabolic Characteristics of Ashkenazi Probands, Offspring , and Controls
+
+p Value, Offspring vs Control Trait Probands, n = 205 Offspring, n = 145 Controls, n = 288 * † Female (%) 69 55 58 0.58 Age, y 98 ± 0.2 68.2 ± 0.6 74.0 ± 0.5 <.0001 <.0001 Age range, y 95 – 109 53 – 92 44 – 93 Glucose, mg/dL 101 ± 2 94 ± 3 93 ± 2 .76 .57 Insulin, mg/dL 27.9 ± 3.3 22.6 ± 3.2 17.8 ± 1.8 .19 .14 CRP 0.76 ± 0.18 0.44 ± 0.08 0.34 ± 0.03 .16 .11 Cholesterol, mg/dL 189 ± 3 209 ± 3 200 ± 3 .03 .09 Triglycerides, mg/dL 139 ± 5 149 ± 8 126 ± 4 .002 2e-3 Apo-A1, mg/dL 141 ± 3 156 ± 3 156 ± 3 .94 .59 Apo-B, mg/dL 100 ± 2 104 ± 2 101 ± 2 .38 .52 VLDL-TG, mg/dL 85 ± 5 82 ± 7 74 ± 3 .17 .06 VLDL particle size, nm 49.4 ± 0.9 48.8 ± 1.3 47.1 ± 0.3 .38 .52 LDL, mg/dL 109 ± 5 116 ± 3 117 ± 2 .8 .76 LDL 1, mg/dL 78.6 ± 4.3 69.6 ± 4.6 70.6 ± 3.1 .85 .79 LDL 3, mg/dL 13.3 ± 2.6 29.3 ± 3.5 29.7 ± 2.4 .93 .94 LDL particle size, nm 21.4 ± 0.1 21.0 ± 0.1 21.1 ± 0.1 .55 .91 HDL, mg/dL 55.5 ± 1.2 63.8 ± 1.6 58.4 ± 1.1 .005 .13 Large HDL, mg/dL 32.2 ± 1.8 29.4 ± 1.8 32.1 ± 1.2 .21 .47 Small HDL, mg/dL 15.3 ± 0.6 20.3 ± 0.7 16.0 ± 0.5 <.0001 .18 HDL particle size, nm 9.47 ± 0.05 9.10 ± 0.05 9.30 ± 0.05 .005 .01 Chylomicrons, mg/dL 2.65 ± 0.56 2.27 ± 0.84 0.73 ± 0.16 .01 .06
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Ondokuz Mayis University on November 9, 2014
+
+Notes : Data are expressed as means ± SE . Crude means are shown. TG, which were not normally distributed, were log-transformed for analysis but presented as untransformed raw values. LDL = low-density lipoprotein; HDL = high-density lipoprotein ; VLDL = very low-density lipoproteins . * p V alues between o ffspring v ersu s c ontrol unadjusted. † p V alues between o ffspring v ersu s c ontrol adjusted for age and sex ( g lucose [mg/dL], i nsulin [mg/dL], CRP, c holesterol [mg/dL], t riglycerides [mg/dL], VLDL-TG [mg/dL], LDL [ t otal levels, 1 and 3; mg/dL], HDL [ t otal levels, large and small; mg/dL], VLDL particle size [nm], LDL particle size [nm], HDL particle size [nm], Chylomicron [mg/dL]).
+
+However, after adjustment for the presence of favorable longevity genotypes, this difference in mortality no longer remained ( p = .53, Figure 4B ).
+
+Treating age as a continuous variable to describe the distri- bution pattern of CC over the life course, we found that the prevalence of the C C genotype demonstrated a monotonic decline of ~ 16%, from 38% to 22% between 60 and 80 y ea rs of age, respectively. However, between 80 and 100 ye ar s of age, the prevalence markedly increased by nearly 10% to near 30% prevalence, resulting in a U- s hape frequency pat- tern with aging ( p < . 05). Using interaction analysis, when the frequency of the MTP CC genotype was assessed in the absence of favorable genotypes ( AdipoQ [rs56354395], CETP [rs5882], and ApoC3 [rs2542052]) in offspring and controls, we observed a monotonic decline with aging from ~ 33% at 60 y ea rs to near 0% survivorship by age 90 y ea rs ( Figure 3B , p < .05). However, in individuals possessing one or more favorable longevity genotypes, the prevalence of the MTP CC genotype was relatively unchanged from the six th to eigh th decade of life but was followed by a marked enrichment to near 60% by 90 y ea rs of age ( Figure 3B ), as predicted by the buffering hypothesis ( 18 ).
+
+D iscussion
+
+Here , we show that the prevalence of the M TP CC geno- type is enriched in centenarians and their offspring, as compared w ith Ashkenazi Jew controls. Paradoxically, this genotype was associated with an unfavorable lipid profi le, including greater concentrations of TG, VLDL , and chylo- microns, all known risk factors for cardiovascular and metabolic diseases. This paradox between phenotype and genotype is explained by the fact that the MTP CC genotype demonstrated a monotonic decline with aging until ~ 80 ye ar s of age, followed by a marked increase in centenarians, forming a U- s hape pattern with aging.
+
+Offspring and individuals belonging to the control group with the M TP CC genotype across ages were then catego- rized by presence or absence of one or more known lon- gevity genotypes { CETP ( VV ) [rs5882] ( 13 ), APOC3 ( CC ) [rs2542052] ( 14 ), and A dipoQ (d el/del APM1 +2019) [rs56354395] ( 15 )}. Absence of these genotypes resulted in a monotonic decline in C C prevalence to near 0% by 90 ye ar s, w hereas a sharp rise in prevalence was observed in those harboring longevity genotypes beyond 80 y ea rs old. Finally, we show that control and offspring without any of the three favorable longevity genotype variants, but possessing
+
+MTP CC Genotype and Survivorship in Ashkenazi Offspring and Controls
+
+Kaplan – Meier curves comparing survivorship between MTP genotypes are presented in Figure 4A and B . As com- pared w ith Ashkenazi offspring and controls with either CG /G G genotypes, those with the CC genotype demon- strated signifi cantly worse survival ( p < .05, Figure 4A ).
+
+Table 2. Demographic and Metabolic Characteristics of Ashkenazi Offspring and Controls Categorized by MTP Genotype
+
+Percentage in group (%) >woPercentage in group (%)60[= Controlc OffspringCi Proband            5040302010cc CG GG70605040302010[= ControlOffspringC= Proband
+
+p Value, CC vs CG/GG Trait CC, n = 113 CG/GG, n = 320 * † Female (%) 51 59 .15 .14 Age, y 70.2 ± 0.8 73.1 ± 0.5 .004 .004 Age range, y 44 – 92 49 – 93 Glucose, mg/dL 90 ± 4 95 ± 2 .25 .26 Insulin, mg/dL 19.2 ± 3.2 20.8 ± 2.3 .68 .33 CRP 0.39 ± 0.07 0.37 ± 0.04 .73 .53 Cholesterol, mg/dL 204 ± 4 203 ± 2 .78 .61 Apo-A1, mg/dL 154 ± 3 157 ± 2 .45 .42 Apo-B, mg/dL 105 ± 3 102 ± 2 .37 .40 VLDL particle size, nm 48.9 ± 1.7 47.6 ± 0.8 .45 .54 LDL, mg/dL 117 ± 4 116 ± 2 .85 .54 LDL 1 , mg/dL 67.2 ± 5.6 71.4 ± 2.9 .47 .72 LDL 3, mg/dL 32.8 ± 4.2 28.2 ± 2.3 .3 .46 LDL particle size, nm 20.9 ± 0.1 21.0 ± 0.1 .34 .77 HDL, mg/dL 59.5 ± 1.7 60.8 ± 1.1 .53 .4 Large HDL, mg/dL 28.8 ± 2.1 32.1 ± 1.2 .17 .72 Small HDL, mg/dL 18.2 ± 0.7 17.5 ± 0.5 .66 .92 HDL particle size, nm 9.06 ± 0.05 9.16 ± 0.03 .15 .48
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Ondokuz Mayis University on November 9, 2014
+
+Notes : Data are expressed as means ± SE. Crude means are shown. TG, which were not normally distributed, were log-transformed for analysis but pre- sented as untransformed raw values. HDL = high-density lipoprotein; LDL = low-density lipoprotein; VLDL = very low-density lipoproteins.
+
+† p Values between CC carriers and CG/GG carriers adjusted for age and sex (glucose [mg/dL], insulin [mg/dL], CRP, cholesterol [mg/dL], triglycerides [mg/dL], Apo-A1 [mg/dL], ApoB [mg/dL], VLDL particle size [nm], LDL [total levels, 1 and 3; mg/dL], LDL particle size [nm], HDL [total levels, large, and small; mg/dL], HDL particle size [nm]).
+
+Figure 1. M TP g enotype f requencies in Ashkenazi centenarians, their offspring, and Ashkenazi controls. ( A ) The frequency of homozygosity ( CC ) for the MTP rs2866164 SNP of M TP in probands (n = 126), offspring ( n = 145), and Ashkenazi controls ( n = 288). The frequency of the CC genotype is 1.5 - and 1.6-fold increased in offspring ( p < .05) and probands ( p = .001), respectively, compared with controls. (B ) The frequency of the C allele for the M TP rs2866164 SNP in probands (n = 126), offspring ( n = 145), and controls ( n = 288). The frequency of the C allele is signifi cantly increased in offspring ( p = .001), but not in probands ( p = .26), as compared with controls .
+
+gene is buffered by the favorable C ETP VV genotype [rs5882] (1 8) . Likewise, here, we demonstrate that the deleterious effect of the MTP CC genotype can be mitigated by any of the following favorable longevity genotypes, CETP ( VV ) [rs5882], APOC3 ( CC ) [rs2542052], and AdipoQ ( del/del APM1+2019) [rs56354395].
+
+the MTP CC genotype, demonstrated a poorer survivorship than those with the M TP CG/GG genotype. These fi ndings lend support to the hypothesis that M TP CC is in fact a deleterious genotype, whose effects can be buffered by lon- gevity genes. However, the exact biologic al mechanism(s) whereby these favorable genotypes attenuate the harmful effect(s) of the MTP CC genotype are unclear.
+
+Although our results were able to somewhat substantiate those of Geesaman and colleagues ( 6 ), albeit with a differ- ent interpretation, the fact that fi ve separate follow-up studies, utilizing unique populations of long-lived individuals and controls ( 8 – 12 ) , failed to detect any difference among groups deserves further clarifi cation. First, consistent with these follow-up studies, we also fail to see any signifi cant difference in allele frequency between younger controls and probands. However, our results demonstrate that a stark enrichment of the CC genotype exists in Ashkenazi cente- narians and offspring, as compared with controls. We attri- bute this fi nding in part to the unique risk posed by the C C genotype, as opposed to those harboring one or two copies of the G allele, to mortality in participants without longevity genotypes.
+
+On the surface, our results seem to be in agreement with those of an initial fi ne- m apping experiment which fi rst linked an overrepresentation of the major allele (C ) of SNP rs2866164 in the MTP gene with longevity ( 6 ). However, our data clearly suggest that in spite of its enrichment in centenarians and their offspring, harboring two copies of this allele without buffering genes is not “ g ood” for aging, but rather is detrimental. Furthermore, our results provide a “ proof of concept ” regarding the necessity to obtain geno- type prevalence data over the life course coupled with func- tional analysis, in order to defi nitively distinguish benefi cial and deleterious genotypes. Indeed, we have previously shown that the hazards posed by a deleterious variant of the Lp(a)
+
+A second important consideration that deserves further explanation is the issue of comparing two data points for the purpose of identifying either deleterious or longevity genotypes. Most human longevity studies are structured as
+
+A 160 * 150 140 130 120 110 100 CC CG/GG B 100 * 90 80 70 60 CC CG/GG C 4 * 3 2 Figure 3. Prevalence of according to age and adjustment 1 Frequency of M TP CC genotype by the specifi ed age ranges with range: 55 – 64 y ea rs = 44, 65 – 74 y 0 )Ld/gm( sedirecylgirT)Ld/gm( LDLV)Ld/gm( snorcimolyhC
+
+<P<.05° ° SS oO oe ¢ & °=(%) adAyouab 99 yo Aouanbal41008060Age (years) aS ° S o °°So oO oe + N=(%) edAjoueb 99 Jo Aouanbas480 90Age (years)7060
+
+Figure 3. Prevalence of homozygosity ( CC ) for the MTP rs2866164 SNP according to age and adjustment for buffering genotypes in Ashkenazi Jews. ( A ) Frequency of M TP CC genotype in controls and probands (range 55 – 104 y ea rs) by the specifi ed age ranges with the indicated number of subjects for each age range: 55 – 64 y ea rs = 44, 65 – 74 y ea rs = 101, 75 – 84 y ea rs = 97, 85 – 94 y ea rs = 60, and 95 – 104 y ea rs = 179. ( B ) The frequency of homozygosity for the C C genotype of the M TP rs2866164 SNP according to age with or without buffering genes in offspring and controls (see Methods for description of C ETP [rs5882] , ApoC3 [rs2542052] , AdipoQ [rs56354395]). Filled circles (and continuous line) indicate prevalence of the CC homozygosity in those that did not harbor buffer- ing genes. Open circles (and dashed line) indicate prevalence of the CC homo- zygosity in participants that harbor buffering genes. Frequency of MTP CC genotype either with or without buffering genes are given by the specifi ed age ranges with the indicated number of subjects for each age range (buffered/ unbuffered): 55 – 64 y ea rs = 32/51, 65 – 74 y ea rs = 50/72, 75 – 84 y ea rs = 42/58, 85 – 92 y ea rs = 9/22.
+
+Figure 2. Concentration of triglycerides (TG) and two lipoproteins, VLDL and chylomicrons, which are under the physiologic control of MTP, according to MTP rs2866164 genotype ( CC vs CG/GG ) in offspring and controls. Results are adjusted for age and gender. (A ) Total plasma TG, (B ) p lasma VLDL , and ( C ) chylomicrons. Values are means ± SE . * p < .05.
+
+case – control analyses, with only a small range around the two selected ages. Thus, these populations are unable to perform trend analysis, which is only possible in our popu- lation, due to the distribution of participants across this entire segment of the life span, where age-related mortality rate is greatest (ie, 55 – 100+ y ea rs). Indeed, as we have already mentioned, some deleterious genotype frequencies show a propensity to form a U-shape pattern with aging, and this can be a major concern in regards to distinguishing longevity and deleterious genotypes.
+
+have led to the conclusion that genotype frequency changed very little with aging ( Figure 3A ). In contrast, comparing 70 y ea r s old to centenarians could have led us to conclude that the CC genotype is a longevity gene due to its relative enrichment in Ashkenazi probands. On the contrary, as is evident from the pattern in genotype frequency during aging ( Figure 3A ), CC genotype prevalence begins to decrease at ages where the mortality rate is expected to increase. How- ever, as individuals approach exceptional old age, there is a marked enrichment in the C C genotype, not because this genotype suddenly becomes benefi cial but rather due to the
+
+For example, comparing only case – control analysis between 60 - y ea r - old individuals and centenarians in our study, which are on opposite ends of the “ U shape ” , would
+
+A 1.0 0.8 0.6 P < .05 0.4 CC 0.2 CG/GG 0.0 65 70 75 80 85 90 95 100 105 Age (years) B 1.0 0.8 0.6 P = .53 0.4 CC 0.2 CG/GG 0.0 65 70 75 80 85 90 95 100 105 Age (years) )%( lavivruS)%( lavivruS
+
+that gene variants involved in lipoprotein metabolism an important role in healthy aging and longevity.
+
+I n summary, we show that enrichment of the MTP CC genotype in centenarians and their offspring, relative to controls, is misleading unless the pattern in genotype frequency during aging is observed. Indeed, as opposed to prior observations, which had confl icting conclusions regarding the role of this genotype in human longevity, we show that the CC genotype demonstrates all the hallmarks of a buffered-deleterious genotype. We also demonstrate that a functional consequence of the C C genotype in controls without longevity genes includes poorer survivorship. Finally, this study is a vital proof of concept for the importance of populating the “ age axis ” as well as accounting for buffering mechanisms when attempting to discern longevity genotypes from deleterious genotypes.
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Ondokuz Mayis University on November 9, 2014
+
+F unding
+
+This work has been supported by grants from the Paul Beeson Physi- cian Faculty Scholar in Aging Award, the Ellison Medical Foundation Senior Scholar Award, the General Clinical Research Center ( M01- RR12248 ), and the Diabetes Research and Training Center ( DK20541 ) at the Albert Einstein College of Medicine and grants AG027734 , AG028872 , RR12248 , and M01RR12248 from the National Institutes of Health . D.M.H. is supported by an National Institute of Aging -sponsored K99 award (AG037574).
+
+Acknowledgments
+
+Figure 4. Survival Analysis according to M TP genotype in Ashkenazi offspring and controls. To describe the relationship between genotype and death, we plotted the Kaplan – Meier survival function estimates of controls by MTP genotype based upon whether or not individuals harbored a buffering gene (see Methods for description of CETP [rs5882], A poC3 [rs2542052], and AdipoQ [rs56354395]). ( A ) Kaplan – Meier curve of offspring and control Ashkenazi ’ s without buffering genes; C C genotype ( n = 43) was associated with worse survivorship than CG/GG genotypes ( n = 126) in offspring and controls without buffering genes (Wilcoxon, p < .05), ( B ) Kaplan – Meier curve of offspring and control Ashkenazi ’ s with buffering genes ( CC genotype, n = 32; CG/GG genotype, n = 71). There was no signifi cant difference in survivorship between genotypes in individuals with buffering genes (Wilcoxon, p = .53).
+
+W e are indebted to all participants and their families for their commit- ment and enthusiasm. We are also grateful to the following institutions that assisted in recruitment: The Hebrew Home for the Aging, Riverdale, NY; Kittay House, Bronx, NY; the Hebrew Home Hospital, West Hartford, CT; and the Jewish Home for the Aged, New Haven, CT.
+
+References
+
+microsomal triglyceride transfer protein in apolipoprotein-B lipoprotein assembly . Biochim Biophys Acta .
+
+;
+
+:
+
+–
+
+.
+
+Jun DW , Han JH , Jang EC , et al . Polymorphisms of microsomal triglyceride transfer protein gene and phosphatidylethanolamine N-methyltransferase gene in alcoholic and nonalcoholic fatty liver disease in Koreans . E ur J Gastroenterol Hepatol .
+
+;
+
+:
+
+–
+
+.
+
+Gastaldi M , Diziere S , Defoort C , et al . Sex-specifi c association of fatty acid binding protein
+
+and microsomal triacylglycerol transfer protein variants with response to dietary lipid changes in the
+
+-mo Medi-RIVAGE primary intervention study . A m J Clin Nutr .
+
+;
+
+:
+
+–
+
+.
+
+Rubin D , Helwig U , Pfeuffer M , et al . A common functional exon polymorphism in the microsomal triglyceride transfer protein gene is associated with type
+
+diabetes, impaired glucose metabolism and insulin levels . J Hum Genet .
+
+;
+
+:
+
+–
+
+.
+
+Yamada Y , Ando F , Shimokata H . Association of a microsomal triglyceride transfer protein gene polymorphism with blood pressure in Japanese women . Int J Mol Med .
+
+;
+
+:
+
+–
+
+.
+
+Geesaman BJ , Benson E , Brewster SJ , et al . Haplotype-based iden- tifi cation of a microsomal transfer protein marker associated with the human lifespan . P roc Natl Acad Sci U S A .
+
+;
+
+:
+
+–
+
+.
+
+Puca AA , Daly MJ , Brewster SJ , et al . A genome-wide scan for linkage to human exceptional longevity identifi es a locus on chromosome
+
+Proc Natl Acad Sci U S A .
+
+;
+
+:
+
+–
+
+.
+
+buffering effect of longevity genotypes, which are also becoming enriched ( Figure 3B ).
+
+T he observation that the M TP CC genotype is associ- ated with a risky lipid profi le and adversely a ffects sur- vival in control Ashkenazi’ s without longevity genes is in agreement with our prior studies. Indeed, we fi rst reported that a hallmark feature of individuals with exceptional lon- gevity was a healthy lipoprotein profi le, and that this phe- notype was heritable (1 3) . Furthermore, this phenotype was associated with increased homozygosity for the I405V variant in C ETP [rs5882] ( 13 ), an enzyme involved in reverse cholesterol transport. Likewise, we have observed that a variant in the APOC3 gene [rs2542052], which expresses an apolipoprotein involved in TG metabolism, is associated with lower APOC3 levels, larger HDL and LDL particle sizes , and longevity ( 14 ). Moreover, we have implicated the VV variant for CETP [rs5882] as a modulator of age-related cognitive function ( 26 ). Taken together, these fi ndings suggest
+
+Bathum L , Christiansen L , Tan Q , Vaupel J , Jeune B , Christensen K . No evidence for an association between extreme longevity and microsomal transfer protein polymorphisms in a longitudinal study of
+
+nona- genarians . Eur J Hum Genet .
+
+;
+
+:
+
+–
+
+.
+
+Beekman M , Blauw GJ , Houwing-Duistermaat JJ , Brandt BW , Westendorp RG , Slagboom PE . Chromosome
+
+q
+
+, microsomal transfer protein gene, and human longevity: novel data and a meta- analysis of association studies . J Gerontol A Biol Sci Med Sci .
+
+;
+
+:
+
+–
+
+.
+
+Nebel A , Croucher PJ , Stiegeler R , Nikolaus S , Krawczak M , Schreiber S . No association between microsomal triglyceride transfer protein (MTP) haplotype and longevity in humans . Proc Natl Acad Sci U S A .
+
+;
+
+:
+
+–
+
+.
+
+Neville MJ , Clarke R , Evans JG , Rubinsztein DC , Karpe F . Absence of relationship between MTTP haplotypes and longevity . J Gerontol A Biol Sci Med Sci .
+
+;
+
+:
+
+–
+
+.
+
+Novelli V , Viviani Anselmi C , Roncarati R , et al . Lack of replication of genetic associations with human longevity . Biogerontology .
+
+;
+
+:
+
+–
+
+.
+
+Barzilai N , Atzmon G , Schechter C , et al . Unique lipoprotein pheno- type and genotype associated with exceptional longevity . JAMA .
+
+;
+
+:
+
+–
+
+.
+
+Atzmon G , Rincon M , Schechter CB , et al . Lipoprotein genotype and conserved pathway for exceptional longevity in humans . P L
+
+Biol .
+
+;
+
+: e
+
+.
+
+Atzmon G , Pollin TI , Crandall J , et al . Adiponectin levels and geno- type: a potential regulator of life span in humans. J Gerontol A Biol Sci Med Sci .
+
+;
+
+:
+
+–
+
+.
+
+Pawlikowska L , Hu D , Huntsman S , et al . Association of common genetic variation in the insulin/IGF
+
+signaling pathway with human longevity . Aging Cell .
+
+;
+
+(
+
+):
+
+–
+
+.
+
+Willcox BJ , Donlon TA , He Q , et al . FOXO
+
+A genotype is strongly associated with human longevity . P roc Natl Acad Sci U S A .
+
+;
+
+:
+
+–
+
+.
+
+Bergman A , Atzmon G , Ye K , Ma
+
+arthy T , Barzilai N . Buffering mechanisms in aging: a systems approach toward uncovering the genetic component of aging . PL
+
+Comput Biol .
+
+;
+
+: e
+
+.
+
+Vijg J , Perls T , F ranceschi C , van Orsouw NJ . BRCA
+
+gene sequence variation in centenarians . Ann N Y Acad Sci .
+
+;
+
+:
+
+–
+
+.
+
+Verghese J , Lipton RB , Hall CB , Kuslansky G , Katz MJ , Buschke H . Abnormality of gait as a predictor of non-Alzheimer’s dementia . N Engl J Med .
+
+;
+
+:
+
+–
+
+.
+
+Verghese J , Lipton RB , Katz MJ , et al . Leisure activities and the risk of dementia in the elderly . N Engl J Med .
+
+;
+
+:
+
+–
+
+.
+
+Otvos JD . Measurement of lipoprotein subclass profi les by nuclear magnetic resonance spectroscopy . Clin Lab .
+
+;
+
+:
+
+–
+
+.
+
+Otvos JD , Jeyarajah EJ , Bennett DW , Krauss RM . Development of a proton nuclear magnetic resonance spectroscopic method for determining plasma lipoprotein concentrations and subspecies dis- tributions from a single, rapid measurement . Clin Chem .
+
+;
+
+:
+
+–
+
+.
+
+Blake GJ , Otvos JD , Rifai N , Ridker PM . Low-density lipoprotein particle concentration and size as determined by nuclear magnetic resonance spectroscopy as predictors of cardiovascular disease in women . Circulation .
+
+;
+
+:
+
+–
+
+.
+
+Grundy SM , Vega GL , Otvos JD , Rainwater DL , Cohen JC . Hepatic lipase activity infl uences high density lipoprotein subclass distribution in normotriglyceridemic men. Genetic and pharmacological evidence . J Lipid Res .
+
+;
+
+:
+
+–
+
+.
+
+Barzilai N , Atzmon G , Derby CA , Bauman JM , Lipton RB . A genotype of exceptional longevity is associated with preservation of cognitive function . Neurology .
+
+;
+
+:
+
+–
+
+.

@@ -1,0 +1,417 @@
+Human leukocyte antigen class I, class II, and tumor necrosis factor-alpha polymorphisms in a healthy elder Mexican Mestizo population
+
+Elena Soto-Vega, Yvonne Richaud-Patin and Luis Llorente*
+
+Address: Department of Immunology and Rheumatology, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán. Mexico Mexico Email: Elena Soto-Vega - elenasoto_74@yahoo.com; Yvonne Richaud-Patin - yrichaud@yahoo.com.mx; Luis Llorente* - lllyrp@quetzal.innsz.mx
+
+Address: Department of Immunology and Rheumatology, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán. Mexico City,
+
+This article is available from: http://www.immunityageing.com/content/2/1/13
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Abstract
+
+Background: There is strong evidence that an individual's genetic background is an important predisposing factor to longevity. In the present study we analysed the frequency of HLA class I, class α II, as well as the TNF- -308 polymorphism that may be related to an increased life span in Mexican Mestizo healthy elders.
+
+Results: HLA typing was performed by polymerase chain reaction sequence specific α oligonucleotide (PCR SSO) reverse dot blot. The TNF- -308 polymorphism was assessed by PCR restriction fragment length polymorphism. A significant increased frequency of HLA-DRB1*11 was found in elderly women whereas this allele was not present in elderly males. The TNF2 allele was also increased in the elder group when compared to young controls. The frequencies of the remaining alleles tested were not statistically different among groups.
+
+Conclusion: These data suggest an ethnicity independent tendency of HLA-DRB1*11 in elder females to increase life span and a possible role of the TNF2 allele with the successful remodelling of senescent immune system.
+
+Background
+
+class III genes with old age. Thus, longevity has been shown to be related with the selection of HLA alleles or haplotypes being the more frequently associated the A1 B8 Cw7 DR3 in Caucasians [3,4], the increased or decreased frequency of HLA-B40 [5-7], the augmented fre- quency of HLA-DR11 in elder women in Caucasian as well as in Japanese populations [8,9] among other alleles. Immunogenetic studies in aged, healthy Mexican Mestizo population have not been yet performed.
+
+Ageing is associated with a complex remodelling of the immune system often in the direction of apparently decreased immune competence. However, it has been proposed that longevity is related to optimal function of the immune system because some genetic determinants for successful ageing might reside in those polymor- phisms of genes that regulate immune responses e.g. major histocompatibility complex (MHC) [1,2]. The stud- ies of life span in humans have resulted in different, and even controversial, associations of HLA class I, class II and
+
+DRB1*0404 were the more frequent in the young group, being these alleles not statistically significant.
+
+Mexican Mestizo individuals have a proportion of 56% Native American Indian genes, 40% Caucasian genes, and 4% African genes [10]. Mestizo population represents a complex mixture of European and American native inhab- itants, and constitute the core of the Mexican population. This complex genetic process began in the 16th century and has been expanded during the course of time and continues to be a dynamic process, e.g., African popula- tion inhabited the Americas almost 200 years later. On the other hand, aged people in the Mexican population have increased from a life expectancy of 63 years in the 1970's up to 70 years nowadays.
+
+When the differences between aged males and females were analysed, a decreased frequency of HLA-DRB1*11 in males was found when compared to females, for no one in the former group was HLA-DRB1*11 (p = 0.002; OR = 0.18; CI 95% = 0.06–0.53; p = 0.024 by Bonferroni's cor- rection). On the other hand, when elderly males were compared to young males for HLA-DRB1*11, a dimin- ished frequency was found although not statistically sig- nificant when Bonferroni's correction was applied. The high resolution typing showed a decreased frequency of the HLA-DRB1*1101 allele in elderly females when com- pared to the other HLA-DRB1*11 alleles from young women and, again, this difference was not significant by Bonferroni's correction.
+
+Healthy elderly people show a pro-inflammatory pheno- α type with increased levels of cytokines such as TNF- [11]. α The TNF- gene is located within the HLA class III region. This cytokine is involved in tissue remodelling, epithelial cell barrier permeability, macrophage activation, recruit- ment of inflammatory infiltrate, and up-regulation of α adhesion molecules, among other functions. TNF- also determines the strength, effectiveness and duration of local and systemic inflammatory responses [12].
+
+Our data must be balanced against the small number of subjects studied. However, we found that, interestingly, no old man was HLA-DRB1*11, which may suggest that survival being gender-dependent [15,16]. This finding for Mexican Mestizo women is in agreement with previous reports in different populations, which might indicate that the contribution of this allele to an increase in the life span is independent of ethnicity [8].
+
+α TNF- promoter contains numerous polymorphic sites, which are possible targets for transcription factors. The polymorphism at position -308 is defined by de substitu- tion of a G by an A, where the presence of G defines the common allele TNF1 and A defines the TNF2 variant, which is less frequent [13]. Some studies have shown that individuals bearing the TNF2 polymorphism are higher α TNF- producers than those who bear the TNF1 variant [14].
+
+Concerning the HLA-B and HLA-DQB1 alleles, no differ- ences were observed among elders and young controls nor when compared by gender. The high resolution typing of HLA-DQB1 showed that in the elderly group the most fre- quent subtypes were HLA-DQB1*0302, DQB1*0402 and DQB1*0501 whereas in the young group were the HLA- DQB1*0302, DQB1*0301, DQB1*0402 and DQB1*0201. Finally, the generic typing of the HLA-B locus showed that the more frequent alleles in both groups were HLA-B*35 and HLA -B*15. A decreased ten- dency in the HLA-B*14 frequency in the elder group was also observed when compared to that of the control group, although this was not statistically significant.
+
+The aim of this study was to evaluate the class I, class II α HLA genotypes as well as the TNF- -308 polymorphism with successful ageing in Mexican Mestizo.
+
+Results and Discussion
+
+Of the 71 elders, 38 (53.5%) were females and 33 (46.5%) males. Results of the observed and expected anti- gen and genotype frequencies for HLA-B, -DRB1 and - DQB1 loci were consistent with those predicted by the Hardy-Weinberg equilibrium. It is worth mentioning that the frequencies identified in our population are similar from those reported in previous studies performed in Mexican Mestizo populations [10].
+
+The analysis of the TNF- -308 promoter polymorphism showed a diminished frequency of the TNF1 allele accom- panied by an increased one in the TNF2 allele in elders. The heterozygote genotype TNF1/2 was more common in the elderly group (9.02%) than in the control group α (1.5%) (Table 1). Serum levels of TNF- showed a slight increase in the elderly group although this difference was not statistically significant (data not shown). Interest- ingly, it was found that 58% of the TNF2 individuals were α HLA-DR3 and HLA-DR4. The -308A TNF- polymor- phism has been shown to vary between individuals. These variants have been associated with certain HLA-DR alleles, α. e.g., HLA-DR2 subjects are considered low TNF- produc-
+
+Gene frequencies at the HLA-DRB1 locus were not statis- tically significant different among groups. The most fre- quent allele in both, young subjects and elders, was the HLA-DRB1*04. The high resolution typing revealed that the more frequent alleles in the elderly group were HLA- DRB1*0802, DRB1*0701, DRB1*0404 and DRB1*0407, whereas HLA-DRB1*0802, DRB1*0701, DRB1*1101 and
+
+Table 1: TNF-α -308 polymorphism in elderly and young adults.
+
+Healthy elders (n = 72) Young controls (n = 198) Statistics gf (n = 144) gf (n = 110) P OR CI 95% TNF1 0.909 0.985 NS - - TNF2 0.090 0.015 0.001 0.33 0.14–0.73
+
+gf = gene frequency; OR = Odds ratio; CI = Confidence interval; NS: non significant.
+
+ers while those bearing HLA-DR3 and HLA-DR4 alleles produce high levels of this cytokine [13,14,17-19]
+
+Certainly, a great diversity of genes and factors influence successful ageing. Single nucleotide polymorphisms located in cytokine gene promoters have been demon- strated to affect the binding of transcription factors and, hence, its gene expression. Genetic variants that deter- mine an increased production of anti-inflammatory cytokines or a decreased one of pro-inflammatory cytokines have been associated with successful ageing, suggesting a role in the control of the inflammatory state in the attainment of increased life span [12,26,27].
+
+The TNF2 genotype has been related to an increased cytokine transcription rate [20]. Furthermore, it has been proposed that individuals who are heterozygous for this polymorphism possess an optimal inflammatory response that protects them against age-related neurode- generation [21]. Although the inflammatory process has been related to chronic illnesses, incapacity, and death, it is interesting that in healthy old people this pro-inflam- matory phenotype may be involved in the remodeling of the cytokine network which contributes to the successful ageing process [22]. Notwithstanding, lack of such associ- ation has also been reported [23,24].
+
+Moreover, the study of polymorphic genes on the X chro- mosome do not have to be procrastinated for there are some – albeit relatively old – evidence that they are critical in the genetic regulation of the immune response and thus could be of utmost importance for conditioning the life span expectancy [28-30].
+
+Conclusion
+
+Longevity studies must ideally include healthy centenari- ans, as they represent the extreme of human old age. Most studies carried out on centenarians come from either Europe or Asiatic countries such as Japan. It is precisely in these regions that the largest numbers of centenarians can be found. This is closely related on the one hand, with the social, cultural, and economic conditions of developed countries and, on the other, with biological factors includ- ing the long history of their ethnic groups, which has per- mitted a natural selection of genes favouring longevity [25]. By contrast, the ethnic group known as Mexican Mestizo is, in evolutionary terms, a recent one barely 500 years old. This lapse is certainly not enough to establish an allele selection or, even, modify completely the structure of previous haplotypes by the genetic admixture process that could account to change certain HLA clusters of Mex- ican natives. On the other hand, infectious diseases imported by conquerors indeed, have influenced the selection of HLA repertoire in our region. The cultural and socio-economic conditions of our geographical zone (Mexico and Central America) have contributed to a marked increase in life expectancy, particularly over the last 50 years, even though this is still far removed from that of developed countries. It is worth mentioning that the mean age of our study group is at least 10 years greater than the current life expectancy for Mexico and, hence, they represent the oldest population that have enjoyed successful ageing within our country.
+
+Methods
+
+Subjects
+
+A total of 71 healthy elders were studied, age ranged from 80 to 96 years (mean 86.2 years). The control samples were obtained from 99 young (from 21 – 54 years; mean 35.2 years) healthy individuals unrelated to elders. All subjects were Mexican Mestizo which is defined as an individual who was born in Mexico and is descendent from mixed racial ancestry of the native Americans of such region with individuals from Europe (mainly Spain) or Africa, all of them living in Mexico City. A complete social and medical history and physical examination was per- formed. Laboratory tests included complete blood cell count, erythrocyte sedimentation rate (Westergreen), immunoglobulin levels (IgG, IgA, IgM), serum electro- lytes, glucose, creatinine, urea, alkaline phosphatase, aspartate transaminase, total bilirubin, and total choles- terol. All subjects were informed about the objectives and methods of the study. Work has been done according to current law.
+
+DNA isolation
+
+Genomic DNA was extracted from 5 mL of peripheral whole blood employing the Wizard genomic DNA purifi- cation kit (Promega, Madison, WI) according to manufac- turer's instructions. Isolated DNA was quantified by
+
+spectrophotometry and adjusted to a concentration of µ 100 ng/ L, and stored at -70°C until use.
+
+Acknowledgements
+
+E. Soto-Vega was supported by a scholarship from the Consejo Nacional de Ciencia y Tecnología (CONACYT), Mexico. This work was part of the PhD degree thesis of E. Soto-Vega, Universidad Nacional Autónoma de México (UNAM).
+
+HLA Typing
+
+Generic HLA-DRB1, DQB1, and HLA-B typing was per- formed by polymerase chain reaction sequence specific oligonucleotide (PCR-SSO) reverse dot blot using the Dynal RELI SSO system (Hoffman-La Roche Ltd. and Roche Molecular Systems, Inc., Alameda, CA) as described previously [31]. High resolution typing of HLA-DRB1 and DQB1 loci was done by sequence based typing method (SBT). The primers' sequences and PCR conditions for amplification of polymorphic exons were obtained from protocols of the 13th International Histocompatibility Workshop (Seattle, 2002).
+
+Authors thank Dr. G. Vargas-Alarcón for kindly providing the genotypic data from healthy young controls and the Department of Geriatrics from our Institute for the elders' clinical evaluation.
+
+References
+
+Caruso C, Candore G, Colonna Romano G, Lio D, Bonafè M, S, Franceschi C: Immunogenetics of longevity complex relevant to the control of human longevity? A review of data. Mech Ageing and Dev
+
+,
+
+:
+
+-
+
+Candore G, Lio D, Colonna Romano G, Caruso C: Pathogenesis autoimmune diseases associated with
+
+ancestral type: effect of multiple gene interactions. Autoimmunity
+
+,
+
+:
+
+-
+
+Proust J, Moulias R, Fumeron F, Bekkhoucha F, Busson M, Schimd Hors J: HLA and longevity. Tissue Antigens
+
+,
+
+:
+
+-
+
+Rea I, Middleton D: Is the phenotypic A
+
+B
+
+Cw
+
+DR
+
+a marker for male longevity? J Am Geriatr
+
+,
+
+:
+
+-
+
+Bender BS, Nagel JE, Adler WH, Andres R: Absolute blood lymphocyte count and subsequent mortality of men. The Baltimore longitudinal study of aging. J Am Soc
+
+,
+
+:
+
+-
+
+Hansen HE, Sparck JV, Larsen SO: An examination of HLA quencies in three age groups. Tissue Antigens
+
+,
+
+:
+
+-
+
+Lagaay AM, D'Amaro J, Ligthart GJ, Schreuder GM, van Rood JJ, mans W: Longevity and heredity in humans. Association human leukocyte antigen phenotype. Ann NY Acad Sci
+
+:
+
+-
+
+Ivanova R, Hénon N, Lepage V, Charron D, Vicaut E, Schächter HLA-DR alleles display sex-dependent effects on survival discriminate between individual and familial longevity. Mol Genetics
+
+,
+
+:
+
+-
+
+Takata H, Suzuki M, Ishii T, Sekiguchi S, Iri H: Influence of histocompatibility complex region genes on human ity among Okinawan-Japanese centenarians and ians. Lancet
+
+,
+
+:
+
+-
+
+Lisker R, Pérez-Briceño R, Granados J, Babinsky V, de Rubens Armendares S, Buentello L: Gene frequencies and estimates in Mexico City population. Am J Phys Anthropol
+
+:
+
+-
+
+Franceschi C, Monti D, Sansoni P, Cossarizza A: The of exceptional individuals: the lesson of centenarians. nol Today
+
+,
+
+:
+
+-
+
+Bidwell J, Keen L, Gallagher G, Kimberly R, Huizinga T, MF, Oksenberg J, M
+
+icholl J, Pociot F, Hardt C, D'Alfonso Cytokine gene polymorphism in human disease: databases. Genes Immunity
+
+,
+
+:
+
+-
+
+Wilson AG, Symons JA, M
+
+owell TL, M
+
+evitt HO, Duff Effects of a polymorphism in the human tumor necrosis tor-α promoter on transcriptional activation. Proc Natl Acad USA
+
+,
+
+:
+
+-
+
+Hajeer AH, Hutchinson IV: Influence of TNF alpha gene morphisms on TNF alpha production and disease. Hum nol
+
+,
+
+:
+
+-
+
+Franceschi C, Motta L, Valensin S, Rapisarda R, Franzone A, M, Motta M, Monti D, Bonafé M, Ferruci L, Deiana L, Pes GM, C, Desole MS, Barbi C, Sartoni G, Gemelli C, lescai F, Oliviere Marchegiani F, Cardelli M, Cavallone L, Gueresi P, Cossarizza A, jano L, Pini G, Sansoni P, Passeri G, Lisa R, Spazzafumo L, Amadio Iunta S, Stecconi R, Morresi R, Viticchi C, Mattace R, De G, Baggio G: Do men and women follow different to reach extreme longevity? Italian Multicenter Study Centenarians (IMUSCE). Aging (Milano)
+
+,
+
+:
+
+-
+
+Caruso C, Candore G, Colona Romano G, Lio D, Bonafé M, S, Franceschi C: HLA, aging, and longevity: A critical praisal. Hum Immunol
+
+,
+
+:
+
+-
+
+Jacob CO, Fronek Z, Lewis GD, Koo M, Hansen JA, Mc Devitt Heritable major histocompatibility complex class II
+
+α TNF- -308 polymorphism
+
+α Genotyping for the TNF- -308 polymorphism was per- formed using a PCR fragment amplified using the forward primer 5'-AGG CAA TAG GTT TTG AGG GCC AT-3' and the reverse primer 5'-TCC TCC CTG CTC CGA TTC CG-3' to create a restriction site for the NcoI endonuclease (Fer- mentas, Hanover, MD) according to previous reports [32]. Digestion products were analysed by photo typing in 2% agarose gels and stained with ethidium bromide. Only 55 healthy young subjects were analysed for this polymor- phism.
+
+α TNF- serum levels
+
+Serum from each subject was obtained from 5 mL whole blood and stored at -70°C until tested. An ELISA kit was used for the measurement of TNF-α levels according to manufacturer's instructions (R&D Systems, Minneapolis, MN).
+
+Statistics
+
+Allele frequencies were evaluated by gene count and 2 × 2 contingency tables. Statistical differences of allele fre- quencies between elders and controls were done employ- ing chi square test and Yate's correction. Obtained P values were subjected to Bonferroni's correction. Odds ratio was calculated for healthy elders' carriers of specific alleles. Data were tested for the goodness of fit between the observed and expected genotype values and their fit to Hardy-Weinberg equilibrium.
+
+List of Abbreviations
+
+List of Abbreviations HLA Human Leukocyte Antigen
+
+TNF Tumor Necrosis Factor
+
+PCR SSO Polymerase Chain Reaction Sequence Specific Oligonucleotide
+
+ated differences in production of tumor necrosis factor-α: relevance to genetic predisposition to systemic lupus ery- thematosus. Proc Natl Acad Sci USA
+
+,
+
+:
+
+-
+
+Bouma G, Crusius JBA, Poo MO, Kolkman JJ, von Bloomberg BME, Kostense PJ, Giphart MJ, Schreuder GMT, Meuwissen SGM, Peña AS: Secretion of tumor necrosis factor α and lymphotoxin α in the relation to polimorphisms in the TNF genes and HLA- DR alleles. Relevance for inflammatory bowel disease. Scand J Immunol
+
+,
+
+:
+
+-
+
+Abraham LJ, French NAH, Dawkins RL: Polymorphic MHC ances- tral haplotypes affect the activity of tumor necrosis factor- alpha. Clin Exp Immunol
+
+,
+
+:
+
+-
+
+Fargion S, Valenti L, Dongiovanni P, Fracanzani AL: TNF alpha pro- moter polymorphisms. Methods Mol Med
+
+,
+
+:
+
+-
+
+M
+
+usker SM, Curran MD, Dynan KB, M
+
+ullagh CD, Urquhart DD, Middleton D, Patterson CC, M
+
+lroy SP, Passmore AP: Association between polymorphism in regulatory region of gene encod- ing tumor necrosis factor alpha and risk of Alzheimer's dis- ease and vascular dementia: a case-control study. Lancet
+
+,
+
+:
+
+-
+
+Franceschi C, Ottaviani E: Stress, inflammation and natural immunity in the aging process: a new theory. Aging (Milano)
+
+,
+
+:
+
+-
+
+Ross OA, Curran MD, Rea IM, Hyland P, Duggan O, Barnett CR, Annett K, Patterson C, Barnett YA, Middleton D: HLA haplotypes and TNF polymorphism do not associated with longevity in the Irish. Mech Ageing Dev
+
+,
+
+:
+
+-
+
+Wang XY, Hurme M, Jylha M, Hervonen A: Lack of association between human longevity and polymorphisms of IL-
+
+clus- ter, IL-
+
+, IL-
+
+and TNF-alpha genes in Finnish nonagenari- ans. Mech Ageing Dev
+
+,
+
+:
+
+-
+
+Price P, Witt C, Allcock R, Sayer D, Garlepp M, Kok CC, French M, Mallal S, Christiansen F: The genetic basis for the association of the
+
+ancestral haplotype (A
+
+, B
+
+, DR
+
+) with multiple immunopathological diseases. Immunol Rev
+
+,
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, Colonna-Romano G, Candore G, Bonafe M, Cavallone L, Marchegiceni F, Olivieri F, Franceschi C, Caruso C: Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-
+
+-
+
+promoter SNP and its interaction with TNF-α -
+
+promoter SNP. J Med Genet
+
+,
+
+:
+
+-
+
+Kroeger KM, Carville KS, Abraham LJ: The -
+
+tumor necrosis factor-a promoter polymorphism effects transcription. Mol Immunol
+
+,
+
+:
+
+-
+
+Zeicher M, Mozes E, Lonai P: Lymphocytes alloantigens associ- ated with X-chromosome linked immune response genes. Proc Natl Acad Sci USA
+
+,
+
+:
+
+-
+
+Litwin SD: Does the X chromosome have a special role in immune biology? Med Hypotheses
+
+,
+
+:
+
+-
+
+Jansson L, Holmdahl R: Genes on the X chromosome affect development of collagen-induced arthritis in mice. Clin Exp Immunol
+
+,
+
+:
+
+-
+
+Bignon JD, Fernandez-Viña MA: Protocols of the
+
+th Interna- tional histocompatibility Workshop for typing of HLA class II alleles by DNA amplification by polymerase chain reaction (PCR and hybridization with sequence specific oligonucle- otide probes (SSOP). In Genetic Diversity of HLA, functional and Medical implications Volume I. Edited by: Charon D. Paris: EDK;
+
+Wilson AG, di Giovine FS, Blakemore AI, Duff GW: Single base pol- ymorphism in the human Tumor Necrosis Factor (TNF) alpha gene detectable by Nc
+
+restriction of PCR product. Hum Mol Gen
+
+,
+
+:
+
+-
+
+Publish with Bi
+
+ed Central and e very scientist can read your work free of charge "Bi
+
+ed Central will be the most significant development for disseminating the results of biomedical research in our lifetime." Sir Paul Nurse, Cancer Research UK Your research papers will be: available free of charge to the entire biomedical community peer reviewed and published immediately upon acceptance cited in Pu
+
+ed and archived on Pu
+
+ed Central yours — you keep the copyright your manuscript here:

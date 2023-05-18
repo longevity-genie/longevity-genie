@@ -1,0 +1,1051 @@
+Polymorphisms in the superoxidase dismutase reveal no association with human longevity in Germans: a case–control association study
+
+Liljana Gentschew • Friederike Flachsbart • Rabea Kleindorp • Nandini Badarinarayan • Stefan Schreiber • Almut Nebel
+
+Received: 31 May 2013/Accepted: 20 September 2013/Published online: 22 October 2013  Springer Science+Business Media Dordrecht 2013
+
+SNPs in our extensive collection of 1,612 long-lived individuals (centenarians and nonagenarians) and 1,104 younger controls. Furthermore, we intended to replicate the previous association of the SOD2 SNP rs4880 with longevity observed in a Danish cohort. In our study, no association was detected between the tested SNPs and the longevity phenotype, neither in the entire long-lived sample set nor in the centenarian subgroup analysis. Our results suggest that there is no considerable influence of sequence variation in the SOD genes on human longevity in Germans.
+
+in aging and oxidative stress regulation has been widely studied and there is growing evidence that imbalances in these processes influence lifespan in several species. In humans, genetic polymorphisms in SOD genes may play an important role in the development of age-related diseases and genetic variation in SOD2 is thought to be associated with longevity. These observations prompted us to perform a case–control association study using a comprehen- sive haplotype tagging approach for the three SOD genes (SOD1, SOD2, SOD3) by testing a total of 19
+
+Liljana Gentschew and Friederike Flachsbart have contributed equally to this study.
+
+Introduction
+
+Electronic supplementary material The online version of this article (doi:10.1007/s10522-013-9470-3) contains supple- mentary material, which is available to authorized users.
+
+of multiple genetic and environmental factors. Based on epidemiological studies, approximately 30 % of inter-individual variation in adult lifespan is attributed to genetic parameters whereas environmental factors account for the remaining 70 % (Herskind et al. 1996; Hjelmborg et al. 2006; Ljungquist et al. 1998; Skytthe et al. 2003). Interestingly, most long-lived individuals (LLI) stay healthy with a delayed onset of age-related diseases such as coronary heart disease, neurodegen- erative disease and cancer (Schoenhofen et al. 2006; Sebastiani and Perls 2012). It has been proposed that their genetic composition differs from that of average-
+
+L. Gentschew   F. Flachsbart   R. Kleindorp  N. Badarinarayan   S. Schreiber   A. Nebel (&) Institute of Clinical Molecular Biology, Christian- Albrechts-University of Kiel, Schittenhelmstraße
+
+,
+
+Kiel, Germany e-mail: a.nebel@mucosa.de
+
+S. Schreiber
+
+Clinic for Internal Medicine I, University Schleswig-Holstein, Kiel, Germany
+
+Popgen Biobank, Christian-Albrechts-University, Kiel, Germany
+
+lived individuals in the following aspects: (i) LLI carry a reduced number of risk alleles for age-related diseases and/or (ii) LLI are particularly enriched for beneficial variants in so-called ‘‘longevity-assurance genes’’ (Newman et al. 2010; Perls et al. 2002).
+
+expression of SOD2 in adult Drosophila melanogaster resulted in an increased lifespan that is proportional to the increased expression of the enzyme (Sun et al. 2002). Similar effects were observed in mice over- expressing SOD2 or SOD1 (Hu et al. 2007; Orr and Sohal 1994), whereas mice with conditional SOD2 deficiency in fibroblasts showed a reduced lifespan and premature onset of age-related phenotypes such as weight loss, skin atrophy, osteoporosis and muscle degeneration (Treiber et al. 2011). Mice deficient in SOD3 also displayed a shorter life (Elchuri et al. 2005).
+
+suggest that the accumulation of reactive oxygen species (ROS) cause the alteration of physical or cognitive functions with aging (Harman 1956). To date, most of the research in the area of longevity supports this hypothesis (reviewed in Bokov et al. 2004). However, some studies have shown that a moderate level of oxidative stress might have positive effects on lifespan as put forward by the hormesis hypothesis (Rattan 2010; Rattan and Demirovic 2009; Ristow and Zarse 2010). High levels of ROS are responsible for the onset of various common diseases that are associated with a decreased lifespan including hypertension (Lassegue and Griendling 2004), athero- sclerosis (Kaneto et al. 2010; Morrell 2008), type 2 diabetes (Kaneto et al. 2010), cancer (Waris and Ahsan 2006) and Alzheimer’s disease (Benzi and Moretti 1995). It is possible that LLI carry beneficial genetic variants in longevity-assurance genes that are involved in stress response signaling or help to protect against oxidative damage caused by free radicals
+
+2005).
+
+In humans, genetic polymorphisms in the three SOD genes may play an important role in the development of age-related diseases (Caple et al. 2010; Charniot et al. 2011; Soerensen et al. 2009; Wiener et al. 2007) and longevity (Budovsky et al. 2013; Soerensen et al. 2009). The most widely studied SOD single nucleotide polymorphism (SNP) rs4880 is located in the SOD2 gene and results in a T [ C substitution causing an amino acid substitution from valine to alanine. The association results for that SNP are inconsistent. It was found that individuals carrying the T allele have an increased risk for cardiomyopathy (Hiroi et al. 1999), atherosclerosis (Kakko et al. 2003), coronary heart disease (Jones et al. 2010), diabetes mellitus (Tian et al. 2011) and lung cancer (Wang et al. 2001). Other studies have shown that the C allele is more common in patients with breast cancer (Ambro- sone et al. 1999; Hubackova et al. 2012), Parkinson’s disease (Shimoda-Matsubayashi et al. 1996), Alzhei- mer’s disease (Wiener et al. 2007), gastric cancer (Yi et al. 2010) and prostate cancer (Woodson et al. 2003). However, Soerensen et al. indicated that the C allele of rs4880 is significantly associated with decreased mortality in a longitudinal study of 1,650 LLI (age at intake: 92–93 years) from the Danish 1905 cohort (Soerensen et al. 2009). A previous study showed an increased frequency of the T allele in older Ashkenazi male subjects (75 years) compared to younger con- trols (22 years) (Stessman et al. 2005). Other case– control studies did not show an association between rs4880 and longevity (De Benedictis et al. 1998; Taufer et al. 2005). As the SOD genes (i) have been shown to influence aging processes in model organ- isms, (ii) play an important role in the regulation of oxidative stress responses and (iii) are regarded as susceptibility factors for age-related diseases, these genes appear to be attractive candidates to be studied
+
+Superoxide dismutases (SODs) are one class of molecules with antioxidant properties that remove superoxide from organisms by catalyzing the dismu- tation of the superoxide radical to hydrogen peroxide. They are a central player in the redox biology of cells and tissues and represent an important endogenous antioxidant defense and signaling system that protects cells from free radicals (Buettner 2011; Nozik-Grayck et al. 2005).
+
+In mammalian cells, three SOD genes have been identified that all have specific functions and cellular distributions: the cytoplasmic copper-zinc SOD1 (CuZnSOD), the mitochondrial SOD2 (MnSOD) and extracellular SOD3 (EC SOD) (reviewed in Zelko et al. 2002). The role of SODs in aging and oxidative stress regulation has been widely studied and there is growing evidence that imbalances in these processes are linked to aging in several species like yeast (Longo et al. 1999; Unlu and Koc 2007; Wawryn et al. 1999), worms (Cabreiro et al. 2011), flies (Duttaroy et al. 2003; Kirby et al. 2002; Phillips et al. 1989) and mice (Elchuri et al. 2005; Hu et al. 2007). An over-
+
+C 0.8; p [ 0.001) to ensure that most of the HWE allelic variation of the genomic regions was captured and the common haplotypes (C2 %) were represented. Most of the chosen SNPs are located in regions of interest such as exons and 50 and 30 untranslated regions. Furthermore, polymorphisms that have already been reported to be involved in aging processes and various diseases were included in the marker set.
+
+in our extensive German longevity sample. In addi- tion, we tested the finding for the SOD2 SNP rs4880 in our extended sample set because of the previously observed inconsistent association results with old age. To this end, we performed a case–control association study using a comprehensive haplotype tagging approach for the three SOD genes (SOD1, SOD2 and SOD3) and tested a total of 19 SNPs in our collection of 1,612 LLI (centenarians and nonagenarians) and 1,104 younger controls (Supplementary Figure 1).
+
+Statistical analysis
+
+Allele-based single marker case–control analyses (CCA) and odds ratio (OR) statistics were calculated with v2 statistics using the open-source analysis toolset PLINK v.1.07 (http://pngu.mgh.harvard.edu/
+
+Methods
+
+Subjects
+
+sidered nominally significant. All analyzed SNPs had a minor allele frequency of at least 1 % and were tested for Hardy–Weinberg equilibrium (HWE) with the software program Haploview version 4.1 (http:// www.broad.mit.edu/mpg/haploview/) (Barrett et al. 2005) before inclusion in the analyses (p [ HWE 0.001). Furthermore, Haploview was also used for selection of tagging SNPs based on the HapMap genotypes of Europeans with the pairwise tagging option (pairwise r2 C 0.8), to calculate linkage dis- equilibrium (LD) based on the measure r2 between each marker pair, for the visualization of LD plots and to conduct haplotype association analyses.
+
+A total sample of 1,612 unrelated German study subjects of exceptional age (age range: 95–109 years, mean age: 98.8 years), including 748 centenarians (mean age: 101.3 years) was selected for the analysis. The gender ratio was 75 % females versus 25 % males. At the time of recruitment, 1,104 German control subjects were between 60 and 75 years (mean age: 66.9 years). All controls matched the LLI by ancestry, gender, and geographical origin within the country. A detailed description of the samples and the recruitment procedure is reported elsewhere (Nebel et al. 2005). Written informed consent was obtained from all participants. Ethical approval was obtained by the Ethics Committee of the Medical Faculty of the Christian-Albrechts-University, Kiel.
+
+Results
+
+SNP genotyping
+
+The entire sample set of 1,612 German LLI, a subset of 748 centenarians and the control group of 1,104 younger individuals were subjected to a gender- matched case–control analysis of 19 SNPs located in the SOD1, SOD2 and SOD3 genes. All SNPs were found to be in HWE in both the cases and controls. No association was observed between the tested SNPs and the longevity phenotype, neither in the whole LLI sample (1,612 cases and 1,104 controls) (Supplemen- tary Table 2) nor in the centenarian subgroup (748 cases and 1,104 controls) (Table 1) or in a gender- specific analysis (Supplementary Table 3a, b). In the female centenarian subset, one SNP (rs8031) reached nominal significance (p = 0.035) which disappeared after correction for multiple testing (Supplementary Table 3b). Hence, we did not replicate the significant
+
+genotyped for 19 SNPs located in the SOD1, SOD2 and SOD3 gene regions by the iPLEX Mass ARRAY technology (Sequenom, San Diego, CA), the SNPlex Genotyping System (Life Technologies Corporation, Foster City, CA) and the ABI TaqMan technology (Life Technologies Corporation, Foster City, CA). Of the 19 analyzed markers, three are located in the SOD1 gene, eight in SOD2 and eight in SOD3. The selected SOD SNPs with previously described findings are listed in the Supplementary Table 1 together with an overview of the complete marker set. The set consisted of an informative panel of SNPs selected through a haplotype tagging approach (based on the HapMap genotypes of Europeans with the pairwise tagging option; pairwise
+
+et al. 2009; Deelen et al. 2011; Flachsbart et al. 2009; Li et al. 2009; Nebel et al. 2011; Pawlikowska et al. 2009; Schachter et al. 1994; Soerensen et al. 2010; Willcox et al. 2008). Both genes were identified by candidate gene association studies. A number of investigations were already performed on a genome-wide scale to uncover, in a hypothesis-free manner, common genetic variants that are involved in human longevity (Deelen et al. 2011; Nebel et al. 2011; Newman et al. 2010; Walter et al. 2011). However, beside APOE, genome- wide association studies (GWAS) failed to identify any additional susceptibility genes with genome-wide significance for this trait. Apparently, the influence of common genetic variation on longevity is rather modest which cannot be detected by GWAS (Deelen et al. 2011). Therefore, GWAS provide only limited statistical power as multiple testing for more than a million markers has to be taken into account. This means that candidate gene studies are still powerful tools for detecting new longevity variants.
+
+Eighteen of the 19 analyzed SNPs form four haplotype blocks, where block 1 comprises three markers in SOD1, block 2 eight markers in SOD2, and block 3 plus block 4 seven markers in SOD3 (Supple- mentary Figure 1), which in turn results in 17 common haplotypes(each present atafrequencyofatleast 2 % in the population). None of the haplotypes showed a significant association with the longevity phenotype, neither in the entire LLI sample set (Supplementary Table 4a) nor in the centenarian subgroup analysis (Supplementary Table 4b).
+
+Discussion
+
+So far, only the association of genetic variants in two genes (APOE and FOXO3A) with human longevity has been validated in many different populations (Anselmi
+
+1 Summary association statistics for the SOD1, SOD2 and SOD3 polymorphisms (centenarian subgroup compared to younger
+
+1 Summary association statistics for the SOD1, SOD2 and SOD3 polymorphisms (centenarian subgroup compared to younger
+
+Gene Chr SNP MAFa cases MAFa controls Pb ORc 95 % CId CCA SOD1 21 rs4998557 0.120 0.127 0.520 0.933 0.755–1.152 rs2070424 0.069 0.067 0.770 1.042 0.791–1.374 rs1041740 0.306 0.306 0.998 1.000 0.860–1.163 SOD2 6 rs6917589 0.236 0.231 0.741 1.027 0.879–1.199 rs2842980 0.206 0.200 0.689 1.036 0.873–1.229 rs7855 0.045 0.0463 0.842 0.969 0.706–1.328 rs8031 0.476 0.499 0.186 0.911 0.793–1.046 rs5746141 0.059 0.055 0.601 1.079 0.813–1.432 rs5746136 0.311 0.296 0.354 1.074 0.924–1.247 rs5746133 0.010 0.008 0.466 1.295 0.645–2.602 rs4880 0.504 0.494 0.552 1.041 0.912–1.187 SOD3 4 rs13306703 0.092 0.095 0.764 0.964 0.760–1.224 rs8192287 0.064 0.063 0.955 1.008 0.770–1.167 rs699473 0.327 0.335 0.613 0.965 0.839–1.109 rs17881426 0.090 0.098 0.425 0.907 0.715–1.152 rs1007991 0.318 0.325 0.679 0.969 0.834–1.125 rs2536512 0.341 0.340 0.942 1.005 0.875–1.155 rs8192291 0.199 0.179 0.144 1.135 0.958–1.345 rs8192290 0.025 0.030 0.428 0.841 0.548–1.291
+
+b P , p value obtained from an allele-based case–control comparison, using a v2 test with 1 degree of freedom CCA c Odds Ratio for attaining old age with the minor allele in controls as reference allele d Confidence interval; 95 % CI is for OR
+
+because its validity and efficacy for genetic longevity research have already been shown with the identifica- tion and validation of previous association findings (Flachsbart et al. 2009; Nebel et al. 2005). With the investigation of more than 2,700 individuals using a comprehensive haplotype tagging approach we there- fore suggest that there is no considerable influence of sequence variation in the SOD genes on human longevity in Germans.
+
+The family of SODs is thought to play a role in aging processes due to their involvement in stress response signaling and their ability to protect cells from ROS (Buettner 2011; Nozik-Grayck et al. 2005). Some studies in model organisms have shown that moderate levels of ROS induce down-regulation of the insulin-like signaling pathway (Brunet et al. 2004; Honda and Honda 1999; Wang et al. 2007). This promotes lifespan extension via the activation of stress resistance, which itself is mediated by an increase in SOD expression (Araujo et al. 2011; Brioukhanov et al. 2006), thereby supporting the hypothesis of hormetic effects (Rattan 2010; Rattan and Demirovic 2009; Ristow and Zarse 2010). In humans, some studies failed to show a correlation between a higher SOD activity and lifespan (Doonan et al. 2008; Yen et al. 2009) and other investigations revealed that SODs enzyme activities are lower in healthy cente- narians compared to nonagenarians (Andersen et al. 1998; Casado et al. 1998; Mecocci et al. 2000). This finding seems counter-intuitive in view of the protec- tive role of enzymes in stress resistance. On the other hand, those results might indicate less oxidative stress in the very old, thus allowing them to live such a long and healthy life. This hypothesis is further supported by studies that have shown a lower extent of oxidative stress in centenarians as compared to nonagenarians (Barbieri et al. 2003; Paolisso et al. 1998). As previous genetic investigations suggested that genetic variation in the SOD genes may influence the proteins’ antiox- idant activity, which could be expected to affect susceptibility to age-related diseases or life span of the individual (Caple et al. 2010; Charniot et al. 2011; Soerensen et al. 2009; Wiener et al. 2007), we investigated whether genetic variation in those genes is associated with longevity in our German study sample.
+
+published findings for rs4880 (Soerensen et al. 2009; Stessman et al. 2005). In order to reduce the number of false-positive results, replication studies in a large independent sample are mandatory. Although no significant association was observed for the tested SNP, the presentation of negative association results provides important and comprehensive information about all obtained findings for the SOD genes. Otherwise, publication bias may occur by selective publishing only positive outcomes. This might lead to over-estimation of the observed effects. For a com- prehensive overview of all obtained research findings both positive and negative results should be published by journals, as already suggested by Dirnagl and Lauritzen (2010) and Ioannidis (2006).
+
+In a case–control study reproducing positive asso- ciation findings represents one of the major challenges. Reasons for replication failures in human longevity research could be the following: Validation of associ- ation results might be hampered by the fact that different sample sizes and age ranges for case and control groups were used. Another reason might be that the associations are population-specific. For example, different findings were observed for rs4880 in several populations. The Jewish sample (Stessman et al. 2005) was much smaller and younger than the German study group and represents a different ethnicity. And even though the German and Danish populations are quite close in sample size, age range and ethnicity, the Danish study was conducted in a prospective manner, which might also explain the different result in our retrospective case–control analysis. Furthermore, varying sets of interacting genetic and environmental factors might induce population-specific effects (Cal- iebe et al. 2010).
+
+Neither in the entire LLI sample nor in the cente- narian subgroup a significant association between the tested SNPs or haplotypes and the longevity phenotype was observed. By tagging an informative subset of common variants and in consideration of haplotype differences, comprehensive information about common SNPs and haplotypes was covered. Additionally, it should be possible to obtain statistical evidence for the effects of rare variants that are captured by one of the common haplotypes (Lin et al. 2004). The possibility that our negative association finding results from population stratification in our sample is unlikely,
+
+For the human longevity phenotype it is well known that most common genetic variants are likely to have only small to moderate effects (Christensen et al. 2006; Deelen et al. 2011; Nebel et al. 2011; Newman
+
+Barrett JC, Fry B, Maller J, Daly MJ (
+
+) Haploview: analysis and visualization of LD and haplotype maps. Bioinfor- matics
+
+:
+
+–
+
+Bell JT, Tsai PC, Yang TP, Pidsley R, Nisbet J, Glass D, Mangino M, Zhai G, Zhang F, Valdes A, Shin SY, Dempster EL, Murray RM, Grundberg E, Hedman AK, Nica A, Small KS, Dermitzakis ET, M
+
+arthy MI, Mill J, Spector TD, Deloukas P (
+
+) Epigenome-wide scans identify differentially methylated regions for age and age- related phenotypes in a healthy ageing population. PL
+
+Genet
+
+:e
+
+doi:
+
+/journal.pgen.
+
+Benzi G, Moretti A (
+
+) Are reactive oxygen species involved in Alzheimer’s disease? Neurobiol Aging
+
+:
+
+–
+
+Bokov A, Chaudhuri A, Richardson A (
+
+) The role of oxi- dative damage and stress in aging. Mech Ageing Dev
+
+:
+
+–
+
+Brioukhanov AL, Netrusov AI, Eggen RI (
+
+) The catalase and superoxide dismutase genes are transcriptionally up- regulated upon oxidative stress in the strictly anaerobic archaeon Methanosarcina barkeri. Microbiology
+
+:
+
+–
+
+Brunet A, Sweeney LB, Sturgill JF, Chua KF, Greer PL, Lin Y, Tran H, Ross SE, Mostoslavsky R, Cohen HY, Hu LS, Cheng HL, Jedrychowski MP, Gygi SP, Sinclair DA, Alt FW, Greenberg ME (
+
+) Stress-dependent regulation of FOXO transcription factors by the SIRT
+
+deacetylase. Science
+
+:
+
+–
+
+Budovsky A, Craig T, Wang J, Tacutu R, Csordas A, Lourenc¸o J, Fraifeld VE, de Magalha˜es JP (
+
+) Longevit
+
+ap: a database of human genetic variants associated with lon- gevity. Trends Genet. doi:
+
+/j.tig.
+
+Buettner GR (
+
+) Superoxide dismutase in redox biology: the roles of superoxide and hydrogen peroxide. Anticancer Agents Med Chem
+
+:
+
+–
+
+Cabreiro F, Ackerman D, Doonan R, Araiz C, Back P, Papp D, Braeckman BP, Gems D (
+
+) Increased life span from overexpression of superoxide dismutase in Caenorhabditis elegans is not caused by decreased oxidative damage. Free Radic Biol Med
+
+:
+
+–
+
+Caliebe A, Kleindorp R, Blanche H, Christiansen L, Puca AA, Rea IM, Slagboom E, Flachsbart F, Christensen K, Rimbach G, Schreiber S, Nebel A (
+
+) No or only population-specific effect of PON
+
+on human longevity: a comprehensive meta-analysis. Ageing Res Rev
+
+:
+
+–
+
+Caple F, Williams EA, Spiers A, Tyson J, Burtle B, Daly AK, Mathers JC, Hesketh JE (
+
+) Inter-individual variation in DNA damage and base excision repair in young, healthy non-smokers: effects of dietary supplementation and genotype. Br J Nutr
+
+:
+
+–
+
+Casado A, de la Torre R, Lopez-Fernandez E, Carrascosa D, Venarucci D (
+
+) Superoxide dismutase and catalase levels in diseases of the aged. Gac Med Mex
+
+:
+
+–
+
+Charniot JC, Sutton A, Bonnefont-Rousselot D, Cosson C, Khani-Bittar R, Giral P, Charnaux N, Albertini JP (
+
+) Manganese superoxide dismutase dimorphism relationship with severity and prognosis in cardiogenic shock due to dilated cardiomyopathy. Free Radic Res
+
+:
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat Rev Genet
+
+:
+
+–
+
+et al. 2010; Walter et al. 2011). This highlights the need of a large sample size to detect those longevity variants. It is also possible to perform meta-analyses for identification of candidate genes with modest influence. Compared to the effects of genetic compo- nents, environmental factors appear to be one of the major determinants of human longevity. Taken together, the number of novel genetic findings con- tributing to human longevity is limited and the loci that explain most of the differences in life expectan- cies have not been identified yet (Deelen et al. 2013). Alternative approaches such as the investigation of structural variation, gene–gene interactions or epige- netic mechanisms (e.g. miRNA, methylation patterns) are likely to improve our understanding of the interplay of the various genetic and environmental factors that influence human longevity (Bell et al. 2012; Christensen et al. 2006; Collino et al. 2013; ElSharawy et al. 2012; Gentilini et al. 2012; Glessner et al. 2013; Heyn et al. 2012; Kuningas et al. 2011; Sebastiani et al. 2011; Tan et al. 2002).
+
+Acknowledgments This study was funded by the DFG Excellence Cluster ‘Inflammation at Interfaces’, the INTERREG 4 A programme Syddanmark-Schleswig-K.E.R.N (with EU funds from the European Regional Development Fund) and the RESOLVE project (FP7-HEALTH-F4-2008-202047).
+
+References
+
+Ambrosone CB, Freudenheim JL, Thompson PA, Bowman E, Vena JE, Marshall JR, Graham S, Laughlin R, Nemoto T, Shields PG (
+
+) Manganese superoxide dismutase (M
+
+OD) genetic polymorphisms, dietary antioxidants, and risk of breast cancer. Cancer Res
+
+:
+
+–
+
+Andersen HR, Jeune B, Nybo H, Nielsen JB, Andersen-Ranberg K, Grandjean P (
+
+) Low activity of superoxide dis- mutase and high activity of glutathione reductase in erythrocytes from centenarians. Age Ageing
+
+:
+
+–
+
+Anselmi CV, Malovini A, Roncarati R, Novelli V, Villa F, Condorelli G, Bellazzi R, Puca AA (
+
+) Association of the FOXO
+
+A locus with extreme longevity in a southern Italian centenarian study. Rejuvenation Res
+
+:
+
+–
+
+Araujo J, Breuer P, Dieringer S, Krauss S, Dorn S, Zimmermann K, Pfeifer A, Klockgether T, Wuellner U, Evert BO (
+
+) FOXO
+
+-dependent upregulation of superoxide dismutase-
+
+in response to oxidative stress is impaired in spinocere- bellar ataxia type
+
+Hum Mol Genet
+
+:
+
+–
+
+Barbieri M, Rizzo MR, Manzella D, Grella R, Ragno E, Car- bonella M, Abbatecola AM, Paolisso G (
+
+) Glucose regulation and oxidative stress in healthy centenarians. Exp Gerontol
+
+:
+
+–
+
+Collino S, Montoliu I, Martin FP, Scherer M, Mari D, Salvioli S, Bucci L, Ostan R, Monti D, Biagi E, Brigidi P, Franceschi C, Rezzi S (
+
+) Metabolic signatures of extreme lon- gevity in northern italian centenarians reveal a complex remodeling of lipids, amino acids, and gut microbiota metabolism. PL
+
+ONE
+
+:e
+
+doi:
+
+/journal. pone.
+
+De Benedictis G, Carotenuto L, Carrieri G, De Luca M, Falcone E, Rose G, Cavalcanti S, Corsonello F, Feraco E, Baggio G, Bertolini S, Mari D, Mattace R, Yashin AI, Bonafe M, Franceschi C (
+
+) Gene/longevity association studies at four autosomal loci (REN, THO, PARP, SOD
+
+). Eur J Hum Genet
+
+:
+
+–
+
+Deelen J, Beekman M, Uh HW, Helmer Q, Kuningas M, Christiansen L, Kremer D, van der Breggen R, Suchiman HE, Lakenberg N, van den Akker EB, Passtoors WM, Tiemeier H, van Heemst D, de Craen AJ, Rivadeneira F, de Geus EJ, Perola M, van der Ouderaa FJ, Gunn DA, Boomsma DI, Uitterlinden AG, Christensen K, van Duijn CM, Heijmans BT, Houwing-Duistermaat JJ, Westendorp RG, Slagboom PE (
+
+) Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell
+
+:
+
+–
+
+Deelen J, Beekman M, Capri M, Franceschi C, Slagboom PE (
+
+) Identifying the genomic determinants of aging and longevity in human population studies: progress and challenges. Bi
+
+ssays
+
+:
+
+–
+
+Dirnagl U, Lauritzen M (
+
+) Fighting publication bias: introducing the Negative Results section. J Cereb Blood Flow Metab
+
+:
+
+–
+
+Doonan R, M
+
+lwee JJ, Matthijssens F, Walker GA, Houthoofd K, Back P, Matscheski A, Vanfleteren JR, Gems D (
+
+) Against the oxidative damage theory of aging: superoxide dismutases protect against oxidative stress but have little or no effect on life span in Caenorhabditis elegans. Genes Dev
+
+:
+
+–
+
+Duttaroy A, Paul A, Kundu M, Belton A (
+
+) A Sod
+
+null mutation confers severely reduced adult life span in Dro- sophila. Genetics
+
+:
+
+–
+
+Elchuri S, Oberley TD, Qi WB, Eisenstein RS, Roberts LJ, Van Remmen H, Jepstein CJ, Huang TT (
+
+) C
+
+OD deficiency leads to persistent and widespread oxidative damage and hepatocarcinogenesis later in life. Oncogene
+
+:
+
+–
+
+E
+
+harawy A, Keller A, Flachsbart F, Wendschlag A, Jacobs G, Kefer N, Brefort T, Leidinger P, Backes C, Meese E, Schreiber S, Rosenstiel P, Franke A, Nebel A (
+
+) Genome-wide m
+
+NA signatures of human longevity. Aging Cell
+
+:
+
+–
+
+Flachsbart F, Caliebe A, Kleindorp R, Blanche H, von Eller- Eberstein H, Nikolaus S, Schreiber S, Nebel A (
+
+) Association of FOXO
+
+A variation with human longevity confirmed in German centenarians. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Gentilini D, Mari D, Castaldi D, Remondini D, Ogliari G, Ostan R, Bucci L, Sirchia SM, Tabano S, Cavagnini F, Monti D, Franceschi C, Di Blasio AM, Vitale G (
+
+) Role of epigenetics in human aging and longevity: genome-wide DNA methylation profile in centenarians and centenarians’ offspring. Age (Dordr). doi:
+
+/s
+
+-
+
+-
+
+-
+
+Collino S, Montoliu I, Martin FP, Scherer M, Mari D, Salvioli Bucci L, Ostan R, Monti D, Biagi E, Brigidi P, C, Rezzi S (
+
+) Metabolic signatures of extreme gevity in northern italian centenarians reveal a remodeling of lipids, amino acids, and gut metabolism. PL
+
+ONE
+
+:e
+
+pone.
+
+De Benedictis G, Carotenuto L, Carrieri G, De Luca M, E, Rose G, Cavalcanti S, Corsonello F, Feraco E, Baggio Bertolini S, Mari D, Mattace R, Yashin AI, Bonafe Franceschi C (
+
+) Gene/longevity association studies four autosomal loci (REN, THO, PARP, SOD
+
+). Eur Hum Genet
+
+:
+
+–
+
+Deelen J, Beekman M, Uh HW, Helmer Q, Kuningas Christiansen L, Kremer D, van der Breggen R, HE, Lakenberg N, van den Akker EB, Passtoors Tiemeier H, van Heemst D, de Craen AJ, Rivadeneira F, Geus EJ, Perola M, van der Ouderaa FJ, Gunn Boomsma DI, Uitterlinden AG, Christensen K, van CM, Heijmans BT, Houwing-Duistermaat JJ, RG, Slagboom PE (
+
+) Genome-wide association identifies a single major locus contributing to survival old age; the APOE locus revisited. Aging Cell Deelen J, Beekman M, Capri M, Franceschi C, Slagboom (
+
+) Identifying the genomic determinants of aging longevity in human population studies: progress challenges. Bi
+
+ssays
+
+:
+
+–
+
+Dirnagl U, Lauritzen M (
+
+) Fighting publication introducing the Negative Results section. J Cereb Flow Metab
+
+:
+
+–
+
+Vaupel JW (
+
+) The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet
+
+:
+
+–
+
+Heyn H, Li N, Ferreira HJ, Moran S, Pisano DG, Gomez A, Diez J, Sanchez-Mut JV, Setien F, Carmona FJ, Puca AA, Sayols S, Pujana MA, Serra-Musach J, Iglesias-Platas I, Formiga F, Fernandez AF, Fraga MF, Heath SC, Valencia A, Gut IG, Wang J, Esteller M (
+
+) Distinct DNA methylomes of newborns and centenarians. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Hiroi S, Harada H, Nishi H, Satoh M, Nagai R, Kimura A (
+
+) Polymorphisms in the SOD
+
+and HLA-DRB
+
+genes are associated with nonfamilial idiopathic dilated cardiomy- opathy in Japanese. Biochem Biophys Res Commun
+
+:
+
+–
+
+Hjelmborg J, Iachine I, Skytthe A, Vaupel JW, M
+
+ue M, Koskenvuo M, Kaprio J, Pedersen NL, Christensen K (
+
+) Genetic influence on human lifespan and longevity. Hum Genet
+
+:
+
+–
+
+Honda Y, Honda S (
+
+) The daf-
+
+gene network for longevity regulates oxidative stress resistance and Mn-superoxide dismutase gene expression in Caenorhabditis elegans. FASEB J
+
+:
+
+–
+
+Hu DY, Cao P, Thiels E, Chu CT, Wu GY, Oury TD, Klann E (
+
+) Hippocampal long-term potentiation, memory, and longevity in mice that overexpress mitochondrial super- oxide dismutase. Neurobiol Learn Mem
+
+:
+
+–
+
+Hubackova M, Vaclavikova R, Ehrlichova M, Mrhalova M, Kodet R, Kubackova K, Vrana D, Gut I, Soucek P (
+
+) Association of superoxide dismutases and NAD(P)H qui- none oxidoreductases with prognosis of patients with breast carcinomas. Int J Cancer
+
+:
+
+–
+
+Ioannidis JP (
+
+) Journals should publish all ‘‘null’’ results and should sparingly publish ‘‘positive’’ results. Cancer Epidemiol Biomarkers Prev
+
+:
+
+Jones DA, Prior SL, Tang TS, Bain SC, Hurel SJ, Humphries SE, Stephens JW (
+
+) Association between the rs
+
+superoxide dismutase
+
+(C[T) gene variant and coronary heart disease in diabetes mellitus. Diabetes Res Clin Pract
+
+:
+
+–
+
+Kakko S, Paivansalo M, Koistinen P, Kesaniemi YA, Kinnula VL, Savolainen MJ (
+
+) The signal sequence polymor- phism of the M
+
+OD gene is associated with the degree of carotid atherosclerosis. Atherosclerosis
+
+:
+
+–
+
+Kaneto H, Katakami N, Matsuhisa M, Matsuoka TA (
+
+) Role of reactive oxygen species in the progression of type
+
+diabetes and atherosclerosis. Mediators Inflamm
+
+:
+
+Kirby K, Hu J, Hilliker AJ, Phillips JP (
+
+) RNA interference- mediated silencing of Sod
+
+in Drosophila leads to early
+
+adult-onset mortality and elevated endogenous oxidative stress. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Kuningas M, Estrada K, Hsu YH, Nandakumar K, Uitterlinden AG, Lunetta KL, van Duijn CM, Karasik D, Hofman A, Murabito J, Rivadeneira F, Kiel DP, Tiemeier H (
+
+) Large common deletions associate with mortality at old age. Hum Mol Genet
+
+:
+
+–
+
+Lassegue B, Griendling KK (
+
+) Reactive oxygen species in hypertension; an update. Am J Hypertens
+
+:
+
+–
+
+Li Y, Wang WJ, Cao H, Lu J, Wu C, Hu FY, Guo J, Zhao L, Yang F, Zhang YX, Li W, Zheng GY, Cui H, Chen X, Zhu Z, He H, Dong B, Mo X, Zeng Y, Tian XL (
+
+) Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum Mol Genet
+
+:
+
+–
+
+Lin S, Chakravarti A, Cutler DJ (
+
+) Exhaustive allelic transmission disequilibrium tests as a new approach to genome-wide association studies. Nat Genet
+
+:
+
+–
+
+Ljungquist B, Berg S, Lanke J, M
+
+learn GE, Pedersen NL (
+
+) The effect of genetic factors for longevity: a com- parison of identical and fraternal twins in the Swedish Twin Registry. J Gerontol A Biol Sci Med Sci
+
+:M
+
+–M
+
+Longo VD, Liou LL, Valentine JS, Gralla EB (
+
+) Mito- chondrial superoxide decreases yeast survival in stationary phase. Arch Biochem Biophys
+
+:
+
+–
+
+Mecocci P, Polidori MC, Troiano L, Cherubini A, Cecchetti R, Pini G, Straatman M, Monti D, Stahl W, Sies H, Franceschi C, Senin U (
+
+) Plasma antioxidants and longevity: a study on healthy centenarians. Free Radic Biol Med
+
+:
+
+–
+
+Morrell CN (
+
+) Reactive oxygen species: finding the right balance. Circ Res
+
+:
+
+–
+
+Nebel A, Croucher PJ, Stiegeler R, Nikolaus S, Krawczak M, Schreiber S (
+
+) No association between microsomal triglyceride transfer protein (MTP) haplotype and longev- ity in humans. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Nebel A, Kleindorp R, Caliebe A, Nothnagel M, Blanche H, Junge O, Wittig M, Ellinghaus D, Flachsbart F, Wichmann HE, Meitinger T, Nikolaus S, Franke A, Krawczak M, Lathrop M, Schreiber S (
+
+) A genome-wide association study confirms APOE as the major gene influencing sur- vival in long-lived individuals. Mech Ageing Dev
+
+:
+
+–
+
+Newman AB, Walter S, Lunetta KL, Garcia ME, Slagboom PE, Christensen K, Arnold AM, Aspelund T, Aulchenko YS, Benjamin EJ, Christiansen L, D’Agostino RB Sr, Fitzpa- trick AL, Franceschini N, Glazer NL, Gudnason V, Hof- man A, Kaplan R, Karasik D, Kelly-Hayes M, Kiel DP, Launer LJ, Marciante KD, Massaro JM, Miljkovic I, Nalls MA, Hernandez D, Psaty BM, Rivadeneira F, Rotter J, Seshadri S, Smith AV, Taylor KD, Tiemeier H, Uh HW, Uitterlinden AG, Vaupel JW, Walston J, Westendorp RG, Harris TB, Lumley T, van Duijn CM, Murabito JM (
+
+) A meta-analysis of four genome-wide association studies of survival to age
+
+years or older: the cohorts for heart and aging research in genomic epidemiology consortium. J Gerontol A Biol Sci Med Sci
+
+:
+
+–
+
+Nozik-Grayck E, Suliman HB, Piantadosi CA (
+
+) Extra- cellular superoxide dismutase. Int J Biochem Cell Biol
+
+:
+
+–
+
+Orr WC, Sohal RS (
+
+) Extension of life-span by overex- pression of superoxide dismutase and catalase in Dro- sophila melanogaster. Science
+
+:
+
+–
+
+Paolisso G, Tagliamonte MR, Rizzo MR, Manzella D, Gam- bardella A, Varricchio M (
+
+) Oxidative stress and advancing age: results in healthy centenarians. J Am Ge- riatr Soc
+
+:
+
+–
+
+Pawlikowska L, Hu D, Huntsman S, Sung A, Chu C, Chen J, Joyner AH, Schork NJ, Hsueh WC, Reiner AP, Psaty BM, Atzmon G, Barzilai N, Cummings SR, Browner WS, Kwok PY, Ziv E (
+
+) Association of common genetic variation in the insulin/IGF
+
+signaling pathway with human lon- gevity. Aging Cell
+
+:
+
+–
+
+Perls T, Kunkel LM, Puca AA (
+
+) The genetics of excep- tional human longevity. J Mol Neurosci
+
+:
+
+–
+
+Phillips JP, Campbell SD, Michaud D, Charbonneau M, Hilliker AJ (
+
+) Null mutation of copper/zinc superoxide dis- mutase in Drosophila confers hypersensitivity to paraquat and reduced longevity. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Rattan SI (
+
+) Targeting the age-related occurrence, removal, and accumulation of molecular damage by hormesis. Ann NY Acad Sci
+
+:
+
+–
+
+Rattan SI, Demirovic D (
+
+) Hormesis can and does work in humans. Dose Response
+
+:
+
+–
+
+Ristow M, Zarse K (
+
+) How increased oxidative stress promotes longevity and metabolic health: the concept of mitochondrial hormesis (mitohormesis). Exp Gerontol
+
+:
+
+–
+
+Schachter F, Faure-Delanef L, Guenot F, Rouger H, Froguel P, Lesueur-Ginot L, Cohen D (
+
+) Genetic associations with human longevity at the APOE and ACE loci. Nat Genet
+
+:
+
+–
+
+Schoenhofen EA, Wyszynski DF, Andersen S, Pennington J, Young R, Terry DF, Perls TT (
+
+) Characteristics of
+
+supercentenarians. J Am Geriatr Soc
+
+:
+
+–
+
+Sebastiani P, Perls TT (
+
+) The genetics of extreme longev- ity: lessons from the new England centenarian study. Front Genet
+
+:
+
+Sebastiani P, Riva A, Montano M, Pham P, Torkamani A, Scherba E, Benson G, Milton JN, Baldwin CT, Andersen S, Schork NJ, Steinberg MH, Perls TT (
+
+) Whole genome sequences of a male and female supercentenarian, ages greater than
+
+years. Front Genet
+
+:
+
+Shimoda-Matsubayashi S, Matsumine H, Kobayashi T, Nak- agawa-Hattori Y, Shimizu Y, Mizuno Y (
+
+) Structural dimorphism in the mitochondrial targeting sequence in the human manganese superoxide dismutase gene. A predic- tive evidence for conformational change to influence mitochondrial transport and a study of allelic association in Parkinson’s disease. Biochem Biophys Res Commun
+
+:
+
+–
+
+Skytthe A, Pedersen NL, Kaprio J, Stazi MA, Hjelmborg JV, Iachine I, Vaupel JW, Christensen K (
+
+) Longevity studies in Geno
+
+Utwin. Twin Res
+
+:
+
+–
+
+Soerensen M, Christensen K, Stevnsner T, Christiansen L (
+
+) The Mn-superoxide dismutase single nucleotide polymorphism rs
+
+and the glutathione peroxidase
+
+single nucleotide polymorphism rs
+
+are associated with aging and longevity in the oldest old. Mech Ageing Dev
+
+:
+
+–
+
+Orr WC, Sohal RS (
+
+) Extension of life-span by overex- pression of superoxide dismutase and catalase in Dro- sophila melanogaster. Science
+
+:
+
+–
+
+Paolisso G, Tagliamonte MR, Rizzo MR, Manzella D, Gam- bardella A, Varricchio M (
+
+) Oxidative stress and advancing age: results in healthy centenarians. J Am Ge- riatr Soc
+
+:
+
+–
+
+Pawlikowska L, Hu D, Huntsman S, Sung A, Chu C, Chen J, Joyner AH, Schork NJ, Hsueh WC, Reiner AP, Psaty BM, Atzmon G, Barzilai N, Cummings SR, Browner WS, Kwok PY, Ziv E (
+
+) Association of common genetic variation in the insulin/IGF
+
+signaling pathway with human lon- gevity. Aging Cell
+
+:
+
+–
+
+Perls T, Kunkel LM, Puca AA (
+
+) The genetics of excep- tional human longevity. J Mol Neurosci
+
+:
+
+–
+
+Phillips JP, Campbell SD, Michaud D, Charbonneau M, Hilliker AJ (
+
+) Null mutation of copper/zinc superoxide dis- mutase in Drosophila confers hypersensitivity to paraquat and reduced longevity. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Rattan SI (
+
+) Targeting the age-related occurrence, removal, and accumulation of molecular damage by hormesis. Ann NY Acad Sci
+
+:
+
+–
+
+Rattan SI, Demirovic D (
+
+) Hormesis can and does work in humans. Dose Response
+
+:
+
+–
+
+Ristow M, Zarse K (
+
+) How increased oxidative stress promotes longevity and metabolic health: the concept of mitochondrial hormesis (mitohormesis). Exp Gerontol
+
+vival in long-lived individuals. Mech Ageing Dev
+
+:
+
+–
+
+Newman AB, Walter S, Lunetta KL, Garcia ME, Slagboom PE, Christensen K, Arnold AM, Aspelund T, Aulchenko YS, Benjamin EJ, Christiansen L, D’Agostino RB Sr, Fitzpa- trick AL, Franceschini N, Glazer NL, Gudnason V, Hof- man A, Kaplan R, Karasik D, Kelly-Hayes M, Kiel DP, Launer LJ, Marciante KD, Massaro JM, Miljkovic I, Nalls MA, Hernandez D, Psaty BM, Rivadeneira F, Rotter J, Seshadri S, Smith AV, Taylor KD, Tiemeier H, Uh HW, Uitterlinden AG, Vaupel JW, Walston J, Westendorp RG, Harris TB, Lumley T, van Duijn CM, Murabito JM (
+
+) A meta-analysis of four genome-wide association studies of survival to age
+
+years or older: the cohorts for heart and aging research in genomic epidemiology consortium. J Gerontol A Biol Sci Med Sci
+
+:
+
+–
+
+Nozik-Grayck E, Suliman HB, Piantadosi CA (
+
+) Extra- cellular superoxide dismutase. Int J Biochem Cell Biol
+
+:
+
+–
+
+Reiman EM, Rotter JI, Seshadri S, Shardell MD, Smith AV, van Duijn C, Walston J, Zillikens MC, Bandinelli S, Baumeister SE, Bennett DA, Ferrucci L, Gudnason V, Kivimaki M, Liu Y, Murabito JM, Newman AB, Tiemeier H, Franceschini N (
+
+) A genome-wide association study of aging. Neurobiol Aging
+
+(
+
+):e
+
+–e
+
+Wang LI, Miller DP, Sai Y, Liu G, Su L, Wain JC, Lynch TJ, Christiani DC (
+
+) Manganese superoxide dismutase alanine-to-valine polymorphism at codon
+
+and lung cancer risk. J Natl Cancer Inst
+
+:
+
+–
+
+Wang F, Nguyen M, Qin FX, Tong Q (
+
+) SIRT
+
+deacetylates FOXO
+
+a in response to oxidative stress and caloric restriction. Aging Cell
+
+:
+
+–
+
+Waris G, Ahsan H (
+
+) Reactive oxygen species: role in the development of cancer and various chronic conditions. J Carcinog
+
+:
+
+Wawryn J, Krzepilko A, Myszka A, Bilinski T (
+
+) Defi- ciency in superoxide dismutases shortens life span of yeast cells. Acta Biochim Pol
+
+:
+
+–
+
+Wiener HW, Perry RT, Chen Z, Harrell LE, Go RC (
+
+) A polymorphism in SOD
+
+is associated with development of Alzheimer’s disease. Genes Brain Behav
+
+:
+
+–
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, Yano K, Masaki KH, Willcox DC, Rodriguez B, Curb JD (
+
+) FOXO
+
+A genotype is strongly associated with human longevity. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Woodson K, Tangrea JA, Lehman TA, Modali R, Taylor KM, Snyder K, Taylor PR, Virtamo J, Albanes D (
+
+) Man- ganese superoxide dismutase (M
+
+OD) polymorphism, alpha-tocopherol supplementation and prostate cancer risk in the alpha-tocopherol, beta-carotene cancer prevention study (Finland). Cancer Causes Control
+
+:
+
+–
+
+Yen K, Patel HB, Lublin AL, Mobbs CV (
+
+) SOD isoforms play no role in lifespan in ad lib or dietary restricted con- ditions, but mutational inactivation of SOD-
+
+reduces life extension by cold. Mech Ageing Dev
+
+:
+
+–
+
+Yi JF, Li YM, Liu T, He WT, Li X, Zhou WC, Kang SL, Zeng XT, Zhang JQ (
+
+) Mn-SOD and C
+
+n-SOD polymor- phisms and interactions with risk factors in gastric cancer. World J Gastroenterol
+
+:
+
+–
+
+Zelko IN, Mariani TJ, Folz RJ (
+
+) Superoxide dismutase multigene family: a comparison of the C
+
+n-SOD (SOD
+
+), Mn-SOD (SOD
+
+), and EC-SOD (SOD
+
+) gene structures, evolution, and expression. Free Radic Biol Med
+
+:
+
+–
+
+Soerensen M, Dato S, Christensen K, M
+
+ue M, Stevnsner T, Bohr VA, Christiansen L (
+
+) Replication of an associ- ation of variation in the FOXO
+
+A gene with human lon- gevity using both case–control and longitudinal data. Aging Cell
+
+:
+
+–
+
+Stessman J, Maaravi Y, Hammerman-Rozenberg R, Cohen A, Nemanov L, Gritsenko I, Gruberman N, Ebstein RP (
+
+) Candidate genes associated with ageing and life expec- tancy in the Jerusalem longitudinal study. Mech Ageing Dev
+
+:
+
+–
+
+Sun J, Folk D, Bradley TJ, Tower J (
+
+) Induced overex- pression of mitochondrial Mn-superoxide dismutase extends the life span of adult Drosophila melanogaster. Genetics
+
+:
+
+–
+
+Tan Q, De Benedictis G, Ukraintseva SV, Franceschi C, Vaupel JW, Yashin AI (
+
+) A centenarian-only approach for assessing gene–gene interaction in human longevity. Eur J Hum Genet
+
+:
+
+–
+
+Taufer M, Peres A, de Andrade VM, de Oliveira G, Sa G, do Canto ME, Dos Santos AR, Bauer ME, Da Cruz IB (
+
+) Is the Val
+
+Ala manganese superoxide dismutase poly- morphism associated with the aging process? J Gerontol A Biol Sci Med Sci
+
+:
+
+–
+
+Tian C, Fang S, Du X, Jia C (
+
+) Association of the C
+
+T polymorphism in SOD
+
+with diabetes mellitus and diabetic microvascular complications: a meta-analysis. Diabetolo- gia
+
+:
+
+–
+
+Treiber N, Maity P, Singh K, Kohn M, Keist AF, Ferchiu F, Sante L, Frese S, Bloch W, Kreppel F, Kochanek S, Sindrilaru A, Iben S, Hogel J, Ohnmacht M, Claes LE, Ignatius A, Chung JH, Lee MJ, Kamenisch Y, Berneburg M, Nikolaus T, Braunstein K, Sperfeld AD, Ludolph AC, Briviba K, Wlaschek M, Florin L, Angel P, Scharffetter- Kochanek K (
+
+) Accelerated aging phenotype in mice with conditional deficiency for mitochondrial superoxide dismutase in the connective tissue. Aging Cell
+
+:
+
+–
+
+Unlu ES, Koc A (
+
+) Effects of deleting mitochondrial anti- oxidant genes on life span. Ann NY Acad Sci
+
+:
+
+–
+
+Walter S, Atzmon G, Demerath EW, Garcia ME, Kaplan RC, Kumari M, Lunetta KL, Milaneschi Y, Tanaka T, Tranah GJ, Volker U, Yu L, Arnold A, Benjamin EJ, Biffar R, Buchman AS, Boerwinkle E, Couper D, De Jager PL, Evans DA, Harris TB, Hoffmann W, Hofman A, Karasik D, Kiel DP, Kocher T, Kuningas M, Launer LJ, Lohman KK, Lutsey PL, Mackenbach J, Marciante K, Psaty BM,

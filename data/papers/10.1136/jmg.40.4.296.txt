@@ -1,0 +1,691 @@
+Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-10 –1082 promoter  SNP and its interaction with TNF- –308 promoter SNP
+
+Lio, L Scola, A Crivello, G Colonna-Romano, G Candore, M Bonafè, L Cavallone, Marchegiani, F Olivieri, C Franceschi, C Caruso
+
+JMedGenet2003;40:296–299
+
+activity leading to long term tissue damage, and systemic chronic inflammation has been found to be related to mortality risk from all causes in older persons.1 Also, the genetic constitution of the organism interacting with sys- temic inflammation may cause defined organ specific ill- nesses. Thus, age related diseases such as Alzheimer’s disease (AD), Parkinson’s disease, atherosclerosis, type 2 diabetes, sarcopenia, and osteoporosis, are initiated or worsened by sys- temic inflammation, suggesting the critical importance of unregulated systemic inflammation in the shortening of sur- vival in humans.1–3 Accordingly, proinflammatory cytokines are believed to play a pathogenetic role in age related diseases, and genetic variations located within their promoter regions have been shown to influence the susceptibility to age related diseases, by increasing gene transcription and therefore cyto- kine production.3 4
+
+• Many aspects of ageing involve inflammatory proc- esses. We evaluated the association with longevity of um
+
+a, alleles of IL-
+
+and TNF- , known to have opposite func- tions in inflammatory reactions, IL-
+
+acting predomi- a nantly as an anti-inflammatory and TNF- as a proinflammatory factor. • The number of male centenarians homozygous for the –
+
+G genotype, suggested to be associated with high IL-
+
+production, was significantly increased in comparison with younger control subjects. No signifi- cant differences were observed between women and inal controls. The genotypic frequencies of the TNF- promoter SNPs
+
+G and
+
+A, suggested to be asso- a ciated with low and high TNF- production respectively, were not significantly different between centenarians and controls. The evaluation of combined IL-
+
+and _Ea TNF- genotypes showed that there was a significant - increase of the “anti-inflammatory” (IL-
+
+GG/ vis - TNF-
+
+GG) genotype in centenarian men over controls. • Inflammatory markers predict disability and mortality in elderly cohorts and a persistent inflammatory state has been proposed to be involved in the causal pathway of certain age related chronic conditions. Thus, it is intrigu- ing that the possession of an “anti-inflammatory” geno- type is significantly increased in male centenarians.
+
+Conversely, genetic variations determining increased pro- duction of anti-inflammatory cytokines or decreased produc- tion of proinflammatory cytokines have been shown to be associated with successful ageing, suggesting a role for the control of the inflammatory state in the attainment of longev- ity. As recently reported, the distribution of +874Tfi A interferon(IFN)-g, 5 -174C fi G IL-6,6 and –1082Gfi A interleukin(IL)-107 single nucleotide polymorphisms (SNPs) has been shown to be different in centenarians than in younger people.5–7 The +874T allele, involved in high produc- tion of the proinflammatory cytokine IFN-g, was found less frequently in centenarian women than in control women.5 Also, the proportion of subjects homozygous for the G allele at the –174 IL-6 locus, characterised by high serum levels of the proinflammatory cytokine IL-6, was significantly decreased in centenarian men.6 Conversely, the presence of the -1082 GG genotype, suggested to be associated with high production of the anti-inflammatory cytokine IL-10, was significantly increased in centenarian men in comparison with younger male subjects.7 These gender related effects are difficult to explain. However, it is well known that men and women may follow different strategies to reach longevity and that the number of centenarian women always outnumber centenar- ian men, the ratio between women and men ranging from 4/1 to 7/1, with the exception of Sardinia.8 9
+
+tory cytokines and longevity, we investigated the frequency of the -1082G fi A IL-10 promoter SNP in a larger cohort of 72 centenarian men, including 25 typed in a previous study,7 and the interaction of this polymorphism with -308A fi G TNF-a SNP.
+
+MATERIALS AND METHODS
+
+DNA samples were obtained from 72 unrelated centenarian men (25 of whom were part of a previous study)7 and 102 centenarian women from central and southern Italy. DNA samples from healthy unrelated controls (115 men and 112 women, aged 22-60 years), matched for geographical origin, were also collected. Written informed consent for enrolment in the study and for personal data management was obtained from all the subjects according to Italian laws.
+
+It is rather simplistic to examine the influence of a single cytokine in isolation. In fact, cytokines interact in networks in which the functions of one cytokine are modified, modulated, or substituted by another one(s).4 In particular, IL-10 and tumour necrosis factor (TNF-a ), a classical proinflammatory cytokine, have complex and opposing roles,10 11 and an autoregulatory loop appears to exist in which TNF-a stimulates IL-10 production which, in turn, reduces TNF-a synthesis.12 13 Furthermore, their synergistic role in the control of immune-inflammatory responses has been hypothesised.14 To gain further insight into the relation between inflamma-
+
+Blood specimens were collected in tripotassium EDTA ster- ile tubes and immediately stored at -70°C. Genomic DNA extraction was carried out and DNA stored at -20°C for the IL-10 and TNF-a gene analysis. Complete linkage of allele -819C with allele -592C and of allele -819T with allele -592A,
+
+control men were not significantly different. Accordingly, the frequency of SNP –308Gfi A was not significantly different between centenarians and controls (c 2 test). The same was observed in the group of centenarian women (–308G, 0.88 v 0.79, p=NS by c 2 test).
+
+Controls (%) Centenarians (%) –1082 IL-10 AA 19 (16) 5 (7) AG 64 (56) 34 (47) GG 32 (28) 33 (46) –308 TNF-(cid:225) AA 1 (1) 1 (1) AG 31 (27) 15 (21) GG 83 (72) 56 (78)
+
+As far as cytokine production is concerned, the IL-10 and TNF-a polymorphisms considered are functionally important. Thus, centenarians and controls were classified into four groups,as shown in table 2.We compared the frequency of the genotype “low TNF-a and high IL-10” producer, “anti- inflammatory genotype”14 with the other genotypes in cente- narian and control men. There was a significant increase of this “anti-inflammatory genotype” in centenarians over controls (36% v 21%; p=0.038 by c 2 test). In women, there were no significant differences in the distribution of the “functional” genotypes between centenarians and younger subjects (32% v 21, p=NS by c 2 test).
+
+All groups were in Hardy Weinberg equilibrium (p>0.05). A significantly different distribution of IL-10genotypes was observed between controls and centenarians (p=0.019 by c 2 test). Similarly, the frequency of SNP –1082G was significantly increased in centenarians over controls (0.69 v0.56, p = 0.01 by c 2 test). It is noteworthy that this significant difference was observed both in the previous sample of 25 centenarians (0.76 v0.56, p = 0.012 by c 2 test) and in the new sample of 47 centenarians (0.66 v0.56, p = 0.035 by c 2 test). No significant different distribution of TNF-(cid:225) -308 genotypes was observed between controls and centenarians by c 2 test and the frequency of SNPs –308GfiA was not significantly different between centenarians and controls by c 2 test.
+
+DISCUSSION
+
+The main result of this study was that the IL-10 gene SNP -1082G fi A had significant influence on the attainment of longevity in men, both separately and in association with the TNF-a gene SNP –3082Afi G. It is noteworthy that the IL-10 frequency was analysed in a large cohort of male centenar- ians, thus validating our preliminary results on a smaller sam- ple of centenarian men.7 This result is remarkable, taking into account that centenarian men are relatively rare, being many fewer than centenarian women.8
+
+and the presence of only three different allele combinations, -1082G, -819C, and -592C GCC, ACC, and ATA, are character- istic of the IL-10 polymorphisms in white populations.15 In the previous study, only –1082 SNP was shown to be associated with longevity, so in the present study we limited ourselves to the analysis of the –1082 Gfi A SNP. This biallelic polymor- phism (GeneBank accession number: 790448) was identified using ARMS-PCR as previously described.7 The biallelic poly- morphisms at -308 (G fi A) (GeneBank Accession number CR941560) of the TNF-a gene was identified also using the ARMS-PCR method as previously described.16 Allele typing was confirmed according to Wilson et al.17
+
+IL-10 and TNF-a are cytokines, which have complex and predominantly opposing roles in the inflammatory responses.10 11 In fact, the principal routine function of IL-10 is to limit and ultimately terminate inflammatory responses,10 whereas TNF-a determines strength, effectiveness, and dura- tion of local and systemic inflammatory reactions.11 Stimula- tion of human blood samples with bacterial lipopolysaccha- ride showed large interperson variations of IL-10 and TNF-a production, suggesting a genetic component of approximately 75% and 60%, respectively.18 Interperson differences in the regulation of IL-10 and TNF-a production may be critical with respect to the final outcome of an inflammatory response,that is within physiological limits or pathological ones.18 Several polymorphisms located close to or within the IL-10 and TNF-a genes have been shown to be associated with transcription levels. The best documented of these polymorphisms are the IL-10 gene promoter polymorphisms -1082 G fi A7 16 19–23 and a Gfi A transition at position –308 in the promoter region of TNF-a .11 13 24 25 In the presence of allele -1082A, stimulation of lymphocytes with concanavalin A resulted in lower IL-10 pro- duction than in allele -1082A negative cells. 14 21 Also, the effects of this allelic promoter region difference (relative to the transcription start site) on IL-10 gene activation have been confirmed in reporter gene assays.20 Concerning TNF-a , there are also data relating the rare -308A allele to a higher transcriptional activity than the common -308G allele, 11 13 24 25 although a lack of such an association has also been reported in non-white populations, depending on the HLA ancestral haplotype carrying this SNP.12 24 However, the functional relevance of these SNPs has been shown by their involvement in determining susceptibility to immune-inflammatory dis- eases (for IL-10 -1082G fi A,14 20 26–35 for TNF-a 11–13 24 25 36–42).
+
+and genotypic and allelic frequencies were evaluated by gene count. The data were tested for the goodness of fit between the observed and expected genotype values (c 2 test) and their fit to Hardy-Weinberg equilibrium. c 2 tests (3 · 2 tables or 2 · 2 tables) were performed to calculate significantly different genotype or allele distributions between centenarians and controls.
+
+RESULTS
+
+Table 1 shows the frequency of homozygous and heterozygous genotypes for –1082 Gfi A IL-10 SNP and for –308 Gfi A TNF-a in our sample of Italian centenarian men and sex matched controls. The number of centenarians homozygous for the –1082G genotype was significantly increased in this cohort of centenarian men in comparison with younger control subjects (p=0.019). Accordingly, the SNP distribution between centenarians and controls was significantly different, with the –1082G allele increased in centenarians (0.69 v 0.56, p=0.01 by c 2 test). As already reported,7 no significant differ- ences were observed in women, between centenarians and controls (–1082G, 0.62 v 0.59, p=NS by c 2 test). The genotypic frequencies of the TNF-a promoter SNP of centenarian and
+
+Table 2 Functional IL-10/TNF-(cid:225) genotypes TNF-(cid:225) -308A carrier (A/A, A/G) TNF-(cid:225) -308G/G IL-10–1082A carrier (A/A, A/G) Low IL-10, high TNF-a Low IL-10, low TNF-a IL-10–1082G/G High IL-10, high TNF-a High IL-10, low TNF-a
+
+IL-10–1082A carriers are classified as “low IL-10 producers”; IL-10–1082GG homozygotes are classified as “high IL-10 producers”; TNF-(cid:225) -308A carriers are classified as “high TNF producers”; TNF-(cid:225) -308GG homozygotes are classified as “low TNF producers”. For references, see text.
+
+(QLK6-CT-1999-02031).Professor C Franceschi was funded by MIUR, Rome (ex 40%), Ministry of Health projects (1998 and 2001 “Chronic diseases prevention in ageing: the model of centenarians” and “Biological and genetic markers of successful and unsuccessful ageing”). LC is a PhD student in Pathobiology.
+
+The isolated assessment of cytokine genotypes may be mis- leading without considering other interacting cytokines. In vivo control of TNF-a synthesis is complex and downregulated by anti-inflammatory cytokines including IL-10.12 13 The potential biological importance of this finding was high- lighted by a recent study showing a strong association between the combined low IL-10/high TNF-a genotype and early graft rejection in heart transplant recipients.14 Other recent studies have shown the complementary importance of IL-10 and TNF-a in patients with bacterial sepsis and have indicated an increased mortality in patients with a high plasma IL-10 to TNF-a ratio, that is, in patients with an anti- inflammatory phenotype (unfortunately in this study patients were not genotyped).43 Thus, in the light of different pathophysiological situations, it is difficult to assume a beneficial or detrimental effect of IL-10/TNF-a genotypes separately or in combination.So,inflammatory genotypes may be both friends and enemies. In fact, they are an important and necessary part of the normal host responses to pathogens, but the overproduction of inflammatory cytokines might cause immune-inflammatory diseases and eventually death. In particular, an anti-inflammatory genotype might be highly advantageous in the last decades of life owing to the chronic proinflammatory status, which develops in all the subjects with age. This phenomenon that we called inflamm-ageing is more evident in men than in women.14 This could be a possi- ble explanation for the higher frequency of the anti- inflammatory genotype we found in very old male subjects. We can also predict that the presence of the “high IL-10/low TNF-a ”genotype could be favourable in protecting against age related diseases such as AD and in elderly stroke.35 45 46
+
+
+
+Authors’ affiliations
+
+Correspondence to: Professor C Caruso, Gruppo di Studio dell’Immunosenescenza, Dipartimento di Biopatologia e Metodologie Biomediche, Corso Tukory 211, 90134 Palermo, Italy;
+
+REFERENCES
+
+Bruunsgaard H, Pedersen M, Pedersen BK. Aging and cytokines. Cur
+
+pi
+
+ematol
+
+;
+
+:
+
+-
+
+Brod SA. Unregulated inflammation shortens human functional Inflam
+
+es
+
+;
+
+:
+
+-
+
+Pawelec G, Barnett Y, Forsey R, Frasca D, Globerson A, M
+
+eod J, Caruso C, Franceschi C, Fulop T, Gupta S, Mariani E, Mocchegiani E, Solana R. T cells and aging, January
+
+update. Fron
+
+iosci
+
+;
+
+:
+
+-
+
+Bidwell J, Keen L, Gallagher G, Kimberly R, Huizinga T, M
+
+ermott Oksenberg J, M
+
+icholl J, Pociot F, Hardt C, D’Alfonso S. Cytokine polymorphism in human disease: on-line databases. Gene
+
+mmunity
+
+;
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, Bonafè M, Franceschi C, Olivieri F, Colonna-Romano G, Candore G, Caruso C . Allele frequencies of +
+
+Tf
+
+single nucleotide polymorphism at the first intron of interferon-g gene in a group of Italian centenarians. Ex
+
+erontol
+
+;
+
+:
+
+-
+
+Bonafe M, Olivieri F, Cavallone L, Giovagnetti S, Marchegiani F, Cardelli M, Pieri C, Marra M, Antonicelli R, Lisa R, Rizzo MR, Paolisso G, Monti D, Franceschi C. A gender-dependent genetic predisposition produce high levels of IL-
+
+is detrimental for longevity. Eu
+
+Immunol
+
+;
+
+:
+
+-
+
+Lio D, Scola L, Crivello A, Colonna-Romano G, Candore G, Bonafè M, Cavallone L, Franceschi C, Caruso C. Gender specific association between –
+
+IL-
+
+promoter polymorphism and longevity. Genes Immunity
+
+;
+
+:
+
+-
+
+Franceschi C, Motta L, Valensin S, Rapisarda R, Franzone A, Berardelli M, Motta M, Monti D, Bonafe M, Ferrucci L, Deiana L, Pes GM, Carru Desole MS, Barbi C, Sartoni G, Gemelli C, Lescai F, Olivieri F, Marchegiani F, Cardelli M, Cavallone L, Gueresi P, Cossarizza A, Troiano L, Pini G, Sansoni P, Passeri G, Lisa R, Spazzafumo L, Amadio Giunta S, Stecconi R, Morresi R, Viticchi C, Mattace R, De Benedictis G, Baggio G. Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE). Aging(Milano)
+
+;
+
+:
+
+-
+
+Deiana L, Ferrucci L, Pes GM, Carru C, Delitala G, Ganau A, Mariotti S, Nieddu A, Pettinato S, Putzu P, Franceschi C, Baggio G. The Sardinia Study of Extreme Longevity. Aging(Milano)
+
+;
+
+:
+
+-
+
+Moore KW, de Waal Malefyt R, Coffman RL, O’Garra A. Interleukin-
+
+and the interleukin-
+
+receptor. Ann
+
+e
+
+mmunol
+
+;
+
+:
+
+-
+
+Makhatadze NJ. Tumor necrosis factor locus: genetic organisation and biological implications. Hu
+
+mmunol
+
+;
+
+:
+
+-
+
+Candore G, Lio D, Colonna Romano G, Caruso C. Pathogenesis of autoimmune diseases associated with
+
+ancestral haplotype: effect of multiple gene interactions. Autoimmunit
+
+ev
+
+;
+
+:
+
+-
+
+Lio D, Candore G, Colombo A, Colonna Romano G, Gervasi F, Marino V, Scola L, Caruso C. A genetically determined high setting of TNF-a influences immunological parameters of HLA-B
+
+, DR
+
+positive subjects: implications for autoimmunity. Hu
+
+mmunol
+
+;
+
+:
+
+-
+
+Hutchinson IV, Pravica V, Hajeer A, Sinnott PJ. Identification of high and low responders to allografts. Re
+
+mmunogenet
+
+;
+
+:
+
+-
+
+Eskdale J, Keijsers V, Huizinga T, Gallagher G. Microsatellite alleles and single nucleotide polymorphisms (SNP) combine to form four major haplotype families at the human interleukin-
+
+(IL-
+
+) locus. Genes Immunity
+
+;
+
+:
+
+-
+
+Cataldo F, Lio D, Marino V, Scola L, Crivello A, Mulè AM, Corazza Cytokine genotyping (TNF and Il-
+
+) in patients with celiac disease and selective I
+
+deficiency. A
+
+Gastroenterology(in press).
+
+Wilson AG, di Giovine FS, Blakemore AI, Duff GW. Single base polymorphism in the human tumour necrosis factor alpha (TNF alpha) gene detectable by Nc
+
+restriction of PCR product. Hu
+
+o
+
+enet
+
+;
+
+:
+
+Westendorp RG, Langermans JA, Huizinga TW, Verweij CL, Sturk A. Genetic influence on cytokine production and fatal meningococcal disease. Lancet
+
+;
+
+:
+
+-
+
+Finally, we would like to stress that our study has a number of possible limitations. Since this study was performed with Italian centenarians, we do not know whether the results can be extended to populations of other ethnic origins. Notably, in a Finnish population, IL-10 and TNF-a promoter allele and haplotype frequencies were not different between nonagenar- ians and controls.47 Moreover, no significant association between polymorphisms of some cytokines and longevity has been found in the Sardinian population.48 On the whole, these findings suggest that cytokine/longevity associations might have a population specific component, being affected by the population specific gene pool as well as by gene-environment interaction. Another limitation of the study was the lack of data regarding plasma levels of IL-10 and TNF-a , but the functional relevance of the polymorphisms studied is well known (see above). Besides, it may be argued that a Bonferroni type adjustment should be performed to correct for the testing of multiple polymorphisms. If this correction is carried out, none of the polymorphisms would have been sig- nificantly associated. However, this correction is too stringent and has the potential to ignore important observations49 and, in any case, for studies on centenarians the number of cases is very hard to increase.
+
+However, inflammatory markers predict disability and mor- tality in elderly cohorts and a persistent inflammatory state has been proposed to be involved in the causal pathway of cer- tain age related chronic conditions.1 3 50 Thus, it is intriguing that the possession of an “anti-inflammatory” genotype is significantly increased in male centenarians.
+
+ACKNOWLEDGEMENTS
+
+The “Gruppo di Studio sull’immunosenescenza” coordinated by Professor C Caruso is funded by grants from the Italian Ministry of Education,UniversityandResearch(MIUR)(ex40%,toCCandDL;ex 60% to CC, DL, GC, and GCR) and from the Italian Ministry of Health Projects “Immunological parameters age-related” and “Pharmacog- enomicsofAlzheimer’sdisease”.Thecollaborationbetweenthisgroup and the Istituto Nazionale di Riposo e Cura per Anziani was enhanced by a cooperation contract (Longevity and elderly disability biological markers) and by the EU thematic network programme ImAginE
+
+characterisation of the distal flanking region of the human interleukin-
+
+gene. Gene
+
+mmunity
+
+;
+
+:
+
+-
+
+Crawley E, Kay R, Sillibourne J, Patel P, Hutchinson I, Woo P. Polymorphic haplotypes of the interleukin-
+
+¢ flanking region determine variable interleukin-
+
+transcription and are associated with particular phenotypes of juvenile rheumatoid arthritis. Arthriti
+
+heum
+
+;
+
+:
+
+-
+
+Turner D, Williams DM, Sankaran D, Lazarus M, Sinnott PJ, Hutchinson IV. An investigation of polymorphism in the interleukin-
+
+promoter. Eu
+
+Immunogenet
+
+;
+
+:
+
+-
+
+Eskdale J, Gallagher G, Verweij CL, Keijsers V, Westendorp RGJ, Huizinga TWJ. Interleukin
+
+secretion in relation to human IL-
+
+locus haplotypes. Pro
+
+at
+
+ca
+
+c
+
+SA
+
+;
+
+:
+
+-
+
+D’Alfonso S, Rampi M, Rolando V, Giordano M, Momigliano-Richiardi P. New polymorphisms in the IL-
+
+promoter region. Gene
+
+mmunity
+
+;
+
+:
+
+-
+
+Price P, Witt C, Allcock R, Sayer D, Garlepp M, Kok CC, French M, Mallal S, Christiansen F. The genetic basis for the association of the
+
+ancestral haplotype (A
+
+, B
+
+, DR
+
+) with multiple immunopathological diseases. Immuno
+
+ev
+
+;
+
+:
+
+-
+
+Hajeer AH, Hutchinson IV. Influence of TNFalpha gene polymorphisms on TNFalpha production and disease. Hu
+
+mmunol
+
+;
+
+:
+
+-
+
+D’Alfonso S, Rampi M, Bocchio D, Colombo G, Scorza-Smeraldi R, Momigliano-Richardi P. Systemic lupus erythematosus candidate genes in the Italian population: evidence for a significant association with interleukin-
+
+Arthriti
+
+heum
+
+;
+
+:
+
+-
+
+Helminen M, Lahdenpohja N, Hurme M. Polymorphism of the interleukin-
+
+gene is associated with susceptibility to Epstein-Barr virus infection. JInfec
+
+is
+
+;
+
+:
+
+-
+
+Wu MS, Huang SP, Chang YT, Shun CT, Chang MC, Lin MT, Wang HP, Lin JT. Tumor necrosis factor-alpha and interleukin-
+
+promoter polymorphisms in Epstein-Barr virus-associated gastric carcinoma. JInfect Dis
+
+;
+
+:
+
+-
+
+Howell WM, Turner SJ, Bateman AC, Theaker JM. IL-
+
+promoter polymorphisms influence tumour development in cutaneous malignant melanoma. Gene
+
+mmunity
+
+;
+
+:
+
+-
+
+Hajeer AH, Lazarus M, Turner D, Mageed RA, Vencovsky J, Sinnott P, Hutchinson IV, Ollier WE. IL-
+
+gene promoter polymorphisms in rheumatoid arthritis. Scan
+
+Rheumatol
+
+;
+
+:
+
+-
+
+Tagore A, Gonsalkorale WM, Pravica V, Hajeer AH, M
+
+ahon R, Whorwell PJ, Sinnott PJ, Hutchinson IV. Interleukin-
+
+(IL-
+
+) genotypes in inflammatory bowel disease. Tissu
+
+ntigens
+
+;
+
+:
+
+-
+
+Huizinga TW, Keijsers V, Yanni G, Hall M, Ramage W, Lanchbury J, Pitzalis C, Drossaers-Bakker WK, Westendorp RG, Breedveld FC, Panayi G, Verweij CL. Are differences in interleukin
+
+production associated with joint damage? Rheumatology
+
+;
+
+:
+
+-
+
+Girndt M, Kaul H, Sester U, Ulrich C, Sester M, Georg T, Kohler H. Anti-inflammatory interleukin-
+
+genotype protects dialysis patients from cardiovascular events. Kidne
+
+nt
+
+;
+
+:
+
+-
+
+Shoskes DA, Albakri Q, Thomas K, Cook D. Cytokine polymorphisms in men with chronic prostatitis/chronic pelvic pain syndrome: association with diagnosis and treatment response. JUrol
+
+;
+
+:
+
+-
+
+Lio D, Licastro F, Scola L, Chiappelli M, Grimaldi LM, Crivello A, Colonna-Romano G, Candore G, Franceschi C, Caruso C. Interleukin-
+
+promoter polymorphism in sporadic Alzheimer’s disease. (in press).
+
+polymorphisms of the tumour necrosis interleukin-
+
+, interferon- and interleukin-
+
+genes in a North European Caucasoid group from the UK. Eu
+
+Immunogenet
+
+;
+
+:
+
+-
+
+Witte JS, Palmer LJ, O’Connor RD, Hopkins PJ, Hall JM. Relation between tumour necrosis factor polymorphism TNFalpha-
+
+and risk of asthma. Eu
+
+Hu
+
+enet
+
+;
+
+:
+
+-
+
+Sakao S, Tatsumi K, Igari H, Watanabe R, Shino Y, Shirasawa H, Kuriyama T. Association of tumor necrosis factor-alpha gene promoter polymorphism with low attenuation areas on high-resolution CT in patients with COPD. Chest
+
+;
+
+:
+
+-
+
+Dalziel B, Gosby AK, Richman RM, Bryson JM, Caterson ID. Association of the TNF-alpha -
+
+G/A promoter polymorphism with insulin resistance in obesity. Obe
+
+es
+
+;
+
+:
+
+-
+
+O’Keefe GE, Hybki DL, Munford RS. The Gfi A single nucleotide polymorphism at the -
+
+position in the tumor necrosis factor-alpha promoter increases the risk for severe sepsis after trauma. JTrauma
+
+;
+
+:
+
+-
+
+Fernandes H, Koneru B, Fernandes N, Hameed M, Cohen MC, Raveche E, Cohen S. Investigation of promoter polymorphisms in the tumor necrosis factor-alpha and interleukin-
+
+genes in liver transplant patients. Transplantation
+
+;
+
+:
+
+-
+
+Heijmans BT, Westendorp RG, Droog S, Kluft C, Knook DL, Slagboom PE. Association of the tumour necrosis factor alpha -
+
+G/A polymorphism with the risk of diabetes in an elderly population-based cohort. Gene
+
+mmunity
+
+;
+
+:
+
+-
+
+van Dissel JT, van Langevelde P, Westendorp RGJ, Kwappenberg K, Frolich M. Anti-inflammatory cytokine profile and mortality in febrile patients. Lancet
+
+;
+
+:
+
+-
+
+Franceschi C, Bonafe M, Valensin S, Olivieri F, De Luca M, Ottaviani E, De Benedictis G. Inflamm-aging. An evolutionary perspective on immunosenescence. An
+
+YAca
+
+ci
+
+;
+
+:
+
+-
+
+Franceschi C, Valensin S, Lescai F, Olivieri F, Licastro F, Grimaldi LM, Monti D, De Benedictis G, Bonafe M. Neuroinflammation and the genetics of Alzheimer’s disease: the search for a pro-inflammatory phenotype. Aging
+
+;
+
+:
+
+-
+
+M
+
+usker SM, Curran MD, Dynan KB, M
+
+ullagh CD, Urquhart DD, Middleton D, Patterson CC, M
+
+lroy SP, Passmore AP. Association between polymorphism in regulatory region of gene encoding tumour necrosis factor alpha and risk of Alzheimer’s disease and vascular dementia: a case-control study. Lancet
+
+;
+
+:
+
+-
+
+Wang XY, Hurme M, Jylha M, Hervonen A. Lack of association between human longevity and polymorphisms of IL-
+
+cluster, IL-
+
+, IL-
+
+and TNF-alpha genes in Finnish nonagenarians. Mec
+
+gein
+
+ev
+
+;
+
+:
+
+-
+
+Pes GM, Lio D, Carru C, Deiana L, Baggio G, Franceschi C, Ferrucci L, Olivieri F, Scola L, Crivello A, Candore G, Colonna-Romano G, Caruso C. Association between longevity and cytokine gene polymorphisms: a study in Sardinian centenarians. (Submitted).
+
+Perneger TV. What’s wrong with Bonferroni adjustments? BMJ
+
+;
+
+:
+
+-
+
+Candore G, Colonna-Romano G, Lio D, Caruso C. Immunological and immunogenetic markers of successful and unsuccessful ageing. Ad
+
+ell Agin
+
+erontol(in press).
+
+Inflammation, genetics, and longevity: further studies on the protective effects in men of - IL-10 1082 promoter SNP and its interaction a - with TNF- 308 promoter SNP D Lio, L Scola, A Crivello, G Colonna-Romano, G Candore, M Bonafé, L
+
+Lio, L Scola, A Crivello, G Colonna-Romano, G Candore, M Bonafé, L F Marchegiani, F Olivieri, C Franceschi and C Caruso
+
+This article cites 38 articles, 6 of which you can access for free at:
+
+Email alerting service
+
+Receive free email alerts when new articles cite this article. Sign up in the box at the top right corner of the online article.
+
+Articles on similar topics can be found in the following collections
+
+Diabetes (
+
+) Immunology (including allergy) (
+
+) Molecular genetics (
+
+) Genetic screening / counselling (
+
+) Calcium and bone (
+
+) Drugs: endocrine system (
+
+) Epidemiology (
+
+) Metabolic disorders (
+
+) Osteoporosis (
+
+)
+
+Notes
+
+http://group.bmj.com/group/rights-licensing/permissions

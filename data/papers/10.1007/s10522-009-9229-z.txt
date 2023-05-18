@@ -1,0 +1,745 @@
+The frequency of Klotho KL-VS polymorphism in a large Italian population, from young subjects to centenarians, suggests the presence of specific time windows for its effect
+
+Laura Invidia Æ Stefano Salvioli Æ Serena Altilia Æ Michela Pierini Æ Maria P. Panourgia Æ Daniela Monti Æ Francesco De Rango Æ Giuseppe Passarino Æ Claudio
+
+Received: 24 February 2009/Accepted: 21 April 2009/Published online: 7 May 2009  Springer Science+Business Media B.V. 2009
+
+Abstract In mice a defect of Klotho gene expression resultsinmultipleaging-likephenotypesincludingshort lifespan, osteoporosis and atherosclerosis, while its over-expression suppresses aging and extends lifespan. Contrasting data have been reported as far as the importance of the functional variant of Klotho termed ‘‘KL-VS’’ on human longevity, depending on the average age of the old subjects that were compared with young controls. We therefore performed a study on a large Italian population sample including people from very young to very old age (centenarians). A total of
+
+from 19 to 109 years, born and residing in northern and central Italy, were subdivided into three age classes defined on the basis of the survival curve constructed using Italian demographic mortality data, and geno- typed for the KL-VS allele. We found a significant increase of the heterozygous Klotho genotype in the class of elderly people compared to young controls. On the contrary, no difference was present between cente- narians and young controls. Such a non monotonic trajectory is evident only when a large, comprehensive age range is investigated, and is compatible with the hypothesis that this KL-VS heterozygous genotype is favorable for survival in old people, its beneficial effect decreasing thereafter, and becoming no more evident at the extreme ages. Such unusual age-related changes in the Klotho KL-VS genotype frequency is compatible with the hypothesis that alleles and genotypes involved in aging and longevity may exert their biological effect at specific time windows.
+
+L. Invidia   S. Salvioli   S. Altilia   M. Pierini  M. P. Panourgia   C. Franceschi (&) Department of Experimental Pathology, University of Bologna, via S. Giacomo
+
+,
+
+Bologna, Italy e-mail: claudio.franceschi@unibo.it
+
+S. Salvioli   C. Franceschi ER-GenTech Laboratory, via Saragat 1, 44100 Ferrara, Italy
+
+Department of Experimental Pathology and Oncology, University of Florence, V. Morgagni 50, 50134 Florence, Italy
+
+Department of Cell Biology, University of Calabria, 87030 Rende, Italy
+
+Klotho (MIM 604824), originally identified by inser- tional mutation in a transgenic mouse, is an aging
+
+depending on the different age of the groups of old subjects analysed and their controls. In particular, a survival advantage was observed for the heterozygous but not homozygous genotype in a population of Bohemian Czech elderly subjects (Arking et al. 2002, 2005). However, these results were not confirmed in Baltimore Caucasian and Baltimore African-American subjects (Arking et al. 2002, 2005). In another study performed in two independent populations (Ashke- nazi-Jewish and Czech) the advantage for the hetero- zygous genotype was observed in subjects aged C79 years (Arking et al. 2005). Recently, Puca et al. tested the frequency of KL-VS variant in Caucasian long-lived (C93 years) and young control subjects (\35 years). This study reported no association between the functional variant of the Klotho gene and exceptional longevity (Novelli et al. 2008).
+
+results in aging-like phenotypes including short life span, hypoactivity, infertility, osteoporosis and ath- erosclerosis (Kuro-o et al. 1997). On the other hand, its over-expression extends mice lifespan by about 20–30% (Kurosu et al. 2005). Mouse Klotho gene encodes a 130 kDa protein with a single transmem- brane domain and an extracellular domain that contains two repeats (KL1 and KL2), both of which have up to 40% homology to b-glycosidase family-1. Klotho is expressed predominantly in the choroid plexus of the brain and the distal convoluted tubule of the kidney (Kuro-o et al. 1997; Tohyama et al. 2004). An alternatively spliced transcript that lacks the trans- membrane domain also exists (Shiraki-Iida et al. 1998). Klotho can be found as either transmembrane or secreted protein, this latter form being predominant in humans (Matsumura et al. 1998). Secreted Klotho is detectable in the blood and cerebrospinal fluid of mice and humans, which suggests that Klotho could function as a hormone (Kurosu et al. 2005; Imura et al. 2004). The secreted Klotho protein can regulate multiple growth factor signaling pathways, including insulin/ IGF-1 and Wnt, and the activity of multiple ion channels. Klotho protein also protects cells and tissues from oxidative stress, yet the precise mechanism underlying this antioxidant activity remains to be determined (Kuro-o 2008). It has been hypothesized that Klotho-mediated resistance to oxidative stress may explain, at least in part, the anti-aging effects of this protein (Bartke 2006; Kuro-o et al. 1997; Yamam-
+
+In order to clarify the importance of Klotho KL-VS genotype in human longevity, we performed a study on a large Italian population sample, including people from very young to very old age (centenarians).
+
+Materials and methods
+
+human longevity, we analyzed a sample of Italian subjects divided into gender-specific age classes according to demographic information obtained from the survival function S(x) for the Italian population of the XX century (Passarino et al. 2006; Cardelli et al. 2008). In brief, the limit between the youngest class and the intermediate class has been chosen as the age at which the curvature of the survival function S(x) is negative and has the largest absolute value (formally, the age corresponding to the minimum value of the second derivative S00(x) of the survival function). Equivalently, the limit between the intermediate class and the oldest class was chosen as the age at which the curvature of the graph is positive and has the largest absolute value (formally, the age at which the second derivative S00(x) of the survival function attains the maximum value). The age classes defined according to this criterion are gender-specific and account for the different survival of men and women in the Italian population. For men [women], the first class consists of individuals aged\66 [\73] years, the second class of individuals aged 66–88 [73–91] years, the third class of individuals aged[88 [[91] years.
+
+Human Klotho gene maps on chromosome 13q12, and its product is highly conserved (86% amino acid identity with the mouse Klotho protein) (Matsumura et al. 1998). A common variant, termed ‘‘KL-VS’’, composed of six single nucleotide polymorphisms (SNPs) in perfect linkage disequilibrium, spans exon 2 and its flanking sequence and is present in *15% of Caucasians (Arking et al. 2002). It has been suggested that the KL-VS allele influences the trafficking and catalytic activity of Klotho protein (Arking et al. 2002). In studies on humans, Klotho gene has been associated with some features of the aging process such as osteopenia/osteoporosis and atherosclerosis (Arking et al. 2002, 2003, 2005; Kawano et al. 2002; Low et al. 2005; Mullin et al. 2005; Yamada et al. 2005). Association studies of Klotho gene variants with
+
+relationship S(x) = PS (x) ? (1 - P)S (x) where a b S(x) is the survival function of the whole population and P (1 - P) is the initial frequency of carriers (non carriers) in the population, that is before the survival selection begins to operate consistently (Vaupel and Yashin 1985). In the present case we analyzed the survival function of people carrying the KL-VS/wt heterozygous or KL-VS homozygous genotype in comparison with that of people carrying the wt homozygous genotype. The Matlab 6.1 package was used for genetic-demographic analyses.
+
+A total of 1,089 (669 women and 420 men) unrelated individuals (age range: 19–109 years), born and residing in northern and central Italy, were recruited to participate in this study. Information about health status (based on their clinical history and on blood tests) was obtained for all participants, and no major pathological conditions were present (dia- betes, cancer, dementia, cardiovascular diseases). The sample included 238 centenarian subjects (191 women and 47 men), who were classified as healthy (categories A and B according to the criteria reported in Franceschi et al. 2000).
+
+DNA was extracted from peripheral blood mono- nuclear cells (PBMCs) using phenol/chloroform, according to standard procedures. Since all six SNPs occur in perfect linkage disequilibrium, a single variant, 1155G[A, can be used to tag the haplotype. The presence of G (wild-type allele) and/or A (KL-VS allele) at position 1155 in the exon 2 of the Klotho gene was determined by a PCR amplification using the following primers: Fw 50-AggCTCATgCCAAAg TCTgg-30 and Rv 50-gTTCCATgATgAACTTTTT gAgg-30; PCR conditions: 4000 at 95(cid:2)C, 4000 at 61(cid:2)C and 2 min at 68(cid:2)C, for 29 cycles. The PCR product was digested by Acs I enzyme (Roche Diagnostics) for 5 h at 50(cid:2)C and visualized after electrophoresis on 2% MS gel (Roche Diagnostics).
+
+Results
+
+To compare genotype distributions of KL-VS variant, we subdivide our sample into three gender-specific age classes as described in materials and methods (Table 1). These classes have been previously intro- duced on the basis of a synthetic survival curve constructed using historic mortality data taken from the Italian population from year 1890 onward (Pas- sarino et al. 2006; Cardelli et al. 2008). In each age class and in each gender, the observed genotype frequencies were in agreement with those expected at Hardy–Weinberg equilibrium (P [ 0.05).
+
+quencies among the three above mentioned age classes. Univariate analysis indicates that in our sample the genotype frequencies are significantly different (P = 0.03). In particular the analysis shows a relevant increase of KL-VS heterozygous state in elderly subjects (age class 2) compared to young controls (age class 1). This result is in accordance with data previously published in Caucasian and Ashke- nazi-Jewish populations (Arking et al. 2002, 2005). On the contrary, no difference is present between long-
+
+Genotype frequencies of Klotho variant were tested for Hardy–Weinberg equilibrium in all subjects using Arlequin (V 3.11) software in order to check whether our experimental sample was representative of the Caucasian population.
+
+Analyses were performed using the SPSS statisti- cal package (V 13.0). Linear regression analysis was then applied to genotype frequency data. Statistical significance was set at P B 0.05.
+
+determined by applying a genetic-demographic approach that allows the estimation of the survival function for candidate alleles and genotypes in cross- sectional samples of unrelated individuals (Yashin et al. 1999). A detailed description of the analytical procedure is reported elsewhere (Dato et al. 2007). Briefly, in order to take into account the changes in mortality experienced by all the cohorts considered in the study, a synthetic survival function of the general population is constructed. Then, the marginal survival functions S (x) and S (x) of carriers and non carriers a b of a certain genotype is determined according to the
+
+Table 1 Distribution of the people who participated to the study, categorized according to gender and age
+
+Age Age Age class 1 class 2 class 3 Men (years) \66 66–88 [88 Women (years) \73 73–91 [91 Age (mean ± SD) 53.0 ± 13.0 78.4 ± 6.1 99.6 ± 3.1 (years) N 463 300 326 (M, W) (191, 272) (147, 153) (82, 244)
+
+Table 2 Genotype frequencies of KL-VS variant<colspec colnum="2" colname="c2" align="left/>
+
+Whole subjects (1089) Age class 1 (n = 463) Age class 2 (n = 300) Age class 3 (n = 326) Genotypes wt/wt n (%) 348 (75.2%) 203 (67.7%) 236 (72.4%) KL-VS/wt n (%) 103 (22.2%) 94 (31.3%) 80 (24.4%) KL-VS/KL-VS n (%) 12 (2.6%) 3 (1.0%) 10 (3.1%) P value 0.008 0.428 Odds ratio (CI) 1.564 (1.126–2.174) 1.145 (0.819–1.601) Men (420) Age class 1 (n = 191) Age class 2 (n = 147) Age class 3 (n = 82) Genotypes wt/wt n (%) 142 (74.3%) 99 (67.3%) 59 (72.0%) KL-VS/wt n (%) 46 (24.1%) 46 (31.3%) 20 (24.4%) KL-VS/KL-VS n (%) 3 (1.6%) 2 (1.4%) 3 (3.7%) P value 0.336 0.553 Odds ratio (CI) 1.434 (0.885–2.324) 1.046 (0.571–1.919) Women (669) Age class 1 (n = 272) Age class 2 (n = 153) Age class 3 (n = 244) Genotypes wt/wt n (%) 206 (75.7%) 104 (68.0%) 177 (72.5%) KL-VS/wt n (%) 57 (21.0%) 48 (31.4%) 60 (24.6%) KL-VS/KL-VS n (%) 9 (3.3%) 1 (0.7%) 7 (2.9%) P value 0.018 0.605 Odds ratio (CI) 1.668 (1.063–2.617) 1.225 (0.809–1.854)
+
+P = 0.008, Odds ratio (CI) 1.564 (1.126–2.174, P = 0.008) and P = 0.018, Odds ratio (CI) 1.668 (1.063–2.617, P = 0.026)
+
+lived individuals (age class 3) and young controls (age class 1). Moreover, we observed that, when ranking the subjects according to the gender, the association was particularly evident in women, where it reached statistical significance, but not in men (see Table 2).
+
+that the algorithm for the construction of the curves leads to an initial slope of the curve of heterozygous subjects, which is not due to an excessive mortality at very young age, but to the great excess of wt homozygous subjects before 70 years of age. To verify the statistical significance of the pattern shown in Fig. 1 we carried out pairwise heterogeneity tests between age classes as defined on the basis of the crosses between survival functions. Only the cross at 70 years of age reflects a statistically significant change of the population survival in the heterozygous subgroup with respect to the wt homozygous subgroup (P = 0.023). When stratified by gender (Fig. 1, inset A and B), the same trend was noted, being more evident for women (inset B) than for men (inset A).
+
+The genetic-demographic analysis was carried out on the whole sample categorized according to the KL-VS polymorphism. Figure 1 shows the maximum likelihood estimates of the survival functions of heterozygous subjects (blue curve) and of wt homozy- gous subjects (red curve), compared to the general population (green curve). We noted that the survival function of heterozygous subjects crosses twice the survival function of the wt homozygous subgroup, roughly around the ages of 70 and 90 years. This trend suggests that the heterozygous genotype has a different effect on survival at different ages. In particular it indicates that heterozygous subjects have higher chance to survive beyond 70 years of age than the general population; on the other hand, among old subjects the chance of heterozygous subjects to survive beyond 90 years seems to be lower than the rest of the
+
+Discussion
+
+The studies regarding the role of Klotho gene variants in human longevity performed by the groups of Dietz
+
+Survival function S(x) 0.9 +0.8 |07+0.4 |0.3}0.2 +04+  15 20 25 30 35 40 45 50 55 60 65age (years) a {eS n70 75 80 85 90 95 100 105 110
+
+and Puca arrived to contrasting results. The group of Dietz basically reported a survival advantage for the KL-VS/wt heterozygous genotype in elderly people, while the group of Puca reported no difference between young and long-living subjects. In this study we analysed the distribution of Klotho KL-VS genotypes in a large group of Italian people of different age, from young to centenarians. We predicted in a previous work that changes in cohort mortality may influence the results of a genetic analysis (Yashin et al. 1999), and consequently we subdivided the study group into three age classes on the basis of demographic data, as indicated by Passarino et al. (2006), that considered gender specific life expectancies. This approach allowed us to compare genotype frequency without introducing arbitrary age classes, as in previous studies on TNF-alpha polymorphisms and human longevity (Cardelli et al. 2008). From previous studies it appears that many genotypes are associated with human longevity in a gender-specific fashion, leading to the hypothesis that men and women follow different strategies to attain longevity (Bonafe` et al. 2001; De Luca et al. 2001; Barbieri et al. 2004; Cederholm et al. 2007). In this case we did not observe any significant difference between the two genders, and the frequency distribution of the genotypes was remarkably similar in
+
+is likely a matter of number of subjects in the two groups (women in population aging studies usually outnumber men) rather than a real biological differ- ence. In any case we detected a significant increase of the heterozygous Klotho genotype in the class of elderly people, but not in the class of long-living people. On the whole these results show that the heterozygous genotype exerts a beneficial effect on survival when population mortality begins to acceler- ate (Ukraintseva and Yashin 2001), indeed it is found to be more frequent in the group of people aged from 66 to 91 years,while,on the contrary, in the group of long- living people its frequency is nearly identical to that of young people. Thus the KL-VS/wt heterozygous genotype modulates survival according to an age- specific complex pattern, probably shaped by physio- logical age-related variations (Passarino et al. 2006).
+
+A possible explanation for these figures is that the heterozygous genotype is favorable at old age but less favorable, if not detrimental later on at very old age. Such a non-monotonic trend may be due to an age- specific effect of the genotypes, similar to that originally described for alleles in the ‘‘antagonistic pleiotropy’’ theory (Williams 1957), a hot topics that some of us recently critically revisited (Leroi et al.
+
+association of genetic variation in peroxisome proliferator- activated receptor (PPAR) gamma-
+
+with longevity. Exp Gerontol
+
+:
+
+–
+
+doi:
+
+/j.exger.
+
+Bartke A (
+
+) New findings in transgenic, gene knockout and mutant mice. Exp Gerontol
+
+:
+
+–
+
+doi:
+
+/ j.exger.
+
+Bonafe` M, Olivieri F, Cavallone L, Giovagnetti S, Mayegiani F, Cardelli M, Pieri C, Marra M, Antonicelli R, Lisa R, Rizzo MR, Paolisso G, Monti D, Franceschi C (
+
+) A gender- dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol
+
+:
+
+–
+
+doi:
+
+/
+
+-
+
+(
+
+)
+
+:
+
+\
+
+::AID-IMMU
+
+[
+
+CO;
+
+-X Cardelli M, Cavallone L, Marchegiani F, Oliveri F, Dato S, Montesanto A, Lescai F, Lisa R, De Benedictis G, Franceschi C (
+
+) A genetic-demographic approach reveals male-specific association between survival and tumor necrosis factor (A/G)-
+
+polymorphism. J Ger- ontol A Biol Sci Med Sci
+
+:
+
+–
+
+Cederholm T, Persson M, Andersson P, Stenvinkel P, Nordfors L, Madden J, Vedin I, Wretlind B, Grimble RF, Palmblad J (
+
+) Polymorphisms in cytokine genes influence long- term survival differently in elderly male and female patients. J Intern Med
+
+:
+
+–
+
+doi:
+
+/j.
+
+-
+
+x Dato S, Carotenuto L, De Benedictis G (
+
+) Genes and longevity: a genetic-demographic approach reveals sex- and age-specific gene effects not shown by the case– control approach (APOE and HSP
+
+loci). Biogeron- tology
+
+:
+
+–
+
+doi:
+
+/s
+
+-
+
+-
+
+-
+
+De Benedictis G, Franceschi C (
+
+) The unusual genetics of human longevity. Sci Aging Knowl Environ
+
+:pe
+
+doi:
+
+/sageke.
+
+pe
+
+De Luca M, Rose G, Bonafe` M, Garasto S, Greco V, Weir BS, Franceschi C, De Benedictis G (
+
+) Sex-specific lon- gevity associations defined by Tyrosine Hydroxylase- Insulin-Insulin Growth Factor
+
+haplotypes on the
+
+p
+
+chromosomal region. Exp Gerontol
+
+:
+
+–
+
+doi:
+
+/S
+
+-
+
+(
+
+)
+
+-
+
+Franceschi C, Motta L, Valensin S, The Italian Multicenter Study on Centenarians (
+
+) Do men and women follow different trajectories to reach extreme longevity? Aging Clin Exp Res
+
+:
+
+–
+
+Imura A, Iwano A, Tohyama O, Tsuji Y, Nozaki K, Hashimoto N, Fujimori T, Nabeshima Y (
+
+) Secreted Klotho protein in sera and CSF: implication for post-translational cleavage in release of Klotho protein from cell membrane. FEBS Lett
+
+:
+
+–
+
+doi:
+
+/j.febslet.
+
+Kawano K, Ogata N, Chiano M, Molloy H, Kleyn P, Spector TD, Uchida M, Hosoi T, Suzuki T, Orimo H, Inoue S, Nabeshima Y, Nakamura K, Kuro-o M, Kawaguchi H (
+
+) Klotho gene polymorphisms associated with bone density of aged postmenopausal women. J Bone Miner Res
+
+:
+
+–
+
+doi:
+
+/jbmr.
+
+Kuro-o M (
+
+) Klotho as a regulator of oxidative stress and senescence. Biol Chem
+
+:
+
+–
+
+doi:
+
+/BC.
+
+Kuro-o M, Matsumura Y, Aizawa H, Kawaguchi H, Suga T, Utsugi T, Ohyama Y, Kurabayashi M, Kaname T, Kume E, Iwasaki H, Iida A, Shiraki-Iida T, Nishikawa S, Nagai
+
+2005). This theory proposes that individuals with alleles that are beneficial for reproductive fitness could be selected for by evolution even if the same alleles may have negative effects at later ages. We surmise that the same considerations may apply to genotypes and indeed it is not unusual to find non- monotonic age-related trajectories of genotype fre- quencies, in which centenarians display frequencies quite similar to those of young people (De Benedictis and Franceschi 2006). In conclusion, all the available data and those reported in the present study indicate that Klotho genetic variability has likely a role on human survival that is more complex than previously thought, since it appears that the same genotype has different effects (positive or negative for survival) according to the age of the subjects. On the basis of these data, we suggest that Klotho genetic variants may influence human longevity in a peculiar, unex- pected way. The Klotho polymorphism here exam- ined may be one example of a larger category of genes and gene variants exerting their effects at specific time windows.
+
+activated receptor (PPAR) gamma-
+
+with longevity. Exp Gerontol
+
+:
+
+–
+
+doi:
+
+/j.exger.
+
+Bartke A (
+
+) New findings in transgenic, gene knockout and mutant mice. Exp Gerontol
+
+:
+
+–
+
+doi:
+
+/ j.exger.
+
+Bonafe` M, Olivieri F, Cavallone L, Giovagnetti S, Mayegiani F, Cardelli M, Pieri C, Marra M, Antonicelli R, Lisa R, Rizzo MR, Paolisso G, Monti D, Franceschi C (
+
+) A gender- dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol
+
+:
+
+–
+
+doi:
+
+/
+
+-
+
+(
+
+)
+
+:
+
+\
+
+::AID-IMMU
+
+[
+
+CO;
+
+-X Cardelli M, Cavallone L, Marchegiani F, Oliveri F, Dato S, Montesanto A, Lescai F, Lisa R, De Benedictis G, Franceschi C (
+
+) A genetic-demographic approach reveals male-specific association between survival and tumor necrosis factor (A/G)-
+
+polymorphism. J Ger- ontol A Biol Sci Med Sci
+
+:
+
+–
+
+Cederholm T, Persson M, Andersson P, Stenvinkel P, Nordfors L, Madden J, Vedin I, Wretlind B, Grimble RF, Palmblad J (
+
+) Polymorphisms in cytokine genes influence long- term survival differently in elderly male and female patients. J Intern Med
+
+:
+
+–
+
+doi:
+
+/j.
+
+-
+
+x Dato S, Carotenuto L, De Benedictis G (
+
+) Genes and longevity: a genetic-demographic approach reveals sex- and age-specific gene effects not shown by the case– control approach (APOE and HSP
+
+loci). Biogeron- tology
+
+:
+
+–
+
+doi:
+
+/s
+
+-
+
+-
+
+-
+
+De Benedictis G, Franceschi C (
+
+) The unusual genetics of human longevity. Sci Aging Knowl Environ
+
+:pe
+
+doi:
+
+tology
+
+:
+
+–
+
+doi:
+
+/s
+
+-
+
+-
+
+-
+
+De Benedictis G, Franceschi C (
+
+) The unusual genetics human longevity. Sci Aging Knowl Environ
+
+:pe
+
+/sageke.
+
+pe
+
+De Luca M, Rose G, Bonafe` M, Garasto S, Greco V, Weir Franceschi C, De Benedictis G (
+
+) Sex-specific gevity associations defined by Tyrosine Insulin-Insulin Growth Factor
+
+haplotypes on
+
+p
+
+chromosomal region. Exp Gerontol
+
+doi:
+
+/S
+
+-
+
+(
+
+)
+
+-
+
+Franceschi C, Motta L, Valensin S, The Italian Study on Centenarians (
+
+) Do men and women different trajectories to reach extreme longevity? Clin Exp Res
+
+:
+
+–
+
+Imura A, Iwano A, Tohyama O, Tsuji Y, Nozaki K, N, Fujimori T, Nabeshima Y (
+
+) Secreted protein in sera and CSF: implication for cleavage in release of Klotho protein from cell FEBS Lett
+
+:
+
+–
+
+Kawano K, Ogata N, Chiano M, Molloy H, Kleyn P, TD, Uchida M, Hosoi T, Suzuki T, Orimo H, Inoue Nabeshima Y, Nakamura K, Kuro-o M, Kawaguchi (
+
+) Klotho gene polymorphisms associated with density of aged postmenopausal women. J Bone Res
+
+:
+
+–
+
+doi:
+
+/jbmr.
+
+Kuro-o M (
+
+) Klotho as a regulator of oxidative stress senescence. Biol Chem
+
+:
+
+–
+
+Kuro-o M, Matsumura Y, Aizawa H, Kawaguchi H, Suga Utsugi T, Ohyama Y, Kurabayashi M, Kaname T, E, Iwasaki H, Iida A, Shiraki-Iida T, Nishikawa S,
+
+Acknowledgments Thisworkwassupportedby:thePRRIITT program of the Emilia-Romagna Region (and Fondi Strutturali Obiettivo 2); Italian Ministry of Health Grant ‘‘Progetto Finalizzato (cid:2)Studio delle differenze uomo-donna nei mecca- nismi patogenetici delle malattie cardiovascolari(cid:3)‘‘to CF; Roberto and Cornelia Pallotti Legacy for Cancer Research GrantstoCFandSS.UniversityofBologna‘‘ProgettiStrategici’’ 2006 grant (‘‘p53 e patologie non neoplastiche nell’anziano: uno studio multidisciplinare sul ruolo del polimorfismo al codone 72 del gene TP53’’) to SS.
+
+References
+
+Arking DE, Krebsova A, Macek M Sr, Macek M Jr, Arking A, Mian IS, Fried L, Hamosh A, Dey S, M
+
+ntosh I, Dietz HC (
+
+) Association of human aging with a functional variant of klotho. Proc Natl Acad Sci USA
+
+:
+
+–
+
+doi:
+
+/pnas.
+
+Arking DE, Becker DM, Yanek LR, Fallin D, Judge DP, Moy TF, Becker LC, Dietz HC (
+
+) KLOTHOallele status, the risk of early-onset occult coronary artery disease. Am J Hum Genet
+
+:
+
+–
+
+doi:
+
+/
+
+Arking DE, Atzmon G, Arking A, Barzilai N, Dietz HC (
+
+) Association between a functional variant of the KLOTHO gene and high-density lipoprotein cholesterol, blood pressure, stroke, and longevity. Circ Res
+
+:
+
+–
+
+doi:
+
+/
+
+RES.
+
+Barbieri M, Bonafe` M, Rizzo MR, Ragno E, Olivieri F, Marc- hegiani F, Franceschi C, Paolisso G (
+
+) Gender specific
+
+M, Matsumura Y, Aizawa H, Kawaguchi H, Suga T, Utsugi T, Ohyama Y, Kurabayashi M, Kaname T, Kume E, Iwasaki H, Iida A, Shiraki-Iida T, Nishikawa S, Nagai
+
+R, Nabeshima YI (
+
+) Mutation of the mouse klotho gene leads to a syndrome resembling aging. Nature
+
+:
+
+–
+
+doi:
+
+/
+
+Kurosu H, Yamamoto M, Clark JD, Pastor JV, Nandi A, Gurnani P, M
+
+uinness OP, Chikuda H, Yamaguchi M, Kawaguchi H, Shimomura I, Takayama Y, Herz J, Kahn CR, Rosenblatt KP, Kuro-o M (
+
+) Suppression of aging in mice by the hormone Klotho. Science
+
+:
+
+–
+
+doi:
+
+/science.
+
+Leroi AM, Bartke A, De Benedictis G, Franceschi C, Gartner A, Gonos ES, Fedei ME, Kivisild T, Lee S, Kartaf-Ozer N, Schumacher M, Sikora E, Slagboom E, Tatar M, Yashin AI, Vijg J, Zwaan B (
+
+) What evidence is there for the existence of individual genes with antagonistic pleiotropic effects? Mech Ageing Dev
+
+:
+
+–
+
+doi:
+
+/j.mad.
+
+Low AF, O’Donnell CJ, Kathiresan S, Everett B, Chae CU, Shaw SY, Ellinor PT, Ma
+
+ae CA (
+
+) Aging syn- drome genes and premature coronary artery disease. BMC Med Genet
+
+:
+
+doi:
+
+/
+
+-
+
+-
+
+-
+
+Matsumura Y, Aizawa H, Shiraki-Iida T, Nagai R, Kuro-o M, Nabeshima Y (
+
+) Identification of the human klotho gene and its two transcripts encoding membrane and secreted klotho protein. Biochem Biophys Res Commun
+
+:
+
+–
+
+doi:
+
+/bbrc.
+
+Mullin BH, Wilson SG, Islam FM, Calautti M, Dick IM, De- vine A, Prince RL (
+
+) Klotho gene polymorphisms are associated with osteocalcin levels but not bone density of aged postmenopausal women. Calcif Tissue Int
+
+:
+
+–
+
+doi:
+
+/s
+
+-
+
+-
+
+-x Novelli V, Viviani Anselmi C, Roncarati R, Guffanti G, Malovini A, Piluso G, Puca AA (
+
+) Lack of replication of genetic associations with human longevity. Biogeron- tology
+
+:
+
+–
+
+doi:
+
+/s
+
+-
+
+-
+
+-
+
+Passarino G, Montesanto A, Dato S, Giordano S, Domma F, Mari V, Feraco E, De Benedictis G (
+
+) Sex and age
+
+specificity of susceptibility genes modulating survival at old age. Hum Hered
+
+:
+
+–
+
+doi:
+
+/
+
+Shiraki-Iida T, Aizawa H, Matsumura Y, Sekine S, Iida A, Anazawa H, Nagai R, Kuro-o M, Nabeshima Y (
+
+) Structure of the mouse klotho gene and its two transcripts encoding membrane and secreted protein. FEBS Lett
+
+:
+
+–
+
+doi:
+
+/S
+
+-
+
+(
+
+)
+
+-
+
+Tohyama O,Imura A,Iwano A,Freund JN, Henrissat B,Fujimori T,Nabeshim
+
+(
+
+)Klothoisanovelbeta-glucuronidase capable of hydrolyzing steroid beta-glucuronides. J Biol Chem
+
+:
+
+–
+
+doi:
+
+/jbc.M
+
+Ukraintseva SV, Yashin AI (
+
+) How individual age-asso- ciated changes may influence human morbidity and mortality patterns. Mech Ageing Dev
+
+:
+
+–
+
+doi:
+
+/S
+
+-
+
+(
+
+)
+
+-
+
+Vaupel JW, Yashin AI (
+
+) Heterogeneity’s ruses: some surprising effects of selection on population dynamics. Am Stat
+
+:
+
+–
+
+doi:
+
+/
+
+Williams GC (
+
+) Pleiotropy, natural selection, and the evolution of senescence. Evol Int J Org Evol
+
+:
+
+–
+
+doi:
+
+/
+
+Yamada Y, Ando F, Niino N, Shimokata H (
+
+) Association of polymorphisms of the androgen receptor and klotho genes with bone mineral density in Japanese women. J Mol Med
+
+:
+
+–
+
+doi:
+
+/s
+
+-
+
+-
+
+-
+
+Yamamoto M, Clark JD, Pastor JV, Gurnani P, Nandi A, Ku- rosu H, Miyoshi M, Ogawa Y, Castrillon DH, Rosenblatt KP, Kuro-o M (
+
+) Regulation of oxidative stress by the anti-aging hormone klotho. J Biol Chem
+
+:
+
+–
+
+doi:
+
+/jbc.M
+
+Yashin AI, De Benedictis G, Vaupel JW, Tan Q, Andreev KF, Iachine IA, Bonafe M, D
+
+uca M, Valensin S, Carotenuto L, Franceschi C (
+
+) Genes, demography, and life span: the contribution of demographic data in genetic studies on aging and longevity. Am J Hum Genet
+
+:
+
+–
+
+doi:
+
+/

@@ -1,0 +1,115 @@
+Dong Jo Kim Æ Sang Mi Yi Æ Seung Yeon Lee Heun Soo Kang Æ Yoon-Ho Choi Æ Yeong Wook Song Sang Chul Park
+
+Association between the MLH1 gene and longevity
+
+Received: 21 July 2005/ Accepted: 17 January 2006/Published online: 11 February 2006  Springer-Verlag 2006
+
+Abstract Perturbations in genomic stability result in cancer, a reduced life span, and premature aging. MLH1 is a mismatch repair enzyme that acts to maintain genomic stability, and a loss of MLH1 increases cancer incidence and apoptosis resistance, which suggests a link between MLH1 and longevity. We found here that MLH1 is associated with longevity by comparing a centenarian group with a control group. Our data indicate a critical role for MLH1 in longevity.
+
+one of the critical genes that maintain the stability of the genome, and its functional shortcomings are strongly associated with human colon cancer. Loss of the MLH1 gene results in microsatellite instability, which is not only a hallmark of cancer but may be central to the mecha- nism of cancer development. MLH1-deficient mice are prone to cancer development (Prolla et al. 1998). These phenotypes are similar to those typically encountered in aged humans. In addition, MLH1-deficient cells show resistance to the apoptosis induced by DNA damaging agents, which is consistent with evidence of a decline in apoptotic response during aging (Hardman et al. 2001). Recently, it was demonstrated that mutations through- out the entire coding regions of MLH1 are predomi- nantly inactivating, and thus eliminate the effect of wild-type MLH1 in proliferating cells (Shcherbakova and Kunkel 1999; Pang et al. 1997). Therefore, we hypothesized that polymorphisms of MLH1 influence genomic stability and thereby life span. To examine this hypothesis, we analyzed the entire coding region of the MLH1 gene in 85 Korean centenarians and in 106 Korean controls using two-dimensional gene scanning. Two-dimensional gene scanning (TDGS) is a method of mutation detection based on the electrophoretic separa- tion of PCR-amplified DNA fragments based on size in the first dimension, and on base sequence in the second dimension (Dhanda et al. 1998). We identified nine single nucleotide variants of MLH1 in two population groups, of which we focused on three SNPs in a coding sequence leading to an amino acid substitution because cSNPs play important roles in the function of protein MLH1 (C670T; Arg217Cys, A676G; Ile219Val, T1172A; Val384Asp). The distributions of all three SNPs were in Hardy–Weinberg equilibrium (HWE: P>0.05, data not shown). Analyses of all genotype and haplotype associ- ations with longevity were performed using logistic regression models, after adjusting for the confounding effects of gender caused by differences in ascertainment.
+
+Metabolab Inc., Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, 110-799 Seoul, South Korea
+
+Department of Anatomy and Neurobiology, Washington University School of Medicine, St. Louis, MO 63108, USA
+
+Y. W. Song
+
+National Research Lab for Rheumatologic Department of Internal Medicine, Seoul National University College of Medicine, 110-799 Seoul, South Korea
+
+of Biochemistry and Molecular Aging and Apoptosis Research Center, National University College of Medicine, Yongon Dong,
+
+-
+
+Seoul, Korea scpark@snu.ac.kr +
+
+-
+
+-
+
++
+
+-
+
+-
+
+Table 1 Effect of MLH1 haplotype on longevity
+
+Centenarians Controls P value AORa 95% CI Age 102.33±2.59b 56.24±10.67b <0.0001c Gender (%) Male Female Male Female 14(16.47) 71(83.53) 49(46.23) 57(53.77) <0.0001d Haplotypee CAT 13(92.86) 67(94.37) 39(79.59) 47(82.46) 0.0206 3.507 1.213, 10.14 Others 1(7.14) 4(5.63) 10(20.41) 10(17.55)
+
+bMeans and standard deviations cT test on the two groups dChi-squared test on the two groups eHaplotype frequencies and individual haplotypes were generated using the Expectation Maximization (EM) algorithm, which reconstruct individual probabilities for individual phasing accuracy based on unphased genotype data, as well as estimates on the overall haplotype frequencies and their standard errors.
+
+eHaplotype frequencies and individual haplotypes were generated using the Expectation Maximization (EM) algorithm, which reconstruct individual probabilities for individual phasing accuracy based on unphased genotype data, as well as estimates on the overall haplotype frequencies and their standard errors.
+
+Marginally significant allelic association was detected only between polymorphism at position 1172 and lon- gevity by dominant model (P=0.0443, adjusted odds ratio (AOR) =0.199, 95% confidence interval (CI): 0.041–0.96). According to our hypothesis, we further compared the frequencies of MLH1 haplotypes in the centenarian and control groups under recessive model. In order to avoid misleading results caused by rare haplo- types, we analyzed all haplotypes with a frequency over than or equal to 5% in both the centenarians and the controls, resulting in one major haplotype CAT. We found that the CAT haplotype frequency was signifi- cantly higher in the centenarians than in the controls (P=0.0206; Table 1). Moreover, since mutation rate is positively correlated with age, our data show that centenarians have an unexpected MLH1 gene haplotype frequency (Wei 1998).
+
+References
+
+Dhanda RK, Smith WM, Scott CB, Eng C, Vijg J (
+
+) A simple system for automated two-dimensional electrophoresis: appli- cations to genetic testing. Genet Test
+
+:
+
+–
+
+Hardman RA, Afshari CA, Barrett JC (
+
+) Involvement of mammalian MLH
+
+in the apoptotic response to peroxide-in- duced oxidative stress. Cancer Res
+
+:
+
+–
+
+Pang Q, Prolla TA, Liskay RM (
+
+) Functional domains of the Saccharomyces cerevisiae Mlh
+
+p and Pms
+
+p DNA mismatch repair proteins and their relevance to human hereditary non- polyposis colorectal cancer-associated mutations. Mol Cell Biol
+
+:
+
+–
+
+Prolla TA, Baker SM, Harris AC, Tsao JL, Yao X, Bronner CE, Zheng B, Gordon M, Reneker J, Arnheim N, Shibata D, Bradley A, Liskay RM (
+
+) Tumour susceptibility and spontaneous mutation in mice deficient in Mlh
+
+, Pms
+
+and Pms
+
+DNA mismatch repair. Nat Genet
+
+:
+
+–
+
+Shcherbakova PV, Kunkel TA (
+
+) Mutator phenotypes con- ferred by MLH
+
+overexpression and by heterozygosity for mlh
+
+mutations. Mol Cell Biol
+
+:
+
+–
+
+Wei Q (
+
+) Effect of aging on DNA repair and skin carcino- genesis: a minireview of population-based studies. J Investig Dermatol Symp Proc
+
+:
+
+–
+
+RK, Smith WM, Scott CB, Eng C, Vijg J (1998) A simple system for automated two-dimensional electrophoresis: appli-
+
+Cancer is a disease that rises exponentially with age, and as the populations of many countries age, so cancer- related deaths are likely to become even more prevalent in the twenty-first century. However, centenarians have escaped overt cancer. Our data suggest that maintaining genomic stability contributes to longevity, and that DNA repair has a critical role during the aging process.
+
+Acknowledgements This work was supported by grants from the Korean Research Foundation for Health Science, from the National Research Laboratory Programme for Rheumatic Disease, and from the Aging and Apoptosis Research Center of KOSEF, Korea Ministry of Science and Technology.

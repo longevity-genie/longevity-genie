@@ -1,0 +1,429 @@
+ToxicologyLetters
+
+www.elsevier.com/locate/toxlet
+
+a b c a a c d Beate Pesch , Rainer Düsing , Sylvia Rabstein , Volker Harth , , c a d e Dagmar Grentrup , Thomas Brüning , Olfert Landt , ,∗ c c
+
+Dedicated to the late Christian Hodel
+
+Abstract
+
+In order to investigate possible associations of genetic variants in genes of xenobiotic metabolism with longevity, we allele frequencies and genotype distributions of polymorphic genes between 205 octogenarians and a non-cancer reference 3801 T > C and CYP1B1 V432L, and in the glutathione S-transferase genes GSTM1 (deletion), GSTT1 (deletion), and (I105V). In octogenarians, the CYP1B1 432L allele was less prevalent than in the reference group (allele frequency 0.49 0.60; odds ratio, OR, 0.63, 95% confidence limits (CI) 0.40–1.00). Octogenarians turned out to have marginally significant GSTM1 negatives (frequency 0.56 versus 0.48; OR 1.41, 95% CI 0.97–2.05), but less GSTT1 deficient genotypes 0.14 versus 0.21; OR 0.64; 95% CI 0.38–1.06). In octogenarians without cancer, GSTT1 negative carriers were less than in the aged with cancer (frequency 0.12 versus 0.27; OR 2.81; 95% CI 1.00–7.38). Polymorphic metabolic genes could become relevant for processes of aging when toxic defense mechanisms decline.
+
+Metabolism; Single nucleotide polymorphism; Aging; Cytochrome P-450; Glutathione S-transferase;
+
+Age is a pronounced risk factor for most chronic human diseases. The risk to develop cancer in Ger- man male octogenarians is about 300 times the risk of adolescents, and for females 200 times,
+
+0378-4274/$ – see front matter © 2004 Published by Elsevier Ireland Ltd. doi:10.1016/j.toxlet.2004.01.025
+
+B. Pesch et al. / Toxicology Letters 151 (2004) 283–290
+
+2.2. Genotypings
+
+respectively (Schön et al., 1999). The exponential shape of the age-specific incidence of cancer sup- ports a stochastic process of accumulating errors at different levels of aging. Aging-related declines in toxic defence mechanisms have been related to gen- eration of reactive oxygen species (ROS; Beckman and Ames, 1998) and the decrease in detoxi- fying agents such as glutathione (van Lieshout and Peters, 1998). There is evidence that gene variants that affect metabolism of xenobiotics may modify the life span. The isoenzyme families cytochrome P450 (CYP) and glutathione S-transferases (GST) metabolize a wide range of substrates and are of importance for the balance of the oxidative status. Se- quence variations in these genes have been assumed to predispose to a variety of age-related diseases. We, therefore, conducted a study on 205 octogenari- ans (aged 80–98 years) and 294 non-cancer controls (aged 17–79 years) to investigate the association of gene deletions in GSTM1 and GSTT1 and of the sequence variations CYP1A1 3801 T > C, CYP1A1 T461N, CYP1B1 V432L, and GSTP1 I105V with aging.
+
+From the study subjects, genomic DNA was iso- lated from whole blood using the QiAmp DNA Blood Maxi Kit (Qiagen, Hilden, Germany). PCR was performed on a LightCyclerTM instrument (Roche, Mannheim, Germany) using hybridization probes in combination with LightCyclerTM DNA Master Hy- bridization Probes Kit (Roche, Mannheim, Germany). Both the PCR primers and the fluorescent-labeled detection probes were synthesized by TIB MOL- BIOL, Berlin, Germany. The PCR conditions, PCR primers, and fluorescent-labeled detection probes for genotyping CYP1A1, CYP1B1, GSTM1, GSTT1, and GSTP1 have been previously published (Ko et al., 2001). The reference sequences were defined accord- ing to the U.S. National Center for Biotechnology Information reference sequences (Pruitt and Maglott, 2001). Therefore, the variant allele is not always the minor allele. Allele frequencies, deviation from Hardy-Weinberg equilibrium (HWE) and OR with 95% CI for allele positivity (variant allele carriers versus homozygous reference genotype carriers) were calculated with a program of T.M. Strom and T.F. Wienker (URL: http://ihg.gsf.de/cgi-bin/hw/hwa1.pl) and StatXact, version 4 (CYTEL Software Corpo- ration, Cambridge, MA, USA). We investigated the impact of age, gender, and cancer on the allelic vari- ation. The risk estimates were not adjusted for these stratification factors.
+
+2. Subjects and methods
+
+2.1. Subjects
+
+Two-hundred-and-five octogenarians were re- cruited from three different homes for the aged in the city of Bonn, Germany (Lottermoser et al., 2001). Octogenarians were eligible if aged 80 years or older and being able to follow an in- terview. As reference population, 294 unrelated non-cancer controls aged 17–79 years were ascer- tained from the outpatient clinics of the Univer- sity of Bonn and of the Environmental Health Re- search Institute in Düsseldorf, Germany (Ko et al., 2001). Blood samples were collected, with approval of the locally responsible Ethics Commission, and written informed consent. Body mass index (BMI) was obtained by dividing the weight in kilograms by height measured in meters, squared. Obesity was defined as BMI ≥ 30 kg/m2. Smoking was assessed as ever or never having smoked. Any diagnosis of can- cer, diabetes mellitus, or myocardial infarction was self-reported.
+
+3. Results
+
+Two-hundred-and-five German octogenarians aged 80–98 years were recruited from homes for the aged, representing a selected subgroup of the very old. We compared the prevalence of lifestyle factors and chronic diseases in these octogenarians with 374 West Germans aged 70–79 years from the German Health Survey 1998 (Bellach, 1999; see Table 1). Among the octogenarians, ever smoking and obesity were less prevalent than in Germans aged 70–79 years from the Health Survey (Bellach, 1999; see Table 1). The octogenarians did not represent a healthy group; 34 (16%) reported having suffered from cancer, 29 (14%) from diabetes mellitus, 37 (18%) from my- ocardial infarction, and 36 (18%) from stroke. The
+
+B. Pesch et al. / Toxicology Letters 151 (2004) 283–290
+
+Basic characteristics of the study population by age and gender
+
+Reference population German Health Surveyd Octogenarians (N = 294) (N = 374) males; females (N = 205) males; females Age range (years) 17–79 70–79 80–98 Male gender 59% 43% 28% Ever smokers 59% 76%; 22% 41%; 13%e Mean BMIa (S.D.b) Not determined 27.8 (3.5); 27.9 (4.3) 23.6 (3.5); 22.3 (3.7) BMI >= 30kg/m2 Not determined 20%; 30% 2%; 4% Prevalence of diabetes mellitus Not determined 11%; 18% 17%; 13% Cancerc Subjects with cancer No data published 26%; 13% were not eligible Myocardial infarctiond Not determined 14%; 6% 21%; 17% Stroked Not determined Age-specific rates not published 17%; 18%
+
+c Prevalence of survival after cancer, myocardial infarction or stroke; self-assessed. d German Health Survey 1998; subgroup aged 70–79 years from the West German population (Bellach, e Six missing data among females.
+
+105IV genotypes and more homozygous 105VV genotypes than expected among non-cancer octoge- narians.
+
+mean BMI (23 kg/m2) was lower than the mean BMI of the West German population aged 70–79 years (28 kg/m2; Bergmann and Mensink, 1999).
+
+morphisms of the genes CYP1A1, CYP1B1, and GSTP1, and the frequencies of deletions in GSTM1 and GSTT1 in octogenarians and in the reference group. Among octogenarians, the CYP1B1 432L allele frequency was significantly decreased in comparison to the reference group (OR 0.63; 95% 0.40–1.00). In octogenarians, there were slightly less frequent GSTT1 deletions than in the non-cancer controls (OR 0.64; 95% CI 0.38–1.06). GSTM1 gene deletions were marginally more prevalent (OR 1.41; 95% CI 0.97–2.05).
+
+4. Discussion
+
+background of longevity is apparent (Gudmundsson et al., 2000; Heijmans et al., 2000; Perls et al., 2000). Besides rare genetic disorders, such as progeria with an early onset of senescence (Oshima, 2000), the ge- netic determinants of the human life span are still unknown. Genetic variants associated with an impact on reproduction, metabolism, radical scavenging, and signaling may affect the life span (Finch and Ruvkun, 2001). In Western populations, obesity, tobacco smok- ing, and male gender are associated with a variety of age-related diseases and, thus, with a lower life ex- pectancy. Smoking and high body fat content likely play a crucial role in ROS production. Among our study group of German octogenarians, ever smoking and obesity were less prevalent than in Germans aged 70–79 years recruited from the German Health Survey 1998 (Bellach, 1999; Bergmann and Mensink, 1999). This may be both an age-specific and a selection ef- fect of the enrollment from homes for the aged. Aging persons have a lower food intake, which contributes to the decline of BMI in the old, where severe forms
+
+Table 3 shows the allelic variation in octogenarians by gender, but significant differences could not be re- vealed. In male octogenarians, there was a marginally significant lower prevalence of the CYP1B1 432LL P < . genotype than in women ( 0 10) (Table 3).
+
+A further insight into the allelic differences re- sults from a stratification of the octogenarians by any diagnosis of cancer during lifetime with respect to the CYP1A1 461 N allele (OR 3.52; 95% CI 1.06–10.8), GSTP1 105V allele (OR 0.49; 95% CI 0.21–1.13), and GSTT1 deletion (OR 2.81; 95% CI 1.00–7.38) (Table 4). A significant deviation from the Hardy-Weinberg equilibrium could be demonstrated for GSTP1 I105V, with less observed heterozygous
+
+Table 2
+
+distributions, allele frequencies and deviations from Hardy-Weinberg equilibrium of CYP1A1 T461N, CYP1A1 3801 T > C, CYP1B1 V432L, GSTP1 I105V and in GSTM1 and GSTT1 in octogenarians and in a non-cancer reference group of age < 80 years
+
+Sequence variation Reference group (17–79 years) Octogenarians (80–98 years) ORa (95% CI) Variant allele P-valueb (HWE) frequency RRc RVc VVc RR RV VV Ref Octo Ref Octo CYP1A1 T461N 269 (91.5%) 25 (8.5%) 0 176 (90.3%) 19 (9.7%) 0 1.16 0.59–2.27 0.04 0.05 1.00 1.00 CYP1A1 3801 T > C 238 (81.0%) 52 (17.7%) 4 (1.3%) 161 (80.5%) 39 (19.5%) 0 1.03 0.63–1.66 0.10 0.10 0.52 0.23 CYP1B1 V432L 51 (17.4%) 136 (46.3%) 107 (36.4%) 51 (25.0%) 105 (51.5%) 48 (23.5%) 0.63 0.40–1.00 0.60 0.49 0.54 0.78 GSTP1 I105V 128 (43.5%) 135 (45.9%) 31 (10.5%) 93 (46.0%) 68 (33.7%) 41 (20.3%) 0.90 0.62–1.32 0.34 0.37 0.69 0.00 Positive Negative Positive Negative Frequency of negatives GSTM1 153 141 88 114 1.41 0.97–2.05 0.48 0.56 GSTT1 233 61 174 29 0.64 0.38–1.06 0.21 0.14 a OR, odds ratio; and CI, confidence interval, for allele positivity of the variant allele.
+
+
+
+a OR, odds ratio; and CI, confidence interval, for allele positivity of the variant b P-value (HWE), probability for deviation from Hardy-Weinberg equilibrium. c R, reference allele; V, variant allele according to the NCBI reference sequence.
+
+Genotype distributions of CYPIAI T461N, CYPIAI 3801 T > C, CYPIBI V432L, GSTPI 1105V and deletions in GSTMI and GSTTI among octogenarians (aged 80-98years) by gender 
+
+ Sequence Variation Octogenarians menOctogenarians women OR® (95% CI)Variant alleleP-value (HWE)?  frequencyRR RV vve RR RV VV Men Women Men WomenCYPIAI T461N 47 (85.4%) 8 (14.6%) 0 129 (92.1%) 11 (7.9%) 0 0.50 (0.17-1.53) 0.07 0.04 1.00 1.00CYPIAI 3801 T>C 43 (75.4%) 14 (24.6%) 0 118 (82.5%) 25 (17.5%) 0 0.65 (0.29-1.49) 0.12 0.09 0.58 0.60CYPIBI V432L 17 (29.3%) 33 (56.9%) 8 (13.8%) 34 (23.3%) 72 (49.3%) 40 (27.4%) 1.37 (0.64-2.83) 0.42 0.52 0.28 0.87GSTPI 1105V 29 (50.0%) 14 (24.1%) 15 (25.9%) 64 (44.4%) 54 (37.5%) 26 (18.1%) 1.25 (0.65-2.41) 0.38 0.37 <0.01 0.02Positive Negative Positive Negative Frequencyof negativesGSTMI1 30 27 58 87 1.67 (0.86-3.24) 0.47 0.60GSTT1 49 9 125 20 0.87 (0.35-2.33) 0.16 0.14 * OR, odds ratio; and CI, confidence interval, for allele le positivity of the variant allele. 
+
+ * OR, odds ratio; and CI, confidence interval, for allele positivity of the variant allele.> P-value (HWE), probability for deviation from Hardy-Weinberg equilibrium.© R, reference allele; V, variant allele according to the NCBI reference sequence.
+
+B. Pesch et al. / Toxicology Letters 151 (2004) 283–290
+
+are referred to as anorexia of aging (MacIntosh et al., 2000). This syndrome is characterized by an unex- plained loss of food intake and body weight near the end of life (Horwitz et al., 2002). Besides malnutri- tion and depression as accompanying components of the social aging process, the lowering of body weight may be an evolutionary strategy to reduce the overall exposure to toxic metabolites (Hart et al., 1995). Or- ganisms have evolved neuroendocrine and metabolic response systems to cope with periods of food and en- ergy shortage.
+
+recnacfosisongaidahtiwdnatuohtiw)sraey ycneuqerf <62.093.0)31.1–12.0(94.0)%1.21(4)%3.72(9)%6.06(02)%9.12(73)%9.43(95)%2.34(37V501I1PTSG ycneuqerFevitageNevitisoPevitageNevitisoP sevitagenfo 35.075.0)79.1–73.058.0(715179371MTSG 72.021.0)83.7–00.118.2(942020511TTSG .elellatnairavehtfoytivitisopelellaroflavretniecnedfinoc,ICdna;oitarsddo,ROa .muirbiliuqegrebnieW-ydraHmorfnoitaivedrofytilibaborp,)EWH(eulav-Pb .ecneuqesecnereferIBCNehtotgnidroccaelellatnairav,V;elellaecnerefer,Rc
+
+
+
+The intracellular concentration of glutathione is re- duced in higher age (van Lieshout and Peters, 1998), accompanied by an increasing load of toxic metabo- lites and ROS (Lu et al., 1999). Therefore, there is a rationale to assume an impact of sequence variations in genes of xenobiotic metabolism in the process of senescence. Thus far, only a few studies have com- pared genotype distributions and allele frequencies of metabolic genes of the very old with younger age groups, to investigate a possible selection of genotypes during aging. In a German study on the possible role of genetic polymorphisms of three enzymes, GSTM1, N-acetyltransferase 2, and debrisoquine/sparteine hydrolase (CYP2D6) in aging, there was a lack of association with longevity (Muiras et al., 1998). By contrast, in an Italian study of polymorphisms of metabolic enzymes in healthy nonagenarians and cen- tenarians, GSTT1 deletions were significantly more prevalent than in the younger reference group (28% versus 19%), and no association with longevity could be demonstrated for the GSTM1 deletion and for CYP1A1 polymorphisms (Taioli et al., 2001).
+
+With respect to genetic variants investigated in Germans older or younger than 80 years, so far we could not demonstrate striking differences, and the differences found have to be considered carefully with respect to a random variation because of multiple comparisons. These results confirm, that metabolic susceptibility genes have not been found as strong risk modifiers for aging and age-related diseases as expected in the 1990s (Garte, 2001). A comprehensive database of the allelic variation in common metabolic genes has been established in the International Project on Genetic Susceptibility (GSEC) containing infor- mation on over 15,000 non-cancer controls (Garte et al., 2001). Facing the large variation in the human genome, one cannot expect that a single common
+
+B. Pesch et al. / Toxicology Letters 151 (2004) 283–290
+
+In Caucasian GSEC males, the GSTT1 gene dele- tions were less prevalent than in females. Among the octogenarians, we could not demonstrate a significant gender difference for the sequence variations under study. Octogenarians had slightly less frequent GSTT1 deletions than the nonagenarians, and GSTM1 gene deletions were marginally more prevalent. This is in contrast to the results of an Italian study of polymor- phisms of metabolic enzymes in healthy nonagenar- ians and centenarians, where GSTT1 deletions were significantly more prevalent than in the younger ref- erence group (28% versus 19%), and no association with longevity could be demonstrated for the GSTM1 deletion and for CYP1A1 polymorphisms (Taioli et al., 2001).
+
+gene variant may play a decisive role in either disease development or aging. Only a few rare sequence vari- ants were found strongly associated with a disease risk, such as BRCA1 with breast cancer and genes resulting in the Werner syndrome with aging.
+
+adjusted in association studies, and the underlying statistical models assume that the risk estimate for a gene variant as well, as for an exogenous factor, is independent of age. But there is evidence that with increasing age certain genetic variants may have ei- ther an increasing or decreasing impact on the health status. Among the octogenarians of our study, the CYP1B1 432L allele frequency was significantly lower than in the reference group. Especially in male oc- togenarians, there was a marginally significant lower prevalence of the CYP1B1 432LL genotype than in women. There are plausible explanations for an as- sociation of the CYP1B1 variation with aging. The amino acid substitution V432L is located in the heme binding domain in exon 3 of CYP1B1 (Bailey et al., 1998) and has been suggested to result in an impact on the catalytic activity (Li et al., 2000). Specifically, CYP1B1 has a specific activity of o-hydroxylating estradiol to 4-hydroxyestradiol and is involved in the steroid hormone biosynthesis (Spink et al., 1994). Catechol estrogens may undergo redox cycling to semiquinone and quinone intermediates capable of reacting with biological macromolecules (Bolt et al., 1974). Furthermore, CYP1B1 is likely associated with tissue differentiation and may, thus, be considered a morphogene. Rare mutations were associated with primary congenital glaucoma (Stoilov et al., 1997), and a link to the regulation of adipocyte differentiation has been established (Alexander et al., 1998). Con- stitutive CYP1B1 protein levels in human tissues are relatively low (Murray et al., 2001). Whereas, many metabolic genes are downregulated in age-related dis- eases such as cancer (Dialyna et al., 2001). CYP1B1 is overexpressed in a variety of cancers, including those of the breast, colon, lung, esophagus, skin, lymph node, brain, and testis (Murray et al., 1997). Additionally, CYP1B1 was found associated with the integrity of the tumor suppressor gene p53. In a head and neck cancer study, a significant association be- tween the CYP1B1 V432L polymorphism and the rate of somatic p53 mutations could be revealed (Ko et al., 2001).
+
+A pronounced pattern of allelic differences could be shown for octogenarians with and without a diagnosis of cancer during lifetime with respect to the genetic polymorphisms under study, but random variation due to small numbers of subjects and due to the large number of comparisons has to be taken into account. A significant deviation from the Hardy-Weinberg equilibrium could be demonstrated for GSTP1 I105V, with less observed heterozygous 105IV genotypes and more homozygous 105VV genotypes than expected among non-cancer octogenarians. Like CYP1B1, GSTP1 has a corresponding rationale for an asso- ciation with age-related effects. The GSTP1 I105V sequence variation is located at the substrate binding site of the enzyme and has been shown to affect en- zyme activity (Zimniak et al., 1994; Ji et al., 1997; Sundberg et al., 1998; Watson et al., 1998). Whereas, µ θ GST and GST genes cluster on chromosomes 1 and 22, respectively, GSTP1 is encoded by a single locus on chromosome 11 (Ali-Osman et al., 1997), indicating a distinct genomic evolution among the GST family. GSTP1 was found up-regulated during development (Raijmakers et al., 2001) and associ- ated with the integrity of the tumor suppressor gene p53 (Gudmundsdottir et al., 2001) and with k-ras mutations (Miyanishi et al., 2001).
+
+One of the possible explanations of the weak association of common genetic polymorphisms in metabolic susceptibility genes with carcinogenesis and aging may come from the evolutionary perspec- tive. First, metabolic susceptibility genes are ancient genes, thus, not closely associated with key processes such as proliferation and differentiation to develop
+
+B. Pesch et al. / Toxicology Letters 151 (2004) 283–290
+
+and maintain a complex body structure from the un- derlying wealth of genetic information. Second, the evolution of the genome has created linear chromo- somes instead of circular forms which may become a limiting factor of the life span due to the inability of conventional DNA polymerases to replicate the ends in somatic cells (Takahashi et al., 2000). Two examples of candidate genes in the aging process are the Werner syndrome gene, where the correspond- ing protein acts as a transcriptional activation factor (Oshima, 2000), and the telomerase gene, which is expressed both in cancer cells and germ cells to over- whelm the limited proliferation capacity of somatic cells.
+
+risk factors: time for a reassessment? Cancer Biomarkers Prev.
+
+,
+
+–
+
+Garte, S., Gaspari, L., Alexandrie, A.K., Ambrosone, Autrup, H., Autrup, J.L., Baranova, H., Bathum, Benhamou, S., Boffetta, P., et al.,
+
+Metabolic polymorphism frequencies in control populations. Epidemiol. Biomarkers Prev.
+
+,
+
+–
+
+Gudmundsdottir, K., Tryggvadottir, L., Eyfjord, J.E., GSTM
+
+, GSTT
+
+, and GSTP
+
+genotypes in relation to cancer risk and frequency of mutations in the p
+
+gene. Epidemiol. Biomarkers Prev.
+
+,
+
+–
+
+Gudmundsson, H., Gudbjartsson, D.F., Frigge, M., Gulcher, Stefansson, K.,
+
+Inheritance of human longevity Iceland. Eur. J. Hum. Genet.
+
+,
+
+–
+
+Hart, R.W., Keenan, K., Turturro, A., Abdo, K.M., Leakey, J., Cook, B.,
+
+Caloric restriction and toxicity. Fund. Toxicol.
+
+,
+
+–
+
+Heijmans, B.T., Westendorp, R.G., Slagboom, P.E.,
+
+gene variants, mortality, and extreme longevity in Exp. Gerontol.
+
+,
+
+–
+
+Horwitz, B.A., Blanton, C.A., M
+
+onald, R.B.,
+
+determinants of the anorexia of aging: insights from studies. Annu. Rev. Nutr.
+
+,
+
+–
+
+Ji, X., Tordova, M., O’Donnell, R., Parsons, J.F., Hayden, Gilliland, G.L., Zimniak, P.,
+
+Structure and of the xenobiotic substrate-binding site and location of potential non-substrate-binding site in a class pi S-transferase. Biochemistry
+
+,
+
+–
+
+Ko, Y., Abel, J., Harth, V., Bröde, P., Antony, C., Donat, S., H.P., Ortiz-Pallardo, M.E., Thier, R., Sachinidis, A., Vetter, Bolt, H.M., Herberhold, C., Brüning, T.,
+
+Association CYP
+
+B
+
+codon
+
+mutant allele in head and neck cell cancer is reflected by somatic mutations of p
+
+in tissue. Cancer Res.
+
+,
+
+–
+
+Li, D.N., Seidel, A., Pritchard, M.P., Wolf, C.R., Friedberg,
+
+Polymorphisms in P
+
+CYP
+
+B
+
+affect the of estradiol to the potentially carcinogenic metabolite hydroxyestradiol. Pharmacogenetics
+
+,
+
+–
+
+Lottermoser, K., Düsing, R., Ervens, P., Koch, B., Brüning, Sachinidis, A., Vetter, H., Ko, Y.,
+
+The activator inhibitor
+
+G/
+
+G polymorphism is not with longevity: a study in octogenarians. J. Mol. Med.
+
+–
+
+Lu, C.Y., Lee, H.C., Fahn, H.J., Wie, Y.H.,
+
+Oxidative elicited by imbalance of free radical scavenging enzymes associated with large-scale m
+
+NA deletions in aging skin. Mutat. Res.
+
+,
+
+–
+
+Ma
+
+ntosh, C., Morley, J.E., Chapman, I.M.,
+
+The of aging. Nutrition
+
+,
+
+–
+
+Miyanishi, K., Takayama, T., Ohi, M., Hayashi, T., Nobuoka, Nakajima, T., Takimoto, R., Kogawa, K., Kato, J., S., Niitsu, Y.,
+
+Glutathione S-transferase-pi is closely associated with K-ras mutation during human carcinogenesis. Gastroenterology
+
+,
+
+–
+
+Muiras, M.L., Verasdonck, P., Cottet, F., Schachter, F.,
+
+In particular, sequence variations in metabolic sus- ceptibility genes could be associated with longevity in view of the relevance of oxidative stress for many chronic diseases.
+
+References
+
+Alexander, D.L., Ganem, L.G., Fernandez-Salguero, P., Gonzalez, F., Jefcoate, C.R.,
+
+Aryl-hydrocarbon receptor is an inhibitory regulator of lipid synthesis and of commitment to adipogenesis. J. Cell Sci.
+
+,
+
+–
+
+Ali-Osman, F., Akande, O., Antoun, G., Mao, J.X., Buolamwini, J.,
+
+Molecular cloning, characterization, and expression in Escherichia coli of full-length
+
+NAs of three human glutathione S-transferase Pi gene variants. Evidence for differential catalytic activity of the encoded proteins. J. Biol. Chem.
+
+,
+
+–
+
+Bailey, L.R., Roodi, N., Dupont, W.D., Parl, F.F.,
+
+Association of cytochrome P
+
+B
+
+(CYP
+
+B
+
+) polymorphism with steroid receptor status in breast cancer. Cancer Res.
+
+,
+
+–
+
+Beckman, K.B., Ames, B.N.,
+
+The free radical theory of aging matures. Physiol. Rev.
+
+,
+
+–
+
+Bellach, B.M.,
+
+The
+
+Federal Health Survey. Experiences, results, perspectives. Gesundheitswesen
+
+(Spec No.), S
+
+–S
+
+Bergmann, K.E., Mensink, G.B.,
+
+Anthropometric data and obesity. Gesundheitswesen
+
+(Spec No.), S
+
+-S
+
+Bolt, H.M., Kappus, H., Käsbohrer, R.,
+
+Metabolism of
+
+alpha-ethinylestradiol by human liver microsomes in vitro: aromatic hydroxylation and irreversible protein binding of metabolites. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Dialyna, I.A., Arvanitis, D.A., Spandidos, D.A.,
+
+Genetic polymorphisms and transcriptional pattern analysis of CYP
+
+A
+
+, A
+
+, GSTM
+
+, GSTP
+
+, and GSTT
+
+genes in breast cancer. Int. J. Mol. Med.
+
+,
+
+–
+
+Finch, C.E., Ruvkun, G.,
+
+The genetics of aging. Annu. Rev. Genomics Hum. Genet.
+
+,
+
+–
+
+B. Pesch et al. / Toxicology Letters 151 (2004) 283–290
+
+Stoilov, I., Akarsu, A.N., Sarfarazi, M.,
+
+Identification of three different truncating mutations in cytochrome P
+
+B
+
+(CYP
+
+B
+
+) as the principal cause of primary congenital glaucoma (Buphthalmos) in families linked to the GLC
+
+A locus on chromosome
+
+p
+
+Hum. Mol. Genet.
+
+,
+
+–
+
+Sundberg, K., Johansson, A.S., Stenberg, G., Widersten, M., Seidel, A., Mannervik, B., Jernström, B.,
+
+Differences in the catalytic efficiencies of allelic variants of glutathione transferase P
+
+-
+
+towards carcinogenic diol epoxides of polycyclic aromatic hydrocarbons. Carcinogenesis
+
+,
+
+–
+
+Taioli, E., Mari, D., Franceschi, C., Bonafe, M., Monti, D., Bertolini, S., Marinelli, D., Garte, S.,
+
+Polymorphisms of drug-metabolizing enzymes in healthy nonagenarians and centenarians: difference at GSTT
+
+locus. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Takahashi, Y., Kuro, O.M., Ishikawa, F.,
+
+Aging mechanisms. Proc. Natl. Acad. Sci. U.S.A.
+
+,
+
+–
+
+van Lieshout, E.M., Peters, W.H.,
+
+Age and gender dependent levels of glutathione and glutathione S-transferases in human lymphocytes. Carcinogenesis
+
+,
+
+–
+
+Watson, M.A., Stewart, R.K., Smith, G.B., Massey, T.E., Bell, D.A.,
+
+Human glutathione S-transferase P
+
+polymorphisms: relationship to lung tissue enzyme activity and population frequency distribution. Carcinogenesis
+
+,
+
+–
+
+Zimniak, P., Nanduri, B., Pikula, S., Bandorowicz-Pikula, J., Singhal, S.S., Srivastava, S.K., Awasthi, S., Awasthi, Y.C.,
+
+Naturally occurring human glutathione S-transferase GSTP
+
+-
+
+isoforms with isoleucine and valine in position
+
+differ in enzymic properties. Eur. J. Biochem.
+
+,
+
+–

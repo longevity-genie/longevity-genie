@@ -1,0 +1,817 @@
+Contents lists available at SciVerse ScienceDirect Experimental Gerontology journal homepage: www.elsevier.com/locate/expgero  ExperimentalGerontology    
+
+journal homepage: www.elsevier.com/locate/expgero
+
+Human longevity and variation in GH/IGF-1/insulin signaling, DNA damage signaling and repair and pro/antioxidant pathway genes: Cross sectional and longitudinal studies
+
+Soerensen a,b, Serena Dato a,c, Qihua Tan a,b, Mikael Thinggaard a, Rabea Kleindorp d, Beekman e,f, Rune Jacobsen a, H. Eka D. Suchiman e,f, Anton J.M. de Craen g, Rudi G.J. Schreiber d, Tinna Stevnsner h, Vilhelm A. Bohr h,i, P. Eline Slagboom e,f, Almut Nebel ⁎ W. Vaupel a,j, Kaare Christensen a,b, Matt McGue a,k, Lene Christiansen a,b,
+
+a The Danish Aging Research Center, Epidemiology, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej 9B, 5000 Odense C, Denmark b Department of Clinical Genetics and Department of Clinical Biochemistry and Pharmacology, Odense University Hospital, Sdr. Boulevard 29, 5000 Odense C, Denmark c Department of Cell Biology, University of Calabria, Ponte Pietro Bucci cubo 4C, 87036 Rende (Cs), Italy d Institute of Clinical Molecular Biology, Christian-Albrechts-University and University Hospital Schleswig-Holstein, Schittenhelmstrasse 12, 24105 Kiel, Germany e Department of Molecular Epidemiology, Leiden University Medical Center, S5-P, PO Box 9600, 2300 RC Leiden, The Netherlands f Netherlands Consortium for Healthy Aging, Leiden University Medical Center, 2300 RC, Leiden, The Netherlands g Department of Gerontology and Geriatrics, Leiden University Medical Center, C2-R, PO Box 9600, 2300 RC Leiden, The Netherlands h The Danish Aging Research Center, Department of Molecular Biology and Genetics, Aarhus University, C. F. Moellers Allé 3, 8000 Aarhus C, Denmark i Laboratory of Molecular Gerontology, National Institute on Aging, National Institute of Health, 5600 Nathan Shock Drive, 21224-6825 Baltimore, Maryland, USA j Max Planck Institute for Demographic Research, Konrad-Zuse-Str. 1, 18057 Rostock, Germany k
+
+
+
+Here we explore association with human longevity of common genetic variation in three major pathways: GH/IGF-1/insulin signaling, DNA damage signaling and repair and pro/antioxidants by ing 1273 tagging SNPs in 148 genes composing these pathways. rs9456497 (IGF2R)) and 5 DNA repair SNPs (rs11571461 (RAD52), rs13251813 (WRN), rs1805329 rs2953983 (POLB), rs3211994 (NTLH1)) to be associated with longevity after correction for multiple testing. In a longitudinal study with 11 years of follow-up on survival in the oldest-old Danes we found 2 SNPs (rs10047589 (TNXRD1), rs207444 (XDH)), 1 GH/IGF-1/INS SNP (rs26802 (GHRL)) and 3 DNA repair (rs13320360 (MLH1), rs2509049 (H2AFX) and rs705649 (XRCC5)) to be associated with mortality in late after correction for multiple testing. When examining the 11 SNPs from the case–control study in the longitudinal data, rs3842755 (INS), (WRN) and rs3211994 (NTHL1) demonstrated the same directions of effect (pb0.05), while rs9456497 rs207444 (XDH) presented the same direction of effect when inspecting the 6 SNPs from the longitudinal study the case–control data, hence, suggesting an effect also in survival from middle age to old age. No formal replications were observed when investigating the 11 SNPs from the case–control study in 1613 old (age 95–110) and 1104 middle-aged Germans, although rs11571461 (RAD52) did show a supportive significant tendency (OR=1.162, 95% CI=0.927–1.457). The same was true for rs10047589 cohort of oldest-old (age 85+, N=563). Inconclusion,thepresentcandidategenebasedassociationstudy,thelargesttodateapplyinga not only points topotentialnewlongevity loci, but alsounderlines thedifficulties ofreplicating in independent study populations and thus the difficulties in identifying universal longevity polymorphisms.
+
+In a longitudinal study with 11 years of follow-up on survival in the oldest-old Danes we found 2 pro/antioxidant SNPs (rs10047589 (TNXRD1), rs207444 (XDH)), 1 GH/IGF-1/INS SNP (rs26802 (GHRL)) and 3 DNA repair SNPs (rs13320360 (MLH1), rs2509049 (H2AFX) and rs705649 (XRCC5)) to be associated with mortality in late life
+
+When examining the 11 SNPs from the case–control study in the longitudinal data, rs3842755 (INS), rs13251813 (WRN) and rs3211994 (NTHL1) demonstrated the same directions of effect (pb0.05), while rs9456497 (IGF2R) andrs1157146(RAD52)showednon-significanttendencies,indicativeofeffectsalsoinlatelifesurvival.Inaddition, rs207444 (XDH) presented the same direction of effect when inspecting the 6 SNPs from the longitudinal study in
+
+No formal replications were observed when investigating the 11 SNPs from the case–control study in 1613 oldest- old (age 95–110) and 1104 middle-aged Germans, although rs11571461 (RAD52) did show a supportive non- significant tendency (OR=1.162, 95% CI=0.927–1.457). The same was true for rs10047589 (TNXRD1) (HR=0.758,95%CI=0.543–1.058)whenexaminingthe6SNPsfromthelongitudinalstudyinaDutchlongitudinal cohort of oldest-old (age 85+, N=563).
+
+Inconclusion,thepresentcandidategenebasedassociationstudy,thelargesttodateapplyinga pathwayapproach, not only points topotentialnewlongevity loci, but alsounderlines thedifficulties ofreplicating associationfindings in independent study populations and thus the difficulties in identifying universal longevity polymorphisms. © 2012 Elsevier Inc. All rights reserved.
+
+1. Introduction
+
+⁎ Corresponding author at: Epidemiology, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej 9B, 5000 Odense C, Denmark. Tel.: +45 65503378; fax: +45 65503682.
+
+Genetic factors contribute approximately 25% to variation in human life span (Herskind et al., 1996), an effect thought to be
+
+0531-5565/$ – see front matter © 2012 Elsevier Inc. All rights reserved. doi:10.1016/j.exger.2012.02.010
+
+minimal before age 60 years and most profound from age 85 years and onwards (Hjelmborg et al., 2006). Candidate longevity genes en- code proteins involved in several biological processes including lipid– protein metabolism (APOE being by far the most validated longevity gene to date), growth hormone 1/insulin-like growth factor 1/insulin (GH/IGF-1/INS) signaling, DNA damage signaling, and repair and pro/ antioxidant pathways (Christensen et al., 2006). The genes compos- ing the latter three pathways encode proteins involved in processes such as energy metabolism, growth and differentiation, and the main- tenance of genetic stability (including telomere stability), and protec- tion against free radicals produced by the general metabolism. These are all processes believed to be of key importance for aging and longevity from nematodes to humans (reviewed in e.g. Burtner and Kennedy, 2010; Cluett and Melzer, 2009; Harman, 1973; Kenyon, 2010; Kuningas et al., 2008). Studies using various animal models have found that either depletion or over-expression of some of these candidate genes affect the life span of the organism (e.g. GH, GPX1, FOXO, KL, GHRHR, POLB, RAD52, INS and TP53 (Bartke, 2005; Cabelof et al., 2006; Flurkey et al., 2001; Giannakou et al., 2004; Holzenberger et al., 2003; Kawano et al., 2000; Kuro-o et al., 1997; Kurosu et al., 2005; Park et al., 1999; Tyner et al., 2002; Mockett et al., 1999)), whereas manipulating other genes leads to aging-like phenotypes (e.g. PON1 and CSB (Shih et al., 1998; van der Horst et al., 1997)).
+
+2.1.1. Discovery cohorts
+
+The study population of oldest-old was 1200 participants from The Danish 1905 Birth Cohort Study (1905 cohort) (Nybo et al., 2001). The study was initiated in 1998, when participants were 92.2–93.8 years of age (mean age 93.2). Survivors were re-assessed in 2000, 2003 and 2005. Vital status was followed until death or Jan- uary 1st 2010, whichever came first, resulting in a mean follow-up time for survivors of 11.4 years (range: 11.2–11.6). Survival status in- formation was retrieved from the Danish Central Person Register, which is continuously updated (Pedersen et al., 2006). The younger control group (46.0–55.0 years of age, mean age 50.5) was 800 indi- viduals from The Study of Middle Aged Danish Twins (MADT) (Skytthe et al., 2002). MADT was initiated in 1998 by random selec- tion of 2640 intact twin pairs from 22 consecutive birth years (1931–1952) via the Danish Central Person Register. Only one twin from each twin pair was included in the present study. Permission to collect blood samples and usage of register based information was granted by The Danish National Committee on Biomedical Re- search Ethics for both surveys. All participants gave their informed consent.
+
+After data cleaning, the final sample size for data analysis was 1089 oldest-old and 736 middle-aged individuals. Of these 1089 oldest-old, 14 were alive by January 1st 2010, hence, for the longitu- dinal analysis their remaining life expectancies were imputed using www.mortality.org, which, by appliance of data from the Statistics Denmark, contains cohort mortality data for the Danish population. Of the 736 MADT individuals, 35 had died since 1998. Based on period life table data for the Danish population (www.mortality.org) it is an- ticipated that only approximately 9% of the remaining 701 individuals will become 93 years of age.
+
+In humans rare mutations that severely affect the function of some of these genes (WRN, CSB and RECQL4) can cause segmental progeroid premature aging syndromes such as Werner's, Cockayne's and Rothmund–Thomson syndromes (reviewed in Burtner and Kennedy, 2010)), whereas more common genetic variation has been reported to be associated with human lifespan. Examples from the GH/IGF-1/INS pathway include IGF1R, GHR and FOXO3A, from the DNA damage signaling and repair pathway WRN, MLH1 and TP53 and from the pro/antioxidant pathway SOD1, SOD2 and PON1 (Bonafe et al., 2003; Castro et al., 2000; Christiansen et al., 2004; Flachsbart et al., 2009a; Kim et al., 2006; van Heemst et al., 2005a; van Heemst et al., 2005b; Willcox et al., 2008a; Yashin et al., 2000).
+
+2.1.2. Replication samples
+
+For replication of findings from the Danish case–control study, two German samples of 1613 unrelated long-lived individuals (age 95–110) and 1104 middle-aged controls (mean age 67.2) were used. The participants were identified via the local registry offices and the Federal Administrative Office. They were recruited from dif- ferent geographic regions of Germany and were all of German ances- try (Nebel et al., 2005). Approval was received from the Ethics Committee of the University Hospital Schleswig-Holstein and from local data protection authorities. All participants gave their informed consent.
+
+The vast majority of the candidate genetic association studies pub- lished so far focus on a single or a few single nucleotide polymor- phisms (SNPs) or candidate genes, although recently a few studies have initiated the investigation of SNPs in groups of candidate genes and pathways based on the functional roles of the gene products (Deelen et al., 2011; Flachsbart et al., 2010; Nebel et al., 2009; Pawlikowska et al., 2009a). In addition, previous studies have gener- ally applied a case–control study design, thus raising concerns of bias introduced by differences in characteristics of cases and controls, for example cohort effects.
+
+For replication of findings from the Danish longitudinal study, the Dutch Leiden 85-plus Study was used. This prospective cohort was ini- tiated in 1997, when all 85-year-old inhabitants of the city of Leiden in The Netherlands were invited to participate. The sample used here con- sists of 563 participants, all Caucasians and members of the 1912–1914 birth cohort recruited from 1997 to 1999 (Bootsma-van der Wiel et al., 2002). Mean follow up time for survivors is 10.35 years (range 9–11 years). The Medical Ethical Committee of the Leiden University MedicalCentreapproved the study. All participants gave their informed consent.
+
+Here we investigatethe association of common genetic variation in 148 genes composing the GH/IGF-1/INS signaling, DNA damage sig- naling and DNA repair and pro/antioxidant pathways with human longevity. The study populations are a cohort of Danes born in 1905 and followed from age 93 years until death, as well as a group of middle-aged controls. This provides a unique opportunity to investi- gate these variations in key candidate genes of human longevity using both case–control and longitudinal designs. Further, the SNPs identified in the case–control study are explored in the longitudinal data in order to investigate whether these SNPs also pose effects on survival during old age, and the SNPs identified in the longitudinal study are examined in the case–control data to investigate whether these SNPs also pose effects on survival from middle age to old age.
+
+2.2. Selection of candidate genes
+
+A comprehensive literature and data base search was conducted for the identification of longevity candidate genes in the GH/IGF-1/ INS signaling, DNA damage signaling and repair and pro/antioxidant pathways. The following databases were used: www.ncbi.nlm.nih. gov (/sites/entrez,/OMIM,/sites/entrez?Db=gap), www.genecards. org, www.hgvbaseg2p.org, genomics.senescence.info and genetic associationdb.nih.gov using the search terms ‘human longevity’,
+
+Finally, considering the importance of replicating initial results in genetic association studies, the SNPs found to be significant in the case–control study are tested for association in a German case– control sample (1613 long-lived individuals and 1104 controls), while the findings from the Danish longitudinal study are tested in the prospective Dutch Leiden 85-plus Study (563 individuals).
+
+quality of the genotype data, SNPs known to perform poorly on the Illu- mina GoldenGate genotyping platform were excluded. In total, 1415 SNPs were chosen and 1273 were successfully genotyped.
+
+‘human aging’, ‘age related disease’ (including specific diseases e.g. myocardial infarction) and ‘premature aging syndromes’. Additionally, genes previously identified through animal models were considered. In order to cover the core biological functions of the three candidate pathways, the needed genes were chosen using the www.ncbi.nlm. nih.gov/sites/entrez, www.biocarta.com, www.reactome.org, www. genome.utah.edu/genesnps and the www.genome.jp/kegg/pathway. html databases. In total 152 genes composing the three candidate pathways were identified, 148 of which remained after cleaning of the GoldenGate genotyping data (see below). The 148 genes, divided by
+
+2.4. Genotyping and data cleaning
+
+and Micro Kits (Qiagen, Düsseldorf, Germany). The genotyping was conducted using the Illumina GoldenGate platform (Illumina Inc, San Diego, CA, USA) anddatacleaning wascarried out according totheman- ufacturer's recommendationsusingthe GenomeStudio software(http:// www.illumina.com/software/genomestudio_software.ilmn); primary exclusion criteria were sample call rateb90% and SNP call frequencyb 90%. Subsequently, SNPs clustering in the following categories were manually evaluated: a call frequency 90–95%, close SNP clusters (scoreb2.3), clusters with low intensity (scoreb0.2 or >0.8), cluster having a heterozygote cluster shifting towards a homozygote cluster (scoreb0.13), SNPs with excess heterozygosity (scoreb−0.3 or >0.2) and SNPs located on the X chromosome (considering male hemizygos- ity). In total, 142 SNPs and 175 DNA samples were excluded leaving 1825 individuals, 148 candidate genes and 1273 SNPs for data analysis. Furthermore, 24 samples were included twice in order to investigate the intra-plate reproducibility and 48 samples were included twice to test the inter-plate reproducibility. Data showed an intra-plate repro- ducibility of 99.4% and an inter-plate reproducibility of 96.8%.
+
+2.3. Selection of SNPs
+
+The chromosomal regions composing the 152 candidate genes were identified through the www.ncbi.nlm.nih.gov (/gene and /mapview) and genome.ucsc.edu/databases, using the same gene ID, Sequence Ac- cession IDs, NCBI Reference Sequence, assembly build 36 and SNP build 129. If more than one isoform of a gene transcript existed, the longest one was chosen. For each gene, 5000 bp upstream and 1000 bp down- streamwere included. Ifanother genewaslocated within theseregions, only the region until theneighboringgene was included.Due to thesize of the genotyping platform, the large intron 2 of IGF1R and the large in- tron 2 of INSR were excluded.
+
+Candidate SNPs were identified based on the following criteria: SNPs previously identified in genetic association studies, coding SNPs and SNPs having potential functional impact (coding non- synonymous SNPs, SNPs located in potential splice sites or transcrip- tion factor binding sites and SNPs potentially inducing frame shifts or nonsense-mediated mRNA decay). For the identification of poten- tial functional SNPs, the www.ncbi.nlm.nih.gov/SNP, koreanbio.org/ Variome, snpper.chip.org, snps3d.org and manticore.niehs.nih.gov data bases were used. The identity of each SNP was checked by linking back to the NCBI data base.
+
+Genotyping of the German replication samples were performed using either Sequenom MassARRAY iPLEX®Gold technology (Seque- nom®, Inc., CA, USA) with iPlex primers designed via the MassARRAY Design Software, or via an automated platform using predesigned TaqMan® SNP genotyping assays (Applied Biosystems) (Hampe et al., 2001); PCR was performed using the GeneAmp PCR System 9700 (Applied Biosystems) under standard conditions and the ABI Prism 7900HT Sequence Detection System and the Sequence Detec- tion System Software 2.0 (Applied Biosystems) were used for allelic discrimination.
+
+In order to cover as much of the common genetic variation within each gene region as possible, a number of tagging SNPs in each gene re- gion were added, obtained through the HapMap consortium database (http://hapmap.ncbi.nlm.nih.gov/index.html.en) for the CEU cohort, using the HapMap Data Rel 23a/phase II Mar08, on NCBI B36 assembly, dbSNPbuild126criteria.GenotypedatawereanalyzedusingtheHaplo- View software (http://www.broadinstitute.org/haploview/haploview and Barrett et al., 2005), by applying the ‘pair wise tagging only’, r2>0.8, LOD=3, minor allele frequency (MAF)>5%, and a minimum distance between SNPs=60 bp criteria. Finally, for optimizing the
+
+The Dutch replication samples were genotyped via Sequenom MassARRAY iPLEX®Gold technology (Sequenom®, Inc., CA, USA), using primers designed via the SpectroDESIGNER (Sequenom®, Inc., CA, USA) and the high plex reaction protocol (www.sequenom.com/ iplex). Since rs207444 and rs3211994 were not compatible with the iPLEX format, genotyping was conducted using assay-on-demand TaqMan® SNP genotyping assays (Applied Biosystems); PCR was performed on the GeneAmp PCR system 9700 (Applied Biosystems, CA, USA) under universal conditions and the Applied Biosystems 7900HT Fast Real-time PCR System and SDS2.3 Software (Applied Biosystems, CA, USA) were used for allelic discrimination.
+
+Table 1
+
+Characteristics of (A) the Danish discovery cohorts and (B) the German and Dutch rep- lication samples.
+
+2.5. Statistical analysis
+
+(A) The Danish discovery cohorts MADT 1905 Number of individuals 736 1089 Average age in years at intake (range) 50.6 (46.0–55.0) 93.2 (92.2–93.8) Male:female ratio (%) at intake 50.4:49.6 28.7:71.3 Mean follow up time (SD) – 3.53 (2.5) Follow up time (years) – 11.4 (B) The replication samples German case–control Dutch longitudinal study study Controls LLI Leiden 85-plus Study Number of individuals 1104 1613 563 Average age at intake (SD) 67.2 (4.1) 98.4 (2.7) 85.0 (0) Male:female ratio (%) at intake 25.6:74.3 26.8:73.2 33.4:66.6 Mean follow up time (SD) – – 5.49 (3.0) Follow up time (years) – – 10.4
+
+In the case–control study of the Danish discovery cohorts single- SNP case–control comparisons of allele frequencies (CCA) were performed using the Plink statistical program (http://pngu.mgh. harvard.edu/purcell/plink, Purcell et al., 2007) by two-tailed Chi- square test. Replication of the findings from the Danish case–control study was conducted by CCA in the German case–control samples in
+
+Approximately 1 in 20 members of the 1905 birth cohort in Denmark had survived until 1998 (start of the Danish 1905 Birth Cohort Study) and approximately 1 in 20 of these members survived until 100 years of age, i.e. reaching age 92–93 (the inclusion age of the Danish 1905 Birth Cohort Study participants) is only “halfway to be- coming a centenarian” in terms of selection. In the longitudinal sur- vival analysis of the oldest-old from the Danish 1905 Cohort Study, two survival variables were used. First, we wanted to investigate the genetic contribution to surviving for only a short period of time as opposed to surviving for a longer period of time during the ninth
+
+Notes: MADT: the Study of Middle Aged Danish Twins, 1905: the Danish 1905 Birth cohort, LLI: long lived individuals, SD: standard deviation.
+
+1/INS-SNPs rs1207362 (KL), rs2267723 (GHRHR) and rs572169 (GHSR), as well as the pro/antioxidant-SNP rs1002149 (GSR) and the DNA-repair-SNP rs1805329 (RAD23B) decreased in frequency from middle-aged to old-aged (ORb1), whereas the GH/IGF-1/INS- SNPs rs3842755 (INS) and rs9456497 (IGF2R) and the DNA-repair- SNPs rs11571461 (RAD52), rs13251813 (WRN) and rs2953983 (POLB) increased in frequency (OR>1). As sex-specific differences previously have been suggested for association of SNPs with longevity (Candore et al., 2006; Franceschi et al., 2000; Li et al., 2009; Soerensen et al., 2010) a sex-stratified analysis was also performed; the analysis supported the associations of the 10 SNPs mentioned above for both genders (data not shown), and in addition identified 1 DNA-repair- SNP in males; the minor allele of rs3211994 (NTLH1) increased in fre- quency from middle-aged to old-aged. The data are summarized in Table 2.
+
+decade of life. Since the distribution of survival times was clearly right skewed (data not shown), a cut-off with respect to time of death was made at December 31st 2000, when approximately half of the males and one third of the females in the cohort had died. Consequently, the early/late death variable was defined as: early=death occurred between 1998 (date at intake) and December 31st 2000 (i.e. individ- uals living to maximum age 95) and late=death occurred after January 1st 2001 (i.e. individuals surviving to age 95+). As the sec- ond variable, we used the number-of-days-lived defined as the exact number of days lived from date of intake in 1998 to either death or the imputed date (the latter is described in Section 2.1.1). For this variable, the assumptions of normal distribution and equal variance were tested in the STATA 11.1 statistical program (Stata Cor- poration, College Station, TX, USA) by Shapiro–Wilk and Breusch– Pagan/Cook–Weisberg tests. Since the variable did not show normal distribution, it was transformed to the square root for a better fit. As- sociation analysis was performed by two-tailed linear (for the number-of-days-lived variable) or logistic (for the early/late death variable) regression in Plink, adjusting for sex and age or stratifying by sex, while adjusting for age.
+
+The 11 SNPs were subsequently analyzed in replication samples of 1613 long-lived and 1104 middle-aged Germans. The MAF of the SNPs in the German and Danish case–control samples are listed in Supplementary Table 3. None of the 11 SNPs formally replicated in the German samples (see Table 3), although rs11571461 (RAD52) did show a non-significant tendency of association in the same direc- tion (95% CI (OR)=[0.927–1.457]).
+
+Replication of the findings from the Danish longitudinal study was performed in Stata 11.1 by analyzing genotype data from the Leiden 85-plus Study using a sex-adjusted Cox proportional hazard model. An additive model was used, and only in cases when inspection of Kaplan–Meier plots indicated a recessive or dominant model, such a model was applied.
+
+3.2. Longitudinal study in the cohort of oldest-old Danes
+
+As for the case–control study, analysis of survival data in the oldest-old Danes revealed more nominally significant associations than would be expected by chance, whether using the categorical early/late death or the numeric number-of-days-lived variables (see Supplementary Table 4). After correcting for multiple testing 2 SNPs were found to be associated with late life survival for both genders combined: carriers of the rare allele of the pro/antioxidant-SNP rs10047589 (TXNRD1) displayed a significant increase in survival when categorizing into early/late death, whereas the rare allele of the pro/antioxidant-SNP rs207444 (XDH) was found to be significant- ly associated with increased number of days lived (see Table 4A). When stratifying by sex, these results were supported in both gen- ders (data not shown). Moreover, when applying the early/late death variable, positive effects of the rare alleles of the GH/IGF-1/ INS-SNP rs26802 (GHRL) and the DNA-repair-SNP rs13320360 (MLH1) on survival were observed in males, while the DNA-repair- SNP rs2509049 (H2AFX) had a negative effect on survival in females. Using number-of-days-lived as the measure of survival, the rare allele of the DNA-repair-SNP rs705649 (XRCC5) positively affected survival in males. The results are summarized in Table 4B.
+
+In order to obtain a quantitative estimate for the differences in mean survival time between individuals homozygous for the com- mon alleles of a SNP found to be associated with the number-of- days-lived variable and individuals being either heterozygous or ho- mozygous for the rare allele at the same SNP, regression analysis was performed for same sex and same age (93 years) individuals and the regression coefficients were used for estimation. Moreover, the relative risks (RRs) of being alive after age 95 (corresponding to the 1st of January 2001) were calculated for the heterozygotes and homozygotes for the rare allele of each SNP found to be associated to the early/late death variable. The RRs between genotype groups were estimated based on the ORs obtained in the logistic regression analysis. All these analyses were performed in STATA 11.1.
+
+For all the analyses, the nominal significance level was set to 0.05. Correction for multiple testing within each pathway was performed by a permutation approach applying max(T) permutation mode set at 10,000 permutations for the analyses carried out in the Plink soft- ware. Correction for multiple testing in analyses performed in the STATA software was done using the Bonferroni approach.
+
+Since we performed the longitudinal analyses as regression ana- lyses, we were able to estimate the quantitative effects of the 6 SNPs, represented by the risk differences (RD) for the SNPs associated with the early/late death variable, and by the additional survival time for the SNPs associated with the number-of-days-lived variable. These estimates indicated rather substantial effects: a maximum RD was seen for rs26802 (GHRL) CC males having a 53% higher chance for being alive after age 95 (corresponding to the 1st of January 2001) as compared to AA homozygotes, while a maximum difference of 1.66 additional years of survival was seen for rs705649 (XRCC5) GG males as compared to rs705649-AA males, who obtained a mean sur- vival time of 2.15 years. The data are summarized in Supplementary Tables 5A and B.
+
+3. Results
+
+By conducting a thorough literature and data base search candi- date genes, candidate SNPs and tagging SNPs were identified (see Sections 2.2 and 2.3 for details). A total of 148 candidate genes and 1273 SNPs were successfully genotyped and are listed in Supplemen- tary Table 1: these constitute 592 SNPs in 77 genes of the DNA dam- age signaling and DNA repair pathway, 370 SNPs in 33 genes of the GH/IGF-1/INS signaling pathway and 311 SNPs in 38 pro/antioxidant genes. The characteristics of the Danish discovery cohorts of middle- aged and oldest-old individuals are described in Table 1A, while the German and Dutch replication samples are described in Table 1B.
+
+Next the 6 SNPs were evaluated in a replication cohort of 563 85+ year old Dutch individuals. The frequency data of the 6 SNPs in the Dutch and Danish longitudinal cohorts are listed in Supple- mentary Table 6. Applying an additive model, none of the SNP associ- ations was replicated in the Dutch cohort (see Table 5). However, inspection of Kaplan–Meier survival plots for the 6 SNPs suggested a recessive mode of effect for rs10047589 (TNXRD1) in the Dutch data (data not shown), with a similar direction of effect as in the Danish
+
+3.1. Case–control comparison of middle-aged and oldest-old Danes
+
+Exploiting the case–control allele comparisons revealed consider- ably more nominally significant differences than would be expected by chance (see Supplementary Table 2). After adjusting allelic com- parisons for multiple testing by permutation, 10 of the 1273 SNPs remained significant; of these SNPs the minor allele of the GH/IGF-
+
+Table 2
+
+significantly associated with longevity after correction for multiple testing in the case–control comparison of middle-aged and oldest-old Danish cohorts. (A) Both genders and (B) additional SNP in sex-stratified analyses.
+
+Gene SNP Minor/major Chr./position Position in MAF MADT/1905 PCCA PCCA OR (95% CI) allele gene uncorrected corrected (A) Both genders Pro/antioxidants GSR rs1002149 A/C 8/30705280 5′ 0.183/0.137 1.47·10−4 0.0335 0.706 (0.589–0.845) GH/IGF/INS INS rs3842755 A/C 11/2137372 3′ UTR 0.292/0.424 8.38·10−16 1·10−4 1.789 (1.552–2.063) KL rs1207362 A/C 13/32510839 Intronic 0.339/0.245 2.77·10−9 1·10−4 0.634 (0.545–0.737) GHRHR rs2267723 G/A 7/30973467 Intronic 0.414/0.330 2.28·10−7 1·10−4 0.696 (0.607–0.799) GHSR rs572169 A/G 3/173648421 Coding (syn) 0.342/0.274 1.65·10−5 0.0045 0.725 (0.626–0.839) IGF2R rs9456497 G/A 6/160363418 Intronic 0.191/0.252 1.86·10−5 0.0050 1.424 (1.211–1.674) DNA repair RAD52 rs11571461 G/A 12/896580 Intronic 0.098/0.195 5.05·10−15 1·10−4 2.226 (1.815–2.730) WRN rs13251813 A/G 8/31083753 Intronic 0.077/0.134 1.72·10−7 2·10−4 1.840 (1.460–2.318) POLB rs2953983 G/A 8/42332413 Intronic 0.080/0.123 4.54·10−5 0.0225 1.599 (1.274–2.006) RAD23B rs1805329 A/G 9/109124149 Coding (non-syn) 0.245/0.190 6.74·10−5 0.0309 0.722 (0.615–0.847) (B) Males DNA repair NTLH1 rs3211994 A/G 16/2029029 3′ 0.112/0.201 1.38·10−5 0.0056 1.994 (1.455–2.732)
+
+Notes: Chr: chromosome, MAF: minor allele frequency, MADT: the Study of Middle Aged Danish Twins, 1905: the Danish 1905 Birth cohort, PCCA: allelic case–control comparison P-value, OR: odds ratio, 95% CI: 95% confidence interval, UTR: untranslated region, Syn: synonymous, Non-syn: Non-synonymous.
+
+longitudinal study, although the association was not significant; HR=0.758, p=0.103, 95%, CI=[0.543–1.058].
+
+variations and/or genes. The investigation of large collections of can- didate variations grouped together based on the functional roles of the gene products is a much more recent strategy (Flachsbart et al., 2010; Nebel et al., 2009; Pawlikowska et al., 2009b). In this study we investigated 592 SNPs in 77 genes of the DNA damage signaling and DNA repair pathway, 370 SNPs in 33 genes of the GH/IGF-1/INS signaling pathway and 311 SNPs in 38 pro/antioxidant genes, making it the most comprehensive study to date following this strategy. Fur- thermore, in addition to the widely used case–control approach, we also present data from a longitudinal analysis of survival in the oldest-old.
+
+We wanted to explore whether the 11 SNPs identified via the Danish case–control study maintained an effect during old age. Conse- quently we investigated the 11 SNPs in the longitudinal data on the oldest-old Danes.Similardirections of effects,i.e. positive effects onsur- vival, were noted for 5 SNPs; when applying the number-of-days-lived variable, rs13251813 (WRN) and rs3842755 (INS) displayed nominally significant associations (pb0.05), the former in the entire group of oldest-old and the latter when restricting to males. Additionally, rs9456497 (IGF2R) showed a borderline significant association when restricting to males (p=0.05). For the early/late death variable, rs3211994 (NTHL1) displayed nominal significance in both genders combined, while rs1157146 (RAD52) showed a non-significant tenden- cy in females only (p=0.10). None of the remaining six SNPs showed similar directions of effect. The data is summarized in Table 6A.
+
+In the analysis of the case–control study of 1089 oldest-old and 736 middle-aged Danes, we found 11 novel SNPs in 11 different genes to be associated with human longevity. The rare allele of vari- ants in INS, IGF2R, POLB, RAD52, WRN and NTHL1 was demonstrated to be advantageous, the latter most evident in males, whereas the rare allele of variants in KL, GHRHR, GHSR, GSR, and RAD23B was dis- advantageous for survival.
+
+None of the findings could be formally confirmed in a German rep- lication cohort of comparable size, although rs11571461 (RAD52) did show a tendency in the same direction as found in the Danish data. In support of our findings, other variants in KL, WRN and NTHL1 have previously been associated with longevity (Arking et al., 2005; Castro et al., 2000; Yashin et al., 2010) and rs687045 (KL) which was put forward by Lunetta et al. as a mortality SNP during old age (Lunetta et al., 2007), is in our cohorts in moderate LD (R2=0.25) with rs1207362 (KL) described in our study as disadvantageous for longevity. Moreover, supportive of an association of INS, a very recent publication of gene-based case–control analysis of genes in the IGF-1/ Insulin pathway reported gene-based association of INS with longev- ity (Deelen et al., 2011). Additionally, some of the 11 SNPs have been
+
+Finally, in order to explore whether the 6 SNPs, identified in the longitudinal study of oldest-old Danes, presented a similar direction of effects on survival from middle age to old age, we investigated the 6 SNPs in the Danish case–control data. Only rs207444 (XDH) dis- played a nominally significant effect in the same direction as found in the oldest old (p=0.005). The data is summarized in Table 6B.
+
+4. Discussion
+
+The vast majority of the candidate genetic association studies longevity published so far has explored only a small number of
+
+Table 3
+
+Replication of Danish case–control findings in the German case–control samples.
+
+Gene SNP OR (Danish study) OR (German study) PCCA Germans 95% CI Pro/antioxidants GSR rs1002149 0.706 1.054 0.470 0.913–1.217 GH/IGF/INS INS rs3842755 1.789 0.949 0.434 0.832–1.082 KL rs1207362 0.634 0.985 0.804 0.873–1.110 GHRHR rs2267723 0.696 1.005 0.934 0.900–1.121 GHSR rs572169 0.725 1.106 0.097 0.981–1.247 IGF2R rs9456497 1.424 0.962 0.586 0.837–1.105 DNA repair RAD52 rs11571461 2.226 1.162 0.191 0.927–1.457 WRN rs13251813 1.84 0.999 0.998 0.754–1.325 POLB rs2953983 1.599 1.046 0.683 0.842–1.299 RAD23B rs1805329 0.722 0.955 0.507 0.833–1.094 DNA repair (males) NTHL1 rs3211994 1.994 0.931 0.627 0.699–1.241
+
+Notes: OR: odds ratio, PCCA: allelic case–control comparison P-value, 95% CI: 95% confidence interval.
+
+
+
+denibmocsredneghtoB)A( htaedetal/ylraE IC%59ROdetcerroceulav-Peulav-P5091qerFenegninoitisoPnoitisop/.rhCelellarojam/roniMPNSeneGyawhtaP 813.2–341.1854.1340.081000.0554.0/544.0/890.0′3815862301/21G/A98574001sr1DRXNTstnadixoitna/orP devil-syad-fo-rebmuN IC%59tneicfifeoc-βdetcerroceulav-Peulav-P5091qerFenegninoitisoPnoitisop/.rhCelellarojam/roniMPNSeneGyawhtaP 141.6–649.1340.4640.061000.0028.0/771.0/100.0cinortnI10371413/2G/A444702srHDXstnadixoitna/orP xesybdefiitartS)B( htaedetal/ylraE IC%59ROdetcerroceulav-Peulav-P5091qerFenegninoitisoPnoitisop/.rhCelellarojam/roniMPNSeneGyawhtaP 154.3–585.1833.2230.05−01·98.1135.0/293.0/670.0cinortnI56370301/3A/C20862srLRHGSNI/1-FGI/HGselaM 762.5–368.1231.36300.05−01·66.1486.0/113.0/300.0cinortnI42182073/3A/G06302331sr1HLMriaperAND 287.0–894.0526.0710.05−01·77.4513.0/725.0/651.0′5137174811/11G/A9409052srXFA2HriaperANDselameF devil-syad-fo-rebmuN IC%59tneicfifeoc-βdetcerroceulav-Peulav-P5091qerFenegninoitisoPnoitisop/.rhCelellarojam/roniMPNSeneGyawhtaP 129.6–614.2966.4920.05−01·91.6113.0/215.0/571.0cinortnI134986612/2A/G946507sr5CCRXriaperANDselaM
+
+reported as associated with phenotypes of possible relevance to vari- ation in lifespan; rs572169 (GHSR) with obesity (Gueorguiev et al., 2009), and rs2953983 (POLB), rs1805329 (RAD23), rs11571461 (RAD52) and rs13251813 (WRN) with different types of cancers (Pan et al., 2009; Schildkraut et al., 2010; Van Ness et al., 2008; Yang et al., 2009).
+
+An interesting question was whether the genetic variants with a proposed effect on survival from middle age to old age would also demonstrate an effect for survival during old age. We therefore tested the 11 SNPs for association to survival in the Danish 1905 cohort using the longitudinal design and found 3 SNPs to display the same nominal significant (pb0.05) direction of effect in the longitudinal data, while 2 SNPs showed similar tendencies (0.05bpb0.10). Inter- estingly, all 5 SNPs were apparent longevity SNPs, i.e. SNPs with a positive effect on survival. This is in line with a recent study suggest- ing that long life is not due to a decreased burden of negatively affect- ing disease variants but rather due to positively influencing longevity variants (Beekman et al., 2010).
+
+A lack of similar effects in the longitudinal data for the remaining SNPs could indicate that these SNPs may be relevant at different ages, i.e. the influence of genes and gene variants may be of consequence for survival in young elderly, but lose this importance at the highest ages.
+
+When investigating the association of the 1273 SNPs with survival at advanced age using a longitudinal study approach, we identified 6 novel SNPs in 6 genes to be associated with longevity. The rare allele of a variant in H2AFX appeared disadvantageous, while the rare vari- ants in GHRL, MLH1, TXNRD1, XDH and XRCC5 were advantageous for longevity. In line with these results an MLH1 haplotype was previous- ly reported to be associated with longevity in a case–control study (Kim et al., 2006), whereas genetic variants in GHRL have been de- scribed as associated with phenotypes of possible relevance to varia- tion in lifespan; high HDL-cholesterol levels (Hubacek et al., 2007) and hypertension (Berthold et al., 2010). Finally, the activity of the XRCC5 protein product Ku80 has been reported to decrease from young to old age in humans (Scarpaci et al., 2003), indicating a bio- logical change with age.
+
+The Danish case–control study supported an advantageous effect of rs207444 (XDH) also on survival from middle age to old age, and additionally some support was observed for rs10047589 (TNXRD1) in the Dutch replication cohort, indicating a recessive mode of effect for this variant.
+
+Interestingly, the longitudinal study revealed more longevity- associated SNPs in the sex-stratified analysis (4 of 6 SNPs) than the Danish case–control study (1 of 11 SNPs). This observation could in- dicate that the impact of genetic effect becomes more gender- specific during advanced age than at younger ages, and that the ge- netic effect in old age might be most pronounced for males. Such a difference between genders was recently suggested by Montesanto et al. (2011) for Italians.
+
+From a pathway perspective a few comments can be made on the genes holding the SNPs suggested here. For the GH/IGF-1/INS path- way the present data suggests that variations in genes whose prod- ucts take part in growth hormone synthesis and secretion (GHRHR, GHRL and GHSR) or in signaling to and affecting target organs/cells (INS, KL, IGF2R) might pose effects on longevity. With respect to DNA repair, the gene products of the genes holding the significant SNPs take part in different DNA repair activities, though the majority take part in base excision repair (NTHL1, POLB, and WRN) or in DNA double strand break repair (RAD52, H2AFX, XRCC5 and WRN), thus in- dicating that variation in the repair of DNA damage induced by for in- stance reactive oxygen species and ionizing radiation could pose effects on longevity. Lastly, with respect to the pro/antioxidant path- way both antioxidants (GSR and TXNRD1) and a prooxidant (XDH) are observed, indicating that the role of this pathway in longevity appears complex.
+
+Table 5
+
+Replication of findings from the Danish longitudinal study in the longitudinal Dutch Leiden 85-plus Study.
+
+Both genders combined Danish longitudinal study Dutch longitudinal study Pathway Gene SNP Estimate HR P-value 95%CI Pro/antioxidants TNXRD1 rs10047589 1.458 (OR) 0.969 0.659 0.844–1.112 Pro/antioxidants XDH rs207444 4.043 (β) 0.886 0.404 0.667–1.177 Males GH/IGF-1/INS GHRL rs26802 2.338 (OR) 0.730 0.962 0.774–1.197 DNA repair MLH1 rs13320360 3.132 (OR) 1.169 0.827 0.288–4.727 XRCC5 rs705649 4.669 (β) 1.037 0.749 0.828–1.300 Females DNA repair H2AFX rs2509049 0.625 (OR) 0.909 0.260 0.769–1.073
+
+Notes: β: Beta coefficient (linear regression using the number-of-days-lived variable), OR: odds ratio (logistic regression using the early/late death variable), HR: hazard ratio, 95%CI: 95% confidence interval.
+
+TheSNPssuggested hereto associate to longevitymightinduce dif- ferent functional effects; rs1002149 (GSR) and rs2509049 (H2AFX) lo- cated 5′ of genes might affect the level of gene expression, while rs3842755 (INS), rs3211994 (NTHL1) and rs10047589 (TNXRD1) are all located 3′ and could thus in principle influence decay of mRNA. The non-synonymous coding SNP rs1805329 (RAD23B) could poten- tially affect protein activity, while the intronic SNPs (rs1207362 (KL), rs2267723 (GHRHR), rs9456497 (IGF2R), rs11571461 (RAD52), rs13251813 (WRN), rs2953983 (POLB), rs207444 (XDH), rs26802 (GHRL), rs13320360 (MLH1) and rs705649 (XRCC5)) could possibly induce splicing alterations. Alternatively, the associated SNPs might simply be proxies for other truly causative variants.
+
+A number of reasons can be given for the lack of true replication. It could be a matter of under-powered replication populations. Howev- er, the number of German samples is larger than the Danish discovery cohorts, thus arguing against this explanation. Alternatively it might be due to heterogeneity between samples, for instance differences in enrollment of the participants. As seen in Table 1, the German cases are older than the Danish oldest-old, whereas the members of the Dutch 85+ cohort are somewhat younger at intake than the Dan- ish 1905 cohort members. Hence, if the effects of the variants are not constant throughout old age, they may not replicate well in these study samples. Change in association effects with age has been reported previously (Jacobsen et al., 2010). Finally, it might simply be that the associations are population specific, perhaps mediated through population specific characteristics in environment. Such pop- ulation specific effects have previously been suggested (Di Bona et al., 2009).
+
+How such suggested functional effects might impact aging and/or longevity is an extremely difficult question, especially considering that the role of the three pathways in aging and/or longevity appears very complex. In any case, functional studies of the molecular effects of the associated variants are needed
+
+In our study we only performed correction of multiple testing within each pathway, since the selection of genes and SNPs was based on a sound a priori hypothesis. Moreover, due to the design of the statistical software, we corrected for multiple testing within each type of test, and hence, we did not correct for performing the sex-stratified analysis as well as a test for both genders combined, and with respect to the longitudinal study for investigating the 2 sur- vival variables. Such corrections should in principle be included, in order to avoid false positive findings. If correcting the p-values from
+
+Due to the emergence of high throughput techniques facilitating studies of sizeable numbers of variations, the replication of initial find- ings has become a major issue in genetic epidemiology. In this study we tested our findings from the case–control and the longitudinal study using German samples of 1613 long-lived individuals (95+) and 1104middle-aged controls,and a cohortof 85+ Dutchelderly,re- spectively. No formal replication was observed in either case although a few supportive observations were found (see above).
+
+Table 6
+
+Similar directions of effect in the Danish case–control and longitudinal studies.
+
+(A) Similar directions of effect in the Danish longitudinal study of SNPs initially identified in the Danish case–control study and (B) Similar direction of effect in the Danish case– control study of a SNP initially identified in the Danish longitudinal study.
+
+(A) Case–control study (initial findings) Longitudinal study (similar directions of effects) Number-of-days-lived variable Pathway Gene SNP OR β-coef. 95% CI P-value GH/IGF-1/INS INS rs3842755 1.789 2.73♂ 0.66–4.80♂ 0.01♂ IGF2R rs9456497 1.424 2.77♂ −0.01–5.56♂ 0.05♂ DNA repair WRN rs13251813 1.840 2.23 0.31–4.15 0.02 Early/late death variable Pathway Gene SNP OR OR 95% CI P-value DNA repair RAD52 rs11571461 2.226 1.30♀ 0.96–1.78♀ 0.10♀ NTHL1 rs3211994 1.994♂ 1.42 1.09–1.86 0.009 (B) Longitudinal study (initial findings) Case–control study (similar direction of effect) Number-of-days-lived variable Pathway Gene SNP β-coef. OR 95% CI PCCA Pro/antioxidants XDH rs207444 4.043 1.42 1.10–1.83 0.005
+
+Notes: OR: odds ratio, β-coef: beta coefficient, 96% CI: 95% confidence interval, ♂: males separately, ♀: females separately, PCCA: allelic case–control comparison P-value.
+
+each pathway using the overly conservative Bonferroni approach 8 of the 11 SNPs from the case–control study remained significant, while 1 of the 6 SNPs identified in the longitudinal study remained significant. By contrast, correction by the less conservative Benjamini and Hochberg (1995) method, left more associations significant (10 SNPs from the case–control study and 1 SNP from the longitudinal study), thus underscoring the difference in conclusions based on choice of method of correction. In any case, both of these correction methods assume independency between the tests, which is clearly not the case in our study.
+
+like growth factor I (IGF-I) receptor and phosphoinositide
+
+-kinase genes affect IGF-I plasma levels and human longevity: cues for an evolutionarily conserved mechanism of life span control. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Bootsma-van der Wiel, A., Van Exel, E., de Craen, A.J., Gussekloo, J., Lagaay, A.M., Knook, D.L., Westendorp, R.G.,
+
+A high response is not essential to prevent selection bias: results from the Leiden
+
+-plus study. J. Clin. Epidemiol.
+
+,
+
+–
+
+Burtner, C.R., Kennedy, B.K.,
+
+Progeria syndromes and ageing: what is the connec- tion? Nat. Rev. Mol. Cell Biol.
+
+,
+
+–
+
+Cabelof, D.C., Ikeno, Y., Nyska, A., Busuttil, R.A., Anyangwe, N., Vijg, J., Matherly, L.H., Tucker, J.D., Wilson, S.H., Richardson, A., Heydari, A.R.,
+
+Haploinsufficiency in DNA polymerase beta increases cancer risk with age and alters mortality rate. Cancer Res.
+
+,
+
+–
+
+Candore, G., Balistreri, C.R., Listi, F., Grimaldi, M.P., Vasto, S., Colonna-Romano, G., Franceschi, C., Lio, D., Caselli, G., Caruso, C.,
+
+Immunogenetics, gender, and longevity. Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Castro,E.,Edland, S.D.,Lee,L., Ogburn,C.E.,Deeb,S.S.,Brown, G.,Panduro, A.,Riestra,R., Tilvis, R., Louhija, J., Penttinen, R., Erkkola, R., Wang, L., Martin, G.M., Oshima, J.,
+
+Polymorphisms at the Werner locus: II.
+
+Leu/Phe,
+
+Cys/Arg, longev- ity, and atherosclerosis. Am. J. Med. Genet.
+
+,
+
+–
+
+Christensen, K., Johnson, T.E., Vaupel, J.W.,
+
+The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Christiansen, L., Bathum, L., Frederiksen, H., Christensen, K.,
+
+Paraoxonase
+
+poly- morphisms and survival. Eur. J. Hum. Genet.
+
+,
+
+–
+
+Cluett, C., Melzer, D.,
+
+Human genetic variations: beacons on the pathways to suc- cessful ageing. Mech. Ageing Dev.
+
+,
+
+–
+
+Deelen, J., Uh, H.W., Monajemi, R., van, H.D., Thijssen, P.E., Bohringer, S., van den Akker, E.B., de Craen, A.J., Rivadeneira, F., Uitterlinden, A.G., Westendorp, R.G., Goeman, J.J.,Slagboom,P.E.,Houwing-Duistermaat, J.J.,Beekman,M.,
+
+Gene setanalysis of GWAS data for human longevity highlights the relevance of the insulin/IGF-
+
+signaling and telomere maintenance pathways. Age (Dordr).
+
+Nov
+
+doi:
+
+/s
+
+-
+
+-
+
+-
+
+Di Bona, D., Vasto, S., Capurso, C., Christiansen, L., Deiana, L., Franceschi, C., Hurme, M., Mocchegiani,E.,Rea,M.,Lio,D.,Candore,G.,Caruso,C.,
+
+Effectofinterleukin-
+
+polymorphisms on human longevity: a systematic review and meta-analysis. Age- ing Res. Rev.
+
+,
+
+–
+
+Flachsbart, F., Caliebe, A., Kleindorp, R., Blanche, H., von Eller-Eberstein, H., Nikolaus, S., Schreiber, S., Nebel, A.,
+
+a. Association of FOXO
+
+A variation with human lon- gevity confirmed in German centenarians. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Flachsbart, F., Franke, A., Kleindorp, R., Caliebe, A., Blanche, H., Schreiber, S., Nebel, A.,
+
+Investigation of genetic susceptibility factors for human longevity — a tar- geted nonsynonymous SNP study. Mutat. Res.
+
+,
+
+–
+
+Flurkey, K., Papaconstantinou, J., Miller, R.A., Harrison, D.E.,
+
+Lifespan extension and delayed immune and collagen aging in mutant mice with defects in growth hormone production. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Franceschi, C., Motta, L., Valensin, S., Rapisarda, R., Franzone, A., Berardelli, M., Motta, M., Monti, D., Bonafe, M., Ferrucci, L., Deiana, L., Pes, G.M., Carru, C., Desole, M.S., Barbi, C., Sartoni, G., Gemelli, C., Lescai, F., Olivieri, F., Marchegiani, F., Cardelli, M., Cavallone, L., Gueresi, P., Cossarizza, A., Troiano, L., Pini, G., Sansoni, P., Passeri, G., Lisa, R., Spazzafumo, L., Amadio, L., Giunta, S., Stecconi, R., Morresi, R., Viticchi, C., Mattace, R., De, B.G., Baggio, G.,
+
+Do men and women follow different trajec- tories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE). Aging (Milano)
+
+,
+
+–
+
+Giannakou, M.E., Goss, M., Junger, M.A., Hafen, E., Leevers, S.J., Partridge, L.,
+
+Long-lived Drosophila with overexpressed
+
+OXO in adult fat body. Science
+
+,
+
+Gueorguiev, M., Lecoeur, C., Meyre, D., Benzinou, M., Mein, C.A., Hinney, A., Vatin, V., Weill, J., Heude, B., Hebebrand, J., Grossman, A.B., Korbonits, M., Froguel, P.,
+
+Associationstudies onghrelinandghrelin receptorgenepolymorphisms withobe- sity. Obesity
+
+,
+
+–
+
+(Silver.Spring). Hampe, J., Wollstein, A., Lu, T., Frevel, H.J., Will, M., Manaster, C., Schreiber, S.,
+
+An integrated system for high throughput Ta
+
+an based SNP genotyping. Bioinfor- matics
+
+,
+
+–
+
+Harman, D.,
+
+Free radical theory of aging. Triangle
+
+,
+
+–
+
+Herskind, A.M., M
+
+ue, M., Holm, N.V., Sorensen, T.I., Harvald, B., Vaupel, J.W.,
+
+The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum. Genet.
+
+,
+
+–
+
+Hjelmborg, J.Vb., Iachine,I., Skytthe, A., Vaupel, J.W., M
+
+ue, M.,Koskenvuo, M.,Kaprio, J., Pedersen, N.L., Christensen, K.,
+
+Genetic influence on human lifespan and longevity. Hum. Genet.
+
+,
+
+–
+
+Holzenberger, M.,Dupont, J.,Ducos,B., Leneuve,P.,Geloen,A., Even,P.C.,Cervera, P.,Le,
+
+In conclusion we here present new candidate variations for human longevity located in the DNA damage signaling and DNA re- pair, the GH/IGF-1/INS signaling and pro/antioxidant pathways. We find that 4 of the 17 identified SNP associations show significant and similar direction of effect when using the two different study ap- proaches applied to the Danish discovery cohorts, while 2 SNP associ- ations showed similar tendencies. However, none of the 17 SNP associations displayed replication in the independent samples from Germany and the Netherlands, although for 2 SNP associations some support was noticed.
+
+Conflicts of interest
+
+The authors have no conflicts to declare.
+
+Acknowledgments
+
+This study was supported by the Max-Planck Institute for Demo- graphic Research (Rostock, Germany), the INTERREG 4 A programme Syddanmark-Schleswig-K.E.R.N (by EU funds from the European Re- gional Development Fund), the National Institute on Aging (P01 AG08761), a Dutch grant from the Netherlands Consortium for Healthy Aging (Grant 050-060-810) in the framework of the Nether- lands Genomics Initiative/Netherlands Organization for Scientific Research (NWO), the European Union's Seventh Framework Pro- gramme (FP7/2007-2011) under grant agreement n° 259679, the Novo Nordisk Foundation, the Aase and Ejnar Danielsen Foundation, the Augustinus Foundation, the Brødrene Hartmann Foundation, the King Christian the 10th Foundation and the Einer Willumsens Mindelegat Foundation. The Danish Aging Research Center is sup- ported by a grant from the VELUX Foundation. Susanne Knudsen, Steen Gregersen, Ulla Munk, Shuxia Li, Anne Mette Hedegaard Nielsen, Marlene Graff Sørensen and Lene Elnegaard are thanked for excellent technical work.
+
+Lisa, R., Spazzafumo, L., Amadio, L., Giunta, S., Stecconi, R., Morresi, R., Viticchi, Mattace, R., De, B.G., Baggio, G.,
+
+Do men and women follow different tories to reach extreme longevity? Italian Multicenter Study on (IMUSCE). Aging (Milano)
+
+,
+
+–
+
+Giannakou, M.E., Goss, M., Junger, M.A., Hafen, E., Leevers, S.J., Partridge, L., Long-lived Drosophila with overexpressed
+
+OXO in adult fat body.
+
+,
+
+Gueorguiev, M., Lecoeur, C., Meyre, D., Benzinou, M., Mein, C.A., Hinney, A., Vatin, Weill, J., Heude, B., Hebebrand, J., Grossman, A.B., Korbonits, M., Froguel, P., Associationstudies onghrelinandghrelin receptorgenepolymorphisms sity. Obesity
+
+,
+
+–
+
+(Silver.Spring). Hampe, J., Wollstein, A., Lu, T., Frevel, H.J., Will, M., Manaster, C., Schreiber, S.,
+
+integrated system for high throughput Ta
+
+an based SNP genotyping. matics
+
+,
+
+–
+
+Harman, D.,
+
+Free radical theory of aging. Triangle
+
+,
+
+–
+
+Herskind, A.M., M
+
+ue, M., Holm, N.V., Sorensen, T.I., Harvald, B., Vaupel, J.W., The heritability of human longevity: a population-based study of
+
+twin pairs born
+
+–
+
+Hum. Genet.
+
+,
+
+–
+
+Hjelmborg, J.Vb., Iachine,I., Skytthe, A., Vaupel, J.W., M
+
+ue, M.,Koskenvuo, J., Pedersen, N.L., Christensen, K.,
+
+Genetic influence on human lifespan longevity. Hum. Genet.
+
+,
+
+–
+
+Holzenberger, M.,Dupont, J.,Ducos,B., Leneuve,P.,Geloen,A., Even,P.C.,Cervera, B.Y.,
+
+IGF-
+
+receptor regulates lifespan and resistance to oxidative stress mice. Nature
+
+,
+
+–
+
+Hubacek, J.A., Bohuslavova, R., Skodova, Z., Adamkova, V.,
+
+Variants within ghrelin gene-association with HDL-cholesterol, but not with body mass Folia Biol. (Praha)
+
+,
+
+–
+
+Jacobsen, R., Martinussen, T., Christiansen, L., Jeune, B., ndersen-Ranberg, K., J.W., Christensen, K.,
+
+Increased effect of the Ap
+
+gene on survival at vanced age in healthy and long-lived Danes: two nationwide cohort Aging Cell
+
+,
+
+–
+
+Kawano, T., Ito, Y., Ishiguro, M., Takuwa, K., Nakajima, T., Kimura, Y.,
+
+cloning and characterization of a new insulin/IGF-like peptide of the Caenorhabditis elegans. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at doi:10.
+
+References
+
+Arking, D.E., Atzmon, G., Arking, A., Barzilai, N., Dietz, H.C.,
+
+Association between a functional variant of the KLOTHO gene and high-density lipoprotein cholesterol, blood pressure, stroke, and longevity. Circ. Res.
+
+,
+
+–
+
+Barrett, J.C., Fry, B., Maller, J., Daly, M.J.,
+
+Haploview: analysis and visualization of LD and haplotype maps. Bioinformatics
+
+,
+
+–
+
+Bartke, A.,
+
+Minireview: role of the growth hormone/insulin-like growth factor system in mammalian aging. Endocrinology
+
+,
+
+–
+
+Beekman, M., Nederstigt, C., Suchiman, H.E., Kremer, D., van der, B.R., Lakenberg, N., Alemayehu, W.G., de Craen, A.J., Westendorp, R.G., Boomsma, D.I., de Geus, E.J., Houwing-Duistermaat, J.J., Heijmans, B.T., Slagboom, P.E.,
+
+Genome-wide as- sociation study (GWAS)-identified disease risk alleles do not compromise human longevity. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Benjamini, Y., Hochberg, Y.,
+
+Controlling the false discovery rate: a practical and powerful approach to multiple testing. J. R. Stat. Soc. B
+
+,
+
+–
+
+Berthold, H.K., Giannakidou, E., Krone, W., Tregouet, D.A., Gouni-Berthold, I.,
+
+In- fluence of ghrelin gene polymorphisms on hypertension and atherosclerotic dis- ease. Hypertens. Res.
+
+,
+
+–
+
+Kawano, T., Ito, Y., Ishiguro, M., Takuwa, K., Nakajima, T., Kimura, Y., 2000. Molecular cloning and characterization of a new insulin/IGF-like peptide of the nematode Caenorhabditis elegans. Biochem. Biophys. Res. Commun. 273, 431–436. Kenyon, C.J., 2010. The genetics of ageing. Nature 464, 504–512.
+
+(
+
+)
+
+–
+
+Pedersen, C.B., Gotzsche, H., Moller, J.O., Mortensen, P.B.,
+
+The Danish Civil tration System. A cohort of eight million persons. Dan. Med. Bull.
+
+,
+
+–
+
+Purcell, S., Neale, B., Todd-Brown, K., Thomas, L., Ferreira, M.A.R., Bender, D., Maller, Sklar, P., de Bakker, P.I.W., Daly, M.J., Sham, P.C.,
+
+PLINK: a toolset for genome association and population-based linkage analysis. Am. J. Hum. Genet. Scarpaci, S., Frasca, D., Barattini, P., Guidi, L., Doria, G.,
+
+DNA damage and repair capacities in human naive and memory T cells from peripheral of young and elderly subjects. Mech. Ageing Dev.
+
+,
+
+–
+
+Schildkraut, J.M., Iversen, E.S., Wilson, M.A., Clyde, M.A., Moorman, P.G., Palmieri, Whitaker, R., Bentley, R.C., Marks, J.R., Berchuck, A.,
+
+Association DNA damage response and repair genes and risk of invasive serous ovarian PL
+
+One
+
+, e
+
+Shih, D.M., Gu, L., Xia, Y.R., Navab, M., Li, W.F., Hama, S., Castellani, L.W., Furlong, Costa, L.G., Fogelman, A.M., Lusis, A.J.,
+
+Mice lacking serum paraoxonase susceptible to organophosphate toxicity and atherosclerosis. Nature
+
+, Skytthe, A., Kyvik, K., Holm, N.V., Vaupel, J.W., Christensen, K.,
+
+The Danish Registry:
+
+birth cohorts of twins. Twin Res.
+
+,
+
+–
+
+Soerensen, M., Dato, S., Christensen, K., M
+
+ue, M., Stevnsner, T., Bohr, Christiansen, L.,
+
+Replication of an association of variation in the gene with human longevity using both case–control and longitudinal data. Cell
+
+,
+
+–
+
+Tyner, S.D., Venkatachalam, S., Choi, J., Jones, S., Ghebranious, N., Igelmann, H., Lu, Soron, G., Cooper, B., Brayton, C., Hee, P.S., Thompson, T., Karsenty, G., Bradley, Donehower, L.A.,
+
+p
+
+mutant mice that display early ageing-associated notypes. Nature
+
+,
+
+–
+
+van der Horst, G.T., van, S.H., Berg, R.J., van Gool, A.J., de, W.J., Weeda, G., Morreau, Beems, R.B., van Kreijl, C.F., de Gruijl, F.R., Bootsma, D., Hoeijmakers, J.H.,
+
+fective transcription-coupled repair in Cockayne syndrome B mice is with skin cancer predisposition. Cell
+
+,
+
+–
+
+van Heemst, D., Beekman, M., Mooijaart, S.P., Heijmans, B.T., Brandt, B.W., Zwaan, Slagboom, P.E., Westendorp, R.G.,
+
+a. Reduced insulin/IGF-
+
+signalling human longevity. Aging Cell
+
+,
+
+–
+
+van Heemst, D., Mooijaart, S.P., Beekman, M., Schreuder, J., de Craen, A.J., Brandt, Slagboom, P.E., Westendorp, R.G.,
+
+b. Variation in the human TP
+
+gene old age survival and cancer mortality. Exp. Gerontol.
+
+,
+
+–
+
+Van Ness, B., Ramos, C., Haznadar, M., Hoering, A., Haessler, J., Crowley, J., Jacobus, Oken, M., Rajkumar, V., Greipp, P., Barlogie, B., Durie, B., Katz, M., Atluri, G., G., Gupta, R., Steinbach, M., Kumar, V., Mushlin, R., Johnson, D., Morgan, G., Genomic variation in myeloma: design, content, and initial application of Bank On A Cure SNP Panel to detect associations with progression-free BMC Med.
+
+,
+
+Willcox, B.J., Donlon, T.A., He, Q., Chen, R., Grove, J.S., Yano, K., Masaki, K.H., D.C., Rodriguez, B., Curb, J.D.,
+
+a. FOXO
+
+A genotype is strongly with human longevity. Proc. Natl. Acad. Sci.
+
+,
+
+–
+
+Yang, X.R., Pfeiffer, R.M., Wheeler, W., Yeager, M., Chanock, S., Tucker, M.A., A.M.,
+
+Identification of modifier genes for cutaneous malignant melanoma melanoma-prone families with and without CDKN
+
+A mutations. Int. J. Cancer
+
+–
+
+Yashin, A.I., De, B.G., Vaupel, J.W., Tan, Q., Andreev, K.F., Iachine, I.A., Bon
+
+e, Valensin, S., De, L.M., Carotenuto, L., Franceschi, C.,
+
+Genes and longevity: sons from studies of centenarians. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, Yashin, A.I., Wu, D., Arbeev, K.G., Ukraintseva, S.V.,
+
+Joint influence of genetic variants on human longevity. Aging (Albany NY)
+
+,
+
+–
+
+M. Soerensen et al. / between the MLH
+
+gene and longevity. Hum. Genet.
+
+,
+
+–
+
+Kuningas, M., Mooijaart, S.P., van, H.D., Zwaan, B.J., Slagboom, P.E., Westendorp,
+
+Genes encoding longevity: from model organisms to humans. Aging Cell
+
+–
+
+Kuro-o, M., Matsumura, Y., Aizawa, H., Kawaguchi, H., Suga, T., Utsugi, T., Ohyama, Kurabayashi, M., Kaname, T., Kume, E., Iwasaki, H., Iida, A., Shiraki-Iida, Nishikawa, S., Nagai, R., Nabeshima, Y.I.,
+
+Mutation of the mouse gene leads to a syndrome resembling ageing. Nature
+
+,
+
+–
+
+Kurosu, H., Yamamoto, M., Clark, J.D., Pastor, J.V., Nandi, A., Gurnani, P., O.P., Chikuda, H., Yamaguchi, M., Kawaguchi, H., Shimomura, I., Takayama, Herz, J., Kahn, C.R., Rosenblatt, K.P., Kuro-o, M.,
+
+Suppression of aging mice by the hormone Klotho. Science
+
+,
+
+–
+
+Li, Y., Wang, W.J., Cao, H., Lu, J., Wu, C., Hu, F.Y., Guo, J., Zhao, L., Yang, F., Zhang, Y.X., W., Zheng, G.Y., Cui, H., Chen, X., Zhu, Z., He, H., Dong, B., Mo, X., Zeng, Y., Tian,
+
+Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han nese populations. Hum. Mol. Genet.
+
+,
+
+–
+
+Lunetta, K.L., D'Agostino Sr., R.B., Karasik, D., Benjamin, E.J., Guo, C.Y., Govindaraju, Kiel, D.P., Kelly-Hayes, M., Massaro, J.M., Pencina, M.J., Seshadri, S., Murabito,
+
+Genetic correlates of longevity and selected age-related phenotypes: genome-wide association study in the Framingham Study. BMC Med.
+
+(Suppl.
+
+), S
+
+Mockett, R.J., Sohal, R.S., Orr, W.C.,
+
+Overexpression of glutathione reductase tends survival in transgenic Drosophila melanogaster under hyperoxia but not moxia. FASEB J.
+
+,
+
+–
+
+Montesanto, A., Latorre, V., Giordano, M., Martino, C., Domma, F., Passarino, G., The genetic component of human longevity: analysis of the survival advantage parents and siblings of Italian nonagenarians. Eur. J. Hum. Genet.
+
+(
+
+), Nebel, A., Croucher, P.J., Stiegeler, R., Nikolaus, S., Krawczak, M., Schreiber, S.,
+
+association between microsomal triglyceride transfer protein (MTP) and longevity in humans. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Nebel, A., Flachsbart, F., Till, A., Caliebe, A., Blanche, H., Arlt, A., Hasler, R., Jacobs, Kleindorp, R., Franke, A., Shen, B., Nikolaus, S., Krawczak, M., Rosenstiel, Schreiber, S.,
+
+A functional EXO
+
+promoter variant is associated with longed life expectancy in centenarians. Mech. Ageing Dev.
+
+,
+
+–
+
+Nybo, H., Gaist, D., Jeune, B., Bathum, L., M
+
+ue, M., Vaupel, J.W., Christensen, K., The Danish
+
+cohort: a genetic-epidemiological nationwide survey. J. Health
+
+,
+
+–
+
+Pan, J., Lin, J., Izzo, J.G., Liu, Y., Xing, J., Huang, M., Ajani, J.A., Wu, X.,
+
+Genetic ceptibility to esophageal cancer: the role of the nucleotide excision repair way. Carcinogenesis
+
+,
+
+–
+
+Park, P.U., Defossez, P.A., Guarente, L.,
+
+Effects of mutations in DNA repair on formation of ribosomal DNA circles and life span in Saccharomyces Mol. Cell. Biol.
+
+,
+
+–
+
+Pawlikowska, L., Hu, D., Huntsman, S., Sung, A., Chu, C., Chen, J., Joyner, A.H., N.J., Hsueh, W.C., Reiner, A.P., Psaty, B.M., Atzmon, G., Barzilai, N., Cummings, Browner, W.S., Kwok, P.Y., Ziv, E.,
+
+a. Association of common genetic in the insulin/IGF
+
+signaling pathway with human longevity. Aging Cell
+
+–
+
+Pawlikowska, L., Hu, D., Huntsman, S., Sung, A., Chu, C., Chen, J., Joyner, A.H., Schork, Hsueh, W.C., Reiner, A.P., Psaty, B.M., Atzmon, G., Barzilai, N., Cummings, Browner, W.S., Kwok, P.Y., Ziv, E.,
+
+b. Association of common genetic in the insulin/IGF
+
+signaling pathway with human longevity. Aging Cell
+
+,

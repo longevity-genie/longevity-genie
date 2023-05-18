@@ -1,0 +1,407 @@
+Heat-Shock Protein 70 Genes and Human Longevity
+
+
+
+a b c SINGH, STEEN KØLVRAA, PETER BROSS, d c e CHRISTENSEN, NIELS GREGERSEN, QIHUA TAN, a,h f BIRK JENSEN, HANS EIBERG, AND g I. S. RATTAN
+
+Department of Human Genetics, University of Aarhus, Aarhus, Denmark
+
+ABSTRACT: We have studied the association of three single nucleotide polymorphisms (SNPs) present in the three HSP70 (heat-shock protein) genes on 6p21 with human longevity. The availability of biological sam- ples from various population cohorts in Denmark has given us the op- portunity to try novel methods of gene association with human longevity. A significant association of one haplotype with male longevity was ob- served. Furthermore, a significant difference in the survival of the car- riers of the different genotypes in females was observed. We also found an age-dependant decline in the ability of peripheral blood mononuclear cells to respond to heat stress in terms of Hsp70 induction.
+
+Human longevity is a multifactorial trait with both genetic and environ- mental factors playing an important role in its manifestation. Studies in twins on the genetic basis of human longevity indicated that approximately 25% of the observed differences in life expectancy are due to genetic variations.1,2 The conventional approach for identifying longevity-determining genes has been by population-based association studies, where a group of long-lived in- dividuals (LLIs) is compared to a group of young individuals for differences in the gene and genotype frequencies of candidate genes.3 This approach, though common, has several limiting factors.3
+
+Heat-shockproteins(Hsps)4 are a part of the cellular safety and rescue mechanisms. At the cellular all organisms respond to stress by synthesizing Hsps at the expense of proteins. This phenomenon is called “heat-shock response” (HSR),5 protects cells from subsequent damage and aids them to counteract the of the stress. The capacity to respond rapidly to stress at the gene level mines the adaptive and, therefore, the survival capacity and longevity of organism.6 One way of indicating the relationship between human and stress response is to demonstrate an association between single polymorphisms (SNPs) in Hsp genes (HSP) and longevity7,8 or parameters
+
+Of all the various heat-shock proteins, Hsp70 is the most prominent and best characterized of the stress protein families. Hsp70 is a highly inducible and most actively synthesized protein in the cell upon heat shock. In humans there are 11 different isoforms of HSP70 encoded by different genes located at dispersed loci. Three of the 11 isoforms of HSP70 are localized within the major histocompatibility complex (MHC) class III region on chromosome 6p21.10 These are intron-less HSP70A1A (HSP70-1), HSP70A1B (HSP70-2), and HSP70A1L (HSP70-Hom)11 genes. They display a very high sequence similarity but differ in their regulation. We have studied the association of three SNPs, one in each MHC-linked HSP70 gene, with human longevity, survival, and parameters of aging (TABLE 1).
+
+With the ever-increasing number of elderly persons in the population and in well-maintained health and population registries, 12,13 the availability of a unique set of biological samples for research from various well-established
+
+SINGH et al.: HSP70 AND LONGEVITY IN DENMARK
+
+1. SNPs in HSP70 genes studied for their association with human longevity
+
+aVariation may affect the substrate specificity and chaperone activity of the Hsp70.
+
+TABLE 2. Different population cohorts in Denmark used for studying the association of HSP70 genes with human longevity
+
+population databases, and from different age-related cohorts, in Denmark, pro- vides a rare opportunity to perform novel population-based genetic association studies by mitigating many of the limiting factors 9,14–17 (TABLE 2). For our research we have used DNA samples from 426 participants from the
+
+(1) Longitudinal Study of Ageing Danish Twins (LSADT), which is the old- est twin registry in the world.18 These twins, sampled in 1999, are between the ages of 70 and 91 years (mean age 75.6 years), and have been catego- rized according to the absence or presence of various age-related diseases and for various age-related parameters including scores of physical and cognitive
+
+time polymerase chain reaction on the LightCycler system (Roche Sciences), which allows monitoring of the amplification of the PCR in real time, using fluorescent labeled oligonucleotide probes (TIB BIOL, Germany) and primers (DNA Technology A/S, Denmark) specific each SNP (sequences of primers and probes can be provided on request).
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+computer program PHASE (Version 2.0.2), which implements a Bayesian sta- tistical method for reconstructing haplotypes from population data.22,23 Pair-wise linkage Disequilibrium (LD) among the three markers was calcu- lated using Java LINkage Disequilibrium Plotter (JLIN) (http//www.genepi.
+
+Blood samples were also collected from a group of young (mean age years) and middle-aged individuals (mean age 56.3 years). Mononu- cells (monocytes and lymphocytes) were isolated and then studied ◦ age-related HSR after giving 1 h of heat shock for 42 C followed by h of recovery. The amount of induced protein was quantified by using a cytometer.
+
+RESULTS AND DISCUSSION
+
+The gene and genotype frequency of the three SNPs was found to be in = a Hardy–Weinberg equilibrium. In LSADT “Self-rated health” (P 0.0046) = and “Relative self-rated health” (P 0.018), which represent an individual’s overall sense of physical well-being and which have been shown to be both predictors of survival at older ages and better indicators of future survival than objectively measured health status, were associated with heterozygosity for − 110A> C polymorphism in the promoter region of HSP70-1.9 The molecular haplotype analyses on Danish family samples have revealed
+
+The molecular haplotype analyses on Danish family samples have revealed high LD among the three markers (TABLE 3). Pair-wise LD calculated among (cid:2)= the three markers also showed a high LD (D 1) between the SNP at HSPA1A with the other two SNPs at HSP70A1B and HSP70A1L (FIG. 1). This infor- mation is very important when it comes to discovering genes that influence complex traits such as longevity.24 On analyzing the frequency distribution of
+
+TABLE 3. Comparison of haplotype frequencies in the family samples (only parents) gen- erated by PHASE and from allele frequencies
+
+Observed frequency Expected frequency Haplotypesa (generated by PHASE) (generated from allele frequency) A-A-T 0.41 0.3 A-A-C 0.18 0.09 G-A-T 0.03 0.2 G-A-C 0.02 0.06 A-C-T 0 0.16 G-C-T 0.34 0.1 G-C-C 0 0.03 A-C-C 0 0.05
+
+Chi-square 171.457; df 7; P value 0.0001. aThe first position in the haplotypes is the marker at gene HSPA1B, second at HSPA1A, and third at HSPA1L.
+
+SINGH et al.: HSP70 AND LONGEVITY IN DENMARK
+
+D' FE |mn[TTT TSF <==ao o   0.0o20.81.9HEP7OR1LTSPPORLA4SP70418     7S 5 11.25 15FIGURE 1. Pair-wise measurement of LD among the three HSP70 gene markers.
+
+FIGURE 1. Pair-wise measurement of LD among the three HSP70 gene figure shows two common ways of measuring LD, D(cid:2) , and r2. The distance the markers is the relative distance, in kilobases, where position 0 corresponds
+
+haplotypes across different age groups from young individuals to centenar- ians we found a significant age-dependent increase in the frequency of one haplotype in males (Singh et al., in preparation).
+
+As mentioned above most of the genetic association studies on hu- man longevity are performed in a case–control manner by comparing the gene/genotype frequencies between young and LLIs. This method, though widely used, has a shortcoming in that comparing the young with LLIs may give false-positive results, where the differences in the frequencies of the gene
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+in study might just be owing to secular changes in population demographic and genetic parameters of the two groups and not necessarily age. To mitigate this factor, cohort studies, which focus on tracking the survival of a group of individuals born in the same time period, are appropriate alternatives. Our work on the cohort persons of Danish form in the year 1905 has provided us with the opportunity to perform such studies. We have seen a significant difference in the survival of the carriers of different genotypes. Female carriers of CC = genotype of HSP70A1A survive better than the noncarriers (AA and AC) (P 0.005). It was also observed that female carriers of GG genotype in HSP70A1B = survive better than noncarriers (P 0.04). (Singh et al., in preparation).
+
+We have also seen that peripheral blood mononuclear cells of young and middle-aged individuals respond differently to heat stress, confirming that in humans there is significant age-dependent attenuation in the ability to respond to stress (Singh et al., in preparation). Also, in the young subjects a positive association was found between the HSPA1L (T2Y37C) polymorphism and HSR. CC carriers had significantly lower induction than TT carriers in both monocytes (P = 0.015) and lymphocytes (P = 0.004). This polymorphism, which is present in the coding region of the HSPA1L gene, can affect the chaperoning function of Hsp70.
+
+Our results from the association of SNPs in three HSP70 genes with man longevity, survival, and parameters of aging have reiterated our that the genes involved in cellular maintenance and repair mechanisms indeed important candidates for deciphering the genetics of human Additionally, the availability of samples from different population cohorts Denmark has provided us with the opportunity to perform novel studies mitigating many confounding factors.
+
+ACKNOWLEDGMENTS
+
+We are thankful to Christian Knudsen for his technical support and to Mari for her help in genotyping. We also thank the personnel of the Blood Skejby Sygehus. The studies received financial support from the Danish for Molecular Gerontology (DCMG), Danish Research Councils, and Nordisk Fund.
+
+We are thankful to Christian Knudsen for his technical support and to Mari Sild for her help in genotyping. We also thank the personnel of the Blood Bank, Skejby Sygehus. The studies received financial support from the Danish Center for Molecular Gerontology (DCMG), Danish Research Councils, and
+
+HERSKIND, A.M., M. MCGUE, N.V. HOLM, et al.
+
+The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum. Genet.
+
+:
+
+–
+
+TAN, Q.H., G. DE BENEDICTIS, A.I. YASHIN, et al.
+
+Measuring the genetic influence in modulating the human life span: gene-environment interaction and the sex-specific genetic effect. Biogerontology
+
+:
+
+–
+
+SINGH et al.: HSP70 AND LONGEVITY IN DENMARK
+
+DE BENEDICTIS, G., Q. TAN, B. JEUNE, et al.
+
+Recent advances in human gene-longevity association studies. Mech. Ageing Dev.
+
+:
+
+–
+
+VERBEKE, P., J. FONAGER, B.F.C. CLARK, et al.
+
+Heat shock response and ageing: mechanisms and applications. Cell Biol. Int.
+
+:
+
+–
+
+VERBEKE, P., B.F.C. CLARK & S.I.S. RATTAN.
+
+Reduced levels of oxidized and glycoxidized proteins in human fibroblasts exposed to repeated mild heat shock during serial passaging in vitro. Free Radic. Biol. Med.
+
+:
+
+–
+
+RATTAN, S.I.S.
+
+Aging intervention, prevention, and therapy through horme- sis. J. Gerontol. Series A-Biol. Sci. Med. Sci.
+
+:
+
+–
+
+ALTOMARE, K., V. GRECO, D. BELLIZZI, et al.
+
+The allele (A)(-
+
+) in the promoter region of the HSP
+
+-
+
+gene is unfavorable to longevity in women. Biogerontology
+
+:
+
+–
+
+ROSS, O.A., M.D. CURRAN, K.A. CRUM, et al.
+
+Increased frequency of the
+
+T allele of the heat shock protein
+
+-Hom gene in an aged Irish population. Exp. Gerontol.
+
+:
+
+–
+
+SINGH, R., S. KOLVRAA, P. BROSS, et al.
+
+Association between low self-rated − > health and heterozygosity for
+
+A C polymorphism in the promoter region of HSP
+
+-
+
+in aged Danish twins. Biogerontology
+
+:
+
+–
+
+GOATE, A.M., D.N. COOPER, C. HALL, et al.
+
+Localization of a human heat- shock Hsp-
+
+gene sequence to chromosome-
+
+and detection of
+
+other loci by somatic-cell hybrid and restriction-fragment-length-polymorphism analysis. Hum. Genet.
+
+:
+
+–
+
+MILNER, C.M. & R.D. CAMPBELL.
+
+Structure and expression of the three MHC-linked HSP
+
+genes. Immunogenetics
+
+:
+
+–
+
+KYVIK, K.O., K. CHRISTENSEN, A. SKYTTHE, et al.
+
+The Danish twin register. Dan. Med. Bull.
+
+:
+
+–
+
+NYBO, H., D. GAIST, B. JEUNE, et al.
+
+The Danish
+
+cohort: a genetic- epidemiological nationwide survey. J. Aging Health
+
+:
+
+–
+
+SKYTTHE, A., K. KYVIK, N.V. HOLM, et al.
+
+The Danish twin registry:
+
+birth cohorts of twins. Twin Res.
+
+:
+
+–
+
+MCGUE, M., J.W. VAUPEL, N. HOLM, et al.
+
+Longevity is moderately herit- able in a sample of Danish twins born
+
+–
+
+J. Gerontol.
+
+: B
+
+– B
+
+promoter region of the HSP
+
+-
+
+gene is unfavorable to longevity in women. Biogerontology
+
+:
+
+–
+
+ROSS, O.A., M.D. CURRAN, K.A. CRUM, et al.
+
+Increased frequency of the
+
+T allele of the heat shock protein
+
+-Hom gene in an aged Irish population. Exp. Gerontol.
+
+:
+
+–
+
+SINGH, R., S. KOLVRAA, P. BROSS, et al.
+
+Association between low self-rated − > health and heterozygosity for
+
+A C polymorphism in the promoter region of HSP
+
+-
+
+in aged Danish twins. Biogerontology
+
+:
+
+–
+
+GOATE, A.M., D.N. COOPER, C. HALL, et al.
+
+Localization of a human heat- shock Hsp-
+
+gene sequence to chromosome-
+
+and detection of
+
+other loci by somatic-cell hybrid and restriction-fragment-length-polymorphism analysis. Hum. Genet.
+
+:
+
+–
+
+MILNER, C.M. & R.D. CAMPBELL.
+
+Structure and expression of the three MHC-linked HSP
+
+genes. Immunogenetics
+
+:
+
+–
+
+KYVIK, K.O., K. CHRISTENSEN, A. SKYTTHE, et al.
+
+The Danish twin register. Dan. Med. Bull.
+
+:
+
+–
+
+NYBO, H., D. GAIST, B. JEUNE, et al.
+
+The Danish
+
+cohort: a genetic- epidemiological nationwide survey. J. Aging Health
+
+:
+
+–
+
+SKYTTHE, A., K. KYVIK, N.V. HOLM, et al.
+
+The Danish twin registry:
+
+birth cohorts of twins. Twin Res.
+
+:
+
+–
+
+MCGUE, M., J.W. VAUPEL, N. HOLM, et al.
+
+Longevity is moderately herit- able in a sample of Danish twins born
+
+–
+
+J. Gerontol.
+
+: B
+
+– B
+
+FREDERIKSEN, H. & K. CHRISTENSEN.
+
+The influence of genetic factors on physical functioning and exercise in second half of life. Scand. J. Med. Sci. Sports
+
+:
+
+–
+
+CHRISTENSEN, K., D. GAIST, J.W. VAUPEL, et al.
+
+Genetic contribution to rate of change in functional abilities among Danish twins aged
+
+years or more. Am. J. Epidemiol.
+
+:
+
+–
+
+CHRISTENSEN, K., N.V. HOLM, M. MCGUE, et al.
+
+A Danish population-based twin study on general health in the elderly. J. Aging Health
+
+:
+
+–
+
+FREDERIKSEN, H., D. GAIST, H.C. PETERSEN, et al.
+
+Hand grip strength: a phenotype suitable for identifying genetic variants affecting mid- and late-life physical functioning. Genet. Epidemiol.
+
+:
+
+–
+
+EIBERG, H. & J. MOHR.
+
+Genetics of paraoxonase. Ann. Hum. Genet.
+
+:
+
+–
+
+MOHR, J. & H. EIBERG.
+
+Colton blood groups: indication of linkage with the Kidd (Jk) system as support for assignment to chromosome
+
+Clin. Genet.
+
+:
+
+–
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+STEPHENS, M., N.J. SMITH & P. DONNELLY.
+
+A new statistical method haplotype reconstruction from population data. Am. J. Hum. Genet.
+
+:
+
+STEPHENS, M. & P. DONNELLY.
+
+A comparison of Bayesian methods for lotype reconstruction from population genotype data. Am. J. Hum. Genet.
+
+–
+
+CARDON, L.R. & G.R. ABECASIS.
+
+Using haplotype blocks to map complex trait loci. Trends Genet.
+
+:
+
+–

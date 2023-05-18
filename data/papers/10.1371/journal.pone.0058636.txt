@@ -1,0 +1,503 @@
+SIRT1 Polymorphism, Long-Term Survival and Glucose Tolerance in the General Population
+
+Sylwia M. Figarska, Judith M. Vonk, H. Marike Boezen*
+
+Department of Epidemiology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands
+
+Abstract
+
+Mutations that increase activity of Sir2 (silent information regulator 2) are associated with extended lifespan of yeast, fruit flies and worms. SIRT1, the human homolog of Sir2, that controls numerous physiological processes including the glucose metabolism, is considered a candidate gene for predicting variation in human lifespan. Whereas the role of Sir2 has been extensively investigated in model organisms, less is known about the relation between SIRT1 and lifespan in humans. In the current study we included 1,390 subjects from a general population-based cohort with 18 years of follow-up to investigate associations between variation in single nucleotide polymorphisms (SNPs) in the SIRT1 gene and human survival. Additionally in 535 male subjects with available data we investigated associations between SIRT1 and glucose tolerance. Carriers of the minor allele of rs12778366 had a significantly reduced mortality risk compared to the wild types: Hazard Ratio 0.69 (95% CI 0.50 to 0.96; p = 0.025). The directions of the effect were the same in females and males, never and ever smokers and the effect was significantly protective in overweight/obese subjects. Carriers of the minor allele of SNP rs12778366 had better glucose tolerance indicated by 0.34 mmol/l lower glucose levels compared to wild type subjects (p= 0.03). This study shows that SIRT1 affects human long-term survival and therefore may be an important factor in modulating lifespan not only in lower organisms, but also in humans.
+
+Funding: This work was supported by the Graduate School for Drug Exploration (GUIDE), University Medical Center Groningen, University of Groningen, the Netherlands. The Vlagtwedde\Vlaardingen study was supported by unrestricted grants of Stichting Astma Bestrijding (grant number 2005/020) and Netherlands Asthma Foundation (grant number 3.2.02.51). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+E-mail: h.m.boezen@umcg.nl
+
+Introduction
+
+of insulin resistance [8]. Overexpression of SIRT1 or using SIRT1 activators improves glucose homeostasis and insulin sensitivity in mice [8–11]. Therefore partly the effect of SIRT1 on longevity may be exerted via its association with insulin signaling, which has been proven to extend lifespan by 18% in fat-specific insulin receptor knockout (FIRKO) mice [12]. Furthermore, SIRT1 is required for a normal response to caloric restriction that causes many changes in glucose metabolism and increases lifespan [13].
+
+In the ongoing quest to uncover factors that increase longevity, sirtuins have attracted scientific and public interest for the past decades [1]. Initially, overexpression of the silent information regulator Sir2, nicotinamide adenine dinucleotide (NAD+)-depen- dent histone deacetylase, has shown a beneficial effect on lifespan in budding yeast (Saccharomyces cerevisae) [2]. Subsequently, the experiments performed in worms (Caenorhabditis elegans) and flies (Drosophila melanogaster) [3,4] confirmed favorable properties of Sir2, signifying the importance of sirtuins as longevity genes. Since a more recent report showed an absence of effects of Sir2 overexpression on lifespan in C.elegans and Drosophila [5], a debate about the role of sirtuins in lifespan prolongation has arisen [1]. Therefore more studies are needed to elucidate the impact of sirtuins on lifespan, especially in humans. Out of seven identified mammalian homologues, sirtuin 1 (SIRT1) is the most closely related to Sir2 [6]. SIRT1 influences the activity of various transcription factors, including forkhead-box transcription factors (FOXOs), peroxisome proliferator-activated receptor c (PPAR c) and nuclear factor-kB (NF-kB) in target tissues resulting in enhanced gluconeogenesis and repressed glycolysis in the liver, reduction of adipogenesis in adipose tissue, and increased release of insulin in pancreatic beta cells [7]. SIRT1 controls adiponectin levels, inflammatory processes, gluconeogenesis, and levels of reactive oxygen species that together may lead to the development
+
+In humans, during the last years polymorphisms in SIRT1 have been investigated in a context of metabolism and have been associated with BMI and risk of obesity [14–17], acute insulin response in Pima Indians [18], body fat and blood pressure in Japanese [19], basal energy expenditure and respiratory quotient [20], and with diabetes risk in interaction with prenatal exposure to famine [21]. The few studies that investigated SNPs in SIRT1 in relation to human lifespan or mortality did not find any associations [22–25].
+
+expectancy is genetically determined [26] and the specific genetic determinants of human lifespan still remain largely unknown, SIRT1, as a metabolic master switch [7], may be considered a candidate gene for predicting variation in human lifespan. The Vlagtwedde/Vlaardingen cohort offers the unique opportunity to investigate the role of SIRT1 in long-term survival, because subjects included in the current study were followed up for 18 years. Since SIRT1 modulates a range of cellular processes
+
+Table 1. Characteristics of participants at visit 1989/1990 by vital status on Dec 31st,
+
+Status on 31-12-2008 Alive Dead p value Number (%) 1087 (78.2) 270 (19.4) Males, n (%) 525 (48.3) 166 (61.5) 0.000 Age, median (range) 49.4 (36.0 to 72.6) 61.8 (37.3 to 79.1) 0.000 Ever smokers, n (%) 711 (65.4) 207 (76.7) 0.000 Packyears in ever smokers, median (range) 17.2 (0.1 to 117.1) 26.0 (0.6 to 262.2) 0.000 BMI Normal weight, n (%) 284 (26.2) 65 (24.2) Overweight, n (%) 540 (49.8) 139 (51.6) Obese, n (%) 261 (24.0) 65 (24.2) 0.781
+
+doi:10.1371/journal.pone.0058636.t001
+
+all participants in the study on December 31, 2008 was assessed. Causes of death were coded according to the International Classification of Diseases (ICD) and obtained from the Statistics Netherlands (The Hague). In order to avoid bias and provide true associations, the external causes of death (i.e. suicides, homicides, traffic accidents etc.) were excluded from the analyses, (ICD-9: codes$800 and in ICD-10: codes $S00).
+
+involved in maintaining glucose homeostasis [27], we additionally investigated SIRT1 polymorphisms and glucose tolerance.
+
+Methods
+
+Ethics Statement
+
+The study protocol was approved by the local university medical hospital ethics committee, University of Groningen, University Medical Center Groningen, The Netherlands and all participants gave their written informed consent. In 1984, the Committee on Human Subjects in Research of the University of Groningen reviewed the study and affirmed the safety of the protocol and study design.
+
+Blood samples
+
+In 1989/1990 neutrophil depots from peripheral blood samples were collected and stored at –20uC. In 2003–2004 DNA was extracted from these samples with a QIAamp DNA blood mini kit (Qiagen, Hilden, Germany) and checked for purity and concen- tration with a NanoDrop ND-1000 UV–Vis spectrophotometer (NanoDrop Technologies, Wilmington, DE) [28].
+
+Study population
+
+We studied 1,390 subjects of the Vlagtwedde/Vlaardingen cohort participating in the last survey in 1989/1990 [28]. This general population-based cohort of white individuals of Dutch descent started in 1965 and has been followed for 25 years. The main focus of the study was on respiratory health. Surveys (median number of 7 per subject, range 1–8) were performed every 3 years, during which information was collected on smoking status, age, sex and respiratory symptoms by the Dutch version of the British Medical Council standardized questionnaire, BMI was deter- mined, spirometry was performed and and the number of eosinophils in peripheral blood was measured. The vital status of
+
+SNP Selection and Genotyping
+
+Four SNPs (rs12778366, rs10823108, rs7069102 and rs2273773), that tag all 21 SNPs in SIRT1 and its 5 kb up-/ downstream region with r2.0.8 and Minor Allele Frequency.5% (based on the HapMap release 23a/March 2008) were genotyped by K-Bioscience Ltd (UK) [29]. Since rs10823108 and rs2273773 were in complete linkage disequilibrium (r2 =1.0, Figure S1) in our study population, only rs2273773 was analyzed.
+
+Table 2. Distribution of genotypes and hazard ratio (HR) for all-cause mortality.
+
+All-cause mortality SNP Genotype Alive n=1,087 n=270 p value** HR (95% CI)*** p value rs12778366* TT 798 (76.0) 220 (83.0) 1 TC+CC 252 (24.0) 45 (17.0) 0.015 0.69 (0.5020.96) 0.025 rs7069102 GG 449 (43.6) 124 (48.8) 1 GC 458 (44.5) 103 (40.6) 0.85 (0.6521.11) 0.234 CC 123 (11.9) 27 (10.6) 0.323 0.90 (0.5921.37) 0.628 rs2273773* TT 897 (81.1) 164 (76.6) 1 TC+CC 209 (18.9) 50 (23.4) 0.132 1.26 (0.9221.73) 0.155
+
+to the low frequency of individuals being homozygous for the minor allele heterozygotes and homozygotes variants were in genotype distribution between alive subjects and those who died (excluding external causes of death) tested with x2 regression adjusted for age, gender and packyears at visit in 1989/90
+
+ Cum Survival1s12778366—TT--+ TO#CCI 1 1 1 10 5 10 15 20years of follow-up              ts12778366Cum Survival—— TT never smokers~--- TC+CC never smokers—— TT ever smokers- -+ TC+CC ever smokers0 5 10 15 20 Cum Survivalo7- 1812778366—— TTs52yrs---- TC+CC $52 yrs— TT>52yrsO06- --- TC+CC>52yrs1 1 1 1 I0 5 10 15 20Cum SurvivalCum Survival1.070.9-0.8-0.8-    1812778366—— TT females~--- TC+CC females— TT males~~ + TC+CC malesI 1 15 10 15years of follow-uprs12778366—— TT normal weight---- TC+CC normal weight— TT overweight and obese- - + TC+CC overweight and obeseT T T5 10 15years of follow-up20 20
+
+0 5 10 15 20years of follow-up              ts12778366Cum Survival—— TT never smokers~--- TC+CC never smokers—— TT ever smokers- -+ TC+CC ever smokers Cum Survivalo7- 1812778366—— TTs52yrs---- TC+CC $82 yrs— TT>52yrsO6- --- TC+CC>52yrsI I I I r0 5 10 15 20 vears of follow-up
+
+Figure 1. Survival curves for all-cause mortality according to SNP rs12778366. a. all subjects; b. stratified according to gender; c. stratified according to smoking habits; d. stratified according to BMI; e. stratified according to age (median age at visit in 1989/1900). *the Y axis scale in a figure 1e differs from Y axis scales in other figures. doi:10.1371/journal.pone.0058636.g001
+
+Results
+
+Oral glucose tolerance test
+
+In 1970/1972, 1973 and 1976 male subjects underwent the oral glucose tolerance test (OGTT). They were given a drink of 100 g glucose solution, and blood glucose was measured two hours later.
+
+Subjects with genetic data available and participating in the last survey in 1989/1990 were included in this study (n =1,390, see Table 1). After 18 years of follow-up, 78.2% (n= 1,087) of the cohort was still alive and 284 deaths (20.4%) were recorded. Out of all deaths, 14 (4.9%) occurred due to external causes and these were excluded form the analyses. Of the participants who had died 207 (76.7%) were ever smokers and these had significantly higher numbers of packyears compared to participants still alive. It is important to note that our study had an excellent follow-up rate, since only 19 subjects (1.4%) could not be traced back.
+
+Statistical Analysis
+
+Descriptive analyses of the subject characteristics were per- formed using x2 tests for categorical variables and Mann-Whitney U test for continuous variables (i.e. packyears in ever smokers and age). The genotype frequencies were tested for Hardy-Weinberg Equilibrium (HWE) by x2 analysis. Differences in genotype distribution between dead and alive subjects were tested using x2 tests. SNP rs10823108 was tested in a general genetic model. Due to the low frequency of individuals being homozygous for the minor allele for rs12778366 (n= 14) and rs2273773 (n= 9) heterozygotes and homozygotes for the minor allele were analyzed in a one group. Cox proportional hazards regression models adjusted for gender, age and packyears of smoking (all at the survey in 1989/1990) were used to evaluate the association between SNPs and all-cause mortality. Time was defined from the examination in 1989/1990 until death, end of follow-up in 2008 or last registration if subjects were lost to follow-up. Survival curves are depicted based on these Cox models. Stratified analyses according to gender, smoking habits (never smokers vs ever smokers), BMI and age (dichotomized based on a median age at visit in 1989/1990, i.e. 52 yrs) were performed. Subjects with BMI $25 kg/m2 were categorized into the overweight/obese group according to World Health Organization (WHO) criteria.
+
+The 3 tested SNPs (rs12778366, rs7069102 and rs2273773) were in Hardy-Weinberg equilibrium. Among subjects who died, 83% had the wild type genotype of rs12778366 which is significantly higher (p =0.015) than the 76% in the subjects who were still alive.
+
+Cox regression showed that carriers of the minor allele of rs12778366 had a significantly reduced risk of mortality compared to wild types: HR 0.69 (95% CI: 0.50 to 0.96; p =0.025; see Table 2). Survival curves according to genotypes of rs12778366 clearly show the difference in mortality risk (Figure 1a). The same directions of the effect of rs12778366 were observed within groups that have different mortality risks, i.e. females (HR= 0.82 (0.5021.35)) and males (HR= 0.63 (0.4120.96)), never smokers (HR =0.53 (0.2521.11)) and ever smokers (HR= 0.75 (0.5221.08)), younger subjects (age # 52 yrs) (HR= 0.68 (0.3021.54)) and older subjects (age . 52 yrs) (HR= 0.69 (0.4820.98)), (Table 3 and Figure 1 b–c, e). Remarkably, the protective effect of rs12778366 was observed in overweight/obese subjects (HR= 0.62 (0.4320.91)) but not in subjects with normal weight (HR= 0.95 (0.5021.80). The survival curves clearly show that overweight/obese minor allele carriers of rs12778366 had survival comparable to subjects with normal weight while overweight/obese subjects with the wildtype genotype had an increased mortality risk (Figure 1d). The 2 other SNPs did not show significant associations between genotypes and mortality risk (Table 2).
+
+A linear regression model adjusted for age at the measurement was used to evaluate the associations between SNPs in SIRT1 and glucose tolerance.
+
+P values ,0.05 were considered statistically significant (tested 2- sided). All statistical analyses were performed using SPSS version 18.0 for Windows.
+
+Table 3. HR for all-cause mortality for rs12778366 TC+CC genotypes in stratified analysis.
+
+We analyzed the available data from 535 male subjects from the current study (aged at the measurement 18–61 years) who underwent the glucose tolerance test (OGTT). We found that
+
+Stratification HR (95% CI)** p value a) gender Females, n*=653 0.82 (0.5021.35) 0.424 Males, n=680 0.63 (0.4120.96) 0.032 b) smoking habits Never smokers, n=424 0.53 (0.2521.11) 0.092 Ever smokers, n=909 0.75 (0.5221.08) 0.125 c) BMI Normal weight, n=344 0.95 (0.5021.80) 0.870 Overweight and obese, n=987 0.62 (0.4320.91) 0.014 d) age # 52 yrs, n=670 0.68 (0.3021.54) 0.350 . 52 yrs, n=663 0.69 (0.4820.98) 0.040
+
+Table 4. Glucose levels (mmol/l) measured in males after the oral glucose tolerance test (OGGT).
+
+SNP Genotype n Mean (SD) B* (mmol/l) SE p value rs12778366 TT 414 6.33 (1.55) TC+CC 119 5.99 (1.22) 20.34 0.16 0.030 rs7069102 GG 229 6.33 (1.59) GC 232 6.02 (1.43) 20.12 0.14 0.401 CC 59 6.32 (1.44) 0.02 0.22 0.931 rs2273773 TT 446 6.27 (1.51) TC+CC 89 6.22 (1.44) 20.04 0.17 0.830
+
+*n=number of all subjects included in the analysis (excluding those who died due to external causes) **rs12778366 TT genotype as a reference doi:10.1371/journal.pone.0058636.t003
+
+*Regression coefficient (B), its standard error (SE) and p value obtained with linear regression analysis adjusted for age at the measurement. doi:10.1371/journal.pone.0058636.t004
+
+effect remained the same, but was not significant. In this light the better glucose tolerance in overweight/obese minor allele carriers of SNP rs12778366 could be considered a condition leading to better survival in this group. This additional result emphasizes the relevance of rs12778366 and indicates its possible use as a screening tool for clinical purposes.
+
+the minor allele carriers of SNP rs12778366 had better glucose tolerance, since they had a 0.34 mmol/l lower glucose levels compared to wild type subjects (p = 0.03, see Table 4). When this association was further investigated in subjects with normal weight (n =249) and overweight/obese subjects (n =284) separately, we found significantly better glucose tolerance in overweight/obese carriers of the minor allele of rs12778366 (i.e. 0.60 mmol/l lower glucose levels (p= 0.01)) compared to overweight/obese wild type subjects. In subjects with normal weight the same direction was observed (0.18 mmol/l lower glucose levels), but the effect was not significant (p =0.50).
+
+Previous studies indicate that transgenic mice that overexpress SIRT1 appear to have beneficial phenotypes that may be relevant in human health, including better glucose tolerance [33,34]. In contrast to the positive effects of increased SIRT1 activity, SIRT1 deficiency impairs metabolism [35]. Therefore, we hypothesize that variants in rs12778366 may lead to overexpression of the protein, especially since this SNP is located in Transcription Factor Binding Site (TFBS). Although rs12778366 is not associated with the SIRT1 protein expression in adipose tissue, lymphoblastoid cell lines and skin (Genevar (GENe Expression VARiation) database) [36], this does not rule out a possible effect of the SNP on protein expression in other tissues i.e. in the lung,
+
+Discussion
+
+carriers of SNP rs12778366 in SIRT1, during a 18 years follow-up study in the general population. Therefore, SIRT1 appears to be an important candidate gene explaining individual differences in human lifespan. There is evidence linking overexpression of Sir2 to extended lifespan in yeast, worms and flies [2–4]. Despite the established role of mammalian SIRT1 in metabolism, genome stability and stress response [30,31], polymorphisms in SIRT1 were not associated with exceptional human longevity in a cross- sectional case-control study [22,24] nor with all-cause mortality in a general population-based cohort [25] and in a group of over 85 years who were followed up until they died [23]. Whereas the last study included only pre-selected old subjects the advantage of our current study is that we did not use a selection criteria based on age, but investigated the whole population in a longitudinal manner. Actually, up till now, only one study in humans showed associations between SIRT1 variants and healthy aging, what the authors defined as being healthy (i.e. normal brain function and verbal fluency test; laboratory findings for hemogram, peripheral smear, urine, electrocytes, chest X-ray, kidney, pulmonary function, echocardiography and ECG were normal) at the age 60 or higher [32]. In the light of recent uncertainty about the role of sirtuins in longevity [1] our results importantly provide new evidence in favor of a role of the gene in longevity.
+
+Strengths and limitations
+
+The major strength of the current study is the longitudinal design. We were able to follow participants for 18 years, which provided a wide time window for evaluating survival in the cohort. A strength of our study is also the number of subjects (n =1,390), sampled from the general population. Additionally, the high follow-up rate is a major strength of the study, since 98.6% of the included subjects could be traced back. A limitation of our study is the limited data on metabolic profile, because the oral glucose tolerance test was performed only in male subjects and was not accompanied by insulin measurements. Furthermore, the study population consisted of white individuals of Dutch descent which limits extrapolation to other ethnic groups.
+
+In summary, this is the first study showing that SIRT1 plays a role in human lifespan in a non-selected general population cohort. The importance of SIRT1 is supported by the association of its polymorphism with long-term survival in the general population. Furthermore, linking SIRT1 polymorphisms to improved glucose tolerance stresses the impact of SIRT1 on metabolism in humans and identifies SIRT1 as a possible candidate for therapeutic purposes.
+
+We have shown an association between the SIRT1 gene and long-term survival among minor allele carriers of SNP rs12778366 in SIRT1 in the total population. Furthermore, the directions of the effect did not change in stratified analyses according to gender, smoking habits and age. Interestingly, stratification according to BMI showed the protective effect of rs1277836 only in overweight/obese subjects. Taking into account the increased mortality per se in obese subjects this finding may shed a new light on obesity-related burdens.
+
+Supporting Information
+
+One of the physiological pathways through which SIRT1 may affect longevity might be glucose homeostasis. Indications suggesting a role of this pathway were backed up by evidence that minor allele carriers of SNP rs12778366 had better glucose tolerance as determined by the oral glucose tolerance test. Interestingly, stratified analysis according to BMI showed that the effect was more pronounced in overweight/obese subjects, whereas in subjects with normal weight only the direction of the
+
+Author Contributions
+
+Prepared the mortality data for analysis: JMV. Obtained the grants for the study: JMV HMB. Discussed results, proposed corrections and approved the final version of the manuscript: SMF JMV HMB. Conceived and designed the experiments: SMF JMV HMB. Performed the experiments: SMF. Analyzed the data: SMF. Wrote the paper: SMF.
+
+References
+
+Accili D, de Cabo R, Sinclair DA (
+
+) An u
+
+IRTain role in longevity. Nat Med
+
+:
+
+–
+
+Kaeberlein M, M
+
+ey M, Guarente L (
+
+) The SIR
+
+/
+
+/
+
+complex and SIR
+
+alone promote longevity in Saccharomyces cerevisiae by two different mechanisms. Genes Dev
+
+:
+
+–
+
+Rogina B, Helfand SL (
+
+) Sir
+
+mediates longevity in the fly through a pathway related to calorie restriction. Proc Natl Acad Sci U S A
+
+:
+
+–
+
+Tissenbaum HA, Guarente L (
+
+) Increased dosage of a sir-
+
+gene extends lifespan in Caenorhabditis elegans. Nature
+
+:
+
+–
+
+Burnett C, Valentini S, Cabreiro F, Goss M, Somogyvari M, et al. (
+
+) Absence of effects of Sir
+
+overexpression on lifespan in C. elegans and Drosophila. Nature
+
+:
+
+–
+
+Frye RA (
+
+) Characterization of five human
+
+NAs with homology to the yeast SIR
+
+gene: Sir
+
+-like proteins (sirtuins) metabolize NAD and may have protein ADP-ribosyltransferase activity. Biochem Biophys Res Commun
+
+:
+
+–
+
+Leibiger IB, Berggren PO (
+
+) Sirt
+
+: a metabolic master switch that modulates lifespan. Nat Med
+
+:
+
+–
+
+Liang F, Kume S, Koya D (
+
+) SIRT
+
+and insulin resistance. Nat Rev Endocrinol
+
+:
+
+–
+
+Li Y, Xu S, Giles A, Nakamura K, Lee JW, et al. (
+
+) Hepatic overexpression of SIRT
+
+in mice attenuates endoplasmic reticulum stress and insulin resistance in the liver. FASEB J
+
+:
+
+–
+
+Feige JN, Lagouge M, Canto C, Strehle A, Houten SM, et al. (
+
+) Specific SIRT
+
+activation mimics low energy levels and protects against diet-induced metabolic disorders by enhancing fat oxidation. Cell Metab
+
+:
+
+–
+
+Lagouge M, Argmann C, Gerhart-Hines Z, Meziane H, Lerin C, et al. (
+
+) Resveratrol improves mitochondrial function and protects against metabolic disease by activating SIRT
+
+and PGC-
+
+alpha. Cell
+
+:
+
+–
+
+Bluher M, Kahn BB, Kahn CR (
+
+) Extended longevity in mice lacking the insulin receptor in adipose tissue. Science
+
+:
+
+–
+
+Boily G, Seifert EL, Bevilacqua L, He XH, Sabourin G, et al. (
+
+) Si
+
+regulates energy metabolism and response to caloric restriction in mice. PL
+
+One
+
+: e
+
+Clark SJ, Falchi M, Olsson B, Jacobson P, Cauchi S, et al. (
+
+) Association of Sirtuin
+
+(SIRT
+
+) Gene SNPs and Transcript Expression Levels With Severe Obesity. Obesity (Silver Spring)
+
+:
+
+–
+
+Peeters AV, Beckers S, Verrijken A, Mertens I, Roevens P, et al. (
+
+) Association of SIRT
+
+gene variation with visceral obesity. Hum Genet
+
+:
+
+–
+
+Zheng J, Chen LL, Xiao F, Hu X, Deng X, et al. (
+
+) Three single nucleotide variants of the SIRT
+
+gene are associated with overweight in a Chinese population: a case control study. Endocr J
+
+:
+
+–
+
+Zillikens MC, van Meurs JB, Rivadeneira F, Amin N, Hofman A, et al. (
+
+) SIRT
+
+genetic variation is related to BMI and risk of obesity. Diabetes
+
+:
+
+–
+
+Dong Y, Guo T, Traurig M, Mason CC, Kobes S, et al. (
+
+) SIRT
+
+is associated with a decrease in acute insulin secretion and a sex specific increase in risk for type
+
+diabetes in Pima Indians. Mol Genet Metab
+
+:
+
+–
+
+Shimoyama Y, Suzuki K, Hamajima N, Niwa T (
+
+) Sirtuin
+
+gene polymorphisms are associated with body fat and blood pressure in Japanese. Transl Res
+
+:
+
+–
+
+Weyrich P, Machicao F, Reinhardt J, Machann J, Schick F, et al. (
+
+) SIRT
+
+genetic variants associate with the metabolic response of Caucasians to a controlled lifestyle intervention--the TULIP Study. BMC Med Genet
+
+:
+
+Botden IP, Zillikens MC, de Rooij SR, Langendonk JG, Danser AH, et al. (
+
+) Variants in the SIRT
+
+gene may affect diabetes risk in interaction with prenatal exposure to famine. Diabetes Care
+
+:
+
+–
+
+Flachsbart F, Croucher PJ, Nikolaus S, Hampe J, Cordes C, et al. (
+
+) Sirtuin
+
+(SIRT
+
+) sequence variation is not associated with exceptional human longevity. Exp Gerontol
+
+:
+
+–
+
+Kuningas M, Putters M, Westendorp RG, Slagboom PE, van Heemst D (
+
+) SIRT
+
+gene, age-related diseases, and mortality: the Leiden
+
+-plus study. J Gerontol A Biol Sci Med Sci
+
+:
+
+–
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, et al. (
+
+) FOXO
+
+A genotype is strongly associated with human longevity. Proc Natl Acad Sci U S A
+
+:
+
+–
+
+Zillikens MC, van Meurs JB, Sijbrands EJ, Rivadeneira F, Dehghan A, et al. (
+
+) SIRT
+
+genetic variation and mortality in type
+
+diabetes: interaction with smoking and dietary niacin. Free Radic Biol Med
+
+:
+
+–
+
+Herskind AM, M
+
+ue M, Holm NV, Sorensen TI, Harvald B, et al. (
+
+) The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet
+
+:
+
+–
+
+Houtkooper RH, Pirinen E, Auwerx J (
+
+) Sirtuins as regulators of metabolism and healthspan. Nat Rev Mol Cell Biol
+
+:
+
+–
+
+van Diemen CC, Postma DS, Vonk JM, Bruinenberg M, Schouten JP, et al. (
+
+) A disintegrin and metalloprotease
+
+polymorphisms and lung function decline in the general population. Am J Respir Crit Care Med
+
+:
+
+–
+
+Siedlinski M, Boer JM, Smit HA, Postma DS, Boezen HM (
+
+) Dietary factors and lung function in the general population: wine and resveratrol intake. Eur Respir
+
+:
+
+–
+
+Guarente L (
+
+) Franklin H. Epstein Lecture: Sirtuins, aging, and medicine. N Engl J Med
+
+:
+
+–
+
+Chua KF, Mostoslavsky R, Lombard DB, Pang WW, Saito S, et al. (
+
+) Mammalian SIRT
+
+limits replicative life span in response to chronic genotoxic stress. Cell Metab
+
+:
+
+–
+
+Zhang WG, Bai XJ, Chen XM (
+
+) SIRT
+
+variants are associated with aging in a healthy Han Chinese population. Clin Chim Acta
+
+:
+
+–
+
+Bordone L, Cohen D, Robinson A, Motta MC, van Veen E, et al. (
+
+) SIRT
+
+transgenic mice show phenotypes resembling calorie restriction. Aging Cell
+
+:
+
+–
+
+Moynihan KA, Grimm AA, Plueger MM, Bernal-Mizrachi E, Ford E, et al. (
+
+) Increased dosage of mammalian Sir
+
+in pancreatic beta cells enhances glucose-stimulated insulin secretion in mice. Cell Metab
+
+:
+
+–
+
+Baur JA, Ungvari Z, Minor RK, Le Couteur DG, de Cabo R (
+
+) Are sirtuins viable targets for improving healthspan and lifespan? Nat Rev Drug Discov
+
+:
+
+–
+
+Yang TP, Beazley C, Montgomery SB, Dimas AS, Gutierrez-Arcelus M, et al. (
+
+) Genevar: a database and Java application for the analysis and visualization of SNP-gene associations in
+
+TL studies. Bioinformatics
+
+:

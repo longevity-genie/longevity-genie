@@ -1,0 +1,389 @@
+Functionally significant insulin-like growth factor I receptor mutations in centenarians
+
+Yousin Suh*, Gil Atzmon†, Mi-Ook Cho*, David Hwang‡, Bingrong Liu‡, Daniel J. Leahy§, Nir Barzilai†¶, and Pinchas Cohen‡
+
+Suh*, Gil Atzmon†, Mi-Ook Cho*, David Hwang‡, Bingrong Liu‡, Daniel J. Leahy§, Nir Barzilai†¶,
+
+*Departments of Medicine and Molecular Genetics, and †Institute for Aging Research, Diabetes Research and Training Center, Albert Einstein College of Medicine, Bronx, NY 10461; ‡Mattel Children’s Hospital, David Geffen School of Medicine, University of California, Los Angeles, CA 90095; and §Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD 21205
+
+Edited by Cynthia J. Kenyon, University of California, San Francisco, CA, and approved January 18, 2008 (received for review June 11, 2007)
+
+tance of this regulatory network for exceptional longevity in human populations is uncertain, especially because living to 100 years of age is a rare phenotype in humans with a prevalence of 1 in 10,000 individuals in the general population (9). Even if we adopt the premise that the basic mechanisms that modulate longevity and determine the rate of aging are common to all multicellular organisms, it is possible that the observed effects on longevity of candidate gene variants will prove to be exclusively associated with laboratory strains and may have fitness cost (10, 11). Thus, it remains to be demonstrated whether candidate loci with major effects on longevity in model organisms such as genes involved in the insulin/IGFI pathway will show segregating allelic variation in human populations.
+
+Rather than being a passive, haphazard process of wear and tear, lifespan can be modulated actively by components of the insulin/ insulin-like growth factor I (IGFI) pathway in laboratory animals. Complete or partial loss-of-function mutations in genes encoding components of the insulin/IGFI pathway result in extension of life span in yeasts, worms, flies, and mice. This remarkable conserva- tion throughout evolution suggests that altered signaling in this pathway may also influence human lifespan. On the other hand, evolutionarytradeoffspredictthatthelaboratoryfindingsmaynot be relevant to human populations, because of the high fitness cost during early life. Here, we studied the biochemical, phenotypic, and genetic variations in a cohort of Ashkenazi Jewish centenar- ians, their offspring, and offspring-matched controls and demon- strated a gender-specific increase in serum IGFI associated with a smaller stature in female offspring of centenarians. Sequence analysis of the IGF1 and IGF1 receptor (IGF1R) genes of female centenarians showed overrepresentation of heterozygous muta- tions in the IGF1R gene among centenarians relative to controls that are associated with high serum IGFI levels and reduced activity of the IGFIR as measured in transformed lymphocytes. Thus, genetic alterations in the human IGF1R that result in altered IGF signaling pathway confer an increase in susceptibility to human longevity, suggesting a role of this pathway in modulation of human lifespan.
+
+Previous studies in humans have reported on levels of IGFI and related molecules in the oldest old (12); however, interpret- ing these values was difficult because of the lack of adequate controls. To overcome this shortcoming, we established a unique cohort of individuals with exceptional longevity and their off- spring (approximate age 70 years) and age- and sex-matched controls without a family history of unusual longevity; all of Ashkenazi Jewish descent. This group of offspring of individuals with exceptional longevity and their matched controls is a powerful tool for identifying genetically controlled longevity traits and led to the identification of longevity phenotypes such as lipoprotein sizes and the subsequent discovery of correspond- ing longevity genotypes (13, 14). Here, we report the use of this unique cohort to identify partial loss-of-function mutations in the IGF1 receptor (IGF1R) gene that are overrepresented among centenarians compared with controls, suggesting a role for the IGF signaling pathway in human longevity.
+
+he role of reduced insulin/insulin-like growth factor I (IGFI) signaling in lifespan extension is well established in inverte- brates (1). During evolution, the insulin/IGFI pathways have diverged from a single receptor in invertebrates to multiple receptors and more complicated pathways and regulatory net- works in mammals (2). Insulin regulates metabolic pathways, whereas IGFI and growth hormone (GH), the main regulator of circulating IGFI, control growth and differentiation (3). In mice, knockout models of the insulin receptor (IR) pathway have a negative impact on lifespan and age-related diseases (4). In contrast, both spontaneous and targeted genetic disruptions of the GH/IGF pathway are associated with small size (dwarfism), numerous indices of delayed aging, enhanced stress resistance, and a major increase in lifespan (5), suggesting a role for the GH/IGF pathway in murine longevity. Furthermore, caloric restriction, the measure linked to life extension and retardation of aging-related pathology, is also associated with reduced circulating IGFI levels (6). On the other hand, reduced levels of IGFI in humans, while protective against cancer, constitute a risk factor for cardiovascular disease and diabetes (7). Moreover, human aging is associated with a decline in the levels of GH and IGFI, and it has been proposed that GH therapy may reverse some of the physiological features of aging (8). Therefore, at the current time, the role of IGF signaling in human longevity is far from clear.
+
+Results
+
+Height and IGFI Levels in the Offspring of Centenarians. Because plasma levels of IGFI in centenarians do not reflect their levels at a younger age, we compared the levels of IGFI in offspring of centenarians to controls without a family history of longevity to identify a potential alteration in the IGF signaling pathway, which may contribute to exceptional longevity. Remarkably, ath female offspring (n 105) showed 35% higher serum IGFI   levels (P 0.01) compared with female controls (n 67), suggesting a possible alteration in the GH/IGF pathway in the longevity of females (Fig. 1A). This phenomenon was gender-   specific, as IGFI levels in male offspring (n 92) and male
+
+Author contributions: Y.S., N.B., and P.C. designed research; G.A., M.-O.C., D.H., and B.L. performed research; G.A. and D.J.L. contributed new reagents/analytic tools; Y.S., G.A., M.-O.C., D.J.L. and P.C. analyzed data; and Y.S., G.A., N.B., and P.C. wrote the paper.
+
+Author contributions: Y.S., N.B., and P.C. designed research; G.A., M.-O.C., D.H., and performed research; G.A. and D.J.L. contributed new reagents/analytic tools; Y.S., M.-O.C., D.J.L. and P.C. analyzed data; and Y.S., G.A., N.B., and P.C. wrote the paper. The authors declare no conflict of interest. This article is a PNAS Direct Submission. Freely available online through the PNAS open access option. ¶To whom correspondence should be addressed. E-mail: barzilai@aecom.yu.edu. This article contains supporting information online at 0705467105/DC1.
+
+Despite the substantial parallels between the insulin/IGFI in invertebrates and mammals in laboratory settings, the
+
+© 2008 by The National Academy of Sciences of the USA
+
+           A = Control 0 Offspring B mControl 1 Offspring300~ * 185z 250> 175= 200 =.3 & 165 #e% 150 z= D© 100 2 15550 + 145 +Female Male Female MaleC12 D E4 R407H ControlIGFIR 8 IGF-1-(AU) induced DAT i a —4 A Phosfotal 2 «AKT ratioi0 v 0 IGF-I - *- - Sd Non-carrier Carrier Non-carrier Carrier (100ng/ml)
+
+Fig. 1. Phenotypes and chemotypes of the IGF system in the centenarian cohort. (A) Female offspring of centenarians (n   105) have higher serum IGFI levels comparedwithage-matchedfemalecontrolswithoutafamilyhistoryofunusuallongevity(n(cid:1)67).IGFIlevelsinmaleoffspring(n(cid:1)92)andmalecontrols(n(cid:1) 42) were identical. IGFI levels in serum were measured by ELISA (*, P ‘yu>< ( 0.01). Results are reported as mean   SD. (B) Female offspring are shorter than controls asmeasuredbymaximalreportedheight(**,P(cid:2)0.001).Resultsarereportedasmean(cid:4)SD.(C)Immortalizedlymphocytesfromthefemalecentenarianscarrying mutations (Carrier) in IGF1R (Ala-37–Thr, Arg-407–His, and Thr-470–Thr) show significant reductions in IGFIR levels compared with immortalized lymphocytes fromfemalecentenarianswithnomutations(Noncarrier,n(cid:1)10)asmeasuredbyELISA((cid:3),P(cid:2)0.03).(D)IGFsignalingisdefectiveintheIGF1Rmutationcarriers (Carrier)offemalecentenariansascomparedwithfemalecentenarianswithnomutations(Noncarrier,n(cid:1)10)asmeasuredbyimmunoblotanalysisoftheratio of phosphorylated to total AKT in response to IGFI treatment in immortalized lymphocytes. (E) A representative immunoblot for total and phosphorylated AKT in immortalized lymphocytes from a centenarian carrying the Arg-407–His mutation and a control centenarian without the mutation.
+
+ controls (n 42) were identical (Fig. 1A). To distinguish whether the high IGFI is caused by increased production or is a result of IGF insensitivity, we assessed maximal reported height, a necessary parameter because of the height shrinkage that occurs in the elderly. Female offspring were 2.5 cm shorter AM>< compared with controls (P 0.001), whereas the height of males was identical in offspring and controls (Fig. 1B). Thus, a likely explanation for this finding is that the higher IGFI levels represent a compensatory response to reduced IGFIR signaling, which would also be associated with a small decrease in maximal height, (although a less bioactive IGFI molecule is also a possibility). Remarkably, this combination of a female-specific effect on longevity, higher IGFI levels, with a small reduction in auxological growth, is highly reminiscent of a report on female mutant mice haploinsufficient for the IGFIR, which display nearly identical features, including gender-specific lifespan ex- tension (15).
+
+among centenarians compared with controls was statistically ene Ae significant (P 0.04). Genotyping of the offspring of the centenarian mutation carriers shows that none of the offspring harbor these rare mutations.
+
+Genotyping the IGF1RMutations in the Entire Cohort. We genotyped
+
+the entire cohort (384 centenarians and 312 controls) for the i>A presence of the two nonsynonymous mutations, i.e., 244G A yas3>A (Ala-37–Thr) and 1355G A (Arg-407–His). We found nine AMR centenarians (2.3%) who carried either the Ala-37–Thr (n 2)  or Arg-407–His (n 7) mutation, whereas only one control (0.3%) was found to be a carrier of the Arg-407–His mutation and no control carried the Ala-37–Thr mutation. These results indicate that the nonsynonymous mutations were significantly ALay more common in centenarians compared with controls (P 0.02). Of the nine centenarian carriers, IGFI levels and height were available for six carriers. When we compared the mutation achaindll nM“ carriers (n 6, 66% female) vs. noncarriers (n 163, 67% female) among centenarians, the mutation carriers had signifi- cantly higher IGFI levels (165 tly4 21 vs. 121   6 ng/ml, P   0.04) than noncarriers after adjustment for gender and age (Table 2). Although the mutation carriers were slightly shorter (162  2.8 vs. 165 Se | 0.8 cm, P   0.41) than noncarriers, this difference was not statistically significant.
+
+Screening of the IGF1and IGF1RGenes for Mutations Associated with
+
+Longevity. We comprehensively screened genomic DNA from a subset of female centenarians with heights below the mean for that population (n  79) and female controls (n   161) for all possible genetic variations throughout the coding exons and splice junctions of the IGF1 and IGF1R genes by using 2D gene scanning and DNA sequencing (Fig. 2). Remarkably, we did not find a single variation in the IGF1 gene, suggesting that the coding regions of this gene are highly conserved. In contrast, the IGF1R gene was highly polymorphic with a total of 20 sequence variants, among which 9 were previously unknown, novel vari- ants that were not reported in the various SNP databases (Table 1). Five SNPs of the nine novel variants were in a coding region. i>/ Interestingly, two nonsynonymous mutations, i.e., 244G A ae> (Ala-37–Thr) and 1355G A (Arg-407–His), and two novel wei> synonymous mutations, i.e., 1545G A (Thr-470–Thr) and ny thasS>T 4103C T (Arg-1323–Arg), were found in centenarians with short stature and elevated IGFI that were not seen in controls. The overrepresentation of the two nonsynonymous mutations
+
+Functional Studies of the Nonsynonymous Mutations Associated with
+
+Longevity. To assess the functional impact of the mutations identified in centenarians, we analyzed immortalized lympho- cytes from centenarians by using an IGFIR ELISA. Immortal- AME3>A ized lymphocytes from the two nonsynonymous, 244G A (Ala- Uaei>/ 37–Thr) and 1355G A (Arg-407–His), and one synonymous, a iei>/ 1545G A (Thr-470–Thr), mutation carriers of female cente- narians showed a significant reduction in IGFIR levels compared with lymphocytes from 10 female centenarians without the wy te<< | mutations (P 0.03) (Fig. 1C). Moreover, when treated with IGFI, lymphocytes from the centenarian mutation carriers dem- onstrated reduced phosphorylation of AKT compared with the
+
+A IGF1-1 IGF1-4 B 1355 G>A Arg 407 His 4 15.1 CGC>CAC 12 14 5 8.1 6 16 13 2.2 19 18 17 7 11 9 10 20 8.2 IGF1-2 2.1 15.2 IGF1-3 21.2 3 500 bp Size 100 bp siserohportcelE leG tneidarG gnirutaneD
+
+Fig. 2. 2D gene scanning of human IGF1 and IGF1R genes. The entire coding regions and exon–intron junctions of the IGF1 and IGF1R genes were amplified by two-step PCR. Thirty short PCR fragments were distributed in 2D gels according to their size and melting temperature. (A) A 2D gene scanning pattern from acentenariansubjectwiththefragmentidentificationnumberandahetero-duplexbandinexon8.1andexon6oftheIGF1Rgeneisshown.(B)Thenovelgenetic variation in exon 6 was identified as 1355G(cid:3)A (Arg-407–His) by nucleotide sequencing.
+
+lifespan (19). Severe short stature and extremely high IGFI levels were observed in a family with a mutation in the IGF1 gene, leading to an altered protein sequence associated with a de- creased affinity to the IGFIR (20). Interestingly, in our Ash- kenazi Jewish population, the coding region of the IGF1 gene was found to be remarkably free of any genetic variation, suggesting the possibility of selective pressure being exerted on this gene.
+
+centenarian noncarriers (Fig. 1 D and E), suggesting that these mutations lead to decreases in IGF signaling.
+
+Discussion
+
+Despite the well established role of the GH/IGF axis in modu- lation of lifespan in laboratory animals, its role in human longevity has been controversial. The identification of new nonsynonymous mutations in the IGF1R gene that result in reduced IGF signaling among centenarians suggests a similar role for this pathway in modulation of human lifespan as observed in model organisms. The centenarians with the IGF1R mutations display manifestations of elevated serum IGFI levels and a trend toward smaller height, reminiscent of the phenotypes observed in mice haploinsufficient for the IGF1R with extended lifespan (15). The centenarian mutation carriers were on average 2.5 cm shorter than nonmutation carriers, but this difference was not statistically significant (Table 2), suggesting that the impact of these mutations on height is limited, probably because of compensation via increased IGFI levels and/or other mecha- nisms. In contrast, female offspring exhibited significantly higher serum IGFI and shorter stature, possibly because of variations in other genes involved in the IGF axis that may be more common than the IGF1R mutations described here. Comprehensive anal- ysis of all genes within this axis will be required to firmly establish a role of the IGFI axis in modulation of human longevity.
+
+In contrast, we identified a diverse set of genetic alterations in the IGF1R gene in this population. Of particular interest is the enrich- ment of the variations in the coding region, especially the nonsyn- onymous mutations in centenarians compared with the control population, suggesting a contribution of multiple rare alleles lead- ing to a major phenotypic effect on human longevity in the general population (21). So far, only a few nonsynonymous IGF1R muta- tionshavebeenreportedfrompatientswithseverephenotypessuch as intrauterine growth retardation (20, 22). The prevalence of such nonsynonymous mutations in the normal population has been obscure because of the relatively low number of control individuals  studied in previous reports (n 100). Resequencing of the IGF1R gene in the Centre d’E´tude du Polymorphisme Humain cohort indicated that the Arg-407–His variation (ncbi.nlm.nih.gov/SNP/ sammiep_S pic   snp ss.cgi?subsnp id 46533818) was indeed very rare, heterozy- gocity being detected in only one individual from a total of 354 individuals. Together with our data, these results clearly demon- strate the rarity of nonsynonymous mutations among the normal population and, more importantly, its enrichment among long-lived humans.
+
+The IGF1 gene is a strong genetic determinant of body size and serum level of IGFI across mammals (16–18). In dogs, the IGF1 promotor has been shown to be the most potent determi- nant of size (17), and IGFI levels in dogs are associated with
+
+One of the two nonsynonymous mutations we identified in the IGF1R, Ala-37–Thr, is located at the edge of one of the putative
+
+n 79 n 161 Category Nucleotide change Protein change Het Hom Het Nonsynonymous 244G>A Ala-37–Thr 1 0 0 0 1355G(cid:3)A Arg-407–His 1 0 0 0 Synonymous 948C(cid:3)A Gly-271–Gly 7 0 16 0 1545G>A Thr-470–Thr 1 0 0 0 1959C(cid:3)T Asn-608–Asn 0 0 1 0 1995G>T Arg-620–Arg 0 0 1 0 2343C(cid:3)T Thr-736–Thr 3 0 2 0 2745C>T Asn-870–Asn 1 0 3 0 3174G(cid:3)A Glu-013–Glu 48 20 67 29 4083C(cid:3)T Tyr-1316–Tyr 5 0 7 0 4103C>T Arg-1323–Arg 1 0 0 0 Intronic IVS2(cid:5)20C(cid:3)T 42 8 65 12 IVS8–20T(cid:3)C 49 13 67 34 IVS13(cid:1)17G>A 1 0 2 0 IVS13(cid:5)21A(cid:3)C 47 3 62 41 IVS13(cid:5)29(cid:1)30delGT 26 1 38 3 IVS15(cid:1)49insG 1 0 0 0 IVS15(cid:1)52A>G 0 0 1 0 IVS17(cid:2)5C>T 1 0 3 0 IVS21–34G(cid:3)A 46 15 59 42
+
+Het, number of heterozygote carriers of variant; Hom, number of homozygote carriers of variant. unknown, novel variants are indicated in bold.
+
+attenuation of IGFI-induced AKT phosphorylation in the lym- phocyte of the Arg-407–His carrier suggest that this mutation also inhibits IGFIR protein activity. Mutations in the close vicinity of this residue in IR are known to contribute to insulin-resistant diabetes (29, 30). Moreover, close to Arg-407 is the DAF-2 mutation Ala-580–Thr (e1365) that leads to dauer formation at 25°C (31). Finally, it is tempting to speculate that the altered IGF signaling induced by the synonymous mutation, waii>/ 1545G A (Thr-470–Thr), may be caused by the reduction of IGFIR levels, as demonstrated in the lymphocytes from the
+
+ligand binding hot spots of the IGFIR extracellular domain in the L1 region (23). Our modeling using the crystal structure of the L1-CR1-L2 fragments of the IGFIR structure (24) shows that Ala-37 is positioned on a loop in the first L1 domain near residues that, when mutated, reduce the binding affinity of IGFI for IGFIR by 2- to 10-fold (Fig. 3, residues in pale pink) or aM 20-fold (Fig. 3, Phe-90 in red). A recently identified compound heterozygote missense mutation (22), Arg-108–Gln and Lys- 115–Asn, from a patient with intrauterine and postnatal growth retardation with features of IGF resistance is also located in this region of L1 (Fig. 3, residues in hot pink). These results suggest that the Ala-37–Thr change may affect ligand binding but to a lesser extent than the mutations that are within the IGF binding pocket. This region also coincides with residues 34–44 of the IR that are shown to be important for insulin binding (25). Align- ment of IGFIR with the IR shows that Ala-37 is just one residue away from IR Phe-39, a residue important for insulin ligand specificity (26). Ala-37 is also adjacent to a highly conserved stretch of residues beginning with Glu-44, which has important function for insulin/IR binding (27). Interestingly, IGFIR resi- dues around Ala-37 are highly conserved among distant verte- brate species, indicating that sequence variants most probably affect function.
+
+Ala37Thr Ala37Thr Arg407His Arg407His  
+
+Another mutation found in our screen, Arg-407–His, is lo- cated in the region of the L2 domain where nonsynonymous mutations display defective proreceptor processing and trans- port to the plasma membrane without reduction in ligand affinity (28). Our finding of a reduction in IGFIR levels and concomitant
+
+Table 2. Height and IGFI levels among centenarian carriers of either the Ala-37–Thr or the Arg-407–His mutation in the IGF1R gene
+
+Fig.3. ThepositionofmutatedaminoacidsintheIGFIR.Thelocationsofthe mutated amino acids are indicated in the crystallographic structure encom- passing the first three domains of the IGFIR (L1-CR-L2 fragment) (24). Color- codedresiduesarethosewhenmutatedreducethebindingaffinityofIGFIfor IGFIR by 2- to 10-fold (pale pink) or (cid:3)20-fold (red) (23) or a compound heterozygote missense mutations (hot pink) from a patient with intrauterine and postnatal growth retardation (22). Arrows indicate the locations of the mutated amino acids identified in centenarians.
+
+Carriers, Noncarriers, Variable n   6 n   163 P Height, cm 162   2.8 165   0.8 0.41 IGFI, ng/ml 165  21 121   6 0.04
+
+sample, obtain a medical history including maximal height and weight, were obtained by using a standardized questionnaire. In such visits, offspring (and participating spouses) underwent similar evaluations as scribed (13, 14, 33). All blood samples were rapidly processed at the Clinical Research Center at the Albert Einstein College of Medicine for eration of transformed lymphocytes as a source of DNA and the policy of the Committee on Clinical Investigations of the Albert College of Medicine.
+
+centenarian carrier, possibly resulting from the allele-specific differences in mRNA splicing, processing, or translational con- trol and regulation (32).
+
+This article provides strong evidence that the IGF1R can be a genetic determinant of human longevity. The role of GH/IGF pathway in human longevity is controversial because of the recognized evolutionary tradeoffs in the modulation of lifespan. Our findings suggest that ‘‘IGF-related longevity genes’’ do exist in human populations. Although these data suggest that such alterations occur in a low frequency in human centenarians, more exhaustive studies will clarify whether longevity assuring genetic factors and related phenotypes exist for other compo- nents of the GH/IGF pathway. Indeed, our results suggest that centenarians may harbor individually rare, but collectively more common, genetic variations in genes encoding components of the GH/IGF signaling pathway. Additional comprehensive stud- ies in the centenarians and their offspring may reveal other molecules within the GH/IGF pathway that are operative in human longevity.
+
+Mutation Screening of IGF1 and IGF1R. We screened genomic DNA isolated from blood of centenarians and controls to discover all possible genetic variationsinthefullcodingsequenceandintron/exonboundariesoftheIGF1 and IGF1R genes by 2D gene scanning (35). To increase specificity, PCR ampli- fication was designed in two steps. First, two multiplex long-distance PCR coamplified 12 large fragments encompassing coding and splicing junction regions of IGF1 and IGF1R. These products served as template for four multi- plex short PCRs to amplify all target regions in 30 fragments (5 fragments for IGF1and25fragmentsforIGF1R).Primersarelistedinsupportinginformation (SI) Table 3. The mixture of amplicons after heteroduplexing was then sepa- ratedonthebasisofsizeandmeltingtemperatureina2Dgel.DNAfragments containing heterozygous sequence variation were then reamplified from the genomic DNA and sequenced to identify position and nature of sequence variation.
+
+Materials and Methods
+
+PopulationandSampleCollection.Inacasecontrolstudy,AshkenaziJewswere recruited as described (13, 14, 33). This population derived from an undeter- minedsmallnumber(estimatedtobeseveralthousands)offounders.External factors, including ecclesiastical edicts prohibiting all social contact with Jews, the Crusades, the establishment of the Pale of Settlement, numerous Po- groms,andethnicbigotryresultedinthesocialisolationandinbreedingofthe Ashkenazi Jews (34). Three hundred and eighty four probands with excep- tionallongevity[286femalesand98males,averageage97.7(0.2)years(mean SE), age range 95–108 years; 20% over the age of 100] were recruited to participate in the study. The participants’ ages were defined by birth certifi- cates or dates of birth as stated on passports. Probands were required to be living independently at 95 years of age as a reflection of good health, although at the time of recruitment they could be at any institution or level of dependency. In addition, probands had to have a first-degree offspring who was willing to participate in the study. The offspring group consisted of 114femalesand174males[meanage67.8(0.46)years(meanSE),range49–88 years]. We further established a unique cohort of Ashkenazi Jewish descent withoutafamilyhistoryofunusuallongevity(approximateage70years)that servedascontrols[n(cid:1)312,meanage79.5(0.4)years(meanSE),57%female]. A research nurse visited the probands in the morning to draw a venous blood
+
+Assays for IGFI, IGFIR, and Phospho-AKT. IGFI was measured in uniformly handled serum aliquots by using an ELISA Kit from DSL according to the manufacturer’s recommendations. IGFIR was measured in immortalized lym- phocyte cell extracts with an ELISA Immunoassay Kit from BioSource Interna- tionalaccordingtothemanufacturer’srecommendations.Lymphocyteswere isolated and immortalized as described (36). To assess the ability of IGFI to activatesignaltransductionviatheIGFIR,lymphocytesfromfemalecentenar- ians harboring mutations and those without were incubated with or without IGFI(100ng/ml)for25minafterwhichtotalcellproteinwasextractedand150 (cid:1)g of cell lysates was subjected to SDS/PAGE, immunoblotting with total and phospho-AKT antibodies from Cell Signaling, and densitometry using scan- ning autoradiography. Results are reported as means   SD and as box and whiskers plots. Statistical significance was determined by using unpaired t tests.
+
+1. Kenyon C (2005) Cell 120:449–460.
+
+:
+
+–
+
+Abuzzahab MJ, Schneider A, Goddard A, Grigorescu F, Lautier C, Keller E, Kiess W, Klammt J, Kratzsch J, Osgood D, et al. (
+
+) N Engl J Med
+
+:
+
+–
+
+Whittaker J, Groth AV, Mynarcik DC, Pluzek L, Gadsboll VL, Whittaker LJ (
+
+) J Biol Chem
+
+:
+
+–
+
+Garrett TP, M
+
+ern NM, Lou M, Frenkel MJ, Bentley JD, Lovrec GO, Elleman TC, Cosgrove LJ, Ward CW (
+
+) Nature
+
+:
+
+–
+
+Williams PF, Mynarcik DC, Yu GQ, Whittaker J (
+
+) J Biol Chem
+
+:
+
+–
+
+Kjeldsen T, Wiberg FC, Andersen AS (
+
+) J Biol Chem
+
+:
+
+–
+
+Mynarci
+
+C,William
+
+F,Schaffe
+
+,Y
+
+Q,Whittake
+
+(
+
+)JBio
+
+hem
+
+:
+
+–
+
+Taylor SI, Accili D, Haft CR, Hone J, Imai Y, Levy-Toledano R, Quon MJ, Suzuki Y, Wertheimer E (
+
+) Acta Pediatr Suppl
+
+:
+
+–
+
+Roach P, Zick Y, Formisano P, Accili D, Taylor SI, Gorden P (
+
+) Diabetes
+
+:
+
+–
+
+vande
+
+or
+
+R,Kuiper
+
+,Kielkopf-Renne
+
+,Kran
+
+M,Molle
+
+,Maasse
+
+A(
+
+) J Biol Chem
+
+:
+
+–
+
+Kimura KD, Tissenbaum HA, Liu Y, Ruvkun G (
+
+) Science
+
+:
+
+–
+
+Kimchi-Sarfaty C, Oh JM, Kim IW, Sauna ZE, Calcagno AM, Ambudkar SV, Gottesman MM (
+
+) Science
+
+:
+
+–
+
+Atzmon G, Schechter C, Greiner W, Davidson D, Rennert G, Barzilai N (
+
+) J Am Geriatr Soc
+
+:
+
+–
+
+Descamps O, Hondekijn JC, Van Acker P, Deslypere JP, Heller FR (
+
+) Clin Genet
+
+:
+
+–
+
+M
+
+rat
+
+B,Bounphen
+
+,Torre
+
+,Calavett
+
+,Scot
+
+B,Su
+
+,Rine
+
+,va
+
+rsouw N, Vijg J (
+
+) Genomics
+
+:
+
+–
+
+Louie LG, King MC (
+
+) Am J Hum Genet
+
+:
+
+–
+
+2. Kenyon C (2001) Cell 105:165–168. 3. Dupont J, LeRoith D (2001) Horm Res 55(Suppl 2):22–26. 4. LeRoith D, Gavrilova O (2006) Int J Biochem Cell Biol 38:904–912. 5. Bonkowski MS, Rocha JS, Masternak MM, Al Regaiey KA, Bartke A (2006) Proc Natl
+
+6. Bartke A (2005) Endocrinology 146:3718–3723. 7. Yang J, Anzo M, Cohen P (2005) Exp Gerontol 40:867–872. 8. Vance ML (2003) N Engl J Med 348:779–780. 9. Perls T, Bochen K, Freeman M, Alpert L, Silver M (1999) Age Ageing 28:193–197. 10. Jenkins NL, McColl G, Lithgow GJ (2004) Proc Biol Soc 271:2523–2526. 11. Walker DW, McColl G, Jenkins NL, Harris J, Lithgow GJ (2000) Nature 405:296–297. 12. van Heemst D, Beekman M, Mooijaart SP, Heijmans BT, Brandt BW, Zwaan BJ,
+
+boom PE, Westendorp RG (
+
+) Aging Cell
+
+:
+
+–
+
+Atzmon G, Rincon M, Schechter CB, Shuldiner AR, Lipton RB, Bergman A, Barzilai N (
+
+) PL
+
+Biol
+
+:e
+
+Barzila
+
+,Atzmo
+
+,Schechte
+
+,Schaefe
+
+J,Cupple
+
+L,Lipto
+
+,Chen
+
+,Shuldiner AR (
+
+) J Am Med Assoc
+
+:
+
+–
+
+Holzenberge
+
+,Dupon
+
+,Duco
+
+,Leneuv
+
+,Geloe
+
+,Eve
+
+C,Cerver
+
+,L
+
+ouc Y (
+
+) Nature
+
+:
+
+–
+
+Baker J, Liu JP, Robertson EJ, Efstratiadis A (
+
+) Cell
+
+:
+
+–
+
+Sutter NB, Bustamante CD, Chase K, Gray MM, Zhao K, Zhu L, Padhukasahasram B, Karlins E, Davis S, Jones PG, et al. (
+
+) Science
+
+:
+
+–
+
+Woods KA, Camacho-Hubner C, Savage MO, Clark AJ (
+
+) N Engl J Med
+
+:
+
+–
+
+Greer KA, Canterberry SC, Murphy KE (
+
+) Res Vet Sci
+
+:
+
+–
+
+Walenkam
+
+J,Karperie
+
+,Pereir
+
+M,Hilhorst-Hofstee,Y.,va
+
+oor
+
+,Che
+
+W, Mohan S, Denley A, Forbes B, van Duyvenvoorde HA, et al. (
+
+) J Clin Endocrinol Metab
+
+:
+
+–

@@ -1,0 +1,585 @@
+) ) Association of longevity with IL-10 1082 G⁄A and TNF-a 308 G⁄A polymorphisms
+
+to genetic factors (Karasik et al., 2005). People who survived beyond 85 years old (centenarians, octogenar- ians and nonagenarians) are characterized by marked delay or escape from age-related diseases, therefore analysis of genes that modulate susceptibility to age- related diseases in these populations may provide insights into the human longevity.
+
+Summary
+
+Cytokines are crucial for the regulation of inflammation development in humans. Many studies have shown that variations in cytokine genes might play a role in determining human longevity. This study examined the changes in the gene pool relevant to the ) 308 G⁄A polymorphism in the promoter region of the proinflam- matory cytokine tumour necrosis factor (TNF)-a gene and the ) 1082 G⁄A polymorphism in the promoter region of anti-inflammatory cytokine interleukin (IL)-10 gene with aging and survival selection occurs in the Jordanian population. IL-10 ) 1028 G⁄A and TNF-a ) 308 G⁄A were genotyped in 119 randomly selected elderly subjects (41 women and 78 men) with a mean age of 90.2 years and young control subjects of 118 (46 women and 72 men) with a mean age of 31.9 years. No significant differences were found in the genotype and allele frequencies of TNF-a gene variants between the two groups (P > 0.05) while the IL-10 genotype and allele frequencies were significantly associated with longevity in men (P < 0.05) but not in women (P < 0.05). Thus, IL-10 ) 1028 G⁄A polymorphism seems to play a role in the pathway to longevity in Jordanian men.
+
+cesses that could intensify susceptibility to diseases (Krabbe et al., 2004; Griffin, 2006; et al., 2006; Sbarsi et al., 2007; Yamashina et 2007; Sansoni et al., 2008). As cytokines inflammatory status in humans, allelic variations inflammatory cytokine genes might affect human span. In fact, certain variations in cytokine genes shown to be associated with human longevity type (Cavallone et al., 2003; Scola et al., 2003, Carrieri et al., 2004; Caruso et al., 2004; et al., 2004; Franceschi et al., 2005; Candore et 2006). Tumour necrosis factor (TNF)-a and kin (IL)-10 are two cytokines with opposite in the inflammatory response. TNF-a acts nantly as a proinflammatory agent whereas IL-10 as an anti-inflammatory cytokine (Bidwell et 1999; Dinarello, 2000). Therefore, variations in levels of TNF-a and IL-10 might have an impact the inflammatory response with subsequent effect longevity. Two polymorphisms in the promoter of TNF-a (G⁄A transition at position ) 308) and ) (G⁄A transition at position 1082) are related to scriptional activity (Kroeger et al., 1997; et al., 1997; Crawley et al., 1999; Gibson et 2001; Cacev et al., 2008). Their functional is evident by the involvement in determining bility to immune-inflammatory diseases (Hajeer Hutchinson, 2000; Howell & Rose-Zerilli, 2006). addition, the IL-10 ) 1082 G⁄A and TNF-a ) 308 polymorphisms are associated with longevity in (Lio et al., 2002a, 2003; Cardelli et al., 2008)
+
+Introduction
+
+Longevity is a biological phenomenon means success- ful ageing resulting from a complex interaction between environmental and genetic factors (Kirkwood, 2005). Environmental factors include dietary habits, physical activity, smoking and health care, whereas genetic factors consist of the various loci playing key roles in body homeostasis (Dossey, 2002). Arguably, about one quarter of longevity trend can be attributed
+
+Department of Medical Laboratory Sciences, Jordan University of Science and Technology, Irbid, Jordan
+
+Therefore, the purpose of the current study is to examine the association of TNF-a and IL-10 alleles with longevity in the Jordanian population. We found that the frequency of ) 308 A is low in Jordanian pop- ulation whereas the frequency of IL-10 1082 A allele
+
+Received 24 January 2009; revised 6 May 2009; accepted 24 March 2010
+
+Correspondence: Dr Omar Khabour, Department of Medical Labora- tory Sciences, Jordan University of Science and Technology, PO Box 3030, Irbid 22110, Jordan. Tel: +962 2 7201000 ext. 23784; Fax: +962 2 7201087; E-mail: khabour@just.edu.jo
+
+) is very common. No association between 308 G⁄A TNF-a promoter SNP in our sample of Jordanian ) elderly with longevity was detected, whereas 1082 G⁄A IL-10 promoter SNP was associated with longev- ity in men but not in women.
+
+with a modified sequence which creates a restriction site for the enzyme NcoI. The primer sequences used for this assay were: forward (5¢-agg caa tag gtt ttg agg gcc at-3¢); reverse (5¢-aca ctc ccc atc ctc cct gct-3¢). PCR-RFLP was performed as follows: 100 ng of DNA was amplified in a 25 lL final volume PCR reaction containing 1X Taq Buffer, 200 l dNTPs, 1 l of M M each primer and 1 unit Taq polymerase (all PCR reagents were from Promega). PCR was completed on Brinkmann Gradient Eppendorf Mastercycler. Cycling was performed at 95 (cid:3)C for 2 min and 35 cycles at 95 (cid:3)C for 30 s, 60 (cid:3)C for 15 s, and 72 (cid:3)C for 30 s, followed by a final extension of 10 min at 72 (cid:3)C. Fol- lowing amplification, PCR product was visualized on a 2% agarose gel stained with ethidium bromide. This confirmed the presence of a 116-bp product. NcoI enzyme digestion was carried out in 20 lL final vol- ume reaction using 3 unit NcoI (Fermentas, Glen Bur- nie, MD, USA) and 10 lL of PCR product. The reactions were incubated at 37 (cid:3)C for 4 h. The diges- tive products were visualized on 4% agarose gel stained with ethidium bromide. Materials from indi- viduals homozygous for TNF-a ) 308 A allele do not cut with NcoI and remains as a 116-bp product. The homozygous TNF-a ) 308 G allele cuts with NcoI to give 96- and 20-bp fragments.
+
+Materials and methods
+
+Study population
+
+Healthy individuals >85 and between 20 and 50 years old were recruited to serve in the experimental and control groups, respectively. A total of 119 elderly and 118 young unrelated individuals from the same geo- graphical areas volunteered for the study. All subjects were asked to obtain medical clearance before partici- pation in the study, for verifications of chronic dis- eases and medications. Subjects with cardiovascular diseases, diabetes, or cognitive impairment were excluded from the study. The experimental design and the sample size are similar to most longevity studies reviewed by Glatt et al. (2007). Written informed con- sent was obtained from all participants in accordance with the requirements of the Institutional Review Boards of Jordan University of Science and Technol- ogy. An official identification document was required to participate in the study. Acceptable documents include civil ID card, birth certificate, family book, passport and military card, otherwise enrolment in the study was denied.
+
+IL-10 )1082 G⁄A genotyping
+
+) The IL-10 1082 G⁄A polymorphism was analysed by an original ARMS-PCR assay as described by Howell et al. (2001). PCR reaction was performed in a 10 lL volume containing 100 ng genomic DNA, 1 l of a M forward primer specific for either A (5¢-act act aag gcttct ttg gga a-3¢) or G (5¢-cta cta agg cttctttgggag-3¢) and a reverse primer (5¢-ctt gga tta aat tgg cct tag a- 3¢), 200 l of each dNTP, 4.8 l MgCl , and M M 2 0.25 units ThermoprimePLUS (TP) DNA polymerase (Abgene, Epsom, UK) and 1X TP polymerase reaction buffer. Also the reaction mixture contains 1 l of a M forward (5¢-tgc caa gtg gag cac cca a-3¢) and a reverse (5¢-gca tct tgc tct gtg cag at-3¢) primer specific for amplification of the internal control fragment (796 bp). PCR reaction was performed under the fol- lowing conditions: 1 min at 96 (cid:3)C, ten cycles at 96 (cid:3)C for 15 s, 65 (cid:3)C for 50 s, 72 (cid:3)C for 40 s, 20 cycles at 96 (cid:3)C for 10 s, 60 (cid:3)C for 50 s, 72 (cid:3)C for 40 s. Ampli- fication products (194 and 796 bp) were detected by ethidium bromide staining after 2% agarose gel elec- trophoresis.
+
+The experimental and control groups mean ages were 90.2 (range: 85–113 years) and 31.9 years (range: 16–50 years), respectively. The ranges were selected based on the mortality rate in the Jordanian population which stays approximately constant from childhood to late forties, then it starts gradually inclin- ing to reach maximum in late seventies (Khoury et al., 1999). Therefore, individuals who reach more than 85 years constitute a tiny fraction of the total popula- tion cohort (<1%). Men to women ratio was 1.9:1 in the elderly group and 1.6:1 in the control group (P = 0.41).
+
+DNA extraction
+
+EDTA venous blood samples (1–3 mL) were obtained from both groups. DNA was extracted from all sam- ples using Wizard DNA Extraction Kit (Promega, Madison, WI, USA) according to the manufacturer instructions. The concentration of the extracted DNA was measured using SmartSpect(cid:2)3000 (Bio-Rad, Hertfordshire, UK). DNA samples were stored at ) 20 (cid:3)C until used.
+
+Statistical analysis
+
+The genotype distributions of the studied polymor- phisms were tested in accordance with Hardy–Wein- berg equilibrium. Statistical analysis of results was performed by comparing allele, genotype, and pre- dicted phenotype distributions using the chi-squared test. If n < 5, exact Fisher test statistic was used. The
+
+TNF-a )308 G⁄A genotyping
+
+TNF-a ) 308 G⁄A polymorphism was typed by restric- tion fragment length polymorphism (RFLP) according to Garnacho-Montero et al. (2006), using a primer
+
+Table 2. Functional IL-10⁄TNF-a genotypes and longevity in the elderly and control subjects
+
+test power was calculated using Power and Sample size calculation program (PS version 3.0.1; Vanderbilt University Medical Center, Nashville, TN, USA). For all analysis, the power was more than 80%. The SPSS 15.0 statistical software package (SPSS Inc., Chicago, IL, USA) was used for all statistical evaluations. P-val- ues of <0.05 were considered significant.
+
+Controls Elderly Combined Functional group group TNF-a⁄IL-10 genotypes N (%) N (%) TNF-a GG⁄IL-10 Low⁄low 91 (77.1) 93 (78.2) 0.814 (AA⁄AG) TNF-a GG⁄ Low⁄high 6 (5.1) 3 (2.5) IL-10 GG TNF-a (AA⁄AG)⁄ High⁄high 1 (0.8) 1 (0.8) IL-10 GG TNF-a (AA⁄AG)⁄ High⁄low 20 (16.9) 22 (18.5) IL-10 (AA⁄AG)
+
+Results
+
+Table 1 shows the frequency of homozygous and het- ) erozygous genotypes for 1082 G⁄A IL-10 promoter SNP and for ) 308 G⁄A TNF-a promoter SNP in the experimental and control groups. No differences in the genotype frequencies of the IL-10 promoter SNP (Fish- er’s exact, P = 0.384) and the frequency of IL-10 G allele to A allele were found between the groups (Fish- er’s exact, P = 0.225). Similarly, ) 308 G⁄A TNF-a promoter SNP were not different between the groups (Fisher’s exacts; for genotype frequencies: P = 0.828 and for allele frequencies: P = 1.000).
+
+effect of these polymorphisms on longevity was sepa- rately investigated in men and women between the groups. Genotype frequency and allele frequency for ) 1082 G⁄A IL-10 promoter SNP were different between the groups in men (Fisher’s exact, P < 0.05, Table 3) but not in women (Fisher’s exact, P > 0.05, Table 4). On the other hand, no significant difference was found between the experimental and control groups when gender was considered in the TNF-a ) 308 G⁄A polymorphisms (Fisher’s exact, men: P > 0.05, Table 3, and women: P > 0.05, Table 4).
+
+As far as cytokine production is concerned, the ) ) 1082 G⁄A IL-10 promoter SNP and the 308 G⁄A TNF-a promoter SNP considered are functionally important. Low production of IL-10 occurs in the presence of 1082 A allele (Turner et al., 1997; Cacev et al., 2008) while high production of TNF-a occurs ) in the presence of 308A allele (Makhatadze, 1998). Thus, the experimental and control groups were divided into four categories based on the expression levels of TNF-a and IL-10 as shown in Table 2 to examine the cytokine gene polymorphisms in combina- tion (i.e. certain haplotypes could account for one part of the genetic component of longevity). Still, no differ- ence in the distribution of the ‘functional’ genotypes between the elderly and control subjects (Fisher’s exact, P > 0.05).
+
+Discussion
+
+Interleukin 10 and TNF-a are cytokines, which have primarily opposing roles in the inflammatory reaction. IL-10 is an anti-inflammatory cytokine whereas TNF-a is a pro-inflammatory cytokine (Makhatadze, 1998; Moore et al., 2001; Koh et al., 2008). Differences in the regulation of IL-10 and TNF-a production may be critical with respect to the final outcome of an inflam- matory response. Production of these cytokines is ) largely controlled by 1082 G⁄A promoter SNP and ) 308 G⁄A promoter SNPs respectively (Turner et al., 1997; Cacev et al., 2008; Turner et al., 1997;
+
+Additionally, some reports have shown that IL-10 ) 1082 G⁄A modulates longevity differently in men and women (Lio et al., 2002a, 2003). Therefore, the
+
+Table 1. Frequencies of IL-10 and TNF-a alleles and genotypes in elderly and control groups
+
+Table 3. Frequencies of IL-10 and TNF-a alleles and genotypes in elderly and control men subjects
+
+Genotypes Control group Elderly group and alleles N (%) N (%) P-value )1082 IL-10a AA 50 (42.5) 60 (50.4) AG 61 (51.7) 55 (46.2) 0.384 GG 7 (5.9) 4 (3.4) 0.225 Allele A 161 (68.2) 175 (73.5) Allele G 75 (31.8) 63 (26.5) )308 TNF-aa AA 3 (2.5) 2 (1.7) AG 18 (15.3) 21 (17.6) 0.828 GG 97 (82.2) 96 (80.7) 1.000 Allele A 24 (10.2) 25 (10.5) Allele G 212 (89.8) 213 (89.5)
+
+Control Elderly Genotypes men group men group and alleles N (%) N (%) P-value )1082 IL-10 AA 26 (36.1) 43 (55.1) AG 41 (56.9) 33 (42.3) GG 5 (6.9) 2 (2.6) 0.045 Allele A 93 (64.6) 119 (76.3) Allele G 51 (35.4) 37 (23.7) 0.031 )308 TNF-a AA 0 (0) 1 (1.3) AG 12 (16.7) 13 (16.7) GG 60 (83.3) 64 (82.1) 1.00 Allele A 12 (8.3) 15 (9.6) Allele G 132 (91.7) 141 (90.4) 0.840
+
+aAll groups were in Hardy–Weinberg equilibrium (P > 0.05).
+
+tion (Wang et al., 2001) and in the Sardinian popula- tion (Pes et al., 2004). Thus, cytokine⁄longevity associations might have a population specific compo- nent, being affected by the population specific gene pool as well as by gene-environment interaction. In this study, we examined the effect of these polymor- phisms on the genetic components of longevity in the Jordanian population.
+
+Table 4. Frequencies of IL-10 and TNF-a alleles and genotypes in elderly and control women subjects
+
+Control Elderly Genotypes women group women group and alleles N (%) N (%) P-value )1082 IL-10 AA 24 (52.2) 17 (41.5) AG 20 (43.5) 22 (53.7) GG 2 (4.3) 2 (4.9) 0.617 Allele A 68 (73.9) 56 (68.3) Allele G 24 (26.1) 26 (31.7) 0.502 )308 TNF-a AA 3 (6.5) 1 (2.4) AG 6 (13) 8 (19.5) GG 37 (80.4) 32 (78) 0.587 Allele A 12 (13) 10 (12) Allele G 80 (87) 72 (87.8) 1.000
+
+The average age of the current study participants (i.e. 90.2 years) is usually considered oldest old. In Jordan, the mortality rate starts inclining exponentially at 50 years old reaching maximum level in the seven- ties indicating reaching above 85 years old is a rarity (Khoury et al., 1999). Therefore, oldest old people are considered exceptional individuals in Jordan as cente- narians in the Western populations with higher life expectancies.
+
+One of the limitations of this study was the lack of data regarding plasma levels of IL-10 and TNF-a, but the functional relevance of the polymorphisms studied is well documented, as presented in the above discus- sion. In addition, other polymorphisms might be pres- ent in the promoter region of these cytokines in the Jordanian population that potentially modulate the effect of the studied polymorphisms. Therefore, screen- ing for the presence of these modifier polymorphisms in addition to direct measurements of the plasma level IL-10 and TNF-a is warranted in future studies.
+
+Makhatadze, 1998; Cacev et al., 2008). In this study, we asked whether or not these cytokine gene polymor- phisms could account for one part of the genetic com- ponent of longevity in Jordanian population.
+
+The data showed that no statistically significant dif- ferences were found between the elderly and controls by comparing genotype distributions and allele fre- quencies of ) 1082 G⁄A IL-10 promoter and the ) 308 G⁄A TNF-a promoter SNPs. However, when gender ) was considered, the 1082 G⁄A IL-10 genotype and allele frequencies were significantly associated with longevity in men but not in women. This result is con- sistent with previous observations by Lio et al. (2003) on the Italian population. Gender has been shown to be a major variable in the genetics of longevity in dif- ferent populations. For example, Adiponectin, peroxi- some proliferator-activated receptor (PPAR)gamma-2, IL-6 and Tyrosine Hydroxylase gene have been shown to be associated with longevity in men but not in women (Bonafe et al., 2001; De Luca et al., 2001; Barbieri et al., 2004; Atzmon et al., 2008). On the other hand, haemochromatosis, interferon-gamma and Apo C-I gene polymorphisms are associated with lon- gevity in women, but not in men (Galinsky et al., 1997; Lio et al., 2002a,c, 2003). This indicates that men and women might follow different pathways to longevity. The mechanisms that explain the gender effect on the pathway to longevity are still not known, however, gender differences in hormonal signalling pathways, immunity response, detoxification mecha- nisms and oxidative damage tolerance might account
+
+Conclusion
+
+This is the first report to investigate association of genetic loci and longevity in an Arabic population. The results of this study indicate that IL-10 ) 1082 G⁄A promoter polymorphism plays a role in men but not in women longevity whereas TNF-a ) 308 G⁄A promoter polymorphism plays no significant role in both men and women longevity in Jordanian popula- tion.
+
+Acknowledgements
+
+This work has been carried out with funds from the Faculty of Scientific Research in Jordan University of Science and Technology grant number 182⁄2007 to O. K. The authors thank Dr M. Al-Omari for his com- ments on the manuscript, and Mr E. S. Abdelhalim and Mr A. Abu-Wardeh for their technical help in the study.
+
+References
+
+Many studies have reported that IL-10 and TNF-a promoter polymorphisms either being or not associ- ated with human longevity. Positive association of these polymorphism has been reported in the Italian and Bulgarian populations (Lio et al., 2002a,b; Naumova et al., 2004; Lee et al., 2005; Cardelli et al., 2008) whereas negative association with these polymorphisms has been reported in Finnish popula-
+
+Atzmon, G., Pollin, T.I., Crandall, J., Tanner, K., Schechter, C.B., Scherer, P.E. et al. (
+
+) Adiponectin levels and geno- type: a potential regulator of life span in humans. Journals of Gerontology Series A: Biological Sciences and Medical ences,
+
+,
+
+Barbieri, M., Bonafe`, M., Rizzo, M.R., Ragno, E., Olivieri, F., Marchegiani, F., Franceschi, C. & Paolisso, G. (
+
+) Gender
+
+at risk for atherosclerosis or to reach successful ageing. Experi- mental Gerontology,
+
+,
+
+Gibson, A.W., Edberg, J.C., Wu, J., Westendorp, R.G., Huizinga, T.W. & Kimberly, R.P. (
+
+) Novel single nucleotide poly- morphisms in the distal IL-
+
+promoter affect IL-
+
+produc- tion and enhance the risk of systemic lupus erythematosus. Journal of Immunology,
+
+,
+
+Glatt, S.J., Chayavichitsilp, P., Depp, C., Schork, N.J. & Jeste, D.V. (
+
+) Successful aging: from phenotype to genotype. Biological Psychiatry,
+
+,
+
+Griffin, W.S. (
+
+) Inflammation and neurodegenerative dis- eases. American Journal of Clinical Nutrition,
+
+,
+
+S. Hajeer, A.H. & Hutchinson, I.V. (
+
+) TNF-alpha gene poly- morphism: clinical and biological implications. Microscopic Research Technology,
+
+,
+
+Howell, W.M. & Rose-Zerilli, M.J. (
+
+) Interleukin-
+
+poly- morphisms, cancer susceptibility and prognosis. Familial Can- cer,
+
+,
+
+Howell, W.M., Turner, S.J., Bateman, A.C. & Theaker, J.M. (
+
+) IL-
+
+promoter polymorphisms influence tumour devel- opment in cutaneous malignant melanoma. Genes and Immu- nity,
+
+,
+
+Karasik, D., Demissie, S., Cupples, L.A. & Kiel, D.P. (
+
+) Dis- entangling the genetic determinants of human aging: biological age as an alternative to the use of survival measures. Journal of Gerontology A: Biological Sciences and Medical Sciences,
+
+,
+
+Khoury, S.A., Massad, D. & Fardous, T. (
+
+) Mortality and causes of death in Jordan
+
+-
+
+: assessment by verbal autopsy. Bulletin of World Health Organization,
+
+,
+
+Kirkwood, T.B. (
+
+) Time of our lives. What controls the length of life? EMBO Reports,
+
+, S
+
+Koh, K.B., Lee, Y.J., Beyn, K.M., Chu, S.H. & Kim, D.M. (
+
+) Counter-stress effects of relaxation on proinflammatory and anti-inflammatory cytokines. Brain, Behavior, and Immu- nity,
+
+,
+
+Krabbe, K.S., Pedersen, M. & Bruunsgaard, H. (
+
+) Inflamma- tory mediators in the elderly. Experimental Gerontology,
+
+,
+
+Kroeger, K.M., Carville, K.S. & Abraham, L.J. (
+
+) The -
+
+tumor necrosis factor-alpha promoter polymorphism effects transcription. Molecular Immunology,
+
+,
+
+Lee, J.Y., Kim, H.Y., Kim, K.H., Kim, S.M., Jang, M.K., Park, J.Y., Lee, J.H., Kim, J.H. & Yoo, J.Y. (
+
+) Association of polymorphism of IL-
+
+and TNF-A genes with gastric cancer in Korea. Cancer Letter,
+
+,
+
+Lio, D., Scola, L., Crivello, A., Bonafe, M., Franceschi, C.,
+
+Bidwell, J., Keen, L., Gallagher, G., Kimberly, R., Huizinga, T., M
+
+ermott, M.F. et al. (
+
+) Cytokine gene polymorphism in human disease: on-line databases. Genes and Immunity,
+
+,
+
+Bonafe, M., Olivieri, F., Cavallone, L., Giovagnetti, S., Mayegi- ani, F., Cardelli, M. et al. (
+
+) A gender-dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. European Journal of Immunology,
+
+,
+
+Cacev, T., Radosevic, S., Krizanac, S. & Kapitanovic, S. (
+
+) Influence of interleukin-
+
+and interleukin-
+
+on sporadic colon cancer development and progression. Carcinogenesis,
+
+,
+
+Candore, G., Aquino, A., Balistreri, C.R., Bulati, M., Di Carlo, D., Grimaldi, M.P. et al. (
+
+) Inflammation, longevity, and cardiovascular diseases: role of polymorphisms of TLR
+
+Annals of New York Academy of Science,
+
+,
+
+Cardelli, M., Cavallone, L., Marchegiani, F., Oliveri, F., Dato, S., Montesanto, A., Lescai, F., Lisa, R., De Benedictis, G. & Franceschi, C. (
+
+) A genetic-demographic approach reveals male-specific association between survival and tumor necrosis factor (A⁄G)-
+
+polymorphism. Journals of Gerontology Ser- ies A: Biological Sciences and Medical Sciences,
+
+,
+
+Carrieri, G., Marzi, E., Olivieri, F., Marchegiani, F., Cavallone, L., Cardelli, M. et al. (
+
+) The G⁄C
+
+polymorphism of transforming growth factor beta
+
+is associated with human longevity: a study in Italian centenarians. Aging Cell,
+
+,
+
+Caruso, C., Lio, D., Cavallone, L. & Franceschi, C. (
+
+) Aging, longevity, inflammation, and cancer. Annals of New York Academy of Science,
+
+,
+
+Cavallone, L., Bonafe, M., Olivieri, F., Cardelli, M., Marchegi- ani, F., Giovagnetti, S. et al. (
+
+) The role of IL-
+
+gene clus- ter in longevity: a study in Italian population. Mechanisms of Ageing and Development,
+
+,
+
+Crawley, E., Kay, R., Sillibourne, J., Patel, P., Hutchinson, I. & Woo, P. (
+
+) Polymorphic haplotypes of the interleukin-
+
+¢ flanking region determine variable interleukin-
+
+transcrip- tion and are associated with particular phenotypes of juvenile rheumatoid arthritis. Arthritis Rheumatology,
+
+,
+
+De Luca, M., Rose, G., Bonafe`, M., Garasto, S., Greco, V., Weir, B.S., Franceschi, C. & De Benedictis, G. (
+
+) Sex-specific longevity associations defined by Tyrosine Hydroxylase-Insu- lin-Insulin Growth Factor
+
+haplotypes on the
+
+p
+
+chro- mosomal region. Experimental Gerontology,
+
+,
+
+Dinarello, C.A. (
+
+) Proinflammatory cytokines. Chest,
+
+,
+
+Dossey, L. (
+
+) Longevity. Alternative Therapies in Health and Medicine,
+
+,
+
+Franceschi, C., Olivieri, F., Marchegiani, F., Cardelli, M., Caval- lone, L., Capri, M. et al. (
+
+) Genes involved in immune response⁄inflammation, IGF
+
+⁄insulin pathway and response to oxidative stress play a major role in the genetics of human lon- gevity: the lesson of centenarians. Mechanisms of Ageing and Development,
+
+,
+
+Galinsky, D., Tysoe, C., Brayne, C.E., Easton, D.F., Huppert, F.A., Dening, T.R., Paykel, E.S. & Rubinsztein, D.C. (
+
+) Analysis of the apo E⁄apo C-I, angiotensin converting enzyme and methylenetetrahydrofolate reductase genes as candidates affecting human longevity. Atherosclerosis,
+
+,
+
+Garnacho-Montero, J., Aldabo-Pallas, T., Garnacho-Montero, C., Cayuela, A., Jimenez, R., Barroso, S. & Ortiz-Leyba, C. (
+
+) Timing of adequate antibiotic therapy is a greater determinant of outcome than are TNF and IL-
+
+polymor- phisms in patients with sepsis. Critical Care,
+
+, R
+
+Giacconi, R., Cipriano, C., Albanese, F., Boccoli, G., Saba, V., Olivieri, F., Franceschi, C. & Mocchegiani, E. (
+
+) The
+
+entangling the genetic determinants of human aging: age as an alternative to the use of survival measures. Journal of Gerontology A: Biological Sciences and Medical
+
+,
+
+Khoury, S.A., Massad, D. & Fardous, T. (
+
+) Mortality and causes of death in Jordan
+
+-
+
+: assessment by verbal autopsy. Bulletin of World Health Organization,
+
+,
+
+Kirkwood, T.B. (
+
+) Time of our lives. What controls the length of life? EMBO Reports,
+
+, S
+
+Koh, K.B., Lee, Y.J., Beyn, K.M., Chu, S.H. & Kim, D.M. (
+
+) Counter-stress effects of relaxation on and anti-inflammatory cytokines. Brain, Behavior, and Immu- nity,
+
+,
+
+Krabbe, K.S., Pedersen, M. & Bruunsgaard, H. (
+
+) tory mediators in the elderly. Experimental Gerontology,
+
+,
+
+Kroeger, K.M., Carville, K.S. & Abraham, L.J. (
+
+) The -
+
+tumor necrosis factor-alpha promoter polymorphism effects transcription. Molecular Immunology,
+
+,
+
+Lee, J.Y., Kim, H.Y., Kim, K.H., Kim, S.M., Jang, M.K., Park, J.Y., Lee, J.H., Kim, J.H. & Yoo, J.Y. (
+
+) Association of polymorphism of IL-
+
+and TNF-A genes with gastric cancer in Korea. Cancer Letter,
+
+,
+
+Lio, D., Scola, L., Crivello, A., Bonafe, M., Franceschi, C., Olivieri, F., Colonna-Romano, G., Candore, G. & Caruso, C. (
+
+a) Allele frequencies of +
+
+T fi A single nucleotide polymorphism at the first intron of interferon-gamma gene in a group of Italian centenarians. Experimental Gerontology,
+
+,
+
+Lio, D., Scola, L., Crivello, A., Colonna-Romano, G., Candore, Bonafe, M., Cavallone, L., Franceschi, C. & Caruso, C. Gender-specific association between -
+
+IL-
+
+promoter morphism and longevity. Genes and Immunity,
+
+,
+
+Lio, D., Balistreri, C.R., Colonna-Romano, G., Motta, M., Franceschi, C., Malaguarnera, M., Candore, G. & Caruso, C. (
+
+c) Association between the MHC class I gene HFE poly- morphisms and longevity: a study in Sicilian population. and Immunity,
+
+,
+
+Lio, D., Scola, L., Crivello, A., Colonna-Romano, G., G., Bonafe, M. et al. (
+
+) Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-
+
+-
+
+promoter SNP and its interaction with TNF- alpha -
+
+promoter SNP. Journal of Medical Genetics,
+
+,
+
+B.S., Franceschi, C. & De Benedictis, G. (
+
+) Sex-specific longevity associations defined by Tyrosine Hydroxylase-Insu- lin-Insulin Growth Factor
+
+haplotypes on the
+
+p
+
+chro- mosomal region. Experimental Gerontology,
+
+,
+
+Dinarello, C.A. (
+
+) Proinflammatory cytokines. Chest,
+
+,
+
+Dossey, L. (
+
+) Longevity. Alternative Therapies in Health and Medicine,
+
+,
+
+Franceschi, C., Olivieri, F., Marchegiani, F., Cardelli, M., Caval- lone, L., Capri, M. et al. (
+
+) Genes involved in immune response⁄inflammation, IGF
+
+⁄insulin pathway and response to oxidative stress play a major role in the genetics of human lon- gevity: the lesson of centenarians. Mechanisms of Ageing and Development,
+
+,
+
+Galinsky, D., Tysoe, C., Brayne, C.E., Easton, D.F., Huppert, F.A., Dening, T.R., Paykel, E.S. & Rubinsztein, D.C. (
+
+) Analysis of the apo E⁄apo C-I, angiotensin converting enzyme and methylenetetrahydrofolate reductase genes as candidates affecting human longevity. Atherosclerosis,
+
+,
+
+Garnacho-Montero, J., Aldabo-Pallas, T., Garnacho-Montero, C., Cayuela, A., Jimenez, R., Barroso, S. & Ortiz-Leyba, C. (
+
+) Timing of adequate antibiotic therapy is a greater determinant of outcome than are TNF and IL-
+
+polymor- phisms in patients with sepsis. Critical Care,
+
+, R
+
+Giacconi, R., Cipriano, C., Albanese, F., Boccoli, G., Saba, V., Olivieri, F., Franceschi, C. & Mocchegiani, E. (
+
+) The
+
+(
+
+) IL-
+
+and TNF-alpha polymorphisms in a sample of Sicilian patients affected by tuberculosis: implication for ageing and life span expectancy. Mechanisms of Ageing and Development,
+
+,
+
+Scola, L., Candore, G., Colonna-Romano, G., Crivello, A., Forte, G.I., Paolisso, G., Franceschi, C., Lio, D. & Caruso, C. (
+
+) Study of the association with -
+
+T⁄G IL-
+
+in a population of centenarians from centre and south Italy. Biogerontology,
+
+,
+
+Turner, D.M., Williams, D.M., Sankaran, D., Lazarus, M., Sinnott, P.J. & Hutchinson, I.V. (
+
+) An investigation of polymorphism in the interleukin-
+
+gene promoter. European Journal of Immunogenetics,
+
+,
+
+Wang, X.Y., Hurme, M., Jylha, M. & Hervonen, A. (
+
+) Lack of association between human longevity and polymorphisms of IL-
+
+cluster, IL-
+
+, IL-
+
+and TNF-alpha genes in Finnish nonagenarians. Mechanisms of Ageing and Development,
+
+,
+
+Wilson, A.G., Symons, J.A., M
+
+owell, T.L., M
+
+evitt, H.O. & Duff, G.W. (
+
+) Effects of a polymorphism in the human tumor necrosis factor alpha promoter on transcriptional activa- tion. Proceedings of the National Academy of Sciences USA,
+
+,
+
+Yamashina, M., Kaneko, Y., Maesawa, C., Kajiwara, T., Ishii, M., Fujiwara, F. et al. (
+
+) Association of TNF-alpha gene promoter C-
+
+T polymorphism with higher serum LDL cho- lesterol levels and carotid plaque formation in Japanese patients with type
+
+diabetes. Tohoku Journal of Experimental Medicine,
+
+,
+
+Makhatadze, N.J. (
+
+) Tumor necrosis factor locus: genetic organisation and biological implications. Human Immunology,
+
+,
+
+May, R.C. (
+
+) Gender, immunity and the regulation of long- evity. Bioessays,
+
+,
+
+Moore, K.W., de Waal Malefyt, R., Coffman, R.L. & O’Garra, A. (
+
+) Interleukin-
+
+and the interleukin-
+
+receptor. Annual Review of Immunology,
+
+,
+
+Naumova, E., Mihaylova, A., Ivanova, M., Michailova, S., Penkova, K. & Baltadjieva, D. (
+
+) Immunological markers contributing to successful aging in Bulgarians. Experimental Gerontology,
+
+,
+
+Pes, G.M., Lio, D., Carru, C., Deiana, L., Baggio, G., Franceschi, C. et al. (
+
+) Association between longevity and cytokine gene polymorphisms. A study in Sardinian centenarians. Aging Clinical and Experimental Research,
+
+,
+
+Salvioli, S., Olivieri, F., Marchegiani, F., Cardelli, M., Santoro, A., Bellavista, E. et al. (
+
+) Genes, ageing and longevity in humans: problems, advantages and perspectives. Free Radical Research,
+
+,
+
+Sansoni, P., Vescovini, R., Fagnoni, F., Biasini, C., Zanni, F., Zanlari, L. et al. (
+
+) The immune system in extreme lon- gevity. Experimental Gerontology,
+
+,
+
+Sbarsi, I., Falcone, C., Boiocchi, C., Campo, I., Zorzetto, M., De Silvestri, A. & Cuccia, M. (
+
+) Inflammation and athero- sclerosis: the role of TNF and TNF receptors polymorphisms in coronary artery disease. International Journal of thology and Pharmacology,
+
+,
+
+Scola, L., Crivello, A., Marino, V., Gioia, V., Serauto, A., Candore, G., Colonna-Romano, G., Caruso, C. & Lio, D.

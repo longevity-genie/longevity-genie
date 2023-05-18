@@ -1,0 +1,591 @@
+Contents lists available at ScienceDirect Experimental Gerontology journal homepage: www.elsevier.com/locate/expgero  ExperimentalGerontology    
+
+journal homepage: www.elsevier.com/locate/expgero
+
+Absence of association between mitochondrial DNA C150T polymorphism and longevity in a Han Chinese population
+
+Hui Pan a,b,c, Qing-peng Kong a,b, Yao-ting Cheng a,b,c, Shi-gang Lian d, Juan Yang d, Shou-jun Gao e, ⁎ Liang-you Xu e, Ya-ping Zhang a,b,
+
+a State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming 650223, China b Laboratory for Conservation and Utilization of Bio-resource, Yunnan University, Kunming 650091, China c Graduate University of the Chinese Academy of Sciences, Beijing 100049, China d People’s Hospital of Dujiangyan City, Dujiangyan 611830, China e Dujiangyan Longevity Research Centre, Dujiangyan 611830, China
+
+
+
+Human longevity has been associated with mitochondrial DNA (mtDNA) coding region polymorphisms, as well as the C150T polymorphism in the non-coding region in previous studies especially in Europeans. This study investigated the potential association between the mtDNA C150T polymorphism and longevity in a Han Chinese population. Leukocyte mtDNAs from two groups of a Han Chinese population living in Dujiangyan city of Sichuan province, including 556 longevous individuals (90–108 years-old) and 403 unrelated controls, were analyzed and mtDNA haplogroups were determined by sequencing control regions and restriction fragment length polymorphisms (RFLPs) in coding regions. Our results did not show a universal association between the mitochondrial C150T polymorphism and longevity in this population. Even when mtDNA haplogroups defined by C150T and gender were taken into account, there was no significant association with longevity. In conclusion, the mtDNA C150T polymorphism could not present an accumulation in an elderly Han Chinese population. Previous association studies might have been influenced by nuclear DNA and/or environment factors.
+
+© 2011 Elsevier Inc. All rights reserved.
+
+1. Introduction
+
+been published in this area based on different populations. These paradoxical findings have motivated broader investigations for the purpose of clarifying whether the C150T mutation does contribute to human longevity and whether the association is universal to all populations or unique to particular ethnic groups. Most studies so far have focused on European populations or their derivatives, including Italian (Dato et al., 2004; De Benedictis et al., 1999; Rose et al., 2007), Finnish (Niemi et al., 2003, 2005), Irish (Ross et al., 2001), Spanish (Dominguez-Garrido et al., 2009)and Ashkenazi Jewish populations (Iwata et al., 2007). In addition, populations from Japan (Niemi et al., 2005) and from Xinjiang province in China (Ren et al., 2008) have been investigated, however, the former study was limited by its small sample size and the latter was limited to Uygur subjects. To our knowledge, no previous study has investigated the putative associ- ation between the C150T mutation and longevity in a Han Chinese population, which is the largest ethnic group in the world.
+
+The relationship between the human ageing process and mito- chondrial DNA (mtDNA) changes, including germ-line point muta- tions, somatic point mutations, and fragment deletions, has been intensely investigated over the last decade. One of the most controversial associations reported is that of human longevity with a C150T mutation on mtDNA. An early report of mtDNA haplogroup J enrichment in elderly people focused on male centenarians of northern Italy (De Benedictis et al., 1999). Subsequently, the C150T mutation defining haplogroup J2 was revealed to be the true factor associated with longevity (Niemi et al., 2003). At the same time, an analysis of nascent heavy mtDNA strands revealed a new origin of replication at position 149, substituting for that at position 151, only in cell samples carrying the C150T mutation (Zhang et al., 2003). Indeed, a number of studies with positive or negative results have
+
+We set out to explore the possible association between the mtDNA C150T polymorphism and longevity in Han Chinese subjects living in Dujiangyan city in Sichuan province, China. Dujiangyan city is renowned for having a longevous population in China, with a frequency of centenarians of more than 0.01% as indexed in the 5th National Census in China in 2000. Such a population is ideal to detect possible relations between mtDNA mutations and longevity.
+
+⁎ Corresponding author at: State Key Laboratory of Genetic Resources and Evolution, KunmingInstituteofZoology,ChineseAcademyofSciences,Kunming,Yunnan,650223, China. Tel.: +86 871 519 9030; fax: +86 871 519 5430.
+
+0531-5565/$ – see front matter © 2011 Elsevier Inc. All rights reserved. doi:10.1016/j.exger.2011.01.003
+
+frequency differences between the two populations studied. Cross- tab's chi-square test as well as Fisher's exact test (the p-value was two tailed) were also performed in comparisons of total C150T mutation frequencies and dipartite rates in terms of specific haplogroups and gender. P-values were corrected for multiple comparison by Bonfer- roni analysis (required significance level=0.05/number of compar- isons), leading to a new required significance level of b0.003(number of comparisons=15).
+
+2. Materials and methods
+
+2.1. Subjects
+
+A total of 556 unrelated longevous individuals (202 males and 354 females aged 90–108 years) and 403 unrelated controls (204 males and 199 females aged 22–73 years) were recruited from Dujiangyan city and self-identified as being Han Chinese (Table 1). The ages of elderly subjects were authenticated by both official certification and the accounts of their offspring and other elderly neighbors. Written informed consents were obtained from all participants, and a clear explanation of the possible risks of the study had been provided. This research was approved by the Ethics Committee on Human Experimentation of the Kunming Institute of Zoology, Chinese Academy of Sciences, and the relevant bodies in Dujiangyan city. The study was performed in accordance with the tenets of the Declaration of Helsinki for research involving human subjects.
+
+3. Results
+
+In this study, mtDNA C150T mutation frequency in the longevous group 124/556 (22.30%) was not significantly different compared to control group 89/403 (22.08%; p=0.936) (Table 2). In the East Asian mtDNA phylogeny tree, haplogroups B4c1b, B4c1c, B6, D4b2b2, D5, G1a1, G1a2, G3a1, M7b and N9a have C150T as one of their definition motifs (Kong et al., 2006). In addition, three of the ten haplogroups: D5, M7b and N9a have comparatively higher frequencies than the remaining seven haplogroups in Han Chinese populations. Therefore, we divided all the samples bearing C150T mutations into four subgroups: the D5, M7b, N9a haplogroups mentioned above and “other”. No significant difference between longevous group and control group was discovered in any of these four subgroups. Additionally, of the entire 64 samples that fell under the “other” category, more than half could be attributed into the remaining seven haplogroups, which meant that less than 15% of the C150T mutations were not regarded as mtDNA haplogroup definition motifs. Namely, these C150T carriers didn't belong to any of the ten haplogroups mentioned above (data not shown). Meanwhile, when stratified by gender, the results are the same as haplogroup results and no significance was found as well.
+
+2.2. Genotyping
+
+DNA extraction from white blood cells in whole blood was done following the standard phenol/chloroform method (Sambrook et al., 1989). Fragments of the mtDNA control region from 16000-408 in the Cambridge sequence (Anderson et al., 1981) were amplified and sequenced on an ABI 3700 (AppliedBiosystems, Foster City, CA) using the methods described by Yao et al. (2003). Haplogroups were defined on the basis of coding region RFLPs (as described by Yao et al. (2002a)) and control region polymorphisms in terms of the updated East Asian mtDNA phylogeny tree (Kong et al., 2006).
+
+2.3. Statistical analysis
+
+Table 2 also highlights the distribution of the mtDNA C150T mutation, taking both haplogroup and gender into account. Neither male nor female samples showed significant higher prevalence of
+
+Statistical analyses were carried out using SPSS version 17.0. Pearson's chi-square was used in order to evaluate overall haplogroup
+
+Table 1
+
+Demographic parameters of the subjects in this study.
+
+Group N (male/female) Age (mean±SD, years) Ethnicity Range of age (years) Longevous 556 (202/354) 94.59±3.34 Han 90-108 Control 403 (204/199) 56.24±7.81 Han 22-73
+
+Table 2
+
+Frequencies of subjects with the mtDNA C150T mutation in longevous group and control group.
+
+Longevous Control p-value Fisher's exact sig. (2-sided) n % n % All All haplogroups 124 22.30 89 22.08 0.936 1.000 Haplogroup D5 35 6.29 17 4.22 0.161 0.194 Haplogroup M7b 34 6.12 31 7.69 0.338 0.364 Haplogroup N9a 18 3.24 14 3.47 0.840 0.857 Other haplogroups 37 6.65 27 6.70 0.978 1.000 Males All haplogroups 36 17.82 46 22.55 0.236 0.266 Haplogroup D5 11 5.45 8 3.92 0.467 0.491 Haplogroup M7b 11 5.45 17 8.33 0.251 0.328 Haplogroup N9a 2 0.99 10 4.90 0.020 0.036 Other haplogroups 12 5.94 11 5.39 0.811 0.833 Females All haplogroups 88 24.86 43 21.61 0.388 0.406 Haplogroup D5 24 6.78 9 4.52 0.282 0.351 Haplogroup M7b 23 6.50 14 7.03 0.808 0.860 Haplogroup N9a 16 4.52 4 2.01 0.129 0.158 Other haplogroups 25 7.06 16 8.04 0.674 0.736
+
+All p-values are unadjusted for multiple comparisons and p-values b0.05 are indicated in bold. No significant contrasts have been found at Bonferroni adjusted alpha=0.003.
+
+Table 3
+
+Distribution of mtDNA C150T mutation in Japanese population and in present study.
+
+All haplogroups Haplogroup Haplogroup Haplogroup Other D5 M7b N9a haplogroups n % n % n % n % n % Chinese Han Longevous (n=556) 124 22.30 35 6.29 34 6.12 18 3.24 37 6.65 Control (n=403) 89 22.08 17 4.22 31 7.69 14 2.47 27 6.70 Japanesea Longevous (n=96) 19 19.79 7 7.29 7 7.29 2 2.08 3 3.12 Control (n=96) 9 9.37 1 1.04 1 1.04 4 4.17 3 3.12
+
+a Data from Niemi et al. (2005).
+
+C150T mutation in longevous group according to the D5, M7b, N9a haplogroups and “other”, whereas the frequency of haplogroup N9a in male samples decreased from 4.90% in control group to 0.99% in longevous group (Crosstab's chi-square value of p=0.020; Fisher's exact test value of p=0.036). But when this p-value was corrected for multiple comparisons using post hoc Bonferroni analysis, leading to a significance level much lower than 0.05, this difference turned out to be non-significant.
+
+D4, D4b2b andD4a (Alexe et al., 2007) have been observed in Japanese centenarians. In addition, an increased incidence of D4a, and decreased incidences of M9, N9 and B4a haplogroups were observed in Chinese longevous subjects in Rugao (Cai et al., 2009). However, several of these associations were limited to specific populations and could not be replicated in other studies. For instance, unlike the findings of Tanaka et al. (2000) in a Japanese sample, an association between longevity and mtDNA 5178CNA polymorphism was not found in Chinese subjects (Yao et al., 2002b). Furthermore, compli- cated relationships between mtDNA haplogroups and longevity, Parkinson's disease, Alzheimer's disease or Type 2 diabetic have been demonstrated with several mtDNA haplogroups, including B5b and M7b2, found to be enriched in both longevous and disease groups (Takasaki, 2009). These seemingly discrepant findings may be attributed to a number of factors: sampling strategy limitations, such as inadequate matching of cases and controls, inadequate adjustment for multiple comparison testing, and cryptic population stratification (Shlush et al., 2008); interactions between mtDNA and the environment, for example, altitude may affect mtDNA haplogroup J2 enrichment in elderly people (Dominguez-Garrido et al., 2009); finally, mtDNA and variants elsewhere in the genome may interact. Moreover, the latter two factors usually related to specific populations and then create such paradoxes.
+
+4. Discussion
+
+The present results indicate that the C150T polymorphism is not robustly associated with longevity in Han Chinese populations we have investigated. Pearson Chi-Square analysis revealed that the two populations in this study had similar mtDNA genetic backgrounds and showed no differences in the overall haplogroup frequencies (data not shown). A similar situation occurred in another study on longevity in a Chinese population (Cai et al., 2009). However, we still cannot rule out that other mtDNA variants might be associated with human longevity potentially, despite the negative results found presently.
+
+The mtDNA haplogroup structure in European populations is distinct from that in East Asian populations because of their different main haplogroups. In the European human mtDNA phylogeny tree, the C150T mutation defines haplogroup J2 and some sub-branches of haplogroup U and T (van Oven and Kayser, 2009), while it also acts as a motif site in 10 haplogroups in the East Asian tree. Additionally, we noticed that the C150T mutation frequencies in European populations reported by previous longevity related case/control studies were 17% vs. 3.4% in Italians (Zhang et al., 2003), 20.4% vs. 14.5% in Finns (Niemi et al., 2005) and 1.6% vs. 3.4% in Ashkenazi Jews (Iwata et al., 2007), for cases and controls, respectively. In contrast, the Chinese population in our study showed much higher frequencies (higher than 20%) of the C150T mutation in both case and control groups. As for other East Asian population, a research based on Japanese population found a significant higher frequency of C150T mutation in centenarians (19.79%) than in middle-aged controls (9.37%) (Niemi et al., 2005). Compared to the Han Chinese population, the C150T mutation frequency in Japanese population was near in case but obviously lower in control (Table 3). More importantly, their p-values were unadjusted for multiple comparisons and the sample size was small. Besides, the frequencies of the D5, M7b and N9a haplogroups in current study were roughly analogous to those observed in a longevous Chinese population in Rugao (Cai et al., 2009). Thus, if there was a real function of the C150T mutation that could affect human lifespan, it might be easier to detect in Chinese populations than in Europeans; furthermore, the possibility of introducing statistical bias would be smaller as well.
+
+MtDNA is likely to play an important role in human ageing, although most investigations thus far remain within the scope of case/ control studies and the incidence difference was typically the only parameter that could be analyzed. However, there has been little focus on elucidating the mechanisms by which mtDNA variants could impact function at the cellular, tissue, or systems level, and thereby influence human lifespan. Functional studies on mtDNA variants are required that will help to further our understanding of the influence of mitochondrial/nuclear genetic background and environmental factors on human longevity.
+
+Acknowledgements
+
+We are greatly indebted to the persons who participated in this research. In addition, we thank Dr. Hui Li and Dr. Yuanying Gong for their help in sample collection, and Dr. Wendy Adams's help in preparing the paper. This work was supported by the National Basic Research Program of China (No. 2007CB507405), “Light in Western China” of the Chinese Academy of Sciences, the National Natural Science Foundation of China (No. 30621092), and the Bureau of Science and Technology of Yunnan Province.
+
+References
+
+The putative contribution of mtDNA to human longevity and/or age-related diseases, such as Parkinson's disease and Alzheimer's disease has been the subject of much investigation. Apart from the C150T polymorphism and the haplogroups it defined, other mtDNA polymorphisms/haplogroups have been reported to relate to human longevity. For example, enrichment of mtDNA 5178CNA (Tanaka et al., 2000), haplogroups D4 (Bilal et al., 2008), D5, and two subgroups of
+
+Alexe, G., Fuku, N., Bilal, E., Ueno, H., Nishigaki, Y., Fujita, Y., Ito, M., Arai, Y., Hirose, Bhanot, G., Tanaka, M.,
+
+Enrichment of longevity phenotype in haplogroups D
+
+b
+
+b, D
+
+a, and D
+
+in the Japanese population. Hum. Genet.
+
+–
+
+Sequence and organization of the human mitochondrial genome. Nature
+
+–
+
+Alexe, G., Fuku, N., Bilal, E., Ueno, H., Nishigaki, Y., Fujita, Y., Ito, M., Arai, Y., Hirose, N., Bhanot, G., Tanaka, M., 2007. Enrichment of longevity phenotype in mtDNA haplogroups D4b2b, D4a, and D5 in the Japanese population. Hum. Genet. 121,
+
+Bilal, E., Rabadan, R.,Alexe, G., Fuku, N., Ueno, H., Nishigaki, Y.,Fujita, Y., Ito, M., Arai, Y., Hirose, N., Ruckenstein, A., Bhanot, G., Tanaka, M.,
+
+Mitochondrial DNA haplogroup D
+
+a is a marker for extreme longevity in Japan. PL
+
+ONE
+
+, e
+
+Cai, X.Y., Wang, X.F., Li, S.L., Qian, J., Qian, D.G., Chen, F., Yang, Y.J., Yuan, Z.Y., Xu, J., Bai, Y., Yu, S.Z., Jin, L.,
+
+Association of mitochondrial DNA haplogroups with exceptional longevity in a Chinese population. PL
+
+ONE
+
+, e
+
+Dato, S., Passarino, G., Rose, G., Altomare, K., Bellizzi, D., Mari, V., Feraco, E., Franceschi, C., D
+
+enedictis, G.,
+
+Association of the mitochondrial DNA haplogroup Jwith longevity is population specific. Eur. J. Hum. Genet.
+
+,
+
+–
+
+De Benedictis, G., Rose, G., Carrieri, G., De Luca, M., Falcone, E., Passarino, G., Bonafe, M., Monti, D., Baggio, G., Bertolini, S., Mari, D., Mattace, R., Franceschi, C.,
+
+Mitochondrial DNA inherited variants are associated with successful aging and longevity in humans. FASEB J.
+
+,
+
+–
+
+Dominguez-Garrido, E., Martinez-Redondo, D., Martin-Ruiz, C., Gomez-Duran, A., Ruiz- Pesini,E.,Madero,P.,Tamparillas,M.,Montoya,J.,vo
+
+glinicki,T.,Diez-Sanchez,C., Lopez-Perez, M.J.,
+
+Association of mitochondrial haplogroup J and m
+
+NA oxidative damageintwo different Nort
+
+painelderly populations. Biogerontology
+
+,
+
+–
+
+Iwata, N., Zhang, J., Atzmon, G., Leanza, S., Cho, J., Chomyn, A., Burk, R.D., Barzilai, N., Attardi, G.,
+
+Aging-related occurrence in Ashkenazi Jews of leukocyte heteroplasmic m
+
+NA mutation adjacent to replication origin frequently remo- deled in Italian centenarians. Mitochondrion
+
+,
+
+–
+
+Kong, Q.P., Bandelt,H.J., Sun, C.,Yao, Y.G., Salas,A., Achilli, A., Wang,C.Y., Zhong,L., Zhu, C.L., Wu, S.F., Torroni, A., Zhang, Y.P.,
+
+Updating the East Asian m
+
+NA phylogeny:aprerequisitefortheidentificationofpathogenicmutations.Hum.Mol. Genet.
+
+,
+
+–
+
+Niemi, A.K., Hervonen, A., Hurme, M., Karhunen, P.J., Jylha, M., Majamaa, K.,
+
+Mitochondrial DNA polymorphisms associated with longevity in a Finnish population. Hum. Genet.
+
+,
+
+–
+
+Niemi, A.K., Moilanen, J.S., Tanaka, M., Hervonen, A., Hurme, M., Lehtimaki, T., Arai, Y., Hirose, N., Majamaa, K.,
+
+A combination of three common inherited mitochondrial DNA polymorphisms promotes longevity in Finnish and Japanese subjects. Eur. J. Hum. Genet.
+
+,
+
+–
+
+Ren,W.H.,Li,X.H.,Zhang,H.G.,Deng,F.M.,Liao,W.Q.,Pang,Y.,Liu,Y.H.,Qiu,M.J.,Zhang, G.Y., Zhang, Y.G.,
+
+Mitochondrial DNA haplogroups in a Chinese Uygur population and their potential association with longevity. Clin. Exp. Pharmacol. Physiol.
+
+,
+
+–
+
+Rose, G., Passarino, G., Scornaienchi, V., Romeo, G., Dato, S., Bellizzi, D., Mari, V., Feraco, E., Maletta, R., Bruni, A., Franceschi, C., De Benedictis, G.,
+
+The mitochondrial DNA control region shows genetically correlated levels of heteroplasmy in leukocytes of centenarians and their offspring. BMC Genomics
+
+,
+
+Ross, O.A.,M
+
+ormack,R.,Curran, M.D.,Duguid, R.A., Barnett, Y.A.,Rea, I.M., Middleton, D.,
+
+Mitochondrial DNA polymorphism: its role in longevity of the Irish population. Exp. Gerontol.
+
+,
+
+–
+
+Sambrook, J., Fritsch, E.F., Maniatis, T.,
+
+Molecular Cloning: A Laboratory Manual,
+
+nd ed. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y. Shlush, L.I., Atzmon, G., Weisshof, R., Behar, D., Yudkovsky, G., Barzilai, N., Skorecki, K.,
+
+Ashkenazi Jewish centenarians do not demonstrate enrichment in mito- chondrial haplogroup J. PL
+
+ONE
+
+, e
+
+Takasaki, S.,
+
+Mitochondrial haplogroups associated with Japanese centenarians, Alzheimer's patients, Parkinson's patients, type
+
+diabetic patients and healthy non-obese young males. J. Genet. Genomics
+
+,
+
+–
+
+Tanaka, M., Gong, J., Zhang, J., Yamada, Y., Borgeld, H.J., Yagi, K.,
+
+Mitochondrial genotype associated with longevity and its inhibitory effect on mutagenesis. Mech. Ageing Dev.
+
+,
+
+–
+
+van Oven, M., Kayser, M.,
+
+Updated comprehensive phylogenetic tree of global human mitochondrial DNA variation. Hum. Mutat.
+
+, E
+
+–E
+
+Yao, Y.G., Kong, Q.P., Bandelt, H.J., Kivisild, T., Zhang, Y.P.,
+
+a. Phylogeographic differentiation of mitochondrial DNA in Han Chinese. Am. J. Hum. Genet.
+
+,
+
+–
+
+Yao, Y.G., Kong, Q.P., Zhang, Y.P.,
+
+b. Mitochondrial DNA
+
+A polymorphism and longevity. Hum. Genet.
+
+,
+
+–
+
+Yao, Y.G., Kong, Q.P., Man, X.Y., Bandelt, H.J., Zhang, Y.P.,
+
+Reconstructing the evolutionary history of China: a caveat about inferences drawn from ancient DNA. Mol. Biol. Evol.
+
+,
+
+–
+
+Zhang, J.,Asin-Cayuela,J., Fish,J., Michikawa,Y.,Bonafe, M.,Olivieri, F.,Passarino, G.,De Benedictis, G., Franceschi, C., Attardi, G.,
+
+Strikingly higher frequency in centenarians and twins of m
+
+NA mutation causing remodeling of replication origin in leukocytes. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+haplogroup D
+
+a is a marker for extreme longevity in Japan. PL
+
+One
+
+, e
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db= Pu
+
+ed&dopt=Citation&list_uids=
+
+Cai,X.Y.,Wang, X.F.,Li, S.L.,Qian,J., Qian, D.G., Chen, F.,Yang, Y.J., Yuan, Z.Y.,Xu,J., Bai,Y., Yu,S.Z.,Jin,L.,
+
+Associationofmitochondria
+
+NAhaplogroupswithexceptional longevity in a Chinese population. PL
+
+One
+
+, e
+
+URL: http://www.ncbi.nlm. nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Dato,S., Passarino, G., Rose,G.,Altomare,K., Bellizzi,D., Mari, V., Feraco, E.,Franceschi,C., De Benedictis, G.,
+
+Association of the mitochondrial DNA haplogroup J with longevityispopulationspecific.Eur.J.Hum.Genet.
+
+,
+
+–
+
+URL:http://www.ncbi. nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_ uids=
+
+De Benedictis, G., Rose, G., Carrieri, G., De Luca, M., Falcone, E., Passarino, G., Bonafe, M., Monti, D., Baggio, G., Bertolini, S., Mari, D., Mattace, R., Franceschi, C.,
+
+Mitochondrial DNA inherited variants are associated with successful aging and longevity in humans. Faseb. J.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/ entrez/query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Dominguez-Garrido, E., Martinez-Redondo, D., Martin-Ruiz, C., Gomez-Duran, A., Ruiz- Pesini, E., Madero, P., Tamparillas, M., Montoya, J., von Zglinicki, T., Diez-Sanchez, C., Lopez-Perez, M.J.,
+
+Association of mitochondrial haplogroup J and m
+
+NA oxidative damage in two different North Spain elderly populations. Biogerontology
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db= Pu
+
+ed&dopt=Citation&list_uids=
+
+Iwata,N.,Zhang,J.,Atzmon,G.,Leanza,S.,Cho,J.,Chomyn,A.,Burk,R.D.,Barzilai,N.,Attardi, G.,
+
+Aging-related occurrence in Ashkenazi Jews of leukocyte heteroplasmic m
+
+NA mutation adjacent to replication origin frequently remodeled in Italian centenarians. Mitochondrion
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/ query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Kong, Q.P., Bandelt, H.J., Sun, C., Yao, Y.G., Salas, A., Achilli, A., Wang, C.Y., Zhong, L., Zhu, C.L., Wu, S.F., Torroni, A., Zhang, Y.P.,
+
+Updating the East Asian m
+
+NA phylogeny:a prerequisitefortheidentification of pathogenic mutations. Hum. Mol. Genet.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi? cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Niemi, A.K., Hervonen, A., Hurme, M., Karhunen, P.J., Jylha, M., Majamaa, K.,
+
+Mitochondrial DNA polymorphisms associated with longevity in a Finnish popula- tion.Hum.Genet.
+
+,
+
+–
+
+URL:http://www.ncbi.nlm.nih.gov/entrez/query.fcgi? cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Niemi, A.K., Moilanen, J.S., Tanaka, M., Hervonen, A., Hurme, M., Lehtimaki, T., Arai, Y., Hirose, N., Majamaa, K.,
+
+A combination of three common inherited mitochondrial DNA polymorphisms promotes longevity in Finnish and Japanese subjects. Eur. J. Hum. Genet.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/ query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Ren,W.H.,Li,X.H.,Zhang,H.G.,Deng,F.M.,Liao,W.Q.,Pang,Y.,Liu,Y.H.,Qiu,M.J.,Zhang,G.Y., Zhang,Y.G.,
+
+Mitochondria
+
+NAhaplogroupsina chinese Uygurpopulationand their potential association with longevity. Clin. Exp. Pharmacol. Physiol.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db= Pu
+
+ed&dopt=Citation&list_uids=
+
+Rose,G.,Passarino,G.,Scornaienchi,V.,Romeo,G.,Dato,S.,Bellizzi,D.,Mari,V.,Feraco,E., Maletta, R., Bruni, A., Franceschi, C., De Benedictis, G.,
+
+The mitochondrial DNA control region shows genetically correlated levels of heteroplasmy in leukocytes of centenarians and their offspring. BMC Genomics
+
+,
+
+URL: http://www.ncbi.nlm. nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Ross,O.A.,M
+
+ormack,R.,Curran,M.D.,Duguid,R.A.,Barnett,Y.A.,Rea,I.M.,Middleton,D.,
+
+Mitochondria
+
+NApolymorphism:itsroleinlongevityofth
+
+rishpopulation. Exp. Gerontol.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi? cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Sambrook,J.,Fritsch,E.F.,Maniatis,T.,
+
+Molecularcloning:alaboratorymanual,
+
+nd ed. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y. City: Cold Harbor, N.Y. Publisher: Cold Spring Harbor Laboratory Press. Number of Volumes:
+
+ISBN:
+
+URL: http://www.cshlpress.com/default.tpl?action=full&– eqskudatarq=
+
+Shlush,L.I.,Atzmon,G.,Weisshof,R.,Behar,D.,Yudkovsky,G.,Barzilai,N.,Skorecki,K.,
+
+Ashkenazi Jewish centenarians do not demonstrate enrichment in mitochondrial haplogrou
+
+PL
+
+One
+
+,e
+
+URL:http://www.ncbi.nlm.nih.gov/entrez/query.fcgi? cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Takasaki, S.,
+
+Mitochondrial haplogroups associated with Japanese centenarians, Alzheimer's patients, Parkinson's patients, type
+
+diabetic patients and healthy non- obese young males. J. Genet. Genomics
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih. gov/entrez/query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_ uids=
+
+Tanaka, M., Gong, J., Zhang, J., Yamada, Y., Borgeld, H.J., Yagi, K.,
+
+Mitochondrial genotype associated with longevity and its inhibitory effect on mutagenesis. Mech. Ageing Dev.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi? cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+van Oven, M., Kayser, M.,
+
+Updated comprehensive phylogenetic tree of global human mitochondrial DNA variation. Hum. Mutat.
+
+, E
+
+-
+
+URL: http://www. ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation& list_uids=
+
+Yao, Y.G., Kong, Q.P., Bandelt, H.J., Kivisild, T., Zhang, Y.P.,
+
+a. Phylogeographic differentiationofmitochondria
+
+NAi
+
+a
+
+hinese.Am.J.Hum.Genet.
+
+,
+
+–
+
+Web references
+
+Alexe, G., Fuku, N., Bilal, E., Ueno, H., Nishigaki, Y., Fujita, Y., Ito, M., Arai, Y., Hirose, N., Bhanot, G., Tanaka, M.,
+
+Enrichment of longevity phenotype in m
+
+NA haplogroups D
+
+b
+
+b, D
+
+a, and D
+
+in the Japanese population. Hum. Genet.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db= Pu
+
+ed&dopt=Citation&list_uids=
+
+Anderson,S.,Bankier,A.T.,Barrell,B.G.,d
+
+ruijn,M.H.,Coulson,A.R.,Drouin,J.,Eperon,I.C., Nierlich, D.P., Roe, B.A., Sanger, F., Schreier, P.H., Smith, A.J., Staden, R., Young, I.G.,
+
+Sequence and organization of the human mitochondrial genome. Nature
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db= Pu
+
+ed&dopt=Citation&list_uids=
+
+Bilal, E., Rabadan, R., Alexe, G., Fuku, N., Ueno, H., Nishigaki, Y., Fujita, Y., Ito, M., Arai, Y., Hirose, N., Ruckenstein, A., Bhanot, G., Tanaka, M.,
+
+Mitochondrial DNA
+
+De Benedictis, G., Franceschi, C., Attardi, G., 2003. Strikingly higher frequency in centenariansandtwinsofmtDNA mutation causing remodelingof replication origin in leukocytes. Proc. Natl. Acad. Sci. U.S.A. 100, 1116–21. URL: http://www.ncbi.nlm. nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_ uids=12538859.
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db= Pu
+
+ed&dopt=Citation&list_uids=
+
+Yao, Y.G., Kong, Q.P., Man, X.Y., Bandelt, H.J., Zhang, Y.P.,
+
+Reconstructing the evolutionary history of China: a caveat about inferences drawn from ancient DNA. Mol. Biol. Evol.
+
+,
+
+–
+
+URL: http://www.ncbi.nlm.nih.gov/entrez/ query.fcgi?cmd=Retrieve&db=Pu
+
+ed&dopt=Citation&list_uids=
+
+Zhang, J., Asin-Cayuela, J., Fish, J., Michikawa, Y., Bonafe, M., Olivieri, F., Passarino, G.,

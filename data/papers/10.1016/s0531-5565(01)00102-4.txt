@@ -1,0 +1,1639 @@
+Experimental Gerontology 36 (2001) 1303-1315 ——<—<——$—<——www.elsevier.com/locate/expgero
+
+exhibit sex-dependent influence  human Jon gevity
+
+Department ¢ t of | f Thrombosis | ee EEE ISS SOP: Research, | POPE EARLE ESE SA, University ¢ pp) of Southern 1 1 Denmark « cand | ET1 Department « t of ( f Clinical Biochemistry, | , Ribe ¢ EN EOE> County | OS ees» Hospital i lin | 1 Esbjerg, | ON REE TAS, Denmark “Epidemiology, 1 , Institute ¢ 2 of | f Public } > Health, « , and # oP1 Aging I Oe OO> Research ( eet idi Center, PE, University ¢ y of s Southern 1 1 Denmark-Odense BE PAE EINE EROSUniversity, | , Denmark
+
+Received ¢ , } January 4 -../0 ; received i lint | revised { | form - . March % -../0 ; accepted ¢ 1 ) March * -../
+
+
+
+with « 1 cardiovascular « “oner disease < > and | EE ED III TE| longevity i  1 the I > Danish | reyes bree1 population. ,  . New | REED IEE Ee; procedure > that « t combines  both | | demographic | and | | the | — eI- individual | vanyooeeeegenetic | EN EEE OEE EME- information | eein NE EEE| determining | reethe | relative |    of | the observed | ee epee| genetic variations |   _———s—— &; applied. ’ oN_ The : - sex-dependent i  influences  1can | | be |  found | | by introducing eesex-specific | - population : REEDED OE| survival | ‘Pre.’| and | “Ne KN ON| incorporating | the 1   of | " gene-sex | _ interaction. “soneThree | ee iO- genetic eee pie PMPspolymorphisms, ; . angiotensinogen | "6(cid:26)-,7(cid:27) reeceblood | ‘oe he orn| coagulation | ©. eee| factor  VII 89(cid:1)(cid:29)(cid:29): (6(cid:25),7, c~v™ &*and | ee| FVII- ,-,(cid:4)(cid:7)(cid:8)/.(cid:27) DLL DYELD DS 9 ODDS_ manifes  NEN ENEignificant |  See NE eainfluences |  on | ee OS| survival | oonint | males, ' with | sae eran| reduced | neh OMEN| hazards | of death : | for carriers ¢ s of t f the « eee EE”> angiotensinogen | "-,7 ) allele, t , the ] 9 7 VII ( (cid:25),7, allele, < , and t I the J 9(cid:1)(cid:29)(cid:29)(cid:20),-,&/. ) allele. ' . The results : ; show a AMSthat : oet some ¢ of 1 eon eethese | > genotypes ¢ ociated 1  <n| with | | lower 1 “risk « of | *(cid:1)3 ) could ; | also 1 » reduce t : the carrier’s ¢ s death 1 1rate é > and ¢ OME REINO OES”| contribute t >to] ANT Ne Rens» longevity. I . However, t , the | > presence « > of s f sex-dependent ¢ t effects < sand t 1 the fact t t that 1 t major t CVD-associated § | genes { Mow Naty:: failed t Io| to i ) impose ¢ ae eee”- detrimental i | influence « >on | | longevity | lead lus 1 ; to concur t “Beer that t eyet the < > aging | , proces    “oos highly « a ENE ERNE EEE/ complicated. ¢ pee -../ | Elsevier r Science | > Inc. : aMAlli >wrest **| rights 1 s reserved.
+
+Keywords: ¢ : Gene; |  ; Cardiovascular « r disease; § ; Sex-dependent i t influence; |  ; Longevity;  ; Survival ¢ | analysis
+
+ , Introduction
+
+polymorphisms « ON | 1a ew eee| variety | of |  shave | - been : | studied | | to ) see | if | * they « ‘are | - associated | | with
+
+Corresponding <  : author. 7 . Tel.: - (cid:1)DE(cid:20),F/(cid:20)-.F(cid:20)//.10 ; fax: (cid:1)DE(cid:20),F/(cid:20)-.F(cid:20)//1E(cid:30) OrE-mail « EEE ON| address: \ : yashin@demogr.mpg.de ( (AL . Yashin).
+
+.7,/(cid:20)77176./6C  see | > front 1 t matter  -../ | Elsevier r Science | > Inc. 4 . All | rights 1 s reserved. &(cid:29)(cid:29)? >.7,/(cid:20)77178./:../.-(cid:20)D
+
+/,.D
+
+3H(cid:28) \ polymorphism « 1 of ( *(cid:1)3 ) candidate ¢ > genes. 1 . Table 1 > revised f 1 from I 1 Bladbjerg « z et z tal. ( 8/EEE: F-?//..(cid:20)7(cid:30) . FVIE t : blood NEE ND EEScoagulation { ne es1 factor r VII; | &(cid:28)(cid:29)? CEE IDOE NEEDS: plasminogen <  | activator i r inhibitor-1; t ; t-PA: t   MORNE AAAS NE> plasminogen : | activator; ¢ ; GPITb/Ila: “eoplatelet 1 t receptor § men NRA ERAr glycoprotein | iD1 Tib/Ia; | “oN eee ee; prothrom: | : prothrombin; | "(cid:26)=9(? ok poe: methylene t a ON COLI> tetrahydrofolate 1 > reductase; (cid:28)*!? cee ae ee: angiotensin ¢ — a1 converting ¢ ne EES OEy enzyme; ¢ , pee; angiotens: EDI III IID IE: angiotensinogen
+
+Genotypes Control §  | group Centenarian |  | group (cid:1)- , (p-value) NEnumber ( © Orr (frequency) number ( eh OE BPEr (frequency) Haemostasis § s genes FVIII (6(cid:25) ,7, .(cid:30)F-8.(cid:30)11: ((,7, /1-8.(cid:30)F/: /7J8.(cid:30)FD: ((cid:25),7, ,J8.(cid:30)/F: -F8.(cid:30)/7: (cid:25)(cid:25),7, -8.(cid:30)./: -8.(cid:30)./: <aFVII-323ins10 /(cid:30)7.8.(cid:30)DF: &.&. /718.(cid:30)JF: /7,8.(cid:30)F-: &.&/. D-8.(cid:30)-.: ,.8.(cid:30)/1: &/.&/. ,8.(cid:30).-: ,8.(cid:30).-: FVII i [ intron7 ( 8,J(cid:19)(cid:21): .(cid:30)..8.(cid:30)EE:  =7=7 .8.(cid:30)..: /8.(cid:30)..7: =7=1 /.8.(cid:30).7: 18.(cid:30).,: =7=J ,8.(cid:30).-: 18.(cid:30).,: =1=1 E18.(cid:30)DF: F18.(cid:30)DJ: =1=J J78.(cid:30),J: 1J8.(cid:30),J: =J=J /J8.(cid:30).E: /78.(cid:30).F: =J=F .8.(cid:30)..: /8.(cid:30)..7: Fibrinogen < D77@6(cid:28) .(cid:30)1,8.(cid:30)EE: D77@@ /,-8.(cid:30)11: /-E8.(cid:30)J.: D77@(cid:28) 1D8.(cid:30),-: 7,8.(cid:30)-F: D77(cid:28)(cid:28) D8.(cid:30).-: ,8.(cid:30).-: &(cid:28)(cid:29)(cid:20)1J78D@67@: -(cid:30)/78.(cid:30),D: D@D@ 778.(cid:30)-J: 7D8.(cid:30)-E: D@7@ /.18.(cid:30)7,: F18.(cid:30)D1: 7@7@ D.8.(cid:30)-.: DJ8.(cid:30)-7: tPA i . intron8ins311 /(cid:30)F78.(cid:30),E: Wl J18.(cid:30),F: J/8.(cid:30),E: (cid:29)63 ED8.(cid:30)DJ: J18.(cid:30)D/: 363 ,/8.(cid:30)/7: ,J8.(cid:30)-.: GPIIb/IIIa | A6&,, .(cid:30)-/8.(cid:30)E.: AA /D/8.(cid:30)J.: /,,8.(cid:30)J/: A& 7D8.(cid:30)-J: DE8.(cid:30)-1: && D8.(cid:30).-: 78.(cid:30).,: Prothrom ‘ -.-/.@6(cid:28) .(cid:30)FD8.(cid:30),1: @@ /E,8.(cid:30)EJ: /FD8.(cid:30)EF: @(cid:28) 18.(cid:30).,: ,8.(cid:30).-: AA . . "(cid:26)=9( (cid:28)6(cid:1)//D .(cid:30)1.8.(cid:30)JD: AA E18.(cid:30)DF: F78.(cid:30)D1: AV F18.(cid:30)D,: JE8.(cid:30)D,: VV /E8.(cid:30)/.: --8.(cid:30)/-: #& > regulating § y genes. (cid:28)*! Soe BN eee| intron! 6ins287 .(cid:30).J8.(cid:30)EJ: Wl D18.(cid:30)-,: D/8.(cid:30)--: (cid:29)63 /.-8.(cid:30)7/: E78.(cid:30)7/:
+
++, . Tan ¢ 1 et ¢ tal. / - / Experimental ( | Gerontology - ./ 012234 3.2.53.36
+
+Table | / | (continued)
+
+Genotypes Control  | group Centenarian | 1 group (cid:1)- > (p-value) — &number ( © ONEr (frequency) number ( ee PITr (frequency) 363 7/8.(cid:30)-1: DE8.(cid:30)-J: aiAngiotens | "6(cid:26)-,7 .(cid:30)7,8.(cid:30)JJ: "" F/8.(cid:30)D/: JJ8.(cid:30),J: "(cid:26) EF8.(cid:30)DE: F78.(cid:30)D/:  -/8.(cid:30)//: -,8.(cid:30)//:
+
+related | | not | only 1 to yan | | increased | “Pe| risk | of | atherosclerotic « vie Spee bP Pee- cardiovascular | wane It Eeedisease   | Finnish (Kervinen « et: aetal., /EED: ) and | | Danish ( | (Gerdes « set % tal., ‘ -...(cid:2): ) studies | » but : also | to f ) the j - incidence eeof | ’ Alzheimer’s « eg RA ANE; disease | : (Corder « “et i tal., /EE,:(cid:30) oo on_ Further 1 ee pes‘more, | , homozygosity « of f * the « (cid:15)D allele has | been confirmed |   een| show | eeedeleterious eo per”effect | On | EE EEN DE OYEmortality | at  old | | ages | sO ~_(Heijmans |  et.   -...: ) and ; bas | Significant « - depletion | of 1 * the | (cid:2)D allele | has | ee; been | ere| found : ce NSin | “owe es| French | OE OD SOS| (Schachter | ee“et al., /EED:(cid:27) “oe, Finnish ( OLE EE1 (Louhija « Let é tal., /EED:(cid:27) . Danish ( | (Gerdes set tal., : -...(cid:19):(cid:27) ENED NEEChinese ( - (Zhang « ret al., /EEF: and | ENE NII OOOJapanese ee OD(Asada et al., /EE1: me eee eecentenarians. —_— orOther NID AADgenes that ewehave mo”been MO y AA ASstudied cers| for | NE Ne NES‘ polymorphisms ; ————™ eee; associated | | with | *(cid:1)3 and | | longevity | eeeinclude | genes | ; coding | for ENE EE IIEapolipoprotein | # ee Oe| (Hegele « et < tal., | /EF10 ; Myant tet ¢ tal., | /EFE0 oN rey oe; Paulweber « ret é = &*tal., | /EE.0 ~~ N; Kervinen “rTet oneal., /EED0 3(cid:15) Fae SomeBenedictis, /EEJ(cid:27) /EEF:(cid:27) vee ee REN A AMADAapolipoprotein A-I (Hoeg, /EE10 owen”Saha | et | al., /EE7:(cid:27) NESS, apolipoprotein | /C-1 wey AA AED”(Galinsky aeet 3 aMcal., /EEJ:(cid:27) ween EE_ angiotensin « 6 ALE EMN OOD ES| converting | aNenzyme | 8(cid:28)*!: fA eI(Galinsky eeeet i rYr**-al., /EEJ0 — A AeNakata | et cal., /EEJ0 EE ONAlvarez | et: cal., /EEE0 EERE EES SO”Schachter | et. cal., /EED:(cid:27) EN FN OODangiotensinogen | an| (Cong «  tal., /EEF0 aeg naw; Chen ¢ of9 4let tal., /EEF0 me Re A A Ae; Frossard « “eolet i tal., | /EEF:(cid:27) and t “aeo =I the DA AEDtissue EE III AEplasminogen « ore Me| activator | 8(cid:26)&(cid:28): 8"(cid:2)(cid:10)%(cid:6) yet tal., /EEE0 CODE AO; Thogersen « et ¢ tal., /EEF:(cid:30) ee N. Sex-dependent reeeffects ne: on | *(cid:1)3 eee RAE) prevalence : CAP MAN>and : | survival ' 2 ae| were | i rr —: reported i oein: | some ¢ of | eg hawthese : Pees: studies | “Pee; (Galinsky et al., /EEJ0 3(cid:15) Benedictis et al., /EEF:(cid:27) oN aM pMwhich suggests that the wee Oepenetrance of eeeloci RO A A AEinfluencing | *(cid:1)3 )and | survival 1 eee| may) 9 *a"”vary 3 NT NN BESaccording | to: ‘oof) Sex.’ To detect | ~ pee”how | the - CVD-asso- ciated i — aegenetic variations  LEIA TONSrelated “dDto eelongevity >in the Danish population, one study “ee &*focused SNeeson | polymorphisms | of | genes - NN ENE, involved | in | eisregulating | CEE” ESblood» Pree| pressure | weeny MSand | | in _ blood TNE IEEcoagulation ree’wy”| Was ¢ ee OO I; conducted | OE| (Bladbjerg « et 3 cal., /EEE:(cid:30) oe Se_ However, | no: ue pee eRsignificant : | associations ~“—so™were I : reported lint \ the : » study, — eer, which 1 oN IED1 used « > Nh RD NA A AO| conventional : awed| statistical ¢ oan oooee| analysis, 1 , namely, t , the § : gene- ua aN peefrequency - method | oN ee DD| (Table /:(cid:30) In| | this | paper, 2(cid:15) apply al | NEW | EE OSI JOOS- approach | OD| derived | Jom| by | a oe- Vaupel ataand ie| Yashin ‘   . and «  ~~| developed i ~ Fe| in: IE| several 1 rere)?| recent — ~ RE’-t articles | ; (Yashin ¢ | et oe ietal., /EEF(cid:27) /EEE(cid:27) -...0 -Tan et al., -../: on the tebe ae eepreviously published data ae eee(Bladbjerg et al., /EEE:(cid:27) aoeand emscombine both op NE MEERdemographic r*and EEE TDindividual genetic ee eSinformation _—seto a idetermine “erthe relative risks of ‘the | EIS Ee AEEobserved | | genetic variations. | +(cid:15) - incorporate | important : factors | such ; | as | ; sex-depen- dent NNinfluences ooueNeand also individual EEN DE EE OEheterogeneity in unobserved frailty, ——————which was  previously | ignored. ’  | this : strategy, 2(cid:15) Can | ee EI| detect | - polymorphisms |  that : | show ] potential Pew eee 2sex-dependent ¢ effects. | +(cid:15) COE NEI ES J- estimated | mye t*| the 1 relative 1 oe Tisks | of 1 “soe‘the « ee ee ee- observed | | genes > aS "pees; well : Las ¢ of eee peesgene—sex i interaction < 1 and | | present [ sex-specific s - survival z | and t | the ¢ Nee"> estimated | = hi| proportions « sof t f the
+
+ _ Materials : ; and | | methods
+
+1,3, Individual , | genotype « data
+
+Blood : | samples | , were | taken - | from | | both | | young -and | ‘old | | people | in | Denmark | (Bladbjerg | et al., /EEE:(cid:30) meeThe | group of. old | people ED J OIAconsists | ofof two | om Pestparts. | ‘brew aeThe first set is r—XV—sseafrom the | “osfirst BM A AA A fo”centenarian : aes =**| study | obcarried | — || out r™on | Sree| Funen | | island. | Alls mM pee mee| individuals | ; born | | before | - December | ,/(cid:27) /FED | who \ ) were § —s> still < | alive « >on | / | May, - /EED | are i » included 1 lint 1 the : study.” . They \ / were i NEE EAE I ED- interviewed aNthe s eee> Same ¢ > day, « and‘ ,E ) out ¢ t of: 7/ DEED eeeparticipants < s agreed 1 ito | y have | > blood : wy ee DD| sample t J ume» taken. * . The s > second set of data yeucomes o_o” *from the a pee eeDanish pee SE aLongitudinal Centenarian eee ee ™Study, which covers all people who | became centenarians | EEE DEIbetween / April, /EE7 and ,/ oeMay, /EE1 throughout rere omeDenmark. Blood samples were | collected ~ * ARfrom /DF aaout | of -.J REET ROMparticipants. II IIEAltogether, blood : | samples \ > WETE ° we pee- collected |   | from at \ total « | of /FJ centenarians, ; _ Peeamong | “ree‘them - DJ coo’males “eed; and /D. OE ET| females. The. younger | group | consists | of blood donors. at aothe | ooblood | bank | of Odense University were NNHospital. OOThey of” “br Neehealthy people aged -.51D years 8J7 females and /-1  males).
+
+haemostasis | > genes « ; and | ““—~ ome’| blood | pressure 1 regulating | ; genes | aM Pee; (Table /:(cid:30) . Polymorphic ) ON OD: variations of 1 ' these | eee Es: genes | shave | » been % oN PE Oe| associated sew ASD| with | *(cid:1)3 Oo oN) either « wee Ee ee‘directly OF Fen Me I Oe‘through t eee) their ; - association with | os ow| blood | | levels « of | *(cid:1)3 ) risk | factors ; as | | previously NEE NEE DOdescribed | LIED EEE EE| (Bladbjerg « et cal., /EEE:(cid:30)
+
+1,1, Demographic «
+
+Age-specific | - cohort | - population | | survival i Lis calculated | from « | cohort | life | tables | for | Danes **Dborn | oy YP| between /FED eee} and /EJD(cid:27) , such t 1 that t t the s > survival { | for « reach ¢ Lage i is t s taken | : from ¢ lac . cohort | t life table | for | ‘people oa eeewho | ee ES) reached | | that ; age | in /EED(cid:30)
+
+1,., Analytical . | strategy
+
+hazard of | death for carriers, Br), to that ~—— sfor the — NE Be”non-carriers- or “Jrthe baseline hazard,  g(x). _ Then | according 1 to 1 ) the | PENNE Pg Re- proportional | | hazard < | assumption, , (ar) :     . The « NED> COITe- . . POMS Se Aasponding : - survival : MEN RS esfunction | wfor | “rethe « carriers | is:
+
+. and | $ “Me MUo(x) J ) is t “yp a; the « > cumulative | - hazard ; | at ¢ Lage. SX. ee eee. Although ; Tr ( 8oONcan t | take « >On < any | ‘value § greater | “sd?‘than . Zero, | UN, a § Xn sae| gene allele > with 7 Lr larger t r than / “ow me se”(frailty « IEallele) i ST NE OE) increases t ; the | eh ON DONS> hazard « 1 of « “omeF death, 1 , while  LINO NDgene : “oeallele ' with | rs ‘smaller | “oe‘than / OO(longevity ‘J oe}allele) 1 wf RAEN EN”) reduces | it. _ Taking | —_—~e? Teeheterogeneity | in: | an Oo Neindividual’s 1 ; unobserved I frailty, \ “yee, Which « ore’.1 can < ry See’1 also ¢ EN FO) contribute > tos NI IIE) survival ( SE RENN SD| (Vaupel « let z Neetal., /EJE:(cid:27) into « . consideration, theUi NE LDL TYaverage § > vane oe GS.: survival | | for : a! | group | of "carriers can | we NOY| be aM”: derived ; | as | meg AE A K(x|r) - an (cid:1)/  GUMS!2ao rinso Taulon, Uea(x) lo" when “oNthe unobserved ‘oer *frailty follows  gamma NE RONENdistribution Vewith . ACmean / eeeand VPP usvariance awa |. Accordingly, “ae” Imean Pe ——survival “ S*for non-carriers is 5(x) .  (cid:1)/  alI“ens WG VallalHe?(x).  .
+
+genotype, one | can introduce  ors”simple two-point distribution for the. “Ss &*allele” or genotype omen(Vaupel “s Meeand Yashin, /EF7:(cid:30) “eeeDefine re *the. ~ Frisk of | " gene—sex interaction, lg (99 as the | orrisk ieof Vexss male rerecarriers | to | ney) that | ooof f ae ie aeF female « carriers. ' Then | “ &*| the ; average |  - survival ; “edat; oo" 8ASage.   for | the 1 / mixed population « | consisting | of | both | Carriers ; ; and 1 PEE ED NE NAE| non-carriers | i —is:
+
+Al3~~ Se ( for ee females woand Sreefemales, obtainable   froma STN A ESpopulation NF OE OEstatistics,  n(X) *  (cid:1)/ ~~_ 51 ml       and {elIn(X)) is 9 UlUNe®mean survival for rPyYreesmales carriers eeeand “|Sy p(X) *  (cid:1)/  Texsl   Sil ET exs?o’rlnsy aT fep(X) ° is | / mean | | survival | | for: female « carriers, |   (2)  (cid:1)/   am 9]7 g'Inso  is So,r(   50m mean | SOP NAS| survival | for: ‘male | - non-carriers | and ;  px) :  (cid:1)/ an ia On)a7 Insy —(Al~ey is | SOI, mean | FP “| survival So,p( So, for : ‘female | - non-carriers. ' The | : proportion | TU,| of « Ops* carriers } at age.  OY 
+
+the | data « | containing |  - both | | male ; and |  | female | aeindividuals | can | ov=Ebe ee ee- constructed ;  
+
+8  Pn  Pm  Pr  Pn   
+
+Din Ne (  Ve are t > the t MN ?9> total 1 Ae YN| number « r of | f participants < s at tage J  Int 1 the ¢ > estimation,  “eo “EM. single ¢ (cid:4)- m1S1 "M\* Fo eae *; restricted t onI to ¢ pee) all the ; > alleles i sin ¢ 1 order t tor ve peey reduce 1 “ren> the ¢ ween Es SE> amount ¢ ow het of t F the | - parameters see >sto | ayebe « REE OS» estimated. | . Parameters t that maximize |  the |  likelihood | | function ; | are eee EO Eee- estimated |   the 1 maximum | | likelihood | | procedure i in Gauss : | software | : (Apotech | | System, /EE1:(cid:30)
+
+ , Results
+
+The 1 - results « of | f parameter ¢ r estimates > are § > shown i .in | Table ‘ -(cid:30) . The » significance | levels 1 s for risk parameters | eee pee(relative | risks - for | the | genes |  and  | for | " gene—sex | ee EOinteraction) | ) are | - determined |    ree eeetesting 1 the : veyeeseee ve A> statistical « | differences | oe: between 1 | the « aN Ge- estimated 1 | risks ; sand « | one ' anf SAN- with | null | LE DID| hypothesis $   “oO  /(cid:30) . The j p-values s for | r frequency | / parameters > are - obtained | | by 1 testing | $    ‘2  .(cid:30) . The . . SEQ 8 BOhighest | RENt likelihood \ | was eee EDs achieved \ “pee| when } (cid:4)- Ds1S s about ( .(cid:30)D(cid:30) _ There i is 1 Mesno § PD ENO) significant 1 )*t risk { : for « reach TSof | ol“the : - single | gene allele, ' which | Lis | ; consistent ' with | | Bladbjerg « et i tal. | 8/EEE:(cid:30) _ However, | three INE OID OEpolymorphic Oovariations, angiotensinogen "6(cid:26)-,7(cid:27) eee dEFVII (6(cid:25),7,(cid:27) aaa yeand FVII-323ins10, reeseisplay eesignificant eID BODE OEsex-dependent ESeffects that awereduce the rN oShazards of death for male aepes sycarriers coof ee ONangiotensinogen "-,7(cid:27) FVII (cid:25),7,(cid:27) and 9(cid:1)(cid:29)(cid:29)5,-,&/. by factors of
+
++, _ Tan ¢ 1 et ¢ tal. / - / Experimental ( | Gerontology - ./ 012234 3.2.53.36
+
+Table : -
+
+Parameter ¢ r estimates { : for t r the ¢ *(cid:1)3 ) associated § | genes \ s with | 1 heterogeneity
+
+Gene «  > allele Frequency ((cid:4)(cid:8)% ((cid:4)(cid:8)%  f gene—sex i : interaction Est. p-value Est. p-value "(cid:26)=9((cid:20)(cid:28) .(cid:30)E/ /(cid:30)/7 .(cid:30)DD .(cid:30)FD .(cid:30)DD "(cid:26)=9((cid:20)(cid:1) .(cid:30)7- .(cid:30)EE .(cid:30)E/ .(cid:30)E7 .(cid:30)J7 Angiotens-M .(cid:30)7E /(cid:30)/- .(cid:30),. .(cid:30)1J .(cid:30)..  CN NENAngiotens-T .(cid:30)FE /(cid:30)/. .(cid:30)7E .(cid:30)E/ .(cid:30)1E et — enedACE-I .(cid:30)J7 /(cid:30).7 .(cid:30)J. .(cid:30)E- .(cid:30)1, (cid:28)*!(cid:20)3 .(cid:30)JJ .(cid:30)E7 .(cid:30)1J /(cid:30)/, .(cid:30)7- 9(cid:1)(cid:29)(cid:29)(,7, .(cid:30)EE .(cid:30)F1 .(cid:30)JJ /(cid:30)17 .(cid:30)7D 9(cid:1)(cid:29)(cid:29)(cid:25),7, .(cid:30)-. /(cid:30)-7 .(cid:30)/1 .(cid:30)1F .(cid:30)./ 6atPA-I .(cid:30)F7 /(cid:30)/7 .(cid:30),D .(cid:30)EE .(cid:30)EF t-PA-D .(cid:30)1, /(cid:30).D .(cid:30)J. .(cid:30)E, .(cid:30)1- &(cid:28)(cid:29)(cid:20)1J7(cid:20)D@ .(cid:30)F. /(cid:30)/1 .(cid:30)-J .(cid:30)E1 .(cid:30)F, &(cid:28)(cid:29)(cid:20)1J7(cid:20)7@ .(cid:30)J, /(cid:30).- .(cid:30)FF /(cid:30).D .(cid:30)F/ GPIIbIMa-L .(cid:30)EF /(cid:30)/E .(cid:30)1, .(cid:30)FE .(cid:30)JE GPIIbIIa-P .(cid:30)-E /(cid:30).- .(cid:30)F7 .(cid:30)E1 .(cid:30)JJ 9(cid:1)(cid:29)(cid:29)(cid:20),-,&. .(cid:30)EE .(cid:30)EE .(cid:30)EJ /(cid:30)-/ .(cid:30)J7 9(cid:1)(cid:29)(cid:29)(cid:20),-,&/. .(cid:30)-- /(cid:30)-1 .(cid:30)/, .(cid:30)1E .(cid:30)./ FVIlintron7-H6 .(cid:30)E. /(cid:30)/. .(cid:30)1. /(cid:30)/7 .(cid:30)77 FVIlintron7-H7 .(cid:30)DJ .(cid:30)EE .(cid:30)EE .(cid:30)F7 .(cid:30)-D Fibrinogen-G .(cid:30)EF .(cid:30)EE .(cid:30)EF .(cid:30)-- .(cid:30),, EE EEEFibrinogen-A. .(cid:30),D /(cid:30)/1 .(cid:30)-- .(cid:30)F/ .(cid:30)/D
+
+eee OMfemales is set to one | as Mw aN Peereference. TDThe > see-*result indicates that some   polymorphisms that reduce the hazard of *(cid:1)3  also favourable for male ~~ oe PM,longevity edbut peesnot for female longevity. In Fig. /(cid:27) sex-specific survivals for carriers and ON Ney eeenon-carriers of the IOI IIE II EESangiotensinogen "-,7 Se teallele are Creeplotted. The male carriers have better survival than II IERnon-carriers but for females it is the opposite although the difference in survival between female carriers and REE TEnon-carriers rr’is very eesmall. “OooThe observed and estimated proportions of carriers of the angiotensinogen " allele by age for males and for rerefemales are plotted in Fig. -(cid:30) eM meWhile the oe Aefrequency of ao MF USScarriers >~of the M-allele goes up with age renin males, it ‘omtends to decline in peefemales due to the sex-dependent ou“influ- ence of the gene.
+
+frequencies | for | carriers ( — |of 1 res‘the | gene i meealleles. ° _ The —e ee: p-values | reserfor | * the « - estimated | | initial | | frequen- cies  not shown since a =they are all IIE FOREsignificantly different from Zero. eis ttietProportions of carriers | of 1 the 1 three alleles. , are | PN OEE AE- estimated | ‘on| as | .(cid:30)7E/(cid:27) .(cid:30)/E7 and | .(cid:30)--. ne EE ee) respectively.
+
+ _ Discussions
+
+Incorporation \ of § F gene—sex i interaction in 1 \ the - analysis | ; produces 1 s results 1 ; that | [ were 1 : missed
+
+1.0 0.9 0.8 0.7 (+), male 0.6 (-), male (+), female 0.5 (-), female 0.4 0.3 0.2 0.1 0.0 20 30 40 50 60 70 80 90 100 age lavivruS
+
+Fig. | /(cid:30) . The s > sex-specific s > survivals f s for « r angiotensinogen } " [ allele « > carriers sand 1 | non-carriers.
+
+int . the « - original « | analysis 1 using 1 r the | » gene | - frequency 1 method | | (Bladbjerg « ret tal., /EEE:(cid:30) _ The | fact that | - the | Seegene | SLE J OE EOfrequency 1 EEE OO‘method 1 “om Ai| ignores | ape Re; interactions ' —— ao; when « EN IES ™™| comparing | “enerothe | 9 tA}gene | Cpe Be Eee: frequency EEE INS ESdifferences | nee Tee; between 1 new ye| the « ‘control | nn — ied| group ¢ y and 1 | the « - centenarians « ene es; could | en DLE| be ; 5m ON EN- attributed 1 | to 1 ) the | selack MAMof thw iho"efficiency | oeof yea"the iwgene PEER BENTfrequency ‘renamethod heewhen | Mw BRRapplied etto) aessmall | —e=FVn——samples. In | the aaJ“_™new model, the “Jrisk of ~ ome eet" gene—sex “pee J eeeinteraction is. defined “rras an | extra risk atfor ‘beremale carriers in ahem ey NAERcomparison to ~N Exeefemale carriers. Information from both sexes is used to determine the EEE TE IEE OEparameter of interaction. However, one important nontranditional epidemiologic ee eeapproach, t the « - case-only « "decidesign, | which “9 Maes| Was ¢ nee REEoriginally « derived | | for « ‘analysing | “Pee' gene-environ- “rr™*ment i “een ME NDt interaction i 1 in ¢ EE DINE| disease | ee mn Ne: prevalence ( NEE OE> (Piegorsch ¢ eedLet é i ital. /EED0 ; Khoury wey and | Me ON Ne| Flanders, | /EE1:(cid:27) can | | be | - introduced | | here to ~ Peweedetect | ENE NE DN ESS- gene-Sex | SN NEinteraction | aain | ——————e| human NP OEE_ longevity | When | ey Rh AMID| treating centenarians as | cases. | Taking “~"* &*the ne EN ENE SEangiotensinogen " allele for | aM NDexample, there  /.1 centenarian | carriers | 8,D 7 eee ™| males, ’ J- “eNO eee. females) ; senate) and ’ J1 ) non-carriers | 8/- oe TEmales, ¢ 1D | females) « ) of the : allele. ' _ The « meeeodds 1  Tatio « eR I ae oe) comparing (OLEANmale « oecarriers | tO | ) female « een aN ee eecarriers 1 is | -(cid:30)7/E ) with ¢ a | E7B confident interval of /(cid:30)-.,57(cid:30)-J1(cid:30) The statistical test showed  significantly higher proportion | of | "carriers | of | ‘the ; allele -   | male | - centenarians | than | that - in: eesfemale | meee J EE- centenarians 8(cid:1)-   7,FD(cid:27)    .(cid:30).-.: ) which | | means | that the ; allele | - favours | ; male : survival. . _ Although | | this NA eMconclusion is NM NRE EScompatible with our result, the case-only approach does not NEallow for evaluation | of |    ap eae- independent « effect |   ‘the | allele |    but 1 Preemerely » involves : a | departure from | | multiplicative « ~—Peeffects | ; (Rothman ; . and | | Greenland, /EEF0 Yang | ay oe- and | Khoury, /EEJ:(cid:30) In the 1 III TE> relative 1 poe> risk 1 ‘model « ew kieeoreee| exploited i lint 1 this | cer,s pap , OUT | LINED AASr primary 1 aM ARESinterest i omtis s not t only t ~ 7?/tot yo) test f an aet for t fe “aer the gene-—sex | interaction | oh NESE| but | ewalso | to DAE EIS EEEevaluate | the 1 ee Berisk | eeeof | eee‘the ; Joeallele « - OF OD LDgenotype : i» aS | well ; as | its  initial | | frequency. | In« . addition, ' 2(cid:15) > Can « also ¢ ) estimate 1 the » genotype we eeespecific “JN Seo> survival « | distribu- tion ; | as | eee; shown | in|   /(cid:30) _ Nevertheless, 1 the «   easil    ‘applicable « vee P= Spee- case-only  - approach | Lis ¢ al  _ useful tool for ean =)measuring > ee Neegene—sex BRN ENN BESinteraction in ee) SPRhuman longevity as a dSit “revs.avoids the troubles originated | from | Pee oN| ordinary « case-control « design.
+
+(a) 1.0 0.9 obs. est. 0.8 0.7 0.6 0.5 (b) 0.8 obs. est. 0.7 0.6 0.5 0.4 0.3 20 40 60 80 100 )x(p)x(p
+
+-(cid:30) . The « » observed ¢ | and « | estimated | | proportions ¢ sof « ' angiotensinogen | " [ allele « - carriers | : by rage | - for 1 ‘males ( 8(cid:2): 8(cid:19):(cid:30)
+
+unexpected : | as | ; previous ; ; studies | shave : found : | sex-dependent « t effects « of t these | - polymorphisms on ¢ ope1. other | oo EEE ree‘ phenotypical t | traits. ] . For « ‘example, t , the § ee ees> genotypes ¢ sof t F the NDE IND ONE IIE IO- angiotensinogen § EOI| gene | > were found 1 ae” E| to | reebe NE EE OE EEE- significantl  ‘associated \ meee ye 9| with | oe oem| variation | eIin: ree Sa| systolic 1 ooresting | ELIE: (Hegele : nn —et i tal., /EED: and « | exercise ( Od> (Rankinen « ‘eo1 et é tal., : -...: ) blood | | pressure, | es, but «  int een IS ON| males. '  . The 1 _——results i wD OE; indicate that | t the | Ce NEN NEN» genetic \ : variation i in t \ the | NElocus 1 NE PO; modifies 1 the 1 ON NEE J OE OIE; responsiveness ( ; of t F the | - blood | | pressure 1 to EEN NIN Eeendurance 1 training, | but | the | - functional | | impact i Lis 1 va eeerelated 1 | to differences |   | SEX.” re_ The | - gender- related effect a =in Soethe genetic III TEmodulation of FVII plasma levels has been oestudied
+
++, . Tan ¢ 1 et ¢ tal. / - / Experimental ( | Gerontology - ./ 012234 3.2.53.36
+
+show : CONE DOODstronger « effect « "aS FOn | re Ieee| plasma | pee\ FVIII | level 1 [int AOE NES| male t AMPs> than i 1 in | | female | Italians | 83(cid:4) ~~ — eee a| Castelnuovo et. al., /EEF:(cid:30) The | on ME EEplasma FVII. clotting | activity | has | been | suggested | as- 7~\*a risk marker | of cardiac | OMT?death aaa pee(Meade. et. al., /EE,:(cid:27) mene ™and | also the FVII | OE OD OESpolymorphisms -  predictive | of *(cid:1)3 in | “ese NA| Italian : yee—e—e—e——e—e =| studies | RED A A A,; (Iacoviello « “Fo §yet i tal., /EEF0 - Girelli « “a FEet é peetal., / -...:(cid:30) DEDEDE EDEN ES. However, t the | } putative relation | | between | . FVII | vera| polymorphisms « 7asand ( *(cid:1)3 ) are t ane ee eee» turned « a ees| down 1 wee”1 in « other istudies | 7 pees; (Lane « et al., /EE10 Feng | et "as tTal., -...:(cid:27) we peesand it may be. speculated that this. _ discrepancy is, | ~_at least MOOD AA Apartly, « MT REEcaused | ‘oe ™*| by | an ¢ “eo oreffect « ee| of | " gender. | In 2 VN pe’1 women, | FVII! levels ; are | ENE EEincreased | | by 1 yon’/ menopause res Joe(Scarabin | et | oeal., /EE.(cid:27) /EE1: =eand hormone | REE MAOEY A NAR EDNreplacement therapy OE ILLES(Cushman aoet. al., /EEE0 Ae ee eeMarchien 1 van | eeey aA @| Baal « ca)Let : “9ral., ‘ -...:(cid:27) and « | elderly \ 7 eee- women | have | Ee- higher | PANFVII! [levels 1 than | a| men « “aoof the   age | - (Scarabin | ~*9et. -al., /EE10 ees POINTIshikawa | et. -al., /EEJ:(cid:30) oe”Also, women —  | with « _ coronary artery | mai SENdisease heenhave higher aFVII otlevels than men 27awith ae’ fethe yee”disease (Kalaria | et. al., -...0 OE, NOIOssei-Gerning « et é tal., /EEF:(cid:30) . Perhaps s the ¢ > effect «  t of | f hormones «  sand | ™“| lifestyle 1 » factors « so? <<"; drown 1 —?| the effect | of EIDE OEgenotype ey nAon | *(cid:1)3 isk in women. Although there have we Jobeen many | studies | on disease “S ome TPMassociation, the present study reveals, for the first time, the ND ONE NEEsex-dependent association | of | ‘the | en BEE eee- polymorphisms » | with | J wee eee ®_ longevity.
+
+Eegenetic remodulation |  of | human   span ~~P*in| other | studies”   eaegene | wees Beand  -longevity,   as oestudies | of 1 ‘the | =A(cid:28)(cid:20)3( alleles | 83(cid:6)(cid:3)(cid:2)% et cal., /EED0 joieIvanova «  et cal., /EEF:(cid:27) a —the | =A(cid:28)(cid:20)*2/(cid:27) *2J alleles | (Proust | et cal., /EF-:(cid:27) and the weg nAlarge | “naresallele | group | at | “neothe AA AMI MOtyrosine. “Ae nehydroxylase 8(cid:26)=L: awelocus | 83(cid:15) ee ND A A: Benedictis | et. ty &Mval., | -...0 ~~ EeeTan « SY ™et val., | -../:(cid:30) res”The : ON DO IE- sex-dependent | NEE JOONinfluence vena Fenindicates | “eXthat “Methe | effect. of |  eogene | —_on | a “aa Ne ey memultifactorial | NE Petrait depends | oTon | eeethe | physiological scenario y changes 1 in 3 | males % “Ss S&Ssand | see eee| females « differently, 1 the « effect « “~r™t of 3 a ( | certain | Me Re| gene « wy>on § oes| survival could | | vary | REE TEEbetween | | the : Sexes. | The « existence | of | Po EN" gene—sex | interaction : “es ON| Shows | not | only | the ee EE YO”complexity of the aging process. It also ~—— eeindicates that the two sexes follow ~ eee yeedifferent NET EStrajectories | , toward « Som F*| extreme | longevity | (Franceschi « et 3 cal., ‘ -...:(cid:30)
+
+“aeThe | - polygenic - feature | of | ‘life.   i Simakes - it eee Ne RRR OD RN_ imperative | tO | Maetake | into | ) account | the | - unob- served I reso.”| hidden | : heterogeneity i yin ope eeindividual | | frailty 1 eefor t r two t ) reasons. ] . First, t , there i >is | ; unobserved heterogeneity - in. -an SE EEEindividual’s _ genetic LL LLIN FOEmake-up, which | | accounts | ett tefor | about -7B of ’ the Ne Oevariation | in| my oolife | span | _according | “ &*to | pan) previous : mea MPstudies | 8"(cid:10)@(cid:13)(cid:15) et | cal., /EE,0 _Herskind « let ; -al., /EE10 Yashin “epeeand Jachine, /EE7:(cid:30) Regarding rowerthe number of 9 AAO?genetic variations ™~ seeeethat ND RORcontribute | to | life. span,  nee ey AMartin | 8/EEJ: oe| estimated | | that | there « could | of| be up | to i ) about J...(cid:30) In such |  highly cee Rn peseene Apolygenic pe EE ND Asituation, asit xmis advisable to. consider the SE Teeinfluences from | other —e EOunobserved | ad Ped| genes” Jon; when - | making : an | inference - from | the | - observed « | ones. Second, 1 there. are also 1 EEE EN) non-genetic | factors | that | eee 8t have  | predominant | influence « on | | life : : span, % and | waneeg bee”| these « - consti- tute « SALE Ee”- another | layer ¢ - of | ' heterogeneity “FPin i LLL IE| individual | | frailty. * _ The « NEE EEE OEEexistence - of § f genetic ¢ >and 1 | non- genetic | EEE EI EOIheterogeneity in “Soeindividual - es   affecting   span | | Can | NN eeinfluence’ an inference Gee“ refrom ; . an SEN OO| observed | eee yee| genetic | EN NINE OI IIE- polymorphism. | In | OUL 5 DEED ARR SFE‘analysis, 2(cid:15) also | ) tried | | to ) apply al | simple model { | that « does 1 not | take | ~ peewee bees’‘unobserved | | frailty | into ; EN PII) account. ' The - estimated | sw “MPR? ™relative 1 a eeerisks | of gene-—sex 1 interaction { \ for 1 the three : oo OO- significant t alleles ; Were § > systematically \ / weaker t than | they were in| | the heterogeneity model | oewith | risk | parameters | .(cid:30)F71 for. NN IISangiotensinogen "-,7(cid:27) .(cid:30)F7J for | FVII (cid:25),7,  and | .(cid:30)F1. ) for | 9(cid:1)(cid:29)(cid:29)5,-,&/.(cid:30)   - differences 1  in | > eee ee| parameter | ED‘inference present ; La | | good ¢ — << eee| example of 1 * the « difficult : | situation | facing | - studies « of | eeelongevity and « | of 1 ’ multi- breefactorial ok — iediseases ee IN LLL IIIS(Clerget-Darpoux, -...:(cid:30) NEE IRE IISIndividual ENE EEE OOheterogeneity in the unobserved attributes is an Ae oeobstacle that spss ameprevents us from unraveling ounthe eee yeegenetic component in
+
+Oeppen from Cambridge OTUniversity 9%for oOuseful discussions. The authors also want to NPPthank the DI III III IID!anonymous ON MEE ENreviewers for their very valuable suggestions that helped in improving | the 1 ween J eetext.
+
+Alvarez, \  , Alvarez, I   , Lahoz, ¢ ,C.H.,} , Martinez, (  , Pena, J J. ( , Guisasola, I _L.M., , Salas-Puig, J   , Moris, ¢  , Uria, I Menes, | BB., |  Ribacoba, |  _ Vidal, .   Sanchez, . JM. | Coto, |  /EEE(cid:
+
+)
+
+ALONE MILESAssociation |  | between an macroglobulin |
+
+H(cid:
+
+) . polymorphism <
+
+and | | late-onset t Alzheimer’s ¢ : disease. ]  . Biochem. | . Biophys. | . Res. ( -
+
+D
+
+/:(cid:
+
+) DF
+
+(cid:
+
+) Apotech | Yay, Teo”| System, /EE
+
+(cid:
+
+)   Mathematical and | | Statistical | System. | Vol. | (cid:
+
+)? System | and | | Graphics NNN AIOApotech §
+
+System, | , Maple ' > Valley,
+
+, WA. “sr
+
+sada, _T., | “we Oe. Kariya,   epee See, Yamagata, ey TNZ., |     . Asaka,   /EE
+
+(cid:
+
+) . Apolipoprotein | ! | allele i in ¢ Neurology < D
+
+:(cid:
+
+) /DFD(cid:
+
+) Bladbjerg, |
+
+ey OTN,EM., / re AMS hee, Andersen-Ranberg, |  , de} > Maat, }  , Kristensen, § »S.R.,J , Jeune, f  , Gram, J J.J , Jespersen, J  ME Ee Bet
+
+ongevity is _ independent | of. eh hecommon variations in genes | associated with |  NE eae a Emercardiovascular "risk, | NN ODHaemost. § F-
+
+,:(cid:
+
+) //..
+
+//.
+
+(cid:
+
+) Chen, |   eee Me_ Zhang, |   Fan,   _ Shi, |  Li,  Chen, |   _ Zhang, .  Gu, |   /EEF(cid:
+
+)  molecular - variant | rere eg AMOS ONSangiotensi  inogen | | gene |   ; associated | | with
+
+Ae et ONS| myocardial | NS AAEMinfarction |   Chinese. | Chung |
+
+| Hsueh |
+
+O
+
+sueh *
+
+Tsa ( oe
+
+Chih | /
+
+,:(cid:
+
+) /,,
+
+/,
+
+(cid:
+
+) Clerget-Darpoux,
+
+-...(cid:
+
+) As eee. Unraveling t x the § > genetic ¢ > component « t of
+
+f multifactorial | diseases: ¢ : dream ¢ Lori r reality. | owetional § AMMEN ee| Statistical ] | Review ¢
+
+F
+
+/:(cid:
+
+) D
+
+/(cid:
+
+) Cong, !   , Hamaguchi, |   NAT OES, Saikawa,
+
+_T., , Hara, }   , Sakata,
+
+/EEF(cid:
+
+) .AY . polymorphism ¢
+
+of z f angiotensinogen g ope eecodon | /JD SSDS| and « Soe| coronary ¢ / artery ( disease i in J
+
+Japanese s subjects.  . Am. J )(cid:
+
+) a. Med. § ae a. Sci. | ,/
+
+:(cid:
+
+) ,,E
+
+,DD(cid:
+
+) Corder, |   , Saunders, . ee I en, AM., § ms Maree ae_ Strittmatter, ' mew epe
+
+z.   NN ES PE. Schmechel, | _D.E., ¢ . Gaskell, | PC. | ne AST?Small, | _G.W,, | Roses, . Haines, J JL, I , Pericak-Vance, } , May, | /EE,(cid:
+
+) . Gene ¢ > dose ¢ > of « f apolipoprotein | ! i type ¢ D t allele > and t I the
+
+> risk ¢   mer’s ¢ s disease i in |
+
+late ¢ > onset { t families. § . Science -
+
+/
+
+/-,:(cid:
+
+) E-/
+
+E-,(cid:
+
+) Cushman, } _ M.,
+
+, Meilahn, |   , Psaty, | , B.M., } , Kuller, | ee AN_ L.H., | net Py eee, Dobs, ,AS.,"  , Tracy, | .RP., | /EEE(cid:
+
+) . Hormone | Therapy. |]  . Inflammation, < , and | OT AANA   sin |
+
+Elderly '  y Women / yp SAeweg ET
+
+Arterioscler | /E(cid:
+
+) FE,
+
+FEE(cid:
+
+)
+
+(cid:
+
+) PS> Benedictis   G.I , Falcone, E EI , Rose, ¢ .G.,] , Ruffolo, I  IEE ES, Spadafora, I .P., I , Baggio, (  , Bertolini, §  » Mari, I   R,,
+
+, Monti, |  , Morellini,
+
+.M., , Sansoni, I _P., J eee AN OM, Franceschi, ¢ .C., /EEJ(cid:
+
+)
+
+H(cid:
+
+) ———e——“_. multiallelic s > systems
+
+s reveal § evity ¢ / associations
+
+; not ¢ t detected t | by « : diallelic s ystems: ”  : The / (cid:
+
+)&L# } locus. I . Hum. ¢ Ne OO. Genet. ¢ EE(cid:
+
+) ,/-
+
+,/F(cid:
+
+)
+
+(cid:
+
+) Naty eeeomne- Benedictis, | ,G., ( , Carotenuto, | ,L., ¢ see, Carrieri, ( hae OYG., J
+
+(cid:
+
+) : Luca, | , M., | , Falcone, | .E., ] , Rose, (   , Yashin, / AL, | , Bonafe, | Franceschi, |  /EEF(cid:
+
+) _ Age-related | changes « of | the | ,(cid:
+
+)(cid:
+
+)&L#(cid:
+
+)(cid:
+
+)H(cid:
+
+)( _ genotype | » pool i  | in
+
+| ageing | ; cohorts. . Hum. ¢ . Genet. ¢
+
+-(cid:
+
+) //
+
+/--(cid:
+
+)
+
+(cid:
+
+) > Benedictis, _G., ¢ , Carrieri, ( .G., ¢ , Garasto, §  , Rose, ¢  , Varcasia, (  , Bonafe, }  , Franceschi,  , Jazwinski, § -...(cid:
+
+) . Does ¢   | retrograde
+
+> response i > in |
+
+human <
+
+aging rand | | longevity « / exist?. | . Exp. ¢ . Gerontol. : ,
+
+(cid:
+
+)J:(cid:
+
+) JE
+
+F./(cid:
+
+)
+
+(cid:
+
+) i Castelnuovo, /   “oe eee, D’Orazio, / ~ope
+
+A. / , Amore, ¢ .C.,
+
+eee EPS, Falanga, / A, I
+
+oe Ne. Kluft, ¢  pene, Donati, }  Ape, M.B., I , lacoviello, | a i
+
+L. | /EEF(cid:
+
+) modulation «
+
+of +  ‘ coagulation | | factor” “VII | | plasma | MOE A eslevels: «  - contribution | | of different | _ polymorphisms ;   related ¢   Neo eee. Thromb. | . Haemost. § F.
+
+D:(cid:
+
+)
+
+E-
+
+EJ(cid:
+
+) Dorak, | , M.T., ] , Mills, } . KL, ( , Gaffney, | .D.," MNES, Wilson, | , D.W., ¢ , Galbraith, |  , Henderson, !  , Burnett, /   /EED(cid:
+
+) zygous } "=* ’ genotypes ¢ eeesand | Ve Jo Datey Trae”| longevity. ] . Hum. | . Hered. ¢ DD
+
+:(cid:
+
+) -J/
+
+-JF(cid:
+
+) Od
+
+eng, |   BANDE OS. Tofler, ( ‘owed,G.H., | ‘J reoaem, Larson, | ENN, M.G., (  vung nae a, O'Donnell, | LCI] fe OEE ASS ee. Lipinska, | oe , Schmitz,  . Sutherland, | P.A,, | o
+
+T.,) ; Muller, J SE.
+
+, D'Agostino,   » Levy, I »D.,
+
+Hp wen eh ONS, Lindpaintner, f »K.,
+
+-...(cid:
+
+) . Factor \  r VII I gene f > polymorphism, f
+
+  BANDE OS. Tofler, ( ‘owed,G.H., | ‘J reoaem, Larson, | ENN, M.G., (  vung nae a, O'Donnell, | LCI] fe OEE ASS ee. Lipinska, | oe , Schmitz,  . Sutherland, | P.A,, | , Johnstone, otM.T.,) ; Muller, J SE. 1 , D'Agostino,   » Levy, I »D.,1 Hp wen eh ONS, Lindpaintner, f »K.,2 -...(cid:30) . Factor \  r VII I gene f > polymorphism, f , factor
+
+VII | [ levels, , and | | prevalent t cardiovascular disease: t : the ] > Framingham |
+
+Heart t Study. / . Arterioscler ’ r Thromb. ' . Vasc. Biol.
+
+-.
+
+-:(cid:
+
+)
+
+E,
+
+.(cid:
+
+) Franceschi, ¢ we
+
+,
+
+tein, Motta, I »L., , Valensin, $  , Rapisarda, I R.,I , Franzone, /   , Berardelli, }  , Motta, }  ; Monti, I  , Bonafe, M.,F , Ferrucci, I LI , Deiana, | »L.,F ; Pes, ( Mey NCP. G.M., ( pieenmes, Carru, ¢ »C.,
+
+, Desole, .M.S.,E , Barbi, ¢ Cs , Sartoni, ¢ »G., ¢ , Gemelli, ( C
+
+, Lescai, I   Olivieri, ] PF.
+
+, Marchegiani, I ,F., ( , Cardelli, | , M., ( , Cavallone, | ,L., ¢  , Gueresi, | ,P., ( , Cossarizza, :   , Troiano, | L., J , Pini, ¢   Sansoni, I
+
+AONE S, Passeri, ( ou
+
+I , Lisa, I RS , Spazzafumo, |   , Amadio, |   , Giunta, §  , Stecconi, |  , Morresi, I  , Viticchi, Cc.) , Mattace, I
+
+(cid:
+
+) > Benedictis, (   eee, Baggio, ¢ »G.,
+
+-...(cid:
+
+)
+
+(cid:
+
+) >men a Vand \
+
+women f
+
+follow ¢ v different t t trajectories t stor > reach extreme | > longevity? | ’ Italian | see Oe
+
+Multicenter § orn esr Study « on
+
+Centenarians. / . Aging ( : (Milano) | /-
+
+-:(cid:
+
+) JJ
+
+FD(cid:
+
+) Frossard, |
+
+RES, P.M., I
+
+ey, Hill, s “ye ase_ S.H., | , Elshahat, * YL, ( “en EN Mae, Obineche, | _EN., } , Bokhari, / steoes *\,AM., I OO AN, Lestringant, ( Ne OE,GG., J , John,
+
+, Abdulle, AM., | /EEF(cid:
+
+) . Associations s of < f angiotensinogen §
+
+gene I > mutations \ s with I BR EEO
+
+hypertension ¢ o—, «OS
+
+and
+
+myocardial i | infarction i vin
+
+gulf | f population. ( . Clin. ¢  ee OSS. Genet. :
+
+D
+
+D:(cid:
+
+) -F
+
+-E,(cid:
+
+) eeu
+
+alinsky, I  pee, Tysoe, (   , Brayne, ¢ eee  TTS a, Easton, I , D.F., I , Huppert, I   , Dening,
+
+TR. , Paykel, I ,E.S.,I , Rubinsztein, I ,D.C., /EEJ(cid:
+
+) pate aye. Analysis c s of t fthe a meeeaye”> apo F JAN
+
+et) E/apo ¢ »C-I, a , angiotensin c REM PEN
+
+converting € x enzyme a ene *> and BN A AT NED Dae eg ON
+
+methylenetetrahydrofolate  > reductase   sas ¢ PE ODD IE IONSs candidates « o™ Opener; affecting | pe Are: human | OE ONLI
+
+longevity. REN NID DIES MODIS ST”. Atherosclerosis | /-E
+
+-:(cid:
+
+) /JJ
+
+/F,(cid:
+
+)  Gerdes, | , L.U., ¢ , Gerdes, ( .C.,
+
+NEEDS OEE, Kervinen, |   pe EEE NANT A ™, Savolainen, | , M., ] , Klausen, | LC,
+
+] A Ne AEE, Hansen, | P.S., J  , Kesaniemi, , Y.A.,] , Faerge- man, |  -...(cid:
+
+) The | apolipoprotein | epsilon
+
+; allele | determines | prognosis ; and | | the | effect |  on | Dae SOO  of simvastatin in  aa opesurvivors | of MPa MPO"myocardial infarction: | a substudy |
+
+pe”of | the Scandinavian | ee EE e
+
+imvastatin  eeesurvival study. ( . Circulation | /./
+
+/-:(cid:
+
+) /,
+
+/,J/(cid:
+
+) Gerdes, I “Jee_LU.,J , Jeune, I _B.,
+
+PMR NEARY DM, Ranberg, I   , Nybo, I  , Vaupel, J _J.W.,
+
+-...(cid:
+
+) . Estimation ¢
+
+of z f apolipoprotein | !   specific |  relative | - mortality
+
+MEE? AMtisks metre DNSfrom  the « bp Bheg N AMEP NODdistribution « of | ' genotypes i sin « PEED NIE OES| centenarians < Teer; and | pee nh ot Nee| middle-aged
+
+| men: OP EONapolipoprotein | ! | gene i
+
+‘frailty § / gene’, I , not ¢  een” ®
+
+‘longevity § een/ gene’. ( i. Genet. I . Epidemiol. | /E
+
+,:(cid:
+
+) -.-
+
+-/.(cid:
+
+) pe
+
+irelli, ] eee E_D.,} VPs”, Russo, (  ot ae eae, Ferraresi, I _P., ¢ ee BNA, Olivieri, ( ,
+
+, eee, Pinotti, |  a — le, Friso,  Nee ee, Manzato, | FP.) eens DA NST
+
+, Mazzucco, / A, I , Bernardi, |   Corrocher, |   -...(cid:
+
+) . Polymorphisms i s int
+
+the f > factor  r VII § [ gene ¢ > and t
+
+the
+
+> risk ¢ Of
+
+f myocardial i | infarction i
+
+in |
+
+patients with ¢
+
+coronary ¢ / artery ¢ CE FEST; disease.
+
+H(cid:
+
+) . Engl. J )(cid:
+
+) . Med. : ,D,
+
+//:(cid:
+
+) JJD
+
+JF.(cid:
+
+) Hegele, | RA., tee J OSHuang, | ty Me
+
+S., | _ Herbert, » a — ee
+
+N., Blum, | ere e
+
+B., | n/n| Buring, . SE., Hennekens, | CH., | _ Breslow, . SL, /EF
+
+(cid:
+
+) ee en e
+
+polipoprotein | RANE Rees| B-gene |
+
+H(cid:
+
+) . polymorphism : | associated | meee| with
+
+| myocardial i | infarction. | H(cid:
+
+) Engl. . )(cid:
+
+) Med. | ,/
+
+-D:(cid:
+
+) /
+
+E
+
+/
+
+/
+
+(cid:
+
+) Hegele, |   , Brunt, J _ J.H., ¢ , Connelly, ]   /EED(cid:
+
+) .AY . polymorphism «
+
+of t f the < > angiotensi:
+
+gene » associated |
+
+with Sa ANE ADvariation i
+
+blood | | pressure i > in ¢ nd?la § Jr ee Thee *| genetic i : isolate. ( NMED IE. Circulation ‘ E.
+
+:(cid:
+
+) --.J
+
+--/-(cid:
+
+) Heijmans, | _ B.T., | Ne ROO, Westendorp, |   » owini ames, Slagboom, I , P.E.,
+
+-...(cid:
+
+) NEE PME XS. Common § ws
+
+gene | > variants,
+
+, mortality < : and ¢ | extreme | > long-
+
+evity i yin |
+
+humans. I Exp. MAB ANE Ne. Gerontol. : ,
+
+(cid:
+
+)J:(cid:
+
+) F
+
+FJJ(cid:
+
+) were dy a”Herskind, , , A.M., | DOLD DAES, M
+
+ue, | , M.,
+
+] , Holm, ! ae
+
+fs ees, Sorensen, “ TL, , Harvald, |   , Vaupel, | , JW., /E..(cid:
+
+) . The | > heritability « ‘of human | | longevity, : al | population-based s | study « of | -FJ- - Danish | | twin | ae Ta| pairs | Mr MES; born /FJ.
+
+/E..(cid:
+
+) Hum. OD. Genet. ‘ EJ(cid:
+
+) ,/E
+
+,-,(cid:
+
+) Hoeg, | _ J.M.., | /EE
+
+(cid:
+
+) . Can §
+
+genes | ; prevent ¢   )(cid:
+
+)"(cid:
+
+) -J
+
+/-:(cid:
+
+) EFE
+
+EE-(cid:
+
+) DAMNED SAAN Bo
+
+acoviello, |
+
+(cid:
+
+)  en BMA peesi Castelnuovo, .
+
+(cid:
+
+) > Knijff, | ,P., | , D’Orazio, :    EM NEED, Amore, (  a
+
+J  , Arboretti, ]  , Kluft,  , Benedetta Donati, }  /EEF(cid:
+
+) . Polymorphisms i s int ames
+
+the ¢ v
+
+epee ee> coagulation f
+
+factor ‘  I gene a > and t
+
+the r > risk ¢ cof
+
+f myocardial i | infarction. } H(cid:
+
+) Engl. J )(cid:
+
+) . Med. : ,,F
+
+-:(cid:
+
+) JE
+
+F
+
+(cid:
+
+) MMOIshikawa, ‘ _S.,
+
+, Kario, |   a/y fa ™, Nago,
+
+,N.,
+
+, Kayaba, |  , Hiraoka, |  , Matsuo, |  , Goto, "  , Miyamoto, °   , Tsutsumi,
+
+Nakamura, *   ehy ANeg ANCES, Shimada, I o
+
+I fey MOAT S, Inoue, I sees.K.
+
+, Igarashi, } _M., | /EEJ(cid:
+
+) . Factor r VIL [and f
+
+hog reyes| fibrinogen |
+
+levels ¢ s examined t
+
+by < y age, SEX, ¢ , and ¢ | other ¢ r atherosclerotic r > risk { wo A&R SEfactors i
+
+a J
+
+Japanese | > population. ” . The J > Jichi } PA EES
+
+i Medical § | School ( | Cohort MI
+
+Mst Study. Thromb. | . Haemost. ” JJ
+
+:(cid:
+
+) FE.
+
+FE,(cid:
+
+) Ivanova, |  , Henon, |   ff XS Iya, Lepage, '  , Charron, |  , Vicaut, |  , Schachter, |  /EEF(cid:
+
+) =A(cid:
+
+)(cid:
+
+)
+
+( . alleles « s display s | SEX-
+
+pe
+
+irelli, ] eee E_D.,} VPs”, Russo, (  ot ae eae, Ferraresi, I _P., ¢ ee BNA, Olivieri, ( ,
+
+, eee, Pinotti, |  a — le, Friso,  Nee ee, Manzato, | FP.) eens DA NST
+
+, Mazzucco, / A, I , Bernardi, | Corrocher, |   -...(cid:
+
+) . Polymorphisms i s int
+
+the f > factor  r VII § [ gene ¢ > and t
+
+the
+
+> risk ¢ Of
+
+f myocardial i | infarction i
+
+in | with ¢
+
+coronary ¢ / artery ¢ CE FEST; disease.
+
+H(cid:
+
+) . Engl. J )(cid:
+
+) . Med. : ,D,
+
+//:(cid:
+
+) JJD
+
+JF.(cid:
+
+) Hegele, | RA., tee J OSHuang, | ty Me
+
+S., | _ Herbert, » a — ee
+
+N., Blum, | ere e
+
+B., | n/n| Buring, . SE., Hennekens, | CH., | _ Breslow, . SL, ee en e
+
+polipoprotein | RANE Rees| B-gene |
+
+H(cid:
+
+) . polymorphism : | associated | meee| with
+
+| myocardial i | infarction. | H(cid:
+
+) Engl. . )(cid:
+
+) Med. |
+
+-D:(cid:
+
+) /
+
+E
+
+/
+
+/
+
+(cid:
+
+) Hegele, |   , Brunt, J _ J.H., ¢ , Connelly, ]   /EED(cid:
+
+) .AY . polymorphism «
+
+of t f the < > angiotensi:
+
+gene » associated | Sa ANE ADvariation i
+
+blood | | pressure i > in ¢ nd?la § Jr ee Thee *| genetic i : isolate. ( NMED IE. Circulation ‘ E.
+
+:(cid:
+
+) --.J
+
+--/-(cid:
+
+) Heijmans, | _ B.T., | Ne ROO, Westendorp, |   » owini ames, Slagboom, I , P.E.,
+
+-...(cid:
+
+) NEE PME XS. Common § ws
+
+gene | > variants,
+
+, mortality < : and ¢ | extreme |
+
+evity i yin |
+
+humans. I Exp. MAB ANE Ne. Gerontol. : ,
+
+(cid:
+
+)J:(cid:
+
+) F
+
+FJJ(cid:
+
+) were dy a”Herskind, , , A.M., | DOLD DAES, M
+
+ue, | , M.,
+
+] , Holm, ! ae
+
+fs ees, Sorensen, “ TL, , Harvald, |   , Vaupel, | , JW., /E..(cid:
+
+) . The | > heritability « human | | longevity, : al | population-based s | study « of | -FJ- - Danish | | twin | ae Ta| pairs | Mr MES; born /FJ.
+
+/E..(cid:
+
+) Hum. OD. Genet. ‘ ,/E
+
+,-,(cid:
+
+) Hoeg, | _ J.M.., | /EE
+
+(cid:
+
+) . Can §
+
+genes | ; prevent ¢   )(cid:
+
+)"(cid:
+
+) -J
+
+/-:(cid:
+
+) EFE
+
+EE-(cid:
+
+) DAMNED SAAN Bo
+
+acoviello, |
+
+(cid:
+
+)  en BMA peesi Castelnuovo, .
+
+(cid:
+
+) > Knijff, | ,P., | , D’Orazio, :    EM NEED, Amore, (  a
+
+J  , Arboretti, ]  , Kluft,  Donati, }  /EEF(cid:
+
+) . Polymorphisms i s int ames
+
+the ¢ v
+
+epee ee> coagulation f
+
+factor ‘  I gene a > and t
+
+the r > risk ¢ cof
+
+f myocardial i | infarction. } Engl. J )(cid:
+
+) . Med. : ,,F
+
+-:(cid:
+
+) JE
+
+F
+
+(cid:
+
+) MMOIshikawa, ‘ _S.,
+
+, Kario, |   a/y fa ™, Nago,
+
+,N.,
+
+, Kayaba, |  , Hiraoka, |  , Matsuo, |  , Goto, "  , Miyamoto, °   , Tsutsumi,
+
+Nakamura, *   ehy ANeg ANCES, Shimada, I o
+
+I fey MOAT S, Inoue, I sees.K.
+
+, Igarashi, } _M., | /EEJ(cid:
+
+) . Factor r VIL [and f
+
+hog reyes| fibrinogen |
+
+levels ¢ s examined t
+
+by < SEX, ¢ , and ¢ | other ¢ r atherosclerotic r > risk { wo A&R SEfactors i
+
+a J
+
+Japanese | > population. ” . The J > Jichi } PA EES
+
+i Medical § | School ( | Cohort Thromb. | . Haemost. ” JJ
+
+:(cid:
+
+) FE.
+
+FE,(cid:
+
+) Ivanova, |  , Henon, |   ff XS Iya, Lepage, '  , Charron, |  , Vicaut, |  , Schachter, |  /EEF(cid:
+
+) =A(cid:
+
+)(cid:
+
+)
+
+( . alleles « s display s dependent ¢ t effects ¢
+
+és
+
+survival | and c
+
+discriminate t > between i
+
+individual < land f | familial | | longevity. . Hum. }
+
+pee. Mol. ¢ J(cid:
+
+) /FJ
+
+/ED(cid:
+
+) Kalaria,   _ Zareba, °  Moss, . AS, | -Pancio, |  _ Marder, ' VS, | . Morrissey, . JH. . Weiss, | H., | _ Sparks, | Greenberg, | HL, J . Dwyer, | _E., ¢ , Goldstein, |  , Watelet, | , L.F., | -...(cid:
+
+)
+
+STAM EOIN Yh_ Gender-related ¢   | differences i sin t factors | NEE BAey hae; predicting
+
+mse heerecurrent | | cardiac « events | in | | patients ;  after « ‘acute | _ myocardial i | infarction. ‘ _ The ’ ee E
+
+nvestigators. / . Am. J )(cid:
+
+) . Cardiol. § F
+
+/-:(cid:
+
+) /D./
+
+/D.F(cid:
+
+) DRE ONEKervinen, co“  - Savolainen, | oe
+
+Ea ASalokannel, . J, , Hynninen, .   Heikkinen, .  -Ehnholm, |   _Koistinen, Kesaniemi, " ,Y.A,, | /EED(cid:
+
+) ! | Apolipoprotein < . and | # Ft OED EB BONES LILIA AYO; polymorphisms—longevity
+
+factors « s assessed i lint ians.
+
+Atherosclero:     /.
+
+/:(cid:
+
+) FE
+
+E
+
+(cid:
+
+) Khoury, | _M.I.,
+
+, Flanders, \ eam Me, W.D., | /EE
+
+(cid:
+
+)  . Non-traditional « | epidemiologic > approaches i sint
+
+the < > analysis ¢ s of §
+
+_M.I.,1 , Flanders, \ eam Me, W.D., | /EE1(cid:30)  . Non-traditional « | epidemiologic > approaches i sint 1 the < > analysis ¢ s of § f gene-environ- oe BOment i t interaction: ¢   | studies | s with 1 1 NO « ee See) controls! tS! Am. . “eo )(cid:30) OPP ee. Epidemiol. | /DD 8,:(cid:27) -.J5-/,(cid:30)
+
+Lane, .  _ Green, |   _ Scarabin, | P.Y., | . Nicaud, ”  . Bara, |  , Humphries,  _ Evans, .  . Luc, |  Cambou, . Arveiler, | D., | -Cambien, | F.,  /EE
+
+(cid:
+
+) Factor VI.  (cid:
+
+)(cid:
+
+)(cid:
+
+)
+
+@(cid:
+
+)(cid:
+
+),
+
+, MARAE TERED Og Mag Dt- polymorphism | determines | ; factor VIL activity i inf | patients \ s with
+
+myocardial i | infarction (
+
+"(cid:
+
+): ) and « oe pee| control : pe es| subjects i in]
+
+Belfast < t and i lin | France | Mes> but i tis
+
+as menawy OSstrong i as pee: indicator ¢ r of | "(cid:
+
+) a[ risk i in t
+
+the I !*(cid:
+
+)(cid:
+
+)" Ne NANOS[ study. /
+
+ON NEE ONES. Atherosclero:  //E
+
+/:(cid:
+
+) //E
+
+/-J(cid:
+
+) Louhija, | —_—
+
+)
+
+, Miettinen, | _H.E., } , Kontula, |   a,, Tikkanen, } od eae_MJ.,
+
+, Miettinen, “ _ T.A.,
+
+sr, Tilvis, | .RS., | /EED(cid:
+
+) . Aging ¢ z and ¢ READS EE eg ANDvariation ¢
+
+of f f plasma <
+
+apolipoproteins. | . Relative | > loss ¢ s of t f the < > apolipoprotein | !D + phenotype i > in ¢ vs fkeeoam
+
+centenarians. / ioscler. ” ee Me Pees. Thromb. | /D
+
+J:(cid:
+
+) /.FD
+
+/.FE(cid:
+
+) Macko, F   ; Kittner, § NSE»S.S., I
+
+y aes, Epstein, / »A., ¢ , Cox, I , D.K.,\ , Wozniak, }  , Wityk, I RJ, , Stern, E B.S. , Sloan, , M.A.,§ R,, | , Price, * .T.R., | hy Mies Depo., M
+
+arter, | RJ, | . Johnson, ¢ ,CI., | , Earley, ,CI.,
+
+Meg NP AR TN ONO, Buchholz, | _D.W., § , Stolley, | , P.D., /EEE(cid:
+
+)   > plasminogen :
+
+activator
+
+r antigen <
+
+and s
+
+stroke
+
+~J>: The § > Stroke I  > Prevention |
+
+In’ eee
+
+Young \ po hae nw: Women §
+
+Study. § ,.
+
+/:(cid:
+
+) J
+
+//(cid:
+
+) Martin, (  /EEJ(cid:
+
+) . Genetics ; : and | the | - pathobiology « of f ageing. | _ Philos. ' . Trans. | ((cid:
+
+) . Soc. | . Lond. | #(cid:
+
+) _ Biol. §  /JJ,
+
+/JF.(cid:
+
+) M
+
+ue, } _M.,\ , Vaupel, J _J.W., I , Holm, }  , Harvald, |  /EE,(cid:
+
+) . Longevity i yist s moderately t y heritable i  las
+
+sample c > of I twins | s born | /FJ.
+
+/FF.(cid:
+
+) )(cid:
+
+) . Gerontol.
+
+DF(cid:
+
+) #-,J
+
+#-DD(cid:
+
+) Meade,
+
+_ T.W.,F , Ruddock, ‘   , Stirling, * _Y., ¢ , Chakrabarti, I R.,] , Miller, ¢ .GJ., | /EE,(cid:
+
+) . Fibrinolytic z > activity, ¢ , clotting f and | | long-term i incidence ¢ > of i REDE RS Be EEf ischaemic | > heart ¢ t disease i
+
+the I - Northwick | &(cid:
+
+)(cid:
+
+)% OE LISD D OE‘ Heart t Study. ] aa ee. Lancet ‘ ,D- /.J
+
+/.JE(cid:
+
+) Myant, ! _ N.B., ( , Gallagher, J  , Barbir, |}  , Thompson, ¢ .GR., | , Wile, I  , Humphries, _ S.E., | /EFE(cid:
+
+) . Restriction f \ ilength f SO ENE SOD
+
+polymorphisms i  sint ithe a > apo I #
+
+gene i eee
+
+inr peu ae
+
+relation t
+
+to ¢ ) coronary
+
+‘
+
+hanky artery c PPAR ENE Rey disease. /   JJ
+
+-(cid:
+
+),:(cid:
+
+) -./(cid:
+
+) Nakata, °  , Katsuya, "  , Rakugi, I  , Takami, §   , Sato, }  , Kamide, I  , Ohishi, }  , Miki,
+
+, Higaki, J  T.,
+
+/EEJ(cid:
+
+) ane a hog DEES. Polymorphism c o_o
+
+of
+
+ena erof angiotensin ¢
+
+converting ¢ x enzyme, a , angiotensinogen, , and g vey Dg HODES
+
+apolipoprotein E !   sind Japanese |  ME IEEE TE> population \
+
+with ¢ LILI EEE| cerebrovascular ¢ EES ™r disease .  OE J OES. Am. | )(cid:
+
+)
+
+Oe. Hypertens. | /.
+
+/-
+
+/::(cid:
+
+) /,E/
+
+/,E
+
+(cid:
+
+) “epee PMTOssei-Gerning,
+
+N.,\ , Wilson, I » LI, ( , Grant, I PS. | /EEF(cid:
+
+) . Sex ¢ we RR BEY |< differences i rd PMs in ¢    am te
+
+coagulation z NEE
+
+and f P}
+
+BAAR ED
+
+fibrinolysis i sin s
+
+subjects \ coronary eer Ne/ artery / disease. * . Thromb. | . Haemost. ’ JE
+
+D:(cid:
+
+) J,
+
+JD.(cid:
+
+) EEPaulweber, I oo,B.,
+
+eg ees, Friedl, ' ,W., I , Krempler, I    ee ON, Humphries, Tee ows_ S.E.,s , Sandhofer, |  /EE.(cid:
+
+) . Association ¢
+
+of I
+
+H(cid:
+
+) ism | at t t the < > apolipoprotein | # Mpa *} gene | locus \ unes with ¢ | coronary | : heart ¢ t disease > and s | serum \ very | : low EEE; density | levels. , Mi OP eee. Arteriosclerosis |  /.
+
+/:(cid:
+
+) /J
+
+-D(cid:
+
+) Piegorsch, \ , W.W., \ , Weinberg, ¢
+
+NAT
+
+»CR.,
+
+, Taylor, J
+
+| /EED(cid:
+
+) . Non-hierarchical | | logistic
+
+> models a s and ¢
+
+case-only « y designs f KOM Ee   pe eg EE
+
+, susceptibility i
+
+oinf ee DOLE ek hog ©
+
+population-based ¢   | studies. § ee. Stat. ] =e ees. Med. | /,
+
+-:(cid:
+
+) /
+
+,
+
+/
+
+-(cid:
+
+) Proust, J  J. mite
+
+owwp, Moulias, | ee.R.,
+
+neh YEA PSE, Fumeron, | re
+
+F. ] , Bekkhoucha, | F., | , Busson, |   , Schmid, |  , M., | oe NON, Hors, |  /EF-(cid:
+
+) =A(cid:
+
+) . and | evity.  . Tissue : > Antigens | /E
+
+,:(cid:
+
+)
+
+F
+
+J,(cid:
+
+) wee
+
+ankinen, ‘ , T., ¢
+
+OO, Gagnon, |   eae MS Me, Perusse, | _L., | , Chagnon, , Y.C.,] , Rice, *  , Leon, / ,AS.,
+
+, Skinner, | , JS.) , Wilmore, J _ J.H., J DC., | oa eo_ Bouchard,   -...(cid:
+
+) _ AGT) "-,
+
+(cid:
+
+) and . (cid:
+
+)*! (cid:
+
+)
+
+} polymorphisms ;  and «  | exercise | : blood | | pressure i   =!((cid:
+
+)(cid:
+
+)(cid:
+
+)@! : Family § ; Study. / . Am. J )(cid:
+
+) . Physiol. | . Heart ( a |t Cire. | Pe eee. Physiol.
+
+-JE
+
+/:(cid:
+
+) =,
+
+F
+
+=,JD(cid:
+
+) Rothman, | .KJ., ¢ ON OLDE INDE, Greenland, ‘ se,S., | /EEF(cid:
+
+) ee BO. Modern I
+
+Epidemiology. .   =e eee.
+
+nd « ee EA NAT BE| e
+
+ippincott-Raven, | , Philadelphia, | , PA. Saha, | N.,
+
+, Tay, J JS.,
+
+A(cid:
+
+)
+
+(cid:
+
+) _P.S., I , Basair, J Jd NEE EE, Hong, § e
+
+, | /EE
+
+(cid:
+
+)  NE EEE> restriction “eee
+
+fragment | t length y BN NEE RE
+
+polymorphisms «  s of t (cid:
+
+)&L(cid:
+
+)/(cid:
+
+)*, } gene ¢ > and | their i r influence >on | Mee eee
+
+lipids  sand | apolipoproteins i sin | a eee| healthy ¢ nee RRS BS: Chinese. | pee eee’. Hum. | we pee. Hered. ¢ D
+
+,.,
+
+,/.(cid:
+
+) Scarabin, | ,P.Y.,
+
+, Bonithon-Kopp, ¢  , Bara, I   , Malmejac, /  , Guize, |  , Samama, }  /EE.(cid:
+
+) . Factor * r VIL z and
+
+| menopausal s  | status. I
+
+hromb. I . Res.
+
+J
+
+-:(cid:
+
+) --J
+
+-,D(cid:
+
+) Scarabin, | ee EEP.Y., | _ Vissac, _AM., |  _ Kirzin, .   _JM., | ato eee ee_ Bourgeat, |  _ Amiral, .   _ Agher, |   Guize, |   /EE
+
+(cid:
+
+)
+
+Myant, ! _ N.B., ( , Gallagher, J  , Barbir, |}  , Thompson, ¢ .GR., | , Wile, I  , Humphries, _ S.E., | /EFE(cid:30) . Restriction f 1 fragment \ ilength f SO ENE SOD1 polymorphisms i  sint ithe a > apo I # 3 gene i eee2 inr peu ae1 relation t 1 to ¢ ) coronary 4 ‘7 hanky artery c PPAR ENE Rey disease. /   JJ 8-(cid:20),:(cid:27) /E,5
+
+Rothman, | .KJ., ¢ ON OLDE INDE, Greenland, ‘ se,S., | /EEF(cid:30) ee BO. Modern I 1 Epidemiology. .   =e eee. 2nd « ee EA NAT BE| edLippincott-Raven, | , Philadelphia, | , PA. Saha, | N.,1 , Tay, J JS.,1 A(cid:6)2(cid:27) _P.S., I , Basair, J Jd NEE EE, Hong, § eoS., | /EE7(cid:30)  NE EEE> restriction “eee1 fragment | t length y BN NEE RE1 polymorphisms «  s of t (cid:28)&L(cid:28)/(cid:20)*, } gene ¢ > and | their i r influence >on | Mee eee1 lipids  sand | apolipoproteins i sin | a eee| healthy ¢ nee RRS BS: Chinese. | pee eee’. Hum. | we pee. Hered. ¢ D7
+
+procoagulant-anticoagulant t t balance ¢ > during t » hormone r > replacement t t therapy? /
+
+At \ randomised, f ct NN IEEE, placebo-controlled /-(cid:
+
+)
+
+(cid:
+
+)(cid:
+
+)% : study.
+
+PEE ELON. Thromb. | . Haemost. § F,
+
+/:(cid:
+
+) -E
+
+,D(cid:
+
+) Vaupel, J _J.W.,) vee ye eee, Manton, I .KG.,
+
+, Stallard, .E., | /EJE(cid:
+
+) . The i   t of | f heterogeneity i y ini
+
+individual f | frailty c yont
+
+the ¢ > dynamics reof
+
+f mortality. | . Demography | /
+
+,:(cid:
+
+) D,E
+
+D
+
+D(cid:
+
+) Vaupel, . ee
+
+SW., | ‘Jouee
+
+ashin, . oer
+
+AL, /EF
+
+(cid:
+
+) Pe NRHeterogeneity’s |   some | - surprising | effects | of selection | On | population
+
+NE Se Esdynamics. . Am. §   ,E(cid:
+
+) /J
+
+/F
+
+(cid:
+
+) =
+
+ang, (   , Khoury, } _M., | /EEJ(cid:
+
+) . Evolving
+
+: methods i sin §
+
+genetic « > epidemiology. | . IIL. ¢ . Gene-environment i t interaction i
+
+in ste? Nos heeepidemiologic
+
+» research. | OE NEN EES. Epidemiol. ] baooeo
+
+re. Rev.| /E
+
+/:(cid:
+
+) ,,
+
+D,(cid:
+
+) Yashin, / AL, \ wees feos, Vaupel, J ,J.W., / ee, Andreev, I KF. , Tan, (  Fe
+
+, lachine, | _LA,, ¢ , Carotenuto, |
+
+(cid:
+
+) > Benedictis, (  , Bonafe, }   Valensin, $  sep Ney eeee a, Franceschi, C., | /EEF(cid:
+
+)  EEE ND. Combining ¢ x genetic z > and ¢
+
+demographic i > information i
+
+in F
+
+population s
+
+studies ¢ sof aging ¢ x and | | longevity. J . Journal « | of | EIDE DI IIIS Ef Epidemiology < >oem; and I EN CN NIN IIS| Biostatistics ,(cid:
+
+) -FE
+
+-ED(cid:
+
+) Co
+
+ashin, “eee, AL,
+
+(cid:
+
+) “Mowry eee- Benedictis, ( ,G.," eee, Vaupel, | OS, J.W.," veya, Tan, (  , Andreev, | . KF., ]  , Iachine, | LA, | , Bonafe, !  , D
+
+uca, |   Valensin, _S., . Carotenuto, |  MPN nn ss. Franceschi, ¢   /EEE(cid:
+
+) _ Genes, « , demography, and | | life s   the « - contribution  | of demographic ¢ > data i
+
+in §
+
+genetic : > studies $ on ¢ | aging < rand | | longevity. / NED ES. Am. | )(cid:
+
+) epee ee. Hum. . Genet. ¢
+
+(cid:
+
+) //JF
+
+//E,(cid:
+
+) Yashin, een eps, AL,
+
+(cid:
+
+) EEE EO- Benedictis, ( ,G., , Vaupel, | ea eee, J.W.," “oo, Tan, (  NS AN ™, Andreev, | . KF., ] , Iachine, | LA, | , Bonafe, ! , M., | , D
+
+uca, |   Valensin, §  , Carotenuto, |
+
+P NED Ns, Franceschi, (   -...(cid:
+
+) . Genes sand | | longevity: | ; Lessons f s from s
+
+studies ¢
+
+¢
+
+centenar-   . Journal « | of ( f Gerontology ‘
+
+(cid:
+
+)(cid:
+
+) #/
+
+#/.(cid:
+
+) Yashin, . AL, | _Tachine, | LA, /EE
+
+(cid:
+
+) Genetic ; analysis of | duration:  Correlated | | frailty
+
+model ; | applied
+
+| to | ) survival Danish *
+
+Twins. ( . Genetic | > Epidemiology | /-(cid:
+
+)
+
+-E
+
+,F(cid:
+
+) Zhang, J J.G.,} , Ma, * , Y.X., | mw Pe, Wang, ¢ _ CF, ] eed, Lu, | ey, PF.
+
+_ S.B., (  _N.F.,
+
+, Feng, _G.Y.,]   /EEF(cid:
+
+) . Apolipoprotein | ! Neeand | | longevity < y among | renee?: Han ¢
+
+Chinese | > population. |  . Aging |   /.D(cid:
+
+) /
+
+E
+
+/
+
+J(cid:
+
+)

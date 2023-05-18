@@ -1,0 +1,253 @@
+AKT1 fails to replicate as a longevity-associated gene in Danish and German nonagenarians and
+
+Marianne Nygaard*,1,2, Mette Soerensen1,2, Friederike Flachsbart3, Jonas Mengel-From1,2, Qihua Stefan Schreiber3, Almut Nebel3, Kaare Christensen1,2,4 and Lene Christiansen1,2
+
+In addition to APOE and FOXO3, AKT1 has recently been suggested as a third consistent longevity gene, with variants in AKT1 found to be associated with human lifespan in two previous studies. Here, we evaluated AKT1 as a longevity-associated gene across populations by attempting to replicate the previously identified variant rs3803304 as well as by analyzing six additional AKT1 single-nucleotide polymorphisms, thus capturing more of the common variation in the gene. The study population was 2996 long-lived individuals (nonagenarians and centenarians) and 1840 younger controls of Danish and German ancestry. None of the seven SNPs tested were significantly associated with longevity in either a case–control or a longitudinal setting, although a supportive nominal indication of a disadvantageous effect of rs3803304 was found in a restricted group of Danish centenarian men. Overall, our results do not support AKT1 as a universal longevity-associated gene. European Journal of Human Genetics (2013) 21, 574–577; doi:10.1038/ejhg.2012.196; published online 29 August 2012
+
+Keywords: human longevity; AKT1; association
+
+INTRODUCTION
+
+In this study, we evaluated AKT1 as a longevity-associated gene across populations by analyzing rs3803304 in a large sample of Danish and German long-lived individuals with the aim of replicating the previous finding. Further, we included six additional AKT1 SNPs in order to cover more of the common variation within the gene.
+
+Despite the fact that approximately 25% of variation in human lifespan is attributable to genetic factors,1 polymorphisms in only a few candidate genes have so far been consistently found to be associated with longevity.
+
+The first to be discovered, and also the most prominent candidate, is the apolipoprotein E (APOE) gene. The APOE e4 haplotype has repeatedly been reported as an age-related mortality factor in numerous populations,2 and recently, the APOE e4 allele was confirmed to negatively affect survival into old age in two genome- wide association studies (GWASs).3,4
+
+MATERIALS AND METHODS
+
+Study populations
+
+Danish study. The Danish study population comprised 1383 participants from The Danish 1905 Birth Cohort Study, described in details elsewhere.12 Briefly, the study was initiated in 1998, when participants were 92–93 years of age and follow-up studies of surviving participants were carried out in 2000, 2003 and 2005, when participants reached 100 years of age.
+
+The forkhead box O3 (FOXO3) gene, which encodes a transcription factor involved in the insulin/insulin-like growth factor 1 (IGF1) pathway, has been presented as another well-established candidate. The insulin/IGF1 pathway has repeatedly been implicated in longevity in various model organisms,5 as well as in humans, where the FOXO3 association has been demonstrated in a number of populations of diverse ethnic origin.6–11
+
+Genotyping of the candidate SNP rs3803304 was performed in all 1383 participants, of which 190 individuals (women proportion of 80%) lived to be at least 100 years of age, whereas genotype information on the six additional SNPs was available for 1089 individuals as previously described.13 A total of 143 of the 1089 individuals (women proportion of 79%) lived to be at least 100 years of age.
+
+The newest candidate that has been put forward as a third consistent longevity gene is AKT1, which is also part of the insulin/ IGF1 pathway. Single-nucleotide polymorphisms (SNPs) in this gene have been associated with longevity in two studies: in 2009, Pawlikowska et al9 described the variant rs3803304 as influencing human lifespan in three different cohorts consisting of participants from the Study of Osteoporotic Fractures and the Cardiovascular Health Study, as well as Ashkenazi Jewish Centenarians, whereas the SNP rs2498804 was detected in a recent GWAS of Dutch nonagenarians from the Leiden Longevity Study.3
+
+Vital status was followed until death or until 1 January 2011, resulting in a mean follow-up time for survivors of 12.4 years (range: 12.2–12.6). Informa- tion on survival status was retrieved from the Danish Central Population Register, which is continuously updated.14
+
+A group of 736 younger control individuals (mean age 50.6 years) were randomly selected from the population-based study of middle-aged Danish twins,15 which was initiated in 1998 with the random selection of 2640 intact twin pairs born from 1931 to 1952. Here, only one twin from each pair was included.
+
+1Epidemiology, Institute of Public Health, University of Southern Denmark, Odense C, Denmark; 2Department of Clinical Genetics, Odense University Hospital, Odense C, Denmark; 3Institute of Clinical Molecular Biology, Christian-Albrechts University, Kiel, Germany; 4Department of Clinical Biochemistry and Pharmacology, Odense University Hospital, Odense C, Denmark *Correspondence: M Nygaard, Epidemiology, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej 9B, Odense C 5000, Denmark. Tel: +45 65412822; Fax: +45 65414875; E-mail: mnygaard@health.sdu.dk Received 9 May 2012; revised 10 July 2012; accepted 3 August 2012; published online 29 August 2012
+
+1 Characteristics of the study populations
+
+German study. The German study population included 865 nonagenarians and 748 centenarians (age range 95–110 years, mean age 98.9 years, women proportion of 73.0% in all cases and 80.5% in centenarians). The control individuals were 1104 younger unrelated individuals (age range 60–75 years, mean age 67.2 years). The participants were recruited from different geographic regions of Germany and were all of German ancestry.16
+
+Danish study population German study population Cases Controls Cases Controls Number, LLI 1383/1089a 736 1613 1104 Women, LLI (%) 70.7/71.3a 49.6 73.0 74.4 Age at intake, LLI 92–93 46–55 95–110 60–75 Number, centenarians 190/143a — 748 — Women, centenarians (%) 80.0/79.0a — 80.5 —
+
+Study approvals were received from the Danish National Committee on Biomedical Research Ethics and the Ethics Committee of the University Hospital Schleswig-Holstein, respectively.
+
+Abbreviation: LLI, long-lived individuals. aThe number to the left applies to rs3803304.
+
+Genotyping
+
+The primary SNP for association testing was rs3803304. In addition to this, six supplementary variants, which had previously been selected for coverage of the common genetic variation in AKT1 using data from the International HapMap
+
+As rs3803304 was previously found to be associated with longevity,9 it was investigated more thoroughly using a genotypic, dominant and recessive model. No significant associations were found with any of the models applied (data not shown).
+
+Genotyping of rs3803304 in the Danish study population and of rs3803304, rs2494731, rs2494732, rs2498796, rs2494738 and rs1130214 in the German study population was performed using predesigned TaqMan SNP genotyping assays (Applied Biosystems, Pleasonton, CA, USA). The SNP rs2494748 could not be genotyped in the German population because of technical difficulties.
+
+To scrutinize for potential effects of variation in AKT1 on extreme survival, the analysis was next restricted to include centenarians only (Table 3), resulting in the ability to detect effects of size OR¼1.25 (for rs2494738, OR¼1.4) in the combined study population with a power of at least 80%. One nominally significant indication (P¼0.03) of a disadvantageous effect of rs3803304 on longevity was found in Danish men, and this indication was supported when applying genotypic and dominant models (P¼0.02 and 0.01, respectively).
+
+Genotyping of rs2494731, rs2494732, rs2498796, rs2494738, rs2494748 rs1130214 in the Danish study population was part of a previous study was performed using the Illumina GoldenGate Technology (Illumina Inc., Diego, CA, USA) as described by Soerensen et al.13
+
+Statistical analysis
+
+In addition to applying a cross-sectional approach, the effects of the seven SNPs on survival during old age were investigated in the Danish 1905 Birth Cohort. Regardless of the genetic model applied, no associations with survival during the follow-up of 412 years were found. Restriction of analysis to include centenarians only did not change this result (data not shown).
+
+All analyses were carried out using the statistical software Stata (Stata version 11.2; Stata Corporation, College Station, TX, USA). Logistic regression was used to assess the association between genotype and longevity with dose of minor allele coded as 0, 1 and 2. An additive model was applied to all of the seven AKT1 SNPs; however, for rs3803304, the potential association with longevity was further explored using a genotypic, dominant and recessive model.
+
+Mortality analysis in the Danish 1905 Birth Cohort was performed on all of the seven AKT1 SNPs using a left-truncated Cox proportional hazards model to adjust for late entry into the data set according to age.
+
+DISCUSSION
+
+AKT1 has recently been suggested as a third universal longevity gene, together with APOE and FOXO3. To further elucidate this potential role of AKT1, case–control studies involving Danish and German long-lived individuals and younger controls were performed. In addition to the previously described candidate variation rs3803304,9 our study was expanded to include a number of additional SNPs to ensure better coverage of the known allelic variance in AKT1.
+
+To account for the multiple testing of seven SNPs, a Bonferroni-corrected
+
+Power calculations were performed using the freely available software Quanto (Quanto version 1.2.4, http://hydra.usc.edu/gxe/), assuming a 1 in 20 chance of becoming 92–93 years old, a 1 in 400 chance of becoming a centenarian and a Bonferroni-corrected significance level of 0.007.
+
+RESULTS
+
+The main finding of this study was a lack of formal replication of the association of rs3803304 with longevity as previously found in three independent populations.9 In the initial report by Pawlikowska et al,9 they found that the association with longevity appeared driven by the minor allele homozygous genotype, as subjects homozygous for the minor allele were underrepresented among long-lived cases. In line with this, restricting the analysis to centenarians revealed a trend of supportive evidence in Danish men, with the same direction of effect as identified before.9 It should be noted, though, that the sample size of the refined group of centenarian men was very limited (n¼ 37), and when applying a Bonferroni correction for multiple statistical testing, the association did not remain significant.
+
+Characteristics of the Danish and German study populations summarized in Table 1.
+
+All genotyped SNPs were in Hardy–Weinberg equilibrium in both control groups, except for rs2494738, which displayed an excess of heterozygotes in the Danish control group (P¼0.02).
+
+The set of tested AKT1 SNPs included the candidate rs3803304 and six additional SNPs, of which three are tagging (rs2494731, rs2494738 and rs1130214). The remaining (rs2494732, rs2498796 and rs2494748) are distributed evenly the gene and were added to enable a more comprehensive coverage the gene.
+
+To facilitate a more exhaustive exploration of the possible relevance AKT1 variations in longevity, six additional SNPs available from a study13 were included and tested in both the Danish and study population. Of note, one of these, rs2494731, is in linkage disequilibrium with the AKT1 SNP rs2498804, which recently found to be associated with lifespan in a population Dutch nonagenarians.3 Nevertheless, we did not replicate an with longevity, whether applying a cross-sectional
+
+Case–control analysis of all SNPs was performed for the Danish and German population separately, as well as for the combined study population. The substantial number of individuals in the combined study population allowed for the detection of effects as small as OR¼1.2 (for rs2494738, OR¼1.3 due to a smaller minor allele frequency) with a power of at least 87%. Applying an additive model, none of the seven SNPs demonstrated a significant association with longevity in either of the populations (Table 2).
+
+Table 2 Association analysis of AKT1 variations in long-lived individuals
+
+Danish population German population Combined population MAF MAF MAF SNP Sex Cases/controls OR 95% CI P Cases/controls OR 95% CI P Cases/controls OR 95% CI P rs3803304 All 0.25/0.27 0.93 0.80–1.08 0.320 0.27/0.26 1.03 0.91–1.17 0.610 0.26/0.26 0.99 0.90–1.09 0.784 Men 0.25/0.28 0.87 0.69–1.09 0.229 0.28/0.26 1.09 0.84–1.41 0.515 0.26/0.27 0.96 0.81–1.14 0.673 Women 0.25/0.26 0.97 0.80–1.18 0.779 0.26/0.26 1.02 0.88–1.18 0.831 0.26/0.26 1.00 0.89–1.12 0.967 rs2494731 All 0.34/0.34 1.00 0.87–1.17 0.953 0.36/0.35 1.05 0.94–1.17 0.393 0.35/0.34 1.03 0.94–1.13 0.503 Men 0.32/0.35 0.87 0.69–1.11 0.266 0.36/0.33 1.12 0.90–1.39 0.296 0.34/0.34 1.01 0.86–1.18 0.893 Women 0.34/0.32 1.10 0.91–1.34 0.324 0.36/0.35 1.02 0.90–1.17 0.714 0.35/0.34 1.04 0.93–1.16 0.472 rs2494732 All 0.43/0.43 0.99 0.86–1.14 0.879 0.46/0.44 1.06 0.95–1.18 0.296 0.45/0.44 1.04 0.95–1.13 0.406 Men 0.39/0.43 0.81 0.64–1.02 0.073 0.46/0.42 1.13 0.92–1.39 0.253 0.43/0.43 0.99 0.85–1.15 0.928 Women 0.45/0.42 1.12 0.94–1.34 0.214 0.46/0.45 1.03 0.91–1.17 0.594 0.45/0.44 1.06 0.95–1.17 0.287 rs2498796 All 0.30/0.32 0.92 0.79–1.07 0.292 0.32/0.31 1.03 0.92–1.16 0.575 0.31/0.32 0.99 0.90–1.08 0.788 Men 0.29/0.34 0.80 0.63–1.02 0.075 0.33/0.31 1.10 0.88–1.37 0.411 0.31/0.32 0.96 0.81–1.12 0.573 Women 0.30/0.30 1.01 0.83–1.23 0.912 0.32/0.32 1.01 0.88–1.16 0.877 0.31/0.31 1.00 0.90–1.12 0.949 rs2494738 All 0.12/0.12 0.99 0.79–1.23 0.912 0.08/0.07 1.06 0.87–1.29 0.581 0.10/0.09 1.03 0.89–1.19 0.718 Men 0.12/0.13 0.92 0.66–1.29 0.645 0.07/0.07 0.97 0.66–1.44 0.893 0.09/0.11 0.87 0.68–1.12 0.275 Women 0.12/0.12 1.04 0.77–1.39 0.799 0.08/0.07 1.09 0.86–1.38 0.473 0.10/0.09 1.12 0.93–1.34 0.221 rs2494748 All 0.34/0.35 0.95 0.82–1.09 0.466 Men 0.35/0.36 0.96 0.77–1.20 0.728 Women 0.33/0.35 0.94 0.78–1.13 0.510 rs1130214 All 0.31/0.31 1.05 0.91–1.23 0.498 0.30/0.31 0.94 0.83–1.05 0.258 0.30/0.31 0.97 0.89–1.07 0.544 Men 0.32/0.31 1.06 0.83–1.34 0.653 0.28/0.31 0.86 0.69–1.09 0.214 0.30/0.31 0.94 0.79–1.10 0.429 Women 0.31/0.30 1.05 0.86–1.28 0.612 0.31/0.31 0.96 0.84–1.10 0.557 0.31/0.31 0.99 0.89–1.10 0.842
+
+Abbreviations: CI, confidence interval; MAF, minor allele frequency; OR, odds ratio (applying an additive model). Cases are long-lived individuals with an age of 492 years at intake in the Danish population and 495 years in the German population. P-values are uncorrected.
+
+Table 3 Association analysis of AKT1 variations in centenarians
+
+Danish population German population Combined population MAF MAF MAF SNP Sex Cases/controls OR 95% CI P Cases/controls OR 95% CI P Cases/controls OR 95% CI P rs3803304 All 0.23/0.27 0.81 0.61–1.06 0.126 0.26/0.26 1.00 0.86–1.17 0.993 0.26/0.26 0.95 0.83–1.08 0.443 Men 0.16/0.28 0.49 0.26–0.94 0.033 0.26/0.26 1.00 0.70–1.41 0.980 0.25/0.27 0.84 0.63–1.12 0.230 Women 0.24/0.26 0.92 0.67–1.25 0.590 0.26/0.26 1.00 0.84–1.19 0.982 0.26/0.26 0.98 0.85–1.14 0.821 rs2494731 All 0.32/0.34 0.97 0.72–1.30 0.821 0.35/0.35 1.01 0.88–1.16 0.871 0.34/0.34 1.01 0.90–1.15 0.837 Men 0.29/0.35 0.75 0.39–1.42 0.373 0.33/0.33 0.98 0.73–1.31 0.869 0.32/0.34 0.91 0.70–1.18 0.479 Women 0.33/0.32 1.04 0.75–1.44 0.826 0.36/0.35 1.02 0.87–1.20 0.786 0.35/0.34 1.05 0.91–1.20 0.534 rs2494732 All 0.43/0.43 1.01 0.76–1.33 0.957 0.45/0.44 1.03 0.90–1.17 0.684 0.44/0.44 1.03 0.92–1.16 0.580 Men 0.35/0.43 0.69 0.38–1.26 0.224 0.44/0.42 1.05 0.79–1.38 0.741 0.40/0.43 0.97 0.77–1.24 0.830 Women 0.45/0.42 1.12 0.82–1.54 0.468 0.45/0.45 1.02 0.88–1.19 0.776 0.45/0.44 1.05 0.92–1.20 0.454 rs2498796 All 0.28/0.32 0.85 0.63–1.14 0.276 0.32/0.32 0.99 0.86–1.15 0.931 0.31/0.32 0.97 0.85–1.10 0.602 Men 0.27/0.34 0.69 0.37–1.30 0.253 0.31/0.31 1.01 0.75–1.35 0.957 0.30/0.32 0.90 0.70–1.17 0.446 Women 0.28/0.30 0.90 0.64–1.26 0.545 0.32/0.32 0.99 0.84–1.16 0.898 0.31/0.31 0.99 0.86–1.14 0.865 rs2494738 All 0.13/0.12 1.14 0.76–1.72 0.525 0.07/0.07 1.00 0.78–1.29 0.990 0.10/0.09 0.91 0.74–1.12 0.368 Men 0.20/0.13 1.68 0.84–3.38 0.142 0.03/0.07 0.88 0.51–1.54 0.663 0.11/0.11 0.82 0.54–1.24 0.346 Women 0.11/0.12 0.95 0.58–1.57 0.853 0.08/0.07 1.03 0.78–1.37 0.811 0.10/0.09 0.94 0.74–1.20 0.631 rs2494748 All 0.37/0.35 1.11 0.85–1.45 0.443 Men 0.41/0.36 1.23 0.71–2.13 0.457 Women 0.37/0.35 1.08 0.79–1.46 0.643 rs1130214 All 0.33/0.31 1.13 0.84–1.51 0.431 0.29/0.31 0.95 0.83–1.10 0.502 0.31/0.31 0.98 0.87–1.11 0.754 Men 0.30/0.31 0.97 0.54–1.76 0.926 0.28/0.31 0.88 0.64–1.20 0.416 0.31/0.31 0.89 0.69–1.16 0.389 Women 0.33/0.30 1.18 0.84–1.66 0.334 0.31/0.31 0.97 0.83–1.14 0.736 0.31/0.31 1.01 0.88–1.16 0.907
+
+Abbreviations: CI, confidence interval; MAF, minor allele frequency; OR, odds ratio (applying an additive model). Cases are restricted to individuals living to an age of Z100 years. P-values are uncorrected.
+
+approach or taking advantage of the longitudinal data with 412 of follow-up available for the Danish nonagenarian sample.
+
+Christensen K, Johnson TE, Vaupel JW: The quest for genetic determinants of human longevity: challenges and insights. Nat Rev Genet
+
+;
+
+:
+
+–
+
+Deelen J, Beekman M, Uh HWet al: Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell
+
+;
+
+:
+
+–
+
+Nebel A, Kleindorp R, Caliebe A et al: A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+Kenyon CJ: The genetics of ageing. Nature
+
+;
+
+:
+
+–
+
+Anselmi CV, Malovini A, Roncarati R et al: Association of the FOXO
+
+A locus with extreme longevity in a southern Italian centenarian study. Rejuvenation Res
+
+;
+
+:
+
+–
+
+Flachsbart F, Caliebe A,Kleindorp R et al: Association o
+
+OXO
+
+Avariation with human longevity confirmed in German centenarians. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Li Y, Wang WJ, Cao H et al: Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum Mol Genet
+
+;
+
+:
+
+–
+
+Pawlikowska L, Hu D, Huntsman S et al: Association of common genetic variation in the insulin/IGF
+
+signaling pathway with human longevity. Aging Cell
+
+;
+
+:
+
+–
+
+Soerensen M, Dato S, Christensen K et al: Replication of an association of variation in the FOXO
+
+A gene with human longevity using both case-control and longitudinal data. Aging Cell
+
+;
+
+:
+
+–
+
+Willcox BJ, Donlon TA, He Q et al: FOXO
+
+A genotype is strongly associated with human longevity. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Nybo H, Gaist D, Jeune B et al: The Danish
+
+cohort: a genetic-epidemiological nationwide survey. J Aging Health
+
+;
+
+:
+
+–
+
+Soerensen M, Dato S, Tan Q et al: Human longevity and variation in GH/IGF-
+
+/insulin signaling, DNA damage signaling and repair and pro/antioxidant pathway genes: Cross sectional and longitudinal studies. Exp Gerontol
+
+;
+
+:
+
+–
+
+Pedersen CB, Gotzsche H, Moller JO, Mortensen PB: The Danish Civil Registration System. A cohort of eight million persons. Dan Med Bull
+
+;
+
+:
+
+–
+
+Skytthe A, Kyvik K, Holm NV, Vaupel JW, Christensen K: The Danish Twin Registry:
+
+birth cohorts of twins. Twin Res
+
+;
+
+:
+
+–
+
+Nebel A, Croucher PJ, Stiegeler R, Nikolaus S, Krawczak M, Schreiber S: No association between microsomal triglyceride transfer protein (MTP) haplotype and longevity in humans. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+In conclusion, despite a substantial power, we did not confirm AKT1 as a longevity-associated gene in populations of Danish and German nonagenarians and centenarians. This finding does not necessarily rule out a potential relevance of AKT1 in longevity. First, population genetic differences may explain the lack of replication, although this explanation is not very likely, because all analyzed populations were of European ancestry. Second, because our coverage of allelic variation in AKT1 is probably not complete, other variations that are not tagged by the included SNPs may be associated with survival differences. However, all in all, our results do suggest that AKT1 is not a universally acting longevity gene.
+
+CONFLICT OF INTEREST
+
+ACKNOWLEDGEMENTS
+
+This study was financially supported by the INTERREG 4A programme Syddanmark–Schleswig–K.E.R.N (with EU funds from the European Regional Development Fund), the National Institute on Aging (P01 AG08761), the Max–Planck Institute for Demographic Research (Rostock, Germany), the Deutsche Forschungsgemeinschaft (DFG) Cluster of Excellence ‘Inflammation at Interfaces’, and the RESOLVE project (FP7-HEALTH-F4-2008-202047).
+
+Herskind AM, McGue M, Holm NV, Sorensen TI, Harvald B, Vaupel JW: The heritability of human longevity: a population-based study of 2872 Danish twin pairs born 1870-1900. Hum Genet 1996; 97: 319–323.
+
+Copyright of European Journal of Human Genetics is the property of Nature Publishing Group and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.

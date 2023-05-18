@@ -1,0 +1,613 @@
+Contents lists available at SciVerse ScienceDirect Mechanisms of Ageing and Development journal homepage: www.elsevier.com/locate/mechagedev    
+
+Mechanisms of Ageing and Development
+
+journal homepage: www.elsevier.com/locate/mechagedev
+
+UCP3 polymorphisms, hand grip performance and survival at old age: Association analysis in two Danish middle aged and elderly cohorts
+
+Serena Dato a,b,*, Mette Soerensen b,c,d, Alberto Montesanto a, Vincenzo Lagani e, Giuseppe Passarino a, Kaare Christensen b,c,d, Lene Christiansen b,c,d
+
+aDepartment of Cell Biology, University of Calabria, Ponte Pietro Bucci cubo 4C, 87036 Rende (CS), Italy bThe Danish Aging Research Center, Epidemiology, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej 9B, 5000 Odense C, cDepartment of Clinical Genetics, Odense University Hospital, Sdr. Boulevard 29, 5000 Odense C, Denmark dDepartment of Clinical Biochemistry and Pharmacology, Odense University Hospital, Sdr. Boulevard 29, 5000 Odense C, Denmark eBio Informatics Laboratory, Institute of Computer Science, Foundation for Research and Technology (Hellas), Heraklion, Greece
+
+A B S T R A C T
+
+An efficient uncoupling process is generally considered to have a protective effect on the aging muscle by slowing down its age-related decay. Genetic polymorphisms in the Uncoupling Protein 3 (UCP3) gene, whose product is mainly expressed in skeletal muscle, were suggested to be associated with hand grip (HG) performances in elderly populations. Considering the population specificity of the quality of aging, we aimed to add further support to this evidence by analyzing the association between four SNPs in the UCP3 gene and relative haplotypes in two large cohorts of middle aged (N = 708) and oldest old Danes (N = 908).Wefoundthatthevariabilityatrs1685354andrs11235972wasassociatedwithHGlevelsboth at single and haplotypic level in both cohorts. Furthermore, taking advantage of large cohort and period survival data ofthe oldest cohort,wetestedthe association ofeach SNPwith survival at10 years from the baseline visit. Interestingly, we found that allele A at rs11235972, associated in this cohort with lowest HG scores,influences also the survivalpatterns, with people carryingthisallele showing higher mortality rates. On the whole, our work supports the role of UCP3 gene in functional status and survival at old age. or 2012 Elsevier Ireland Ltd. All rights reserved.
+
+1. Introduction
+
+2003; Newman et al., 2006). Furthermore, twin studies demon- strated that about 50% of the observed variation in hand grip strength can be explained by genetic effects (Frederiksen et al., 2002), thus pointing out this phenotype as a useful marker for the identification of genes affecting mid- and late-life physical functioning. Several associations have been reported between hand grip and the variability of genes involved in inflammatory response, myostatin signaling, neuron and bone metabolism (Roth et al., 2001; Arking et al., 2006; De Mars et al., 2007; Walsh et al., 2009; Dato et al., 2010; Windelinckx et al., 2011). Recently the Uncoupling Protein (UCP) genes have been put forward as candidate genes, because of their role in energy metabolism. Of particular interest is the Uncoupling Protein 3 (UCP3) gene, since this is expressed in skeletal muscle where it regulates fatty acid metabolism, oxidative status, and Reactive Oxygen Species (ROS) production. A previous report showed that a functional polymor- phism, located in the promoter region of the UCP3 gene (rs1800849), significantly affects hand grip strength in an elderly population from southern Italy (Crocco et al., 2011), suggesting a correlation between the uncoupling process and the regulation of muscle metabolism/catabolism in the elderly.
+
+The reduction of muscle mass in the elderly, known as sarcopenia, becomes so significant after the fifth decade of life that it is widely studied as one of the most important markers of human aging. Furthermore, sarcopenia is regarded as one of the major contributors to frailty (Morley et al., 2001), considering that the loss of muscle mass influences metabolic adaptation, immunological response to disease, capability to respond to environmental stress (Schrager et al., 2003) and so has a relevant impact on the overall homeostasis at old age. Operatively, sarcopenia is measured through the reduction of hand grip strength, which is considered a measure of the overall skeletal muscle mass, observed to gradually and significantly decrease as the individual ages (Doherty, 2003). Hand grip strength is generally considered a very reliable marker of the functional status, as well as one of the most effective predictors of disability and mortality in
+
+* Corresponding author at: Department of Cell Biology, University of Calabria, 87036 Rende, Italy. Tel.: +39 0984 492933; fax: +39 0984 492911. E-mail address: s.dato@unical.it (S. Dato).
+
+0047-6374/$ – see front matter © 2 2012 Elsevier Ireland Ltd. All rights reserved. http://dx.doi.org/10.1016/j.mad.2012.06.004
+
+In addition, recent evidences report as the genetic variability of UCP2, UCP3 and UCP4 affects the individual’s chances of surviving up to a very old age in the same population, thus confirming the relevance of the uncoupling pathway as candidate for human longevity (Rose et al., 2011a, 2011b).
+
+For each UCP3 polymorphism, allele frequencies were estimated by gene countingfromtheobservedgenotypes.Hardy–Weinbergequilibriumwastestedby aMonte-Carloapproach basedon10,000randomallele permutations(Weir,1996). Standard errors for alleles were computed according to the hypothesis of the multinomial distribution.
+
+In this study we aimed to add further support to the association of UCP3 variability with hand grip strength, by investigating four Single Nucleotide Polymorphisms (SNPs) and their relevant haplotypes in a different population, composed by two large cohorts of middle aged and oldest old Danes, well characterized by a phenotypic point of view. Moreover, taking advantage of the longitudinal study design of the oldest cohort, we investigated the association of UCP3 variations with survival at old ages.
+
+2.4.1. Single-locus analysis
+
+In order to assess phenotype–genotype associations we used the F statistics max proposed by Lettre et al., 2007. Briefly, this approach allows obtaining a robust association test for quantitative traits within a linear regression framework using thebestFstatistics(F max)observedfordifferentgeneticmodels(additive,dominant and recessive) taking into account also possible covariates’ effects.
+
+Inthepresentstudy,theF testhasbeenappliedtoinvestigatetherelationship max between UCP3 polymorphisms and the HG performances. The variables age at intake,genderandBodyMassIndex(BMI)wereusedasadjunctivecovariatesinthe regression analysis related to the MADT Cohort, while gender and BMI were includedinthecaseof1905Cohort.Apermutationapproach(10,000permutations) was used to evaluate the significance of the statistics obtained.
+
+2. Materials and methods
+
+2.4.2. Haplotypic analysis
+
+Two Danish samples were analyzed, for a total of 1616 (621 men and 995 women) subjects. The oldest old sample included 908 subjects 93 years old (265 males and 643 females), drawnfromthe Danish1905 Cohort, a population-based nationwidesurveyofallDanishpeopleborninDenmarkin1905(Nyboetal.,2001, 2003; Christensen et al., 2008). Briefly, 2262 people were initially recruited in 1998,whentheywere92–93 yearsofage.Vitalstatuswasascertainedeveryyear, from the first visit to January 1st 2010 or until death whichever came first, resulting in a mean follow-up time for survivors of 11.4 years (range: 11.2–11.6). Information on death for all the cohort members was retrieved from the Danish Central Population Register, which since 1968 keeps a record of all those living in Denmark and which is continuously updated (Pedersen et al., 2006). The participation rate of the survey was 63% and comparisons of demographical characteristics of participantswith non participants demonstrated that recruited people were a fairly non-selected group of the 1905 Cohort (Nybo et al., 2001). Theyoungersample(meanage50.5)included708subjects(356malesand352
+
+In order to model the effect of the UCP3 haplotypes on the HG performances, we used a haplotype-based association analysis within the Generalized Linear Model (GLM) framework, that allows to handle ambiguous haplotypes. The haplo.score function of haplo.stat package in R has been used to obtain the GLM-based score statistics for testing both global and individual haplotype effects on the HG performance(Schaidetal.,2002).Inthismodeltheeffectsofthedifferenthaplotypes were assessed by assuming an additive model. As in the previous case, the variables ageatintake,genderandBMIwereusedasadjunctivecovariatesintheMADTCohort, while gender and BMI were included in the case of 1905 Cohort. A permutation approach has been used to evaluate the significance of the scores obtained.
+
+2.4.3. Survival analysis
+
+In order to evaluate if the detected effects of the analyzed UCP3 polymorphisms ontheHGperformancemightfinallyresultindifferentialpatternsofsurvivalofthe differentrelevantgenotypes,weevaluatedsurvivalafter10 yearsfromthebaseline visit in the 1905 Cohort by using Accelerated Failure Time (AFT) models (Bradburn et al., 2003). Sex, BMI and the four UCP3 SNPs (a SNP each time) were considered as covariates. As reported in the paper by Dato et al. (2011), AFT models can be preferred over the more commonly used Cox regression model (Cox, 1972), particularly when, as in the case of the variable ‘‘sex’’ for the 1905 Cohort, proportional hazard assumptions are not respected (Schoenfeld, 1982, see Supplementary materials). Moreover, with respect to the less intuitive hazard functionprovidedbyCoxmodels,AFTmodelsallowobtainingaclearerexplanation of covariate effects, by directly linking the estimation of survival time with the values of covariates: a positive regression coefficient indicates that the covariate is associated with higher survival chances; conversely for negative coefficients. In addition, recent study demonstrated the usefulness of AFT models also in aging research (Swindell, 2009). Then, from the fitted AFT models, sex-adjusted survival curveswereobtained,analyzingeachSNPindependentlyfromeachother.Fittingof AFT models was carried out by assuming a Weibull distribution. Subjects alive or immigrated after 10 years from the baseline visit were considered as censored.
+
+(Gaist et al., 2000). Recruitmentwas started in 1998, when 2640 intact twin from 22 consecutive birth years (1931–1952) were chosen via the Danish Population Register. The sample analyzed in this study includes only one from each twin pair.
+
+Both surveys included multidimensional face-to-face interviews, aimed at the collection of socio-demographic information, assessment of physical, cognitive, depressive status, sensory impairments, medications, self-reported health status andDNA sampling. Permission tocollect blood samples and usageof register based information was granted by The Danish National Committee on Biomedical Research Ethics.
+
+2.2. Measurement of hand grip strength
+
+Handgrip(HG)strengthwasmeasuredbyahandhelddynamometer(SMEDLEY’s dynamometer TTM, Tokyo, Japan) while the subject was sitting with the arm close to his/her body. The test was repeated three times with the stronger hand; the maximumofthesevalueswasusedintheanalyses.Whenatestwasnotcarriedout, it was specified whether it was due to physical disabilities or because the subject refused to participate.
+
+SurvivalanalysisofUCP3haplotypeswascarriedoutbyusingAFTmodelsaswell. In particular, first the probabilities of the individual haplotype combinations (diplotypes) were estimated by using an Expectation Maximization (EM) algorithm implemented in the haplo.stats package of R. Second, N dummy variables, corresponding to the number of different observed haplotypes, were obtained coding the reconstructed diplotype in an additive fashion (the count of a particular haplotype in the diplotype). Finally, AFT models were used for estimating the statisticalsignificanceofeachhaplotype,withtheEM–estimatedprobabilitiesused asweights.Sincethisapproachunderestimatesthestandarderrorsofrarehaplotypes, they were not included in the model when their frequency was lower than 5%. As in the previous case, sex and BMI were used as adjunctive covariates in the model.
+
+2.3. SNP selection and genotyping
+
+For the analysis of UCP3 genetic variability, SNPs were chosen in the genomic region 73,387,985–73,402,778 of chromosome 11, which corresponds to the coding region of UCP3 gene plus 5000 base pairs (bp) upstream and 1000 bps down stream (NCBI B36 assembly), in order to take into consideration possible regulatory elements of the gene. Tagging SNPs covering as much as possible of the known common genetic variation in UCP3 were chosen by analyzing HapMap genotype SNP data in HaploView software (http://www.broadinstitu- te.org/haploview/haploview, Barrett et al., 2005). In this analysis, the following criteria were adopted: Minimum Allele Frequency (MAF) of at least 5%, ‘pair wise tagging only’, r2   0.8, LOD = 3 and a minimum distance between SNPs = 60 bp. The same program has been used for obtaining the graphical overview of Linkage Disequilibrium (LD) (definition of blocks based on confidence interval algorithm, as reported in Gabriel et al., 2002). Pairwise measures of LD between the analyzed loci were quantified by the correlation coefficient r2.
+
+All statistical analyses were carried out using R statistical environment (R Development Core Team, 2010. R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing, Vienna, Austria 2011, URL http://www.R-project.org). In particular, survival package was used for survival analyses; haplo.stats and Design packages for haplotypes association analyses (Sinnwell and Schaid, 2009; Harrell and Frank, 2009). A significance level of 0.05 was set for all the tests.
+
+3. Results
+
+DNA was isolated from blood spot samples using the QIAamp DNA Mini and Micro Kits (Qiagen). Genotyping of the 4 UCP3 SNPs (rs11235972, rs1685354, rs3781907 and rs647126, general characteristics reported in Table 1SM, Supplementary material) was performed as described in Soerensen et al. (2012), by using the Illumina GoldenGate platform (Illumina Inc) and data cleaning was carried out according to Illumina Inc’s recommendations.
+
+Table 1 shows the distribution of the observed genotypes and allele frequencies of UCP3 SNPs in the MADT and 1905 Cohorts. For each SNP no significant departure from Hardy–Weinberg equilibrium was observed in both samples.
+
+Table 1
+
+Absolute (Abs) and relative (Rel) genotypic and allelic frequencies(cid:3)standard errors (SE) of UCP3 gene polymorphisms in the MADT and 1905 Cohorts.
+
+dbSNP ID Genotype/allele MADT Cohort 1905 Cohort Abs (Rel(cid:3)SE) p-value (HWE) Abs (Rel(cid:3)SE) p-value (HWE) rs647126 G/G 267 (0.29(cid:3)0.015) 0.141 217 (0.31(cid:3)0.017) 0.447 G/A 471 (0.52(cid:3)0.017) 359 (0.51(cid:3)0.019) A/A 170 (0.19(cid:3)0.013) 132 (0.19(cid:3)0.015) G 1005 (0.55(cid:3)0.012) 793 (0.56(cid:3)0.013) A 811 (0.45) 623 (0.44) rs1685354 A/A 494 (0.54(cid:3)0.017) 0.270 381 (0.54(cid:3)0.019) 0.244 A/G 343 (0.38(cid:3)0.016) 285 (0.40(cid:3)0.018) G/G 71 (0.08(cid:3)0.009) 42 (0.06(cid:3)0.009) A 1331 (0.73(cid:3)0.010v 1047 (0.74(cid:3)0.012) G 485 (0.27) 369 (0.26) rs3781907 A/A 424 (0.47(cid:3)0.017) 0.538 330 (0.47(cid:3)0.019) 0.602 A/G 399 (0.44(cid:3)0.016) 311 (0.44(cid:3)0.019) G/G 85 (0.09(cid:3)0.010) 67 (0.09(cid:3)0.011) A 1247 (0.69(cid:3)0.011) 971 (0.69(cid:3)0.012) G 569 (0.31) 445 (0.31) rs11235972 G/G 475 (0.52(cid:3)0.017) 0.614 376 (0.53(cid:3)0.019) 0.698 G/A 368 (0.41(cid:3)0.016) 283 (0.40(cid:3)0.018) A/A 65 (0.07(cid:3)0.009) 49 (0.07(cid:3)0.010) G 1318 (0.73(cid:3)0.010) 1035 (0.73(cid:3)0.012) A 498 (0.27) 381 (0.27)
+
+The table clearly shows that the variability of the rs1685354 is significantly associated to the HG performance (p = 0.029), with subjects carrying GG genotype (recessive model) showing lower HG scores than the allele A carriers. A marginal effect for rs647126 was also detected, for which carrying the A allele (dominant model) significantly increased the HG scores (p = 0.075).
+
+In order to model the effect of the UCP3 haplotypes on the HG performance, firstly we evaluated the degree of LD between pairs of loci. We found a modest degree of LD between the analyzed polymorphisms. In particular, in the 1905 Cohort, we found LD between rs647126 and rs1685354 (r2 = 0.271), which in turn was also linked to the rs3781907 (r2 = 0.102), which in turn was linked to the rs11235972 (r2 = 0.587). The same LD pattern was observed in the MADT Cohort. In fact, in this sample we found LD between rs647126 and rs1685354 (r2 = 0.263), which in turn was also linked to the rs3781907 (r2 = 0.121), which in turn was linked to the rs11235972 (r2 = 0.543). The LD structures of UCP3 SNPs in the two analyzed samples are shown in Fig. 1(a and b).
+
+3.2. Haplotypic analysis in the MADT Cohort
+
+We evaluated the effect of the UCP3 haplotypes on the HG performance by applying a GLM based algorithm. Table 3 reports the estimation of the haplotype frequencies of the combined UCP3 SNPs and their association with the HG performance in the MADT Cohort.
+
+3.1. Single-locus analysis in the MADT Cohort
+
+From this GLM model, considering age, gender and BMI as covariates, the global score statistic in the MADT Cohort was 9.54 (p = 0.410). The analysis of the scores associated with each haplotype indicated that the haplotype AAAG was significantly
+
+Table 2 reports for each UCP3 SNP the test statistics for the different genetic models (dominant, additive and recessive) obtained in the MADT Cohort with the relevant p-values.
+
+ 
+
+Fig. 1. LD structures of UCP3 SNPs in the 1905 (a) and MADT (B) Cohort.
+
+Table 2
+
+Results of the F association tests between the analyzed polymorphisms (risk allele in parenthesis) and the hand grip max
+
+SNP Additive model Dominant model Recessive model F pc max Fa b p b F b p F b p b b b rs647126 (A) 488.75 0.740 0.035 488.78 1.116 0.034 486.01 0.773 0.215 488.78 0.075 rs1685354 (G) 484.85 (cid:4)0.223 0.578 484.78 0.238 0.626 490.28 (cid:4)2.528 0.014 490.28 0.029 rs3781907 (G) 486.78 (cid:4)0.577 0.124 485.87 (cid:4)0.579 0.237 486.39 (cid:4)1.159 0.163 486.78 0.230 rs11235972 (A) 485.37 (cid:4)0.364 0.354 484.87 (cid:4)0.281 0.566 485.79 (cid:4)1.099 0.253 485.79 0.451
+
+a F-statistics under the additive, dominant and recessive models. b p-values of the regression coefficients associated with the analyzed polymorphism under the three genetic models. c p-valueadjustedformultipletestingofdifferentgeneticmodels(basedon10,000randompermutations),obtainedusingtheapproachproposedbyLettreetal.,2007(see 2).
+
+Table 3
+
+Estimation of haplotype frequencies in the UCP3 SNPs and association with hand grip performance in MADT Cohort.
+
+Haplotype rs647126 rs1685354 rs3781907 rs11235972 Freq.a Score pb GAGA G A G A 0.21491 (cid:4)1.33136 0.182 AAGG A A G G 0.05587 (cid:4)1.23035 0.208 GAGG G A G G 0.01512 (cid:4)0.60371 0.558 GGAG G G A G 0.25016 (cid:4)0.60117 0.549 GAAG G A A G 0.04281 (cid:4)0.58967 0.546 GAAA G A A A 0.02988 (cid:4)0.44337 0.655 GGGG G G G G 0.00715 0.08633 0.930 AAGA A A G A 0.01973 1.23184 0.218 AAAG A A A G 0.35878 2.33717 0.019
+
+a Estimated haplotype frequency. b Monte-Carlo p-value from 106 replications.
+
+associated with higher HG scores (p = 0.019). Consistently with the single locus analysis, we found that SNP combinations including significant alleles resulted in significantly different haplotypic effects on the HG performances.
+
+From this GLM model, considering gender and BMI as covariates, the global score statistic was 19.76 (p = 0.090). The data reported in Table 5 indicates that haplotypes GAGA, GAAA, GGAG and GGGG were significantly associated with the HG performance in this sample. In particular, haplotypes GAGA (p = 0.008) and GAAA (p = 0.068) points to be associated with lower HG scores, while haplotypes GGAG (p = 0.051) and GGGG (p = 0.029) were associated to higher scores. Also in this case we found that SNP combinations directly including alleles showing significant single-locus associations resulted in significantly different haplotype effects on the HG performances.
+
+Table 4 reports for each UCP3 SNP the test statistics for the different genetic models with the relevant p-values as obtained in the 1905 Cohort.
+
+The table clearly shows that the rs11235972 and rs1685354 variations had significant effects on the HG performance. In fact, as it regards for the rs11235972 variation, subjects carrying the A allele (dominant model) showed lower HG scores than those homozygotes for the G allele (p < 0.001), whereas for the rs1685354 variation, the comparison of the F statistics makes the additive model the most plausible, indicating that carrying the G allele positively influenced the HG scores in an additive manner.
+
+3.5. Survival analysis
+
+Table 6 reports the estimated parameters of the fitted AFT models in the 1905 Cohort, including sex and the different SNPs as covariates.
+
+In Table 6 a positive coefficient indicates that an increment of the respective factor is associated with higher survival chances; conversely for negative coefficients. After 10 years, a significant effect on survival chances was observed for rs11235972 and rs3781907 (p = 0.029 and p = 0.050, respectively). In particular, since in these models each SNP was coded as 0,1 or 2 according to the count of the minor (less frequent) allele in the genotype,
+
+Table 5 reports the estimation of the haplotype frequencies of the combined UCP3 SNPs and their association with the HG performance in the 1905 Cohort.
+
+Table 4
+
+Results of the F association tests with respect to the analyzed polymorphisms (risk allele in parenthesis) in the 1905 Cohort. max
+
+SNP Additive model Dominant model Recessive model F pc max Fa b p b F b p F b p b b b rs647126 (A) 201.54 0.153 0.542 201.44 (cid:4)0.161 0.670 202.71 0.692 0.116 202.71 0.225 rs1685354 (G) 204.54 0.648 0.016 203.62 0.699 0.043 203.41 1.236 0.054 204.55 0.037 rs3781907 (G) 202.98 (cid:4)0.454 0.086 203.28 (cid:4)0.643 0.062 201.55 (cid:4)0.370 0.531 203.28 0.120 rs11235972 (A) 206.60 (cid:4)0.844 0.002 207.47 (cid:4)1.139 < 0.001 201.92 (cid:4)0.685 0.305 207.47 0.002
+
+a F-statistics under the additive, dominant and recessive models. b p-values of the regression coefficients associated with the analyzed polymorphism under the three .genetic models. c p-value adjusted for multiple testing of different genetic models (based on 10,000 random permutations), obtained using the approach proposed by Lettre et al. (2007) (see Section 2).
+
+Table 5
+
+Estimation of haplotype frequencies in the UCP3 SNPs and association with hand grip performance in 1905 Cohort.
+
+Haplotype rs647126 rs1685354 rs3781907 rs11235972 Freq.a Score pb GAGA G A G A 0.225 (cid:4)2.385 0.008 GAAA G A A A 0.024 (cid:4)1.893 0.068 AAAA A A A A 0.006 (cid:4)0.780 0.455 GAAG G A A G 0.032 (cid:4)0.644 0.515 AAGA A A G A 0.016 (cid:4)0.255 0.794 GGGA G G G A 0.003 0.032 0.972 GAGG G A G G 0.012 0.252 0.803 AAGG A A G G 0.042 0.459 0.640 AAAG A A A G 0.377 0.567 0.575 AGAG A G A G 0.003 1.358 0.156 GGAG G G A G 0.246 1.974 0.051 GGGG G G G G 0.012 2.396 0.029
+
+a Estimated haplotype frequency. b Monte-Carlo p-value from 106 replications.
+
+Table 6
+
+Estimated coefficients of the fitted Accelerated Failure Time (AFT) model in 1905-Cohort including sex and one SNP (among rs11235972, rs1685354, rs3781907 rs647126) as covariates. Standard errors (SE), Wald test statistics (z) and significance (p-value) are also reported.
+
+Coefficient SE z p-value rs11235972 Intercept 3.994 0.038 104.500 <0.001 Sex=Male (cid:4)0.171 0.057 (cid:4)3.020 0.002 SNP (cid:4)0.090 0.041 2.190 0.029 Log(scale) (cid:4)0.269 0.028 (cid:4)9.750 <0.001 rs1685354 Intercept 3.954 0.039 102.640 <0.001 Sex=Male (cid:4)0.176 0.057 (cid:4)3.105 0.002 SNP (cid:4)0.013 0.041 (cid:4)0.300 0.762 Log(scale) (cid:4)0.267 0.028 (cid:4)9.680 <0.001 rs3781907 Intercept 3.994 0.040 100.480 <0.001 Sex=Male (cid:4)0.169 0.057 (cid:4)2.980 0.003 SNP (cid:4)0.080 0.041 (cid:4)1.960 0.050 Log(scale) (cid:4)0.269 0.028 (cid:4)9.750 <0.001 rs647126 Intercept 3.921 0.047 83.870 <0.001 Sex=Male (cid:4)0.173 0.057 (cid:4)3.040 0.002 SNP 0.028 0.037 0.760 0.447 Log(scale) (cid:4)0.268 0.028 (cid:4)9.680 <0.001
+
+variability and HG strength in a southern Italian population (Crocco et al., 2011), and taking into account the different quality of aging demonstrated between southern and northern Europeans (Jeune et al., 2006; Andersen-Ranberg et al., 2009), in this paper we wanted to further test this association in a larger sample of 1616 individuals (908 nonagenarians and 708 younger subjects), belonging to a northern European population, the Danes. To this aim, we carried out an association analysis between four common variants in the UCP3 gene and HG performance, both at single and haplotypic levels. We found that UCP3 markers previously associated with age-related phenotypes (diabetes, obesity, serum lipid levels and BMI) (van Abeelen et al., 2008; Salopuro et al., 2009) significantly influenced also the HG performance in the analyzed cohorts. In particular, the minor allele of rs1685354 had significant effects on the HG performance both in the younger and in the older sample, although in opposite sense. In nonagenarians, the less frequent allele of rs11235972 was negatively associated with HG, while a marginal positive effect was observed for rs647126 in the younger sample.
+
+carriers of the A allele at rs11235972 variation and carriers of the G allele at rs3781907 (that are the less frequent alleles for these SNPs) showed a reduced survival chance (coefficient = (cid:4)0.090 and (cid:4)0.080, respectively). In addition, male sex was associated with a reduced survival probability in all four models (p < 0.01). Interestingly, the rs11235972-A variation was also associated with a decreased HG performance in the previous analysis in this cohort. As for the rs3781907, despite the borderline association with HG performance (p = 0.062, see Table 4), it significantly influenced survival in this cohort.
+
+For each polymorphism, the survival functions obtained the fitted AFT models are shown in Fig. 2.
+
+Considering the previously demonstrated LD between SNPs and the haplotypic effect on the HG performances, we then carried out a haplotype-based survival analysis, as previously described in Section 2. No significant association was found between any UCP3 haplotype and survival in the Danish 1905 sample (data not shown).
+
+4. Discussion
+
+With the exception of rs11235972 in the 1905 Cohort, no other association hold a Bonferroni’s correction (p < 0.0125). However, this correction seems more suitable when searching for associa- tions without a priori hypotheses but too conservative when assessing a specific research question, as in our case, with a candidate gene chosen for its relevance with respect to the
+
+Several studies have hypothesized a correlation between uncoupling process and the regulation of muscle metabolism in elderly (Cortright et al., 1999; Nabben and Hoeks, Considering the association demonstrated between UCP3
+
+TST060504TST1Z309 12     60 90 120Months30ors647126      org0 90 Oo 20 00Auigeqorg [eAlaing     60 90 120Months30oO183781907or#0 90 0 20 00Auigeqorg leaning      oL#0 90 0 z0 00Auigeqosg |eaiaingor#0 90 0 20 00Auigeqoig leAinung60 90 120Months30Oo60 90 120Months30oO
+
+Fig. 2. Panel showing the survival functions of the different genotypes at the four analyzed UCP3 SNPS in the 1905 Cohort sample, as obtained from the fitted AFT models.
+
+analyzed phenotype (Perneger, 1998). Furthermore, because this work confirmed a previous association between UCP3 variability and hand grip levels at old age, we believe that also borderline and trend results should be taken into account.
+
+production, thus preventing or reducing the age related decay of the aging muscle (Nabben et al., 2008; Mookerjee et al., 2010).
+
+When investigating the association of UCP3 haplotypes (con- sisting of the four SNPs) with HG, in line with the single locus analysis, we found that some haplotypes show different effects on HG performances in both cohorts. In particular, the haplotype AAAG was significantly associated with higher HG scores in MADT Cohort,while in the 1905 samplehaplotypes GAGA and GAAA were associated with lower, and GGAG and GGGG were associated with higher scores. Both the single and haplotypic associations remain significant after correction for multiple testing, therefore they can be considered statistically robust. Accordingly, genetic variants being associated with lower HG at the single-SNP level also show lower HG at the haplotypic level.
+
+Although the candidate SNPs analyzed in this study are not functional, data from the HapMap consortium report a complete LD between the functional variant rs1800849, influencing the HG strength in a southern Italian elderly population (Crocco et al., 2011) and rs11235972 (r2 = 1). A less strong LD exists between rs1800849 and the other SNPs tested (r2 = 0.5 with rs3781907, r2 = 0.23 with rs647126, r2 = 0.22 with rs1685354). Consequently, we may argue that the association observed in this work can be due to a functional linkage of our polymorphisms with the rs1800849, or they could both be in LD with the actual causal variant.
+
+The observed association of rs1685354 with a lower HG in middle-aged individuals and a higher HG in nonagenarians could suggest a possible antagonistic pleiotropic effect of this polymor- phism (or the associated causal variant) on the phenotype. In younger individuals, a more efficient uncoupling process, promot- ing the dissipation of proton gradient, reduces ATP level and so energy availability, which may be associated with a lower muscular functioning in an energy-demanding organism; on the contrary, in a different metabolic scenario, possibly characterized by a loss of muscle mass, a higher expression of uncoupling proteins may replace dysfunctional mitochondria by stimulating the mitochondrial biogenesis, as suggested for UCP2 by Wu et al. (1999), and so represent an adaptation of the aging organism to the new physiological status. In support of this hypothesis is the evidence coming from studies on the regulation of UCP proteins, where it emerges that their activity is modified when facing different physiological and nutritional stimuli (Ricquier et al., 2000). Furthermore, the observation of a correlation between genetic variants harboring higher gene expression of UCP genes
+
+Considering the importance of sarcopenia and loss of muscle mass in the aging process, we tested the possible association of UCP3 single variants with survival in the 1905 Cohort by using AFT models. Taking advantage of the large cohort and follow-up period available in our dataset, we found that UCP3 SNPs were also associated with survival at 10 years in this cohort. Consistently with the previous association results, rs11235972, which nega- tively influenced HG scores, was also associated with a lower survival chance, with rs11235972-A carriers showing higher mortality than non carriers. A borderline significant association with survival was also observed for rs3781907, even if the variant did not show any significant association with HG levels. On the contrary, despite rs1685354 had significant effects on the HG performance, no significant association was detected in terms of survival. A comparison with the classical Cox regression propor- tional hazard models, carried out by using each SNP and sex as covariates, confirmed these results (Table 2SM).
+
+Finally, taking into consideration the modest LD found between SNPs analyzed in this study, we tested the effect of their interaction with respect to survival. Despite the association previously found with HG phenotypes, we could not demonstrate any significant
+
+association with survival for UCP3 haplotypes, probably because of the level of statistical correction needed, and the scarce frequency of some haplotypes in our sample. These considerations, however, did not affect the previous associations found between single polymorphisms with survival in this cohort, rather strengthen the hypothesis of an association with another functional variant in the UCP3 gene region.
+
+Arking, D.E., Fallin, D.M., Fried, L.P., Li, T., Beamer, B.A., Xue, Q.L., Chakravarti, Walston, J.,
+
+Variation in the ciliary neurotrophic factor gene and strength in older Caucasian women. Journal of the American Geriatrics
+
+(
+
+),
+
+–
+
+of LD and haplotype maps. Bioinformatics
+
+(
+
+),
+
+–
+
+Bradburn, M.J., Clark, T.G., Love, S.B., Altman, D.G.,
+
+Survival analysis part multivariate data analysis – an introduction to concepts and methods. Journal of Cancer
+
+(
+
+),
+
+–
+
+Christensen, K., M
+
+ue, M., Petersen, I., Jeune, B., Vaupel, J.W.,
+
+longevity does not result in excessive levels of disability. Proceedings the National Academy of Sciences of the United States of America
+
+–
+
+Dohm, G.L.,
+
+Regulation of skeletal muscle UCP-
+
+and UCP-
+
+gene sion by exercise and denervation. American Journal of Physiology
+
+(
+
+Pt E
+
+–E
+
+Cox, D.R.,
+
+Regression models and life-tables. Journal of the Royal Society
+
+,
+
+–
+
+the UCP
+
+promoter influences hand grip strength in elderly people. ontology
+
+(
+
+),
+
+–
+
+Dato, S., Krabbe, K.S., Thinggaard, M., Pedersen, B.K., Christensen, K., H., Christiansen, L.,
+
+Commonly studied polymorphisms in cytokine genes show only minor effects on mortality and related risk factors zonagenarians. Journals of Gerontology. Series A, Biological Sciences and cal Sciences
+
+(
+
+),
+
+–
+
+Dato, S., Montesanto, A., Lagani, V., Jeune, B., Christensen, K., Passarino, G., May. Frailty phenotypes in the elderly based on cluster analysis: a study of two Danish cohorts Evidence for a genetic influence on frailty. (Dordr), http://dx.doi.org/
+
+/s
+
+-
+
+-
+
+-x. De Mars, G., Windelinckx, A., Beunen, G., Delecluse, C., Lefevre, J., Thomis,
+
+Polymorphisms inthe CNTF and CNTF receptor genes are associated muscle strength in men and women. Journal of Applied Physiology
+
+–
+
+Doherty, T.J.,
+
+Aging and sarcopenia. Journal of Applied Physiology
+
+–
+
+Franceschi, C., Valensin, S., Bonafe`, M., Paolisso, G., Yashin, A.I., Monti, D., Benedictis, G.,
+
+The network and the remodeling theories of historical background and new perspectives. Experimental Gerontology
+
+–
+
+Frederiksen, H., Gaist, D., Petersen, H.C., Hjelmborg, J., M
+
+ue, M., Vaupel, Christensen, K.,
+
+Hand grip strength: a phenotype suitable for genetic variants affecting mid- and late-life physical functioning. Epidemiology
+
+(
+
+),
+
+–
+
+Gabriel,S.B., Schaffner, S.F., Nguyen, H., Moore, J.M.,Roy, J.,Blumenstiel, B., J., De Felice, M., Lochner, A., Faggart, M., Liu-Cordero, S.N., Rotimi, C., A., Cooper,R.,Ward, R., Lander, E.S., Daly, M.J., Altshuler, D.,
+
+The of haplotype blocks in the human genome. Science
+
+(
+
+),
+
+–
+
+Gaist, D., Bathum, L., Skytthe, A., Jensen, T.K., M
+
+ue, M., Vaupel, J.W., K.,
+
+Strength and anthropometric measures in identical and twins: no evidence of masculinization of females with male co-twins. miology
+
+(
+
+),
+
+–
+
+Harrell Jr., F.E.,
+
+Design: Design Package. R Package Version
+
+-
+
+. Jeune, B., Skytthe, A., Cournil, A., Greco, V., Gampe, J., Berardelli, M., Ranberg, K., Passarino, G., Debenedictis, G., Robine, J.M.,
+
+strength among nonagenarians and centenarians in three European Journals of Gerontology. Series A, Biological Sciences and Medical Sciences (
+
+),
+
+–
+
+Lettre, G., Lange, C., Hirschhorn, J.N.,
+
+Genetic model testing and power in population-based association studies of quantitative traits. Epidemiology
+
+(
+
+),
+
+–
+
+Metter,E.J.,Talbot, L.A.,Schrager, M.,Conwit,R.,
+
+Skeletalmuscle predictor of all-cause mortality in healthy men. Journals of Gerontology. A, Biological Sciences and Medical Sciences
+
+(
+
+), B
+
+–B
+
+Mookerjee, S.A., Divakaruni, A.S., Jastroch, M., Brand, M.D.,
+
+uncoupling and lifespan. Mechanisms of Ageing and Development
+
+–
+
+Morley, J.E., Baumgartner, R.N., Roubenoff, R., Mayer, J., Nair, K.S.,
+
+Journal of Laboratory and Clinical Medicine
+
+(
+
+),
+
+–
+
+Nabben, M., Hoeks, J., Briede´, J.J., Glatz, J.F., Moonen-Kornips, E., Hesselink, Schrauwen, P.,
+
+The effect of UCP
+
+overexpression on mitochondrial production inskeletalmuscleofyoungversusagedmice.
+
+–
+
+and skeletal muscle metabolism. Physiology and Behavior
+
+(
+
+),
+
+–
+
+Newman, A.B., Kupelian, V., Visser, M., Simonsick, E.M., Goodpaster, B.H.,
+
+D.E., Fallin, D.M., Fried, L.P., Li, T., Beamer, B.A., Xue, Q.L., Chakravarti, A., Walston, J., 2006. Variation in the ciliary neurotrophic factor gene and muscle strength in older Caucasian women. Journal of the American Geriatrics Society
+
+4.1. Conclusions
+
+On the whole, our work confirms the association between UCP3 variability and muscular strength, measured through HG, also in the Danish population. Despite the differences in HG performances found in nonagenarians and 50+ individuals across Europe (Jeune et al., 2006; Andersen-Ranberg et al., 2009), UCP3 genetic polymorphisms could be considered a common and informative target for better evaluating the muscular functionality and then the quality of aging in both northern and southern European populations. Furthermore, the different associations found be- tween UCP3 polymorphism in individuals belonging to different age range may be due to the fact that UCP proteins act in a complex pathway, where genetic variability may also interact with several transcription/replication factors directly regulating mitochondrial metabolism involved in muscular functioning: the coordination of these factors into a program responsive to the environment is complex and may represent one of the mechanism used by the aging organism to adapt itself to the new physiological scenario (Franceschi et al., 2000).
+
+In line with this hypothesis are the recent data emphasizing the role of UCP variations on the metabolic efficiency (Mookerjee et al., 2010), whichunderline as the impact of UCPs’ gene variation on human longevity can be due to the coordination of their different functions rather than the sole well known effect on oxidative stress.
+
+In any case, our work adds a piece of evidence to the hypothesis that the variability of the UCP3 gene, involved in the control of energetic metabolism, can influence the survival at old age. In general, the association of UCPs genetic variability with survival, if confirmed in different population by future replication studies, suggests a crucial role of their metabolic pathway in human longevity.
+
+Acknowledgments
+
+This study was supported by the Max-Planck Institute for Demographic Research (Rostock, Germany), the National Institute on Aging (P01 AG08761), The Novo Nordisk Foundation, the Aase and Ejnar Danielsen Foundation, the Augustinus Foundation, the Brødrene Hartmann Foundation, the King Christian the 10th Foundation and the Einer Willumsens Mindelegat Foundation. The Danish Aging Research Center is supported by a grant from the VELUX Foundation. Researchers from University of Calabria were supported by the European Union Seventh Framework Programme (FP7/2007–2011) under grant agreement no. 259679
+
+Appendix A. Supplementary data
+
+Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.mad.2012.06.004.
+
+References
+
+Andersen-Ranberg, K., Petersen, I., Frederiksen, H., Mackenbach, J., Christensen, K., 2009. Cross-national differences in grip strength among 50+ year-old Eur- opeans: results from the SHARE study. European Journal of Ageing 6 (3), 227–236.
+
+Nybo, H., Petersen, H.C., Gaist, D., Jeune, B., Andersen, K., McGue, M., Vaupel, J.W., Christensen, K., 2003. Predictors of mortality in 2,249 nonagenarians – the
+
+Danish
+
+-Cohort Survey. Journal of the American Geriatrics Society
+
+(
+
+),
+
+–
+
+Pedersen, C.B., Gøtzsche, H., Møller, J.O., Mortensen, P.B.,
+
+The Danish Civil Registration System. A cohort of eight million persons. Danish Medical Bulletin
+
+(
+
+),
+
+–
+
+Perneger, T.V.,
+
+What’s wrong with Bonferroni adjustments. British Medical Journal
+
+(
+
+),
+
+–
+
+Rantanen, T., Guralnik, J.M., Foley, D., Masaki, K., Leveille, S., Curb, J.D., White, L.,
+
+Midlife hand grip strength as a predictor of old age disability. Journal of the American Medical Association
+
+(
+
+),
+
+–
+
+Ricquier, D., Miroux, B., Larose, M., Cassard-Doulcier, A.M., Bouillaud, F.,
+
+Endocrine regulation of uncoupling proteins and energy expenditure. Interna- tional Journal of Obesity and Related Metabolic Disorders
+
+,
+
+–
+
+Rose, G., Crocco, P., De Rango, F., Montesanto, A., Passarino, G.,
+
+a. Further support to the uncoupling-to-survive theory: the genetic variation of human UCP genes is associated with longevity. PL
+
+One
+
+(
+
+), e
+
+Rose, G., Crocco, P., D’Aquila, P., Montesanto, A., Bellizzi, D., Passarino, G.,
+
+b. Two variants located in the upstream enhancer region of human UCP
+
+gene affect gene expression and are correlated with human longevity. Experimental Gerontology
+
+(
+
+),
+
+–
+
+Roth, S.M., Schrager, M.A., Ferrell, R.E., Riechman, S.E., Metter, E.J., Lynch, N.A., Lindle, R.S., Hurley, B.F.,
+
+CNTF genotype is associated with muscular strength and quality in humans across the adult age span. Journal of Applied Physiology
+
+(
+
+),
+
+–
+
+Salopuro, T., Pulkkinen, L., Lindstro¨m, J., Kolehmainen, M., Tolppanen, A.M., Eriks- son, J.G., Valle, T.T., Aunola, S., Ilanne-Parikka, P., Keina¨nen-Kiukaanniemi, S., Tuomilehto, J., Laakso, M., Uusitupa, M.,
+
+Variation in the UCP
+
+and UCP
+
+genesassociateswithabdominalobesityandserumlipids:th
+
+innis
+
+iabetes Prevention Study. BMC Medical Genetics
+
+,
+
+Schaid,D.J.,Rowland,C.M.,Tines,D.E.,Jacobson,R.M.,Poland,G.A.,
+
+Scoretests for association between traits and haplotypes when linkage phase is ambigu- ous. American Journal of Human Genetics
+
+(
+
+),
+
+–
+
+Schoenfeld, D.,
+
+Partial residuals for the proportional hazards regression model. Biometrika
+
+,
+
+–
+
+Schrager, M., Bandinelli, S., Maggi, S., Ferrucci, L.,
+
+Sarcopenia: twenty questions for a research agenda. Basic and Applied Myology
+
+(
+
+), Sinnwell, J.P., Schaid, D.J.,
+
+haplo.stats: Statistical Analysis of with Traits and Covariates when Linkage Phase is Ambiguous. R Version
+
+. Soerensen, M., Dato, S., Tan, Q., Thinggaard, M., Kleindorp, R., Beekman, M., man, H.E.D., Jacobsen, R., M
+
+ue, M., Stevnsner, T., Bohr, V.A., de Craen, Westendorp, R.G.J., Schreiber, S., Slagboom, E., Nebel, A., Christensen, K., tiansen, L.,
+
+Common genetic variation in the GH-IGF-
+
+-insulin DNA damage signalling and repair and pro-antioxidant pathways is with human longevity. Experimental Gerontology
+
+(
+
+),
+
+–
+
+Swindell, W.R.,
+
+Accelerated failure time models provide a useful framework for aging research. Experimental Gerontology
+
+,
+
+–
+
+van Abeelen, A.F., de Krom, M., Hendriks, J., Grobbee, D.E., Adan, R.A., van Schouw, Y.T.,
+
+Variations in the uncoupling protein-
+
+gene are with specific obesity phenotypes. European Journal of Endocrinology
+
+–
+
+(Erratum in: European Journal of Endocrinology
+
+,
+
+(
+
+), T.B., Devaney, J.M., Pescatello, L.S.,
+
+CNTF
+
+G -> A polymorphism the muscle strength response to resistance training. Journal of Applied ology
+
+(
+
+),
+
+–
+
+Weir, B.S.,
+
+Genetic Data Analysis II: Methods for Discrete Population Data. Sinauer Associates, Sunderland. Windelinckx, A., De Mars, G., Huygens, W., Peeters, M.W., Vincent, B., C., Lambrechts, D., Delecluse, C., Roth, S.M., Metter, E.J., Ferrucci, L., J., Vlietinck, R., Beunen, G.P., Thomis, M.A.,
+
+Comprehensive fine ping of chr
+
+q
+
+-
+
+and follow-up replication identify activin receptor (ACVR
+
+B) as a muscle strength gene. European Journal of Human Genetics (
+
+),
+
+–
+
+Wu, Z., Puigserver, P., Andersson, U., Zhang, C., Adelmant, G., Mootha, V., Troy, Cinti, S., Lowell, B., Scarpulla, R.C., Spiegelman, B.M.,
+
+Mechanisms trolling mitochondrial biogenesis and respiration through the coactivator PGC-
+
+Cell
+
+(
+
+),
+
+–

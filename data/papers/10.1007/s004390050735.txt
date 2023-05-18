@@ -1,0 +1,753 @@
+Lack of association between human longevity and genetic polymorphisms in drug-metabolizing enzymes at the NAT2, GSTM1 and CYP2D6 loci
+
+Received: 4 September 1997/Accepted: 13 December 1997
+
+Abstract In the present study, the possible role of genetic polymorphism of three drug-metabolizing enzymes, debrisoquine/sparteine hydroxylase (CYP2D6), glu- m tathione S-transferase (GSTM1), and N-acetyltransferase (NAT2), as a putative genetic component of human longev- ity, was explored. A total of 817 DNA samples from a cen- tenarian and a control (20–70 years) population was sub- jected to PCR-coupled RFLP methods. Subjects were genotyped for the CYP2D6*3 (A deletion) and 2637 CYP2D6*4 (G A transition) alleles, for four mutations 1934 of NAT2 [namely, NAT2*5A (C T), NAT2*6A (G A), 481 590 NAT2*7A (G A), and NAT2*14A (G A)], and for the 857 191 presence or absence of GSTM1 gene deletion. No signifi- cant difference was found at these three loci between cen- tenarian and control subjects with respect to allelic variant frequencies, genotype distributions or predicted pheno- types deduced from genotype combinations. By comparing the distribution of combined genotypes for the polymor- phisms tested at the CYP2D6, NAT2, and GSTM1 loci, none of the predicted phenotypes concerning debrisoquine hydroxylase extensive-metabolizer or poor-metabolizer phenotypes, slow or fast N-acetylation capacities, and ac- tive or defective glutathione S-transferase, could be corre- lated with human longevity, alone or in combination.
+
+ple who are living to very old age is considerably increas- ing. Attempts at estimating the upper limits to human lon- gevity have failed to reach any definite conclusion (for re- views see Olshansky et al. 1990; Rattan 1995). Neverthe- less, since 1992, the Chronos project at the Fondation Jean Dausset-CEPH collects DNA samples from French cente- narians whose age is systematically confirmed by a birth certificate.
+
+terest in research on the molecular and biochemical basis of aging. This is not only due to the rapidly growing frac- tion of elderly people, but also to the realisation that such persons are prone to age-associated diseases such as car- diovascular and cerebrovascular diseases, senile dementia, renal failure, osteoarthritis and osteoporosis, muscular at- rophy, cataract, non-insulin-dependent diabetes (NIDDM), and cancer (Slagboom and Knook 1996). Centenarians are characterized by their capacity to have reached very old age, yet have escaped these major age-associated diseases, which may result from optimal life-style and environmen- tal conditions as well as from some genetically determined resistance against age-associated diseases and/or the aging process itself (Abbot et al. 1974; Schächter et al. 1993; Johnson 1997). While a genetic component for human lon- gevity has long been postulated, the only defined genetic associations reported so far were found at the HLA (Proust et al. 1982; Takata et al. 1987) and the APOE (Schächter et al. 1994) loci.
+
+Introduction
+
+the susceptibility of an individual to environmentally linked diseases. Most of the specific factors observed so far refer to the metabolism of xenobiotics, which is critical for both toxification and detoxification. This process in- volves products of three gene families: phase I cyto- chromes P-450 and phase II glutathione S-transferases (GSTs) and N-acetyltransferases (NATs) (for nomencla- ture see Mannervik et al. 1992; Vatsis et al. 1995; Daly et al. 1996). The presence of genetic polymorphisms in these genes plays a role, at least in part, in the large variation in expression of xenobiotic-metabolizing enzymes in the general population. Mutations in the wild-type gene do in-
+
+Individuals who have attained the extreme limit of human life in good clinical condition (i.e., centenarians) provide the best example of successful aging. The fraction of peo-
+
+Fondation Jean Dausset-CEPH,
+
+, rue Juliette Dodu, F-
+
+Paris, France ) M.-L. Muiras ( ) DKFZ, Abteilung F
+
+, Im Neuenheimer Feld
+
+, D-
+
+Heidelberg, Germany Tel.: +
+
+-
+
+-
+
+-
+
+; Fax: +
+
+-
+
+-
+
+-
+
+; e-mail: m.muiras@DKFZ-heidelberg.de
+
+deed result in the synthesis of enzymes with impaired ac- tivity or no activity at all. Simple genotyping assays have allowed scientists firstly to establish reliable pheno- type/genotype correlations and secondly to estimate the association between these polymorphisms and susceptibil- ity to several diseases. Polymorphisms for human debrisoquine/sparteine hydroxylase (CYP2D6), N- acetyltransferase (NAT2), and glutathione S-transferase M1 (GSTM1) are well documented in this context (for re- views see Daly et al. 1994; Hirvonen 1995).
+
+GSTM1–5 (Pearson et al. 1993). GSTM1 has three alleles: GSTM1*A, GSTM1*B, and GSTM*0. The null allele, GSTM1*0, is a gene deletion, and persons having it in a homozygous state have no protein product or mRNA (Seidegard et al. 1988). The GSTM1 gene is lacking in about 50% of the Caucasian population, placing these in- dividuals at a greater risk for developping lung (Ketterer et al. 1992), bladder (Daly et al. 1993), skin (Heagerty et al. 1994) or colon (Zhong et al. 1993b) cancers. However, some contradictory results also exist, particulary concern- ing the lung cancer risk (Brockmöller et al. 1993). Thus, the involvement of genetically determined variations of GSTM1 in cancer susceptibility remains unclear.
+
+hydroxylase
+
+(CYP2D6) has a role in the metabolism of a wide range of drugs, particularly cardiovascular agents and psychotropic agents (Cholerton et al. 1992). Its polymorphism is one of the most thoroughly studied among human enzymes. Ap- proximately 5–10% of Caucasians from Europe and North America lack CYP2D6 activity and are referred to as poor metabolizers (PM). Several studies indicate that the exten- sive-metabolizer (EM) phenotype, for which liver metabo- lism is normal, is associated with increased risk of various cancers, especially tobacco smoke-induced lung cancer (Ayesh et al. 1984), while other studies failed to detect such an association (Wolf et al. 1992). Phenotyping stud- ies suggested an association of the CYP2D6 polymor- phism with Parkinson’s disease (Poirier et al. 1987). This was confirmed later by genotyping studies (Smith et al. 1992; Agundez et al. 1995; Lucotte et al. 1996), in which mutant alleles of CYP2D6 were about twice as frequent among Parkinson’s disease patients than in controls.
+
+In order to test the working hypothesis that the highly variable, genetically determined xenobiotic-metabolizing capacity of humans may represent one genetic component of human longevity, we compared in the present study the frequencies of polymorphic alleles of the CYP2D6, GSTM1, and NAT2 genes in centenarians and controls.
+
+Materials and methods
+
+Subjects and DNA samples
+
+A total of 817 DNA samples was studied (CYP2D6*3: 243 controls and 552 centenarians; CYP2D6*4: 252 and 523; NAT2: 88 and 118; GSTM1: 229 and 565). Centenarians had been recruited from all over France at their home or in health-care institutions, with personal informed consent, through the Chronos project at the Fondation Jean Dausset-CEPH. They were Caucasians, at least 99 years old on the day of blood collection, and had their residence in France (regional distributions of the samples tested: greater Paris, 33.5%; north-west, 20.1%; south-west, 11.7%; north-east, 11.3%; south-east, 23.4%). The mean age of the centenarians studied here was 101 years on the day of blood collection, and 90% of them were women. Controls aged 20–70 years were chosen among unrelated normal individuals from the French CEPH cell bank (Dausset et al. 1990). DNA was ex- tracted from EBV-immortalized cell lines by standard methods (Sambrook et al. 1989), resuspended in TE buffer (10 mM TRIS, 1 mM EDTA pH 7.6), and kept frozen until used as described below.
+
+The human population can be divided in two main sub- groups, associated with the N-acetylation pathway of detoxification, termed slow and rapid acetylators. Two highly homologous human NAT genes (NAT1 and NAT2) were shown to encode proteins with overlapping substrate specificities, and the NAT2 gene was first identified as the polymorphic one. NATs are able to metabolize a number of carcinogens and other xenobiotics such as aromatic amines, present in dyes, antioxidants, pesticides or other environmental and occupational pollutants. Three main DNA variants lacking in vitro NAT activity have been characterized in several studies from different populations (Hickman and Sim 1991; Bell et al. 1993; Lin et al. 1994; Cascorbi et al. 1995) and at least 95% of slow acetylators can now be identified by PCR assays. A number of phenotyping analyses suggested association between the slow-acetylator phenotype and individual susceptibility for diseases such as breast and bladder cancer (Bulowvskaya et al. 1978; Cartwright et al. 1982), insulin-dependent (IDDM) and NIDDM (McLaren et al. 1977). However, re- cent genotyping studies failed to detect any association of NIDDM (Agundez et al. 1996) or IDDM (Mrozikiewicz et al. 1994) and NAT2 polymorphism.
+
+PCR primers
+
+PCR primers used for analysis of the NAT2, GSTM1, and CYP2D6 loci are summarized in Table 1.
+
+Genotyping assay
+
+CYP2D6 locus analysis
+
+Subjects were genotyped for the CYP2D6*3 (A deletion) and 2637 CYP2D6*4 (G A transition) alleles according to the PCR-coupled 1934 RFLP method described by Smith et al. (1992). Briefly, primer E contains a 1-bp mismatch to the CYP2D6 sequence, which makes the 268-bp PCR fragment, produced in conjunction with primer F from individuals with the exon 5 mutation, sensitive to digestion with the restriction enzyme HpaII at the site of the A deletion. An addi- 2637 tional HpaII site is present in all individuals. Amplification with primers C and D generates a 334-bp fragment with a G to A transi- tion at the junction of intron3/exon 4 which, in affected individuals, is resistant to restriction with BstNI. PCR was carried out in a total volume of 50 m l containing 1 m g of genomic DNA, 62.4 m M of each dNTP, 0.4 m M of each primer, 1.5 mM MgCl , 10 mM TRIS-HCl pH 2
+
+In addition to NATs, phase II reactions are also carried out by GSTs. GSTs are multifunctional enzymes that cata- lyze several reactions between glutathione (GSH) and electrophilic compounds, including carcinogens and cyto- toxic drugs, present for instance in the diet and in tobacco smoke. Several GST isoenzymes have been identified in humans. The GSTµ class comprises the enzymes
+
+Table 1 Oligonucleotides for PCR and RFLP-coupled PCR analysis of the CYP2D6, NAT2, and GSTM1 loci according to Hickman and Sim (1991), Smith et al. (1992), Bell et al. (1993), and Zhong et al. (1993b). Annealing temperature for each primer couple and expected size of amplification products are indicated
+
+Locus Primer Sequence 5’fi 3’ Annealing temperature (°C) Product size (bp) CYP2D6 E GATGAGCTGCTACATGAGCCC 60 268 F CCGAGAGCATACTCGGGAC C GCCTTCGCCAACCACTCCG 60 334 D AAATCCTGCTCTTCCGAGGC NAT2 Nat-HU7 GGCTATAAGAACTCTAGGAAC 60 840 Nat-HU8 AATAGTAAGGGATCCATCACC Nat-HU14 GACATTGAAGCATATTTTGAAAG 58 1000 Nat-HU16 GATGAAAGTATTTGATGTTTAGG N4 TCTAGCATGAATCACTCTGC 57 1093 N5 GGAACAAATTGGACTTGG GSTM1 P1 CGCCATCTTGTGCTACATTGCCCG 62 158 (P1/P2) P2 ATCTTCTCCTCTTCTGTCTC 231 (P1/P3) P3 TTCTGGATTGTAGCAGATCA
+
+8.3, 50 mM KCl, 2.5% DMSO, and 2.5 U of Taq polymerase (Perkin Elmer). Samples were subjected to an initial denaturation of 5 min at 94°C and 25 cycles consisting of 1 min at 94°C, 1 min at 60°C, and 2 min at 72°C. Restriction fragments were electrophoresed in 4% Nusieve gels (Tebu).
+
+(initial denaturation 2 min at 94°C, 30 cycles of 94°C for 1 min, 62°C for 1.5 min, 72°C for 30 s) was carried out in a total volume of 50 m l in the presence of 500 ng of genomic DNA, 0.2 m M of each primer, 1.5 mM MgCl , 10 mM TRIS-HCl pH 8.3, 50 mM KCl, 62.4 2 m M of each dNTP, and 2.5 U of Taq polymerase. PCR products were electrophoresed in 2% agarose gels.
+
+NAT2 locus analysis
+
+Statistical method
+
+were used to discriminate NAT2 alleles. The first one (Hickman and Sim 1991) allows discrimination of NAT2*5A (C T), NAT2*6A 481 (G A), and NAT2*7A (G A) alleles, while the second one identi- 590 857 fied these three alleles and a fourth, NAT2*14A (G A) (Bell et al. 191 1993). Briefly, three separate amplification reactions were carried out on genomic DNA in the presence of three sets of oligonucle- otides, Nat-Hu7/Nat-Hu8, Nat-Hu14/Nat-Hu16, and N4/N5. PCR was carried out in a total volume of 50 m l (except for the N4/N5 set where the total volume was 100 m l), comprising 80–120 ng of ge- nomic DNA, 31.2 m M of each dNTP, 40 pmol of each primer (100 pmol for N4/N5), 1–3 mM MgCl , 10 mM TRIS-HCl pH 8.3, 50 2 mM KCl, and 2 U of Taq polymerase. Samples were subjected to an initial denaturation of 2 min at 94°C and 35 cycles consisting of 30 s at 94°C, 1 min at adequate annealing temperature, 2 min at 72°C, and a final elongation step of 5 min at 72°C. The predicted sizes of the amplified products are 840 bp (Nat-Hu7/Nat-Hu8), 1000 bp (Nat-Hu14/Nat-Hu16), and 1093 bp (N4/N5). PCR products (7 m l and 20 m l, respectively, for Nat-Hu7/8/14/16- and N4/5-amplified products) were subjected to restriction digestion with KpnI (NAT2*5A), TaqI (NAT2*6A), BamHI (NAT2*7A), and MspI/AluI (NAT2*14A). The restriction digests were electrophoresed in 2% agarose (NAT2*5A and NAT2*7A) or 4% NuSieve (NAT2*6A and NAT2*14A) gels.
+
+Statistical analysis of results was done by comparing allele, geno- type, and predicted phenotype distributions using the c 2 test.
+
+Results
+
+CYP2D6 locus analysis
+
+We analyzed allelic variants of the CYP2D6 gene in a pop- ulation of 243 controls versus 552 centenarians for CYP2D6*3 (1-bp deletion), and 252 controls compared to 523 centenarians for CYP2D6*4 (G to A transition). The frequencies of the CYP2D6*3 and CYP2D6*4 alleles in control subjects (1.9% and 18.1%, respectively) were sim- ilar to those reported previously in two British, one ger- man, and two french Caucasian populations (Smith et al. 1992; Bordet et al. 1996; Lucotte et al. 1996; Pirmohamed et al. 1996; Sachse et al. 1997). No significant difference was found between centenarians and control subjects, ei- ther in allelic variant or CYP2D6 genotypes (Table 2). In- dividuals for whom both mutation loci were analyzed al- lowed us to discriminate haplotypes for 238 controls and 513 centenarians (Table 2), thus predicting the CYP2D6 phenotype for these individuals. Approximately 5% of each population was identified as PM. Five double het- erozygotes (one control, four centenarians) did not allow phenotype prediction since the two mutations could both
+
+GSTM1 locus analysis
+
+DNA samples were analyzed by a PCR-based method described pre- viously (Zhong et al. 1993b). Briefly, two of the three primers used could also anneal to another m class gene, GSTM4 (Zhong et al. 1993a), whereas the third primer was specific for the GSTM1 gene. Amplification with P1 and P3 primers gave a 231-bp GSTM1 gene- specific fragment, while the P1 and P2 set gave a 158-bp product in all samples, serving as an internal control. The amplification reaction
+
+CYP2D6 genotypes Controls Centenarians n Frequency n Frequency CYP2D6*3 Wt/Wt 235 0.967 542 0.982 Wt/D6*3 7 0.029 8 0.014 D6*3/D6*3 1 0.004 2 0.004 Total 243 1 552 1 CYP2D6*4 Wt/Wt 171 0.678 323 0.618 Wt/D6*4 71 0.282 178 0.340 D6*4/D6*4 10 0.040 22 0.042 Total 252 1 523 1 CYP2D6 predicted phenotypes Extensive W/W 157 0.660 311 0.606 metabolizer Het/W 69 0.290 174 0.339 Poor metabolizer PM 11 0.046 24 0.047 Undefined Het/Het 1 0.004 4 0.008 Total 238 1 513 1
+
+NAT2*14A. So far this mutation has only been detected in black African or black American populations (Bell et al. 1993; Lin et al. 1994), therefore, the failure to detect the *14A allele in our French Caucasian population was antic- ipated. NAT2*5A and *6A mutant alleles were the most prevalent in our control group, with frequencies of 52.8% and 38.6%, respectively. The wild-type allele (NAT2*4) was present only in 6.3% of our Caucasian control popula- tion, although a higher percentage might have been ex- pected according to several previous studies (Hickman and Sim 1991; Bell et al. 1993; Mrozikiewicz et al. 1994; Cascorbi et al. 1995). Nine genotype combinations were observed, and only three of them reached a frequency above 10% (namely, NAT2*5A/*6A, NAT2*5A/*5A, and NAT2*6A/*6A), while the others remained rare (see Table 3). The two most common genotypes were NAT2*5A/*5A
+
+be located on the same chromosome (leading to two wild- type loci on the second chromosome, thus an efficient gene) or separately on the two chromosomes.
+
+Genotype and phenotype data observed for the NAT2 poly- morphisms detected among a population of 88 controls and 118 centenarians are summarized in Table 3. As de- scribed in detail in Materials and methods, two comple- mentary PCR–RFLP approaches were used to discriminate NAT2 alleles. Both allowed discrimination of the three main mutations of the NAT2 gene, i.e., the NAT2*5A, *6A, and *7A alleles, but only one was also aimed at revealing
+
+of the NAT2 genotypes and the predicted phenotype in centenar- ian and control populations. Genotype definition: WT/WT, homozygote wild-type; WT/M1–M4, heterozygote; M1–M4/M1–M4, homozygote mutant. Only the observed geno- types are reported. Phenotype definitions deduced from combi- nations of NAT2 genotypes: slow acetylator, homozygote mutants; fast acetylator, genotype with one or two wild-type alleles
+
+NAT2 genotypes Controls Centenarians n Frequency n Frequency NAT2*4/NAT2*4 0 0 3 0.025 NAT2*4/NAT2*5A 2 0.023 5 0.042 NAT2*4/NAT2*6A 8 0.091 5 0.042 NAT2*4/NAT2*7A 1 0.011 0 0 NAT2*5A/NAT2*5A 24 0.273 39 0.331 NAT2*5A/NAT2*6A 41 0.466 36 0.305 NAT2*5A/NAT2*7A 2 0.023 6 0.051 NAT2*6A/NAT2*6A 9 0.102 19 0.161 NAT2*6A/NAT2*7A 1 0.011 5 0.042 NAT2 predicted phenotypes Slow acetylator 77 0.875 105 0.890 Fast acetylator 11 0.125 13 0.110 Total 88 1 118 1
+
+cant. The proportion of the GSTM1*0/GSTM1*0 genotype in the centenarian population (52.7%; n = 565) was not significantely different from that observed in controls (49.3%; n = 229).
+
+Table 4 Distribution of the GSTM1 genotypes in centenarian and control populations (–GSTM1 gene absent, + GSTM1 gene detected)
+
+GSTM1 gene Controls Centenarians n Frequency n Frequency – 113 0.493 298 0.527 + 116 0.507 267 0.473 Total 229 1 565 1
+
+Predicted phenotype combinations
+
+When the study populations were analyzed according to the combined predicted phenotype based on the knowl- edge of the genotypes (Table 5), 60 and 110 combinations were available for the control and the centenarian popula- tions, respectively. Of the controls, 50% were character- ized by the following combinations: CYP2D6/EM; NAT2/slow; GSTM1/present. The second major haplotype was identical except for the fact that it included the GSTM1 null version. By comparing the distribution of haplotypes observed at the CYP2D6, NAT2, and GSTM1 loci for the polymorphisms tested, we found no significant
+
+(27.3% and 33.1%, respectively, for control and centenari- an populations) and NAT2*6A/*6A (46.6% and 30.5%). However, no significant difference between the two popu- lations was found as far as allele and genotype distribu- tions were concerned. Mutant alleles are known to be as- sociated with the slow phenotype when present without the wild-type allele, while the fast phenotype includes ho- mozygotes for the wild-type allele or heterozygotes with one wild-type and one of the mutant alleles. As shown in Table 3, results of 88 genotypes from control subjects and 118 from centenarians predicted a frequency of slow phe- notypes of 87.5% and 89%, respectively. These frequen- cies are clearly higher than those described in previous studies on other Caucasian populations in which the fre- quency of the slow acetylator phenotype is roughly 50% in Caucasians (Hickman and Sim 1991; Bell et al. 1993). However, these unexpected proportions were identical in the two populations tested, i.e., no difference could be found between centenarian and control populations as far as phenotype distributions were concerned.
+
+Discussion
+
+A number of independent studies has demonstrated that genetic polymorphisms in the metabolism of xenobiotics are risk factors in the development of diseases associated with environmental and chemical exposure. Since environ- mental and genetic factors must be considered when studying human aging and longevity, and since drug-me- tabolizing enzymes are of particular relevance in toxification and detoxification, we asked whether or not three of these polymorphic enzymes could account, alone or in combination, for one part of the genetic component of human longevity.
+
+GSTM1 locus analysis
+
+Table 4 shows the distribution of the GSTM1 genotypes detected in the two study groups. The frequency of the GSTM1 null genotype among our control subjects (49.3%) was slightly higher than earlier genotyping studies in other Caucasian populations (40–45%) (Zhong et al. 1993b; Hirvonen et al. 1995) but the difference was not signifi-
+
+We selected a study population of French Caucasian centenarians (i.e., French Caucasians who were already proved to be long-lived) and controls (adult individuals aged 20–70 years). Of course, individual life expectancies of the controls are not known, and some controls in the fu-
+
+Table 5 Distribution of combinations of CYP2D6, NAT2, and GSTM1 predicted phenotypes in centenarian and control populations
+
+Phenotypes Controls Centenarians CYP2D6 NAT2 GSTM1 n Frequency n Frequency Poor metabolizer Slow acetylator Deficient 1 0.017 1 0.009 Active 0 0 3 0.027 Fast acetylator Deficient 0 0 1 0.009 Active 0 0 0 0 Extensive metabolizer Slow acetylator Deficient 23 0.383 46 0.418 Active 30 0.500 47 0.427 Fast acatylator Deficient 2 0.033 6 0.055 Active 4 0.067 6 0.055 Total 60 1 110 1
+
+very valuable in the case of studies on very old people as centenarians, given the difficulties in obtaining multiple biological samples. Agundez et al. (1997) recently studied CYP2D6, NAT2, and CYP2E1 genetic polymorphisms in 41 Spanish nonagenarians and failed to detect any rela- tionship between any configuration of these three poly- morphic traits and longevity. Their results and ours, ob- served on a larger population of centenarians, strengthen the hypothesis that genetically determined differences in the activation of drugs metabolized by these enzymes can- not be considered as a genetic component of human lon- gevity.
+
+ture could in fact turn out to be centenarians, however, overlap between the two populations can be expected to be rather infrequent since the known fraction of centenarians in the French population is around 1 in 10 000.
+
+Non-invasive methodologies allowed us to detect CYP2D6*3 and CYP2D6*4 alleles, the wild-type allele and four main mutations of the NAT2 gene, and null- and wild-type alleles of GSTM1 in DNA samples from cente- narian and control populations. This study did not aim to extensively study all the reported mutations of CYP2D6, NAT2, and GSTM1 since a number of inactivating muta- tions have now been identified which were not detectable with the methods used here. It is thus important to note that the DNA-based genetic assay we used identifies up to 90% of CYP2D6 PM individuals (Smith et al. 1992) and allows positive identification of greater than 90% of all slow acetylators (Hickman and Sim 1991; Bell et al. 1993).
+
+Acknowledgements We want to thank M. Legrand, C. Billon, L. Cazes, and F. Dufour, for technical assistance; I. Lafourcade and N. Gauthier, as well as many physicians, for their help in collecting the centenarian blood samples. We are very grateful to Dr. A. Bürkle, Dr. P.U. Giacomoni, and Dr. G. Thomas for helpful discussions and advice on the manuscript reduction, and Dr. S. Panserat for useful technical advice. This work was supported by the Concerted Action Programme on Molecular gerontology: the identification of links be- tween ageing and the onset of age-related diseases (MOLGERON), sponsored by the EU Commission (BMH1 CT94 1710) (F.S.) and in part by L’Oréal, Laboratoire de Recherche Avancée, Clichy (France) (M.L.M.).
+
+By comparing allele or genotype distributions in the two populations for the three loci, no statistically signifi- cant difference was found between the two populations. Normal individuals had been recruited for the CEPH cell bank not based on any disease characteristics but based on a large sibship size as an informative element for linkage mapping. Thus, some bias due to the genetic characteris- tics of the control population with respect to slow- acetylator allele frequency cannot definitely be ruled out since, in our sampled populations, it was higher than in many studies of USA and European Caucasian populations (Bell et al. 1993). Nevertheless, numerous investigators have reported not only ethnic but also geographical varia- tion in the slow-acetylation phenotype, the percentage of which spans from about 10% in the Japanese population to more than 90% in some Mediterranean peoples (Hirvonen 1995).
+
+References
+
+Abbot MH, Murphy EA, Bolling DR, Abbey H (
+
+) The component in longevity, a study of the offspring of ans II. Preliminary analysis of the complete study. Johns kins Med J
+
+:
+
+–
+
+Agundez JAG, Jimenez-Jimenez FJ, Luengo A, Bernal ML, JA, Ayuso L, Vazquez A, Parra J, Duare J, Coria F, Ladero Alvarez JC, Benitez J (
+
+) Association between polymorphism and early onset of Parkinson’s disease. Clin macol Ther
+
+:
+
+–
+
+Agundez JAG, Menaya JG, Tejeda R, Lago F, Chavez M, Benitez (
+
+) Genetic analysis of the NAT
+
+and CYP
+
+D
+
+phisms in white patients with non-insulin-dependent mellitus. Pharmacogenetics
+
+:
+
+–
+
+Agundez JAG, Rodriguez I, Olivera M, Ladero JM, Garcia Ribera JM, Benitez J (
+
+) CYP
+
+D
+
+, NAT
+
+and CYP
+
+E
+
+netic polymorphisms in nonagenarians. Age Ageing
+
+–
+
+Ayesh R, Idle JR, Ritchie JC, Crothers MJ, Hetzel MR (
+
+) bolic oxidation phenotypes as markers for susceptibility to cancer. Nature
+
+:
+
+–
+
+Bell DA, Taylor JA, Butler MA, Stephens EA, Wiest J, LH, Kadlubae EF, Lucier GW (
+
+) Genotype/phenotype cordance for human arylamine N-acetyltransferase (NAT
+
+) veals a new slow acetylator allele common in cans. Carcinogenesis
+
+:
+
+–
+
+Bordet R, Broly F, Destée A, Libersa C, Lafitte JJ (
+
+) Lack of lationship between genetic polymorphism of cytochrome
+
+IID
+
+and sporadic idiopathic Parkinson’s disease. Neuropharmacol
+
+:
+
+–
+
+Brockmöller J, Kerb R, Drakoulis N, Nitz M, Roots I (
+
+) type and phenotype of glutathione S-transferase class m zymes m and y in lung cancer patients and controls. Cancer
+
+:
+
+–
+
+Bulowvskaya LN, Krupin RG, Bochina TA, Shipova AA, MV (
+
+) Acetylator phenotype in patients with breast Oncology
+
+:
+
+–
+
+Cartwright RA, Glashan RW, Rogers HJ, Ahmad RA, D, Higgins E, Kahn MA (
+
+) Role of N-acetyltransferase notypes in bladder carcinogenesis: pharmacogenetic logical approach to bladder cancer. Lancet
+
+:
+
+–
+
+Abbot MH, Murphy EA, Bolling DR, Abbey H (1974) The familial component in longevity, a study of the offspring of nonagenari- ans II. Preliminary analysis of the complete study. Johns Hop-
+
+All the genetically determined variations tested in this study were known to induce an impaired enzyme activity compared with the wild-type allele. We thus were able to predict the corresponding phenotype of the individuals tested. We showed here that none of the predicted pheno- types concerning debrisoquine hydroxylase-EM or -PM phenotypes, slow or fast N-acetylation capacities, and ac- tive or defective GST could be correlated with human lon- gevity, either separately (Tables 2–4) or in combination for each individual (Table 5). Indeed, none of the possible combinations between these three predicted enzymatic ac- tivities was overrepresented in one population with respect to the other.
+
+The influence of age on drug metabolism remains a matter for debate, since some parameters of phenotyping are influenced by age while others are not (Siegmund et al. 1990; Laurent-Kenesi et al. 1996; Korrapati et al. 1997). Nevertheless, it is generally accepted that aging is associ- ated with a reduction in functional liver mass and hepatic blood flow. Simple genotyping assays have been devel- oped for a number of polymorphisms detected in xenobiotic-metabolizing enzyme genes, thus ruling out age or any other individual factor able to induce a misinterpre- tation of the final result. This kind of strategy proved to be
+
+Cascorbi I, Drakoulis N, Brockmöller J, Maurer A, Sperling K, Roots I (
+
+) Arylamine N-acetyltransferase (NAT
+
+) mutations and their allelic linkage in unrelated Caucasian individuals: cor- relation with phenotypic activity. Am J Hum Genet
+
+:
+
+–
+
+Cholerton S, Daly AK, Idle JR (
+
+) The role of individual human cytochromes P
+
+in drug metabolism and clinical response. Trends Pharmacol Sci
+
+:
+
+–
+
+Daly AK, Thomas DJ, Cooper J, Pearson WR, Neal DE, Idle JR (
+
+) Homozygous deletion of the gene for glutathione S-trans- ferase M
+
+in bladder cancer Br Med J
+
+:
+
+–
+
+Daly AK, Cholerton S, Armstrong M, Iddle JR (
+
+) Genotyping for polymorphism in xenobiotic metabolism as a predictor of disease susceptibility. Environ Health Perspect
+
+:
+
+–
+
+Daly AK, Brockmöller J, Broly F, Eichelbaum M, Evans WE, Gonzalez FJ, Huang JD, Idle JR, Ingelman-Sundberg M, Ishizaki T, Jacqz-Aigrain E, Meyer UA, Nebert DW, Steen VM, Wolf CR, Zanger UM (
+
+) Nomenclature for human CYP
+
+D
+
+alle- les. Pharmacogenesis
+
+:
+
+–
+
+Dausset J, Cann H, Cohen D, Lathrop M, Lalouel JM, White R (
+
+) Centre d’etude du polymorphisme humain (CEPH): col- laborative genetic mapping of the human genome. Genomics
+
+:
+
+–
+
+Heagerty AHM, Fitzgerald D, Smith A, Bowers B, Jones P, Fryer AA, Zhao L, Alldersea J, Strange RC (
+
+) Glutathione S- transferase GSTM
+
+phenotypes and protection against cutaneous tumours. Lancet
+
+:
+
+–
+
+Hickman D, Sim E (
+
+) N-Acetyltransferase polymorphism: com- parison of phenotype and genotype in humans. Biochem Phar- macol
+
+:
+
+–
+
+Hirvonen A (
+
+) Genetic factors in individual responses to envi- ronmental exposures. J Occup Environ Med
+
+:
+
+–
+
+Hirvonen A, Pelin K, Tammilehto L, Karjalainen A, Mattson K, Linnainmaa K (
+
+) Inherited GSTM
+
+and NAT
+
+defects as concurrent risk modifiers in asbestos-related human malignant mesothelioma. Cancer Res
+
+:
+
+–
+
+Johnson TE (
+
+) Genetic influences on aging. Exp Gerontol
+
+:
+
+–
+
+Ketterer B, Harris JM, Talaska G, Meyer DJ, Pemble SE, Taylor JB, Lang NP, Kadlubar FF (
+
+) The human glutathione S-trans- ferase supergene family, its polymorphism and its effects on sus- ceptibility to lung cancer. Environ Health Perspect
+
+:
+
+–
+
+Korrapati MR, Sorkin JD, Andres R, Muller DC, Loi C, Vessel ES, Vestal RE (
+
+) Acetylator phenotype in relation to age and gender in the Baltimore longitudinal study of aging. J Clin Phar- macol
+
+:
+
+–
+
+Laurent-Kenesi MA, Jacqz-Aigrain E, Lejonc JL, Jaillon P, Funck- Brentano C (
+
+) Assessment of CYP
+
+D
+
+activity in very eld- erly healthy subjects. Fundam Clin Pharmacol
+
+:
+
+Lin HJ, Han C, Lin BK, Hardy S (
+
+) Ethnic distribution of slow acetylator mutations in the polymorphic N-acetyltransferase (NAT
+
+) gene Pharmacogenetics
+
+:
+
+–
+
+Lucotte G, Turpin JC, Gerard N, Panserat S, Krishnamoorthy R (
+
+) Mutation frequencies of the cytochrome CYP
+
+D
+
+gene in Parkinson disease patients and in families. Am J Med Genet
+
+:
+
+–
+
+Mannervik B, Awasthi YC, Board PG, Hayes JD, Di Ilio C, Ketterer B, Listowsky I, Morgenstern R, Muramatsu M, Pearson WP, Pickett CB, Sato K, Widersten M, Wolf CR (
+
+) Nomencla- ture for human glutathione transferases. Biochem J
+
+:
+
+–
+
+M
+
+aren EH, Burden AC, Moorhead PJ (
+
+) Acetylator pheno- type in diabetic neuropathy. Br Med J
+
+:
+
+–
+
+Mrozikiewicz PM, Drakoulis N, Roots I (
+
+) Polymorphic aryl- amine N-acetyltransferase (NAT
+
+) genes in children with insu- lin-dependent diabetes mellitus. Clin Pharmacol Ther
+
+:
+
+–
+
+Olshansky SJ, Carnes BA, Cassel C (
+
+) In search of Methuselah: estimating the upper limits to human longevity. Science
+
+:
+
+–
+
+Cascorbi I, Drakoulis N, Brockmöller J, Maurer A, Sperling K, Roots I (
+
+) Arylamine N-acetyltransferase (NAT
+
+) mutations and their allelic linkage in unrelated Caucasian individuals: cor- relation with phenotypic activity. Am J Hum Genet
+
+:
+
+–
+
+Cholerton S, Daly AK, Idle JR (
+
+) The role of individual human cytochromes P
+
+in drug metabolism and clinical response. Trends Pharmacol Sci
+
+:
+
+–
+
+Daly AK, Thomas DJ, Cooper J, Pearson WR, Neal DE, Idle JR (
+
+) Homozygous deletion of the gene for glutathione S-trans- ferase M
+
+in bladder cancer Br Med J
+
+:
+
+–
+
+Daly AK, Cholerton S, Armstrong M, Iddle JR (
+
+) Genotyping for polymorphism in xenobiotic metabolism as a predictor of disease susceptibility. Environ Health Perspect
+
+:
+
+–
+
+Daly AK, Brockmöller J, Broly F, Eichelbaum M, Evans WE, Gonzalez FJ, Huang JD, Idle JR, Ingelman-Sundberg M, Ishizaki T, Jacqz-Aigrain E, Meyer UA, Nebert DW, Steen VM, Wolf CR, Zanger UM (
+
+) Nomenclature for human CYP
+
+D
+
+alle- les. Pharmacogenesis
+
+:
+
+–
+
+Dausset J, Cann H, Cohen D, Lathrop M, Lalouel JM, White R (
+
+) Centre d’etude du polymorphisme humain (CEPH): col- laborative genetic mapping of the human genome. Genomics
+
+:
+
+–
+
+Heagerty AHM, Fitzgerald D, Smith A, Bowers B, Jones P, Fryer AA, Zhao L, Alldersea J, Strange RC (
+
+) Glutathione S- transferase GSTM
+
+phenotypes and protection against cutaneous tumours. Lancet
+
+:
+
+–
+
+Hickman D, Sim E (
+
+) N-Acetyltransferase polymorphism: com- parison of phenotype and genotype in humans. Biochem Phar- macol
+
+:
+
+–
+
+Pearson WR, Vorachek WR, Xu S, Berger R, Hart I, Vannais Patterson D (
+
+) Identification of class-mu glutathione ferase genes GSTM
+
+–GSTM
+
+on human chromosome
+
+p
+
+J Hum Genet:
+
+:
+
+–
+
+Pirmohamed M, Wild MJ, Kitteringham NR, O’Brien K, Buchan Back DJ, Park BK (
+
+) Lack of association between phrenia and the CYP
+
+D
+
+gene polymorphisms. Am J Med
+
+:
+
+–
+
+Poirier J, Roy M, Campanella G, Cloutier T, Paris S Debrisoquine metabolism in Parkinsonian patients treated antihistamine drugs. Lancet
+
+:
+
+Proust J, Moulias R, Fumeron F, Bekkhoucha F, Busson M, M, Hors J (
+
+) HLA and longevity. Tissue Antigens
+
+–
+
+Rattan SIS (
+
+) Ageing – a biological perspective. Mol Med
+
+:
+
+–
+
+Sachse C, Brockmöller J, Bauer S, Roots I (
+
+) Cytochrome
+
+D
+
+variants in a Caucasian population: allele frequencies phenotypic consequences. Am J Hum Genet
+
+:
+
+–
+
+Sambrook J, Fritsch EF, Maniatis T (
+
+) Molecular cloning: a lab- oratory manual,
+
+nd edn. Cold Spring Harbor Laboratory Cold Spring Harbor, NY Schächter F, Cohen D, Kirkwood TBL (
+
+) Prospects for the netics of human longevity. Hum Genet
+
+:
+
+–
+
+Schächter F, Faure-Delanef L, Guenot F, Rouger H, Froguel Lesueur-Ginot L, Cohen D (
+
+) Genetic associations with man longevity at the APOE and ACE loci. Nat Genet
+
+:
+
+–
+
+Seidegard J, Vorachek WR, Pero RW, Pearson WR (
+
+) tary differences in the expression of the human glutathione transferase active on trans-stilbene oxide are due to a gene tion. Proc Natl Acad Sci USA
+
+:
+
+–
+
+Siegmund W, Hanke W, Zschiesche M, Franke G, Biebler KE, A (
+
+) N-Acetylation and debrisoquine-type oxidation morphism in Caucasians with reference to age and sex. Int J Pharmacol Ther
+
+:
+
+–
+
+Slagboom PE, Knook DL (
+
+) Genetics of ageing and rial diseases. In: Rattan SIS, Toussaint O (eds) Molecular tology: research status and strategies. Plenum Press, New pp
+
+–
+
+Smith CAD, Gough AC, Leigh NP, Summers BA, Harding Maranganore DM, Sturman SG, Schapira AHV, Williams Spurr NG, Wolf CR (
+
+) Debrisoquine hydroxylase polymorphism and susceptibility to Parkinson’s disease.
+
+:
+
+–
+
+Takata H, Ishii T, Suzuki M, Sekiguchi S, Iri H (
+
+) Influence major histocompatibility complex region genes on human gevity among Okinawan Japanese centenarians and ans. Lancet II:
+
+–
+
+Vatsis KP, Weber WW, Bell DA, Dupret J-M, Price Evans DA, DM, Hein DW, Lin HJ, Meyer UA, Relling MV, Sim E, T, Yamazoe Y (
+
+) Nomenclature for Pharmacogenetics
+
+:
+
+–
+
+Wolf CR, Smith CAD, Gough AC, Moss JE, Vallis KA, Howard Carey FJ, Mills K, M
+
+ee W, Carmichael J, Spurr NK Relationship between the debrisoquine hydroxylase phism and cancer susceptibility. Carcinogenesis
+
+:
+
+–
+
+Zhong S, Spurr NK, Hayesh JD, Wolf CR (
+
+a) Deduced acid sequence, gene structure and chromosomal location of novel class m glutathione S-transferase, GSTM
+
+Biochem J
+
+–
+
+Zhong S, Wyllie H, Barnes D, Wolf CR, Spurr NK (
+
+b) ship between the GSTM
+
+genetic polymorphism and ity to bladder, breast and colon cancer. Carcinogenesis:
+
+–
+
+Patterson D (
+
+) Identification of class-mu glutathione trans- ferase genes GSTM
+
+–GSTM
+
+on human chromosome
+
+p
+
+Am J Hum Genet:
+
+:
+
+–
+
+Pirmohamed M, Wild MJ, Kitteringham NR, O’Brien K, Buchan IE, Back DJ, Park BK (
+
+) Lack of association between schizo- phrenia and the CYP
+
+D
+
+gene polymorphisms. Am J Med Genet
+
+:
+
+–
+
+Poirier J, Roy M, Campanella G, Cloutier T, Paris S (
+
+) Debrisoquine metabolism in Parkinsonian patients treated with antihistamine drugs. Lancet
+
+:
+
+Proust J, Moulias R, Fumeron F, Bekkhoucha F, Busson M, Schmid M, Hors J (
+
+) HLA and longevity. Tissue Antigens
+
+:
+
+–
+
+Rattan SIS (
+
+) Ageing – a biological perspective. Mol Aspects Med
+
+:
+
+–
+
+Sachse C, Brockmöller J, Bauer S, Roots I (
+
+) Cytochrome P
+
+D
+
+variants in a Caucasian population: allele frequencies and phenotypic consequences. Am J Hum Genet
+
+:
+
+–
+
+Sambrook J, Fritsch EF, Maniatis T (
+
+) Molecular cloning: a lab- oratory manual,
+
+nd edn. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY Schächter F, Cohen D, Kirkwood TBL (
+
+) Prospects for the ge- netics of human longevity. Hum Genet
+
+:
+
+–
+
+Schächter F, Faure-Delanef L, Guenot F, Rouger H, Froguel P, Lesueur-Ginot L, Cohen D (
+
+) Genetic associations with hu- man longevity at the APOE and ACE loci. Nat Genet
+
+:
+
+–
+
+Seidegard J, Vorachek WR, Pero RW, Pearson WR (
+
+) Heredi- tary differences in the expression of the human glutathione S-
+
+Proust J, Moulias R, Fumeron F, Bekkhoucha F, Busson M, Schmid M, Hors J (1982) HLA and longevity. Tissue Antigens 19:

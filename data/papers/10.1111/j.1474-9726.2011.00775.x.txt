@@ -1,0 +1,425 @@
+Genetic variation in TERT and TERC and human leukocyte telomere length and longevity: a cross-sectional and longitudinal analysis
+
+(AG + AA) = 1.31, P = 0.006]. No associations with were observed for the TERT SNPs or haplotypes. Our thus, indicates that TERC is associated with both LTL and gevity in humans. Key words: association study; cross-sectional data and gitudinal data; human longevity; leukocyte telomere telomerase reverse transcriptase; telomerase RNA nent.
+
+(AG + AA) =
+
+, P =
+
+]. No associations with longevity were observed for the TERT SNPs or haplotypes. Our study, thus, indicates that TERC is associated with both LTL and lon- gevity in humans. Key words: association study; cross-sectional data and lon- gitudinal data; human longevity; leukocyte telomere length; telomerase reverse transcriptase; telomerase RNA compo- nent.
+
+Mette Mikael Marianne Nygaard,1,2 Serena Dato,1,2,3 Qihua Tan,1,2 Jacob Hjelmborg,1 Karen Andersen-Ranberg,1 Tinna Stevnsner,4 Vilhelm A. Bohr,4,5 Masayuki Kimura,6 Abraham Aviv,6 Kaare Christensen1,2 and Lene Christiansen1,2
+
+The Danish Aging Research Center, Epidemiology, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej
+
+B,
+
+Odense C, Denmark
+
+Departments of Clinical Genetics and Clinical Biochemistry and Pharmacology, Odense University Hospital, Sdr. Boulevard
+
+,
+
+C, Denmark
+
+Department of Cell Biology, University of Calabria, Ponte Pietro Bucci
+
+C,
+
+Rende (Cs), Italy
+
+The Danish Aging Research Center, Department of Molecular Biology, Aarhus University, C. F. Moellers Alle´
+
+,
+
+Aarhus C, Denmark
+
+Laboratory of Molecular Gerontology, National Institute on Aging, National Institute of Health,
+
+Bayview Blvd., Baltimore, MD, USA
+
+The Center for Human Development and Aging, University of Medicine and Dentistry of New Jersey, New Jersey Medical School, Newark, NJ,
+
+Introduction
+
+Genetic factors explain approximately 25% of the variation in the human life span (Herskind et al., 1996). Such factors exert a minimal effect before age 60 years and the most profound effect after the age of 85 years (Hjelmborg et al., 2006). Candidate longevity genes encode pro- teins engaged in several biological processes, including the maintenance of genomic stability. These include telomere maintenance genes (Chris- tensen et al., 2006).
+
+The ends of human chromosomes, the telomeres, consist of repeats that undergo shortening with each replication cycle of cells lack telomerase, the reverse transcriptase which adds telomeres to ends of chromosomes (reviewed by Wong & Collins, 2003; et al., 2006; Campisi & d’Adda de Fagagna, 2007). Telomere ing is associated with organismal aging; in humans, leukocyte length (LTL) is inversely related to age (Lindsey et al., 1991; et al., 1994) and is associated with increased risk of age-related and with mortality (Bakaysa et al., 2007; Njajou et al., 2007; et al., 2008; Shay & Woodring, 2008). Leukocyte telomere length heritable; its heritability has been estimated to be between 35% 80% (Slagboom et al., 1994; Bischoff et al., 2005; Vasa-Nicotera et 2005; Andrew et al., 2006). Hence, telomere maintenance genes, ticularly those that regulate telomerase activity, might also be genes. The two major telomerase genes are telomerase RNA nent (TERC), encoding the subunit of the enzyme, which provides template for the synthesis of the TTAGGG repeats, and reverse transcriptase (TERT), encoding its catalytic subunit et al., 2006).
+
+Summary
+
+Telomerase is of key importance for telomere maintenance, and variants of the genes encoding its major subunits, telomerase reverse transcriptase (TERT) and telomerase RNA component (TERC), are candidates for interindividual variation in telomere length. Recently, the two SNPs rs3772190 and rs12696304 in the TERC locus were reported to be associated with leukocyte telomere length (LTL) in two genome-wide association studies, while one haplotype of TERT (rs2853669, rs2736098, rs33954691, and rs2853691) has been reported to be associated with both LTL and longevity in a candidate gene study. In this study, we investigated the two TERC and four TERT SNPs in middle-aged, old, and oldest-old Danes (58–100 years) and their association with LTL (n = 864) and longevity (n = 1069). Furthermore, data on 11 TERT tagging SNPs in 1089 oldest-old and 736 middle- aged Danes were investigated with respect to longevity. For all SNPs, the association with longevity was investigated using both a cross-sectional and a longitudinal approach. Applying an additive model, we found association of LTL with the minor TERC alleles of rs3772190 (A) and rs12696304 (G), such that a shorter LTL was seen in rs3772190 A carriers (regression coeffi- cient = )0.08, P = 0.011) and in male rs12696304 G carriers (regression coefficient = )0.13, P = 0.014). No TERT variations showed association. Moreover, the A allele of rs3772190 (TERC) was found to be associated with longevity [hazard rate
+
+Two recent genome-wide association studies observed association of LTL with two SNPs (rs12696304 and rs3772190) of the TERC locus in individuals of European descent (Codd et al., 2010; Levy et al., 2010). The association of rs12696304 with LTL was recently confirmed in a Chinese population (Shen et al., 2011). Another study by Atzmon et al. (2010) reported that Ashkenazi centenarians have a longer LTL and increased frequency of rare TERT variants compared with younger controls without a family history of extreme longevity. Moreover, the authors reported that a TERT SNP (rs33954691) and three TERT haplotypes (rs2853669, rs2736098, rs33954691, and rs2853691) were associated with longevity, while one haplotype was also associated with a longer LTL. Accordingly, we examined the association of LTL and longevity with these TERC and TERT variants in a large sample of 58–100+ year-old Danish individuals.
+
+Mette Soerensen, The Danish Aging Research Center, Epidemiology, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej
+
+B,
+
+Odense C, Denmark. Tel.:
+
+; fax:
+
+; e-mail: msoerensen@health.sdu.dk Accepted for publication
+
+November
+
+categories, that is, age < 80 (N = 578) and age ‡ 80 (N = 435), as well as age < 80 (N = 578) compared to octogenarians (N = 177), nonagenari- ans (N = 131), and centenarians (N = 127), showed a significant increase in minor allele frequency (MAF) of rs3772190 (A) in centenarians com- pared to the < 80 age group (OR = 1.46, P = 0.016).
+
+Results
+
+The characteristics of the study cohorts are summarized in Table 1 and in the Supporting Information, while lists of all the TERC and TERT SNPs tested in the study are provided in the Supporting Information. Genotype distributions of all SNPs were in agreement with Hardy–Weinberg equilib- rium (data not shown). For all statistical analyses, only genotype and hap- lotype groups with a frequency above 3% are presented.
+
+In contradiction to this finding, mortality analysis of samples with avail- able longitudinal data (N = 773) indicated a significantly reduced survival in the rs3772190 A allele carriers ‡ 80 years (see Table 3). Compared to the rs3772190 GG group, the AG heterozygotes showed reduced survival [hazard rate (HR) = 1.31, P = 0.009], whereas the homozygotes AA showed the same but nonsignificant tendency (HR = 1.32, P = 0.112). Combining the AG and AA groups strengthened the finding (HR = 1.31 P = 0.006). No significant associations were observed for rs12696304, but the effect estimates were comparable to the effect of rs3772190 in both size and direction (data not shown), as would be expected because of the high LD between the two TERC SNPs.
+
+LTL association study
+
+First, we analyzed the two TERC candidate SNPs for association with LTL using participants from the Unilever Twin Cohort (UT), the Longitudinal Study of Aging Danish Twins (LSADT), the Danish 1905 Birth Cohort Study (1905 cohort), and the Danish Longitudinal Centenarian Study (DLCS) for which LTL data were available (N = 864). The minor alleles for both SNPs were found to be negatively correlated with LTL. Applying an additive model, as was performed in the previous studies, the age- and gender adjusted regression coefficient for rs3772190 was )0.08 (P = 0.011). Because a test for interaction between rs12696304 and sex indicated a significant effect (P = 0.012), the regression analysis was stratified by sex. When applying an additive model, the regression coeffi- cient for rs12696304 was )0.13 (P = 0.014) for males. The two TERC SNPs were in high, although not in perfect, linkage disequilibrium (LD) in the study population (r2 = 0.88). Accordingly, the results were correlated, although a slight discrepancy in effect was noticed, most likely as a conse- quence of the imperfect LD. Next, we investigated the four TERT candi- date SNPs; however, none of the TERT SNPs, nor their haplotypes, showed association with LTL (data not shown). The data are summarized in Table 2. Correction for multiple testing by the Bonferroni step-down approach left the two estimates borderline significant: P = 0.066 and P = 0.07 for rs3772190 and rs12696304, respectively.
+
+Next, we analyzed the association of the four TERT candidate SNPs with longevity (N = 1069). Allele, genotype, and haplotype frequencies were compared between individuals grouped into the same age categories as for the TERC SNPs. None of the SNPs or haplotypes showed association with longevity (data not shown). Prospective mortality analysis using sam- ples in which longitudinal data were available (N = 850) did not reveal association of any of the four SNPs with longevity (data not shown). How- ever, individuals heterozygote (AG) for rs33954691 had a decreased mor- tality risk at an age younger than 85 (HR = 0.50, P = 0.011) compared to the most frequent homozygote (GG) group.
+
+When correcting for multiple testing using the Bonferroni step-down approach, none of the associations with longevity remained significant (data not shown).
+
+Finally, for an exhaustive evaluation of TERT variation and longevity, we also investigated 11 TERT tagging SNPs covering the common variation in TERT in Caucasians in 1089 members of the 1905 cohort and 736 mid- dle-aged controls (see the Supporting Information). Neither single-marker comparisons and haplotype comparisons (‘Sliding window’ of three con- secutive SNPs at a time) nor prospective mortality analysis showed any associations (data not shown). A similar evaluation of TERC was not possi- ble because no tagging SNPs were known for Caucasians in the TERC encoding region at the time of conducting this study.
+
+Longevity association study
+
+First, we analyzed the association of the two TERC candidate SNPs with longevity using participants from the UT, LSADT, 1905, and DLCS cohorts (N = 1013). Comparison of allele and genotype frequencies between age
+
+Table 1 Characteristics of the study cohorts investigated for the two TERC and four TERT candidate SNPs
+
+The Cohorts UT LSADT 1905 DLCS Mean age at intake [years (range)] 68.2 (58.8–80.9) 78.8 (73.3–94.2) 93.2 (92.4–93.7) 100 (99.1–100.3) Females (%) 100 66.1 82.3 77.1 N (2 TERC candidate SNPs) 213 547 125 128 MAF of rs12696304 0.28 0.28 0.28 0.33 MAF of rs3772190 0.26 0.26 0.25 0.33 N (4 TERT candidate SNPs) 213 549 175 132 MAF of rs2853691 0.32 0.37 0.39 0.35 MAF of rs33954691 0.11 0.11 0.12 0.11 MAF of rs2736098 0.32 0.24 0.25 0.25 MAF of rs2853669 0.36 0.28 0.29 0.29 N (mTRFL) 214 468 119 63 Mean age at mTRFL assessment (years) 68.2 79.3 99.7 102.2 mTRFL ± SD 6.25 ± 0.042 5.71 ± 0.023 5.20 ± 0.043 5.18 ± 0.06
+
+UT, Unilever Twin Cohort Study, LSADT, the Longitudinal Study of Aging Danish Twins, 1905: the Danish 1905 Birth Cohort Study, DLCS, the Danish Longitudinal Centenarian Study, MAF, minor allele frequency, mTRFL, mean terminal restriction fragment length (LTL), SD, standard deviation; TERC, telomerase RNA component; TERT, telomerase reverse transcriptase.
+
+Table 2 Regression analysis of LTL by TERC candidate SNP genotypes
+
+severalreportshaveprovidedevidencethatLTLisassociatedwithincreased risk of age-related disease and mortality in humans (Bakaysa et al., 2007; Kimura et al., 2008; Fitzpatrick et al., 2011). One puzzling observation was, however,that cross-sectional comparison of genotypefrequencies in predefined age groups suggested that the MAF of rs3772190 was signifi- cantly increased in the centenarians, in an apparent conflict with the mortality analysis using follow-up data. However, this cross-sectional estimatewasbasedontherathersmallsamplesizeofcentenarians(127of 1013studyparticipants);hence,itmightsimplybeachancefinding.More- over, repeating the mortality analysis for rs3772190 with exclusion of the centenarian subgroup did not change the results, while performing the mortalityanalysisofthecentenariansseparatelyeliminatedtheassociation. Hence, it appears that the centenarian subgroup did not contribute to the mortalityriskestimateoffollow-updata.
+
+Coefficient P-value 95% CI rs3772190 (N = 864) )0.08 0.011 )0.15; )0.01 rs12696304 (N = 860) )0.06 0.046 )0.12; )0.001 rs12696304 males (N = 187) )0.13 0.014 )0.24; )0.02 rs12696304 females (N = 673) )0.04 0.248 )0.12; 0.03
+
+95% CI, 95% confidence interval, P-values below 0.05 are shown in bold. An additive model was applied for the regression analyses. LTL, leukocyte telomere length; TERC, telomerase RNA component.
+
+Table 3 Cox regression analysis by TERC rs3772190 genotypes
+
+Genotype HR P-value 95% CI rs3772190 AG 1.31 0.009 1.070; 1.611 (age > 80, N = 720) AA 1.32 0.112 0.936; 1.862 AG + AA 1.31 0.006 1.081; 1.598
+
+Finally, despite the very thorough examination of the genetic variation in the tert encoding locus in the present study, we found no evidence for association of TERT SNPs or haplotypes with longevity. Applying both a cross-sectional and a longitudinal study approach, we investigated the association of longevity to common genetic variation in TERT by examin- ing the four candidate SNPs investigated by Atzmon et al. (2010) in 1069 individuals in the age range of 58–100 plus years, as well as 11 tagging SNPs in 736 middle-aged and 1089 oldest-old individuals. Nonetheless, we cannot rule out that a putative effect of TERT variation on longevity might be population specific, that is, relevant in a population of Ashke- nazi Jews, but not in Danes.
+
+HR, hazard rate; 95% CI, 95% confidence interval; TERC, telomerase RNA component. P-values below 0.05 are shown in bold.
+
+Discussion
+
+In conclusion, we have replicated associations of genetic variation in the TERC locus with LTL and, moreover, have found association of varia- tion in the TERC locus with longevity. Hence, our study suggests that TERC is associated with both LTL and human longevity.
+
+In the present study, we investigated genetic variations in the TERT and TERC loci, and the possible association with LTL and longevity. The results point to association of TERC variants with both LTL and mortality at advanced ages.
+
+We observed that rs3772190 and rs12696304 of TERC were associated with a significantly shorter LTL, in line with the results recently observed by Levy et al. (2010), Codd et al. (2010), and Shen et al. (2011), although in our study the association of rs12696304 with LTL was restricted to males. Correcting for multiple testing by the Bonferroni step-down approach left the estimates borderline significant (P-corrected: 0.066 for rs3772190 and 0.07 for rs12696304). If instead applying the less conser- vative Benjamini and Hochberg correction method, the effect of rs12696304 remains significant (P = 0.042), illustrating the difference in the use of diverse correction methods. We found no significant associa- tion of the TERT candidate SNPs rs2853669, rs2736098, rs33954691, and rs2853691 or their haplotypes with LTL or longevity, that is, we did not replicate the findings by Atzmon et al. (2010). Our sample size of 865 was much larger than that of Atzmon et al. (74 centenarians and 49 con- trols), thus giving our study a higher statistical power. A lack of associa- tion of TERT variants to LTL is also supported by two recent genome-wide association studies (Codd et al., 2010; Levy et al., 2010) and one candi- date study (Mirabello et al., 2010). The underlying reasons for the dis- crepancy in the findings might, however, relate to differences between the populations (Ashkenazi Jews vs. Danes) and perhaps different LTL measurement methods. We have employed Southern blot analysis, while the Atzmon et al. (2010) used qPCR to measure LTL.
+
+Experimental procedures
+
+Subjects
+
+For the investigation of the two TERC and four TERT candidate SNPs, DNA from participants from the 1905 Cohort, the DLCS, the LSADT, and the UT Cohort Study were used. Briefly, the prospective follow-up studies of the 1905 and DLCS cohorts of oldest old were initiated when the partici- pants were 92 and 100 years of age, respectively (Andersen-Ranberg et al., 2001; Nybo et al., 2001). The LSADT study includes all Danish twins age 70 plus (Skytthe et al., 2002), and the UT cohort includes 220 female twin pairs, aged 59–81 years (Gunn et al., 2009). Participants were followed with respect to vital status until January 1st 2010 or until death, whichever came first. The information on vital status was retrieved from the Danish Central Population Register (Pedersen et al., 2006). Per- missions to collect blood samples and the usage of register-based infor- mation were granted by the Danish National Committee on Biomedical Research Ethics.
+
+Genotyping
+
+DNA was isolated from whole blood or blood spot cards using the QIA- amp DNA Mini and Micro Kits (Qiagen, Hilden, Germany). Genotyping of the four candidate TERT SNPs (rs2736098, rs2853669, rs2853691, and rs33954691) and two candidate TERC SNPs (rs12696304 and rs3772190) was carried out by allelic discrimination using predesigned TaqMan(cid:2) SNP genotyping assays (Applied Biosystems, Carlsbad, CA, USA). DNA was amplified in a total volume of 5 lL containing 2.5 lL TaqMan Universal Master Mix (Applied Biosystems), 900 nM of each primer, 200 nM of each probe, and approximately 10 ng template DNA. PCR was performed
+
+rs3772190 experienced reduced survival during old age, in line with the association of this SNP with shortened LTL, although the finding did not remainsignificantafterBonferronistep-downcorrection(P-corrected = 0.108 using a dominant model and P = 0.153 for comparison of GG vs. AG). If instead applying the less conservative Benjamini and Hochberg correction method, the P-values were 0.108 for the dominant model and 0.081 for GG vs. AG, respectively. In any case, this finding seems relevant, since
+
+using the StepOne(cid:2) Real Time PCR instrument (Applied Biosystems) using standard conditions. Because of technical difficulties, genotyping of rs2853691 failed for 13.7% of the samples, probably because of poor sample quality. Although these failures were all because of lack of signal, and not because of insufficient discrimination between genotype clusters, this may potentially introduce bias. However, the 86.3% of the samples genotyped was in Hardy–Weinberg equilibrium, indicating that a differ- ential lack of one of the genotype groups is not the case. Moreover, the mean (age-adjusted and sex-stratified) LTL among the 13.7% nontyped samples was not statistical different from the mean of the 86.3% suc-
+
+Acknowledgments
+
+This study was supported by the Max-Planck Institute for Demo- graphic Research, (Rostock, Germany), the INTERREG 4 A pro- gramme Syddanmark-Schleswig-K.E.R.N. (by EU funds from the European Regional Development Fund), the National Institute on Aging (P01 AG08761 and R01AG030678), the Novo Nordisk Foun- dation, the Aase and Ejnar Danielsen Foundation, the Augustinus Foundation, the Brødrene Hartmann Foundation, the King Christian the 10th Foundation, and the Einar Willumsens Mindelegat Founda- tion. The Danish Aging Research Center is supported by a grant from the VELUX Foundation. Marlene Graff Sørensen, Susanne Knudsen, Steen Gregersen, Ulla Munk, and Shuxia Li are thanked for excellent technical work.
+
+The 11 TERT tagging SNPs and the genotyping of these are described in the Data S1.
+
+Measurement of LTL
+
+Leukocyte telomere length measurements were performed by Southern blot analysis of the terminal restriction fragments, which were generated by HinfI and RsaI restriction enzymes, and the mean terminal restriction fragment length, which represents LTL, was calculated as previously described (Kimura et al., 2010).
+
+Author contributions
+
+Mette Soerensen contributed by generating the study concept and the study design and by acquisition of data, conduction of data clean up and data analysis, interpretation of data, and drafting the manu- script. Mikael Thinggaard contributed by providing data and data cleaning and assisting in establishing and conducting the statistical analysis. Marianne Nygaard contributed by acquisition of data. Qihua Tan contributed by assisting in establishing the statistical methods. Jacob Hjelmborg contributed by assisting in establishing the statisti- cal methods. Karen Andersen-Ranberg contributed by acquisition of data. Serena Dato contributed by generating the study concept and the study design and by acquisition of data. Tinna Stevnsner and Vil- helm A. Bohr contributed by generating the study concept and study design. Abraham Aviv contributed by acquisition of data and inter- pretation of data. Masayuki Kimura contributed by acquisition of data. Kaare Christensen contributed by generating the study concept and the study design and by interpretation of data. Lene Christiansen contributed by generating the conception of the study and the study design and by acquisition of data and interpretation of data. Authors have revised the manuscript and given their final approval.
+
+Statistical analysis
+
+Chi-square test statistics were applied for all cross-sectional associa- tion studies of genotype, allele, and haplotype frequencies using the Plink statistical program (http://pngu.mgh.harvard.edu/purcell/plink; Purcell et al., 2007). Among the subjects genotyped for the TERT and TERC candidate SNPs were 381 intact twin pairs, which possibly can lead to an increased risk of false positive findings because of the non- independency of twin samples. However, repeating all cross-sectional analyses while excluding one arbitrarily chosen twin from each pair completely mirrored the presented findings, thus leading to the same conclusions.
+
+The mortality risk of genotypes in longitudinal data was estimated with STATA 11.1 (Stata Corporation, College Station, TX, USA) using a sex- adjusted, left-truncated Cox proportional hazards model to adjust for late entry into the data set according to age. Because intact twin pairs were included in the study, statistical analyses were performed using the robust estimator of variance assuming independence between the twin pairs. The proportional hazard assumption was evaluated using Schoenfeld residuals and performing an Aalen linear hazard model, and both sug- gested a change in effect with age for rs2853668, rs33954691, rs3772190, and rs3891054. Hence, an extended Cox model was performed splitting the effect up in age spans which the Aalen model supported.
+
+References
+
+Andersen-Ranberg K, Schroll M, Jeune B (
+
+) Healthy centenarians do exist, but autonomous centenarians do: a population-based study of among Danish centenarians. J. Am. Geriatr. Soc.
+
+,
+
+–
+
+Andrew T, Aviv A, Falchi M, Surdulescu GL, Gardner JP, Lu X, Kimura M, BS, Valdes AM, Spector TD (
+
+) Mapping genetic loci that determine cyte telomere length in a large sample of unselected female sibling pairs. J. Hum. Genet.
+
+,
+
+–
+
+Atzmon G, Cho M, Cawthon RM, Budagov T, Katz M, Yang X, Siegel G, man A, Huffman DM, Schechter CB, Wright WE, Shay JW, Barzilai N, indaraju DR, Suh Y (
+
+) Genetic variation in human telomerase is with telomere length in Ashkemazi centenarians. Proc. Natl Acad. Sci.
+
+(
+
+),
+
+–
+
+Bakaysa SL, Mucci LA, Slagboom PE, Boomsma DI, M
+
+learn GE, Johansson Pedersen NL (
+
+) Telomere length predicts survival independent of influences. Aging Cell
+
+,
+
+–
+
+Bischoff C, Graakjaer J, Petersen HC, Hjelmborg JB, Vaupel JW, Bohr V, S, Christensen K (
+
+) The heritability of telomere length among the and oldest-old. Twin. Res. Hum. Genet.
+
+,
+
+–
+
+Blackburn EH, Greider CW, Szostak JW (
+
+) Telomeres and telomerase: path from maize, Tetrahymena and yeast to human cancer and aging. Med.
+
+,
+
+–
+
+Sex- and age-adjusted linear regression analysis was performed in STATA 11.1 for inspecting the association of single-SNP genotypes with LTL, using the robust estimator. The assumptions of the linear regression were initially tested, and in the case of a sex or age effect, an interaction model was applied, and when indicated gender-specific analysis was performed. Because the individuals investigated belonged to different cohorts, an effect of cohort was initially tested in the regression analyses, but since no effect was observed this variable was disregarded.
+
+The Thesias statistical program (Tregouet & Garelle, 2007) was used for investigating associations of all haplotype combinations of the four TERT candidate SNPs with LTL. Linear regression analyses were adjusted for sex and age, and the most frequent haplotype was used as reference.
+
+Findings were corrected for multiple testing by the Bonferroni down (Holm) correction.
+
+Campisi J, d’Adda de Fagagna F (
+
+) Cellular senescence: when bad things happen to good cells. Nat. Rev. Mol. Cell Biol.
+
+,
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Codd V, Mangino M, van der HP, Braund PS, Kaiser M, Beveridge AJ, Rafelt S, Moore J, Nelson C, Soranzo N, Zhai G, Valdes AM, Blackburn H, Mateo LI, de Boer RA, Goodall AH, Ouwehand W, van Veldhuisen DJ, van Gilst WH, Navis G, Burton PR, Tobin MD, Hall AS, Thompson JR, Spector T, Samani NJ (
+
+) Common variants near TERC are associated with mean telomere length. Nat. Genet.
+
+,
+
+–
+
+Fitzpatrick AL, Kronmal RA, Kimura M, Gardner JP, Psaty BM, Jenny NS, Tracy RP, Hardikar S, Aviv A (
+
+) Leukocyte telomere length and mortality in the cardiovascular health study. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Gunn DA, Rexbye H, Griffiths CE, Murray PG, Fereday A, Catt SD, Tomlin CC, Strongitharm BH, Perrett DI, Catt M, Mayes AE, Messenger AG, Green MR, van der OF, Vaupel JW, Christensen K (
+
+) Why some women look young for their age. PL
+
+ONE
+
+, e
+
+Herskind AM, M
+
+ue M, Holm NV, Sorensen TI, Harvald B, Vaupel JW (
+
+) The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum. Genet.
+
+,
+
+–
+
+Hjelmborg JVb, Iachine I, Skytthe A, Vaupel JW, M
+
+ue M, Koskenvuo M, Kapri- o J, Pedersen NL, Christensen K (
+
+) Genetic influence on human lifespan and longevity. Hum. Genet.
+
+,
+
+–
+
+Kimura M, Hjelmborg JV, Gardner JP, Bathum L, Brimacombe M, Lu X, Christian- sen L, Vaupel JW, Aviv A, Christensen K (
+
+) Telomere length and mortality: a study of leukocytes in elderly Danish twins. Am. J. Epidemiol.
+
+,
+
+–
+
+Kimura M, Stone RC, Hunt SC, Skurnick J, Lu X, Cao X, Harley CB, Aviv A (
+
+) Measurement of telomere length by the Southern blot analysis of ter- minal restriction fragment lengths. Nat. Protoc.
+
+,
+
+–
+
+Levy D, Neuhausen SL, Hunt SC, Kimura M, Hwang SJ, Chen W, Bis JC, Fitzpa- trick AL, Smith E, Johnson AD, Gardner JP, Srinivasan SR, Schork N, Rotter JI, Herbig U, Psaty BM, Sastrasinh M, Murray SS, Vasan RS, Province MA, Glazer NL, Lu X, Cao X, Kronmal R, Mangino M, Soranzo N, Spector TD, Berenson GS, Aviv A (
+
+) Genome-wide association identifies OBFC
+
+as a locus involved in human leukocyte telomere biology. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Lindsey J, M
+
+ill NI, Lindsey LA, Green DK, Cooke HJ (
+
+) In vivo loss of telo- meric repeats with age in humans. Mutat. Res.
+
+,
+
+–
+
+Mirabello L, Yu K, Kraft P, De VI, Hunter DJ, Prescott J, Wong JY, Chatterjee N, Hayes RB, Savage SA (
+
+) The association of telomere length and genetic variation in telomere biology genes. Hum. Mutat.
+
+,
+
+–
+
+Njajou OT, Cawthon RM, Damcott CM, Wu SH, Ott S, Garant MJ, Blackburn EH, Mitchell BD, Shuldiner AR, Hsueh WC (
+
+) Telomere length is paternally inherited and is associated with parental lifespan. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Campisi J, d’Adda de Fagagna F (2007) Cellular senescence: when bad things happen to good cells. Nat. Rev. Mol. Cell Biol. 8, 729–740.
+
+Nybo H, Gaist D, Jeune B, Bathum L, McGue M, Vaupel JW, Christensen K (2001) The Danish 1905 cohort: a genetic-epidemiological nationwide survey.
+
+(
+
+) The Danish
+
+cohort: a genetic-epidemiological nationwide survey. J. Aging Health
+
+,
+
+–
+
+Pedersen CB, Gotzsche H, Moller JO, Mortensen PB (
+
+) The Danish Civil Reg- istration System. A cohort of eight million persons. Dan. Med. Bull.
+
+,
+
+–
+
+Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MAR, Bender D, Maller J, Sklar P, de Bakker PIW, Daly MJ, Sham PC (
+
+) PLINK: a toolset for whole- genome association and population-based linkage analysis. Am. J. Hum. Genet.
+
+, pp.
+
+–
+
+Shay JW, Woodring WE (
+
+) Telomeres and telomerase in aging and cancer. In Molecular Biology of Aging (Guarente LP, Partridge L, Wallace DC, eds). Cold Spring Harbor Laboratory Press: New York, pp.
+
+–
+
+Shen Q, Zhang Z, Yu L, Cao L, Zhou D, Kan M, Li B, Zhang D, He L, Liu Y (
+
+) Common variants near TERC are associated with leukocyte telomere length in the Chinese Han population. Eur. J. Hum. Genet.
+
+, pp.
+
+–
+
+Skytthe A, Kyvik K, Holm NV, Vaupel JW, Christensen K (
+
+) The Danish Twin Registry:
+
+birth cohorts of twins. Twin. Res.
+
+,
+
+–
+
+Slagboom PE, Droog S, Boomsma DI (
+
+) Genetic determination of telomere size in humans: a twin study of three age groups. Am. J. Hum. Genet.
+
+,
+
+–
+
+Tregouet DA, Garelle V (
+
+) A new JAVA interface implementation of THE- SIAS: testing haplotype effects in association studies. Bioinformatics
+
+,
+
+–
+
+Vasa-Nicotera M, Brouilette S, Mangino M, Thompson JR, Braund P, Clemitson JR, Mason A, Bodycote CL, Raleigh SM, Louis E, Samani NJ (
+
+) Mapping of a major locus that determines telomere length in humans. Am. J. Hum. Genet.
+
+,
+
+–
+
+Wong JM, Collins K (
+
+) Telomere maintenance and disease. Lancet
+
+,
+
+–
+
+Kimura M, Hjelmborg JV, Gardner JP, Bathum L, Brimacombe M, Lu X, Christian- sen L, Vaupel JW, Aviv A, Christensen K (2008) Telomere length and mortality: a study of leukocytes in elderly Danish twins. Am. J. Epidemiol. 167, 799–806. Kimura M, Stone RC, Hunt SC, Skurnick J, Lu X, Cao X, Harley CB, Aviv A (2010) Measurement of telomere length by the Southern blot analysis of ter-
+
+Supporting Information
+
+Additional supporting information may be found in the online version of this article:
+
+Data S1 Supplementary material
+
+As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer-reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.

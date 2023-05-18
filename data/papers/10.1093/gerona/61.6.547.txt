@@ -1,0 +1,873 @@
+A Polymorphism of the YTHDF2 Gene Located in an Alu-Rich Genomic Domain Is Associated With Human Longevity
+
+1 1 1 1 Maurizio Cardelli, Francesca Marchegiani, Luca Cavallone, Fabiola Olivieri, 1 1 1 Simona Giovagnetti, Elena Mugianesi, Raffaella Moresi, 1 1,2,3,4 Rosamaria Lisa, and Claudio Franceschi
+
+1Department of Gerontological Research, Italian National Research Center on Aging (INRCA), Ancona, Italy. 2Interdipartimental Centre L. Galvani (CIG), and 3Department of Experimental Pathology, University of Bologna, Italy. 4ER GenTech Laboratory, University of Ferrara, Italy.
+
+The uneven distribution of Alu repetitive elements in the human genome is related to specific functional properties of genomic regions. We report the identification of a locus associated with human longevity in one of the chromosomal regions with the highest density of Alu elements, in 1p35. The locus, corresponding to a (TG)n microsatellite in the YTHDF2 gene, was identified by characterizing an ‘‘anonymous’’ marker detectable through inter- Alu fingerprinting, which previously evidenced an increased homozygosity in centenarians. After genotyping 412 participants of different ages, including 137 centenarians, we confirmed the increased homozygosity in centenarians at this locus, and observed a concomitantly increased frequency of the most frequent allele and the corresponding homozygous genotype. Remarkably, the same genotype was associated with increased YTHDF2 messenger RNA levels in immortalized lymphocytes. Finally, YTHDF2 messenger RNA resulted to be mainly expressed in testis and placenta. The data suggest a possible role of this locus in human longevity.
+
+are much more rich in potential methylation sites compared to non-Alu human genomic DNA, and their methylation status is likely to have an influence on the methylation of surrounding regions (18,23). On the whole, Alu distribution appears to be associated with specific functional properties of genomic regions (21).
+
+longevity is considered a complex trait influenced by many environmental and genetic factors. The genetics of human longevity has been addressed by association studies on well-characterized candidate genes (1–12) as well as by studies aimed to discover new longev- ity genes through the cloning of genes differently expressed in centenarians (13) or through large scale genome scanning (14), as in the case of the European Union Genetics of Healthy Aging (GEHA) project (15). We also explored a different approach, designed to screen multiple loci in peculiar genomic regions particularly rich in Alu sequences (16). These repetitive elements of 300 bp represent, with more than one million copies, the most abundant human SINEs (Short Interspersed Nuclear Elements), i.e., non- autonomous retrotransposons transcribed by RNA poly- merase III. Alu repetitive elements are present on all human chromosomes, but a great variability in their density and genomic distribution has been observed (17). It is interesting to note that Alu-rich genomic regions are considered to be potentially unstable, in germline as well as in somatic cells, due to unequal recombination events (18–20). Moreover, Alu density positively correlates with gene density (21) and, more specifically, these repetitive elements are found to be highly clustered near genes involved in metabolism, trans- port, and signaling processes (22). Genes contained in Alu- rich regions could also be hypothesized to have a peculiar sensitivity to epigenetic regulation, given that Alu elements
+
+In our previous work (16), we set up an Alu-based DNA fingerprinting method which, using Alu-specific primers (inter-Alu polymerase chain reaction [PCR]), allowed us to preferentially scan multiple genomic regions characterized by high Alu density and to detect genetic markers of ‘‘anonymous’’ loci putatively associated with human longevity. The inherent assumption of such a method is that it amplifies DNA fragments located between two closely spaced (usually no more than 1 kb) Alu sequences with opposite orientation, a situation which occurs most frequently in Alu-rich genomic regions.
+
+The aims of the present work were the following: (i) to identify and characterize the genomic locus corresponding to the ‘‘anonymous’’ QM-376-400 inter-Alu marker, pre- viously reported to show an increased homozygosity in centenarians (16); (ii) to assess the existence of a genotype– longevity association at this locus in a new, independent set of very old participants (centenarians) and younger controls; and (iii) to collect preliminary information about the functional role of the genetic variants of this locus eventually associated with longevity.
+
+M ETHODS
+
+of the PCR assay were the following: primers R12A/267 labeled with tetrachlorofluorescein (TET), and R14B/264 labeled with 6-carboxyfluorescein (6-FAM); total reaction volume 50 ll, genomic DNA template 100 ng; 27 PCR cycles of 948C denaturation, 508C annealing, 728C exten- sion. Capillary electrophoresis (ABI/Prism 310; Applied Biosystems, Foster City, CA) evidenced, in the resulting inter-Alu pattern, the presence of a 384 bp fragment corresponding to an allele of the QM 376-400 poly- morphism. An aliquot of the PCR product was subjected to electrophoresis on a 1.5% agarose gel: The gel slice corresponding to an estimated length of 350–400 bp was cut, and the DNA was eluted and analyzed through capillary electrophoresis to confirm the presence and purity of the 384 bp fragment. An aliquot (0.1 ll) of the eluted DNA was used for a second cycle of PCR–gel electrophoresis–elution, aimed to increase the quantity of the specific PCR product. The purified DNA fragment was cloned in pPCR-Script plasmid and used to transform XL10-gold ultracompetent cells (Stratagene, La Jolla, CA). Cells were plated on Luria- Bertani agar plates containing S-gal (Sigma-Aldrich, St. Louis, MO), isopropyl b-D-thiogalactopyranoside (IPTG), and ampicillin for black–white color screening of recombi- nants; recombinant colonies were cultured in Luria-Bertani broth, and plasmidic DNA was extracted using the ‘‘miniprep’’ method (26). Plasmidic DNA extracted from 31 recombinant clones was used as the template for a PCR with R12A/267 and R14B/264 primers (same conditions previously indicated). Amplification products were digested with different restriction enzymes (NlaIII, AlwI, MspI, BstuI, DdeI, MseI, BstnI, and MnlI; provided by Celbio, Milano, Italy) and analyzed through agarose gel electrophoresis: The resulting restriction patterns were compared with the pattern generated by the same enzymes on an aliquot (4 lg) of the 384 bp DNA fragment used for the cloning. Four clones had DNA inserts of correct length (checked by capillary electrophoresis) and restriction pattern, and were selected for the sequencing. Sequencing reactions were conducted on 300 ng of plasmidic DNA from each selected clone and with M13 primer (59-TGTAAAACGACGGCCAGT-39), a ‘‘Big- Dye terminator reaction kit’’ (Applied Biosystems), and a 9700 thermal cycler (Applied Biosystems). Sequencing products were analyzed on an Abi/Prism 310 Genetic Analyzer (Applied Biosystems).
+
+DNA and Complementary DNA Samples and B Lymphocyte Immortalization
+
+of the Italian National Research Center on Aging (INRCA). Blood was collected by venipuncture after an informed con- sent form describing the project and its purpose had been explained to and signed by each recruited participant. Blood samples were obtained from a total of 412 unrelated partici- pants born and resident in Italy, belonging to two age groups: 275 controls (age 17–65 years, mean age 41 years; 152 men, 123 women) and 137 long-lived individuals (age 99–109 years, mean age 101 years; 26 men, 111 women), herein indicated as centenarians. The centenarians admitted to this study were in relatively good condition for their very ad- vanced age, even if some of them had decreased visual and auditory acuity. They did not have any major age-related diseases (severe cognitive or physical impairment, clinically evident cancer, or renal insufficiency) and belonged to cate- gory A and B of the centenarian health status classification (24). The younger control participants admitted to the study were free of any overt disease. DNA was extracted from blood samples following standard procedures. Peripheral blood mononuclear cells were obtained from 51 of the former samples, 16 young controls (mean age 36 years; 8 men, 8 women) and 35 centenarians (mean age 101 years; 4 men, 31 women). Peripheral blood mononuclear cell isolation, culture, and B-lymphocyte immortalization were performed as previously described (25). After the immortalization, the medium was substituted every 3 days and cells were harvested and frozen in liquid nitrogen 2 months later. For the analysis of YTHDF2 messenger RNA (mRNA) expression in different tissues, the ‘‘Human MTC Panel I’’ and ‘‘Human MTC Panel II’’ (BD Biosciences Clontech, Palo Alto, CA) were used. They consist of panels of first-strand complementary DNA (cDNA) preparations from different tissues and/or organs, pooled from different individuals. The detailed origin of each sample was the following: heart, pooled from 8 male/female Caucasians, age 25–59 years; brain (whole), from 2 male Caucasians, ages 43 and 55 years; placenta, from 7 Cauca- sians, ages 22–35 years; lung, from 2 female Caucasians, ages 24 and 32 years; liver, from 4 male/female Caucasians, ages 44–50 years; skeletal muscle, from 8 male/female Cauca- sians, ages 29–60 years; kidney, from 6 male/female Cauca- sians, ages 28–52 years; pancreas, from 20 male/female Caucasians, ages 25–59 years; spleen, from 11 male/female Caucasians, ages 24–70 years; thymus, from 18 male/fe- male Caucasians, ages 15–32 years; prostate, from 32 Cauca- sians,ages 21–50 years;testis, from45Caucasians, ages14–64 years; ovary, from 5 Caucasians, ages 20–28 years; small intes- tine without mucosal lining, from 32 male/female Caucasians, ages 15–57 years; colon with mucosal lining, from 20 male/ female Caucasians, ages 17–76 years; and leukocyte, peripheral blood, from 550 male/female Caucasians, ages 18–40 years.
+
+Analysis of Alu Density and Gene Density
+
+corresponding chromosomal positions) are referred to as the Human July 2003-hg16 assembly, available at the UCSC Web site. The detailed analysis of repetitive element com- position of the genomic sequence corresponding to the QM376-400 DNA fragment and to the surrounding por- tion of the YTHDF2 fourth intron (chr. 1: 28,773,429– 28,775,861) was performed using the Censor program (27) and the Repbase database of repetitive elements (28). The Alu density in a 2.6 Mb genomic region including the YTHDF2 gene (chr. 1: 27,500,001–30,100,000) was calcu- lated in 100 kb intervals by means of the Repeat Masker program (http://www.repeatmasker.org). Gene density was
+
+Isolation of the Inter-Alu PCR Product, Cloning, and Sequencing Analysis
+
+A genomic DNA sample was used as a template for an inter-Alu PCR, performed using the same conditions
+
+from 16 human adult tissues (MTC Panel I and MTC Panel II) were analyzed using the conditions previously described for YTHDF2 and ACTB real-time PCR assay; the assay for a second housekeeping gene (GAPD) was added for a more reliable normalization of the results. Primers for GAPD were 59-TGAAGGTCGGAGTCAACGGATTTGGT-39 and 59- CATGTGGGCCATGAGGTCCACCAC-39 (BD Biosciences Clontech); amplification conditions were: primers 0.044 lM; cycles 958C for 30 seconds, 668C for 30 seconds, and 688C for 110 seconds. The linearity and the efficiency of the PCR amplification obtained with each primer set were checked in each assay, analyzing standard curves generated using increasing amounts of a standard cDNA (a mix of different samples) and plotting Ct values versus logarithms of cDNA concentration.
+
+calculated in a 1.6 Mb region (chr. 1: 27,600,00–29,200,000) based on the ‘‘RefSeq Genes track’’ (29), available at the UCSC Web site. To evaluate the Alu density in the whole genome, data about the position and the length of all the Alu sequences identified in the human genome were down- loaded from the UCSC Web site (Repeat Masker analysis on the Jul 2003 assembly) and analyzed. The Alu density was calculated in nonoverlapping 1 Mb windows on each chromosome. Intervals including more than 0.4 Mb of sequencing gaps were not considered in the analysis.
+
+Primers for the specific amplification of the YTHDF2 intron 4 microsatellite polymorphic locus were YTHDF2 I.F. (59-GAAGGACCTATCAGAGGCAGTTTT-39) and YTHDF2 I.R. (59-TTGCAGTGAGCCAAGATA-39), de- signed using Primer3 software (30). The first primer was labeled with HEX (hexachlorofluorescein) fluorochrome. PCR reagents and buffers were: 10 pmol each primer, 200 lM each deoxynucleotide, 50 mM KCl, 10 mM Tris– HCl pH 8.3, 1.5 mM Mg2þ, 1 unit of Taq DNA polymerase (Eppendorf). PCR was performed on an Applied Biosystems 9700 thermal cycler, with predenaturation at 948C for 4 minutes and 33 amplification cycles as follows: 948C for 45 seconds; 608C for 45 seconds; 728C for 40 seconds; and final extension at 728C for 7 minutes. PCR products were separated and analyzed by capillary electrophoresis on an ABI/Prism 310 Genetic Analyzer (Applied Biosystems). Six PCR fragments resulting from the amplification of different genomic DNA samples were sequenced, using the same protocols and materials reported above. YTHDF2 I.F. and YTHDF2 I.R. were respectively used as primers for sequencing reactions.
+
+A comparative Ct (threshold cycle) method was used to determine gene expression (31,32). In the real-time PCR assay on cDNA obtained from immortalized lymphocytes, the relative abundance of YTHDF2 cDNA versus the cDNA of the housekeeping gene ACTB was expressed as [(cDNA)YTHDF2/(cDNA)ACTB] ratio of each sample, normalized by the [(cDNA)YTHDF2/(cDNA)ACTB] ratio of a control sample (calibrator). The normalized ratio was calculated taking into account the different PCR efficiencies for target and reference amplification (32). For cDNA samples from human tissues (MTC Panels I and II), two housekeeping genes were used: ACTB and GAPD. For each tissue obtained, two different values for YTHDF2 expres- sion were normalized against ACTB or GAPD, respectively: YTHDF2 expression normalized against that of the two housekeeping genes was given by the geometric mean of the two values in each sample (33). Intra-assay and inter-assay coefficients of variation were 16.1% and 24.4%, calculated repeating some samples in the same assay and in different assays, respectively.
+
+Reverse Transcription and Real-Time PCR
+
+The total RNA of immortalized lymphocytes derived from 51 participants (35 centenarians and 16 young individ- uals) was reverse transcribed with M-MLV reverse tran- scriptase (Ambion, Austin, TX). The cDNA was analyzed using a semiquantitative real-time PCR to assess the expres- sion of the YTHDF2 gene relative to the housekeeping gene ACTB. PCR was performed on the iCycler (Bio-Rad, Hercules, CA), using SYBR Green (Bio-Rad) as a fluores- cent dye for the real-time detection. Primers for YTHDF2 cDNA were HR1 (59-ACCTTACTTGAGTCCACAGG-39) and HR2 (59-AGCCAATGGAGGGACTGTAG-39), respec- tively complementary to sequences situated in the second and third exon of the gene, and designed using Primer3 software (30). Primers for b-actin reverse transcription (RT)–PCR were F.B.Act. (59-GCGAGAAGATGACCCA- GATC-39) and R.B.Act. (59-GGATAGCACAGCCTGGA- TAG-39). PCR mixes for both RT–PCRs had a final volume of 20 ll, and were composed of 1 X buffer Sybr Green Supermix (Bio-Rad), primers (0.6 lM HR1 and HR2 for YTHDF2 RT–PCR; 0.15 lM F.B.Act. and R.B.Act. for beta-actin RT–PCR), and 2 ll of cDNA (derived from 40 ng of total RNA) from immortalized lymphocytes. Each sample was assayed in duplicate. The specificity of the PCR ampli- fication was checked with a heat dissociation protocol after the final cycle. Two nanograms of cDNA samples derived
+
+Statistical Analysis
+
+Statistical analysis was performed using procedures implemented in the Statistical Product and Service Solution package (SPSS, Chicago, IL). A one-way analysis of variance was used to assay the association of genotype classes and YTHDF2 relative mRNA levels. The test was applied on log-transformed relative expression data, which presented a normal distribution. Monte-Carlo chi-square and Fisher’s Exact Tests were applied to test the differences in genotype and allele frequency distributions between age classes, and to test the differences between observed and expected homozygosity and/or heterozygosity and genotype distribution in the two age classes. Proportion of expected (under Hardy–Weinberg conditions) homozygotes and heterozygotes in each age group were, respectively, calculated as P (p )2 and 1   P (p )2, where p are the fre- i i i quencies of single alleles in each group.
+
+Electronic Database Information
+
+Genomic sequences and chromosomal positions cited in this article are referred to in the July 2003 human reference sequence (UCSC version hg16) and are available at the UCSC Web site (http://www.genome.ucsc.edu). The Censor program for the analysis of repetitive elements and Repbase
+
+database of repetitive elements are both available at the Genetic Information Research Institute Web site (http:// www.girinst.org). The Repeat Masker program is available at http://www.repeatmasker.org. The count of Expressed Sequence Tags (ESTs) relative to the YTHDF2 gene is available at the UniGene section of the National Center for Biotechnology Information (NCBI) Web site (http:// www.ncbi.nlm.nih.gov). Sequences deposited in GenBank are available at http://www.ncbi.nlm.nih.gov/Genbank, and the Web site of the single nucleotide polymorphism data- base is http://www.ncbi.nlm.nih.gov/SNP. The Swiss-Prot database of protein sequences and the Protein Family Data- base are available, respectively, at http://www.expasy.org/ sprot and http://www.sanger.ac.uk/Software/Pfam. Guide- lines for Human Gene Nomenclature are available at the Human Genome Variation Society Web site (http://www. genomic.unimelb.edu.au/mdi).
+
+       
+
+R ESULTS
+
+Figure 1. Alu density in a genomic region (chromosome 1: 27,500,001– 30,100,000) corresponding to 1p35.3 and neighboring 100 kb portions of 1p36.11 and 1p35.2. Alu density (represented by height of histograms) was calculated in nonoverlapping windows (each 100 kb long) along the chromosome. Below each histogram is indicated the position of the corresponding sequence of chromosome 1. Black histogram represents 100 kb sequence containing the YTHDF2 gene; empty space between the 9th and 10th histograms (from left)¼gap in the human reference sequence. Black horizontal line indicates average Alu density in the human genome (10.8%).
+
+Cloning and Sequencing
+
+the QM376-400 polymorphism and having an estimated length of 384 bp was isolated and cloned. The DNA inserts from four clones showed a restriction pattern identical to that of the DNA fragment used for the cloning, and were sequenced. The DNA fragments had an identical sequence (GenBank accession no. CL526225), with an effective length of 382 bp and containing a TG microsatellite with 16 repeats. A BLAST (Basic Local Alignment Search Tool) search against the human genome revealed that this sequence corresponds to a portion of the fourth intron of the YTHDF2 gene, on chromosome 1p35.3 (but with a different number of TG repeats: 16 in our sequence, 22 in the UCSC human reference sequence). The repeat element composition of the sequence corresponding to the QM376- 400 fragment and to the surrounding portion of YTHDF2 fourth intron (chr. 1: 28,773,429–28,775,861), was analyzed using the Censor program (27) and the Repbase database of repetitive elements (28). As expected, the cloned QM376- 400 fragment is flanked by two Alu sequences positioned in inverted orientation: an Alu Sx of 302 bp, and an Alu Y of 278 bp. The tail of Alu Y is followed by the (TG)n microsatellite. The remaining part of the sequence is con- stituted by a 290 bp portion of a MER element (medium reiterated frequency repeat) (34,35) that, based on the com- parison with the Repbase database of repetitive elements (28), is a Golem-B/MER7B type DNA nonautonomous transposon. The region surrounding the locus is almost entirely constituted, for roughly 2.5 kb, by three fragments of a MER transposon separated by intervening Alu elements. The reciprocal positions of these repetitive elements could be explained assuming that, in the evolutionary history of the locus, an ancient MER transposon became the target for successive insertions of new elements.
+
+kb intervals. The results showed that the gene is included in a 1.6 Mb region (Figure 1, chr. 1: 27,600,001–29,200,000) with a very high Alu density (ranging from 27% to 51%). This 1.6 Mb Alu-rich domain is also characterized by a high gene density, resulting in 61.4% of it being made up of exons and introns (the genomic average is 34.3%), with relatively short intergenic sequences. In particular, the 500 kb region (chr. 1: 28,517,396–29,017,396) surrounding YTHDF2 contains nine different protein coding genes (CHC1, SECP43, AF277181, MGC45806, TAF12, GMEB1, YTHDF2, OPRD1, EPB41), most of which are putatively involved in signal transduction, gene expression regulation, and cell division. To evaluate if the high Alu density observed in this genomic region had to be considered exceptional in the context of the whole genome, Alu density was calculated in nonoverlapping 1 Mb windows on each chromosome. The portion of chromosome 1 including YTHDF2 (chr. 1: 28,000,000–28,999,999) resulted among the only four genomic regions of this length (or longer) with an Alu density above 40% (the others are chr. 7: 73,000,000–74,999,999, chr. 19: 10,000,000–10,999,999, and chr. 19: 17,000,000–17,999,999, on 7q11.23, 19p13.2, and 19p13.11, respectively). These four genomic regions with very high Alu density represent only 0.17% of the genome, whereas the large majority (about two thirds) of the genome has an Alu content at least four times lower, below 12% (Figure 2).
+
+Alu Content and Gene Content of the Genomic Region Alu density of a wide genomic region including YTHDF2 gene (chr. 1: 27,500,001–30,100,000) was calculated in 100
+
+The YTHDF2 gene codes for a protein of 579 dues (Swiss-Prot accession no. Q9Y5A9; synonyms:
+
+2ai;&e§Relative freq£e8&8<4 622 1022 1442 1842 2242 2642 9022 9422 9822 >40Alu density (%) 
+
+Table 1. Allelic Frequencies at YTHDF2 (TG)12-27 Locus (rs28969505) in 412 Individuals (Aged 17–109 Years)
+
+Alleles (Repeat Number and Length) and Their Frequency (%) 12–199 bp (0.1) 14–203 bp (5.3) 15–205 bp (30.3) 16–207 bp (26.0) 17–209 bp (5.1) 18–211 bp (0.8) 19–213 bp (0.2) 20–215 bp (5.9) 21–217 bp (7.9) 22–219 bp (13.7) 23–221 bp (3.7) 24–223 bp (0.8) 27–229 bp (0.1)
+
+Figure 2. Frequency of genomic intervals having different Alu density. Density of Alu elements was calculated for 1 Mb nonoverlapping windows along the whole human genome (July 2003 assembly, UCSC version hg16). Height of histograms represents the relative frequency of genomic intervals having the Alu density values indicated under the horizontal axis.
+
+Note: Alleles are named according to the number of repeats.
+
+Characterization of the YTHDF2 Intron 4 (TG)12-27 Polymorphism
+
+The identity between the previously described inter-Alu QM376-400 polymorphism (16) and the polymorphism found in the intron 4 of the YTHDF2 gene was confirmed by performing a PCR assay specific for the YTHDF2 intron 4 (TG)n microsatellite locus, on 20 DNA samples previously analyzed by means of inter-Alu PCR. In fact, the obtained amplification products showed a length variability exactly matching that of the inter-Alu QM376-400 polymorphism (data not shown). Subsequently, a set of 412 novel DNA samples, belonging to two age groups (137 centenarians and 275 control participants), was genotyped using the YTHDF2 intron 4–specific PCR assay. In the whole set of samples, a total number of 13 different alleles was observed, ranging from 199 to 229 bp (Table 1). All the alleles differed from each other by 2 or by a multiple of 2 base pairs. Direct sequencing of different alleles demonstrated that the length variation is produced by the variable number of repeats in the (TG)n microsatellite, ranging from 12 to 27 (Table 1). A reference sequence of the ‘‘16’’ allele (16 repeats, 207 bp) has been deposited in GenBank (accession no. AY626263), and the polymorphism has been submitted to the SNP database at GenBank (accession no. rs28969505).
+
+lymphocytic leukemia-associated antigen KW-14). A BLAST analysis, conducted comparing the YTHDF2 mRNA reference sequence (GenBank accession no. NM_016258) with the human genome sequence, revealed that the YTHDF2 gene spans about 32 kilobases and is composed of five exons. Extensive analysis conducted on publicly available genomic databases and using sequence analysis tools and, in particular, a BLAST search (http:// www.ncbi.nlm.nih.gov/BLAST) and Clustal W multialign- ment (http://www.ebi.ac.uk/clustalw), evidenced that YTHDF2 belongs to a gene family that also includes YTHDF1 on chromosome 20 and YTHDF3 on chromosome 8. In fact, the three genes share a structure composed of five exons of similar length, and high similarity at cDNA and protein sequence level (data not shown). The search in the Protein Family Database showed the presence of a YTH domain (36) in the protein sequences (in position 457–547 on the YTHDF2 protein). Consequently, given that these three genes were previously lacking an official nomenclature, we proposed to the Human Genome Organization (HUGO) Gene Nomenclature Committee the above reported gene names (‘‘YTHDF1, YTH domain family 1’’; ‘‘YTHDF2, YTH domain family 2’’; and ‘‘YTHDF3, YTH domain family 3’’) as official symbols and names, and this proposal was accepted. A protein-translated sequence ‘‘tblastn’’ analysis (available at http://www.ncbi.nlm.nih.gov/BLAST) conducted on public databases collecting cDNA and protein sequences from different organisms revealed that the protein sequence coded by the YTHDF2 gene is highly conserved in vertebrates. In fact, the human YTHDF2 protein contains a stretch of 546 residues (nearly the whole protein) which is virtually identical (similarity 99.7%) to the homologous sequence of mouse (translated protein sequence correspond- ing to GenBank no. BAC28785), and a stretch of 518 amino acids which shares a very high degree (89.8%) of conserved positions with a similar protein (translated protein sequence
+
+Homozygosity, Allele Distribution, and Genotype Distribution in the Two Age Groups
+
+The frequency of homozygous individuals was analyzed in the two age groups composed of 137 centenarians and 275 control participants, and resulted to be significantly higher in the long-lived group with respect to the control group (Table 2). Within each age group, homozygosity and heterozygosity were not significantly different from those expected under Hardy–Weinberg equilibrium (Table 2).
+
+To better understand the meaning of the homozygosity increase observed in centenarians (see Discussion), the distributions of the most common alleles and genotypes (i.e., alleles and genotypes whose frequencies were higher than 10% in either centenarians or young participants) were also compared in the two age groups; all other alleles and genotypes were respectively grouped together. A statisti- cally significant difference (p ¼ .014) emerged when the
+
+Table 2. Observed and Expected (Under Hardy–Weinberg [HW] Equilibrium) Values of Homozygosity and Heterozygosity at YTHDF2 (TG)12-27 Locus (rs28969505) in Young Control Participants and Centenarians
+
+Young Participants (N ¼ 275) Centenarians (N ¼ 137) Homozygosity 0.182 (expected according to HW: 0.180) 0.277 (expected according to HW: 0.231) Heterozygosity 0.818 (expected according to HW: 0.820) 0.723 (expected according to HW: 0.769)
+
+Note: Fisher’s Exact Test for observed homozygosity and heterozygosity in young control participants versus centenarians, p ¼ .030; Fisher’s Exact Test for observed versus expected homozygosity and heterozygosity in young participants, p ¼ 1.00; Fisher’s Exact Test for observed versus expected homozygosity and heterozygosity in centenarians, p ¼ .49.
+
+frequency of the most common alleles were compared between young participants and centenarians (Table 3). In particular, an increase of the ‘‘15’’ allele was evident in centenarians, balanced by a decreased frequency of the cate- gory composed of the less common alleles. The frequency of the most common genotypes (Table 4) was also different between the two age classes, albeit with a marginal statis- tical significance ( p ¼ .047). In particular, the frequency of the most common genotype (‘‘15-15’’) was nearly doubled in the group of centenarians compared to young participants. Also, the odds ratio of the ‘‘15-15’’ genotype resulted to be significant (odds ratio ¼ 2.186, Table 4), when the most abundant category (the class of less frequent genotypes) was used as the reference category.
+
+evident between YTHDF2 mRNA relative expression and YTHDF2 genotype. In particular, lymphocytes with the ‘‘15-15’’ genotype showed a more-than-doubled average relative expression of YTHDF2 mRNA with respect to that observed in lymphocytes carrying other genotypes (Figure 3). The expression level in lymphocytes with the ‘‘15- 15’’genotype was also compared with the expression levels in lymphocytes with every single other genotype. The results showed that ‘‘15-15’’ cells were still those with the highest mean expression level, and the result was statisti- cally significant when cell lines with the ‘‘15-15’’ genotype were compared with cell lines with the ‘‘16-23’’ (Student t test, p ¼ .042), ‘‘16-16’’ (Student t test, p ¼ .039), or ‘‘16-21’’ genotypes (Student t test, p ¼ .015). Finally, lymphocytes derived from individuals of different age and gender did not show any significant variations in YTHDF2 mRNA levels (data not shown).
+
+An analysis performed to test for possible gender differences regarding the frequency of the ‘‘15’’ allele and the ‘‘15-15’’ genotype in centenarians gave negative results. Taking into account that the number of male centenarians was relatively low (n ¼ 26), this analysis was repeated using the results from the genotyping of an additional 17 samples of male centenarians recently recruited following identical inclusion criteria, thus reaching a total number of 43 male centenarians. Even after such an increase, we did not observe any significant difference between male and female centenarians as far as the frequency of the ‘‘15’’ allele and of the ‘‘15-15’’ genotype is concerned (data not shown). Such a result, even if does not rule out the possibility that a gender difference might emerge in a much larger number of centenarians and controls, suggests that it is unlikely.
+
+The mRNA expression level of the YTHDF2 gene, normalized against two housekeeping genes (ACTB and GAPD), was determined in 16 different human tissues. YTHDF2 resulted to be expressed in all tissues examined, but its mRNA level showed important variations. In particular, the highest relative expression was observed in testis, followed by placenta and pancreas; the relative YTHDF2 mRNA expression in testis was 7-fold to 8-fold higher than in small intestine, skeletal muscle, and heart, and 3-fold to 5- fold higher than in the majority of other tissues (Figure 4).
+
+Additional data about the expression profile of the YTHDF2 gene have been obtained by checking the ESTs
+
+YTHDF2 mRNA Abundance in Immortalized Lymphocytes
+
+The relative mRNA expression levels between the YTHDF2 gene and the housekeeping gene beta-actin (ACTB) were assayed in immortalized lymphocytes by
+
+Table 4. Frequencies (%) of Most Common Genotypes at YTHDF2 (TG)12-27 Locus (rs28969505) in Young Control Participants and Centenarians
+
+Young Participants Centenarians Odds Ratio (95% Genotypes* (N ¼ 275) (N ¼ 137) Confidence Interval) p** 15-15 8.0 15.3 2.186 (1.146–4.170) p ¼ .023 15-16 14.5 16.8 1.317 (0.746–2.324) p ¼ .372 Other genotypes 77.5 67.9 1
+
+Table 3. Frequency (%) of Most Frequent Alleles at YTHDF2 (TG)12-27 Locus (rs28969505) in Young Control Participants and Centenarians
+
+Young Participants Centenarians Alleles (Alleles ¼ 550) (Alleles ¼ 274) 15 27.5 36.1 16 25.6 26.6 22 13.6 13.9 Other alleles 33.2 23.4
+
+Notes: *Genotypes with frequencies higher than 10% in either centenarians or young participants are listed, whereas all other genotypes are grouped together and used as the reference category for odds ratio calculations.
+
+**p values refer to the Pearson chi-square tests comparing the reference category ‘‘Other genotypes’’ with ‘‘15-15’’ or with ‘‘15-16’’ genotypes, respectively. For the global Pearson chi-square test comparing the three genotype categories in young subjects vs centenarians, p ¼ .047.
+
+Note: Pearson chi-square, p ¼ .014. Alleles were analyzed if their frequencies were higher than 10% in either centenarians or young participants, and all other alleles were grouped together.
+
+         1,000,900,800,700,600,500400,300,20 +0,100,00(syun Arenyque)souspunge Z4GHLA (WNHU)avks00ne70K,susan FeWSArenQe189,a1R 1804sryusaidsseaiouedKaunSSMU FRIBIONSannyfuneWUaCe Iuesgwea}  
+
+  “15-15”fs4,92“other genotypes”        e©rtaowmortno(yun Aregique)uopsseidxo @AREIAI WNW ZACHLA 
+
+Figure 3. Relative YTHDF2 messenger RNA (mRNA) expression determined by real-time polymerase chain reaction in two groups of cell lines carrying, respectively, the ‘‘15-15’’ genotype or other genotypes. Graph shows the geometric mean of the relative expression values obtained in the samples of the two groups; bars represent 95% confidence intervals. Relative expression was calculated as the ratio of YTHDF2 mRNA of each sample versus a control sam- ple (calibrator), normalized against the ACTB housekeeping gene. Cell lines (immortalized lymphocytes) with ‘‘15-15’’ genotype, n ¼ 10; cell lines with ‘‘othergenotypes,’’n¼41(‘‘16-16,’’n¼3;‘‘22-22,’’n¼2;‘‘20-20,’’n¼1;‘‘15- 21,’’n¼5;‘‘15-20,’’n¼1; ‘‘15-22,’’n¼6;‘‘15-23,’’n¼1;‘‘16-20,’’n¼3;‘‘16- 21,’’n¼4;‘‘16-22,’’n¼7;‘‘16-23,’’n¼6;‘‘17-22,’’n¼2).One-wayanalysisof variance to test differences of the YTHDF2 mRNA expression in ‘‘15-15’’ vs ‘‘other genotypes,’’ df ¼ 1; F ¼ 10.35; p ¼ .002 (executed on log-transformed data).
+
+Figure 4. Relative messenger RNA (mRNA) expression levels of the YTHDF2 gene determined in 16 different human tissues by real-time polymerase chain reaction. Height of the histograms represents the relative abundance of YTHDF2 mRNA of each sample vs the sample with the highest expression level (testis), normalized against two housekeeping reference genes (ACTB and GAPD).
+
+obtained on a total sample of 581 Italian individuals, ranging from 17 to 109 years of age, including 206 centenarians. It is interesting to note that, in the present study, the level of homozygosity did not show deviations from the expected (under Hardy–Weinberg equilibrium) homozygosity in both age groups. This observation suggests that it is unlikely that the increased homozygosity in centenarians results from a selection in favor of homozy- gotes, which would have presumably caused a deviation from the expected homozygosity, according to Hardy– Weinberg equilibrium. An alternative explanation is that the increased homozygosity at YTHDF2 intron 4 polymorphic locus might result as a consequence of a shift towards the most abundant alleles. Indeed, for any multiallelic system,
+
+of this gene present in the public databases. In particular, Table 5 refers to data accessible through the UniGene section of GenBank (http://www.ncbi.nlm.nih.gov), and lists the number of transcripts associated with the YTHDF2 gene, derived from different organs. The organ with the highest relative number of YTHDF2 transcripts present in the database is testis (179 YTHDF2 transcripts per million ESTs from this organ), but a relatively high number of YTHDF2 ESTs is also associated with skin (165 transcripts per million), whereas the other organs are associated with a lower number of ESTs (from 135 to 34 per million). Additionally (not reported in Table 5), the relative number of YTHDF2 ESTs is higher in embryo (112 transcripts per million, i.e., 69/615,270) than in adult (61 transcripts per million, i.e., 62/1,001,530).
+
+Table 5. Number of YTHDF2 Transcripts in Different Organs
+
+YTHDF2 YTHDF2 Transcripts Per ESTs/Total Organ Million ESTs ESTs in Pool Testis 179 25/139,594 Skin 165 28/168,972 Eye 135 24/176,958 Prostrate 115 16/138,018 Liver 111 15/134,735 Uterus 106 20/187,614 Kidney 96 14/144,709 Placenta 93 23/245,330 Brain 87 42/481,991 Mammary gland 83 12/143,252 Lymph node 82 11/132,558 Lung 70 21/298,117 Colon 65 12/183,722 Muscle 58 6/103,284 Stomach 53 6/111,340 Pancreas 34 7/203,564
+
+D ISCUSSION
+
+The results of this study indicate that a (TG)n micro- satellite polymorphism in the fourth intron of the YTHDF2 gene is associated with human longevity. This polymorphic microsatellite was identified through the characterization of the ‘‘anonymous’’ inter-Alu marker ‘‘QM376-400,’’ which in our previous study (16) showed an increased homozy- gosity in centenarians. In the present study, a PCR assay specific for the YTHDF2 intron 4 (TG)12-27 locus (GenBank rs28969505) was applied on a novel and independent set of 412 Italian individuals, and the results confirmed, at this locus, a significantly increased homozy- gosity in centenarians compared to younger controls. Considering the whole set of data from the two studies, the association of longevity and homozygosity at YTHDF2 (TG)12-27 locus is currently sustained by the results
+
+Notes: Only tissues for which the total number of Expressed Sequence Tags (ESTs) in pool is higher than 100,000 have been reported. Data obtained from the EST database (http://www.ncbi.nlm.nih.gov/UniGene/ESTProfileViewer.cgi).
+
+binding nuclear proteins which regulate alternative splicing (36). YTH is a 100- to 150-residue domain present in the mammalian pre-mRNA splicing factor YT521-B (44). This domain is predicted to have a mixed alpha-helix-beta-sheet fold, with four alpha-helices and six beta-strands; the conservation of aromatic residues in the beta-sheets is similar to the RNA recognition motif (RRM) domain, and its predicted biological function is to bind to RNA (36). In two different studies, the gene product of YTHDF2 was shown to be a tumor-associated antigen eliciting high-titer immunoglobulin G antibody responses in cancer patients, and described as renal cell carcinoma–associated ‘‘NY- REN-2 antigen’’ (45) and as chronic lymphocytic leukemia- associated ‘‘KW-14’’ antigen (46). In both studies, the mRNA of the YTHDF2 gene was found to be expressed also in normal tissues, but no quantitative data were reported. We quantitatively evaluated YTHDF2 mRNA expression in 16 different human tissues; the gene resulted to be expressed in all the examined samples, but with variable expression levels and with highest expression in the testis. The relative YTHDF2 mRNA expression in this tissue was 7-fold to 8-fold higher than in small intestine, skeletal muscle, and heart, and 3-fold to 5-fold higher than in the majority of other tissues. A relatively high expression level was also found in placenta. The analysis of the public EST database supports the observation of highest expression in testis. A possible role of the YTHDF2 gene in both fertility and longevity would represent an intriguing hypothesis. In fact, the inverse correlation of longevity and reproductive success is a fundamental assumption of the disposable soma theory (47–49): This prediction has been confirmed in model systems (50), and positive evidence in humans has also been reported (51). The trade-off between fertility and longevity often seems to imply genes involved in carbohydrate homeostasis (52–55). In this regard, it is interesting to note that the YTHDF2 gene is reported to be regulated by high glucose concentration (see GenBank accession no. AF192968). Thus, it could be worthwhile to test the hypothesis of a possible role of YTHDF2 in the insulin/
+
+each allele is similar, and tends to increase when some alleles became highly prevalent. In fact, the frequency comparison of the most abundant alleles in the two age groups confirmed the ‘‘more uneven’’ allele frequency distribution in centenarians, and in particular showed an evident increase of the ‘‘15’’ allele, the most frequent one, and an overall decrease of the less abundant alleles (alleles with frequency lower than 10% in both age groups). Even when the distribution of the most abundant genotypes was analyzed, a significant difference was observed between the two age groups. In particular, odds ratios indicate that carriers of the ‘‘15-15’’ genotype had a doubled chance to become centenarians in comparison with carriers of the less abundant genotypes, i.e., genotypes with frequency less than 10% in both age groups, which on the whole constitute the prevalent genotypic class. These results indicate that, in the Italian population, individuals carrying the most abundant allele (the ‘‘15’’allele) or the corresponding homozygous genotype at YTHDF2 (TG)12-27 locus may have a selective advantage, and an increased probability to reach extremely advanced ages. It is important to note that, differently from what observed in many studies on longevity-associated loci (24,37–39), the data here presented do not suggest any gender-specific association for this locus.
+
+longevity-associated variants of this polymorphism, we analyzed the expression of the YTHDF2 gene in cells having different genotypes. In particular we assessed, by relative quantitative real-time PCR, the YTHDF2 mRNA level in cultured cell lines derived from 10 individuals having the ‘‘15-15’’ genotype, and from 41 individuals having different genotypes. Cell lines were Epstein-Barr Virus-immortalized B lymphocytes, which have been proved to be a reliable model in correlating genotype and gene expression (25,40). The results showed that cell lines with the ‘‘15-15’’ genotype have, on average, more than two times higher levels of YTHDF2 mRNA expression in comparison with cell lines with other genotypes. This finding suggests the presence of different functional variants of the YTHDF2 gene, where the ‘‘15’’ allele is probably associated with a variant characterized by a higher expression level, at least in the described experimental conditions. These data are compatible with the hypothesis that the alleles at this locus could be in linkage disequilibrium with still unidentified genetic variants in the promoter or in other regulatory sites, but a direct influence of YTHDF2 (TG)12-27 polymorphism itself on gene transcription can not be excluded. Indeed, it is not uncommon to find enhancers and regulatory sites in introns, and polymorphic microsatellites can influence gene expression by modifying the distance between specific regulatory sites (41), or by inducing the DNA to assume left-handed helical structures (Z-DNA) (42,43).
+
+data, of the above described peculiar expression pattern in normal tissues, and of an antigenic activity in cancer cells, is typical of a class of genes mainly regulated by epigenetic modifications, the so-called ‘‘cancer-testis antigens’’ (CT antigens) (56,57). They are a heterogeneous group of pro- teins, presumably involved in cell-cycle regulation or tran- scriptional control (58), present as antigens in various cancer cells, and predominantly expressed in testis, placenta, and/or ovary. CT genes are often highly expressed in pancreas (59), which noticeably was the third sample showing a relatively high YTHDF2 expression in our RT–PCR assay.
+
+YTHDF2 intron 4 microsatellite polymorphism and longev- ity can be inferred by the genomic background surrounding the locus. The portion of the 1p35 chromosomal region around YTHDF2 is rich with genes (mostly involved in signal transduction, gene expression regulation, and cell division); the possibility of a linkage disequilibrium
+
+YTHDF2 gene on longevity, suggested by the high expression level associated with the genetic variant in- creased in centenarians, are at present unknown, and the available data on this gene are scant. The protein sequence of the gene is highly conserved across vertebrates, suggesting a basic biological function. It contains a YTH
+
+REFERENCES
+
+between the considered (TG)n microsatellite and other functional polymorphisms in nearby genes should be carefully tested in future studies. Finally, it is important to remark that this locus lies in a genomic region with rare and atypical features. This polymorphism was originally iden- tified through the analysis of ‘‘anonymous’’ inter-Alu sequences much shorter than the 3 kb average (60) genomic inter-Alu distance, and the reasonable expectation was to find it located in a genomic region with higher than average Alu density. Indeed this locus is situated in a wide Alu-rich domain (1.6 Mb), and the 1 Mb region containing the YTHDF2 gene is the portion of chromosome 1 with the highest content of Alu elements (.40% of the sequence in this chromosomal region). In the whole genome, such a high Alu density is present in only four regions (of 1 Mb or more) which account for the 0.17% of the human genome, whereas two thirds of the genome show an Alu content about four times lower. This peculiarity in the genomic composition might affect the expression of YTHDF2 and other genes in the region, rendering it sensitive to Alu-induced epigenetic effects (18,23). Moreover, the very high Alu density could induce genomic instability, in germline as well as in somatic cells, due to unequal recombination events (18–20). Indeed, 1p35 has been described as one of the chromosomal sites most often involved in genomic instability in a variety of malignancies (61–63).
+
+De Benedictis G, Falcone E, Rose G, et al. DNA multiallelic systems reveal gene/longevity associations not detected by diallelic systems. The APOB locus. Hum Genet.
+
+;
+
+:
+
+–
+
+De Benedictis G, Carotenuto L, Carrieri G, et al. Gene/longevity association studies at four autosomal loci (REN, THO, PARP, SOD
+
+). Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+De Benedictis G, Carotenuto L, Carrieri G, et al. Age-related changes of the
+
+APOB-VNTR genotype pool in ageing cohorts. Ann Hum Genet.
+
+;
+
+:
+
+–
+
+De Benedictis G, Rose G, Carrieri G, et al. Mitochondrial DNA inherited variants are associated with successful aging and longevity in humans. FASEB J.
+
+;
+
+:
+
+–
+
+Bonafe` M, Olivieri F, Cavallone L, et al. A gender-dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for lon- gevity. Eur J Immunol.
+
+;
+
+:
+
+–
+
+Bonafe` M, Marchegiani F, Cardelli M, et al. Genetic analysis of paraoxonase (PON
+
+) locus reveals an increased frequency of Arg
+
+allele in centenarians. Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+Bonafe` M, Barbieri M, Marchegiani F, et al. Polymorphic variants of insulin-like growth factor I (IGF-I) receptor and phosphoinositide
+
+- kinase genes affect IGF-I plasma levels and human longevity: cues for an evolutionarily conserved mechanism of life span control. J Clin Endocrinol Metab.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Gender-specific association be- tween -
+
+IL-
+
+promoter polymorphism and longevity. Genes Immun.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-
+
+-
+
+promoter SNP and its interaction with TNF-alpha -
+
+promoter SNP. J Med Genet.
+
+;
+
+:
+
+–
+
+Cavallone L, Bonafe M, Olivieri F, et al. The role of IL-
+
+gene cluster in longevity: a study in Italian population. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Dato S, Passarino G, Rose G, et al. Association of the mitochondrial DNA haplogroup J with longevity is population specific. Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+Rea IM, M
+
+eown PP, M
+
+aster D, et al. Paraoxonase polymor- phisms PON
+
+and
+
+and longevity in Italian centenarians and Irish nonagenarians. A pooled analysis. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Chondrogianni N, de C M Simoes D, Franceschi C, Gonos ES. Cloning of differentially expressed genes in skin fibroblasts from centenarians. Biogerontology.
+
+;
+
+:
+
+–
+
+Puca AA, Daly MJ, Brewster SJ, et al. A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome
+
+Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Nebel A, Schreiber S. GEHA–the pan-European ‘‘Genetics of Healthy Aging’’ project. Sci Aging Knowledge Environ.
+
+;
+
+:pe
+
+Bonafe` M, Cardelli M, Marchegiani F, et al. Increase of homozygosity
+
+insulin-like growth factor I (IGF-I) receptor and phosphoinositide
+
+- kinase genes affect IGF-I plasma levels and human longevity: cues for an evolutionarily conserved mechanism of life span control. J Clin Endocrinol Metab.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Gender-specific association be- tween -
+
+IL-
+
+promoter polymorphism and longevity. Genes Immun.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-
+
+-
+
+promoter SNP and its interaction with TNF-alpha -
+
+promoter SNP. J Med Genet.
+
+;
+
+:
+
+–
+
+Cavallone L, Bonafe M, Olivieri F, et al. The role of IL-
+
+gene cluster in longevity: a study in Italian population. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Dato S, Passarino G, Rose G, et al. Association of the mitochondrial DNA haplogroup J with longevity is population specific. Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+Rea IM, M
+
+eown PP, M
+
+aster D, et al. Paraoxonase polymor- phisms PON
+
+and
+
+and longevity in Italian centenarians and Irish nonagenarians. A pooled analysis. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Chondrogianni N, de C M Simoes D, Franceschi C, Gonos ES. Cloning of differentially expressed genes in skin fibroblasts from centenarians. Biogerontology.
+
+;
+
+:
+
+–
+
+Puca AA, Daly MJ, Brewster SJ, et al. A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome
+
+Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Nebel A, Schreiber S. GEHA–the pan-European ‘‘Genetics of Healthy Aging’’ project. Sci Aging Knowledge Environ.
+
+;
+
+:pe
+
+Bonafe` M, Cardelli M, Marchegiani F, et al. Increase of homozygosity in centenarians revealed by a new inter-Alu PCR technique. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Lander ES, Linton LM, Birren B, et al. Initial sequencing and analysis of the human genome. Nature.
+
+;
+
+:
+
+–
+
+Schmid CW. Does SINE evolution preclude Alu function? Nucleic Acids Res.
+
+;
+
+:
+
+–
+
+Deininger PL, Batzer MA. Alu repeats and human disease. Mol Genet Metab.
+
+;
+
+:
+
+–
+
+Deininger PL, Batzer MA. Mammalian retroelements. Genome Res.
+
+;
+
+:
+
+–
+
+Grover D, Mukerji M, Bhatnagar P, Kannan K, Brahmachari SK. Alu repeat analysis in the complete human genome: trends and variations with respect to genomic composition. Bioinformatics.
+
+;
+
+:
+
+–
+
+Grover D, Majumder PP, Rao CB, Brahmachari SK, Mukerji M. Nonrandom distribution of Alu elements in genes of various functional categories: insight from analysis of human chromosomes
+
+and
+
+Mol Biol Evol.
+
+;
+
+:
+
+–
+
+Greally JM. Short interspersed transposable elements (SINEs) are excluded from imprinted regions in the human genome. Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Franceschi C, Motta L, Valensin S, et al. Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE). Aging (Milano).
+
+;
+
+:
+
+–
+
+Conclusion
+
+This is the first study which provides evidences of an association of a new gene, i.e., YTHDF2, with human longevity. This gene has several and unexpected peculiar- ities which are of potential interest, and in particular its chromosomal context constituted by one of the regions with the highest content of Alu sequences, its high expression in reproductive organs and in highly proliferating tissues, and its possible involvement in glucose metabolism. Future studies should check the possibility that YTHDF2 is a cell- cycle regulator gene widely subjected to epigenetic regulation and dysregulation, in a chromosomal region potentially susceptible to epigenetic modification during life, as well as the possibility of an involvement in the insulin-like growth factor I/insulin signalling pathway and in the trade-off between longevity and fertility.
+
+ACKNOWLEDGMENTS
+
+This work was partially supported by grants from the Italian Ministry of Health, Progetto Finalizzato 2002 ‘‘Studio Multicentrico sui Determinanti Genetici e non Genetici di Salute nell’Eta` Avanzata’’; European Union Grants GEHA (LSHM-CT-2004-503270) and FP6 EU Project ‘‘T-CIA’’; Italian Ministry of Education, University and Research PRIN 2003; ‘‘Fondi Strutturali Obiettivo 2’’ and the PRRIITT Program of the Emilia-Romagna Region; and by University of Bologna ‘‘Roberto Pallotti’’ Legacy for Cancer Research.
+
+We thank Dr. Hester Mary Wain, of the HUGO Gene Nomenclature Committee, for the helpful collaboration in the choice of gene names and symbols of YTH Domain Family members.
+
+Address correspondence to Maurizio Cardelli, PhD, Department Gerontological Research, Italian National Research Center on (I.N.R.C.A), Via Birarelli 8, 60100 Ancona, Italy. E-mail: libero.it
+
+factor YT
+
+-B in nuclear dots is regulated by the Src family kinase p
+
+(fyn). Mol Biol Cell.
+
+;
+
+:
+
+–
+
+Scanlan MJ, Gordan JD, Williamson B, et al. Antigens recognized by autologous antibody in patients with renal-cell carcinoma. Int J Cancer.
+
+;
+
+:
+
+–
+
+Krackhardt AM, Witzens M, Harig S, et al. Identification of tumor- associated antigens in chronic lymphocytic leukemia by SEREX. Blood.
+
+;
+
+:
+
+–
+
+Kirkwood TB. Evolution of aging. Nature.
+
+;
+
+:
+
+–
+
+Kirkwood TB, Holliday R. The evolution of aging and longevity. Proc R Soc Lond B Biol Sci.
+
+;
+
+:
+
+–
+
+Kirkwood TB, Rose MR. Evolution of senescence. Late survival sacrificed for survival. Philos Trans R Soc Lond B Biol Sci.
+
+;
+
+:
+
+–
+
+Carey JR, Liedo P, Muller HG, Wang JL, Vaupel JW. Dual modes of aging in Mediterranean fruit fly females. Science.
+
+;
+
+:
+
+–
+
+Westendorp RG, Kirkwood TB. Human longevity at the cost of reproductive success. Nature.
+
+;
+
+:
+
+–
+
+Henderson ST, Johnson TE. daf-
+
+integrates developmental and environmental inputs to mediate aging in the nematode Caenorhabditis elegans. Curr Biol.
+
+;
+
+:
+
+–
+
+Partridge L, Gems D. Mechanisms of ageing: public or private? Nat Rev Genet.
+
+;
+
+:
+
+–
+
+Giannakou ME, Goss M, Junger MA, Hafen E, Leevers SJ, Partridge L. Long-lived Drosophila with overexpressed
+
+OXO in adult fat body. Science.
+
+;
+
+:
+
+–
+
+Broughton SJ, Piper MD, Ikeya T, et al. Longer lifespan, altered metabolism, and stress resistance in Drosophila from ablation of cells making insulin-like ligands. Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Chen YT, Scanlan MJ, Sahin U, et al. A testicular antigen aberrantly expressed in human cancers detected by autologous antibody screening. Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Coulie PG, Karanikas V, Lurquin C, et al. Cytolytic T-cell responses of cancer patients vaccinated with a MAGE antigen. Immunol Rev.
+
+;
+
+:
+
+–
+
+Zendman AJ, Ruiter DJ, Van Muijen GN. Cancer/testis-associated genes: identification, expression profile, and putative function. J Cell Physiol.
+
+;
+
+:
+
+–
+
+Scanlan MJ, Simpson AJ, Old LJ. The cancer/testis genes: review, standardization, and commentary. Cancer Immun.
+
+;
+
+:
+
+Jurka J, Kohany O, Pavlicek A, Kapitonov VV, Jurka MV. Duplication, coclustering, and selection of human Alu retrotransposons. Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Leonard JH, Cook AL, Nancarrow D, et al. Deletion mapping on the short arm of chromosome
+
+in Merkel cell carcinoma. Cancer Detect Prev.
+
+;
+
+:
+
+–
+
+Ragnarsson G, Eiriksdottir G, Johannsdottir JT, Jonasson JG, Egilsson V, Ingvarsson S. Loss of heterozygosity at chromosome
+
+p in different solid human tumours: association with survival. Br J Cancer.
+
+;
+
+:
+
+–
+
+Zielenska M, Bayani J, Pandita A, et al. Comparative genomic hybridization analysis identifies gains of
+
+p
+
+approximately p
+
+and chromosome
+
+in osteosarcoma. Cancer Genet Cytogenet.
+
+;
+
+:
+
+–
+
+Received June
+
+,
+
+Accepted December
+
+,
+
+Decision Editor: James R. Smith, P
+
+Olivieri F, Bonafe` M, Giovagnetti S, et al. In vitro IL-
+
+production by EBV-immortalized B lymphocytes from young and elderly people genotypized for -
+
+C/G polymorphism in IL-
+
+gene: a model to study the genetic basis of inflamm-aging. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Sambrook J, Fritsch EF, Maniatis T. Molecular Cloning: A Laboratory Manual.
+
+nd ed. Cold Spring Harbor, New York: Cold Spring Harbor Laboratory Press;
+
+Jurka J, Klonowski P, Dagman V, Pelton P. CENSOR - a program for identification and elimination of repetitive elements from DNA sequences. Comput Chem.
+
+;
+
+:
+
+–
+
+Jurka J. Repbase update: a database and an electronic journal of repetitive elements. Trends Genet.
+
+;
+
+:
+
+–
+
+Pruitt KD, Maglott DR. Re
+
+eq and Locu
+
+ink: NCBI gene-centered resources. Nucleic Acids Res.
+
+;
+
+:
+
+–
+
+Rozen S, Skaletsky HJ. Primer
+
+on the WWW for general users and for biologist programmers. In: Krawetz S, Misener S, eds. Bioinformatics Methods and Protocols: Methods in Molecular Biology. Totowa, NJ: Humana Press;
+
+:
+
+–
+
+Livak KJ, Schmittgen TD. Analysis of relative gene expression data using real-time quantitative PCR and the
+
+(-Delta Delta C(T)) method. Methods.
+
+;
+
+:
+
+–
+
+Pfaffl MW. A new mathematical model for relative quantification in real-time RT-PCR. Nucleic Acids Res.
+
+;
+
+:e
+
+Vandesompele J, Katleen DP, Filip P, et al. Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes. Genome Biol.
+
+;
+
+:
+
+–
+
+Kaplan DJ, Jurka J, Solus JF, Duncan CH. Medium reiteration frequency repetitive sequences in the human genome. Nucleic Acids Res.
+
+;
+
+:
+
+–
+
+Smit AF, Riggs AD. Tiggers and DNA transposon fossils in the human genome. Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Stoilov P, Rafalska I, Stamm S. YTH: a new domain in nuclear proteins. Trends Biochem Sci.
+
+;
+
+:
+
+–
+
+Bonafe M, Olivieri F, Cavallone L, et al. A gender-dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for lon- gevity. Eur J Immunol.
+
+;
+
+:
+
+–
+
+De Luca M, Rose G, Bonafe M, et al. Sex-specific longevity associations defined by tyrosine hydroxylase-insulin-insulin growth factor
+
+haplotypes on the
+
+p
+
+chromosomal region. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Gender-specific association be- tween -
+
+IL-
+
+promoter polymorphism and longevity. Genes Immun.
+
+;
+
+:
+
+–
+
+Marini M, Lapalombella R, Canaider S, et al. Heat shock response by EBV-immortalized B-lymphocytes from centenarians and control subjects: a model to study the relevance of stress response in longevity. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Gebhardt F, Zanker KS, Brandt B. Modulation of epidermal growth factor receptor gene transcription by a polymorphic dinucleotide repeat in intron
+
+J Biol Chem.
+
+;
+
+:
+
+–
+
+Delic J, Onclercq R, Moisan-Coppey M. Inhibition and enhancement of eukaryotic gene expression by potential non-B DNA sequences. Biochem Biophys Res Commun.
+
+;
+
+:
+
+–
+
+Agarwal AK. Transcriptional influence of two poly purine-pyrimidine tracts located in the HSD
+
+B
+
+(
+
+beta-hydroxysteroid dehydrogenase type
+
+) gene. Endocr Res.
+
+;
+
+:
+
+–
+
+Hartmann AM, Nayler O, Schwaiger FW, Obermeier A, Stamm S. The interaction and colocalization of Sam
+
+with the splicing-associated
+
+Accepted December 14, 2005 Decision Editor: James R. Smith, PhD

@@ -1,0 +1,601 @@
+Genetic variants in the glucocorticoid receptor gene (NR3C1) and cardiovascular disease risk. The Leiden 85-plus Study
+
+Maris Kuningas Æ Simon P. Mooijaart Æ P. Eline Slagboom Æ Rudi G. J. Westendorp Diana van Heemst
+
+Received: 23 December 2005 /Accepted: 30 January 2006/Published online: 5 May 2006   Springer Science+Business Media, Inc. 2006
+
+Abstract Recently, the ER22/23EK, N363S and BclI polymorphisms in the glucocorticoid receptor (GR) gene have been linked to altered cortisol sensitivity and to cortisol-associated disorders. The aim of this study was to investigate the effect of these genetic variants in the GR gene on cardio- vascular disease and mortality in elderly persons aged 85 years and over. In the population-based Leiden 85-plus Study, 552 participants were geno- typed for the ER22/23EK, N363S and BclI poly- morphisms, and the effects of the polymorphisms on metabolic profile, body composition, and on the prevalence of cardiovascular pathologies at baseline, were assessed. Allcause and cardiovascular disease mortality risks dependent on the SNPs were calcu- lated after a 4.2-year follow-up. The analyses of metabolic profile revealed that carriers of the ER22/
+
+23EK polymorphism have higher HbA1C levels (P < 0.001) and carriers of the N363S SNP have higher LDL cholesterol (P < 0.001) and triglyceride concentrations (P=0.03), compared to the non-car- riers. The only significant association between genotype and body composition analyses was for height and the ER22/23EK polymorphism. Men carrying the ER22/23EK polymorphism were taller (P=0.02) compared to non-carriers. No associations with cardiovascular pathologies, allcause and car- diovascular mortality were observed for any of the polymorphisms. We conclude that, in spite the effect of the ER22/23EK and N363S SNPs on metabolism, these polymorphisms together with the BclI SNP, do not affect the risks of cardiovascular disease and survival at old age.
+
+Keywords Ageing Æ Cardiovascular disease Æ Glucocorticoid receptor Æ Metabolism Æ Survival
+
+M. Kuningas Æ S. P. Mooijaart Æ R. G. J. Westendorp Æ D. van Heemst (&) Department of Gerontology and Geriatrics C
+
+-R, Leiden University Medical Center (LUMC), PO box
+
+,
+
+RC Leiden, The Netherlands e-mail: D.van_Heemst@lumc.nl
+
+Introduction
+
+In response to various stimuli, including stress, cortisol coordinates metabolic, endocrine, immune, and ner- vous system responses (Chrousos 1995, 1998; Munck et al. 1984; de Kloet et al. 1998; McEwen 1998). Cortisol exerts the majority of its functions through glucocorticoid receptors (GRs). Disturbances in cor- tisol signaling, resulting either from altered hormone availability or decreased/increased receptor-mediated
+
+M. Kuningas
+
+Department of Biotechnology, Institute of Molecular and Cell Biology, Tartu University, Tartu, Estonia
+
+P. E. Slagboom
+
+Leiden 85-plus Study, using cross-sectional and prospective study designs.
+
+signal transduction have been associated with variety of phenotypes including cardiovascular ease, which is a major cause of death at old age.
+
+It is known that sensitivity to cortisol varies con- siderably between individuals as demonstrated by the dexamethasone suppression test (Huizenga et al. 1998b). Therefore, the underlying susceptibility to cortisol-associated disorders may vary. A degree of inter-individual variation in responsiveness to corti- sol is attributable to three polymorphisms in the GR gene (NR3C1). Recently an ER22/23EK variation in the GR gene was associated with a resistance to cortisol, and shown to result in a better metabolic and cardiovascular health profile, leading to increased survival rate (van Rossum et al. 2002, 2004a, b). On the other hand, increased sensitivity to cortisol, re- lated to the N363S (Huizenga et al. 1998a) and BclI (van Rossum et al. 2003) polymorphisms, has been shown to cause opposite effects. In middle-aged subjects, the N363S and BclI polymorphisms were associated with increased body mass index (BMI) and with several risk factors for atherosclerosis and coronary artery disease (Lin et al. 2003; van Rossum et al. 2003; Di Blasio et al. 2003). Together these results suggest that the GR gene plays an important role in modulating the susceptibility to cardiovascular disease. However, there are disparities in the pub- lished literature. For instance in some studies asso- ciations between these three polymorphisms and metabolic parameters or body composition have been found (van Rossum et al. 2002, 2003, 2004b; Huiz- enga et al. 1998a; Lin et al. 1999, 2003; Di Blasio et al. 2003), whereas in other studies no association, or opposite effects have been observed (van Rossum et al. 2002, 2004a; Rosmond et al. 2001; Dobson et al. 2001; Echwald et al. 2001; Panarelli et al. 1998). However, the recent results with cardiovas- cular disease (Lin et al. 2003) and survival (van Rossum et al. 2004a) have never been replicated in elderly subjects. Therefore, the effect of the GR gene on cardiovascular disease and survival at old age remains to be elucidated.
+
+Subjects and methods
+
+Subjects
+
+The Leiden 85-plus Study is a prospective population based study, in which all 85-year-old inhabitants of Leiden, the Netherlands were invited to take part. There were no selection criteria related to health or demographic characteristics. The study population consists of 599 subjects, all members of the 1912– 1914 birth cohort, enrolled in the month of their 85th birthday between 1997 and 1999 (Bootsma-van der Wiel et al. 2002). For the present study DNA was available for 563 people. All participants of the Leiden 85-plus Study were followed for mortality until April 1st 2004. Primary causes of death were obtained from the Dutch Central Bureau of Statistics and categorized according to the 10th International Classification of Diseases (ICD-10). The Medical Ethical Committee of the Leiden University Medical Centre approved the study and informed consent was obtained from all participants. We also genotyped 370 blood donors (median age 32, inerquartile range (27–36)) from Leiden and surrounding areas for a cross-sectional analysis of genotype frequencies (Heijmans et al. 1999).
+
+C-reactive protein, high-density lipoprotein (HDL)- cholesterol, triglycerides and HbA1c (hemoglobin A1c) concentrations were determined in serum using fully automated analyzers (Hitachi 747 and 911; Hitachi, Ltd, Tokyo, Japan). Low-density lipoprotein (LDL)-cholesterol was estimated with the Frieden- wald equation (Friedewald et al. 1972). Cortisol was determined by a fluorescence polarization immuno- assay using the Abbott TDx (Abbott Laboratories, Abbott Park, IL, USA) according to the manufac- turer’s instructions. The within-assay coefficient of variation (CV) was below 5% at different levels. Body weight (kg) and height (cm) were measured in all participants and body mass index (BMI, kg/m2) was calculated. The measurement of height is often
+
+In this study we assessed the impact of the ER22/ 23EK, N363S and BclI variants in the GR gene on metabolic profile, body composition, and on the prevalence of cardiovascular pathologies. Also the risks of allcause and cardiovascular mortalities dependent on the polymorphisms were calculated. The study was carried out in the population-based
+
+Results
+
+The prevalence and number of cardiovascular pathol- ogies were obtained from the participant’s general practitioner or nursing home physician. In addition, electrocardiograms were recorded on a Siemens Sic- card 440 and transmitted by telephone to the ECG Core Lab in Glasgow for automated Minnesota coding (Macfarlane and Latif 1996). Cardiovascular pathol- ogies were classified as: myocardial infarction, myo- cardial ichemia, intermittent claudication or stroke (van Exel et al. 2002).
+
+DNA was available for 563 participants, of which 11 were excluded due to the use of corticosteroids. The baseline characteristics of the remaining 552 partici- pants are presented in Table 1. All study subjects were genotyped for the ER22/23EK, N363S and BclI polymorphisms with a genotyping error of lower than 5%. Therefore, the total number of analyzed partici- pants was 540 for ER22/23EK, 548 for N363S and 526 for the BclI polymorphisms. The minor allele frequencies were 0.03, 0.05 and 0.34 for the ER22/ 23EK, N363S and BclI polymorphisms, respectively. The overall genotype distributions and resulting allelic frequencies of the SNPs were in agreement with the distribution predicted by the Hardy–Wein- berg equilibrium. In this study, the calculated allele and genotype frequencies did not differ between elderly and young subjects (n=370, median age 32 years)(data not shown).
+
+Genotyping
+
+The ER22/23EK variant consists of two single nucleotide polymorphisms (SNPs) in codons 22 (A/ G, rs6189) and 23 (G/A, rs6190). The ER22/23EK, N363S (A/G, rs6195) and BclI (C/G) (van Rossum et al. 2003) polymorphims were genotyped using an Assay-by-Design (Applied Biosystems), consisting of PCR primers and TaqMan MGB probes on an ABI 7900 HT with real-time PCR (Applied Biosystems). Amplification reactions and parameters were based on manufacturer’s instructions.
+
+profile dependent on the ER22/23EK, N363S and BclI variants were assessed. The analyses revealed that carriers of the ER22/23EK variant have higher HbA1c levels (6.54 (0.19) vs. 5.74 (0.05), P < 0.001) compared to the non-carriers (Table 2). For the car- riers of the N363S polymorphism, higher concentra- tions of LDL cholesterol (4.18 (0.13) vs. 3.62 (0.04), P < 0.001) and triglycerides (1.60 (1.06) vs. 1.39 (1.02), P=0.03) compared to the non-carriers were observed (Table 2). No associations between the metabolic profile and the BclI polymorphism were found. The analyses of body composition showed only differences in height for the ER22/23EK poly- morphism, where men carrying the ER22/23EK variant were taller (171.9 (1.71) vs. 167.8 (0.50), P=0.02) compared to the non-carriers. The same trend was observed for women (Table 3).
+
+Statistical analysis
+
+Allele frequencies were calculated and analyzed for deviation from the Hardy–Weinberg equilibrium using the v2-test. Mean differences in the parame- ters of the metabolic profile and body composition dependent on the polymorphisms were assessed with the univariate general linear model. All continuous variables were normally distributed, except for the C-reactive protein and triglyceride levels, which were ln-transformed. Differences in the prevalence of car- diovascular pathologies between genotypes were tes- ted using the binary logistic regression model adjusted for sex. Mortality was first estimated using the Kap- lan–Meier method, followed by the calculation of sex adjusted mortality risks and 95% confidence intervals (CI) for allcause and cardiovascular mortality with the Cox proportional hazard model. All analyses were performed with SPSS statistical software, version 12.0
+
+of cardiovascular pathologies was assessed at base- line. No associations with the prevalence of myo- cardial infarction, myocardial ischemia, intermittent claudication and stroke were found for the different polymorphisms (Table 4).
+
+1 Baseline characteristics of the Leiden 85-plus Study 552 85 366 (66%) living 451 (82%) profile (mmol/l) 0.49 (0.15) protein (mg/l) 2.83 (4.26) (mmol/l) 1.31 (0.40) (mmol/l) 3.67 (0.97) (mmol/l) 1.40 (1.58) (mmol/l) 5.79 (1.09) BMI (kg/m2) 26.3 (5.17) 27.7 (4.74) (kg) 74.5 (15.2) 67.5 (12.7 ) (cm) 168.1 (6.49) 156.2 (6.24) (cm) 178.1 (7.31) 162.5 (7.03) pathologies infarction 134 (24%) ischemia 280 (51%) claudication 34 (6%) 56 (10%) profile and body composition values presented as (SD), except for C-reactive protein where geometric (SD) is presented the 4.2-year follow-up, 278 (50%) of the had died, of which 115 (41%) of deaths due to cardiovascular disease. The Kaplan– estimates of cumulative mortality indicated carriers of BclI polymorphism have lower mortality during the follow-up compared to (Fig. 1). The allcause mortality risk for the BclI variant was 0.85 (0.67–1.08). mortality analyses revealed no in survival for any of the ER22/23EK, and BclI polymorphism carriers (Fig. 1). The remained unaltered after repeating the analy- men and women separately. the above mentioned analyses were also with independently living participants in order to implement the selection criteria other studies (van Rossum et al. 2003, 2004a). analyses did not reveal additional associations, those observed in the whole cohort. smsihpromylop)G/C(IlcBdna)G/A(S363N,)A/G(KE32/22REehtnotnednepedelfiorpcilobateM2elbaT G/CIlsBS363NKE32/22RE eulav-P)092=n(GG/GC)632=n(CCeulav-P)15=n(GG/GA)794=n(AAeulav-P)33=n(AA/AG)705=n(GG )ES(naem)ES(naem)ES(naem)ES(naem)ES(naem)ES(naem 01.0)10.0(05.0)10.0(84.053.0)20.0(15.0)10.0(94.009.0)30.0(94.0)10.0(94.0)l/lomm(lositroC 92.0)90.1(60.3)90.1(96.219.0)22.1(08.2)70.1(68.215.0)03.1(53.3)60.1(08.2)l/gm(nietorpevitcaer-C 78.0)20.0(23.1)30.0(13.133.0)50.0(62.1)20.0(13.154.0)70.0(62.1)20.0(13.1)l/lomm(loretselohcLDH 92.0)60.0(36.3)60.0(27.3100.0<)31.0(81.4)40.0(26.329.0)71.0(76.3)40.0(66.3)l/lomm(loretselohcLDL 18.0)30.1(93.1)30.1(04.130.0)60.1(06.1)20.1(93.174.0)80.1(23.1)20.1(04.1)l/lomm(sedirecylgirT 48.0)60.0(08.5)70.0(87.506.0)51.0(27.5)50.0(18.5100.0<)91.0(45.6)50.0(47.5)l/lomm(c1AbH detneserpera)ES(srorredradnatshtiwsnaemcirtemoegsedirecylgirtdnanietorpevitcaer-CroF.ledomraenillarenegetairavinudetsujdaxeS
+
+smsihpromylop)G/C(IlcBdna)G/A(S363N,)A/G(KE32/22REehtnotnednepedelfiorpcilobateM2elbaT G/CIlsBS363NKE32/22RE eulav-P)092=n(GG/GC)632=n(CCeulav-P)15=n(GG/GA)794=n(AAeulav-P)33=n(AA/AG)705=n(GG )ES(naem)ES(naem)ES(naem)ES(naem)ES(naem)ES(naem 01.0)10.0(05.0)10.0(84.053.0)20.0(15.0)10.0(94.009.0)30.0(94.0)10.0(94.0)l/lomm(lositroC 92.0)90.1(60.3)90.1(96.219.0)22.1(08.2)70.1(68.215.0)03.1(53.3)60.1(08.2)l/gm(nietorpevitcaer-C 78.0)20.0(23.1)30.0(13.133.0)50.0(62.1)20.0(13.154.0)70.0(62.1)20.0(13.1)l/lomm(loretselohcLDH 92.0)60.0(36.3)60.0(27.3100.0<)31.0(81.4)40.0(26.329.0)71.0(76.3)40.0(66.3)l/lomm(loretselohcLDL 18.0)30.1(93.1)30.1(04.130.0)60.1(06.1)20.1(93.174.0)80.1(23.1)20.1(04.1)l/lomm(sedirecylgirT 48.0)60.0(08.5)70.0(87.506.0)51.0(27.5)50.0(18.5100.0<)91.0(45.6)50.0(47.5)l/lomm(c1AbH detneserpera)ES(srorredradnatshtiwsnaemcirtemoegsedirecylgirtdnanietorpevitcaer-CroF.ledomraenillarenegetairavinudetsujdaxeS
+
+Table 1 Baseline characteristics of the Leiden 85-plus Study
+
+Number 552 Age 85 Female 366 (66%) Independently living 451 (82%) Metabolic profile Cortisol (mmol/l) 0.49 (0.15) C-reactive protein (mg/l) 2.83 (4.26) HDL cholesterol (mmol/l) 1.31 (0.40) LDL cholesterol (mmol/l) 3.67 (0.97) Triglycerides (mmol/l) 1.40 (1.58) HbA1c (mmol/l) 5.79 (1.09) Body composition, BMI (kg/m2) Men 26.3 (5.17) Women 27.7 (4.74) Weight (kg) Men 74.5 (15.2) Women 67.5 (12.7 ) Height (cm) Men 168.1 (6.49) Women 156.2 (6.24) Armspan (cm) Men 178.1 (7.31) Women 162.5 (7.03) Cardiovascular pathologies Myocardial infarction 134 (24%) Myocardial ischemia 280 (51%) Intermittent claudication 34 (6%) Stroke 56 (10%)
+
+Metabolic profile and body composition values presented as means (SD), except for C-reactive protein where geometric mean (SD) is presented
+
+During the 4.2-year follow-up, 278 (50%) of the participants had died, of which 115 (41%) of deaths were due to cardiovascular disease. The Kaplan– Meier estimates of cumulative mortality indicated that the carriers of BclI polymorphism have lower allcause mortality during the follow-up compared to the non-carriers (Fig. 1). The allcause mortality risk estimate for the BclI variant was 0.85 (0.67–1.08). The cardiovascular mortality analyses revealed no differences in survival for any of the ER22/23EK, N363S and BclI polymorphism carriers (Fig. 1). The results remained unaltered after repeating the analy- ses for men and women separately.
+
+All the above mentioned analyses were also repeated with independently living participants (n=451), in order to implement the selection criteria used in other studies (van Rossum et al. 2003, 2004a). These analyses did not reveal additional associations, but confirmed those observed in the whole cohort.
+
+Table 3 Body composition dependent on the ER22/23EK (G/A), N363S (A/G) and BclI (C/G) polymorphisms
+
+ER22/23EK N363S BslI C/G GG (n=507) GA/AA (n=33) P-value AA (n=497) AG/GG (n=51) P-value CC (n=236) CG/GG (n=290) P-value mean (SE) mean (SE) mean (SE) mean (SE) mean (SE) mean (SE) BMI (kg/m2) Men 26.3 (0.42) 26.1 (1.40) 0.91 26.3 (0.41) 26.0 (1.39) 0.84 25.8 (0.59) 26.6 (0.54) 0.30 Women 27.8 (0.26) 27.7 (1.15) 0.99 27.7 (0.27) 27.5 (0.80) 0.77 27.2 (0.39) 28.1 (0.35) 0.06 Weight (kg) Men 74.3 (1.22) 77.9 (4.12) 0.40 74.7 (1.19) 72.8 (4.09) 0.65 73.4 (1.72) 75.2 (1.59) 0.43 Women 67.4 (0.70) 69.6 (3.07) 0.48 67.5 (0.72) 67.2 (2.11) 0.90 66.4 (1.05) 68.2 (0.94) 0.19 Height (cm) Men 167.8 (0.50) 171.9 (1.71) 0.02 168.3 (0.50) 167.2 (1.73) 0.56 168.4 (0.69) 167.8 (0.65) 0.48 Women 156.0 (0.34) 158.6 (1.47) 0.09 156.2 (0.35) 156.6 (1.04) 0.73 156.3 (0.52) 156.1 (0.46) 0.73 Armspan (cm) Men 177.8 (0.57) 180.6 (1.97) 0.18 178.3 (0.56) 176.5 (1.93) 0.36 178.7 (0.79) 177.6 (0.74) 0.31 Women 162.4 (0.39) 164.3 (1.66) 0.26 162.5 (0.40) 162.6 (1.17) 0.91 162.5 (0.58) 162.4 (0.52) 0.85
+
+Univariate general linear model. Data presented as means with standard errors (SE)
+
+Table 4 Risk of cardiovascular pathologies at baseline dependent on the ER22/23EK (G/A), N363S (A/G) and BclI polymorphisms
+
+Table 4 Risk of cardiovascular pathologies at baseline dependent on the ER22/23EK (G/A), N363S (A/G) and BclI (C/G)
+
+ER22/23EK N363S BclI GG (n=507) GA/AA (n=33) AA (n=497) AG/GG (n=51) CC (n=236) CG /GG (n=290) infarction (n=134) 1 1.35 (0.62–2.93) 1 1.25 (0.65–2.40) 1 0.91 (0.61–1.37) ischemia (n=280) 1 1.82 (0.87–3.78) 1 1.41 (0.78–2.52) 1 0.80 (0.57–1.13) claudication (n=34) 1 0.87 (0.20–3.86) 1 1.03 (0.30–3.52) 1 1.00 (0.49–2.04) (n=56) 1 1.56 (0.58–4.24) 1 1.79 (0.79–4.05) 1 1.22 (0.69–2.16)
+
+Sex adjusted binary logistic regression. Data presented as odds ratios (OR) with 95% confidence intervals (CI)
+
+Discussion
+
+another study in middle aged subjects (Lin et al. 2003), where N363S variant was associated with elevated cholesterol and triglyceride concentrations, and also with coronary artery disease. The lack of a relation between the N363S polymorphism and car- diovascular pathologies in our study population could be due to the fact that in the elderly high levels of LDL-cholesterol and triglycerides are not risk fac- tors for cardiovascular disease anymore (Weverling- Rijnsburger et al. 1997, 2003).
+
+The aim of this study was to examine whether in old age polymorphisms in the GR gene (NR3C1) influ- ence the prevalence of cardiovascular pathologies and survival due to differences in metabolic profile and body composition. The analyses revealed differ- ences in metabolic profile for the ER22/23EK and N363S SNPs, and in body composition for the ER22/ 23EK variant, but no associations with the prevalence of cardiovascular pathologies and lifespan.
+
+of those expected were observed. It has been previ- ously reported that elderly carriers of the ER22/23EK polymorphism have lower total cholesterol and LDL- cholesterol levels, lower fasting insulin concentra- tions, better insulin sensitivity and lower C-reactive protein levels, leading to a beneficial metabolic pro- file (van Rossum et al. 2002, 2004a). In this study, carriers of the ER22/23EK variant had higher levels of HbA1c compared to non-carriers, and a trend for higher C-reactive protein and LDL-cholesterol
+
+Increased sensitivity to cortisol, accompanied with sub-optimal metabolic profile and increased risk for cardiovascular disease has been associated with the N363S and BclI polymorphisms (Lin et al. 2003; van Rossum et al. 2003; Di Blasio et al. 2003). In this study we found no associations with the BclI poly- morphism, but carriers of the N363S SNP had higher LDL-cholesterol and triglyceride levels, and a non- significantly higher prevalence for cardiovascular diseases. The latter results are in accordance with
+
+spremuo sitoly sjuedionred 7g ay) ul sadAjoues [og puke SEOEN “MACT/ZTUA OU) UO Juepuadap ‘AjTPeOUT IeNdseAOIpIed pue asned-[[e 2ANe[NUIND JO sarind Jolay—uL[dey       (s1e0h) aby (sea) aby (weak abywe 16 6 68 88 a @ 8 = 6 16 6 ee 88 “a 98 2. 6 16 06 68 8 a3 98 ae1S ee ei _in: eon . .Sre R Bgof 3“ a |BF i razot ol asour —— ae ‘ea fae souey —— THsowes-u0N, . iguean = sowe>-v0N 2wea rg sesen FS paeuezua FS‘Ayewous seynasenoipse) Ayjevou seynasenoipse) Aanreviow seinasenoipse)(s1e0f) aby (s1e0f) aby (sieaA oy6 6 06 68 3 a 98 8 6 6 06 68 se a 38 8 6 16 06 68 c=] 2 98 $85 a 3 oie 2 - . 58 8 8s ‘ S‘I at ‘|6 3 aoy res cy° 2 ° 3 °o 3mung —— tS muy —— tS uty ——}REsewes-uoy —— ol s0use2-U0N ial saue>-uoy) —— 2wa kB sean +B paezezda kB  Ayeuow asnes ty Ayevow ssnes yy Ayewouw esnesiy
+
+expression of less transcriptionally active GR-A protein in the ER22/23EK carriers. It was proposed that this leads to the decrease in the sensitivity to cortisol (Russcher et al. 2005). For the other two polymorphisms, N363S and BclI, the functionality has not been established in vitro. On the other hand, the polymorphisms could be functional and result in altered hormone sensitivity, which is counterbalanced by adaptive changes that attempt to normalize corti- sol signaling. These adaptive changes may vary between individuals.
+
+concentrations, which indicate a worse metabolic profile. Furthermore, no beneficial effects of the ER22/23EK polymorphism on the prevalence of cardiovascular pathologies, allcause and cardiovas- cular mortality were found. These result are at odds with results from the previously published studies (van Rossum et al. 2002, 2004a). It could be, that the discrepancy between these studies has arisen due to the age difference of the subjects. In our study, par- ticipants aged 85–90 years were analyzed compared to subjects aged 67–77 years in the other studies (van Rossum et al. 2002, 2004a). The analyzed polymor- phisms might have an effect before a certain age, and therefore the Leiden 85-plus cohort could consists of survivors. To test this, allele and genotype frequen- cies between the elderly and young participants in this study, and also between a young study group from the published literature (van Rossum et al. 2004b) were compared, revealing no differences. Thus, in contrast to an earlier report of an age- dependent enrichment for the ER22/23EK variation (van Rossum et al. 2002), no such enrichment was observed in our study.
+
+mate several phenotypes in one cohort, and the prospective analysis with a high number of deaths, including the high number of cardiovascular deaths, during the follow-up. A weakness of the study is the lack of data on HPA-axis reactivity or on other parameters reflecting the stress system activity. However, in this aspect, we rely on the information presented in the published literature.
+
+In conclusion, the results of this study show that in old age the ER22/23EK and N363S polymorphisms but not the BclI SNP in the GR gene have an influence on metabolic profile. However, the noticed differ- ences in metabolic profile do not affect the prevalence of cardiovascular pathologies and the risks for all- cause and cardiovascular disease mortality at old age.
+
+come from the participant’s inclusion criteria. In order to apply similar inclusion criteria used in the other studies, only independently living participants were analyzed. However, this did not change our results, as well as stratification for gender. A more likely explanation could be that some of the obser- vations have arisen by chance, leading to false neg- ative or false positive associations. Recently it has been suggested that the role of genetic variations in common traits should be built up based on the evi- dence of many studies. Significant between-study diversity is frequent, and the results of the first study often correlate only modestly with subsequent re- search on the same association (Ioannidis et al. 2001).
+
+Acknowledgements This work was supported by an IOP grant (Innovative Orientated Research) from the Dutch Min- istry of Economic Affairs (grant number IGE010114), and by the Centre for Medical Systems Biology (CMSB), which is a center of excellence approved by the Netherlands Genomics Initiative/Netherlands Organisation for Scientific Research (NWO). The study was also supported by a Marie Curie Fel- lowship of the European Community programme EURO- GENDIS ‘‘The Genetic Basis of Disease’’ for Maris Kuningas, under contract number QLGA-GH-00-60005-59. We thank Anton J. M. de Craen for the help in data analyses.
+
+The results of this study raise doubts whether the analyzed polymorphisms, shown to result in either resistance or increased sensitivity to cortisol (van Rossum et al. 2002, 2003; Huizenga et al. 1998a), are really functional. For the ER22/23EK variant, it has been reported that it does not alter the in vitro capacity to activate transcription (de Lange et al. 1997) and no altered response to cortisol was ob- served (Koper et al. 1997). However, a more recent study shows, that the transcriptional activity of the ER22/23EK carriers is decreased, due to higher
+
+References
+
+Bootsma-van der Wiel A, van Exel E, De Craen AJ, Gussekloo J, Lagaay AM, Knook DL, Westendorp RG (
+
+) A high response is not essential to prevent selection bias: results from the Leiden
+
+-plus study. J Clin Epidemiol
+
+:
+
+–
+
+Chrousos GP (
+
+) The hypothalamic–pituitary–adrenal axis and immune-mediated inflammation. N Engl J Med
+
+:
+
+–
+
+Chrousos GP (
+
+) Stressors, stress, and neuroendocrine integration of the adaptive response: the
+
+Hans Selye Memorial Lecture. Ann NY Acad Sci
+
+:
+
+–
+
+Biogerontology (
+
+)
+
+:
+
+–
+
+Macfarlane PW, Latif S (
+
+) Automated serial ECG com- parison based on the Minnesota code. J Electrocardiol
+
+(Suppl):
+
+–
+
+M
+
+wen BS (
+
+) Protective and damaging effects of stress mediators. N Engl J Med
+
+:
+
+–
+
+Munck A, Guyre PM, Holbrook NJ (
+
+) Physiological functions of glucocorticoids in stress and their relation to pharmacological actions. Endocr Rev
+
+:
+
+–
+
+Panarelli M, Holloway CD, Fraser R, Connell JM, Ingram MC, Anderson NH, Kenyon CJ (
+
+) Glucocorticoid receptor polymorphism, skin vasoconstriction, and other metabolic intermediate phenotypes in normal human subjects. J Clin Endocrinol Metab
+
+:
+
+–
+
+Rosmond R, Bouchard C, Bjorntorp P (
+
+) Tsp
+
+I poly- morphism in exon
+
+of the glucocorticoid receptor gene in relation to obesity and cortisol secretion: cohort study. BMJ
+
+:
+
+–
+
+Russcher H, van Rossum EF, de Jong FH, Brinkmann AO, Lamberts SW, Koper JW (
+
+) Increased expression of the glucocorticoid receptor-A translational isoform as a result of the ER
+
+/
+
+EK polymorphism. Mol Endocrinol
+
+:
+
+–
+
+van Exel E, Gussekloo J, Houx P, de Craen AJM, Macfarlane PW, Bootsma-van der Wiel A, Blauw GJ, Westendorp RGJ (
+
+) Atherosclerosis and cognitive impairment are linked in the elderly. The Leiden
+
+-plus Study. Athero- sclerosis
+
+:
+
+–
+
+van Rossum EF, Feelders RA, Van Den Beld AW, Uitterlinden AG, Janssen JA, Ester W, Brinkmann AO, Grobbee DE, de Jong FH, Pols HA, Koper JW, Lamberts SW (
+
+a) Association of the ER
+
+/
+
+EK polymorphism in the glucocorticoid receptor gene with survival and C-reactive protein levels in elderly men. Am J Med
+
+:
+
+–
+
+van Rossum EF, Koper JW, Huizenga NA, Uitterlinden AG, Janssen JA, Brinkmann AO, Grobbee DE, de Jong FH, van Duyn CM, Pols HA, Lamberts SW (
+
+) A poly- morphism in the glucocorticoid receptor gene, which de- creases sensitivity to glucocorticoids in vivo, is associated with low insulin and cholesterol levels. Dia- betes
+
+:
+
+–
+
+van Rossum EF, Koper JW, Van Den Beld AW, Uitterlinden AG, Arp P, Ester W, Janssen JA, Brinkmann AO, de Jong FH, Grobbee DE, Pols HA, Lamberts SW (
+
+) Identi- fication of the Bc
+
+polymorphism in the glucocorticoid receptor gene: association with sensitivity to glucocor- ticoids in vivo and body mass index. Clin Endocrinol (Oxf)
+
+:
+
+–
+
+van Rossum EF, Voorhoeve PG, te Velde SJ, Koper JW, Delemarre-van de Waal HA, Kemper HC, Lamberts SW (
+
+b) The ER
+
+/
+
+EK polymorphism in the glucocor- ticoid receptor gene is associated with a beneficial body composition and muscle strength in young adults. J Clin Endocrinol Metab
+
+:
+
+–
+
+Weverling-Rijnsburger AW, Blauw GJ, Lagaay AM, Knook DL, Meinders AE, Westendorp RG (
+
+) Total choles- terol and risk of mortality in the oldest old. Lancet
+
+:
+
+–
+
+Weverling-Rijnsburger AW, Jonkers IJ, van Exel E, Gussekloo J, Westendorp RG (
+
+) High-density vs low-density lipo- protein cholesterol as the risk factor for coronary artery dis- ease and stroke in old age. Arch Intern Med
+
+:
+
+–
+
+de Kloet ER, Vreugdenhil E, Oitzl MS, Joels M (
+
+) Brain corticosteroid receptor balance in health and disease. Endocr Rev
+
+:
+
+–
+
+de Lange P, Koper JW, Huizenga NA, Brinkmann AO, de Jong FH, Karl M, Chrousos GP, Lamberts SW (
+
+) Differ- ential hormone-dependent transcriptional activation and - repression by naturally occurring human glucocorticoid receptor variants. Mol Endocrinol
+
+:
+
+–
+
+Di Blasio AM, van Rossum EF, Maestrini S, Berselli ME, Tagliaferri M, Podesta F, Koper JW, Liuzzi A, Lamberts SW (
+
+) The relation between two polymorphisms in the glucocorticoid receptor gene and body mass index, blood pressure and cholesterol in obese patients. Clin Endocrinol (Oxf)
+
+:
+
+–
+
+Dobson MG, Redfern CP, Unwin N, Weaver JU (
+
+) The N
+
+S polymorphism of the glucocorticoid receptor: po- tential contribution to central obesity in men and lack of association with other risk factors for coronary heart disease and diabetes mellitus. J Clin Endocrinol Metab
+
+:
+
+–
+
+Echwald SM, Sorensen TI, Andersen T, Pedersen O (
+
+) The Asn
+
+Ser variant of the glucocorticoid receptor gene is not associated with obesity or weight gain in Danish men. Int J Obes Relat Metab Disord
+
+:
+
+–
+
+Friedewald WT, Levy RI, Fredrickson DS (
+
+) Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge. Clin Chem
+
+:
+
+–
+
+Heijmans BT, Gussekloo J, Kluft C, Droog S, Lagaay AM, Knook DL, Westendorp RG, Slagboom EP (
+
+) Mor- tality risk in men is associated with a common mutation in the methylene-tetrahydrofolate reductase gene (MTHFR). Eur J Hum Genet
+
+:
+
+–
+
+Huizenga NA, Koper JW, de Lange P, Pols HA, Stolk RP, Burger H, Grobbee DE, Brinkmann AO, de Jong FH, Lamberts SW (
+
+a) A polymorphism in the glucocor- ticoid receptor gene may be associated with and increased sensitivity to glucocorticoids in vivo. J Clin Endocrinol Metab
+
+:
+
+–
+
+Huizenga NA, Koper JW, de Lange P, Pols HA, Stolk RP, Grobbee DE, de Jong FH, Lamberts SW (
+
+b) Inter- person variability but intraperson stability of baseline plasma cortisol concentrations, and its relation to feed- back sensitivity of the hypothalamo-pituitary-adrenal axis to a low dose of dexamethasone in elderly individ- uals. J Clin Endocrinol Metab
+
+:
+
+–
+
+Ioannidis JP, Ntzani EE, Trikalinos TA, Contopoulos-Ioannidis DG (
+
+) Replication validity of genetic association studies. Nat Genet
+
+:
+
+–
+
+Koper JW, Stolk RP, de Lange P, Huizenga NA, Molijn GJ, Pols HA, Grobbee DE, Karl M, de Jong FH, Brinkmann AO, Lamberts SW (
+
+) Lack of association between five polymorphisms in the human glucocorticoid recep- tor gene and glucocorticoid resistance. Hum Genet
+
+:
+
+–
+
+Lin RC, Wang WY, Morris BJ (
+
+) High penetrance, overweight, and glucocorticoid receptor variant: case– control study. BMJ
+
+:
+
+–
+
+Lin RC, Wang XL, Morris BJ (
+
+) Association of coronary artery disease with glucocorticoid receptor N
+
+S variant. Hypertension
+
+:
+
+–
+
+parison based on the Minnesota code. J Electrocardiol
+
+(Suppl):
+
+–
+
+M
+
+wen BS (
+
+) Protective and damaging effects of stress mediators. N Engl J Med
+
+:
+
+–
+
+Munck A, Guyre PM, Holbrook NJ (
+
+) Physiological functions of glucocorticoids in stress and their relation to pharmacological actions. Endocr Rev
+
+:
+
+–
+
+Panarelli M, Holloway CD, Fraser R, Connell JM, Ingram MC, Anderson NH, Kenyon CJ (
+
+) Glucocorticoid receptor polymorphism, skin vasoconstriction, and other metabolic intermediate phenotypes in normal human subjects. J Clin Endocrinol Metab
+
+:
+
+–
+
+Rosmond R, Bouchard C, Bjorntorp P (
+
+) Tsp
+
+I poly- morphism in exon
+
+of the glucocorticoid receptor gene in relation to obesity and cortisol secretion: cohort study. BMJ
+
+:
+
+–
+
+Russcher H, van Rossum EF, de Jong FH, Brinkmann AO, Lamberts SW, Koper JW (
+
+) Increased expression of the glucocorticoid receptor-A translational isoform as a result of the ER
+
+/
+
+EK polymorphism. Mol Endocrinol
+
+:
+
+–
+
+van Exel E, Gussekloo J, Houx P, de Craen AJM, Macfarlane PW, Bootsma-van der Wiel A, Blauw GJ, Westendorp RGJ (
+
+) Atherosclerosis and cognitive impairment are linked in the elderly. The Leiden
+
+-plus Study. Athero- sclerosis
+
+:
+
+–
+
+van Rossum EF, Feelders RA, Van Den Beld AW, Uitterlinden AG, Janssen JA, Ester W, Brinkmann AO, Grobbee DE, de Jong FH, Pols HA, Koper JW, Lamberts SW (
+
+a) Association of the ER
+
+/
+
+EK polymorphism in the glucocorticoid receptor gene with survival and C-reactive protein levels in elderly men. Am J Med
+
+:
+
+–
+
+van Rossum EF, Koper JW, Huizenga NA, Uitterlinden AG,
+
+corticosteroid receptor balance in health and disease. Endocr Rev
+
+:
+
+–
+
+de Lange P, Koper JW, Huizenga NA, Brinkmann AO, de Jong FH, Karl M, Chrousos GP, Lamberts SW (
+
+) Differ- ential hormone-dependent transcriptional activation and - repression by naturally occurring human glucocorticoid receptor variants. Mol Endocrinol
+
+:
+
+–
+
+Di Blasio AM, van Rossum EF, Maestrini S, Berselli ME, Tagliaferri M, Podesta F, Koper JW, Liuzzi A, Lamberts SW (
+
+) The relation between two polymorphisms in the glucocorticoid receptor gene and body mass index, blood pressure and cholesterol in obese patients. Clin Endocrinol (Oxf)
+
+:
+
+–
+
+Dobson MG, Redfern CP, Unwin N, Weaver JU (
+
+) The N
+
+S polymorphism of the glucocorticoid receptor: po- tential contribution to central obesity in men and lack of association with other risk factors for coronary heart disease and diabetes mellitus. J Clin Endocrinol Metab
+
+:
+
+–
+
+Echwald SM, Sorensen TI, Andersen T, Pedersen O (
+
+) The Asn
+
+Ser variant of the glucocorticoid receptor gene is not associated with obesity or weight gain in Danish men. Int J Obes Relat Metab Disord
+
+:
+
+–
+
+Friedewald WT, Levy RI, Fredrickson DS (
+
+) Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge. Clin Chem
+
+:
+
+–
+
+Heijmans BT, Gussekloo J, Kluft C, Droog S, Lagaay AM, Knook DL, Westendorp RG, Slagboom EP (
+
+) Mor- tality risk in men is associated with a common mutation in
+
+Burger H, Grobbee DE, Brinkmann AO, de Jong FH, Lamberts SW (
+
+a) A polymorphism in the glucocor- ticoid receptor gene may be associated with and increased sensitivity to glucocorticoids in vivo. J Clin Endocrinol Metab
+
+:
+
+–
+
+Huizenga NA, Koper JW, de Lange P, Pols HA, Stolk RP, Grobbee DE, de Jong FH, Lamberts SW (
+
+b) Inter- person variability but intraperson stability of baseline plasma cortisol concentrations, and its relation to feed- back sensitivity of the hypothalamo-pituitary-adrenal axis to a low dose of dexamethasone in elderly individ- uals. J Clin Endocrinol Metab
+
+:
+
+–
+
+Ioannidis JP, Ntzani EE, Trikalinos TA, Contopoulos-Ioannidis DG (
+
+) Replication validity of genetic association studies. Nat Genet
+
+:
+
+–
+
+Koper JW, Stolk RP, de Lange P, Huizenga NA, Molijn GJ, Pols HA, Grobbee DE, Karl M, de Jong FH, Brinkmann AO, Lamberts SW (
+
+) Lack of association between five polymorphisms in the human glucocorticoid recep- tor gene and glucocorticoid resistance. Hum Genet
+
+:
+
+–
+
+Lin RC, Wang WY, Morris BJ (
+
+) High penetrance, overweight, and glucocorticoid receptor variant: case– control study. BMJ
+
+:
+
+–
+
+Lin RC, Wang XL, Morris BJ (
+
+) Association of coronary artery disease with glucocorticoid receptor N
+
+S variant. Hypertension
+
+:
+
+–
+
+Koper JW, Stolk RP, de Lange P, Huizenga NA, Molijn GJ, Pols HA, Grobbee DE, Karl M, de Jong FH, Brinkmann AO, Lamberts SW (
+
+) Lack of association between five polymorphisms in the human glucocorticoid recep- tor gene and glucocorticoid resistance. Hum Genet
+
+:
+
+–
+
+Lin RC, Wang WY, Morris BJ (
+
+) High penetrance, overweight, and glucocorticoid receptor variant: case– control study. BMJ
+
+:
+
+–
+
+Lin RC, Wang XL, Morris BJ (
+
+) Association of coronary artery disease with glucocorticoid receptor N
+
+S variant. Hypertension
+
+:
+
+–

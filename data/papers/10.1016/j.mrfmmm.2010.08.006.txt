@@ -1,0 +1,1085 @@
+journal homepage: www.elsevier.com/locate/molmut Community address: www.elsevier.com/locate/mutres
+
+of genetic susceptibility factors for human longevity – A SNP study
+
+Friederike Flachsbarta, Andre Frankea, Rabea Kleindorpa, Amke Caliebeb, Hélène Blanchéc, Stefan Schreibera,1, Almut Nebela,∗,1
+
+a Institute of Clinical Molecular Biology, Christian-Albrechts-University and University Hospital Schleswig-Holstein, Kiel, Germany b Institute of Medical Informatics and Statistics, Christian-Albrechts-University and University Hospital Schleswig-Holstein, Kiel, c Fondation Jean Dausset-Centre d’Etude du Polymorphisme Humain (CEPH), Paris, France
+
+
+
+Twin studies have shown that longevity in humans is moderately heritable with a genetic component of 25–32%. Experimental model organisms point to the existence of core survival and anti-ageing path- ways that have been conserved throughout evolution. It has been shown that mutations in single genes involvedinthesepathwayscaneitherdelayoracceleratetheageingprocessandthatmanyofthesegenes and pathways are also present in humans. Here, we performed a targeted investigation of selected genes (i) involved in longevity pathways (insulin receptor/insulin-like growth factor-I signaling and energy metabolism, intracellular signaling, apoptosis and stress response) and (ii) in which mutations lead to genetic perturbations in animal models or human diseases. Altogether, we tested 500 nonsynony- mous single nucleotide polymorphisms (SNPs) in 343 candidate genes for association with the longevity phenotypeinaGermansamplecomprisingabout400centenariansandanequalnumberofyoungercon- trol subjects. Thus, this study presents one of the largest candidate studies in human genetic longevity researchconductedto-date.Thethreetop-rankingmarkers,whicharelocatedinthegenesDUSP6,NALP1 and PERP, revealed p-values≤0.01 in the allelic case–control comparisons. Although the association sig- nals in Germans were not replicated in an independent French sample, the large number of analysis results is deemed a valuable reference point for further genetic studies.
+
+human adult life span [1–4]. A twin study has revealed that genetic influences on survival are minimal before the age of 60 but increase thereafter [5]. It is still debated to what extent a long and healthy lifeisbasedontheabsenceofharmfulgeneticvariantsthatresultin age-related disorders [6] and/or on the presence of polymorphisms with beneficial effects in so-called “longevity-enabling genes” [7].
+
+1. Introduction
+
+Longevityinhumansisconsideredamultifactorialtraittowhich both genetic and environmental factors are likely to contribute. Epidemiological studies have shown that the modulation of age- ing processes is inherited in long-lived families, and genetic factors havebeenestimatedtoaccountforabout25–32%ofthevariationin
+
+There is mounting evidence from experimental model organ- isms (S. cerevisiae, C. elegans, D. melanogaster, M. musculus) for the existence of core survival/anti-ageing pathways [8–10]. They influ- ence the ageing process by increasing the capacity of an organism to cope with the accumulation of stress-induced molecular dam- age [11] and thus represent key candidates for attaining longevity [12]. On the other hand, disruptions in these pathways lead to age- related failure of cellular maintenance and function, reduced stress tolerance, diseases and ultimately death [13]. Mutations in sin- gle genes involved in the pathways can either delay or accelerate the ageing process in diverse model organisms [14–16]. Many of the survival genes and pathways are evolutionarily conserved and also present in H. sapiens, thus providing a rationale to search for corresponding human loci. However, longevity candidate studies in humans are very often hampered by difficulties to adequately replicate results in independent population samples [17]. The most
+
+Abbreviations: A2M,alpha-2-macroglobulin;APOE,apolipoproteinE;BMBF,Ger- man Federal Ministry of Science and Education; CCA, case–control analyses at the allele level; CCG, case–control analyses at the genotype level; CI, confidence inter- val; DFG, Deutsche Forschungsgemeinschaft; DUSP6, dual specificity phosphatase 6; EXO1, exonuclease 1; FOXO3A, forkhead box O3A; GEHA, GEnetics of Healthy Aging;IIS,insulin-likegrowthfactor-Isignaling;IR,insulinreceptor;NALP1,NACHT leucine-rich-repeat protein 1; NGFN, National Genome Research Network; nsSNPs, nonsynonymous single nucleotide polymorphisms; OR, odds ratio; P , p-value CCA obtained from an allele-based case–control comparison, using a (cid:2)2-test with 1 degree of freedom; PERP, p53 apoptosis effector related to PMP22.
+
+∗ Corresponding author at: Institute of Clinical Molecular Biology, Christian- Albrechts-University Kiel, Schittenhelmstraße 12, 24105 Kiel, Germany. Tel.: +49 431 597 1373; fax: +49 431 597 2196.
+
+consistent association findings so far have been reported for the apolipoprotein E (APOE) [6,17] and the forkhead box O3A (FOXO3A) genes [18–21]. Interestingly, FOXO3A is the human orthologue of daf-16 in the nematode C. elegans. This transcription factor is a key regulator of the insulin receptor (IR)/insulin-like growth factor-I signaling (IIS) pathway, which is known to mediate life span exten- sion in various laboratory species [22–28].
+
+were tested for Hardy–Weinberg equilibrium in controls before inclusion in the analyses (P HWE >0.01). The genomic control analysis was conducted using PLINK V1.01 [37] (http://pngu.mgh.harvard.edu/purcell/plink/). Power and sam- ple sizes were calculated with the PS Power and Sample Size Program [38] (http://biostat.mc.vanderbilt.edu/twiki/bin/view/Main/PowerSampleSize) apply- ingasignificancelevelof0.05.Logisticregressionanalysiswasperformedtoanalyse thetwodifferentdominant–recessivemodels(firstalleledominantorsecondallele dominant) and an additive effects model on the logistic scale (multiplicativity of the odds ratios [OR]). In an additional analysis,APOE was included in the regression toadjustforitseffectonlongevity.Thenumberofε4alleleswastakenintoaccount for APOE and an additive allelic effect on the logistic scale was assumed for the three candidate genes. Possible interactions were investigated. For the adjustment of multiple testing, the classical Bonferroni method and the false discovery rate of Benjamini et al. [39] were applied. The regression analysis and the adjustment for multiple testing were performed with the statistics software program R (version 2.5.1) [40]. A p-value smaller than 0.05 was considered statistically significant.
+
+Recently, we have identified exonuclease 1 (EXO1) as a candi- date for a novel longevity-enabling gene in a targeted approach by analyzing 92 nonsynonymous single nucleotide polymorphisms (nsSNPs) in 49 DNA repair genes [29]. Nonsynonymous SNPs result in amino acid changes and are likely to affect the structure and function of the produced protein. Together with SNPs in regulatory regionstheyaresupposedtohavethehighestimpactonthepheno- type [30]. In the present study, we have applied the same targeted nsSNP approach for the investigation of additional longevity path- ways(IISandenergymetabolism,intracellularsignalling,apoptosis and stress response) and genes in which mutations lead to genetic perturbations in animal models or to human diseases. Altogether, we tested 500 nsSNPs in 343 candidate genes for association with thelongevityphenotypeinaGermansamplecomprisingabout400 centenarians and an equal number of younger control subjects.
+
+3. Results
+
+In this investigation, 386 German centenarians (100–110 years) were compared to 410 appropriately matched younger controls (60–75 years) using an established longevity study design [31]. In 343 candidate genes, we typed 500 nsSNPs that represent a sub- set of a large panel described in detail elsewhere [34]. Gender- and region-matchedcase–controlanalyseswereperformedattheallele (CCA) and genotype (CCG) levels (Supplementary Table).
+
+2. Material and methods
+
+The three top-ranking markers with respect to P (rs770087, CCA rs2301582andrs648802)werelocatedinthreedifferentgenes[the dual specificity phosphatase 6 (DUSP6, GenBank No. BC037236), the NACHT leucine-rich-repeat protein 1 (NALP1, GenBank No. AB023143) and the p53 apoptosis effector related to PMP22 (PERP, GenBank No. AF317550)] and showed each a P ≤0.01 in the CCA entire sample (Table 1a). A subgroup analysis yielded similar p- values and frequency distributions for females (Table 1b). Because of the limited number of male centenarians (n=82) we did not per- form a male-specific analysis. None of the significant P values CCA of the three SNPs remained significant when adjusted for multiple testing by the conservative Bonferroni method or the false discov- ery method (Tables 1a and 1b). As the screening represented the explorative stage of this study and only served to identify markers for genetic replication, the three SNPs were subsequently geno- typed in an independent French collection of 541 centenarians and 469 younger controls. However, the genetic association observed in Germans could not be confirmed in the French (Table 2), nei- ther in the entire sample nor in the sex-specific analysis (data not shown). Also the combined investigation of both Germans and FrenchdidnotyieldmoresignificantvaluesthanforGermansalone (Table 3). The French study had a power of 50–80% to replicate the Germanfindings(80%forrs770087assuminganORof1.5asinGer- mans and 50% for rs2301582 and rs648802 each with an OR of 1.3 [Supplementary Fig. 1]). A sample size of about 1000 cases (with a case–control-ratio of 1) would be required to gain 80% power for the replication of SNP rs2301582 and rs648802 (Supplementary Fig. 2).
+
+2.1. Study participants
+
+Asampleof386unrelatedGermancentenarianswasstudiedwhowerebetween 100 and 110 years of age at the time of recruitment (mean age: 101.3 years). The gender ratio was 79% females vs. 21% males. The 410 German control subjects were between 60 and 75 years of age (mean age: 66.6 years). They were collected by the same means to ensure that they match the centenarians as closely as possible in terms of ancestry, gender and geographical origin within the country [31]. The recruitment was performed in such a way as to minimize any systematic genetic differences between case and control samples that might arise due to very low lev- els of undetected population structure. The comparison of both groups revealed a genomicinflationfactor(cid:3)of1.00(basedon200random,genome-wideSNPs),indi- catingaverywellmatchedcollection.TheFrenchreplicationsamplecomprised541 centenarians(meanage:103.6years)and469youngercontrols(18–70years;mean 51.2 years) as described previously [32]. The gender ratio in the entire sample was 84.3% females vs. 15.7% males. To test for population stratification, 57 microsatel- litesfromtheAppliedBiosystemsLMS-MD10panelthatwerelocatedon6different chromosomes (chromosomes 2, 9, 10, 11, 17, and 18) were tested in all cases and controls.(cid:2)2-valueswerecalculatedfromtheallelecounts.Theobtainedmean(cid:2)2 of the G-test statistics for the markers was 1.00, which reflected the good matching of the French sample collection [33]. All German and French subjects gave informed, written consent prior to participation. The study was approved by the respective Ethics Committees of the participating centers.
+
+2.2. Gene and SNP selection
+
+The genes of interest were derived from extensive literature research and from the Panther Classification System (http://panther.appliedbiosystems.com/ navigation.jsp). They belong to longevity pathways (IIS and energy metabolism, apoptosis, cell cycle control, stress response and intracellular signaling) or are basedongeneticperturbationsinanimalmodelsandonhumandiseases.Theinves- tigated nsSNP-assays were obtained from Applied Biosystems (Foster City, USA) and represent a subset of a large panel of 19779 nsSNPs described elsewhere [34] (http://marketing.appliedbiosystems.com/mk/get/GAAS HUMAN SNPGENO#). Altogether, we investigated 500 nsSNPs in 343 candidate genes (Supplementary
+
+In our analysis of the three candidate SNPs in the German and French samples, we also adjusted for APOE, the only gene shown to have a large effect (OR≈2) on longevity [17,19], to reduce possible bias and confounding as well as to generate better estimates of the ORs. The results differed only negligibly from the non-adjusted ones (data not shown).
+
+(http://marketing.appliedbiosystems.com/mk/get/GAAS HUMAN SNPGENO#). Altogether, we investigated 500 nsSNPs in 343 candidate genes (Supplementary Table).
+
+2.3. Genotyping methods
+
+Genotyping of the German samples was performed with the SNPlexTM Geno- typing System (Applied Biosystems, Foster City, USA) [35]. The typing in the French replication sample was carried out with TaqMan® SNP Genotyping Assays (Applied Biosystems).
+
+4. Discussion
+
+Previously, we have identified a polymorphism in the EXO1 gene as a likely modulator of human longevity in a targeted nsSNP approach [29]. Such an experiment is rapid and cost-efficient as it allows the direct evaluation of possible functional variants. Here, we applied the same strategy for the investigation of addi-
+
+2.4. Statistical analysis
+
+Single marker case–control analyses on allele and genotype frequency data were performed with (cid:2)2-statistics with the open-source software GENOMIZER [36] (http://www.ikmb.uni-kiel.de/software.html). All analyzed nsSNPs had a minor allele frequency of at least 1%, a minimal overall call rate of 94% and
+
+Table 1a
+
+Longevity association statistics for three nsSNPs (German sample).
+
+dbSNP ID Gene Chromosome Alleles MAF controls Corresponding P P OR 95% CI P CCA CCG additive n=410 AF centenarians n=386 rs770087 DUSP6 12 A/C 0.205 (C) 0.145 0.002 0.004 1.53 1.18–1.99 0.002 rs2301582 NALP1 17 C/T 0.385 (T) 0.448 0.011 0.016 1.30 1.06 –1.58 0.011 rs648802 PERP 6 C/G 0.430 (G) 0.493 0.012 0.045 1.29 1.06–1.57 0.015
+
+MAF, minor allele frequency; AF, allele frequency; P , p-value obtained from an allele-based case–control comparison, using a (cid:2)2-test with 1 degree of freedom (df); P , p-value CCA CCG comparison, using a (cid:2)2-test with 2df; OR, odds ratio for attaining old age; 95% CI, 95% confidence interval for OR; P , p-value obtained from logistic regression analysis using an additive (multiplicativity of the odds ratios); P , p-value obtained from logistic regression analyzing the dominant–recessive model with the first allele dominant; P , p-value dom rez 1 dom rez 2 dominant–recessive model with the second allele dominant; Bonferroni, P value adjusted by the classical Bonferroni method for multiple testing (500 tests); Benjamini, P value CCA CCA of Benjamini et al. [39] for all 500 SNPs.
+
+Table 1b
+
+Subgroup analysis (females only) for three nsSNPs (German sample).
+
+dbSNP ID Gene Chromosome Alleles MAF controls Corresponding P P OR 95% CI P P P CCA CCG additive dom rez 1 dom rez 2 n=332 AF centenarians n=304 rs770087 DUSP6 12 A/C 0.204 (C) 0.151 0.013 0.040 1.45 1.08–1.92 0.015 0.059 0.036 rs2301582 NALP1 17 C/T 0.389 (T) 0.453 0.021 0.046 1.30 1.04–1.63 0.024 0.039 0.153 rs648802 PERP 6 C/G 0.432 (G) 0.513 0.004 0.019 1.39 1.11–1.73 0.005 0.037 0.012
+
+Table 2
+
+Longevity association statistics for replication in French sample.
+
+dbSNP ID Gene Chromosome Alleles MAF controls Corresponding P P OR CCA CCG n=469 AF centenarians n=541 rs770087 DUSP6 12 A/C 0.184 (C) 0.193 0.599 0.622 1.06 rs2301582 NALP1 17 C/T 0.353 (T) 0.368 0.486 0.762 1.07 rs648802 PERP 6 C/G 0.413 (G) 0.410 0.891 0.839 1.01
+
+Table 3
+
+Longevity association statistics for the combined analysis of the German and French samples.
+
+dbSNP ID Gene Chromosome Alleles MAF controls Corresponding P P OR 95% CI P P P CCA CCG additive dom rez 1 dom rez 2 n=879 AF centenarians n=927 rs770087 DUSP6 12 A/C 0.194 (C) 0.173 0.112 0.245 1.16 0.98–1.37 0.102 0.323 0.128 rs2301582 NALP1 17 C/T 0.368 (T) 0.402 0.037 0.053 1.16 1.01–1.33 0.037 0.019 0.212 rs648802 PERP 6 C/G 0.421 (G) 0.445 0.151 0.225 1.10 0.97–1.26 0.158 0.097 0.460
+
+tional genes involved in various longevity pathways. Three of the tested 500 nsSNPs revealed a P ≤0.01. They are located in CCA three different genes: DUSP6, NALP1 and PERP. All of them are involved in the induction of apoptosis [41–43] and other diverse pathways linked to longevity or the aging process. The DUSP6 protein negatively regulates members of the mitogen-activated protein (MAP) kinase superfamily (MAPK/ERK, SAPK/JNK, p38), which are associated with cellular proliferation and differenti- ation [44–46]. Additionally, down-regulation of DUSP6 protein expression enhances carcinogenesis [47–49]. Its function as a tumor-suppressor gene [48,50] renders DUSP6 a potential modifier of human longevity. Due to its involvement in apoptosis and cell cycle control [51], down-regulation of PERP has also been linked to different types of cancer [52–54]. Besides its role as a key media- tor of programmed cell death [42] NALP1 plays an important role in the immune system [55–56] and DNA sequence variants in the NALP1 region were shown to be associated with the risk of several epidemiologically associated autoimmune and autoinflammatory diseases [57]. Hence, DUSP6, NALP1 and PERP are very good can- didates for influencing human health and, thus, longevity. Genetic variants that are more frequent in the long-lived than in the control population (the T-allele of nsSNP rs2301582 [NALP1] and the G- allele of rs648802 [PERP]; Table 1) can be regarded as beneficial by enhancing tumor-suppressor activity (PERP) or strengthening the immune system (NALP1). In contrast, genetic variation that inter- feres with proper protein function could have detrimental effects on human health and would therefore be expected to be less fre- quent in population strata of increasing age, as already seen for APOE [6,17] and the alpha-2-macroglobolin gene (A2M) [58]. This may also be the case for the C-allele of rs770087 in the DUSP6 gene that is less frequent in the case population (Table 1) and could potentially promote carcinogenesis by down-regulation or distur- bance of DUSP6 protein expression. Although it is feasible that the three tested variants rs770087, rs2301582 and rs648802 influence humanlongevity,analysesinalargerFrenchreplicationsampledid not confirm our initial observations in Germans.
+
+of the largest centenarian collections to-date. The French sample had a power of 80% to replicate an association with an OR of 1.5 (as observed for SNP rs770087 in Germans; Supplementary Fig. 1). However, with an OR of 1.3 (as for rs2301582 and rs648802 in Germans), a sample size of about 1000 cases (with a case–control- ratio of 1) would be required for 80% power (Supplementary Fig. 2). Hence, to identify candidate genes with modest effects and to overcome the well-known replication problems in association experiments, it may be necessary to increase the study power by enlarging samples. Therefore, large-scale international coopera- tions like the GEnetic of Healthy Aging (GEHA) project [66], which studies thousands of long-lived individuals, provide a promising approach for future analyses and replication experiments. Another strategy is to perform meta-analyses. On the other hand, the failed replication in the French might be due to a population-specific effect, as different genetic and environmental factors and possi- ble interactions might cause certain effects in specific populations [67–70].
+
+With 343 genes investigated, our study presents one of the largest candidate studies in human longevity research to-date. Thus, the considerable number of analysis results (Supplementary Table)isdeemedavaluablereferencepointforfurthergeneticstud- ies and helps to provide a balanced view of all obtained research evidence.
+
+Conflict of interest statement
+
+None.
+
+Acknowledgements
+
+We thank all study participants for their cooperation. For excel- lent technical assistance, we wish to acknowledge the laboratory personnel of the Institute of Clinical Molecular Biology as well as the staff of the Biological Resource Center of the Fondation Jean Dausset-CEPH. The authors are grateful to the technical and logistic support and helpful discussions with Simone Günther and Andrea Toeppel from Applied Biosystems. This study was supported by (1) the German Federal Ministry of Science and Education (BMBF) through an Explorative Project of the National Genome Research Network (NGFN), (2) the DFG Excellence Cluster ‘Inflammation at Interfaces’ and (3) the French Ministère de l’Enseignement Supérieur et de la Recherche.
+
+Although several life span-controlling genes have already been identifiedinflies,wormsandyeast,itisstillnotcleartowhatextent they account for variation that influences survival at advanced age in humans. With the identification of FOXO3A and EXO1 as modi- fiers of human longevity it was demonstrated for the first time that genetic information obtained from pathways in model organisms (i.e. IIS and DNA repair, respectively) can be translated to human ageing [18–21,29,59]. But as seen in this and other studies [12,60], most of the findings from laboratory organisms cannot be easily transferred. Since humans have acquired more diverse pathways, the signaling systems in these pathways have become more robust and are therefore more resistant to changes in their components or in the environment [12,61,62]. Moreover, the human genome often contains several homologues of a single invertebrate gene, which may compensate the function of the original gene, and is therefore more tolerant to a so-called mutation load [63]. Furthermore, envi- ronmentalinfluencescanleadtoadifferentexpressionofgenotypic information. Besides, human genetic longevity studies often con- centrate on genes that were identified in mutant model organisms living under laboratory conditions [12,64]. Hence, all these argu- ments suggest that the comparability of results between model organisms and humans might be limited.
+
+Appendix A. Supplementary data
+
+Supplementary data associated with this article can be found, in online version, at doi:10.1016/j.mrfmmm.2010.08.006.
+
+References
+
+[
+
+] M. M
+
+ue, J.W. Vaupel, N. Holm, B. Harvald, Longevity is moderately heritable inasampleo
+
+anishtwinsborn
+
+–
+
+,J.Gerontol.
+
+(
+
+)B
+
+–
+
+[
+
+] A.M.Herskind,M.M
+
+ue,N.V.Holm,T.I.Sorensen,B.Harvald,J.W.Vaupel,The heritabilityofhumanlongevity:apopulation-basedstudyof
+
+Danishtwin pairs born
+
+–
+
+, Hum. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] T.T.Perls,J.Wilmoth,R.Levenson,M.Drinkwater,M.Cohen,H.Bogan,E.Joyce,S. Brewster,L.Kunkel,A.Puca,Life-longsustainedmortalityadvantageofsiblings of centenarians, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] A. Skytthe, N.L. Pedersen, J. Kaprio, M.A. Stazi, J.V. Hjelmborg, I. Iachine, J.W. Vaupel,K.Christensen,Longevitystudiesi
+
+eno
+
+Utwin,Twin.Res.
+
+(
+
+)
+
+–
+
+[
+
+] J.v.B.Hjelmborg,I.Iachine,A.Skytthe,J.W.Vaupel,M.M
+
+ue,M.Koskenvuo,J. Kaprio,N.L.Pedersen,K.Christensen,Geneticinfluenceonhumanlifespanand longevity, Hum. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] F.Schächter,L.Faure-Delanef,F.Guenot,H.Rouger,P.Froguel,L.Lesueur-Ginot, D.Cohen,Geneticassociationswithhumanlongevityatth
+
+POEan
+
+CEloci, Nat. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] T. Perls, L.M. Kunkel, A.A. Puca, The genetics of exceptional human longevity, J. Am. Geriatr. Soc.
+
+(
+
+)
+
+–
+
+[1] M. McGue, J.W. Vaupel, N. Holm, B. Harvald, Longevity is moderately heritable inasampleofDanishtwinsborn1870–1880,J.Gerontol.48(1993)B237–244. [2] A.M.Herskind,M.McGue,N.V.Holm,T.I.Sorensen,B.Harvald,J.W.Vaupel,The heritabilityofhumanlongevity:apopulation-basedstudyof2872Danishtwin
+
+There are several possible explanations for the lack of detect- ing or replicating a longevity association. The most probable one is the sample size required to detect associations of small effect. Since human longevity is considered a complex trait, most genetic variants are expected to have only weak to moderate effects [17]. Therefore, we decided to focus on those individuals with the most advanced longevity phenotype and strongest genetic contribution, the centenarians [5,19,65]. The replication was conducted with one
+
+F. Flachsbart et al. / [
+
+] T.B. Kirkwood, S.N. Austad, Why do we age? Nature
+
+(
+
+)
+
+–
+
+[
+
+] L.Partridge,D.Gems,Mechanismsofageing:publicorprivate?Nat.Rev.Genet.
+
+(
+
+)
+
+–
+
+[
+
+] E.D. Smith, M. Tsuchiya, L.A. Fox, N. Dang, D. Hu, E.O. Kerr, E.D. Johnston, B.N. Tchao, D.N. Pak, K.L. Welton, D.E.L. Promislow, J.H. Thomas, M. Kaeberlein, B.K. Kennedy, Quantitative evidence for conserved longevity pathways between divergent eukaryotic species, Genome Res.
+
+(
+
+)
+
+–
+
+[
+
+] L. Guarente, Aging, What makes us tick? Science
+
+(
+
+)
+
+–
+
+[
+
+] M.Kuningas,S.P.Mooijaart,D.va
+
+eemst,B.J.Zwaan,P.E.Slagboom,R.G.Wes- tendorp, Genes encoding longevity: from model organisms to humans, Aging Cell
+
+(
+
+)
+
+–
+
+[
+
+] S.I. Rattan, Theories of biological aging: genes, proteins, and free radicals, Free Radic. Res.
+
+(
+
+)
+
+–
+
+[
+
+] C Kenyon, J. Chang, E. Gensch, A. Rudner, R. Tabtiang, A C. elegans mutant that lives twice as long as wild type, Nature
+
+(
+
+)
+
+–
+
+[
+
+] V.T. Mihaylova, C.Z. Borland, L. Manjarrez, M.J. Stern, H. Sun, The PTEN tumor suppressor homolog in Caenorhabditis elegans regulates longevity and dauer formation in an insulin receptor-like signaling pathway, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] D.S. Hwangbo, B. Gershman, M.P. Tu, M. Palmer, M. Tatar, Drosophila
+
+OXO controls lifespan and regulates insulin signalling in brain and fat body, Nature
+
+(
+
+)
+
+–
+
+[
+
+] K.Christensen,T.E.Johnson,J.W.Vaupel,Thequestforgeneticdeterminantsof human longevity: challenges and insights, Nat. Rev. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] C.V. Anselmi, A. Malovini, R. Roncarati, V. Novelli, F. Villa, G. Condorelli, R. Bel- lazzi, A.A. Puca, Association of the FOXO
+
+A Locus with Extreme Longevity in a Southern Italian Centenarian Study, Rejuvenation Res.
+
+(
+
+)
+
+–
+
+[
+
+] F. Flachsbart, A. Caliebe, R. Kleindorp, H. Blanche, H. von Eller-Eberstein, S. Nikolaus, S. Schreiber, A. Nebel, Association of FOXO
+
+A variation with human longevity confirmed in German centenarians, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] L. Pawlikowska, D. Hu, S. Huntsman, A. Sung, C. Chu, J. Chen, A.H. Joyner, N.J. Schork, W.-C. Hsueh, A.P. Reiner, B.M. Psaty, G. Atzmon, N. Barzilai, S.R. Cummings, W.S. Browner, P.-Y. Kwok, E. Ziv, Association of common genetic variation in the insulin/IGF
+
+signaling pathway with human longevity, Aging Cell
+
+(
+
+)
+
+–
+
+[
+
+] B.J. Willcox, T.A. Donlon, Q. He, R. Chen, J.S. Grove, K. Yano, K.H. Masaki, D.C. Willcox, B. Rodriguez, J.D. Curb, FOXO
+
+A genotype is strongly associated with human longevity, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] D.J. Clancy, D. Gems, L.G. Harshman, S. Oldham, H. Stocker, E. Hafen, S.J. Leev- ers, L. Partridge, Extension of life-span by loss of CHICO, a Drosophila insulin receptor substrate protein, Science
+
+(
+
+)
+
+–
+
+[
+
+] M Tatar, A. Kopelman, D. Epstein, M.P. Tu, C.M. Yin, R.S. Garofalo, A mutant Drosophila insulin receptor homolog that extends life-span and impairs neu- roendocrine function, Science
+
+(
+
+)
+
+–
+
+[
+
+] M. Bluher, B.B. Kahn, C.R. Kahn, Extended longevity in mice lacking the insulin receptor in adipose tissue, Science
+
+(
+
+)
+
+–
+
+[
+
+] M.Holzenberger,J.Dupont,B.Ducos,P.Leneuve,A.Geloen,P.C.Even,P.Cervera, Y. Le Bouc, IGF-
+
+receptor regulates lifespan and resistance to oxidative stress in mice, Nature
+
+(
+
+)
+
+–
+
+[
+
+] D. Gems, J.J. M
+
+lwee, Ageing: microarraying mortality, Nature
+
+(
+
+)
+
+–
+
+[
+
+] M.F. White, Insulin signaling in health and disease, Science
+
+(
+
+)
+
+–
+
+[
+
+] C. Kenyon, The plasticity of aging: insights from long-lived mutants, Cell
+
+(
+
+)
+
+–
+
+[
+
+] A.Nebel,F.Flachsbart,A.Till,A.Caliebe,H.Blanché,A.Arlt,R.Häsler,G.Jacobs, R. Kleindorp, A. Franke, B. Shen, S. Nikolaus, M. Krawczak, P. Rosenstiel, S. Schreiber, A functional EXO
+
+promoter variant is associated with prolonged life expectancy in centenarians, Mech. Ageing Dev.
+
+(
+
+)
+
+–
+
+[
+
+] V. Ramensky, P. Bork, S. Sunyaev, Human non-synonymous SNPs: server and survey, Nucl. Acids Res.
+
+(
+
+)
+
+–
+
+[
+
+] A. Nebel, P.J. Croucher, R. Stiegeler, S. Nikolaus, M. Krawczak, S. Schreiber, No associationbetweenmicrosomaltriglyceridetransferprotein(MTP)haplotype and longevity in humans, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] H.Blanché,L.Cabanne,M.Sahbatou,G.Thomas,Astudyo
+
+renchcentenarians: are ACE and APOE associated with longevity? C. R. Acad. Sci. III
+
+(
+
+)
+
+–
+
+[
+
+] B.J. Geesaman, E. Benson, S.J. Brewster, L.M. Kunkel, H. Blanche, G. Thomas, T.T. Perls, M.J. Daly, A.A. Puca, Haplotype-based identification of a microsomal transfer protein marker associated with the human lifespan, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] J. Hampe, A. Franke, P. Rosenstiel, A. Till, M. Teuber, K. Huse, M. Albrecht, G. Mayr, F.M. De La Vega, J. Briggs, S. Gunther, N.J. Prescott, C.M. Onnie, R. Hasler, B. Sipos, U.R. Folsch, T. Lengauer, M. Platzer, C.G. Mathew, M. Krawczak, S. Schreiber,Agenome-wideassociationscanofnonsynonymou
+
+NPsidentifies a susceptibility variant for Crohn disease in ATG
+
+L
+
+, Nat. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] F.M. De la Vega, K.D. Lazaruk, M.D. Rhodes, M.H. Wenz, Assessment of two flexible and compatible SNP genotyping platforms: Ta
+
+an SNP Genotyping assays and the SNPlex genotyping system, Mutat. Res.
+
+(
+
+)
+
+–
+
+[
+
+] A.Franke,A.Wollstein,M.Teuber,M.Wittig,T.Lu,K.Hoffmann,P.Nurnberg,M. Krawczak, S. Schreiber, J. Hampe, GENOMIZER: an integrated analysis system for genome-wide association data, Hum. Mutat.
+
+(
+
+)
+
+–
+
+[
+
+] S. Purcell, B. Neale, K. Todd-Brown, L. Thomas, M.A. Ferreira, D. Bender, J. Maller, P. Sklar, P.I. de Bakker, M.J. Daly, P.C. Sham, PLINK: a tool set for whole-
+
+genomeassociationandpopulation-basedlinkageanalyses,Am.J.Hum.Genet.
+
+(
+
+)
+
+–
+
+[
+
+] W.D.Dupont,W.D.Plumme
+
+r.,Powerandsamplesizecalculationsforstudies involving linear regression, Control. Clin. Trials
+
+(
+
+)
+
+–
+
+[
+
+] Y.Benjamini,A.M.Krieger,D.Yekutieli,Adaptivelinearstep-upproceduresthat control the false discovery rate, Biometrika
+
+(
+
+)
+
+–
+
+[
+
+] R Development Core Team, A language and environment for statistical computing, R Foundation for Statistical Computing, Vienna, Austria, ISBN
+
+-
+
+-
+
+-
+
+(
+
+) URL http://www.R-project.org. [
+
+] R.A. Ihrie, E. Reczek, J.S. Horner, L. Khachatrian, J. Sage, T. Jacks, L.D. Attardi, Perpisamediatorofp
+
+-Dependentapoptosisindiversecelltypes,Curr.Biol.
+
+(
+
+)
+
+–
+
+[
+
+] F. Liu, C.F. Lo, X. Ning, E.M. Kajkowski, M. Jin, C. Chiriac, C. Gonzales, S. Nau- reckiene, Y.-W. Lock, K. Pong, M.M. Zaleska, J.S. Jacobsen, S. Silverman, B.A. Ozenberger, Expression of NALP
+
+in cerebellar granule neurons stimulates apoptosis, Cell. Signal.
+
+(
+
+)
+
+–
+
+[
+
+] L. Rössig, J. Haendeler, C. Hermann, P. Malchow, C. Urbich, A.M. Zeiher, S. Dim- meler, Nitric oxide down-regulates MKP-
+
+NA levels, J. Biol. Chem.
+
+(
+
+)
+
+–
+
+[
+
+] L.A. Groom, A.A. Sneddon, D.R. Alessi, S. Dowd, S.M. Keyse, Differential reg- ulation of the MAP, SAP and RK/p
+
+kinases by Pyst
+
+, a novel cytosolic dual-specificity phosphatase, Embo J.
+
+(
+
+)
+
+–
+
+[
+
+] R Seger, E. Krebs, The MAPK signaling cascade, FASEB J.
+
+(
+
+)
+
+–
+
+[
+
+] N.A. Zeliadt, L.J. Mauro, E.V. Wattenberg, Reciprocal regulation of extracellular signalregulatedkinase
+
+/
+
+andmitogenactivatedproteinkinasephosphatase-
+
+, Toxicol. Appl. Pharmacol.
+
+(
+
+)
+
+–
+
+[
+
+] D.W. Chan, V.W.S. Liu, G.S.W. Tsao, K.-M. Yao, T. Furukawa, K.K.L. Chan, H.Y.S. Ngan,Losso
+
+KP
+
+mediatedbyoxidativestressenhancestumorigenicityand chemoresistanceofovariancancercells,Carcinogenesis
+
+(
+
+)
+
+–
+
+[
+
+] K. Okudela, T. Yazawa, T. Woo, M. Sakaeda, J. Ishii, H. Mitsui, H. Shimoyamada, H. Sato, M. Tajiri, N. Ogawa, M. Masuda, T. Takahashi, H. Sugimura, H. Kita- mura, Down-regulation of DUSP
+
+expression in lung cancer: its mechanism and potential role in carcinogenesis, Am. J. Pathol.
+
+(
+
+)
+
+–
+
+[
+
+] S. Xu, T. Furukawa, N. Kanai, M. Sunamura, A. Horii, Abrogation of DUSP
+
+by hypermethylation in human pancreatic cancer, J. Hum. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] T. Furukawa, M. Sunamura, A. Horii, Molecular mechanisms of pancreatic car- cinogenesis, Cancer Sci.
+
+(
+
+)
+
+–
+
+[
+
+] L.D. Attardi, E.E. Reczek, C. Cosmas, E.G. Demicco, M.E. M
+
+urrach, S.W. Lowe, T. Jacks, PERP, an apoptosis-associated target of p
+
+, is a novel member of the PMP-
+
+/gas
+
+family, Gen. Dev.
+
+(
+
+)
+
+–
+
+[
+
+] L Davies, D. Gray, D. Spiller, M.R.H. White, B. Damato, I. Grierson, L. Paraoan, P
+
+apoptosis mediator PERP: localization, function and caspase activation in uveal melanoma, J. Cell. Mol. Med.
+
+(
+
+)
+
+–
+
+[
+
+] T.Hildebrandt,J.Preiherr,N.Tarbe,S.Klostermann,G.N.Va
+
+uijen,U.H.Wei- dle, Identification of THW, a putative new tumor suppressor gene, Anticancer Res.
+
+(
+
+)
+
+–
+
+[
+
+] LParaoan,D.Gray,P.Hiscott,B.Ebrahimi,B.Damato,I.Grierson,Expressionof p
+
+-induced apoptosis effector PERP in primary uveal melanomas: downreg- ulation is associated with aggressive type, Exp. Eye Res.
+
+(
+
+)
+
+–
+
+[
+
+] Z.-L. Chu, F. Pio, Z. Xie, K. Welsh, M. Krajewska, S. Krajewski, A. Godzik, J.C. Reed, A novel enhancer of the Apaf
+
+apoptosome involved in cytochrome c-dependent caspase activation and apoptosis, J. Biol. Chem.
+
+(
+
+)
+
+–
+
+[
+
+] F. Martinon, K. Burns, J. Tschopp, The inflammasome: a molecular platform triggering activation of inflammatory caspases and processing of pr
+
+L-[beta], Mol. Cell
+
+(
+
+)
+
+–
+
+[
+
+] Y. Jin, C.M. Mailloux, K. Gowan, S.L. Riccardi, G. L
+
+erge, D.C. Bennett, P.R. Fain, R.A.Spritz,NALP
+
+invitiligo-associatedmultipleautoimmunedisease,N.Engl. J. Med.
+
+(
+
+)
+
+–
+
+[
+
+] F. Flachsbart, A. Caliebe, M. Nothnagel, R. Kleindorp, S. Nikolaus, S. Schreiber, A. Nebel, Depletion of potential A
+
+M risk haplotype for Alzheimer’s disease in long-lived individuals, Eur. J. Hum. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] Y. Li, W.J. Wang, H. Cao, J. Lu, C. Wu, F.Y. Hu, J. Guo, L. Zhao, F. Yang, Y.X. Zhang, W. Li, G.Y. Zheng, H. Cui, X. Chen, Z. Zhu, H. He, B. Dong, X. Mo, Y. Zeng, X.L. Tian, Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations, Hum. Mol. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] F. Flachsbart, P.J. Croucher, S. Nikolaus, J. Hampe, C. Cordes, S. Schreiber, A. Nebel, Sirtuin
+
+(SIRT
+
+) sequence variation is not associated with exceptional human longevity, Exp. Gerontol.
+
+(
+
+)
+
+–
+
+[
+
+] R.E.Lenski,C.Ofria,R.T.Pennock,C.Adami,Theevolutionaryoriginofcomplex features, Nature
+
+(
+
+)
+
+–
+
+[
+
+] O.S. Soyer, S. Bonhoeffer, Evolution of complexity in signaling pathways, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] X.Gu,Evolutionofduplicategenesversusgeneticrobustnessagainstnullmuta- tions, Trends Genet.
+
+(
+
+)
+
+–
+
+[
+
+] L. Partridge, D. Gems, Benchmarks for ageing studies, Nature
+
+(
+
+)
+
+–
+
+[
+
+] Q.Tan,J.H.Zhao,D.Zhang,T.A.Kruse,K.Christensen,Powerforgeneticassocia- tionstudyofhumanlongevityusingthecase–controldesign,Am.J.Epidemiol. (
+
+). [
+
+] C. Franceschi, V. Bezrukov, H. Blanche, L. Bolund, K. Christensen, G. de Bene- dictis, L. Deiana, E. Gonos, A. Hervonen, H. Yang, B. Jeune, T.B. Kirkwood, P. Kristensen, A. Leon, P.G. Pelicci, L. Peltonen, M. Poulain, I.M. Rea, J. Remacle, J.M. Robine, S. Schreiber, E. Sikora, P.E. Slagboom, L. Spazzafumo, M.A. Stazi, O. Toussaint, J.W. Vaupel, Genetics of healthy aging in Europe: the EU-integrated
+
+Drosophila insulin receptor homolog that extends life-span and impairs neu- roendocrine function, Science
+
+(
+
+)
+
+–
+
+[
+
+] M. Bluher, B.B. Kahn, C.R. Kahn, Extended longevity in mice lacking the insulin receptor in adipose tissue, Science
+
+(
+
+)
+
+–
+
+[
+
+] M.Holzenberger,J.Dupont,B.Ducos,P.Leneuve,A.Geloen,P.C.Even,P.Cervera, Y. Le Bouc, IGF-
+
+receptor regulates lifespan and resistance to oxidative stress in mice, Nature
+
+(
+
+)
+
+–
+
+[
+
+] D. Gems, J.J. M
+
+lwee, Ageing: microarraying mortality, Nature
+
+(
+
+)
+
+–
+
+[
+
+] M.F. White, Insulin signaling in health and disease, Science
+
+(
+
+)
+
+–
+
+[
+
+] C. Kenyon, The plasticity of aging: insights from long-lived mutants, Cell
+
+(
+
+)
+
+–
+
+[
+
+] A.Nebel,F.Flachsbart,A.Till,A.Caliebe,H.Blanché,A.Arlt,R.Häsler,G.Jacobs, R. Kleindorp, A. Franke, B. Shen, S. Nikolaus, M. Krawczak, P. Rosenstiel, S. Schreiber, A functional EXO
+
+promoter variant is associated with prolonged life expectancy in centenarians, Mech. Ageing Dev.
+
+(
+
+)
+
+–
+
+[
+
+] V. Ramensky, P. Bork, S. Sunyaev, Human non-synonymous SNPs: server and survey, Nucl. Acids Res.
+
+(
+
+)
+
+–
+
+[
+
+] A. Nebel, P.J. Croucher, R. Stiegeler, S. Nikolaus, M. Krawczak, S. Schreiber, No associationbetweenmicrosomaltriglyceridetransferprotein(MTP)haplotype and longevity in humans, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] H.Blanché,L.Cabanne,M.Sahbatou,G.Thomas,Astudyo
+
+renchcentenarians: are ACE and APOE associated with longevity? C. R. Acad. Sci. III
+
+(
+
+)
+
+–
+
+[
+
+] B.J. Geesaman, E. Benson, S.J. Brewster, L.M. Kunkel, H. Blanche, G. Thomas, T.T. Perls, M.J. Daly, A.A. Puca, Haplotype-based identification of a microsomal transfer protein marker associated with the human lifespan, Proc. Natl. Acad. Sci. U.S.A.
+
+(
+
+)
+
+–
+
+[
+
+] J. Hampe, A. Franke, P. Rosenstiel, A. Till, M. Teuber, K. Huse, M. Albrecht, G. Mayr, F.M. De La Vega, J. Briggs, S. Gunther, N.J. Prescott, C.M. Onnie, R. Hasler, B. Sipos, U.R. Folsch, T. Lengauer, M. Platzer, C.G. Mathew, M. Krawczak, S. Schreiber,Agenome-wideassociationscanofnonsynonymou
+
+NPsidentifies a susceptibility variant for Crohn disease in ATG
+
+L
+
+, Nat. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] F.M. De la Vega, K.D. Lazaruk, M.D. Rhodes, M.H. Wenz, Assessment of two flexible and compatible SNP genotyping platforms: Ta
+
+an SNP Genotyping assays and the SNPlex genotyping system, Mutat. Res.
+
+(
+
+)
+
+–
+
+[
+
+] A.Franke,A.Wollstein,M.Teuber,M.Wittig,T.Lu,K.Hoffmann,P.Nurnberg,M. Krawczak, S. Schreiber, J. Hampe, GENOMIZER: an integrated analysis system for genome-wide association data, Hum. Mutat.
+
+(
+
+)
+
+–
+
+[
+
+] S. Purcell, B. Neale, K. Todd-Brown, L. Thomas, M.A. Ferreira, D. Bender, J.
+
+[
+
+] C.Franceschi,M.Capri,D.Monti,S.Giunta,F.Olivieri,F.Sevini,M.P.Panourgia,L. Invidia,L.Celani,M.Scurti,E.Cevenini,G.C.Castellani,S.Salvioli,Inflammaging andanti-inflammaging:asystemicperspectiveonagingandlongevityemerged from studies in humans, Mech. Ageing Dev.
+
+(
+
+)
+
+–
+
+[
+
+] O. Varcasia, S. Garasto, T. Rizza, K. Andersen-Ranberg, B. Jeune, L. Bathum, K. Andreev, Q. Tan, A.I. Yashin, M. Bonafe, C. Franceschi, G. De Benedictis, Repli- cation studies in longevity: puzzling findings in Danish centenarians at the
+
+’APOB-VNTR locus, Ann. Hum. Genet.
+
+(
+
+)
+
+–
+
+project GEHA (GEnetics of Healthy Aging), Ann. N.Y. Acad. Sci.
+
+(
+
+)
+
+–
+
+[
+
+] A. Caliebe, R. Kleindorp, H. Blanche, L. Christiansen, A.A. Puca, I.M. Rea, E. Slag- boom, F. Flachsbart, K. Christensen, G. Rimbach, S. Schreiber, A. Nebel, No or onlypopulation-specificeffecto
+
+ON
+
+onhumanlongevity:acomprehensive meta-analysis, Ageing Res. Rev.
+
+(
+
+)
+
+–
+
+[
+
+] G. De Benedictis, C. Franceschi, The unusual genetics of human longevity, Sci. Aging Knowledge Environ. (
+
+) pe

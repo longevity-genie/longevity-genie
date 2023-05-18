@@ -1,0 +1,587 @@
+AssociationofCYP19andESR1PleiotropicGenesWith HumanLongevity
+
+RosaMariaCorbo,1,2LauraUlizzi,1LidiaPositano,3andRenatoScacchi2
+
+2CNRInstituteofMolecularBiologyandPathology,Rome,Italy. 3CORISAConsortium,Salerno,Italy.
+
+Rome,Italy.Email:rosamaria.corbo@uniroma1.it
+
+Aromatase(CYP19)andestrogenreceptor-alpha(ESR1)areinvolvedinthemetabolismofestrogens,whichhavearele- vantroleinfemaleandmaleaging.Moreover,duetotheirinfluenceonfertility,bothgenesmaybepartofthelongevity– associatedwithreducedfertilityinthesamesample,wemayinferthatESR1genotypescouldexertanantagonisticpleio- tropiceffectonlongevityandfertility.
+
+Key Words: ESR1—CYP19—Polymorphism—Longevity—Longevity–fertilitytrade-off.
+
+Received June 24, 2010; Accepted August 16, 2010
+
+Decision Editor: Rafael de Cabo, PhD
+
+Research on the longevity–fertility trade-off in humans has nearly always been done using a historic– demographicapproach(11–12).Despitecertaindiscrepan- longevity–fertility trade-off. Studies on pleiotropic shown that some longevity candidate genes can reproductive function as well, thus exerting a actionindifferentperiodsoflife.
+
+and nongenetic factors. Great efforts have been ex- pendedbyresearchersintheattempttoidentifythegenes involvedinlife-spandetermination(1–4).Variationinsex hormone(estrogensandandrogens)levelisatypicalfeature ofaging,butthepossibleimpactonthehumanlifespanof geneticvariationofthegenesregulatingsexhormonepro- ductionandactionhasneverbeeninvestigatedbefore.As astartingpoint,weexaminedgenesinvolvedinestrogen metabolism.
+
+physiology,boneandlipidmetabolism,andmaintenanceand protectionofthecardiovascularandnervoussystems(5–7). Morerecently,similarestrogenfunctionshavebeenidenti- fiedinmenaswell(8).Thedrasticreductioninestrogen levelatmenopausemarksthebeginningofagingforwomen asitaffectsthemultiplemetabolicprocessesinfluencedby estrogenearlyinlife.Althoughnotsoabrupt,thedeclinein estrogenisresponsiblefornumeroussignsofagingalsoin men(8).Afurtherpointofinterestinexaminingestrogen metabolismgenesisthat,beinginvolvedinthedetermination offertility,theycouldbepartofthelongevity–fertilitytrade- off mechanism. It has been postulated that a trade-off betweenresourcesavailableforreproductionoccursonthe onehandandatrade-offbetweenmaintenanceandlifespan ontheother.Becausenaturalselectiontendstofavoranindi- vidual’s reproductive ability over longevity, it is plausible that an antagonistic relationship exists between these two
+
+ovaryandtheplacentaaswellasinanumberofextrago- nervoustissue(17).ThissuggeststhatCYP19,asitisin- volved in the production of estrogen, also participates regulatingreproductivefunctionsandgrowthordifferentia- with a regulatory role (17). Recently, CYP19 polymor- cancer, and Alzheimer’s disease (18–23). The
+
+andthoseaged90yearsorolderin2009.Thecontrolsam- plewasmadeupofindividualswhohaddiedbetween2000 and2009.
+
+ER-beta encoded by the ESR2 gene on chromosome foundinallhumanreproductivetissues.Itisexpressedpri- withER-beta,iscoexpressedinanumberoftissues,includ- with female and male infertility, spontaneous andAlzheimer’sdisease(5,25–27).
+
+Fertilityrateswerederivedfromresponsestoaquestion- naireitemaskingaboutthenumberofchildrenthepartici- pantsreportedtheyhadhad.Theprotocolforcollectionof biologicmaterialforthescientificstudieswasapprovedby theinstitutionalethicscommittees.Informedconsentwas obtainedfromallparticipants.
+
+Venousbloodwasdrawninethylenediaminetetraacetic acid from all participants. Genomic DNA was extracted fromwholebloodaccordingtotheproceduredescribedby Miller and colleagues (30). Two ESR1 polymorphisms (PvuII,or–401T/C,orrs2234693andXbaI,or–354A/G, or rs9340799) were examined. Both polymorphisms are locatedinintron1oftheESR1geneintheregionofthe transcriptionfactor–bindingsiteandarecloselylinked(8). Ithasbeenspeculatedthattheychangethegene’senhancer activity.Thereareindicationsthatsupportthishypothesis, especially for rs2234693 (31–32), although slight differ- encesinenhanceractivitywerereportedforrs9340799as well(33).Bothpolymorphismsweregenotypedaccording tothetechniqueofYaichandcolleagues(34)withslight modifications.Specifically,adifferentprimercouplewas designed: 5′-AGGGTTATGTGGCAATGACG-3′ as for- ward primer and 5′-CCTGCACCAGAATATGTTACCT-3′ asreverseprimer.Thepolymerasechainreactionproduct wasdigestedovernightbyPvuIIandXbaIandthenvisual- ized on agarose gel. ESR1*P and *X alleles indicate the absenceofacuttingsiteforthePvuIIandXbaIrestriction enzymes, respectively, whereas ESR1*p and *x alleles indicatethepresenceofacuttingsite.TheCYP19rs4646 singlenucleotidepolymorphismislocatedat3′-UTRofthe CYP19gene.Itisatagsinglenucleotidepolymorphismof haplotype Block 4 of CYP19 containing all the CYP19 coding exons (exons 2–10) and part of the 3′-UTR (21). There is statistical evidence for a significant relationship betweenCYP19singlenucleotidepolymorphismsinlinkage disequilibriumBlocks3and4,includingrs4646,andcircu- lating estrogen levels in postmenopausal women (35). rs4646wasgenotypedaccordingtothetechniquesreported byPetryandcolleagues(36).
+
+The association of ESR1 (PvuII, rs2234693 and rs9340799)andCYP19(rs4646)polymorphismswithlon- age: 83.1 ± 5.7 years) recruited in 2000.After thecontrols.
+
+studyonESR1polymorphismsinthesamestudypopula- tionwascarriedoutpreviously(28).
+
+Materials and Methods
+
+study (LONCILE study) on the anthropological and bio- areainthedistrictofSalerno,southernItaly(29).Itcon- sisted of 258 unrelated individuals (43.3% men) between1900and1930(meanage:83.1±5.7years±stan- dard deviation), consecutively enrolled without criteria. The mortality information on these oldormore.Duringthe9-yearfollow-upperiod,themor- tality rate was 63.7% (51.9% men): 58.2% 6 years for men (ISTAT, .html?lingua=ita),weconsideredaslonglivedthosepar- years).Thesampleofthelong
+
+method;agreementofgenotypedistributionwithHardy– Weinbergexpectationswasverifiedbyanexacttest.Link- /ott/eh.htm) (37). The differences in allele and frequencies between long-lived participants and regression. Comparison between the mean number
+
+Table1. ESR1andCYP19GenotypeDistributionsinLong-Lived ParticipantsandControls
+
+Table2. EstimatesoftheEffectsofESR1andCYP19Genotypeson ProbabilityofSurvivingtoAgeMoreThan90years
+
+Controls LongLived ESR1genotypes  PP(%) 16(18.8) 32(29.6)  Pp(%) 51(60.0) 50(46.3)  pp(%) 18(21.2) 26(24.1)  N 85 108  XX(%) 17(20.0) 29(27.6)  Xx(%) 49(57.6) 56(53.3)  xx(%) 19(22.4) 20(19.0)  N 85 105  PPXX(%) 15(17.6) 29(27.6)  PPXx(%) 1(1.2) 3(2.9)  PpXX(%) 2(2.4) 0  PpXx(%) 44(51.8) 47(44.8)  Ppxx(%) 5(5.9) 3(2.9)  ppXx(%) 4(4.7) 6(5.7)  ppxx(%) 14(16.5) 17(16.2)  N 85 105 CYP19genotypes  GG(%) 36(45.0) 33(30.0)  GT(%) 36(45.0) 59(54.6)  TT(%) 8(10.0) 16(14.8)  N 80 108
+
+Variables OR(95%CI) pValue Gender(male) 0.62(0.34–1.13) .12 ESR1PPgenotype 2.20(1.06–4.59) .035 CYP19Tcarryinggenotypes 1.92(1.04–3.55) .038
+
+Note:CI=confidenceinterval;OR=oddsratio.
+
+longlivedandthecontrols(PPXX:27.6%and17.6%,re- groups, the genotype frequencies of the CYP19 polymorphism agreed with those expected according Hardy–Weinbergequilibrium.Thers4646Gallelefrequen- cies in the long lived and in the controls were withthecontrols(p=.04).
+
+from http://biomedgerontology.oxfordjournals.org/ at New York Medical College on November 16, 2014
+
+AsbothESR1andCYP19areinvolvedinestrogenfunc- tion,tobetterevaluatetheiroverallactiononlongevityand tostudytheeffectofeachgenotypeadjustedfortheother variables,thedataweretestedbylogisticregression.Inthe analysis,thedependentvariablewashavingsurvivedtoage 90yearsandolder(≥90years)ornot,andtheexplanatory variableswereESR1andCYP19genotypesandgender.Asit hasbeenshownthattheESR1PvuIIpolymorphismmight modify ESR1 transcription and thus estrogen action (31), only ESR1 PvuII genotypes were included together with CYP19genotypesinaninitialmodel(Table2).Theanalysis indicatesthat,afteradjustingforgender,boththeESR1and the CYP19 polymorphisms may be independent determi- nants of longevity because the ESR1 PP and CYP19 T allele–carryinggenotypessignificantlyassociatedwithsur- vivingtomorethan90yearsofage(ESR1PPgenotype: adjustedOR=2.20andCYP19Tallele–carryinggenotypes: OR=1.92).Inasubsequentanalysis,similarresultswereob- tainedwhencombinedESR1PPXXwereconsidered(ESR1 PPXXgenotype:adjustedOR=2.17,95%confidenceinter- val:1.01–4.64,p=.046andCYP19Tallele–carryinggeno- types OR=1.92, 95% confidence interval: 1.02–3.56, p=.039).ESR1XXgenotypesseemtohavelessinfluence on survival (adjusted OR=1.84, 95% confidence interval: 0.88–3.81,p=.10).NosignificantinteractionofESR1and CYP19genotypeswithgenderwasobserved.
+
+children associated with different CYP19 genotypes was performed using a nonparametric test (Kruskal–Wallis). Statistical analyses were performed using Statistix 8.0 AnalyticalSoftware.
+
+Results
+
+To evaluate the involvement of the ESR1 and CYP19 polymorphisms in longevity, ESR1 and CYP19 genotype frequencies observed in the long-lived participants were comparedwiththoseobservedintheparticipantswhohad diedbeforetheageof90years(controls).Theresultsare reportedinTable1.Inboththecontrolandthelong-lived groups,thegenotypefrequenciesofESR1PvuIIandXbaI polymorphisms agreed with those expected according to Hardy–Weinbergequilibrium.TheESR1*Pallelefrequen- ciesinthecontrolsandthelonglivedwere0.488and0.528, respectively.TheESR1*Xallelefrequenciesinthecontrols andinthelonglivedwere=0.488and0.543,respectively. BecauseoftheproximityofthetwoESR1RFLPs,thelink- agedisequilibriumbetweenthemwasanalyzed.Theywere instronglinkagedisequilibriuminbothsamples(p<.0001), withatendencyoftheESR1*Palleletobeassociatedwith ESR1*XandESR1*ptobeassociatedwithESR1*x.Conse- quently, as shown by the combined distribution of ESR1 genotypes(Table1),morethan90%ofESR1PPhomozy- gotesofbothgroupswereXXhomozygotesaswell.Com- parison of genotype distributions between the long lived andthecontrols(Table1)showsthattherewasanexcessof PP(29.6%vs.18.8%,p=.08)andXX(27.7%vs.20.0%, p=.22)genotypesinthelonglivedversusthecontrols,although thecomparisons(Pearson’sgoodness-of-fitchi-square)did
+
+To investigate the involvement of the two genes in polymorphismsonpastfertilityofthesamesamplepopula- ppxxgenotypeswerefoundtobeassociatedwithanabove- among the men, whereas among the women, the
+
+Table3.
+
+isthattheinvolvementofthetwogenesinlongevitycould dependontheprotectionestrogensconferagainstagingby upregulatingtheexpressionofantioxidantlongevitygenes, suchasselenium-dependentglutathioneperoxidase(GPx) andMn-superoxidedismutase(Mn-SOD)(41).
+
+Gene Genotype Number No.ofChildren CYP19rs4646 GG 58(0.37) 3.5±0.3 GT 78(0.49) 3.8±0.3 TT 22(0.14) 3.7±0.5
+
+ESR1polymorphismsonbothlifespanandcompletefertil- tohavenoeffectontheactualnumberofchildrenapartici- pant had had. In contrast, the ESR1 genotypes we be associated with a reduced reproductive success in antagonistpleiotropy.Thesamepatternofantagonisticplei- otropywasobservedfortheinterleukin-10gene(16).Con- versely, the peroxisome proliferator–activated apositivepleiotropiceffectinagender-specificway(14), amixtureoftrade-offpatterns(14).
+
+Note:Kruskal–Wallispvalue=.34.
+
+reducedreproductiveefficiency.Inthepresentstudy,asimi- differenceinthenumberofchildrenamongthethreegeno- andnumberofspontaneousabortions(datanotreported).
+
+Discussion
+
+was to avoid the “cohort effect” observed in studies on human longevity when the control sample composed of younger participants belonging to birth co- environmentaleffectsthedistinctcohortsexperienced.Fur- “younger”controls,whoselifespanisunknown.
+
+genes(andestrogen)areinvolvednotonlyinreproduction butalsoinagingandthattheymayexertapleiotropicaction acrossthewholecourseofhumanlife.Thepossibleimpor- tanceofthesestudiesisthattheymayhelptoelucidatethe agingprocessandtoidentifytheproperstrategiesforslow- ingand/ormitigatingitseffects.
+
+theESR1PvuIIpolymorphismseemstohaveagreaterim- allelecreatesabindingsiteforthemybfamilyoftranscrip- estrogen action, although the real impact of ESR1 showingthatgenesinvolvedinestrogensynthesisandac- surprisingasestrogeninfluencesvariousdifferentphysio- logical processes and is involved in the of many diseases of advanced age which, in turn, influencethelifespanofbothmenandwomen.Inagree- mentwiththisobservation,ESR1andCYP19geneticpoly- morphisms in relation to cardiovascular disease, Alzheimer’s disease (5,18–23,25–27) have been
+
+Funding
+
+ThisworkwassupportedbytheItalianNationalResearchCounciland LaSapienzaUniversitygrants.
+
+Christense
+
+,Johnso
+
+E,Vaupe
+
+W.Thequestforgeneticdetermi- nantsofhumanlongevity:challengesandinsights.Nat Rev
+
+;
+
+:
+
+–
+
+contributiontobiologicalaging:th
+
+ramingha
+
+tudy.J Gerontol A Biol Sci Med Sci.
+
+;
+
+:
+
+–
+
+Karasi
+
+,Demissi
+
+,Cupple
+
+A,Kie
+
+P.Disentanglingthege- the use of survival measures. J Gerontol A Biol Sci Med
+
+;
+
+:
+
+–
+
+Consortium.J Gerontol A Biol Sci Med Sci.
+
+;
+
+:
+
+–
+
+Dero
+
+J,Korac
+
+S.Estrogenreceptorsandhumandisease.J Clin Invest.
+
+;
+
+:
+
+–
+
+Garcia-Segur
+
+M,Azcoiti
+
+,Do
+
+arlo
+
+L.Neuroprotectionbyes- tradiol.Prog Neurobiol.
+
+;
+
+:
+
+–
+
+cardiovascularsystem.N Engl J Med.
+
+;
+
+:
+
+–
+
+ceptorgenes:effectsonmaleaging.Exp
+
+thesexes.Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+mortalityselection.Am J Hum Biol.
+
+;
+
+:
+
+–
+
+ductivesuccess.Nature.
+
+;
+
+:
+
+–
+
+aristocraticandrura
+
+innishfamiliesinthe
+
+sand
+
+s.Proc Soc Lond B Biol Sci.
+
+;
+
+:
+
+–
+
+Ageing Res Rev.
+
+;
+
+:
+
+–
+
+onhumanfertility.Biogerontology.
+
+;
+
+:
+
+–
+
+successful ageing: genetic background of male centenarians protective against coronary heart disease. J Med Genet.
+
+–
+
+Huizinga TW. Optimizing human fertility and survival. Nat
+
+;
+
+:
+
+rolesandgenomicorganizationofpromoters.J Steroid Biochem Biol.
+
+;
+
+:
+
+–
+
+er’sdiseaseinwomen.Dement Geriatr Cogn
+
+easerisk.Dement Geriatr Cogn Disord.
+
+;
+
+:
+
+–
+
+repeat influences aromatase activity and estrogen levels in men:effectsonbonemetabolism.J Clin Endocr
+
+–
+
+Hum Mol Genet.
+
+;
+
+:
+
+–
+
+er’sdisease.J Med Genet.
+
+;
+
+:e
+
+–
+
+twee
+
+Ralphaan
+
+Rbeta.Mol Interv.
+
+;
+
+:
+
+–
+
+ease.Biochem Biophys Res Commun.
+
+;
+
+:
+
+–
+
+tions.Dement Geriatr Cogn Disord.
+
+;
+
+:
+
+–
+
+Iso
+
+,J
+
+,Urakam
+
+,Adach
+
+,Nakashim
+
+Geneticassociation ofestrogenreceptorgenepolymorphismswit
+
+lzheimer’sdisease. Alzheimer Res.
+
+;
+
+:
+
+–
+
+Corb
+
+M,Ulizz
+
+,Piomb
+
+,Martinez-Labarg
+
+,D
+
+tefan
+
+F, Scacch
+
+Estrogenreceptoralpha(ESR
+
+)polymorphismsandfertil- ityinpopulationswithdifferentreproductivepatterns.Mol Hum Re- prod.
+
+;
+
+:
+
+–
+
+Crest
+
+,Gregori
+
+Ildisegnodellostudi
+
+ONCILE.Riv Antropol.
+
+;
+
+:
+
+–
+
+Mille
+
+A,Dyke
+
+D,Polesk
+
+F.Asimplesaltingoutprocedurefor extracting DNA from human nucleated cells. Nucleic Acids Res.
+
+;
+
+:
+
+Herringto
+
+M,Howar
+
+D,Brosniha
+
+,etal.Commonestrogen receptorpolymorphismaugmentseffectso
+
+RTo
+
+-selectinbutnot C-reactiveprotein.Circulation.
+
+;
+
+:
+
+–
+
+Herringto
+
+M,Howar
+
+D,Hawkin
+
+A,etal.Estrogen-receptor polymorphismsandeffectsofestrogenreplacementonhigh-density lipoproteincholesterolinwomenwithcoronarydisease.N Engl J Med.
+
+;
+
+:
+
+–
+
+Maruyam
+
+,Toj
+
+,Harringto
+
+R,etal.Lackofanassociationof estrogenreceptoralphagenepolymorphismsandtranscriptionalactiv- itywit
+
+lzheimerdisease.Arch Neurol.
+
+;
+
+:
+
+–
+
+Yaic
+
+,Dupon
+
+D,Cavene
+
+R,Par
+
+F.Analysisofth
+
+v
+
+Ire- strictionfragmentlengthpolymorphismandexonstructureofthees- trogenreceptorgeneinbreastcancerandperipheralblood.Cancer Res.
+
+;
+
+:
+
+–
+
+Haiman CA, Dossus L, Setiawa
+
+W, et al. Genetic variation at the CYP
+
+A
+
+locus predicts circulating estrogen levels but not breastcancerriskinpostmenopausalwomen.Cancer Res.
+
+;
+
+:
+
+–
+
+Petr
+
+J,On
+
+K,Michelmor
+
+F,etal.Associationofaromatase (CYP
+
+)genevariationwithfeaturesofhyperandrogenismintwo populationsofyoungwomen.Hum Reprod.
+
+;
+
+:
+
+–
+
+Terwillige
+
+,Ot
+
+Handbook for Human Genetic Linkage.Balti- more,MD:Joh
+
+opkin
+
+niversit
+
+ress;
+
+Capr
+
+,Salviol
+
+,Mont
+
+,etal.Humanlongevitywithinanevolu- tionaryperspective:thepeculiarparadigmofapost-reproductivege- netics.Exp Gerontol.
+
+;
+
+:
+
+–
+
+D
+
+ang
+
+,Dat
+
+,Bellizz
+
+,etal.Anovelsamplingdesigntoex- ploregene-longevityassociations:th
+
+CHAstudy.Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+Kjaergaar
+
+D,Ellervi
+
+,Tybjaerg-Hanse
+
+,etal.Estrogenrecep- toralphapolymorphismandriskofcardiovasculardisease,cancer, andhipfracture:cross-sectional,cohort,andcase-controlstudiesand ameta-analysis.Circulation.
+
+;
+
+:
+
+–
+
+Vin
+
+,Sastr
+
+,PallardòFV,Gambin
+
+,Borrà
+
+Modulationof longevity-associated genes by estrogens or phytoestrogens. Biol Chem.
+
+;
+
+:
+
+–
+
+Sundarraja
+
+,Lia
+
+,Ro
+
+C,N
+
+C.Associationofoestrogenre- ceptorgenepolymorphismswithoutcomeofovarianstimulationin patientsundergoin
+
+VF.Mol Hum Reprod.
+
+;
+
+:
+
+–
+
+Kukuviti
+
+,Georgio
+
+,Boub
+
+,etal.Associationofoestrogenre- ceptoralphapolymorphismsandandrogenrecepto
+
+AGtrinucleo- tiderepeatswithmaleinfertility:astudyin
+
+Greekinfertilemen. Int J Androl.
+
+;
+
+:
+
+–
+
+from http://biomedgerontology.oxfordjournals.org/ at New York Medical College on November 16, 2014

@@ -1,0 +1,2037 @@
+Aging Biomarkers: From Functional Tests to Multi-Omics
+
+Ksenia S. Kudryashova, Ksenia Burka, Anton Y. Kulaga, Nataliya S. Vorobyeva,* and Brian K. Kennedy*
+
+the same chronological age can vary sig
+
+nificantly. Given that aging is the largest risk factor for a number of chronic dis
+
+eases and also the major cause of func
+
+tional decline, it is imperative to develop ways to measure the rate at which a given individual is aging. An effective measure of biological age could be used to pre
+
+dict a variety of health outcomes, such as physical and cognitive function, morbid
+
+ity, and mortality. If biological aging can be monitored, medical interventions can be applied before the first clinical symp
+
+toms or onset of chronic diseases. The latter is especially important, because the majority of aging
+
+related diseases have long latent periods that precede
+
+results in various deleterious changes in the human body that may loss of function and the manifestation of chronic diseases. While diseases generally be reliably diagnosed, the aging process itself requires more approaches to evaluate its progression. Numerous attempts been made to establish biomarkers to quantify human aging at the tissue, and organismal level. Here, an up
+
+to
+
+date overview of related to human aging with an emphasis on biomarkers that account different mechanisms of aging between individuals is provided. discrete molecular and non
+
+molecular biomarkers handpicked by on the base of their strong correlation with age, as well as omics
+
+based biomarkers, are discussed and potential future and developments in the field of aging assessment are outlined.
+
+Aging results in various deleterious changes in the human body that may lead to loss of function and the manifestation of chronic diseases. While diseases can generally be reliably diagnosed, the aging process itself requires more sophisticated approaches to evaluate its progression. Numerous attempts have been made to establish biomarkers to quantify human aging at the cellular, tissue, and organismal level. Here, an up-to-date overview of biomarkers related to human aging with an emphasis on biomarkers that take into account different mechanisms of aging between individuals is provided. Classical discrete molecular and non-molecular biomarkers handpicked by researches on the base of their strong correlation with age, as well as emerging omics-based biomarkers, are discussed and potential future directions and developments in the field of aging assessment are outlined.
+
+1. Introduction
+
+manifestation, in contrast to the narrow post-manifestation windows for effective treatment.[1]
+
+Aging is a continuous natural and multifactorial phenomenon characterized by the accumulation of degenerative processes that are, in turn, underpinned by multiple alterations and damage within molecular pathways, leading to systemic pathologies of the organism. The process of aging is heterogeneous among individuals—the physical and cognitive condition of people of
+
+Extensive effort has been directed toward the development of aging biomarkers that can determine biological age and reveal novel molecular targets for anti-aging interventions. Historically, biomarkers of aging were selected on the basis of their strong correlation with age, regardless of disease burden and do not re- port on the specific mechanisms of aging that affect each indi- vidual. Functional studies, performed primarily in animal mod- els, provide us with very precise molecular and cellular biomark- ers linked to particular driving mechanisms of aging. However, these biomarkers are often impractical for clinical use. One ma- jor and recent trend in the field of aging is the development of omics-based biomarkers that have greater potential for assessing multifactorial processes. In this review, we summarize data on all existing groups of biomarkers and biomarker-based age pre- dictors (as other reviews have done in refs. [2, 3, 4–9]), but with a focus on up-and-coming omics-based biomarkers, and outline our vision for aging assessment moving forward.
+
+K. S. Kudryashova, K. Burka, A. Y. Kulaga, N. S. Vorobyeva AG 10, Zurich 8002, Switzerland natalia@centaura.com Y. Kulaga Biology of Aging Group of Biochemistry of the Romanian Academy Independentei 296, Bucharest 060031, Romania B. K. Kennedy of Biochemistry and Physiology Loo Lin School of Medicine University of Singapore Medical Drive, MD7, 117596, Singapore bkennedy@nus.edu.sg B. K. Kennedy Institute for Clinical Sciences (SICS) for Science and Technology (A*STAR) Centre for Molecular Medicine Medical Drive, Singapore 117609, Singapore B. K. Kennedy Institute for Research on Aging Redwood Blvd., Novato, CA 94945-1400, USA
+
+2. Molecular and Cellular Biomarkers
+
+The accumulation of damage at all levels of biological orga- nization is widely considered to be a primary cause of aging. Given the chemical foundation of life, first-order deleterious events arise at the level of cellular molecules.[10] The number of molecules with altered structure and function grows over time and contributes to the progressive disorder of a system, up to cell dysfunction or death. Several parameters at the molecular and cellular levels are widely proposed to be linked to aging,
+
+www.advancedsciencenews.com
+
+www.proteomics-journal.com
+
+including genomic instability and mutations, epigenetic modifi- cation, loss of proteostasis, mitochondrial dysfunction and oxida- tive stress, dysregulated nutrient sensing, increased cell senes- cence, decreased stemness, and altered intercellular commu- nication (Figure 1).[5] In each individual, these processes likely have a different probability of occurrence and contribution to ag- ing depending on pre-programmed (epi)genomic factors and/or the randomly fluctuating environment.[10] Biomarkers that can track the initial steps of aging progression at the molecular and cellular level seem promising, particularly in terms of a rising trend to counteract aging at early-stages by direct molecular and cellular interventions, before the degenerative processes become profoundly deleterious and/or spread throughout the body.
+
+KseniaS.Kudryashova,Ph.D., wheresheconductsanalytical Sheisalsoaresearchscientist attheShemyakin-Ovchinnikov InstituteofBioorganicChem- istryoftheRussianAcademy ofSciencesandaprincipal engineerintheDepartment ofBioengineeringoftheBio- logicalFacultyatLomonosov MoscowStateUniversity.  
+
+2.1. Genomic Instability and Mutations
+
+2.2. Loss of Proteostasis
+
+One of the most potent intracellular processes known to contribute to aging is DNA damage driven by endogenous (metabolic stress, “end-replication problem”) or environmental (radiation, genotoxic chemicals) factors. The defects in the DNA repair system that emerge and accumulate with time lead to genomic instability, characterized by a high frequency of muta- tions, chromosome aberration, and/or aneuploidy. This genomic instability is known to be a prerequisite for the development of cancer and may contribute to particular degenerative diseases, such as Alzheimer’s.[11] Double strand breaks, which are the most critical lesions in terms of cell fate, can be obtained by 𝛾 immunolocalization of DNA damage-induced histone -H2AX (phosphorylated form of the histone variant H2AX) or by other specialized proteins involved in DNA repair machinery.[12] More detailed measures of DNA damage can be performed by DNA sequencing; however, this is not as easy as it sounds since each cell in a tissue acquires different mutations that get lost in bulk sequencing efforts. Therefore, single cell DNA sequencing is required, and recent studies have been performed to assess mutation rate with age.[13]
+
+Cellular protein homeostasis (proteostasis) is maintained by the proteostasis network machinery that orchestrates protein synthe- sis, folding, and degradation. Proteostasis efficiency decreases with time, especially in non- or minimally-dividing cells, such as skeletal muscle and neurons, which are forced to deal with accumulating protein waste, and contributes to many aging- associated diseases.[20,21] For example, protein aggregation is a common feature of neurodegenerative diseases like Alzheimer’s and Parkinson’s.[22] On the cellular level, loss or dysfunction of proteostasis causes the accumulation of unfolded or mis- folded proteins and protein aggregates in the cytoplasm and in organelles.[21] Impaired proteostasis can be detected directly by 𝛽 the formation of aggregates, either ordered (amyloid and hyper- 𝛼 phosphorylated tau in Alzheimer’s disease) or amorphous ( - 𝛼 crystallin in cataracts; -synuclein of Lewy bodies in Parkinson’s disease), or indirectly by increased production of proteostasis network machinery (lysosomal 𝛽 -galactosidase in senescence[23]; chaperone Hsp70 as a marker of oxidative stress[24]). Moreover, the integrity of the proteome can be efficiently examined in pro- teomics studies (see below).
+
+An important type of DNA damage is the shortening of telom- eric repeat sequences at the end of chromosomes during DNA replication in most somatic cells,[14] or as a result of cumula- tive oxidative stress.[15] The critical shortening of telomere length (TL) may lead to permanent cell cycle arrest, also known as replicative senescence. TL tends to decline gradually over the hu- man lifespan and this decline is accelerated in many age-related diseases.[8] Centenarians and their offspring have been found to have longer telomeres relative to controls.[16] However, the use of TL as a biomarker of overall aging is still a debated issue, because TL inconsistently predicts clinical and functional out- comes, life expectancy, and death.[17,18] Besides advanced age, telomere attrition is known to occur in mid-life as a result of stress, infections, or diseases,[19] raising the question of whether telomere attrition is a cause, a consequence, or merely coinci- dent with the aging process. In humans, TL is typically measured in leukocytes or peripheral blood mononuclear cells (PBMC), but it is questionable whether this reflects the whole-body aging process, rather than tissue-specific changes (e.g., hematopoietic stem cell population).[17] These measurements may also be sub- ject to bias, because each established method measures slightly different parameters.[17]
+
+2.3. Mitochondrial Dysfunction and Oxidative Stress
+
+The dysfunction of mitochondria has long been regarded as a ma- jor mechanism contributing to aging and functional decline.[25] The accumulation of somatic mutations in genes (both nu- clear and mitochondrial) encoding proteins of mitochondrial respiratory chain or proteins involved in quality control mech- anisms leads to impaired oxidative phosphorylation, resulting in decreased adenosine triphosphate (ATP) synthesis and in- creased production of reactive oxygen species (ROS).[26] The ob- ≈ served decline in ATP production with age ( 8% per decade) causes energetic deficiency and likely contributes to lower phys- ical performance in elders.[26] Elevated intracellular levels of ROS together with an imbalance in antioxidant defenses provoke oxidative stress known to be involved in the development of many pathological conditions.[27] Recent studies have suggested a more complex relationship between oxidative stress and aging, as some low level of ROS may provoke signaling pathways associated with
+
+www.proteomics-journal.com
+
+                                         se sae, Increased cellGenomic instability &                              : senescencemutation Quiscentcell 8-gall activityDysregulated Double strand break foctnutrient sensing Telomere ROS & oxidative byproductslength g Telomere lengthmTOR AMPK SASP factorsSIRTs IIS‘ DNA damage *.markers ) ° % ©Histone ™~, © srutationsmodificationSenescentcellEpigenetic modificationDNA methylation in CpG sitesDecreasedstemnessStem cell numberLoss of proteostasis   Misfolded proteins& aggregatesProteostasis networkmachinery                Mitochondrial dysfunction &oxidative stress                    Protein DNA/RNA Lipidoxidation oxidation —_peroxidationproducts products productsROS AGEs/ALES D  Altered intercellularcommunicationInflammatory factorsHormonesCirculating miRNAIntercellular matrix markers
+
+Figure 1. Overview of molecular and cellular biomarkers of aging. Accumulation of molecular damage within a cell due to genomic instability and mutations, epigenetic modification, loss of proteostasis, mitochondrial dysfunction, and oxidative stress lead to loss of normal cell function and altered proliferation. As a result, cells can undergo a transition into an irreversible non-proliferative senescence state which—if the cells that became senescent с were stem cells—contributes to decreased stemness. Besides a senescence state, ells can go into a reversible non-proliferative quiescent state or die by various cell death mechanisms. Altered paracrine and endocrine communication, as well as intercellular matrix remodeling, also affect cell functioning.
+
+formed due to direct oxidation of amino acid side chains by ROS or generated in chemical reactions with oxidative by-products.[30] Protein derivatives of side chains modifications, such as o- tyrosine, m-tyrosine, 3-chlorotyrosine, and 3-nitrotyrosine, also have been linked to various age-related pathologies.[30]
+
+longevity[26,28]; moreover, most strategies to mitigate ROS have not led to lifespan extension in animal models.[28,29]
+
+Oxidative stress can be measured directly by ROS or indirectly by specific chemical derivatives resulting from ROS-induced modification of biological macromolecules (nucleic acids, pro- teins, carbohydrates, and lipids), which are typically more stable than ROS molecules and presented in detectable quantities in biological fluids and tissues. The predominant products of ′ oxidative damage of nucleic acids are 8-oxo-2 -deoxyguanosine ′ (8-oxodG), 8-hydroxy-2 -deoxyguanosine (8-OHdG) and 8- hydroxyguanosine (8-OHG), associated with many age-related conditions, including arthritis, osteoporosis, atherosclero- sis, hypertension, cataracts, diabetes, and neurodegenerative diseases.[30] A reliable marker of lipid peroxidation is 8-iso prostaglandin F2𝛼 (F2-isoprostane), which is a peroxidation product of arachidonic acid or other polyunsaturated fatty acids presented in phospholipid membranes.[31] Similar to DNA damage markers, F2-isoprostane concentration increases with age and high levels are observed in a number of diseases com- monly encountered in elderly patients.[30] The most abundant markers of protein oxidative modification are protein carbonyls,
+
+Proteins, lipids, or nucleic acids possessing free amino groups can non-enzymatically react with reducing sugars, and via a chain of intermediate reactions form cross-linked and non-degradable aggregates, termed advanced glycation end products (AGEs). Among the most representative and intensively studied AGEs are carboxymethyl-lysine, carboxymethyl-valine, and pentosidine.[32] AGEs accumulate slowly in human tissues during normal ag- ing but may accelerate when blood glucose levels are elevated, suggesting that AGEs contribute to the pathophysiology of dia- betic complications.[33,34] Some AGEs exhibit fluorescence, pro- viding opportunities for the noninvasive detection of AGEs depo- sition in human tissues.[32] Advanced lipoxidation end-products (ALEs) formed by a non-enzymatic reaction between macro- molecules and reactive aldehydic compounds, arising from lipid peroxidation, may also be used as an indicator of oxidative stress.[35]
+
+proteins [IGFBPs]), extracellular proteinases and their inhibitors (matrix metalloproteinases [MMPs], tissue inhibitors of metallo- proteinases [TIMPs], plasminogen activator inhibitor-1 [PAI-1]) are among candidate biomarkers of aging.[37,47] Monitoring SASP factors can constitute a promising and feasible approach for the evaluation of general tissue or cell culture senescence status[48]; however, the profile of secreted proteins may vary significantly depending on cell type and stage of senescence,[37,49] complicat- ing the determination of optimal threshold values for all types of cells.
+
+At the cellular level, the accumulation of macromolecular dam- age, primarily in DNA, can induce a permanent state of cellular senescence.[36] Senescent cells are characterized by an inability to divide due to stable growth arrest, driven by telomere attrition (replicative senescence) or by external stress stimuli such as DNA damage or abnormal activation of oncogenes (stress-induced premature senescence).[23] These cells demonstrate increased metabolic activity and can exert paracrine and likely endocrine ef- fects through an altered secretion profile, termed the senescence- associated secretory phenotype (SASP), which is characterized by an enrichment in inflammatory cytokines.[37] Pro-inflammatory signaling in senescent cells is promoted by the activation of the STING-mediated cytosolic DNA sensing pathway[38] due to the presence of double-stranded DNA sequences in the cytosol, such as chromosome fragments released from nuclei or LINE-1 trans- posable element transcripts.[39] It is assumed that the long-term accumulation of senescent cells with age impacts tissue renewal capacity and contributes to age-related conditions such as stem cell exhaustion, immunosenescence, inflammaging, and various chronic diseases.[40] Cell senescence has long been viewed as a tu- mor suppressive pathway; yet, SASP factors might also cause the malignant transformation of surrounding cells and hence pro- mote tumor formation.[23,41]
+
+Given the asynchrony and heterogeneity of cellular senes- cence, and the lack of specificity of individual biomarkers, accu- rate identification of senescent cells in a tissue section or cell cul- ture requires joint use of several biomarkers, each of which is in- dicative of distinct aspects of cellular aging. Comprehensive and systematic classification and staging of organ and tissue senes- cence, as well as pathologic atrophy, remodeling, calcification, and metabolic dysfunction, are urgently needed; this was recently proposed by a working group of prominent aging researchers.[50] Scoring systems may facilitate the development of personalized treatment recommendation, such as senolytic interventions act- ing on senescing tissues, or other therapies that take into account organ-specific disease staging differentials.
+
+2.5. Decreased Stemness
+
+The unique features of senescent cells represent the basis for their identification (and perhaps elimination in future) by spe- cific biomarkers. The morphological changes, which can be de- tected, include large size, flattened shape, and a disorganized nu- clear envelope (mediated by reduced expression of LaminaB1).[23] 𝛽 𝛽 Lysosomal -galactosidase ( -gal) activity is the most frequently applied molecular biomarker of senescence in culture and tissue samples,[42] which reflects accumulation of junk macromolecules and aggregates in non-dividing, but metabolically active cells; 𝛽 plasma -gal activity has been recently proposed as a potential systemic biomarker of aging.[43] Decreases in cell proliferation can be assessed by mRNA and protein levels of cell cycle reg- ulators (p16INK4a, p21CIP1, and p53), however these methods in- completely distinguish senescent cells from other types of non- dividing cells such as quiescent cells (that occur due to lack of nu- trition and growth factors) or terminally differentiated cells.[23,44] The DNA damage response and repair can be quantified by foci 𝛾 analysis of double-strand break markers -H2AX and 53BPI(p53- binding protein 1), as well as by other recruited factors.[2,45] The formation of senescence-associated heterochromatic foci (SAHF) enriched for macroH2A and H3K9Me3 histone modifications, as well as members of the heterochromatin protein 1 (HP1) family, is a promising epigenetic biomarker, which reflects the silencing of genes implicated in cell proliferation.[46]
+
+Stem cell aging is driven generally by similar molecular param- eters as the ones discussed earlier for differentiated cells. The fate of stem cells is influenced by both circulating regulatory fac- tors and the stem cell niche, consisting of mesenchymal stem cells, differentiated tissue cells, and extracellular matrix; stem cell niche deterioration is shown to be one of the leading causes of stem cell exhaustion.[51] Depending on stimuli and tissue-type, stem cells can transition into a non-proliferative quiescent state and become again activated in response to extrinsic signals, enter into irreversible senescence state and lose proliferative capacity permanently, or die by different mechanisms (Figure 1).[52]
+
+Counting stem cell numbers within organ tissues is fraught with obvious difficulties, but for particular groups, such as cir- culating hematopoietic stem cells, some important research has been done. The hematopoietic stem cell population size ap- pears to grow steadily in early life and reaches a stable plateau by adolescence[53]; and then tends to decline with advancing age.[54] In the oldest old (> 80 years), the number of circulating + hematopoietic stem and progenitor cells (CD34 cell count) are better predictors of lifespan and cardiovascular disease-related mortality as compared to classic cardiovascular risk factors.[55] Mutations naturally occurring in blood cells during a lifetime and revealed by whole-genome sequencing, can be used as a bar- code for tracking and quantifying adult stem cells and their off- springs in the bloodstream. This technique has been applied to demonstrate that all peripheral white blood cells of a 115-year-old woman were the offspring of only two hematopoietic stem cell clones[56] suggesting that the diversity of active stem cells is sig- nificantly depleted at this advanced age. These findings have been replicated in individuals across many ages, revealing the general trend that human hematopoiesis shifts from a highly polyclonal into a quasi-monoclonal state with increasing age.[57]
+
+The biomarkers mentioned above are widely validated but are found within the cell, and therefore require cell isolation (and usually destruction) for analysis. For clinical implementation, it is more useful to rely on molecules that are secreted in the adjacent extracellular area and can be detected without disturb- ing the cells in human subjects. The various SASP components, such as inflammatory molecules (cytokines and chemokines, ex- tracellular damage-associated alarmin high-mobility group box 1 [HMGB1] protein), growth factors and regulators (transform- ing growth factor beta [TGF𝛽 ], insulin-like growth factor-binding
+
+www.advancedsciencenews.com
+
+formin (TAME) Biomarkers Workgroup established a framework for the selection of blood-based biomarkers for next-generation geroscience clinical trials.[65]
+
+Data on the quantity of active stem cells in other organs and how their abundance and functionality change with age would be very pertinent, especially in the context of novel therapeutic approaches, such as direct reprogramming of differentiated tis- sue cells[58] or rejuvenation of dysfunctional adult stem cells,[59] designed to maintain robust stem cell pools.
+
+3.2. Inflammatory Markers
+
+Aging is often associated with the dysregulation of the immune system, leading to chronic systemic low-grade inflammation. Cir- culating proinflammatory mediators, such as cytokines and their 𝛽 𝛼 soluble receptors (IL-6, IL-8, IL-1 , TNF- , TNFRs), C-X-C motif chemokines (CXCL9, CXCL10), C-C motif chemokines (CCL2, С also known as MCP-1, CL11 also known as eotaxin), CX3C mo- tif chemokine (CX3CL1) as well as acute phase C-reactive protein produced inliverinresponse toinflammationare amongpromis- ing biomarkers of aging.[1] Due to that fact that many of these mediators are classical SASP components, cellular senescence is likely to participate in inflammaging, albeit the true extent to which senescence contributes to systemic markers as compared to other inflammatory drivers remains unknown. Additional in- formation regarding age-related changes in immune function can be obtained from immune-phenotype profiling (lymphocyte subset panel, CD4:CD8 T cell ratio).[6]
+
+2.6. Altered Intercellular Communication
+
+Although cell aging is assumed to be the main cause of over- all human aging, our body consists not only of cells, but also of the extracellular space, which is likewise affected by time. Cross- linking of extracellular matrix molecules, especially collagen, and accumulation of the waste products, such as AGEs, make the cell environment rigid, impeding cell–cell interaction and cell migra- tion within tissues.[60] In contrast to the intracellular space, which has efficient intracellular mechanisms of waste recycling, the ex- tracellular space lacks such machinery and disposal of garbage outside the cell is a serious age-related problem. Regulatory and effector molecules which are secreted into an immediate environ- ment, such as various SASP components, or found in circulating body fluids, such as hormones, systemic inflammatory markers, and circulating miRNAs, also contribute to altered cell commu- nication and activity with age.
+
+Despite no standard cytokine signature exists in age-related chronic inflammation in contrast to the acute inflammatory re- sponse, for which a number of secreted molecules have been val- idated, a deep-learning based inflammatory aging (iAGE) clock has been recently created (Table S1, Supporting Information).[66] The clock is based on circulating immune protein data of 50 cy- tokines, chemokines, and growth factors, with the ability to pre- dict multimorbidity with 0.41 mean absolute error. In centenari- ans, iAge was on average, 40 years lower than their corresponding chronological age, witch chemokine CXCL9 and down-regulated Sirtuin-3 as the strongest contributors.
+
+3. Systemic Biomarkers
+
+Going further up in the hierarchical structure of the human body, the aging process can be ultimately observed at the sys- tem level as well. The functional decline in specific tissues and organs due to the accumulation of aged cells, complicated by in- trasystem/intersystem interactions and by environmental factors (e.g., diet, lifestyle) may be best measured by systemic molecular biomarkers. Although these biomarkers reflect deleterious con- sequences of aging, rather than primary causes such as molecu- lar damage, they provide the essential input to developing the pre- diction models for biological age comprising information from multiple systems throughout the body.[61]
+
+3.3. Metabolic Markers
+
+Altered energy metabolism is another major feature of aging. At the cellular level, it occurs predominantly due to the disruption in nutrients-sensing pathways highly involved in aging progres- sion, such as the mechanistic target of rapamycin (mTOR) (nu- trient sensor), the adenosine monophosphate (AMP)-activated protein kinase (AMP sensor), the protein deacetylase sirtuins + (regulated by NAD ), and insulin/insulin-like growth factor 1 (IGF-1) signaling (IIS) pathways.[67] Consequent impairment in cellular utilization of metabolic substrates, especially glucose, leads to decreased energy production. The level of blood glucose is primarily determined by insulin secretion, which, in turn, is affected by gradual decline of 𝛽 -cell function and mass.[68] Glu- cose uptake and oxidation are often reduced later in life with the onset and progression of peripheral insulin resistance, partic- ularly in skeletal muscle and adipose tissue, which can lead to weight loss and frailty observed in the elderly[34]; population- based studies revealed that centenarians have higher insulin sensitivity and preserved 𝛽 -cell function than younger controls[69] suggesting the importance of normal energy metabolism for healthy aging. Biomarkers of dysregulated glucose metabolism, especially glycated haemoglobin HbA1C, despite being typically
+
+3.1. Classical Blood-Based Biomarkers
+
+Biochemical, and especially blood-based biomarkers are proba- bly the most investigated group due to a large amount of data accumulated in clinical trials. A number of parameters rou- tinely measured in a comprehensive metabolic panel (glucose, albumin, creatinine, alkaline phosphatase, bilirubin), complete blood count (red blood cell counts, hemoglobin, hematocrit), and lipid profile (total cholesterol, low- and high-density lipoprotein cholesterol, triglyceride concentration) were found to correlate with age, age-related disease, and mortality.[8,62] For instance, lipid fractions, glucose, and albumin are among the recently identified predictors of long-term all-cause mortality.[63] But generally, the accuracy of aging prediction by routine clinical chemistries is poor,[64] and for this reason, such markers were omitted from consideration when the Targeting Aging with MEt-
+
+caloric restriction or exercise.[63,84] In this regard, the methodol- ogy for extracting information with predictive value from a set of biomarkers is particularly important. Several mathematical algo- rithms have been proposed for calculating biological age from multiparameter data, including the multiple linear regression (MLR), the principal component analysis (PCA), and the Klemera and Doubal method.[85] Recently created “blood aging clocks” based on various machine learning methods have a mean average error ranging between 5–7 years (Table S1, Supporting Informa- tion); these clocks also show high heterogeneity of predictions between human populations.[86,87]
+
+used for the diagnosis of diabetes mellitus, can also be applied as prognostic biomarkers for non-diabetics[70]; however, given the complexity of regulation of glucose and insulin levels, metabolic measures can be difficult to interpret.[8]
+
+3.4. Hormones
+
+in hormone production. Declines in sex hormones, estrogen, and testosterone (menopause and andropause, respectively) trigger downstream fading effects, such as muscle mass loss and physical frailty.[71] Dehydroepiandrosterone (DHEA) and its ester metabolite dehydroepiandrosterone sulfate (DHEA-S) are essential steroid precursors for sex hormones that profoundly decreases from the third decade of life[72] and serve as prospec- tive candidate biomarkers of human aging.[73] The gradual and progressive decline in growth hormone (GH), secreted by the pituitary gland, and insulin-like growth factor 1 (IGF-1), produced mainly in liver in response to GH, is referred to as the somatopause. These hormones affects insulin secretion and sensitivity in adults,[8] and it has been shown that individuals with exceptional longevity demonstrate decreased levels of systemic GH[74] and IGF-1,[75] and are enriched in gene variants causing disturbance of somatotropic axis.[76] Among hormones of the thyroid gland, low levels of triiodothyronine are associated with an increased risk for morbidity and mortality.[77,78] Age- dependent elevation of circulating metabolic hormones such as adipokines (leptin, adiponectin) are linked to increased risk of metabolic syndrome and mortality in older adults.[79] Vitamin D deficiency is associated with increased overall morbidity and cognitive impairment.[77,80]
+
+However, some indicators of human aging demonstrate non- linear age-related changes and therefore cannot be interpreted using standard linear regression, which is commonly applied to composite panels of biomarkers.[7] Moreover, certain biomarkers can increase in one tissue and decrease in another at the same time,[88] suggesting that not only people, but even different body systems age at different rates. The concept of a biological signature of aging[83] offers potential compromise or alternative ways of using a panel of biomarkers to track individual aging trajectories. Human signatures (i.e., patterns of blood-based biomarker levels) associated with more or less intensive aging and/or increased risk of a specific disease have been found. The main advantage of such an approach is its ability to capture the interdependence between aging and age-associated diseases that would be difficult to reveal using standard regression modeling.
+
+4. Omics-Based Molecule-Pattern Biomarkers
+
+Over the past decade, numerous attempts have been made to un- ravel aging mechanisms via omics approaches. High throughput sequencing, mass-spectrometry, and other technologies opened opportunities to quantify aging not just with a small number of well-studied and carefully picked biomarkers, but with anal- ysis of many thousands of genes, gene products, epigenetic modifications, and/or metabolites. These technologies permit the identification of distinct aging signatures and have tremen- dous potential for revealing age-associated changes in the very early stages when significant increases in known biomarkers are not yet observable. The next logical step is the integration of single omics data into one network. Given the high hetero- geneity of omics data and multifactorial nature of aging, this is not as straightforward as it seems.[89,90] The robustness of omics-derived results also needs consideration. Curse of dimen- sionality (high dimension, low-sample size data), heterogene- ity of technologies leading to “batch effects,” high invasiveness of retrieving samples from some of the organs, lack of lon- gitudinal data—are all problems typical to omics-based aging biomarkers.
+
+3.5. Organ-Specific Markers
+
+Among biomarkers identified to assess certain organ dysfunc- tion are well-known markers for the diagnosis and prognosis of heart failure: brain natriuretic peptide (BNP), N-terminal pro- BNP (NT-proBNP), and cardiac troponin[4]; the newly estab- lished marker of chronic kidney disease cystatin C, which is able to detect renal dysfunction at an earlier stage than serum creatinine[81]; classical biochemical biomarkers of liver dysfunc- tion such as albumin or alkaline phosphatase; and ApoE level in cerebrospinal fluid (CSF) as a marker of neurodegenerative disease.[22] The potential impact of these medical biomarkers in aging research and long-term risk prediction is yet to be estab- lished. For further reading on organ and tissue specific biomark- ers related to aging we suggest reviews by Engelfriet et al.[8] and Khan et al.[9]
+
+3.6. Multiple Biomarkers Panel
+
+4.1. Genomics
+
+The simultaneous monitoring of various parameters indepen- dently associated with aging represents a more robust approach than tracking any single blood-based biomarker.[9,82] Combined panels of biomarkers demonstrated significantly better perfor- mance than individual ones in predicting future risk[64,82,83] and show better responsivity to geroprotective intervention, such as
+
+Human aging is a very complex trait, affected by myriad factors aside from genetic predisposition. The magnitude of genetic con- tribution to human variation in aging is still debated, varying from around 15% to 30%,[91] but probably overestimated due to assortative mating in accordance to a recent suggestion[92]; the population specificity contributes to moderate convergence be-
+
+lation clocks have been extensively studied and are considered to be the most accurate in predicting chronological age (Table S1, Supporting Information).
+
+tween research results, since genes that affect human aging in one population may not be replicated in another.[93]
+
+Genome-wide association studies (GWAS) are a powerful ap- proach to examine the genetic architecture of polygenic traits (as aging is) in the genome. The increasing number of ana- lyzed genomes of the elderly, in particular, centenarians, pro- vides insights into the genetic predisposition of exceptional longevity.[94–96] Heritability of longevity (survival beyond the old- est percentiles) increases sharply with survival beyond the age of 90,[97] suggesting the existence of specific genes variants that centenarians share.[98] However, only the APOE (apolipoprotein E protein), FOXO3 (stress-induced transcription factor forkhead box O3), and 5q33.3 (longevity locus on chromosome 5q33.3) loci are consistently associated with longer life span across studies.[99] These genes are implicated in various aspects of cellular and or- ganismal functioning.[100]
+
+The original Horvath clock,[106] as well as analogs,[107] that predict a person’s age and risk of mortality, have been vali- dated in several independent cohorts of individuals across the lifespan.[108] These clocks can measure age in many human tis- sues, although tissue-specific effects exist.[104] Therefore, a spe- cific algorithm is necessary for optimal accuracy in each tissue. The second-generation clock “PhenoAge” demonstrates better predictive power for a variety of aging outcomes[109] and this was achieved by replacing chronological age with a surrogate measure called “phenotypic age,” estimated from a set of clinical biomark- ers. The most recently presented “GrimAge” clock further elabo- rates the “phenotypic age” concept, combining clinical biomark- ers with DNA methylation levels.[110]
+
+Importantly, epigenetic age may respond relatively rapidly to anti-aging interventions, offering a unique opportunity for vali- dating strategies to delay aging, instead of conducting high-cost and long-term longitudinal trials. Recently, TRIIM (Thymus Re- generation, Immunorestoration, and Insulin Mitigation) treat- ment with a cocktail of substances, comprising human growth hormone, proto-hormone DHEA, and metformin, demonstrated epigenetic rejuvenation, reversing epigenetic age by 2.5 years in a one-year treatment window.[111] Despite these encouraging re- sults, little is known about which aging mechanisms epigenetic clocks reflect and whether the changes in the epigenome with age have a causal role.
+
+Most recently, the largest GWAS on human lifespan to date (more than half a million participants) validated seven pre- viously identified loci, including APOE, FOXO3, and 5q33.3, and proposed five novel genomic regions implicated in lifes- pan heritability.[101] The polygenic risk score that predicts human predisposition to a longer life is established based on weighted contributions from these relevant genetic variants.[101] However, even such a large-scale GWAS failed to completely explain the magnitude of heritability of both lifespan and longevity suggest- ing that further investigations using different populations and ethnic groups are needed.
+
+Compared to life span, genetic variants that influence the health span, or disease-free survival, have less been studied at the whole-genome significance level. A recently performed GWAS n = in a relatively large human cohort ( 300 447) found 12 can- didate loci associated with health span.[96] Among them, three single nucleotide polymorphism located at or near CDKN2B (cyclin-dependent kinase inhibitor), LPA (apolipoprotein A), and HLA-DQA1 (leucocyte antigen DQA1) losi were identified which were previously reported to be also associated with the longevity phenotype.[95,102] Surprisingly, however, gene variants of APOE were not revealed. This is an important example of the differ- ences between the genetic signatures of the health span and lifes- pan, or, in other words, between late-life severe diseases leading to death and early age pathological conditions corresponding to human health with age.[96]
+
+4.3. Transcriptomics
+
+The transcriptome is the entirety of the RNA transcripts, which can be divided into coding and noncoding RNAs, the latter acting as regulatory elements.[112] Similar to the epigenome, the tran- scriptome changes significantly during aging.[90] Due to the rise of technologies, such as NGS and microarrays (DNA chips), the field of transcriptomics significantly evolved, making it possible to study gene alterations with age on large sample sets. The tran- scriptomic studies have already been performed for many types of human cells and tissues, and age-related changes in transcrip- tome were shown to be highly tissue-specific.[90,113]
+
+n = The first large-scale meta-analysis ( 14 983) of human whole-blood gene expression revealed a compendium of genes (1497) differentially expressed with chronological age.[114] Identi- fied genes were consistent with well-known aging mechanisms including dysregulation of transcription and translation, ribo- some and mitochondria dysfunction, DNA damage accumula- tion, immune senescence, and altered metabolism. A principal transcriptomic age predictor was established based on 11 908 sig- nificantly expressed genes with the average absolute difference between predicted age and chronological age of 7.8 (Table S1, Supporting Information).
+
+4.2. Epigenomics
+
+Epigenetic modification including DNA methylation as well as histone methylation and acetylation are highly dynamic pro- cesses that occur over the human life span and are influenced by environmental and genetic factors.[103] These modifications also change during aging, making them a potential biomarker. While the total DNA methylation level slowly decreases with age, cytosine methylation at specific loci containing CpG din- ucleotides (referred to as CpG sites) changes differently with age, becoming both hyper- or hypo-methylated in different ge- nomic locations.[104,105] A significant breakthrough in biological age measurement came with the development of a well-known “epigenetic clocks” based on a correlation between the chrono- logical age and methylation status of selected CpG sites. Methy-
+
+Integrative metabolomics and transcriptomics were later ap- plied to show global metabolic adaptations occurring in epider- mal skin during aging.[115] Microarray analysis of the transcrip- tome was performed on epidermal tissue samples from 24 young and 24 old donors, of which 23 donors of each group were also in- cluded in the metabolomics analysis. The results of the study re-
+
+www.advancedsciencenews.com
+
+vealed age-dependent reduction of coenzyme Q10 levels, as well as altered activity in upper glycolysis and glycerolipid biosynthe- sis or decreased protein and polyamine biosynthesis.[115] Impor- tantly, the identified compendium of age-dependent genes (1053 transcripts with decreased and 932 transcripts with increased lev- els) had no significant overlap with reported genes predicted to be involved in aging in humans in other tissues. This indicates that each tissue of our body has its own age-dependent gene ex- pression pattern.
+
+date.[122] The extremely wide concentration range of the plasma proteins (up to 12 orders of magnitude) as well as the pres- ence of highly abundant proteins, such as serum albumin, com- plement factors, and immunoglobulins, that constitute more than 99% of the total protein mass,[123] impede the discovery and validation of novel biomarkers in clinical samples. Mass spectrometry-based proteomics remains the gold standard for protein biomarker screening, yet it lacks throughput in the val- idation phase.[124] The dynamic range problem could be partly overcome due to the emergence of the affinity-based, or “tar- geted” proteomics technologies. Thus, SOMAscan assay, a Slow Off-rate Modified Aptamer (SOMAmer)-based capture array, cov- ers now more than 4000 unique plasma proteins, whose con- centrations vary by eight orders of magnitude.[125] This and similar high-throughput multiplexing platforms have already been applied to exam age-associated alterations at the human sub-proteomes.
+
+Fleischer and co-workers analyzed large genome-wide RNA- seq data of human dermal fibroblasts from 133 people aged 1 to 94 years old to unravel a transcriptomic signature of biological age.[116] The ensemble machine learning method based on linear discriminant analysis classifiers (i.e., transcriptomic clock) was shown to predict chronological age to a median absolute error of 4 years, at the time outperforming previous epigenetic and transcriptomic age estimators, even though one to two orders of magnitude fewer samples were used (Table S1, Supporting Information).[116]
+
+The proteomics study of plasma proteins using SOMAscan as- say discovered 13 proteins associated with chronological age and n = age-related phenotypes in a cohort of female twins ( 202) and of these proteins, ten were also replicated in the independent sex- mixed cohort (n = 677).[126] Further validation using RNAseq data (n = 384) gave a total of 11 proteins replicated at protein level or with consistent association with age at gene expression level. The estimated heritability of these proteins was low to moder- ate, confirming the proposition that human aging and longevity have only a modest genetic contribution, instead being strongly influenced by environmental factors. The strongest association with age was shown for chordin-like protein 1 (CHRDL1), which is involved in bone morphogenic protein signaling,[127] retinal angiogenesis,[128] and brain plasticity.[129] Levels of CHRDL1 in- crease in older individuals, correlating with lower cardiovascular risk and higher birth weight (a well-known determinant of aging trajectories), suggesting its potential as a biomarker of healthy aging. Surprisingly, the discovered set of 11 proteins does not in- clude broadly accepted aging biomarkers, such as IL-6 or CRP, which is explainable by insufficient proteome coverage and speci-
+
+More recently, the first muscle tissue-specific transcriptomic aging clock was proposed by applying supervised machine learn- ing algorithms on gene expression data from young and old healthy donors (Table S1, Supporting Information)[117]; several candidate biomarkers of human muscle aging, including those which were not yet studied in this context, were reported.
+
+4.4. miRNA Omics
+
+MicroRNAs (abbreviated miRNAs) are small (from 21 to 23 nu- cleotides) noncoding RNA molecules that participate in regu- lation of gene expression by base pairing to complementary mRNA sequences triggering mRNA cleavage and translational inhibition. miRNAs-mediated RNA degradation contributes to a lack of concordance between transcript levels and their protein products.[118] Despite being predominant within the cell where they are expressed, miRNAs can also be found circulating in blood serum, urine or saliva, within exosomes/microvesicles or bound to protein or lipoprotein factors.[119] Given their specific functions, which are loosely predictable by their sequence, cir- culating miRNAs have emerged as novel noninvasive indica- tors that reflect molecular mechanisms underlying age-related pathologies.[120] In humans numerous miRNAs have been iden- tified to be up- or down-regulated during aging in whole blood, serum, or PBMCs,[121] and the first microRNA age prediction model based on whole blood microRNA expression profiling has been established.[120] In addition to prognostic usage, miRNAs transfection and/or overexpression has utility as a therapeutic strategy for precise attenuation of age-related signaling pathway with potential impacts on human health span and life span.
+
+The SOMAscan-based proteomic measurements of 1301 plasma proteins in a population of 240 healthy men and women (22–93 years old) identified growth differentiation factor 15 (GDF15) as the strongest biomarker, positively associated with age.[130] The proteomic age predictor was developed based on rel- ative concentrations of 76 proteins that highly correlated with chronological age using elastic net regression models (Table S1, Supporting Information).
+
+Continually improving technologies should lead to better age predictors as more proteins become identifiable. The newest study on 2925 plasma proteins from 4263 young adults to nona- genarians (18–95 years old) revealed specific waves of changes in the proteome in the fourth, seventh, and eighth decades of life, and identified a highly accurate plasma proteomic clock consist- ing of 373 proteins (Table S1, Supporting Information).[131]
+
+Besides the blood proteome, other clinical samples can be an- alyzed. The first broad application of SOMAscan technology to CSF from 90 cognitive healthy donors of different ages revealed 82 age-associated proteins.[88] Most of them were novel biomark- ers of aging that are prominently associated with immune sys- tem activation or response to injury. Despite the fact that the sub-
+
+4.5. Proteomics
+
+The number of proteins is at least two orders of magnitudes higher than the number of genes, because of alternative splic- ing and post-translational protein modifications.[90] In human plasma, more than 10 000 proteins have been identified to
+
+
+
+jects included in this study were judged to be cognitively normal, the probability remains that some of elderly patients could have had undetected, preclinical neurodegenerative disease, suggest- ing that some of identified age-correlated biomarkers are instead disease-correlated biomarkers.
+
+out on several cohorts of centenarians[135] and offsprings of nonagenarians[136]; metabolite profilescaptured earlierinlife and associated with the future ability to achieve longevity were also studied.[137] Centenarians were revealed to have metabolic pheno- types distinct from that of elderly individuals, with alterations in lipid and fatty acid, nucleic acid, and citric acid cycle metabolism; however, metabolic patterns on different cohorts had only limited overlap.
+
+The most recent proteome-wide study using mass- n = spectrometry-based quantification in a discovery ( 104) and n = replication cohort ( 39) of initially cognitively unimpaired, longitudinally assessed older-adult post-mortem brain donors, revealing 579 proteins associated with cognitive decline, among which 38 replicated proteins were associated independently of 𝛽 traditional neuropathologies, such as -amyloid plaques and neurofibrillary tangles.[132] Notably, individuals with cognitive stability demonstrated increased neuronal mitochondrial activity and decreased inflammation and apoptosis, suggesting that proteomics could reveal not only novel protein targets but even novel age-related pathways.
+
+5. Non-Molecular Biomarkers
+
+5.1. Biomarkers of Physical Capability and Physiological Function
+
+Anthropometric measurements and noninvasive physiological tests represent one clear way to quantify the age-related changes that occur over time. Handgrip strength and gait speed, the two most common measures of physical capability, reflect the gen- eralized weakness and frailty caused by the progressive loss in skeletal muscle mass and strength, known as sarcopenia. Despite the apparent simplicity, these tests predict the risk of many health outcomes.[138] The functional decline of certain organs can be re- vealed by physiological tests, such as pulmonary function tests, cognitive tests, or blood pressure and pulse-wave velocity for as- sessment of cardiovascular system performance. Altered body composition and bone health can be measured by dual-energy X- ray absorptiometry (DEXA); as a result, the risk of osteoporosis or fracture can be evaluated.[139] The decrease in skin’s strength and elasticity, as well as diminution of subdermal fat, can be mon- itored by photographic imaging approaches, such as 2D or 3D facial imaging. Established 3D facial image-based age predictors estimate age with a high level of accuracy (Table S1, Supporting Information).[140]
+
+4.6. Metabolomics
+
+Tens of thousands of metabolites are found in plasma.[133] Since the circulating blood collects metabolites from all organs, metabolomic profiling provides very integral data of human phys- iology and age-related degenerative processes. The metabolome changes constantly over time and in response to myriad fac- tors, complicating the interpretation of results, but at the same time opening a unique opportunity for comprehensive analy- sis. The advantages of metabolomics in aging research over other omics approaches are enhanced sensitivity and predictabil- ity to the physiological state of the body, as well as the po- tential rapid responsiveness to intervention (diet, lifestyle, and drugs).[93] However, similar to proteomics, current metabolomics analytical methods cover only a limited fraction of circulating metabolites in a single experiment.[90]
+
+These and similar biomarkers of physical capability and phys- iological function can be applied as a general assessment of over- all health status for middle-aged and elderly subjects in clinical settings; however, measurable changes in physical function and organ morphology generally occur in the late stage of aging and such biomarkers are less effective at early stages, prior to overt diseases onset.
+
+Earlier studies had analyzed several hundred plasma com- pounds and a large number of them showed statistically signif- icant changes in concentration with age.[134] Advances in high- throughput technologies allow metabolomics profiling on co- horts having a larger size and with enhanced accuracy. In the largest to date metabolomics study (44 168 individuals from 12 cohorts), 14 circulating biomarkers were independently asso- ciated with all-cause mortality, and these associations were simi- lar for men and women and across different ages.[63] The identi- fied biomarkers related to lipoprotein and fatty acids metabolism, glycolysis, fluid balance, and inflammation. Most are well-known risk factors for age-related diseases, such as lipids, glucose, or al- bumin, but their strong independent effect, when combined into one model, was shown for the first time. Importantly, the model based on metabolomic biomarkers and sex had higher predic- tion accuracy of 5- and 10-year mortality than a scoring model composed of conventional risk factors (body-mass index, systolic blood pressure, total cholesterol, etc.). It was therefore confirmed that despite the impermanentnatureof the metabolome, circulat- ing concentrations of particular metabolites measured at a single point in time can predict future clinical outcomes years later.
+
+5.2. Digital Biomarkers
+
+Over the last decade, cheap, portable, and wearable digital devices have emerged as novel tools for monitoring individual health sta- tus inside and outside of the clinic. These advances have spurred the development of so-called digital biomarkers, defined as pa- rameters collected by sensor elements and processed from raw data using the device’s software and hardware. Depending on the method of signal detection, the sensors can be classified into two main groups: physical and biochemical.
+
+Physical sensors are able to measure a number of clinically- relevant physiological characteristics, including the temperature of human skin (by digital thermometer), blood pressure (by digi- tal sphygmomanometer), body motion (by gyroscope, accelerom- eter, and magnetometer), heart rhythms (by wearable electro- cardiograph), heart rate (by photoplethysmography device), and
+
+A particular area of interest is the metabolome of long-lived individuals. Cross-sectional metabolome profiling was carried
+
+www.advancedsciencenews.com
+
+ Molecular & cellular biomarkers~ Genomic instability& mutations- Epigenetic modification- Loss of proteostasis- Mitochondrial dysfunction& oxidative stressSystemic biomarkers- Dysregulated nutrientsensing- Classic blood-based biomarkers- Inflammatory markers- Increased cell senescence- Decreased stemness ~ Hormones- Altered intercellular ~ Metabolic markerscommunication - Organ-specific biomarkers ehetteratePhysical abilityand functionalperformancetesting       eas eenee etsEen rus)   eee an eeu tesCiehiernukes etchishstetes   eres cere tralBeco cicutkelee eresreeitBiomarker-basedmetrics    AGE  Transcriptomics & miRNA omics.Omics-based molecule-pattern biomarkersGenomics & epigenomics Proteomics MetabolomicsreeAging profiles   
+
+Figure 2. The diversity of aging biomarkers in humans. Existing groups of biomarkers show distinct preferences for different stages of aging progression. As people age very differently, the most accurate way to measure degeneration and to predict future outcomes seems to be the use of integrative biomarkers-based metrics able to define personalized trajectories of aging, or aging profiles.
+
+clinical settings is limited due to the labor-intensive and time- consuming modes of detection. Circulating systemic biomark- ers, which are typically used in clinical practice for the diagno- sis of medical conditions and diseases, are more relevant in the later stages of aging progression (Figure 2); moreover, different composite sets of clinical biomarkers are broadly incorporated in current models for biological age assessment and risk predic- tion. Classical anthropometric measurements, physical and cog- nitive functionality measurements, together with rising digital biomarkers, complement discrete molecular biomarkers in the evaluation of health at advanced ages.
+
+blood oxygen levels (by noninvasive pulse oximeter). These mea- surements complement and can even replace traditional physio- logical tests.[141]
+
+Biochemical sensors require body fluids for analysis and can be noninvasive in the case of collecting secreted fluids (saliva, tears, sweat, skin interstitial fluids, urine, or stools), or invasive (blood, biopsies), when sampling is performed by the penetration of the body through injection or incision.[142] Biochemical sen- sors provide measurements of pH, blood oxygen saturation, pro- tein concentration, amino acids, lipids, electrolytes and metabo- lites, hormones, and pathogenic bacteria. The incorporation of the automated dosing systems allows not only monitoring of biomarkers concentration in the body, but also automatically con- trolled drug release, such as in the artificial pancreas device sys- tem, where a glucose sensor placed under the skin is linked to an insulin infusion pump.[143]
+
+Substantial progress in omics approaches provides an oppor- tunity for more multilayer assessment of aging in humans.[90] Omics-based biomarkers can be equally applicable throughout the human lifespan, and at all levels of biological organization, from single cell profiling to systemic phenotyping (Figure 2). The advantage of omics approaches over systemic biomarkers is that they help to reveal underlying degenerative processes at the ear- liest stages when no strong correlation between single molecular biomarkers and associated degenerative processes exist.
+
+Wearable devices with wireless modules are particularly valu- able in remote patient monitoring, allowing real-time consul- tation and immediate medical interventions in life-threatening conditions. They offer advantages over standard functional tests in the clinical, as they generate continuous data, providing a de- termination of an individual’s behavior in normal settings and longitudinally.
+
+Due to the high dimensionality of omics datasets, the inter- pretation of results becomes especially important. By applying machine-learning techniques, different age predictors (epigenet- ics, transcriptomics, proteomics, metabolomics, etc.) can be de- veloped. The prediction accuracy of such approaches increases with the increasing number of samples selected for modeling, but only up to a limited extent. As it has been already men- tioned, people age in different ways, and their organ systems have different resistance to damage accumulation. Moreover, ag- ing of one system may cause changes in other systems, for example, cardiovascular system decline can contribute to neu- rodegeneration, cognitive impairment, liver, and kidney disease, complicating the interpretation of aging progression. If we want to improve biological age modeling, we should consider the personalized system-oriented trajectories of aging, or, in other words, we need to formulate criteria for defining a person’s aging profile. Simple accumulation of biomarkers from all types of data (non-molecular, discrete molecular, and omics-pattern) would, if
+
+6. Future Perspective of Aging Assessment in Human
+
+Distinct aging biomarkers measure different aspects of aging progression, and there is a clear trend toward composite mea- surements of age-related changes. Genetic markers reflect pre- dispositions to certain aging phenotypes, characterized by the prevalence of specific pathological processes and age-related dis- eases; nevertheless, there remains a strong influence of environ- mental factors, limiting conclusions that can be made based on personalized genomic analyses. Molecular and cellular biomark- ers, which reflect early-stage damage events may be in demand for assessment of cell functionality, albeit their applicability in
+
+  1st generationmetrics of agingEstimate biological age usinga single dataset typeand chronological age|First version of epigenetic clocks,transcriptomic clocks, facial clocks  2nd generationmetrics of agingEstimate biological age usinga single dataset type, chronologicalage and clinical biomarkers|PhenoAge, GrimAge  3rd generationmetrics of agingEstimate biological age of organsystems by combining a single ormultiple dataset types, chronologicalage, and system-specific setsof clinical and bioanalyticalbiomarkers|Aging Profile  
+
+Figure 3. Evolution of metrics of biological aging. First-generation metrics of aging were based on one type of dataset (DNA methylation,[106] tomic data,[86] facial images,[144] etc.) correlated with chronological age. These estimators, or aging clocks, measured the deviation of predicted from actual age (biological age acceleration), which was found to be correlated with many age-related diseases and conditions. Now, metrics of aging are being replaced by second-generation metrics that have appeared in the last several years[109,110]. Second-generation metrics aging integrate single type of omics data with clinically relevant biomarkers and, as a result, have greater predictive power and better reflect changes individual health. Integrative metrics able to measure the rate of decline of organ systems, rather than the biological age of the body as a whole,
+
+Acknowledgements
+
+we aim to reveal aging profiles, be rather informative at the young adulthood and midlife stages. But once a person’s profile is de- fined, it may be more reliable to apply predictive models person- alized to each type of aging. Of course, this can only be imple- mented after training of models on suitable datasets of appro- priate size. Such personalized predictive models would present a powerful, third-generation tool for assessing aging (Figure 3).
+
+The authors are grateful to João Pedro de Magalhães and Yujia A. Chan proofreading of the manuscript and insightful comments.
+
+Conflict of Interest
+
+K.S.K., K.B., A.Y.K., N.S.V. work for Centaura AG, a company omics-based metrics of aging for development of novel cellular tions.
+
+7. Conclusions
+
+To date, and despite intense investigation, there is currently no single biomarker (or single set of biomarkers) that enables the reliable and accurate measurement of aging progression in hu- mans. Due to the incredibly complex nature of aging, it is very likely that no such biomarker will ever be found. Instead of try- ing to find new “good molecules,” we need to focus on developing a new strategy how to assess aging in human. Our main hopes lie in the area of omics approaches, which potentially cover the widest range of aging-related data. Taking into account the diver- gence in human aging scenarios, the modeling of personalized trajectories of aging, or aging profiles, by the integral application of all types of biomarkers will likely be the most accurate way to predict future outcomes and facilitate early stage cellular-based intervention aiming to slow down aging.
+
+Keywords
+
+aging, aging profiles, biological age, biomarkers, senescence
+
+[
+
+] C. Franceschi, P. Garagnani, C. Morsiani, M. Conte, A. Santoro, A. Grignolio, D. Monti, M. Capri, S. Salvioli, Front. Med.
+
+,
+
+,
+
+[
+
+] X. Xia, W. Chen, J. M
+
+ermott, J. J. Han, F
+
+Research
+
+,
+
+,
+
+[
+
+] a) A. A. Saedi, J. Feehan, S. Phu, G. Duque, Clin. Interv. Aging
+
+,
+
+,
+
+; b) J. Jylhava, N. L. Pedersen, S. Hagg, EBi
+
+edicine
+
+,
+
+,
+
+[
+
+] K. H. Wagner, D. Cameron-Smith, B. Wessner, B. Franzke, Nutrients
+
+,
+
+, E
+
+[
+
+] C. Lopez-Otin, M. A. Blasco, L. Partridge, M. Serrano, G. Kroemer, Cell
+
+,
+
+,
+
+[
+
+] E. Crimmins, S. Vasunilashorn, J. K. Kim, D. Alley, Adv. Clin. Chem.
+
+,
+
+,
+
+Supporting Information
+
+Supporting Information is available from the Wiley Online Library or from the author.
+
+X. Bai, Adv. Exp. Med. Biol.
+
+,
+
+,
+
+P. M. Engelfriet, E. H. Jansen, H. S. Picavet, M. E. Dolle, Rev.
+
+,
+
+,
+
+S. S. Khan, B. D. Singer, D. E. Vaughan, Aging Cell
+
+,
+
+,
+
+V. N. Gladyshev, Aging Cell
+
+,
+
+,
+
+Y. Hou, X. Dan, M. Babbar, Y. Wei, S. G. Hasselbalch, D. L. V. A. Bohr, Nat. Rev. Neurol.
+
+,
+
+,
+
+L. J. Mah, A. El-Osta, T. C. Karagiannis, Epigenetics
+
+,
+
+,
+
+L. Zhang, X. Dong, M. Lee, A. Y. Maslov, T. Wang, J. Vijg, Proc. Acad. Sci. USA
+
+,
+
+,
+
+J. W. Shay, W. E. Wright, Nat. Rev. Genet.
+
+,
+
+,
+
+T. von Zglinicki, Trends Biochem. Sci.
+
+,
+
+,
+
+a) G. Atzmon, M. Cho, R. M. Cawthon, T. Budagov, M. Katz, X. J. W. Shay, N. Barzilai, D. R. Govindaraju, Y. Suh, Proc. Natl. Sci. USA
+
+,
+
+,
+
+; b) D. H. Rehkopf, W. H. Dow, L. Bixby, J. Lin, E. S. Epel, E. H. Blackburn, Exp. Gerontol.
+
+,
+
+J. L. Sanders, A. B. Newman, Epidemiol. Rev.
+
+,
+
+,
+
+K. A. Mather, A. F. Jorm, R. A. Parslow, H. Christensen, J. A Biol. Sci. Med. Sci.
+
+,
+
+,
+
+S. L. Sanderson, A. K. Simon, Aging Cell
+
+,
+
+,
+
+I. Moreno-Gonzalez, C. Soto, Semin. Cell Dev. Biol.
+
+,
+
+,
+
+M. S. Hipp, P. Kasturi, F. U. Hartl, Nat. Rev. Mol. Cell Biol.
+
+,
+
+T. Wyss-Coray, Nature
+
+,
+
+,
+
+M. Matjusaitis, G. Chin, E. A. Sarnoski, A. Stolzing, Ageing Res.
+
+,
+
+,
+
+I. Martinez de Toda, M. De la Fuente, Biogerontology
+
+,
+
+, R. H. Haas, Biology
+
+,
+
+, E
+
+B. A. Payne, P. F. Chinnery, Biochim. Biophys. Acta
+
+,
+
+, I. Liguori, G. Russo, F. Curcio, G. Bulli, L. Aran, D. Della-Morte, Gargiulo, G. Testa, F. Cacciatore, D. Bonaduce, P. Abete, Clin. Aging
+
+,
+
+,
+
+A. Sanz, R. K. Stefanatos, Curr. Aging Sci.
+
+,
+
+,
+
+G. P. Dimri, X. Lee, G. Basile, M. Acosta, G. Scott, C. Roskelley, E. E. Medrano, M. Linskens, I. Rubelj, O. Pereira-Smith, Proc. Natl. Acad. Sci. USA
+
+,
+
+,
+
+L. Spazzafumo, E. Mensa, G. Matacchione, T. Galeazzi, L. Zampini, R. Recchioni, F. Marcheselli, F. Prattichizzo, R. Testa, R. Antonicelli, P. Garagnani, M. Boemi, M. Bonafe, A. R. Bonfigli, A. D. Procopio, F. Olivieri, Oncotarget
+
+,
+
+,
+
+A. S. Wang, O. Dreesen, Front. Genet.
+
+,
+
+,
+
+F. d. A. d. Fagagna, F. d’Adda di Fagagna, P. M. Reaper, L. Clay- Farrace, H. Fiegler, P. Carr, T. Von Zglinicki, G. Saretzki, N. P. Carter, S. P. Jackson, Nature
+
+,
+
+,
+
+K. M. Aird, R. Zhang, Methods Mol. Biol.
+
+,
+
+,
+
+A.L.Cardoso,A.Fernandes,J.A.Aguilar-Pimentel,M.H.d
+
+ngelis, J. R. Guedes, M. A. Brito, S. Ortolano, G. Pani, S. Athanasopoulou, E. S. Gonos, M. Schosserer, J. Grillari, P. Peterson, B. G. Tuna, S. Dogan, A. Meyer, R. van Os, A. U. Trendelenburg, Ageing Res. Rev.
+
+,
+
+,
+
+B. Bernardes de Jesus, M. A. Blasco, Circ. Res.
+
+,
+
+,
+
+a) A. Hernandez-Segura, T. V. de Jong, S. Melov, V. Guryev, J. Camp- isi, M. Demaria, Curr. Biol.
+
+,
+
+,
+
+; b) J. P. Coppe, F. Rodier, C. K. Patil, A. Freund, P. Y. Desprez, J. Campisi, J. Biol. Chem.
+
+,
+
+,
+
+S.R.G.Calimport,B.L.Bentley,C.E.Stewart,G.Pawelec,A.Scuteri, M. Vinciguerra, C. Slack, D. Chen, L. W. Harries, G. Marchant, G. A. Fleming, M. Conboy, A. Antebi, G. W. Small, J. Gil, E. G. Lakatta, A. Richardson, C. Rosen, K. Nikolich, T. Wyss-Coray, L. Steinman, T. Montine, J. P. de Magalhaes, J. Campisi, G. Church, Science
+
+,
+
+,
+
+M. B. Schultz, D. A. Sinclair, Development
+
+,
+
+,
+
+L. B. Boyette, R. S. Tuan, J. Clin. Med.
+
+,
+
+,
+
+H. Lee-Six, N. F. Obro, M. S. Shepherd, S. Grossmann, K. Dawson,
+
+G. P. Dimri, X. Lee, G. Basile, M. Acosta, G. Scott, C. Roskelley, E. E. Medrano, M. Linskens, I. Rubelj, O. Pereira-Smith, Proc. Natl. Acad. Sci. USA
+
+,
+
+,
+
+L. Spazzafumo, E. Mensa, G. Matacchione, T. Galeazzi, L. Zampini, R. Recchioni, F. Marcheselli, F. Prattichizzo, R. Testa, R. Antonicelli, P. Garagnani, M. Boemi, M. Bonafe, A. R. Bonfigli, A. D. Procopio, F. Olivieri, Oncotarget
+
+,
+
+,
+
+A. S. Wang, O. Dreesen, Front. Genet.
+
+,
+
+,
+
+F. d. A. d. Fagagna, F. d’Adda di Fagagna, P. M. Reaper, L. Clay- Farrace, H. Fiegler, P. Carr, T. Von Zglinicki, G. Saretzki, N. P. Carter, S. P. Jackson, Nature
+
+,
+
+,
+
+K. M. Aird, R. Zhang, Methods Mol. Biol.
+
+,
+
+,
+
+A.L.Cardoso,A.Fernandes,J.A.Aguilar-Pimentel,M.H.d
+
+ngelis, J. R. Guedes, M. A. Brito, S. Ortolano, G. Pani, S. Athanasopoulou, E. S. Gonos, M. Schosserer, J. Grillari, P. Peterson, B. G. Tuna, S. Dogan, A. Meyer, R. van Os, A. U. Trendelenburg, Ageing Res. Rev.
+
+,
+
+,
+
+B. Bernardes de Jesus, M. A. Blasco, Circ. Res.
+
+,
+
+,
+
+a) A. Hernandez-Segura, T. V. de Jong, S. Melov, V. Guryev, J. Camp- isi, M. Demaria, Curr. Biol.
+
+,
+
+,
+
+; b) J. P. Coppe, F. Rodier, C. K. Patil, A. Freund, P. Y. Desprez, J. Campisi, J. Biol. Chem.
+
+,
+
+,
+
+S.R.G.Calimport,B.L.Bentley,C.E.Stewart,G.Pawelec,A.Scuteri, M. Vinciguerra, C. Slack, D. Chen, L. W. Harries, G. Marchant, G. A. Fleming, M. Conboy, A. Antebi, G. W. Small, J. Gil, E. G. Lakatta, A. Richardson, C. Rosen, K. Nikolich, T. Wyss-Coray, L. Steinman, T. Montine, J. P. de Magalhaes, J. Campisi, G. Church, Science
+
+,
+
+,
+
+M. B. Schultz, D. A. Sinclair, Development
+
+,
+
+,
+
+L. B. Boyette, R. S. Tuan, J. Clin. Med.
+
+,
+
+,
+
+H. Lee-Six, N. F. Obro, M. S. Shepherd, S. Grossmann, K. Dawson, M. Belmonte, R. J. Osborne, B. J. P. Huntly, I. Martincorena, E. An- derson, L. O’Neill, M. R. Stratton, E. Laurenti, A. R. Green, D. G. Kent, P. J. Campbell, Nature
+
+,
+
+,
+
+R. Moresi, S. Tesei, L. Costarelli, C. Viticchi, R. Stecconi, G. Bernar- dini, M. Provinciali, Biogerontology
+
+,
+
+,
+
+G. Mandraffino, C. O. Aragona, G. Basile, V. Cairo, F. Mamone, C. Morace, A. D’Ascola, A. Alibrandi, A. Lo Gullo, S. Loddo, A. Saitta, E. Imbalzano, Mech. Ageing Dev.
+
+,
+
+,
+
+H. Holstege, W. Pfeiffer, D. Sie, M. Hulsman, T. J. Nicholas, C. C. Lee, T. Ross, J. Lin, M. A. Miller, B. Ylstra, H. Meijers-Heijboer, M. H. Brugman, F. J. Staal, G. Holstege, M. J. Reinders, T. T. Harkins, S. Levy, E. A. Sistermans, Genome Res.
+
+,
+
+,
+
+M. A. Goodell, M. A. Goodell, T. A. Rando, Science
+
+,
+
+,
+
+N. Tapia, D. W. Han, H. R. Scholer, Cell Stem Cell
+
+,
+
+,
+
+K. Honoki, World J. Stem Cells
+
+,
+
+,
+
+H. L. Birch, Subcell. Biochem.
+
+,
+
+,
+
+D. W. Belsky, A. Caspi, R. Houts, H. J. Cohen, D. L. Corcoran, A. Danese, H. Harrington, S. Israel, M. E. Levine, J. D. Schaefer, K. Sugden,B.Williams,A.I.Yashin,R.Poulton,T.E.Moffitt,Proc.Natl. Acad. Sci. USA
+
+,
+
+, E
+
+A. E. Kane, D. A. Sinclair, Mech. Ageing Dev.
+
+,
+
+,
+
+J. Deelen, J. Kettunen, K. Fischer, A. van der Spek, S. Trompet, G. Kastenmüller, A. Boyd, J. Zierer, E. B. van den Akker, M. Ala-Korpela, N. Amin, A. Demirkan, M. Ghanbari, D. van Heemst, M. A. Ikram, J. B. van Klinken, S. P. Mooijaart, A. Peters, V. Salomaa, N. Sattar, T. D. Spector, H. Tiemeier, A. Verhoeven, M. Waldenberger, P. Würtz, G. Davey Smith, A. Metspalu, M. Perola, C. Menni, J. M. Geleijnse, et al., Nat. Commun.
+
+,
+
+,
+
+A. Mitnitski, J. Collerton, C. Martin-Ruiz, C. Jagger, T. von Zglinicki, K. Rockwood, T. B. Kirkwood, BMC Med.
+
+,
+
+,
+
+J. N. Justice, L. Ferrucci, A. B. Newman, V. R. Aroda, J. L. Bahn- son, J. Divers, M. A. Espeland, S. Marcovina, M. N. Pollak, S. B. Kritchevsky, N. Barzilai, G. A. Kuchel, Geroscience
+
+,
+
+,
+
+[
+
+] P. M. Engelfriet, E. H. Jansen, H. S. Picavet, M. E. Dolle, Epidemiol. Rev.
+
+,
+
+,
+
+[
+
+] S. S. Khan, B. D. Singer, D. E. Vaughan, Aging Cell
+
+,
+
+,
+
+[
+
+] V. N. Gladyshev, Aging Cell
+
+,
+
+,
+
+[
+
+] Y. Hou, X. Dan, M. Babbar, Y. Wei, S. G. Hasselbalch, D. L. Croteau, V. A. Bohr, Nat. Rev. Neurol.
+
+,
+
+,
+
+[
+
+] L. J. Mah, A. El-Osta, T. C. Karagiannis, Epigenetics
+
+,
+
+,
+
+[
+
+] L. Zhang, X. Dong, M. Lee, A. Y. Maslov, T. Wang, J. Vijg, Proc. Natl. Acad. Sci. USA
+
+,
+
+,
+
+[
+
+] J. W. Shay, W. E. Wright, Nat. Rev. Genet.
+
+,
+
+,
+
+[
+
+] T. von Zglinicki, Trends Biochem. Sci.
+
+,
+
+,
+
+[
+
+] a) G. Atzmon, M. Cho, R. M. Cawthon, T. Budagov, M. Katz, X. Yang, G.Siegel,A.Bergman,D.M.Huffman,C.B.Schechter,W.E.Wright, J. W. Shay, N. Barzilai, D. R. Govindaraju, Y. Suh, Proc. Natl. Acad. Sci. USA
+
+,
+
+,
+
+; b) D. H. Rehkopf, W. H. Dow, L. Rosero- Bixby, J. Lin, E. S. Epel, E. H. Blackburn, Exp. Gerontol.
+
+,
+
+,
+
+[
+
+] J. L. Sanders, A. B. Newman, Epidemiol. Rev.
+
+,
+
+,
+
+[
+
+] K. A. Mather, A. F. Jorm, R. A. Parslow, H. Christensen, J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+,
+
+[
+
+] S. L. Sanderson, A. K. Simon, Aging Cell
+
+,
+
+,
+
+[
+
+] I. Moreno-Gonzalez, C. Soto, Semin. Cell Dev. Biol.
+
+,
+
+,
+
+[
+
+] M. S. Hipp, P. Kasturi, F. U. Hartl, Nat. Rev. Mol. Cell Biol.
+
+,
+
+,
+
+[
+
+] T. Wyss-Coray, Nature
+
+,
+
+,
+
+[
+
+] M. Matjusaitis, G. Chin, E. A. Sarnoski, A. Stolzing, Ageing Res. Rev.
+
+,
+
+,
+
+[
+
+] I. Martinez de Toda, M. De la Fuente, Biogerontology
+
+,
+
+,
+
+[
+
+] R. H. Haas, Biology
+
+,
+
+, E
+
+[
+
+] B. A. Payne, P. F. Chinnery, Biochim. Biophys. Acta
+
+,
+
+,
+
+[
+
+] I. Liguori, G. Russo, F. Curcio, G. Bulli, L. Aran, D. Della-Morte, G. Gargiulo, G. Testa, F. Cacciatore, D. Bonaduce, P. Abete, Clin. Interv. Aging
+
+,
+
+,
+
+[
+
+] A. Sanz, R. K. Stefanatos, Curr. Aging Sci.
+
+,
+
+,
+
+[
+
+] F. Scialo, V. Mallikarjun, R. Stefanatos, A. Sanz, Antioxid. Redox Sig- nal.
+
+,
+
+,
+
+[
+
+] K. Syslova, A. Bohmova, M. Mikoska, M. Kuzma, D. Pelclova, P. Kacer, Oxid. Med. Cell Longev.
+
+,
+
+,
+
+[
+
+] G. L. Milne, Redox Biol.
+
+,
+
+,
+
+[
+
+] P. Gkogkolou, M. Bohm, Dermatoendocrinol
+
+,
+
+,
+
+[
+
+] H. Vlassara, J. Uribarri, Curr. Diab. Rep.
+
+,
+
+,
+
+[
+
+] J. Chaudhuri, Y. Bains, S. Guha, A. Kahn, D. Hall, N. Bose, A. Gugli- ucci, P. Kapahi, Cell Metab.
+
+,
+
+,
+
+[
+
+] G. Vistoli, D. De Maddis, A. Cipak, N. Zarkovic, M. Carini, G. Aldini, Free Radic. Res.
+
+,
+
+,
+
+[
+
+] M. Ogrodnik, H. Salmonowicz, V. N. Gladyshev, Aging Cell
+
+,
+
+, e
+
+[
+
+] J. P. Coppe, P. Y. Desprez, A. Krtolica, J. Campisi, Annu. Rev. Pathol.
+
+,
+
+,
+
+[
+
+] a) Z. Dou, K. Ghosh, M. G. Vizioli, J. Zhu, P. Sen, K. J. Wangensteen, J. Simithy, Y. Lan, Y. Lin, Z. Zhou, B. C. Capell, C. Xu, M. Xu, J. E. Kieckhaefer, T. Jiang, M. Shoshkes-Carmel, K. Tanim, G. N. Barber, J. T. Seykora, S. E. Millar, K. H. Kaestner, B. A. Garcia, P. D. Adams, S. L. Berger, Nature
+
+,
+
+,
+
+; b) T. Li, Z. J. Chen, J. Exp. Med.
+
+,
+
+,
+
+; c) R. Dhanwani, M. Takahashi, S. Sharma, Curr. Opin. Immunol.
+
+,
+
+,
+
+[
+
+] M. De Cecco, T. Ito, A. P. Petrashen, A. E. Elias, N. J. Skvir, S. W. Criscione, A. Caligiana, G. Brocculi, E. M. Adney, J. D. Boeke, O. Le, C. Beausejour, J. Ambati, K. Ambati, M. Simon, A. Seluanov, V. Gorbunova, P. E. Slagboom, S. L. Helfand, N. Neretti, J. M. Sedivy, Nature
+
+,
+
+,
+
+[
+
+] D. M
+
+ugh, J. Gil, J. Cell Biol.
+
+,
+
+,
+
+[
+
+] J. P. de Magalhaes, Nat. Rev. Cancer
+
+,
+
+,
+
+Gargiulo, G. Testa, F. Cacciatore, D. Bonaduce, P. Abete, Clin. Aging
+
+,
+
+,
+
+[
+
+] A. Sanz, R. K. Stefanatos, Curr. Aging Sci.
+
+,
+
+,
+
+[
+
+] F. Scialo, V. Mallikarjun, R. Stefanatos, A. Sanz, Antioxid. Redox nal.
+
+,
+
+,
+
+[
+
+] K. Syslova, A. Bohmova, M. Mikoska, M. Kuzma, D. Pelclova, Kacer, Oxid. Med. Cell Longev.
+
+,
+
+,
+
+[
+
+] G. L. Milne, Redox Biol.
+
+,
+
+,
+
+[
+
+] P. Gkogkolou, M. Bohm, Dermatoendocrinol
+
+,
+
+,
+
+[
+
+] H. Vlassara, J. Uribarri, Curr. Diab. Rep.
+
+,
+
+,
+
+[
+
+] J. Chaudhuri, Y. Bains, S. Guha, A. Kahn, D. Hall, N. Bose, A. ucci, P. Kapahi, Cell Metab.
+
+,
+
+,
+
+[
+
+] G. Vistoli, D. De Maddis, A. Cipak, N. Zarkovic, M. Carini, G. Free Radic. Res.
+
+,
+
+,
+
+[
+
+] M. Ogrodnik, H. Salmonowicz, V. N. Gladyshev, Aging Cell
+
+, e
+
+[
+
+] J. P. Coppe, P. Y. Desprez, A. Krtolica, J. Campisi, Annu. Rev.
+
+,
+
+,
+
+[
+
+] a) Z. Dou, K. Ghosh, M. G. Vizioli, J. Zhu, P. Sen, K. J. J. Simithy, Y. Lan, Y. Lin, Z. Zhou, B. C. Capell, C. Xu, M. Xu, J. Kieckhaefer, T. Jiang, M. Shoshkes-Carmel, K. Tanim, G. N. J. T. Seykora, S. E. Millar, K. H. Kaestner, B. A. Garcia, P. D. S. L. Berger, Nature
+
+,
+
+,
+
+; b) T. Li, Z. J. Chen, J. Exp.
+
+,
+
+,
+
+; c) R. Dhanwani, M. Takahashi, S. Sharma, Opin. Immunol.
+
+,
+
+,
+
+[
+
+] M. De Cecco, T. Ito, A. P. Petrashen, A. E. Elias, N. J. Skvir, S. Criscione, A. Caligiana, G. Brocculi, E. M. Adney, J. D. Boeke, Le, C. Beausejour, J. Ambati, K. Ambati, M. Simon, A. Seluanov, Gorbunova, P. E. Slagboom, S. L. Helfand, N. Neretti, J. M. Nature
+
+,
+
+,
+
+[
+
+] D. M
+
+ugh, J. Gil, J. Cell Biol.
+
+,
+
+,
+
+Sugden,B.Williams,A.I.Yashin,R.Poulton,T.E.Moffitt,Proc.Natl. Acad. Sci. USA
+
+,
+
+, E
+
+[
+
+] A. E. Kane, D. A. Sinclair, Mech. Ageing Dev.
+
+,
+
+,
+
+[
+
+] J. Deelen, J. Kettunen, K. Fischer, A. van der Spek, S. Trompet, G. Kastenmüller, A. Boyd, J. Zierer, E. B. van den Akker, M. Ala-Korpela, N. Amin, A. Demirkan, M. Ghanbari, D. van Heemst, M. A. Ikram, J. B. van Klinken, S. P. Mooijaart, A. Peters, V. Salomaa, N. Sattar, T. D. Spector, H. Tiemeier, A. Verhoeven, M. Waldenberger, P. Würtz, G. Davey Smith, A. Metspalu, M. Perola, C. Menni, J. M. Geleijnse, et al., Nat. Commun.
+
+,
+
+,
+
+[
+
+] A. Mitnitski, J. Collerton, C. Martin-Ruiz, C. Jagger, T. von Zglinicki, K. Rockwood, T. B. Kirkwood, BMC Med.
+
+,
+
+,
+
+[
+
+] J. N. Justice, L. Ferrucci, A. B. Newman, V. R. Aroda, J. L. Bahn- son, J. Divers, M. A. Espeland, S. Marcovina, M. N. Pollak, S. B. Kritchevsky, N. Barzilai, G. A. Kuchel, Geroscience
+
+,
+
+,
+
+[40] D. McHugh, J. Gil, J. Cell Biol. 2018, 217, 65. [41] J. P. de Magalhaes, Nat. Rev. Cancer 2013, 13,
+
+www.advancedsciencenews.com
+
+kov, P. O. Fedichev, bi
+
+xiv
+
+,
+
+[
+
+] G. S. Baird, S. K. Nelson, T. R. Keeney, A. Stewart, S. Williams, S. Kraemer, E. R. Peskind, T. J. Montine, Am. J. Pathol.
+
+,
+
+,
+
+[
+
+] J. S. Hawe, F. J. Theis, M. Heinig, Front. Genet.
+
+,
+
+,
+
+[
+
+] J. Zierer, C. Menni, G. Kastenmuller, T. D. Spector, Aging Cell
+
+,
+
+,
+
+[
+
+] a) B. Ljungquist, S. Berg, J. Lanke, G. E. M
+
+learn, N. L. Pedersen, J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+, M
+
+; b) A. M. Herskind, M. M
+
+ue, N. V. Holm, T. I. Sorensen, B. Harvald, J. W. Vaupel, Hum. Genet.
+
+,
+
+,
+
+; c) M. Gogele, C. Pattaro, C. Fuchsberger, C. Minelli, P. P. Pramstaller, M. Wjst, J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+,
+
+; d) J. Kaplanis, A. Gordon, T. Shor, O. Weissbrod, D. Geiger, M. Wahl, M. Gershovits, B. Markus, M. Sheikh, M. Gymrek, G. Bhatia, D. G. Ma
+
+rthur, A. L. Price, Y. Erlich, Science
+
+,
+
+,
+
+[
+
+] J. G. Ruby, K. M. Wright, K. A. Rand, A. Kermany, K. Noto, D. Cur- tis, N. Varner, D. Garrigan, D. Slinkov, I. Dorfman, J. M. Granka, J. Byrnes, N. Myres, C. Ball, Genetics
+
+,
+
+,
+
+[
+
+] J. M. Hoffman, Y. Lyu, S. D. Pletcher, D. E. L. Promislow, Essays Biochem.
+
+,
+
+,
+
+[
+
+] a) J. Deelen, M. Beekman, H. W. Uh, L. Broer, K. L. Ayers, Q. Tan, Y. Kamatani, A. M. Bennet, R. Tamm, S. Trompet, D. F. Guethbjarts- son, F. Flachsbart, G. Rose, A. Viktorin, K. Fischer, M. Nygaard, H. J. Cordell, P. Crocco, E. B. van den Akker, S. Bohringer, Q. Helmer, C. P. Nelson, G. I. Saunders, M. Alver, K. Andersen-Ranberg, M. E. Breen, R. van der Breggen, A. Caliebe, M. Capri, E. Cevenini, et al., Hum. Mol. Genet.
+
+,
+
+,
+
+; b) Y. Zeng, C. Nie, J. Min, X. Liu, M. Li, H. Chen, H. Xu, M. Wang, T. Ni, Y. Li, H. Yan, J. P. Zhang, C. Song, L. Q. Chi, H. M. Wang, J. Dong, G. Y. Zheng, L. Lin, F. Qian, Y. Qi, X. Liu, H. Cao, Y. Wang, L. Zhang, Z. Li, Y. Zhou, Y. Wang, J. Lu, J. Li, M. Qi, et al., Sci. Rep.
+
+,
+
+,
+
+[
+
+] K. Fortney, E. Dobriban, P. Garagnani, C. Pirazzini, D. Monti, D. Mari, G. Atzmon, N. Barzilai, C. Franceschi, A. B. Owen, S. K. Kim, PL
+
+Genet.
+
+,
+
+, e
+
+[
+
+] A. Zenin, Y. Tsepilov, S. Sharapov, E. Getmantsev, L. I. Menshikov, P. O. Fedichev, Y. Aulchenko, Commun. Biol.
+
+,
+
+,
+
+[
+
+] P. Sebastiani, S. L. Andersen, A. I. M
+
+ntosh, L. Nussbaum, M. D. Stevenson, L. Pierce, S. Xia, K. Salance, T. T. Perls, N. Am. Actuar. J.
+
+,
+
+,
+
+[
+
+] A. R. Brooks-Wilson, Hum. Genet.
+
+,
+
+,
+
+[
+
+] a) I. Kuznetsova, S. J. Siira, A. J. Shearwood, J. A. Ermer, A. Fil- ipovska, O. Rackham, Nucleic Acids Res.
+
+,
+
+,
+
+; b) L. Broer, A. S. Buchman, J. Deelen, D. S. Evans, J. D. Faul, K. L. Lunetta, P. Sebastiani, J. A. Smith, A. V. Smith, T. Tanaka, L. Yu, A. M. Arnold, T. Aspelund, E. J. Benjamin, P. L. De Jager, G. Eirkisdottir, D. A. Evans, M. E. Garcia, A. Hofman, R. C. Kaplan, S. L. Kardia, D. P. Kiel, B. A. Oostra, E. S. Orwoll, N. Parimi, B. M. Psaty, F. Rivadeneira, J. I.
+
+Ann. Intern. Med.
+
+,
+
+,
+
+[
+
+] A. M. Horstman, E. L. Dillon, R. J. Urban, M. Sheffield-Moore, J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+,
+
+[
+
+] F. Labrie, Prog. Brain Res.
+
+,
+
+,
+
+[
+
+] A.Burkle,M.Moreno-Villanueva,J.Bernhard,M.Blasco,G.Zondag, J. H. Hoeijmakers, O. Toussaint, B. Grubeck-Loebenstein, E. Moc- chegiani, S. Collino, E. S. Gonos, E. Sikora, D. Gradinaru, M. Dolle, M. Salmon, P. Kristensen, H. R. Griffiths, C. Libert, T. Grune, N. Breusing, A. Simm, C. Franceschi, M. Capri, D. Talbot, P. Caiafa, B. Friguet, P. E. Slagboom, A. Hervonen, M. Hurme, R. Aspinall, Mech. Ageing Dev.
+
+,
+
+,
+
+[
+
+] E. van der Spoel, S. W. Jansen, A. A. Akintola, B. E. Ballieux, C. M. Cobbaert, P. E. Slagboom, G. J. Blauw, R. G. J. Westendorp, H. Pijl, F. Roelfsema, D. van Heemst, Aging Cell
+
+,
+
+,
+
+[
+
+] S. Milman, G. Atzmon, D. M. Huffman, J. Wan, J. P. Crandall, P. Cohen, N. Barzilai, Aging Cell
+
+,
+
+,
+
+[
+
+] a) C. Tazearslan, J. Huang, N. Barzilai, Y. Suh, Aging Cell
+
+,
+
+,
+
+;b)D.va
+
+eemst,M.Beekman,S.P.Mooijaart,B.T.Heijmans, B. W. Brandt, B. J. Zwaan, P. E. Slagboom, R. G. Westendorp, Aging Cell
+
+,
+
+,
+
+[
+
+] C. Martin-Ruiz, C. Jagger, A. Kingston, J. Collerton, M. Catt, K. Davies, M. Dunn, C. Hilkens, B. Keavney, S. H. Pearce, W. P. den Elzen, D. Talbot, L. Wiley, J. Bond, J. C. Mathers, M. P. Eccles, L. Robinson, O. James, T. B. Kirkwood, T. von Zglinicki, Mech. Ageing Dev.
+
+,
+
+,
+
+[
+
+] a) A. W. van den Beld, T. J. Visser, R. A. Feelders, D. E. Grobbee, S. W. Lamberts, J. Clin. Endocrinol. Metab.
+
+,
+
+,
+
+; b) E. Forestier, S. Vinzio, R. Sapin, J. L. Schlienger, B. Goichot, Eur. J. Endocrinol.
+
+,
+
+,
+
+[
+
+] a)H.Kord-Varkaneh,S.Fatahi,S.Alizadeh,E.Ghaedi,S.Shab-Bidar, Horm. Metab. Res.
+
+,
+
+,
+
+b) G. E. Delgado, R. Siekmeier, W. Marz, M. E. Kleber, in Pulmonary Dysfunction and Disease (Ed: M. Pokorski), Springer, Cham, Switzerland
+
+, pp.
+
+–
+
+; c) Y. Arai, K. Kamide, N. Hirose, Front. Endocrinol.
+
+,
+
+,
+
+[
+
+] D. J. Llewellyn, I. A. Lang, K. M. Langa, G. Muniz-Terrera, C. L. Phillips,A.Cherubini,L.Ferrucci,D.Melzer,Arch.Intern.Med.
+
+,
+
+,
+
+[
+
+] M. C. Odden, I. B. Taqer, R. T. Gansevoort, S. J. Bakker, R. Katz, L. F. Fried, A. B. Newman, R. B. Canada, T. Harris, M. J. Sarnak, D. Siscovick, M. G. Shilpak, Nephrol. Dial. Transplant.
+
+,
+
+(
+
+),
+
+[
+
+] D. W. Belsky, T. E. Moffitt, A. A. Cohen, D. L. Corcoran, M. E. Levine, J. A. Prinz, J. Schaefer, K. Sugden, B. Williams, R. Poulton, A. Caspi, Am. J. Epidemiol.
+
+,
+
+,
+
+[
+
+] P. Sebastiani, N. Solovieff, A. T. Dewan, K. M. Walsh, A. Puca, S. W. Hartley, E. Melista, S. Andersen, D. A. Dworkis, J. B. Wilk, R. H. Myers, M. H. Steinberg, M. Montano, C. T. Baldwin, J. Hoh, T. T. Perls, PL
+
+One
+
+,
+
+, e
+
+[
+
+] D. W. Belsky, K. M. Huffman, C. F. Pieper, I. Shalev, W. E. Kraus, J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+,
+
+[
+
+] L. Jia, W. Zhang, X. Chen, Clin. Interv. Aging
+
+,
+
+,
+
+[
+
+] P. Mamoshina, K. Kochetov, E. Putin, F. Cortese, A. Aliper, W. S. Lee, S. M. Ahn, L. Uhn, N. Skjodt, O. Kovalchuk, M. Scheibye-Knudsen, A. Zhavoronkov, J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+,
+
+J. Cordell, P. Crocco, E. B. van den Akker, S. Bohringer, Q. C. P. Nelson, G. I. Saunders, M. Alver, K. Andersen-Ranberg, M. Breen, R. van der Breggen, A. Caliebe, M. Capri, E. Cevenini, et Hum. Mol. Genet.
+
+,
+
+,
+
+; b) Y. Zeng, C. Nie, J. Min, X. M. Li, H. Chen, H. Xu, M. Wang, T. Ni, Y. Li, H. Yan, J. P. Zhang, Song, L. Q. Chi, H. M. Wang, J. Dong, G. Y. Zheng, L. Lin, F. Qian, Qi, X. Liu, H. Cao, Y. Wang, L. Zhang, Z. Li, Y. Zhou, Y. Wang, J. J. Li, M. Qi, et al., Sci. Rep.
+
+,
+
+,
+
+[
+
+] K. Fortney, E. Dobriban, P. Garagnani, C. Pirazzini, D. Monti, Mari, G. Atzmon, N. Barzilai, C. Franceschi, A. B. Owen, S. K. PL
+
+Genet.
+
+,
+
+, e
+
+[
+
+] A. Zenin, Y. Tsepilov, S. Sharapov, E. Getmantsev, L. I. P. O. Fedichev, Y. Aulchenko, Commun. Biol.
+
+,
+
+,
+
+[
+
+] P. Sebastiani, S. L. Andersen, A. I. M
+
+ntosh, L. Nussbaum, M. Stevenson, L. Pierce, S. Xia, K. Salance, T. T. Perls, N. Am. Actuar.
+
+,
+
+,
+
+[
+
+] A. R. Brooks-Wilson, Hum. Genet.
+
+,
+
+,
+
+[
+
+] a) I. Kuznetsova, S. J. Siira, A. J. Shearwood, J. A. Ermer, A. ipovska, O. Rackham, Nucleic Acids Res.
+
+,
+
+,
+
+; b) L. A. S. Buchman, J. Deelen, D. S. Evans, J. D. Faul, K. L. Lunetta, Sebastiani, J. A. Smith, A. V. Smith, T. Tanaka, L. Yu, A. M. Arnold, Aspelund, E. J. Benjamin, P. L. De Jager, G. Eirkisdottir, D. A. M. E. Garcia, A. Hofman, R. C. Kaplan, S. L. Kardia, D. P. Kiel, A. Oostra, E. S. Orwoll, N. Parimi, B. M. Psaty, F. Rivadeneira, J. Rotter, S. Seshadri, A. Singleton, et al., J. Gerontol. A Biol. Sci. Sci.
+
+,
+
+,
+
+; c) C. V. Anselmi, A. Malovini, R. Roncarati, Novelli, F. Villa, G. Condorelli, R. Bellazzi, A. A. Puca, Res.
+
+,
+
+,
+
+; d) A. Nebel, R. Kleindorp, A. Caliebe, M. nagel, H. Blanche, O. Junge, M. Wittig, D. Ellinghaus, F. H. E. Wichmann, T. Meitinger, S. Nikolaus, A. Franke, M. M. Lathrop, S. Schreiber, Mech. Ageing Dev.
+
+,
+
+,
+
+; e) Schachter, L. Faure-Delanef, F. Guenot, H. Rouger, P. Froguel, Lesueur-Ginot, D. Cohen, Nat. Genet.
+
+,
+
+,
+
+; f) M. S. Dato, K. Christensen, M. M
+
+ue, T. Stevnsner, V. A. Bohr, Christiansen, Aging Cell
+
+,
+
+,
+
+; g) K. M. Wright, K. A. A. Kermany, K. Noto, D. Curtis, D. Garrigan, D. Slinkov, I. J. M. Granka, J. Byrnes, N. Myres, C. A. Ball, J. G. Ruby, G
+
+: Genomes, Genet.
+
+,
+
+,
+
+a) C. C. Liu, C. C. Liu, T. Kanekiyo, H. Xu, G. Bu, Nat. Rev.
+
+[100] a) C. C. Liu, C. C. Liu, T. Kanekiyo, H. Xu, G. Bu, Nat. Rev. Neurol. 2013, 9, 106; b) W. Chen, F. Jin, G. Cao, R. Mei, Y. Wang, P. Long,
+
+J. G. Fleischer, R. Schulte, H. H. Tsai, S. Tyagi, A. Ibarra, M. Shokhirev, L. Huang, M. W. Hetzer, S. Navlakha, Genome Biol.
+
+,
+
+P. Mamoshina, M. Volosnikova, I. V. Ozerov, E. Putin, E. Skibina, Cortese, A. Zhavoronkov, Front. Genet.
+
+,
+
+,
+
+D. Baek, J. Villen, C. Shin, F. D. Camargo, S. P. Gygi, D. P. Nature
+
+,
+
+,
+
+P. S. Mitchell, R. K. Parkin, E. M. Kroh, B. R. Fritz, S. K. Wyman, L. Pogosova-Agadjanyan, A. Peterson, J. Noteboom, K. C. A. Allen, D. W. Lin, N. Urban, C. W. Drescher, B. S. Knudsen, D. Stirewalt, R. Gentleman, R. L. Vessella, P. S. Nelson, D. B. M. Tewari, Proc. Natl. Acad. Sci. USA
+
+,
+
+,
+
+T. Huan, G. Chen, C. Liu, A. Bhattacharya, J. Rong, B. H. Chen, D. Levy, Aging Cell
+
+,
+
+, e
+
+a) A. E
+
+harawy, A. Keller, F. Flachsbart, A. Wendschlag, G. N. Kefer, T. Brefort, P. Leidinger, C. Backes, E. Meese, S. Schreiber, Hooten, K. Abdelmohsen, M. Gorospe, N. Ejiogu, A. B. M. K. Evans, PL
+
+One
+
+,
+
+, e
+
+; c) N. Noren Hooten, Fitzpatrick, W. H. Wood,
+
+rd, S. De, N. Ejiogu, Y. Zhang, J. A. son, K. G. Becker, A. B. Zonderman, M. K. Evans, Aging
+
+,
+
+, d) H. Zhang, H. Yang, C. Zhang, Y. Jing, C. Wang, C. Liu, R. Zhang, Wang, J. Zhang, K. Zen, C. Zhang, D. Li, J. Gerontol. A Biol. Sci. Sci.
+
+,
+
+,
+
+V. Nanjappa, J. K. Thomas, A. Marimuthu, B. Muthusamy, A. hakrishnan, R. Sharma, A. Ahmad Khan, L. Balakrishnan, N. A. P. G. Shaw, S. M. Srikanth, P. P. Mathur, S. Shankar, D. Nagaraja, Christopher, S. Mathivanan, R. Raju, R. Sirdeshmukh, A. R. J. Simpson, H. C. Harsha, A. Pandey, T. S. Prasad, Nucleic Res.
+
+,
+
+, D
+
+S. Pan, R. Aebersold, R. Chen, J. Rush, D. R. Goodlett, M. W. tosh, J. Zhang, T. A. Brentnall, J. Proteome Res.
+
+,
+
+,
+
+S. Hong, A. Franke, A. Hye, N. J. Ashton, A. R. Morgan, I. Bos, S. B. Vos, N. J. Buckley, M. T. Kate, P. Scheltens, R. Vandenberghe, Gabel, K. Meersmans, S. Engelborghs, E. E. De Roeck, K. G. B. Frisoni, O. Blin, J. C. Richardson, R. Bordet, J. L. L. Rami, A. Wallin, P. Kettunen, et al., Alzheimers Dement.
+
+,
+
+C. Menni, S. J. Kiddle, M. Mangino, A. Vinuela, M. Psatha, C. stone, T. D. Spector, R. Dobson, A. M. Valdes, J. Gerontol. A Biol. Med. Sci.
+
+,
+
+,
+
+B. W. Larman, M. J. Karolak, D. C. Adams, L. Oxburgh, J. Am. Nephrol.
+
+,
+
+,
+
+R. Kane, C. Godson, C. O’Brien, Mol. Vision
+
+,
+
+,
+
+E. Blanco-Suarez, T. F. Liu, A. Kopelevich, N. J. Allen, Neuron
+
+,
+
+T. Tanaka, A. Biancotto, R. Moaddel, A. Z. Moore, M. Freire, M. A. Aon, J. Candia, P. Zhang, F. Cheung, G. Fantoni, R. Semba, L. Ferrucci, Aging Cell
+
+,
+
+, e
+
+B. Lehallier, D. Gate, N. Schaum, T. Nanasi, S. E. Lee, H. P. Moran Losada, D. Berdnik, A. Keller, J. Verghese, S. Sathyan, Franceschi, S. Milman, N. Barzilai, T. Wyss-Coray, Nat. Med.
+
+,
+
+A. P. Wingo, E. B. Dammer, M. S. Breen, B. A. Logsdon, D. Duong, J. C. Troncosco, M. Thambisetty, T. G. Beach, G. E. E. M. Reiman, R. J. Caselli, J. J. Lah, N. T. Seyfried, A. I. Levey, T. Wingo, Nat. Commun.
+
+,
+
+,
+
+X. Wang, W. Ge, Curr. Drug Targets
+
+,
+
+,
+
+; c) B. J. Morris, D. C. Willcox, T. A. Donlon, B. J. Willcox, Gerontology
+
+,
+
+,
+
+; d) P. Sanese, G. Forte, V. Disciglio, V. Grossi, C. Simone, Comput. Struct. Biotechnol. J.
+
+,
+
+,
+
+; e) M. Nygaard, M. Thinggaard, K. Christensen, L. Christiansen, Aging
+
+,
+
+,
+
+[
+
+] P. R. Timmers, N. Mounier, K. Lall, K. Fischer, Z. Ning, X. Feng, A. D. Bretherick, D. W. Clark, M. Agbessi, H. Ahsan, I. Alves, A. Andi- appan, P. Awadalla, A. Battle, M. J. Bonder, D. Boomsma, M. Chris- tiansen, A. Claringbould, P. Deelen, J. van Dongen, T. Esko, M. Fave, L. Franke, T. Frayling, S. A. Gharib, G. Gibson, G. Hemani, R. Jansen, A. Kalnapenkis, S. Kasela, et al., Elife
+
+,
+
+, e
+
+[
+
+] P. K. Joshi, N. Pirastu, K. A. Kentistou, K. Fischer, E. Hofer, K. E. Schraut, D. W. Clark, T. Nutile, C. L. K. Barnes, P. Timmers, X. Shen, I. Gandin, A. F. M
+
+aid, T. F. Hansen, S. D. Gordon, F. Giulianini, T. S. Boutin, A. Abdellaoui, W. Zhao, C. Medina-Gomez, T. M. Bartz, S. Trompet, L. A. Lange, L. Raffield, A. van der Spek, T. E. Galesloot, P. Proitsi, L. R. Yanek, L. F. Bielak, A. Payton, et al., Nat. Commun.
+
+,
+
+,
+
+[
+
+] R. Feil, M. F. Fraga, Nat. Rev. Genet.
+
+,
+
+,
+
+[
+
+] S. Horvath, K. Raj, Nat. Rev. Genet.
+
+,
+
+,
+
+[
+
+] A. Unnikrishnan, W. M. Freeman, J. Jackson, J. D. Wren, H. Porter, A. Richardson, Pharmacol. Ther.
+
+,
+
+,
+
+[
+
+] S. Horvath, Genome Biol.
+
+,
+
+, R
+
+[
+
+] a) G. Hannum, J. Guinney, L. Zhao, L. Zhang, G. Hughes, S. Sadda, B. Klotzle, M. Bibikova, J. B. Fan, Y. Gao, R. Deconde, M. Chen, I. Rajapakse, S. Friend, T. Ideker, K. Zhang, Mol. Cell
+
+,
+
+,
+
+; b) C. I. Weidner, Q. Lin, C. M. Koch, L. Eisele, F. Beier, P. Ziegler, D. O. Bauerschlag, K. H. Jockel, R. Erbel, T. W. Muhleisen, M. Zenke, T. H. Brummendorf, W. Wagner, Genome Biol.
+
+,
+
+, R
+
+[
+
+] a) B. H. Chen, R. E. Marioni, E. Colicino, M. J. Peters, C. K. Ward- Caviness, P. C. Tsai, N. S. Roetker, A. C. Just, E. W. Demerath, W. Guan, J. Bressler, M. Fornage, S. Studenski, A. R. Vandiver, A. Z. Moore, T. Tanaka, D. P. Kiel, L. Liang, P. Vokonas, J. Schwartz, K. L. Lunetta, J. M. Murabito, S. Bandinelli, D. G. Hernandez, D. Melzer, M. Nalls, L. C. Pilling, T. R. Price, A. B. Singleton, C. Gieger, et al., Aging
+
+,
+
+,
+
+; b) L. Christiansen, A. Lenart, Q. Tan, J. W. Vau- pel, A. Aviv, M. M
+
+ue, K. Christensen, Aging Cell
+
+,
+
+,
+
+; c) L. Perna, Y. Zhang, U. Mons, B. Holleczek, K. U. Saum, H. Brenner, Clin. Epigenetics
+
+,
+
+,
+
+[
+
+] M. E. Levine, A. T. Lu, A. Quach, B. H. Chen, T. L. Assimes, S. Bandinelli, L. Hou, A. A. Baccarelli, J. D. Stewart, Y. Li, E. A. Whit- sel, J. G. Wilson, A. P. Reiner, A. Aviv, K. Lohman, Y. Liu, L. Ferrucci, S. Horvath, Aging
+
+,
+
+,
+
+[
+
+] A. T. Lu, A. Quach, J. G. Wilson, A. P. Reiner, A. Aviv, K. Raj, L. Hou, A. A. Baccarelli, Y. Li, J. D. Stewart, E. A. Whitsel, T. L. Assimes, L. Ferrucci, S. Horvath, Aging
+
+,
+
+,
+
+[
+
+] G. M. Fahy, R. T. Brooke, J. P. Watson, Z. Good, S. S. Vasanawala, H. Maecker, M. D. Leipold, D. T. S. Lin, M. S. Kobor, S. Horvath, Aging Cell
+
+,
+
+, e
+
+[
+
+] M. Pertea, Genes
+
+,
+
+,
+
+[
+
+] a) D. Palmer, F. Fabris, A. Doherty, A. A. Freitas, J. P. de Magalhães, bi
+
+xiv
+
+,
+
+;b)J.P.d
+
+agalhaes,J.Curado,G.M.Church, Bioinformatics
+
+,
+
+,
+
+[
+
+] M.J.Peters,R.Joehanes,L.C.Pilling,C.Schurmann,K.N.Conneely, J. Powell, E. Reinmaa, G. L. Sutphin, A. Zhernakova, K. Schramm, Y. A. Wilson, S. Kobes, T. Tukiainen, NABEC/UKBEC Consortium, Y. F. Ramos,H.H.Goring,M.Fornage,Y.Liu,S.A.Gharib,B.E.Stranger, P.L.D
+
+ager,A.Aviv,D.Levy,J.M.Murabito,P.J.Munson,T.Huan, A.Hofman,A.G.Uitterlinden,F.Rivadeneira,J.va
+
+ooij,etal.,Nat. Commun.
+
+,
+
+,
+
+[
+
+] A. Kuehne, J. Hildebrand, J. Soehle, H. Wenck, L. Terstegen, S. Galli- nat, A. Knott, M. Winnefeld, N. Zamboni, BMC Genomics
+
+,
+
+,
+
+J. G. Fleischer, R. Schulte, H. H. Tsai, S. Tyagi, A. Ibarra, M. N. Shokhirev, L. Huang, M. W. Hetzer, S. Navlakha, Genome Biol.
+
+,
+
+,
+
+P. Mamoshina, M. Volosnikova, I. V. Ozerov, E. Putin, E. Skibina, F. Cortese, A. Zhavoronkov, Front. Genet.
+
+,
+
+,
+
+D. Baek, J. Villen, C. Shin, F. D. Camargo, S. P. Gygi, D. P. Bartel, Nature
+
+,
+
+,
+
+P. S. Mitchell, R. K. Parkin, E. M. Kroh, B. R. Fritz, S. K. Wyman, E. L. Pogosova-Agadjanyan, A. Peterson, J. Noteboom, K. C. O’Briant, A. Allen, D. W. Lin, N. Urban, C. W. Drescher, B. S. Knudsen, D. L. Stirewalt, R. Gentleman, R. L. Vessella, P. S. Nelson, D. B. Martin, M. Tewari, Proc. Natl. Acad. Sci. USA
+
+,
+
+,
+
+T. Huan, G. Chen, C. Liu, A. Bhattacharya, J. Rong, B. H. Chen, S. Seshadri,K.Tanriverdi,J.E.Freedman,M.G.Larson,J.M.Murabito, D. Levy, Aging Cell
+
+,
+
+, e
+
+a) A. E
+
+harawy, A. Keller, F. Flachsbart, A. Wendschlag, G. Jacobs, N. Kefer, T. Brefort, P. Leidinger, C. Backes, E. Meese, S. Schreiber, P. Rosenstiel,A.Franke,A.Nebel,Agin
+
+ell
+
+,
+
+,
+
+;b)N.Noren Hooten, K. Abdelmohsen, M. Gorospe, N. Ejiogu, A. B. Zonderman, M. K. Evans, PL
+
+One
+
+,
+
+, e
+
+; c) N. Noren Hooten, M. Fitzpatrick, W. H. Wood,
+
+rd, S. De, N. Ejiogu, Y. Zhang, J. A. Matti- son, K. G. Becker, A. B. Zonderman, M. K. Evans, Aging
+
+,
+
+,
+
+; d) H. Zhang, H. Yang, C. Zhang, Y. Jing, C. Wang, C. Liu, R. Zhang, J. Wang, J. Zhang, K. Zen, C. Zhang, D. Li, J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+,
+
+V. Nanjappa, J. K. Thomas, A. Marimuthu, B. Muthusamy, A. Rad- hakrishnan, R. Sharma, A. Ahmad Khan, L. Balakrishnan, N. A. Sa- hasrabuddhe,S.Kumar,B.N.Jhaveri,K.V.Sheth,R.Kuma
+
+hatana, P. G. Shaw, S. M. Srikanth, P. P. Mathur, S. Shankar, D. Nagaraja, R. Christopher, S. Mathivanan, R. Raju, R. Sirdeshmukh, A. Chatterjee, R. J. Simpson, H. C. Harsha, A. Pandey, T. S. Prasad, Nucleic Acids Res.
+
+,
+
+, D
+
+
+
+www.advancedsciencenews.com
+
+D. S. Wishart, Y. D. Feunang, A. Marcu, A. C. Guo, K. Liang, Vazquez-Fresno, T. Sajed, D. Johnson, C. Li, N. Karu, Z. E. Lo, N. Assempour, M. Berjanskii, S. Singhal, D. Arndt, Y. H. Badran, J. Grant, A. Serra-Cayuela, Y. Liu, R. Mandal, V. Neveu, Pon, C. Knox, M. Wilson, C. Manach, A. Scalbert, Nucleic Acids
+
+,
+
+, D
+
+a) K. A. Lawton, C. Menni, G. Kastenmuller, A. K. Petersen, J. T. M. Psatha, P. C. Tsai, C. Gieger, H. Schulz, I. Erte, S. John, M. J. nan, S. G. Wilson, L. Tsaprouni, E. M. Lim, B. Stuckey, P. R. Mohney, K. Suhre, T. D. Spector, A. M. Valdes, Int. J.
+
+,
+
+,
+
+b)Z. Yu, G. Zhai,P. Singmann,Y. He, T. Xu,C. W. Romisch-Margl, E. Lattka, C. Gieger, N. Soranzo, J. Heinrich, Standl, E. Thiering, K. Mittelstrass, H. E. Wichmann, A. Peters, Suhre, Y. Li, J. Adamski, T. D. Spector, T. Illig, R. Wang-Sattler, Cell
+
+,
+
+,
+
+a) S. Collino, I. Montoliu, F. P. Martin, M. Scherer, D. Mari, S. oli, L. Bucci, R. Ostan, D. Monti, E. Biagi, P. Brigidi, C. S. Rezzi, PL
+
+One
+
+,
+
+, e
+
+; b) M. S. Ivan Montoliu, F. guelin, L. D
+
+ilva, D. Mari, S. Salvioli, F.-P. J. Martin, M. Capri, Bucci, R. Ostan, P. Garagnani, D. Monti, E. Biagi, P. Brigidi, M. mann, S. Rezzi, C. Franceschi, S. Collino, Aging
+
+,
+
+,
+
+c) D. S. Zhao, D. Li, F. Chang, X. Tian, G. Huang, Z. Zhu, D. Liu, X. S. Li, M. Zhao, Q. Li, Nutrients
+
+,
+
+, E
+
+[
+
+] V. Gonzalez-Covarrubias, M. Beekman, H. W. Uh, A. Dane, J. Troost, I. Paliukhovich, F. M. van der Kloet, J. Houwing-Duistermaat, R. J. Vreeken, T. Hankemeier, E. P. Slagboom, Aging Cell
+
+,
+
+,
+
+[
+
+] S. Cheng, M. G. Larson, E. L. M
+
+abe, J. M. Murabito, E. P. Rhee, J. E. Ho, P. F. Jacques, A. Ghorbani, M. Magnusson, A. L. Souza, A. A. Deik, K. A. Pierce, K. Bullock, C. J. O’Donnell, O. Melander, C. B. Clish, R. S. Vasan, R. E. Gerszten, T. J. Wang, Nat. Commun.
+
+,
+
+,
+
+[
+
+] a) V. Chainani, S. Shaharyar, K. Dave, V. Choksi, S. Ravindranathan, R. Hanno, O. Jamal, A. Abdo, N. Abi Rafeh, Int. J. Cardiol.
+
+,
+
+,
+
+; b) O. Prasitsiriphon, W. Pothisiri, Clin. Med. Insights Cardiol.
+
+R. Hanno, O. Jamal, A. Abdo, N. Abi Rafeh, Int. J. Cardiol.
+
+,
+
+,
+
+; b) O. Prasitsiriphon, W. Pothisiri, Clin. Med. Insights Cardiol.
+
+,
+
+,
+
+[
+
+] E. Carmeli, Adv. Exp. Med. Biol.
+
+,
+
+,
+
+[
+
+] W. Chen, W. Qian, G. Wu, W. Chen, B. Xian, X. Chen, Y. Cao, C. D. Green, F. Zhao, K. Tang, J. D. Han, Cell Res.
+
+,
+
+,
+
+[
+
+] A. Coravos, S. Khozin, K. D. Mandl, npj Digit. Med.
+
+,
+
+,
+
+[
+
+] S. Chandra, Wearable Sensors: Applications, Design and Implementa- tion, IOP Publishing, Bristol, UK
+
+[
+
+] S. Trevitt, S. Simpson, A. Wood, J. Diabetes Sci. Technol.
+
+,
+
+,
+
+[
+
+] E. Bobrov, A. Georgievskaya, K. Kiselev, A. Sevastopolsky, A. Zha- voronkov, S. Gurov, K. Rudakov, M. Del Pilar Bonilla Tobar, S. Jaspers, S. Clemann, Aging
+
+,
+
+,

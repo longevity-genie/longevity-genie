@@ -1,0 +1,337 @@
+
+
+THE ALU POLYMORPHISM OF ANGIOTENSIN I CONVERTING ENZYME (ACE) AND ATHEROSCLEROSIS, INCIDENT CHRONIC DISEASES
+
+
+
+1. Department of Medicine & Therapeutics; 2. Department of Chemical Pathology; 3. The Jockey club Centre for Osteoporosis Care and Control, Faculty of Medicine, The Chinese University of Hong Kong. Address for Correspondence: Prof Jean Woo, Department of Medicine & Therapeutics, Prince of Wales Hospital, Shatin, N.T. Hong Kong, Tel: 852-26323493,
+
+Abstract: Objective: We examined the contribution of ACE I/D polymorphism in a large Chinese population to four year change in ankle-brachial index (ABI), development of cardiovascular diseases and mortality in a prospective study adjusting for many confounding factors. Method: Data are drawn from a longitudinal study of 4000 community-living men and women aged 65 years and over, for which detailed information regarding lifestyle, chronic diseases, body mass index (BMI), ABI measurements and ACE polymorphisms were documented at baseline. During the fifth year of follow up, incident cardiovascular diseases, ABI, and mortality were documented, and related to ACE genotype adjusting for age, smoking, alcohol, dietary intake, physical activity, body mass index, and use of ACE inhibitors. Results: Women with the D/D genotype had the greatest reduction in mean ABI after adjusting for confounding factors. D/D genotype was also more common among women who developed hypertension or myocardial infarction. However D/D genotype was associated with mortality only in men. Conclusion: In a Chinese elderly population, ACE polymorphism may be considered ‘deleterious’ to longevity, the D/D genotype being associated with mortality, the atherosclerotic process, hypertension and myocardial infarction. There are gender differences in the relationship between D/D genotype
+
+
+
+
+
+variations in study selection criteria, study design, and the existence of many possible environmental confounding factors
+
+Renin-angiotensin system blockade has been considered a cornerstone of strategies to reduce cardiovascular risk, through antihypertensive, anti-inflammatory, anti-proliferative and oxidative stress lowering actions (1). Therefore it might be expected that ACE gene polymorphisms resulting in increased ACE activity would be associated with the atherosclerotic process and consequently cardiovascular diseases and mortality. In vitro studies showed that endothelial cells carrying the I/I (homozygote for Alu insertion) genotype of the ACE Alu polymorphism had lower angiotensin II levels and a twenty-fold increased viability after slow starvation compared with cells with the D/D (homozygote for deletion) genotype (2). Association between ACE polymorphism and ankle- brachial index, an indicator of atherosclerosis, has also been documented (3). Various population studies showed that the D/D genotype confers an increased risk of hypertension (4-10) and cardiovascular disease (4, 11), although there was a suggestion that the association may be stronger among Asians compared with Caucasians, and that there was a gender difference in the association. However, other studies reported no association (12) and a meta-analyses among Caucasians concluded that although ACE gene polymorphisms affect plasma ACE activity, an association of the polymorphism with hypertension, cerebrovascular disease, myocardial infarction or ischaemic heart disease was not observed in large studies but only in small ones (4). Inconsistent results were also observed
+
+With respect to mortality, the concept of deleterious versus longevity-enabling genes in defining life expectancy (16) has emerged based on population studies of associations between gene polymorphisms and survival. However the association between ACE polymorphism and mortality is not clear cut. Some studies have concluded that the D/D genotype is deleterious to survival, based on observations of declining frequency of this polymorphism in successively older age groups (17-19). On the contrary higher frequency of the D allele was observed among centenarians (20, 21), while others reported no change in frequency of the D allele as a function of age (12). Differences in gender and ethnicity were also observed. To address some of the methodological issues that may account for previous conflicting findings, we examined the contribution of ACE polymorphism in a large Chinese population to change in ankle-brachial index, development of cardiovascular diseases and 4-year mortality prospectively, adjusting for many environmental confounding factors including dietary and alcohol intake, physical activity, and
+
+
+
+
+
+The study was approved by the Clinical Research Ethics Committee of the Chinese University of Hong Kong. Informed
+
+
+
+
+
+
+
+4000 men and women aged 65 and over living in the community were invited to attend a health check carried out in the School of Public Health of the Chinese University of Hong Kong, by placing recruitment notices in community centers for the elderly and housing estates. Several talks were also given at these centers explaining the purpose, procedures and investigations to be carried out. Subjects were volunteers, and the aim was to recruit a stratified sample so that approximately one third were in each of these age groups: 65-69, 70-74, 75+. Subjects who were unable to walk without assistance, or had bilateral hip replacement, were excluded. The study sample differed from the general Hong Kong population of the same age group, in that using general population data from the government census for comparison, they were more educated and was more likely to be married. The study was approved by the Clinical Research Ethics Committee of the Chinese University of Hong Kong. Informed written consent was obtained. The study commenced in 2001, and the subjects continued to be followed up. The results after five years of follow-up are reported in this study. During this period, 614 subjects did not return for follow up while 233 subjects died (Fig 1). There was no difference in frequencies of the three ACE gene polymorphisms between participants who returned
+
+At baseline, a 10ml venous specimen of blood was collected from 1841 men and 1957 women and placed into EDTA tubes. Blood samples were stored at -70C until DNA extraction (within one year after collection). Genomic DNA was
+
+Genotyping of Alu insertion/deletion (I/D) polymorphism in the ACE gene was performed by polymerase chain reaction with forward and reverse primers (5'- AGAGAGACTCAAGCACGCCC-3' and 5'- ACCCAAGTGCCAGTGATGTT-3'). Reactions were set up in a volume of 25 ml containing 0.2 mM of each primer, 1X PCR buffer, 2 mM MgCl2, 0.2mM of each dNTP, 0.6 U Taq polymerase (Fermentas Life Sciences). About 50 ng of DNA was used in each sample. The initial denaturation was performed at 95oC for 5 min, and it was followed by 35 cycles of 94oC for 30 sec, 64oC for 30 sec and 72oC for 30 sec, and a final extension at 72oC for 10 min. This method yielded amplification products of 439 bp for the D allele and 727 bp for the I allele. The products were visualized in 2% agarose gels
+
+
+
+Chi-square test was used to test for statistical difference between categorical variables, and students’ t-test and analysis variance for continuous variables, between the three genotypes groups. Analysis of co-variance was used to adjust for confounding variables, adjusting for multiple hypothesis testing. Incidence of disease was calculated as the number without disease at baseline developing the disease at follow-up. Cox regression analysis was used to examine mortality rates between the three genotype groups. Proportional hazard model
+
+At baseline, a questionnaire was administered to participants, which included demographics, history of chronic disease, use of ACE inhibitors, smoking habit, physical activity level, and dietary intake including alcohol. Physical activity level was assessed using the Physical Activity Scale of the Elderly (PASE) (22). Dietary intake was assessed using a food frequency questionnaire and administered by an interviewer (23). Body weight was measured with subjects wearing a light gown, by the Physical Balance Beam Scale (Healthometer, Bridgeview, Illinois, USA). Height was measured by the Holtain Harpenden stadiometer (Holtain Ltd, Crosswell, UK). Supine blood pressure was measured in the right arm and both ankles using a standard mercury sphygmomanometer and a hand held Doppler with an 8-MHz Doppler probe. (Pocket Doppler Model 841-A, Parks Medical Electronics Inc, Aloha, Or, USA). The average reading of two measurements at each site was used. The ABI was calculated by dividing the blood pressure at the posterior tibial site by the brachial artery site for each side, and the lowest of the two values was used. An ABI value of <0.9 has been used as a cut off value to indicate the presence of peripheral vascular disease (24), and also as an indicator of atherosclerosis (25). The procedure was carried out for 1999 men and 1999 women and the baseline results are reported elsewhere (26). During the fifth year of follow-up, participants returned and a medical history was obtained and ABI measurement repeated. The Death Registry was searched
+
+
+
+ACE gene polymorphism results were available in 1841 men and 1957 women from whom blood samples for DNA extraction had been obtained. For men, the frequencies of I/I, I/D and D/D genotype were 815 / 1841 (44.3%), 842 / 1841 (45.7%), and 184 / 1841 (9.9%) respectively. Genotype distributions in both sexes followed Hardy Weinberg equilibrium. For women, the frequencies were 46%, 43% and 10.9% respectively. The percentage of subjects with ABI <0.9 did not differ significantly between the three polymorphism
+
+Mean ABI, percentage of subjects with ABI <0.9, and potential confounders in the relationship between genetic factors and ABI are listed by genotype groups in Table 1a & b. In women only, participants with the D/D genotype had the greatest reduction in mean ABI value. This group also had the highest mean age. After adjusting for all potential confounding factors, the D/D group had the greatest progression of atherosclerosis (using reduction in ABI as an indicator), followed by I/I, and I/D group (Table 2). No significant
+
+
+
+
+
+Variable I/I I/D D/D (n=815) (n=842) (n=184) Mean (SE) p-value of ANOVA Lowest ankle-arm index (baseline) 1.101 (0.005) 1.099 (0.005) 1.100 (0.010) 0.9360 Lowest ankle-arm index (5th yr FU) 1.105 (0.005) 1.097 (0.005) 1.098 (0.011) 0.5334 Lowest ankle-arm index (% change at 5th yr FU) 0.401 (0.487) -0.077 (0.471) -1.069 (1.063) 0.4277 Age (year) 72.41 (0.17) 72.20 (0.17) 72.28 (0.36) 0.6901 BMI (kg/m2) 23.59 (0.11) 23.39 (0.11) 23.59 (0.23) 0.3842 PASE score 96.88 (1.76) 97.35 (1.73) 95.71 (3.70) 0.9198 Freq (%) p-value of Chi square Peripheral arterial diseases (ABI<0.9) (baseline) 35 (4.3%) 40 (4.8%) 11 (6.0%) 0.6141 Peripheral arterial diseases (ABI<0.9) (5th yr FU) 41 (6.3%) 42 (6.1%) 7 (5.2%) 0.8711 Diabetes 124 (15.2%) 115 (13.7%) 28 (15.2%) 0.6399 Heart disease (MI/ ANGINA/ CHF) 153 (18.8%) 159 (18.9%) 27 (14.7%) 0.3882 Hypertension 335 (41.1%) 355 (42.2%) 81 (44.0%) 0.7500 Stroke 33 (4.1%) 49 (5.8%) 10 (5.4%) 0.2482 Use of ACE inhibitor 110 (13.5%) 120 (14.3%) 30 (16.3%) 0.6081 Current smoker 109 (13.4%) 89 (10.6%) 24 (13.0%) 0.1974 Current alcohol use 192 (23.6%) 185 (22.0%) 52 (28.3%) 0.1845 Saturated fatty acids (g/day) <12.4 285 (35.0%) 276 (32.8%) 56 (30.6%) 0.3639 12.4-17.5 270 (33.2%) 269 (32.0%) 71 (38.8%) 17.6 or above 259 (31.8%) 297 (35.3%) 56 (30.6%) Monosaturated fatty acids (g/day) <20.1 280 (34.4%) 280 (33.3%) 62 (33.9%) 0.7786 20.1-27.4 266 (32.7%) 271 (32.2%) 61 (33.3%) 27.5 or above 268 (32.9%) 291 (34.6%) 60 (32.8%) Polyunsaturated fatty acids (g/day) <13.3 291 (35.8%) 274 (32.5%) 58 (31.7%) 0.2799 13.3-17.7 264 (32.4%) 282 (33.5%) 59 (32.2%) 17.8 or above 259 (31.8%) 286 (34.0%) 66 (36.1%) Vitamin C (mg/day) <112.4 256 (31.5%) 287 (34.1%) 69 (37.7%) 0.3459 112.4-172.2 285 (35.0%) 265 (31.5%) 59 (32.2%) 172.3 or above 273 (33.5%) 290 (34.4%) 55 (30.1%) Vitamin D (IU/day) <5 292 (35.9%) 300 (35.6%) 75 (41.0%) 0.6276 5-12.4 254 (31.2%) 258 (30.6%) 48 (26.2%) 12.5 or above 268 (32.9%) 284 (33.7%) 60 (32.8%) Vitamin K (mcg/day) <184.9 266 (32.7%) 277 (32.9%) 68 (37.2%) 0.4441 184.9-319.9 272 (33.4%) 283 (33.6%) 60 (32.8%) 320 or above 276 (33.9%) 282 (33.5%) 55 (30.1%) Iron (mg/day) <12.2 278 (34.2%) 279 (33.1%) 64 (35.0%) 0.9772 12.2-17.3 265 (32.6%) 290 (34.4%) 54 (29.5%) 17.4 or above 271 (33.3%) 273 (32.4%) 65 (35.5%) Cholesterol (mg/day) <158.2 287 (35.3%) 273 (32.4%) 64 (35.0%) 0.4735 158.2-252.8 264 (32.4%) 283 (33.6%) 62 (33.9%) 252.9 or above 263 (32.3%) 286 (34.0%) 57 (31.2%) Isoflavones (mg/day) <6.5 292 (35.8%) 270 (32.1%) 62 (33.7%) 0.2243 6.5-15.5 270 (33.1%) 284 (33.7%) 62 (33.7%) 15.6 or above 253 (31.0%) 288 (34.2%) 60 (32.6%) Fish (g/day) <48.5 263 (32.3%) 284 (33.7%) 71 (38.8%) 0.1336 48.5-100.8 260 (31.9%) 308 (36.6%) 50 (27.3%) 100.9 or above 291 (35.8%) 250 (29.7%) 62 (33.9%) Chinese tea (g/day) <214.3 242 (29.7%) 256 (30.4%) 66 (36.1%) 0.4430 214.3-752.0 250 (30.7%) 261 (31.0%) 49 (26.8%) 752.1 or above 322 (39.6%) 325 (38.6%) 68 (37.2%) Fruit (g/day) <180.8 263 (32.3%) 290 (34.4%) 67 (36.6%) 0.7724 180.8-303.0 286 (35.1%) 272 (32.3%) 57 (31.2%) 303.1 or above 265 (32.6%) 280 (33.3%) 59 (32.2%) Vegetable (g/day) <164.5 269 (33.1%) 271 (32.2%) 63 (34.4%) 0.8672 164.5-267.2 262 (32.2%) 300 (35.6%) 59 (32.2%) 267.3 or above 283 (34.8%) 271 (32.2%) 61 (33.3%) Tomato (g/day) <7.7 235 (28.9%) 240 (28.5%) 54 (29.5%) 0.8888 7.7-14.3 320 (39.3%) 324 (38.5%) 71 (38.8%) 14.4 or above 259 (31.8%) 278 (33.0%) 58 (31.7%)
+
+
+
+Variable I/I I/D D/D (n=899) (n=844) (n=214) Mean (SE) p-value of ANOVA Lowest ankle-arm index (baseline) 1.030 (0.004) 1.021 (0.004) 1.034 (0.008) 0.1099 Lowest ankle-arm index (5th yr FU) 1.021 (0.005) 1.024 (0.005) 1.011 (0.010) 0.5342 Lowest ankle-arm index (% change at 5th yr FU) -0.997 (0.488) 0.343 (0.513) -2.266 (1.017) 0.0350 Age (year) 72.23 (0.18) 72.84 (0.18) 73.08 (0.37) 0.0212 2 BMI (kg/m ) 23.89 (0.11) 23.95 (0.12) 23.94 (0.24) 0.9488 PASE score 86.77 (1.11) 83.93 (1.14) 84.97 (2.27) 0.2010 Freq (%) p-value of Chi square Peripheral arterial diseases (ABI<0.9) (baseline) 70 (7.8%) 88 (10.4%) 18 (8.4%) 0.1484 Peripheral arterial diseases (ABI<0.9) (5th yr FU) 91 (12.6%) 84 (12.8%) 27 (16.2%) 0.4440 Diabetes 124 (13.8%) 126 (14.9%) 34 (15.9%) 0.6641 Heart disease (MI/ ANGINA/ CHF) 148 (16.5%) 145 (17.2%) 30 (14.0%) 0.5390 Hypertension 378 (42.1%) 383 (45.4%) 93 (43.5%) 0.3738 Stroke 29 (3.2%) 27 (3.2%) 9 (4.2%) 0.7467 Use of ACE inhibitor 66 (7.3%) 75 (8.9%) 16 (7.5%) 0.4722 Current smoker 13 (1.5%) 20 (2.4%) 4 (1.9%) 0.3741 Current alcohol use 28 (3.1%) 19 (2.3%) 4 (1.9%) 0.4106 Saturated fatty acids (g/day) <8.3 295 (32.9%) 275 (32.7%) 78 (36.5%) 0.7670 8.3-11.4 299 (33.3%) 284 (33.7%) 65 (30.4%) 11.5 or above 304 (33.9%) 283 (33.6%) 71 (33.2%) Monosaturated fatty acids (g/day) <14.2 302 (33.6%) 274 (32.5%) 76 (35.5%) 0.6691 14.2-19.3 302 (33.6%) 280 (33.3%) 69 (32.2%) 19.4 or above 294 (32.7%) 288 (34.2%) 69 (32.2%) Polyunsaturated fatty acids (g/day) <10.1 291 (32.4%) 294 (34.9%) 66 (30.8%) 0.8656 10.1-13.6 307 (34.2%) 263 (31.2%) 83 (38.8%) 13.7 or above 300 (33.4%) 285 (33.9%) 65 (30.4%) Vitamin C (mg/day) <116 313 (34.9%) 264 (31.4%) 72 (33.6%) 0.3681 116-169.5 293 (32.6%) 287 (34.1%) 70 (32.7%) 169.6 or above 292 (32.5%) 291 (34.6%) 72 (33.6%) Vitamin D (IU/day) <4.7 308 (34.3%) 269 (32.0%) 78 (36.5%) 0.2678 4.7-11.8 298 (33.2%) 286 (34.0%) 74 (34.6%) 11.9 or above 292 (32.5%) 287 (34.1%) 62 (29.0%) Vitamin K (mcg/day) <192.9 299 (33.3%) 288 (34.2%) 67 (31.3%) 0.7204 192.9-308.7 315 (35.1%) 256 (30.4%) 76 (35.5%) 308.8 or above 284 (31.6%) 298 (35.4%) 71 (33.2%) Iron (mg/day) <9.9 297 (33.1%) 276 (32.8%) 66 (30.8%) 0.6764 9.9-13.8 312 (34.7%) 270 (32.1%) 77 (36.0%) 13.9 or above 289 (32.2%) 296 (35.2%) 71 (33.2%) Cholesterol (mg/day) <103.3 302 (33.6%) 283 (33.6%) 71 (33.2%) 0.9751 103.3-167.5 294 (32.7%) 278 (33.0%) 75 (35.1%) 167.6 or above 302 (33.6%) 281 (33.4%) 68 (31.8%) Isoflavones (mg/day) <5.2 298 (33.2%) 289 (34.3%) 75 (35.1%) 0.8424 5.2-12.8 313 (34.9%) 266 (31.6%) 59 (27.6%) 12.9 or above 287 (32.0%) 287 (34.1%) 80 (37.4%) Fish (g/day) <42.9 295 (32.9%) 282 (33.5%) 70 (32.7%) 0.7879 42.9-81.3 293 (32.6%) 282 (33.5%) 78 (36.5%) 81.4 or above 310 (34.5%) 278 (33.0%) 66 (30.8%) Chinese tea (g/day) <35.7 282 (31.4%) 283 (33.6%) 63 (29.4%) 0.4307 35.7-501.4 285 (31.7%) 264 (31.4%) 70 (32.7%) 501.5 or above 331 (36.9%) 295 (35.0%) 81 (37.9%) Fruit (g/day) <169.9 296 (33.0%) 281 (33.4%) 72 (33.6%) 0.9038 169.9-271.4 305 (34.0%) 277 (32.9%) 64 (29.9%) 271.5 or above 297 (33.1%) 284 (33.7%) 78 (36.5%) Vegetable (g/day) <164.7 306 (34.1%) 284 (33.7%) 65 (30.4%) 0.2509 164.7-252.9 319 (35.5%) 256 (30.4%) 76 (35.5%) 253 or above 273 (30.4%) 302 (35.9%) 73 (34.1%) Tomato (g/day) <7.1 288 (32.1%) 282 (33.5%) 71 (33.2%) 0.9401 7.1-14.3 345 (38.4%) 303 (36.0%) 82 (38.3%)
+
+
+
+Estimated mean (SE) of lowest ankle-arm index for subjects among different groups of ACE genotype, ANCOVA adjusted by
+
+Mean (SE) p-value of ANCOVA Variable I/I I/D D/D Adjusted for potential confounders Male Lowest ankle-arm index (baseline) 1.077 (0.010) 1.074 (0.010) 1.080 (0.013) 0.8275 Lowest ankle-arm index (5th yr FU) 1.066 (0.011) 1.057 (0.011) 1.060 (0.015) 0.4056 Lowest ankle-arm index (% change at 5th yr FU) -0.979 (1.127) -1.386 (1.125) -2.438 (1.449) 0.4461 Female Lowest ankle-arm index (baseline) 1.004 (0.014) 0.998 (0.014) 1.013 (0.016) 0.1468 Lowest ankle-arm index (5th yr FU) 0.997 (0.019) 1.004 (0.019) 0.991 (0.021) 0.4205 Lowest ankle-arm index (% change at 5th yr FU) -2.408 (1.993) -0.903 (1.991) -3.567 (2.186) 0.0227
+
+
+
+
+
+Bold: p<0.05; * potential confounders including age, BMI, PASE, diabetes, heart disease, hypertension, stroke, use of ACE inhibitors, smoking, alcohol, dietary intake of saturated fatty
+
+
+
+Freq/ Total (%) p-value of Chi square Variable No. didn’t have disease I/I I/D D/D at baseline Male Incidence of disease Diabetes 1273 27/ 556 (4.9%) 23/ 601 (3.8%) 5/ 116 (4.3%) 0.6918 Stroke 1415 34/ 628 (5.4%) 27/ 658 (4.1%) 3/ 129 (2.3%) 0.2501 Hypertension 867 78/ 390 (20.0%) 86/ 398 (21.6%) 17/ 79 (21.5%) 0.8479 Myocardial infarct 1328 33/ 583 (5.7%) 41/ 623 (6.6%) 5/ 122 (4.1%) 0.5316 Angina 1337 26/ 585 (4.4%) 22/ 622 (3.5%) 6/ 130 (4.6%) 0.6837 Congestive heart failure 1426 18/ 620 (2.9%) 11/ 672 (1.6%) 3/ 134 (2.2%) 0.3167 Female Incidence of disease Diabetes 1335 38/ 635 (6.0%) 25/ 556 (4.5%) 8/ 144 (5.6%) 0.5187 Stroke 1500 20/ 701 (2.9%) 24/ 638 (3.8%) 5/ 161 (3.1%) 0.6432 Hypertension 871 87/ 421 (20.7%) 99/ 354 (28.0%) 27/ 96 (28.1%) 0.0429 Myocardial infarct 1414 29/ 661 (4.4%) 27/ 595 (4.5%) 15/ 158 (9.5%) 0.0284 Angina 1440 26/ 667 (3.9%) 27/ 612 (4.4%) 8/ 161 (5.0%) 0.7999
+
+
+
+Variable Freq (%)/ mean (SD) HR (95% CI) Alive Dead Crude Age adj. Male ACE genotype I/I 688 (84.4%) 127 (15.6%) 1 1 I/D 704 (83.6%) 138 (16.4%) 1.08 (0.84, 1.37) 1.13 (0.88, 1.44) D/D 136 (73.9%) 48 (26.1%) 1.45 (1.04, 2.03) 1.54 (1.10, 2.16) Age (per 1 year) 71.71 (4.58) 75.16 (5.49) - 1.06 (1.04, 1.08) Female ACE genotype I/I 844 (93.9%) 55 (6.1%) 1 1 I/D 776 (91.9%) 68 (8.1%) 1.22 (0.85, 1.74) 1.23 (0.86, 1.76) D/D 203 (94.9%) 11 (5.1%) 0.73 (0.37, 1.45) 0.71 (0.36, 1.41)
+
+
+
+without the protective effect of higher endogenous oestrogen levels are more susceptible to the effect of increase ACE
+
+In women, D/D was more common among those developing hypertension or myocardial infarction (Table 3). However, with respect to mortality, more men with the D/D genotype had died by the 5th year follow up compared with the I/I or I/D group (Table 4). No significant difference was observed for
+
+Although the frequencies of the ACE genotypes did not change with age, another method to examine whether the ACE polymorphism may be considered ‘deleterious’ (17) instead of ‘longevity enabling’ (18) is to examine the association with mortality prospectively. From the findings of association of D/D genotype with the atherosclerotic process in women, one may expect that women with the D/D genotype would also have a higher mortality. Unexpectedly, the association was found only in men. The finding suggests that the association may be mediated by mechanisms other than atherosclerosis. However, the duration of follow-up was not very long, and a
+
+Pive year LOuOW Up OF Stuay paruCipalits                Mae Femawees|__ Decinestocone. J ovineeae nec)Renimad tr yest Rerimagtae ya        
+
+There are limitations in this study. The older population studied did not include those who may have physical limitations and thus were not able to attend the study centre. The medical history relied on participants’ report of doctor’s diagnoses. We did not do electrocardiagrams on the participants nor carry out any physical examination other than height, weight and blood pressure measurements. The low number of participants with the D/D genotype and the relatively short duration of follow-up are also limitations. Nevertheless, the study has several strengths and contributes to existing inconsistent literature regarding ACE polymorphism, longevity, atherosclerosis and cardiovascular diseases. The large number of men and women, the prospective design, the availability of ABI measurement, and the adjustment for many confounding environmental factors address some of the underlying reasons for inconsistencies in previous studies. In particular, we were able to document the many nutritional factors that have been associated with cardiovascular diseases in a detailed,
+
+The lower frequency of the D/D genotype relative to I/I & I/D in this population is compatible with previous observation of lower frequency of D/D among Asians (17.9%) compared with Blacks (37.9%) and Whites (32.5%) (27). The genotype frequencies did not vary significantly with age, a finding similar to that of a large Danish study of all ages (12) and among Japanese (27), but contrary to other studies among Europeans and Colombians (11, 18, 28) and the finding of higher frequencies of the D allele among centenarians (20, 21). However, this study only included participants age 65 years and older, and changes in frequency with age may not be detected within this relatively narrow age range. It did not include extremely old individuals (centenarians). Furthermore, the population represented fitter individuals who were able to
+
+In conclusion in a Chinese elderly population, ACE polymorphism may be considered ‘deleterious’ to longevity, the D/D genotype being associated mortality, the atherosclerotic process, hypertension and myocardial infarction. However there are gender differences and mortality may not be mediated by the atherosclerotic process alone. A longer period of follow-up may yield further information. In the meantime, therapeutic blockade of the rennin-angiotensin system may possibly have a role in reducing incidence of cardiovascular
+
+The lower mean ABI values in women have not observed in other populations, although it is known that lower prevalence of cardiovascular disease in women is not seen after the menopause. It is possible that finding may reflect a survivor effect in men, or a true
+
+The association between D/D genotype and greater progression of atherosclerosis and incidence of hypertension and myocardial infarction in a large number of women only confirms some previous observations that this association may be stronger among Asians, that there is a gender difference, and that there may be differences between ethnic groups. The fact that this was a prospective study consisting of large numbers of men and women strengthens the validity of this observation, and supports the hypothesis that increased ACE activity (associated with the D/D genotype) accelerates the atherosclerosclerotic process and consequently the onset of cardiovascular diseases. Possible explanations for the lack of association in men may be that other environmental factors
+
+
+
+Schmieder RE, Hilgers KF, Schlaich MP, Schmidt BM. Renin-angiotensin system and cardiovascular risk.[see comment]. Lancet.
+
+;
+
+:
+
+-
+
+Hamdi HK, Castellon R. A genetic variant of ACE increases cell survival: a new paradigm for biology and disease. Biochemical & Biophysical Research Communications.
+
+;
+
+:
+
+-
+
+Li R, Nicklas B, Pahor M, et al. Polymorphisms of angiotensinogen and angiotensin- converting enzyme associated with lower extremity arterial disease in the Health, Aging and Body Composition study. Journal of Human Hypertension.
+
+;
+
+:
+
+-
+
+
+
+question of persuasion or statistical confusion?[comment]. Arteriosclerosis, Thrombosis & Vascular Biology.
+
+;
+
+:
+
+-
+
+Lao JI, Montoriol C, Morer I, Beyer K. Genetic contribution to aging: deleterious and helpful genes define life expectancy. Annals of the New York Academy of Sciences.
+
+;
+
+:
+
+-
+
+Hessner MJ, Dinauer DM, Kwiatkowski R, et al. Age-dependent prevalence of vascular disease-associated polymorphisms among
+
+volunteer blood donors. Clinical Chemistry.
+
+;
+
+:
+
+-
+
+Katzov H, Bennet AM, Kehoe P, et al. A cladistic model of ACE sequence variation with implications for myocardial infarction, Alzheimer disease and obesity. Human Molecular Genetics.
+
+;
+
+:
+
+-
+
+Forero DA, Pinzon J, Arboleda GH, et al. Analysis of common polymorphisms in angiotensin-converting enzyme and apolipoprotein e genes and human longevity in Colombia. Archives of Medical Research.
+
+;
+
+:
+
+-
+
+Nacmias B, Bagnoli S, Tedde A, et al. Angiotensin converting enzyme insertion/deletion polymorphism in sporadic and familial Alzheimer's disease and longevity. Archives of Gerontology & Geriatrics.
+
+;
+
+:
+
+-
+
+Seripa D, Franceschi M, Matera MG, et al. Sex differences in the association of apolipoprotein E and angiotensin-converting enzyme gene polymorphisms with healthy aging and longevity: a population-based study from Southern Italy. Journals of Gerontology Series A-Biological Sciences & Medical Sciences.
+
+;
+
+:
+
+-
+
+Washburn RA, Smith KW, Jette AM, Janney CA. The Physical Activity Scale for the Elderly (PASE): development and evaluation. Journal of Clinical Epidemiology.
+
+;
+
+:
+
+-
+
+Leung SSF, Woo, J., Ho, S.C., Lam, T.H., Janus, E.D. Hong Kong Adult-Dietary Survey
+
+Aust J Nutr Dietet.
+
+;
+
+: S
+
+-
+
+Bernstein EF, Fronek A. Current status of noninvasive tests in the diagnosis of peripheral arterial disease. Surgical Clinics of North America.
+
+;
+
+:
+
+-
+
+Newman AB, Siscovick DS, Manolio TA, et al. Ankle-arm index as a marker of atherosclerosis in the Cardiovascular Health Study. Cardiovascular Heart Study (CHS) Collaborative Research Group. Circulation.
+
+;
+
+:
+
+-
+
+Woo J, Lynn H, Wong SY, et al. Correlates for a low ankle-brachial index in elderly Chinese. Atherosclerosis.
+
+;
+
+:
+
+-
+
+Staessen JA, Wang JG, Ginocchio G, et al. The deletion/insertion polymorphism of the angiotensin converting enzyme gene and cardiovascular-renal risk. Journal of Hypertension.
+
+;
+
+:
+
+-
+
+Da Cruz IB, Oliveira G, Taufer M, et al. Angiotensin I-converting enzyme gene polymorphism in two ethnic groups living in Brazil's southern region: association with age. Journals of Gerontology Series A-Biological Sciences & Medical Sciences.
+
+Agerholm-Larsen B, Nordestgaard BG, Tybjaerg-Hansen A. ACE gene polymorphism in cardiovascular disease: meta-analyses of small and large studies in whites.[see comment]. Arteriosclerosis, Thrombosis & Vascular Biology.
+
+;
+
+:
+
+-
+
+Qu H, Lu Y, Lin S. [Meta-analysis on the association of ACE/ID polymorphism and essential hypertension in Chinese population]. Chung-Hua Yu Fang i Hsueh Tsa Chih [Chinese Journal of Preventive Medicine].
+
+;
+
+:
+
+-
+
+Gu XX, Spaepen M, Guo C, et al. Lack of association between the I/D polymorphism of the angiotensin-converting enzyme gene and essential hypertension in a Belgian population. Journal of Human Hypertension.
+
+;
+
+:
+
+-
+
+Kiema TR, Kauma H, Rantala AO, et al. Variation at the angiotensin-converting enzyme gene and angiotensinogen gene loci in relation to blood pressure. Hypertension.
+
+;
+
+:
+
+-
+
+Higaki J, Baba S, Katsuya T, et al. Deletion allele of angiotensin-converting enzyme gene increases risk of essential hypertension in Japanese men : the Suita Study. Circulation.
+
+;
+
+:
+
+-
+
+O'Donnell CJ, Lindpaintner K, Larson MG, et al. Evidence for association and genetic linkage of the angiotensin-converting enzyme locus with hypertension and blood pressure in men but not women in the Framingham Heart Study.[see comment]. Circulation.
+
+;
+
+:
+
+-
+
+Schwartz GL, Turner ST, Chapman AB, Boerwinkle E. Interacting effects of gender and genotype on blood pressure response to hydrochlorothiazide. Kidney International.
+
+;
+
+:
+
+-
+
+Keavney B, M
+
+enzie C, Parish S, et al. Large-scale test of hypothesised associations between the angiotensin-converting-enzyme insertion/deletion polymorphism and myocardial infarction in about
+
+cases and
+
+controls. International Studies of Infarct Survival (ISIS) Collaborators. Lancet.
+
+;
+
+:
+
+-
+
+Agerholm-Larsen B, Nordestgaard BG, Steffensen R, et al. ACE gene polymorphism: ischemic heart disease and longevity in
+
+,
+
+individuals. A case- referent and retrospective cohort study based on the Copenhagen City Heart Study. Circulation.
+
+;
+
+:
+
+-
+
+Wong TY, Chan JC, Poon E, Li PK. Lack of association of angiotensin-converting enzyme (DD/II) and angiotensinogen M
+
+T gene polymorphism with renal function among Chinese patients with type II diabetes. American Journal of Kidney Diseases.
+
+;
+
+:
+
+-
+
+Staessen JA, Ginocchio G, Wang JG, et al. Genetic variability in the renin- angiotensin system: prevalence of alleles and genotypes. Journal of Cardiovascular Risk.
+
+;
+
+:
+
+-

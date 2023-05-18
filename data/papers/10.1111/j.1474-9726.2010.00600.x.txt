@@ -1,0 +1,923 @@
+HRAS1 and LASS1 with APOE are associated with human longevity and healthy aging
+
+S. Michal Jazwinski,1 Sangkyu Kim,1,* Jianliang Dai,1,2,* Li Li,3 Xiuhua Bi,1 James C. Jiang,1 Jonathan Arnold,2 Mark A. Batzer,4 Jerilyn A. Walker,4 David A. Welsh,5 Christina M. Lefante,6 Julia Volaufova,6
+
+inferred ethnic affiliation to account for population struc- ture. Haplotype analysis was performed in three candi- date genes, and the haplotype combinations were tested for association with exceptional longevity. An HRAS1 haplotype enhanced the effect of an APOE haplotype on exceptional survival, and a LASS1 haplotype further aug- mented its magnitude. These results were replicated in a second population. A profile of healthy aging was devel- oped using a deficit accumulation index, which showed that this combination of gene variants is associated with healthy aging. The variation in LASS1 is functional, caus- ing enhanced expression of the gene, and it contributes to healthy aging and greater survival in the tenth decade of life. Thus, rare gene variants need not be invoked to explain complex traits such as aging; instead rare congru- ence of common gene variants readily fulfills this role. The interaction between the three genes described here suggests new models for cellular and molecular mecha- nisms underlying exceptional survival and healthy aging that involve lipotoxicity. Key words: haplotypes; healthy aging profile; lipotoxic-
+
+Leann Myers,7 L. Joseph Su,6,† Dorothy B. Hausman,8 Michael V. Miceli,1 Eric Ravussin,9 Leonard W. Poon,10 Katie E. Cherry11 and Michael A. Welsch12 for the Georgia Centenarian Study and the Louisiana Healthy Aging Study
+
+1Tulane Center for Aging and Department of Medicine, Tulane University Health Sciences Center, New Orleans, LA 70112, USA 2Genetics Department, University of Georgia, Athens, GA 30602,
+
+Department, University of Georgia, Athens, GA Center, Louisiana State University Health New Orleans, LA
+
+, USA of Biological Sciences, Louisiana State University, Rouge, LA
+
+, USA of Medicine, Louisiana State University Health Center, New Orleans, LA
+
+, USA of Public Health, Louisiana State University Health Center, New Orleans, LA
+
+, USA of Biostatistics, School of Public Health and Tulane University Health Sciences Center, New
+
+, USA of Foods and Nutrition, University of Georgia, GA
+
+, USA Biomedical Research Center, Baton Rouge, LA USA of Gerontology, University of Georgia, Athens, GA USA of Psychology, Louisiana State University, Baton LA
+
+, USA of Kinesiology, Louisiana State University, Baton LA
+
+, USA
+
+Introduction
+
+Exceptional longevity has genetic and environmental compo- nents, but in humans they have often been difficult to identify (Christensen et al., 2006). Most of the research on the genet- ics of human aging has focused on the genetic risk factors associated with age-related diseases and disorders, with APOE being one prime candidate (Christensen et al., 2006). This is not surprising given the impact of variation in this gene on cardiovascular and neuropathological aspects of aging (Stritt- matter et al., 1993; Scha¨chter et al., 1994; Song et al., 2004; Christensen et al., 2006). Studies in model systems have also recently guided the search for genetic determinants of human longevity, pointing to several pathways and processes contrib- uting to enhanced lifespan (Jazwinski, 1996; Finch & Ruvkun, 2001; Kenyon, 2005). However, this approach has largely been limited to components of the insulin⁄IGF-1 pathway (Hong et al., 2008; Suh et al., 2008; Willcox et al., 2008). We decided to expand on this approach by examining the Ras and ceramide signaling pathways. The involvement of Ras signaling in lifespan determination has been adduced in studies in yeast (Chen et al., 1990; Sun et al., 1994) and in mice (Migliaccio et al., 1999), while the role of ceramide signaling emerges from research in yeast (D’mello et al., 1994; Jazwinski & Con- zelmann, 2002; Guillas et al., 2003) and in Caenorhabditis
+
+Summary
+
+The search for longevity-determining genes in human has largely neglected the operation of genetic interactions. We have identified a novel combination of common variants of three genes that has a marked association with human lifespan and healthy aging. Subjects were
+
+S. Michal Jazwinski, P
+
+, Department of Medicine, Tulane University Health Sciences Center,
+
+Tulane Ave., SL-
+
+, New Orleans, LA
+
+, USA. Tel.:
+
+; fax:
+
+; e-mail: sjazwins@tulane.edu *Contributed equally. †Present address: Modifiable Risk Factors Branch, National Cancer Institute, Rockville, MD
+
+, USA.
+
+for publication 22 May 2010
+
+elegans (Tedesco et al., 2008; Mehta et al., 2009; Menuz et al., 2009).
+
+(A) All others European African (B) All others European African
+
+The APOE e4 allele is a risk factor for early mortality, while the alleles e2 and e3 are enriched in exceptionally old individuals in some studies (Christensen et al., 2006). Apolipoprotein E (APOE) is important in chylomicron and very low density lipoprotein (VLDL) metabolism (Mahley & Rall, 2000). Thus, it is one of the factors responsible for maintenance of circulating lipid homeostasis. This balance can break down with age, and it is clearly disrupted in some individuals resulting in an increase in the risk for cardiovascular disease and other disorders (Mahley & Rall, 2000). The rise in circulating cholesterol and triglycerides results in vascular damage and can be a cause of lipotoxicity, a potential trigger of insulin resistance and diabetes (Kusminski et al., 2009). This lipotoxicity may trigger responses that are mediated by HRAS1, a small G-protein involved in signal trans- duction (Ramos, 1999). Furthermore, some of the pathways that are induced are modulated by ceramide, a product of the cera- mide synthase LASS1 (Jazwinski & Conzelmann, 2002; Ogret- men & Hannun, 2004). Ceramide synthase responds to growth and to stress signals via Tor complex TORC2 and calcineurin, respectively (Dickson, 2008). Lipotoxicity stimulates ceramide synthesis (Kusminski et al., 2009), and the resulting ceramide can signal apoptosis, resulting in the removal of damaged cells (Koybasi et al., 2004). It can also facilitate the transfer of choles- terol from cells to high density lipoprotein (HDL) (Witting et al., 2003). Therefore, we postulate that the HRAS1 and LASS1 genes interact genetically with the APOE gene to reduce age- related increase in lipotoxic events, and that a combination of variants or haplotypes in these three genes is associated with exceptional survival.
+
+Fig. 1 Stratification of the populations by ethnic affiliation. Alu genotypes and Structure analysis were employed to assign subjects to two major strata, European and African, in the Georgia (A) and Louisiana (B) populations. The Structure analysis was carried out in two batches for Louisiana consisting of 434 and 435 samples to speed computation, the latter of which is shown, while all 650 samples from Georgia were analyzed in one batch. Dots: red (Georgia or Louisiana samples), green (African control samples),purple (European control samples), light blue (Asian control samples),orange control samples). Indian refers to the Indian subcontinent. Not all samples are evident owing to superposition of dots.
+
+Results
+
+Gene combination associated with exceptional longevity
+
+Alu used here are 95–99% (Bamshad et al., 2003). After stratifi- cation the association of APOE with longevity persisted (Table S2). However, no such association was detected for HRAS1 or LASS1 here (Table S3).
+
+We have initiated a genetic analysis of exceptional longevity in the Georgia and Louisiana populations. Our attention in this study was exclusively directed to APOE, HRAS1, and LASS1 in a candidate gene approach. As noted earlier, variants of APOE are associated with longevity. This pattern is also found in the Geor- gia and Louisiana populations, for centenarians and nonagenari- ans respectively (Table S1). Both the Georgia and Louisiana populations are admixed with the two major strata being of European and African origin. To address this problem, we strati- fied each population by ethnic affiliation using an identical-by- descent (IBD) genetic system (Fig. 1). We placed the subjects in each population into two major groups of African and European origin. Together, these two groups constituted 81% and 83% of subjects of 20–59 years old and 72% and 77% of centenari- ans and nonagenarians in the Georgia and Louisiana samples, respectively. The ability to stratify is markedly enhanced by the Alu system used here, which can trace genealogy within the pri- mate lineage. The mean correct prediction rates with the 100
+
+above is associated with longevity, we genotyped the Georgia sample at the three relevant genomic regions. None of the 15 SNP examined showed significance for departure from Hardy– Weinberg proportions in either the African or European-origin populations in Georgia. (The same was found separately for the Louisiana population.) We searched for combinations of haplo- types in the three genes (15 SNP) in the Georgia population present at   0.01 or greater frequency, using expectation maxi- mization. We then tested them for association with exceptional longevity (Table S4). Such associations were detected in the sub- population of European origin in Georgia, stratified with an assignment probability of 0.9 (Table 1), but not in the subpopu- lation of African origin. They involve the e3 containing APOE
+
+Table 1 Association of haplotypes with exceptional longevity and healthy aging
+
+Case (N; frequency) Population Haplotype Control (N; frequency) OR (CI) Exact P (adjusted P) Georgia APOEÆHRAS1ÆLASS1 (CCT) ‡ 98 years old (147; 0.073) 7.68 (2.55–23.10) 4.1 · 10)5 (2.88 · 10)4) 20–59 years old (188; 0.010) Georgia APOEÆHRAS1ÆLASS1 (CGT) ‡ 98 years old (147; 0.191) 2.56 (1.61–4.08) 7.8 · 10)5 (4.66 · 10)4) 20–59 years old (188; 0.084) Louisiana APOEÆHRAS1ÆLASS1 (CCT) ‡ 90 years old (204; 0.105) 2.93 (1.68–5.09) 9.5 · 10)5 (5.68 · 10)4) 20–59 years old (251; 0.039) Louisiana APOEÆHRAS1ÆLASS1 (CGT) ‡ 90 years old (204; 0.175) 2.97 (1.92–4.58) 6.91 · 10)7 (5 · 10)6) 20–59 years old (251; 0.067) Georgia APOEÆHRAS1ÆLASS1 (CCT) ‡ 98 -year-old female (128; 0.099) 12.52 (2.93–53.57) 1 · 10)5 (2 · 10)5) 20–59 -year-old female (115; 0.009) Georgia APOEÆHRAS1ÆLASS1 (CGT) ‡ 98 -year-old male (19; 0.251) 12.40 (3.55–43.29) 9 · 10)6 (9 · 10)6) 20–59 -year-old male (73; 0.026) Louisiana APOEÆHRAS1ÆLASS1 (CCT) ‡ 90- year-old female (125; 0.092) 3.12 (1.47–6.63) 1.97 · 10)3 (3.93 · 10)3) 20–59- year-old female (163; 0.032) Louisiana APOEÆHRAS1ÆLASS1 (CGT) ‡ 90 -year-old male (79; 0.279) 4.86 (2.50–9.45) 1 · 10)6 (2 · 10)6) 20–59- year-old male (88; 0.074) Louisiana APOEÆHRAS1ÆLASS1 (CCT) ‡ 90 -year-old healthy (68; 0.023) 0.29 (0.08–1.04) *5.11 · 10)2 (5.11 · 10)2) ‡ 90 -year-old unhealthy (68; 0.076) Louisiana APOEÆHRAS1ÆLASS1 (CGT) ‡ 90 -year-old healthy (68; 0.295) 15.48 (5.08–47.15) 1.06 · 10)9 (2.11 · 10)9) 90- year-old unhealthy (68; 0.026)
+
+European subpopulations (0.9 assignment probability) were examined. The haplotypes are ATTTC and CGCGCGT for APOE and HRAS1, respectively. and unhealthy were classified as described in Experimental procedures. OR, odds ratio; CI, 95% confidence interval. *Not significant.
+
+Table 2 Haplotype frequencies in the general population
+
+haplotype (ATTTC) and the HRAS1 (CGCGCGT) haplotype in combination with the LASS1 (CCT) or (CGT) haplotypes, in which the SNP are listed starting with the furthest upstream SNP for each gene. The odds ratios (OR) of 7.68 and 2.56 were obtained for the APOE, HRAS1, and LASS1 (CCT) or (CGT) hap- lotype combinations, respectively. The stratification of the popu- lation at the 0.9 assignment probability level was sufficient for this analysis, because no significant differences were observed in the frequencies of the ethnic affiliation markers between the control and centenarian groups in the European subpopulation.
+
+Haplotype APOE HRAS1 LASS1 (CCT) LASS1 European Georgia (N = 220) 0.237 0.634 0.289 0.504 Louisiana (N = 293) 0.237 0.664 0.253 0.561 African Georgia (N = 145) 0.041 0.633 0.200 0.333 Louisiana (N = 52) 0.08 0.60 0.15 0.28
+
+A Structure assignment probability of 0.8 was used for this analysis to provide a conservative evaluation of any differences. The 20- to 59 -year- old age groups were used here, as representative of the general population. APOE (ATTTC) and HRAS1 (CGCGCGT) haplotypes are
+
+To determine whether these associations are present in the Louisiana population, we carried out the same analyses indepen- dently. The results obtained in the Georgia sample replicated in the Louisiana sample (Table 1). The same haplotype combina- tions were associated with exceptional longevity in the subpopu- lation of European origin in Louisiana, stratified with an assignment probability of 0.9, and no significant association was found in the African-origin subpopulation. The OR were 2.93 and 2.97 for the APOE, HRAS1, and LASS1 (CCT) or (CGT) hap- lotype combinations, respectively. The lower OR of the LASS1 (CCT)-containing haplotype combination in the Louisiana popu- lation is likely due to the greater demographic selection for cen- tenarians than for nonagenarians in the Georgia and Louisiana samples, respectively, but this does not appear to apply to the LASS1 (CGT).
+
+ence in the subpopulation. Analysis of the frequency of the hapl- otypes in the individual genes supports the notion that there is an intrinsic difference between the European and African subpopulations in both Georgia and Louisiana (Table 2). The major difference is in the APOE haplotype frequency, with a smaller difference in LASS1. The European populations in Geor- gia and Louisiana also differ, as an examination of the haplotype blocks in the three genes suggests (Fig. S1).
+
+Haplotype frequencies differ with age
+
+To ascertain the potential role of the three-gene interaction in promoting exceptional survival, we examined the differences in various age groups in the frequency of the two haplotype com- binations identified above in the European subpopulation. The results are shown for the combinations containing the LASS1
+
+The lack of an association with longevity in the African-Ameri- can subpopulation from both Georgia and Louisiana could be attributed to the relatively lower numbers of subjects from this group. However, it is likely that this may be an intrinsic differ-
+
+(A) (B)
+
+Consistent with the increase in haplotype frequencies with age, the APOE haplotype is associated with exceptional survival in the European-origin subpopulations from both Georgia and Louisiana, with OR of 1.53 (CI = 1.08–2.17; Exact P = 2.12 · 10)2; adjusted P = 2.12 · 10)2) and 1.37 (CI = 1.02–1.83; Exact P = 4.37 · 10)2; adjusted P = 4.37 · 10)2) respectively. The APOEÆHRAS1 haplotype combination is also associated with longevity in both of these subpopulations, with OR of 2.83 (CI = 1.88–4.26; Exact P = 5.68 · 10)7; adjusted P = 1.14 · 10)6) and 1.89 (CI = 1.35–2.65; Exact P = 2.27 · 10)4; adjusted P = 4.54 · 10)4) respectively. The greater OR for the two-gene combination supports the epistatic effect of HRAS1. None of the other haplotypes in the individual genes or their combinations were associated with longevity (Table S5).
+
+Haplotype combinations in women and men
+
+bination containing LASS1 (CGT) in centenarians was puzzling. One possibility is that this reflects the lack of a role for this haplo- type in survival at that late age. However, there is an alternate explanation. With advanced age, the ratio of females to males increases. Thus, the plateau we see could be the result of gender bias in the oldest age groups. We therefore examined the haplo- type association in the Georgia sample for females and males separately, in the European subpopulation. The results suggest that such a bias indeed exists (Table 1). The association with exceptional survival in female centenarians was found solely for the combined haplotypes of the three genes that included LASS1 (CCT), showing an OR of 12.52. For male centenarians, it was instead the LASS1 (CGT) haplotype with an OR of 12.40. The results in the Georgia sample were replicated in the Louisi- ana population (Table 1). For female nonagenarians, the com- bined haplotypes that included LASS1 (CCT) were associated with exceptional longevity with an OR of 3.12. For male nonage- narians this combination included LASS1 (CGT) and an OR of 4.86.
+
+Fig. 2 Haplotype frequencies in different age groups. The frequencies for each haplotype or haplotype combination determined for the European subpopulation (0.9 assignment probability) were normalized to the frequencies in the < 60 year-old-age group from Georgia or Louisiana, respectively, to facilitate comparison. Error bars denote the SD (100 bootstraps). The age groups labeled ‘90’ and ‘100’ are the nonagenarians centenarians in Georgia and Louisiana, respectively. For clarity, only the haplotypes or haplotype combinations that differ significantly on frequency between age groups are shown: APOE (ATTTC), HRAS1 (CGCGCGT), and LASS1 (CCT) in A and APOE (ATTTC), HRAS1 (CGCGCGT),and LASS1 (CGT) in B. Note the difference in scale of the ordinates in A and B. The APOE and APOEÆHRAS1 frequencies are identical in the two panels.
+
+(CCT) and (CGT) haplotypes in Fig. 2A,B, respectively. The monotonic increase in the frequencies of the haplotype combi- nations of APOEÆHRAS1ÆLASS1 with age indicates a positive association with longevity, although a plateau appears for the combination containing the LASS1 (CGT) haplotype for the old- est age group. These positive associations with longevity indi- cate that these are longevity haplotypes.
+
+Gene combination associated with healthy aging
+
+We next examined the question whether the genetic combi- nation that contributes to exceptional longevity is also associ- ated with ‘healthy aging.’ Healthy aging is a concept that is difficult to define adequately. We elected to quantify healthy aging using the frequency of self-reported deficits (Rockwood & Mitnitski, 2007) in the Louisiana nonagenarians (Table S6). For this purpose, we surveyed subjects for the presence of 42 medical conditions or functional limitations and summed them for each nonagenarian. We then partitioned the sub- jects into tertiles based on the number of deficits reported; tertile 1 had the fewest deficits, while tertile 3 had the greatest number of deficits. A Kaplan–Meier survival analysis was performed for each of the tertiles (Fig. 3). Examining the entire sample of nonagenarians from Louisiana, the survival
+
+We next determined the frequencies of the APOE (ATTTC) haplotype and its combination with HRAS1 (CGCGCGT) from the three-gene haplotype combination in the various age groups. Figure 2 shows that in both cases there is a monotonic increase with age. None of the other haplotypes in the individual genes or haplotype combinations changed in frequency with age. The patterns seen indicate that HRAS1 has a synergistic (epistatic) effect with APOE, and this effect is further enhanced
+
+
+
+Fig. 3 Survival of nonagenarians as a function of their healthy aging profile. Kaplan–Meier survival of all nonagenarians in the Louisiana sample is plotted after partitioning individuals into tertiles of deficit accumulation. Deficit count increases from tertile 1–3. Mortality was assessed on follow-up after enrollment. Censoring is indicated by the symbols.
+
+
+
+curves are significantly different (Wilcoxon v2 = 20.06, ð2Þ P < 0.0001).
+
+We then searched for genetic associations with healthy aging by examining the haplotypes in the three genes in the tertile with the fewest deficits vs. that with the most (Table 1). The results indicate that the combination of the same haplotypes in the three genes is associated with healthy aging but only for the combination including LASS1 (CGT). The OR for this association was 15.48 for the European subpopulation in Louisiana.
+
+Functional impact of gene variants
+
+The marked difference in the effects of the two LASS1 haplo- types suggests that they could have functional consequences. Variants in the APOE promoter at )491 and )219 are known to affect the expression of this gene at the transcription level (Arti- ga et al., 1998a,b). The combination we have found in the hap- lotype associated with exceptional survival elicits a moderate level of expression, approximately one-half of maximal. Because LASS1 only has an effect when a combination of haplotypes in APOE and HRAS1 is present, and this effect differs depending on the particular LASS1 haplotype, we examined the variants in the LASS1 gene for their potential role in transcription of the gene, using a luciferase reporter assay. The results indicate that compared to the AGC haplotype the CCT- and CGT-containing promoters were 48% and 29% more active, respectively (Fig. 4). Thus, the variation observed in our study appears to be functional in determining mRNA expression levels. Perhaps, the more moderate expression of LASS1 in males promotes healthier aging. It is noteworthy that varying expression of the LASS1 homolog in yeast, LAG1, affects the observed life extension
+
+Fig. 4 Impact of polymorphisms in LASS1 on gene expression. A luciferase reporter assay was used for determining the promoter activity in transfected HeLa cells. Error bars denote SEM for six independent experiments with at least six replicates for each of the four promoter constructs shown. The LASS1 promoter variants CCT and CGT associated with exceptional longevity were compared to an AGC variant. The control is a reporter lacking inserted promoter sequences.
+
+Discussion
+
+We have found a combination of variants in three genes that is associated not only with exceptional longevity but also with healthy aging. This is a novel finding. An association of HRAS1 with longevity was found before, and an interaction with the mitochondrial genome was demonstrated (Bonafe´ et al., 2002). A compensatory effect in late life of variants in one gene for the deleterious effects of variants in a second gene has also been described (Bergman et al., 2007). The combined effect described here involves three genes and extends the association
+
+Circulating Aging Clearance lipids LASS APOE Vascular HDL damage Tissue infiltration S ur vi v HRAS r e s p oal a n d Lipotoxicity n s e sstr e s s Dysfunction LASS Apoptosis and morbidity
+
+old age. Genetic interactions play an important role in complex traits, but they can be difficult to find unless a hypothesis-driven approach such as we use here is employed that reduces the scale of the search and affects the prior probabilities involved (Thorn- ton-Wells et al., 2004; Flint & Mackay, 2009). Unmasking the interactions of common variants mitigates the necessity of invoking the wide involvement of rare variants in complex traits.
+
+The association with healthy aging and the profile of increas- ing frequencies of the haplotypes with age indicates that the three genes studied here are not frailty genes or haplotypes but instead genetic determinants of longevity. The foundation for the genetic interaction is laid by the haplotype in APOE. HRAS1 has a synergistic effect, and this combined effect is further enhanced by either of the two LASS1 haplotypes in a synergistic manner. Our results point to the importance of accounting for population heterogeneity in association studies (Dai et al., 2007). The African-origin subpopulation displays a very low fre- quency of the crucial APOE haplotype, as well as a reduced fre- quency of the LASS1 haplotypes. Thus, intrinsic genetic differences between the European and African subpopulations can explain the lack of observation of the three-gene interaction in the latter group. On the other hand, the associations we have discovered in the European-origin sample from Georgia are rep- licated in the corresponding Louisiana sample, though the hap- lotype structures in the two samples differ. It will be important to examine samples from additional populations for these asso- ciations to further generalize our findings and to explore poten-
+
+Fig. 5 Hypothetical model of the role of APOE, HRAS1,and LASS1 interactions. Circulating lipids are cleared by APOE and by HDL, which is aided by LASS1-generated ceramide. Metabolic (lipid) stress induces protective survival and stress responses, which are mediated⁄modulated by HRAS1 and LASS1. Lipotoxicity enhances LASS1 production of ceramide, which signals apoptosis removing damaged cells. These mechanisms become overwhelmed with age resulting in dysfunction and morbidity.
+
+isiana (Table 2). However, the congruence of the respective haplotypes in all three genes is relatively infrequent in the popu- lation at large, although it increases in frequency dramatically with age (Table 1 and Fig. 2). Thus, we have uncovered an individual path to exceptional longevity and healthy aging, and others remain to be found.
+
+Experimental procedures
+
+There are two different haplotypes in LASS1 that play a role in the three-gene combination described here. One appears to operate in females and the other in males to determine excep- tional longevity. Furthermore, it is only the latter that is associ- ated with healthy aging. Thus, similar but distinct mechanisms of aging are at play. Differences in genetic associations with exceptional longevity between the genders have been noted previously (De Benedictis et al., 2001). Interestingly, the cogni- tion and physical function ability of male centenarians is often greater than for their female counterparts, even though they are outnumbered by them (Terry et al., 2008). Survival to excep- tional old age, however, can occur due to delay or escape from morbidity, as well as survival in its presence, regardless of gender (Evert et al., 2003; Terry et al., 2008). The promoter analyses suggest that an enhanced LASS1 activity is conducive to longev- ity. They further suggest that healthy aging in nonagenarians depends on a somewhat lower enhancement of this promoter activity. This could, for example, be related to moderation in apoptosis-promoting activity coupled to sufficient enhancement of cholesterol clearance by ceramide. Our results support a model (Fig. 5) postulating that metabolic (lipid) stress induces protective responses. However, at some point, removal of dam- aged cells is needed. Confirmation of this model will require the longitudinal study of appropriate endophenotypes.
+
+Study subjects
+
+The Georgia sample (N = 650) was recruited in the Georgia Centenarian Study from 44 counties in Northern Georgia. The sampling frame consisted of voter’s registration files and lists prepared from a survey of nursing homes and personal care homes in the catchment area for centenarians and random digit dialing for younger subjects. The Louisiana sample (N = 869) was recruited in the Louisiana Healthy Aging Study from eight parishes within a 40-mile radius of Baton Rouge. The sampling frame consisted of the Center for Medicare and Medicaid Ser- vices enrollment database for subjects 65 and older and voter’s registration files for younger individuals. Age of subjects was verified using both demographic questionnaires and documen- tary evidence. Mortality data were collected using Social Security Death Index search. Subjects provided informed consent accord- ing to protocols approved by the respective institutional review boards. The demographic characteristics of the samples are tabulated (Table S7).
+
+Genotyping
+
+Small subsets of samples from Georgia and Louisiana were first independently genotyped to identify all detectable variation in the selected genomic regions. Only polymorphisms present at ‡ 0.09 frequency were chosen for subsequent analysis in all
+
+The haplotypes in the three genes are all present at high fre- quency in the European subpopulation in both Georgia and Lou-
+
+the genome. The Alu sequences were amplified by PCR locus-specific primers. The PCR fragments were separated agarose gel electrophoresis. The primers and methods used been described (Bamshad et al., 2003; Watkins et al., 2003; et al., 2005). Subjects were classified as one or the other of possible homozygotes based on the presence of a particular sequence at a given locus or as heterozygotes. The Alu types thus obtained were analyzed to assign ethnic using Structure (Pritchard et al., 2000). For this purpose, same Alu genotypes from 715 independent DNA samples subjects from around the world were used (Bamshad et 2003; Watkins et al., 2003; Ray et al., 2005). These spanned the geographic regions of Europe, Africa, Asia, India and included sampling of individuals from many tions in each region (31 total). Subjects were then assigned populations of origin corresponding to these geographic using an assignment probability of 0.9.
+
+samples. This provided sufficient power (> 0.95) to detect asso- ciations with exceptional longevity (Dai et al., 2007). Genomic regions of interest were then amplified by the polymerase chain reaction (PCR). The primers, forward and reverse respectively, used to amplify the DNA regions of interest by the PCR were as follows: (i) the promoter region of the APOE gene, 5¢- GCGTCTGAGCGTTCACTGT-3¢ and 5¢-GTCCCAGTCTCGCAT- TCCT-3¢; (ii) exon 4 of APOE, 5¢-CTTGGGTCTCTCTGGCTCATC- 3¢ and 5¢-GCAGCCTGCACCTTCTCC-3¢; (iii) promoter of LASS1, 5¢-CAGCAAGTGACCCTCAGAGA-3¢ and 5¢-GACCTGGACCC- CGAGAGA-3¢; (iv) exon1 of LASS1, 5¢-GCCTGGGTTTCTCTG- CTG-3¢ and 5¢-GCCCGAGAGACCTTATCCTG-3¢; (v) promoter of HRAS1, 5¢-ATCCCAGCCTTTCCCCAG-3¢ and 5¢-TTCGCCCC- GCGCATGGGCT-3¢; (vi) exon 1 of HRAS1, 5¢-CAGGAGACCC- TGTAGGAGGA-3¢ and 5¢-CCTATCCTGGCTGTGTCCTG-3¢.
+
+Amplicons were verified by agarose gel electrophoresis, and cleaned DNA was subjected to cycle-sequencing using the Big- Dye Terminator Reagent version 3.1 (Applied Biosystems, Foster City, CA, USA) and the same primers, and the 3130xl DNA sequencing system (Applied Biosystems). Identification of alleles was aided by the SNP detection and base-calling software SEQSCAPE v2.5 (Applied Biosystems). To minimize errors, both strands of DNA were sequenced twice independently. The genotyped loci included SNP: rs449647, rs769446, rs405509, rs429358, rs7412, rs8176330, rs8176331, rs8176332, rs8176333, rs8176334, rs8176335, rs12628, rs60774903, rs3746263, and an SNP in exon 1 (+234) in LASS1 that is not
+
+Plot of pairwise linkage disequilibrium (LD) comparison
+
+Haplotype blocks for the three genes were examined using Haploview. The standard color scheme is used for D¢⁄LOD values: bright red (D¢ = 1, LOD ‡ 2); blue (D¢ = 1, LOD < 2); shades of pink⁄red (D¢ < 1, LOD ‡ 2); white (D¢ < 1, LOD < 2). The numbers shown inside the boxes are D¢ values · 100 (empty boxes represent the D¢ value of 1). Haplotype blocks are defined based on confidence bounds on D¢. If the one- sided upper 95% confidence bound on D¢ lies between 0.7 and 0.98, the SNP pairs involved are considered to be in strong LD (Gabriel et al., 2002). Haploview was also used to examine the Hardy–Weinberg equilibrium. None of the 15 SNP examined in this study showed significance for departure from Hardy–Weinberg proportions in the Georgia and Louisi- ana samples stratified by Structure at 0.9 assignment proba- bility. Haploview is available at: http://www.broad.mit.edu/ mpg/haploview.
+
+Some of the Louisiana samples were genotyped using the SNPlex technology (Applied Biosystems), which is based on the oligonucleotide ligation assay combined with multiplex PCR amplification. Primers were designed according to the SNPlex Design Pipeline for the following SNP: rs449647, rs769446, rs405509, rs8176330, and rs3746263. Size fractionation of genotype-specific products was performed by capillary electro- phoresis using the 3130xl DNA Analyzer, and genotype calls were made using the GENEMAPPER v4.0 software (Applied Bio- systems). The SNPlex genotyping was repeated twice indepen- dently.
+
+Promoter analysis of LASS1 haplotypes
+
+The two polymorphisms in the coding region (rs429358 and rs7412) account for the occurrence of three alleles, e2, e3, and e4, which result in the three major isoforms, E2, E3, and E4 of APOE, respectively. The E2, E3, and E4 isoforms differ on amino acid sequence at site A (residue number 112) and site B (residue number 158) in exon 4. For HRAS1 and LASS1 SNP, their loca- tions are relative to the first nucleotide of the translation start codon, whereas the transcription start site was used for the APOE SNP.
+
+A 1755-bp DNA fragment containing the putative promoter region and part of the coding region of LASS1 was PCR-ampli- fied from appropriate genomic DNA samples using EcoRV and BglII-tagged primers and cloned into the Pgl4.10 vector (Pro- mega, Sunnyvale, CA, USA). The cloned sequence is in frame with the firefly luciferase coding sequence in the vector. Then, an additional 1040-bp fragment tagged with XhoI and EcoRV was added upstream of the original clone. The translational start codon of LASS1 was changed to TAG by site-directed mutagen- esis. The correctness of the final constructs was verified by sequencing. The only sequence differences between the con- structs were at the polymorphic sites of interest specified below. Transfection of HeLa cells was performed using the PolyFect
+
+Population stratification using Structure
+
+Identification of ethnic origins of individuals using Alu insertion polymorphisms was performed as described (Bamshad et al., 2003; Watkins et al., 2003; Ray et al., 2005). DNA samples were genotyped at 100 separate Alu loci located throughout
+
+transfection reagent (Qiagen, Valencia, CA, USA) per the tocol provided. Co-transfection was carried out with
+
+of one of the experimental constructs (0.4 lg) with a control vector, Pgl4.73 (10 ng), which carries a Renilla luciferase cod- ing sequence under the SV40 promoter. The experimental con- structs were either Pgl4.10 without LASS1 promoter sequences or Pgl4.10 with one of three different LASS1 sequences. These had the following bases at positions )718, +216, and +234, respectively: AGC, CCT, or CGT. Following 24-h incubation, luciferase activities were measured using the Dual-Glo Luciferase Assay (Promega) per the protocol provided, using a Modulus Microplate Luminometer (Turner BioSystems, Sunnyvale, CA, USA). The firefly luminescence readings were normalized to the Renilla luminescence readings. There were at least six replicates of each assay per experiment.
+
+APOE allele frequencies and genotype frequencies were com- pared between centenarians⁄nonagenarians and young con- trols with a 2 · 3 contingency table (for alleles) or with a 2 · 6 contingency table (for genotypes). The contingency tables were evaluated by Fisher’s exact probability test (Sanchez et al., 2006), using SAS v9.13 software (SAS Institute Inc., Cary, NC, USA). A P-value < 0.05 was considered statistically significant. All statistical tests of significance reported in this study are two-sided.
+
+Structure v2.2 (Pritchard et al., 2000) was used to infer popu- lation structure for the 650 Georgia subjects and the 869 Louisi- ana subjects, respectively. Seven hundred and fifteen subjects of known geographic ancestry (European, African, Asian, or Indian) were used as reference. For each individual, Structure 2.2 estimates the proportion of ancestry from each of four pop- ulations. We used a burn-in of 15 000 iterations and a run of 20 000 replications. Three replicate runs were performed on each dataset. The largest proportion values in each run were used to calculate the average ancestry proportion for each indi- vidual. Individuals were either assigned to a specific geographic origin if the average was larger than a predetermined assign- ment probability (0.9 in this study) or considered admixed if the average was less. All haplotype analyses were performed on samples stratified for ethnic affiliation, as described here.
+
+Deficit index
+
+Following previously published reports (Kulminski et al., 2008; Searle et al., 2008), our deficit index was derived as the un-weighted count of the number of deficits divided by the total number of possible deficits for an individual. The self-reported medical history questionnaire was administered to all study par- ticipants, and its components were used to construct the deficit index. This was supplemented with items from an activities of daily living (ADL) questionnaire. Responses were grouped to create broader categories where similar ailments were defined more than once. After applying the above criteria, 42 deficits were included in the compilation of the index.
+
+Linkage disequilibrium approaches to the analysis of gene– gene interactions have been proposed (Zhao et al., 2006), and the modeling of gene–gene interactions using association analy- sis of noncontiguous haplotypes has been implemented (Woo et al., 2006). We took a similar approach. The haplotype fre- quencies for the combination of SNP in APOE, HRAS1, and LASS1 were estimated by an Expectation-Maximization (EM) algorithm implemented in Arlequin (Excoffier et al., 2005). The SD was determined by the parametric bootstrap procedure in Arlequin (100 bootstraps). Those haplotype combinations pres- ent at a frequency of   0.01 or greater in the 20- to59 -year-old group in Georgia and in Louisiana were analyzed further. This cutoff was taken based on the considerations from comparison of statistical and molecular haplotyping for sample sizes as small as 17 (Tishkoff et al., 2000). The frequency estimates in case and control groups were used to generate 2 · 2 contingency tables to test significance of associations of the respective haplo- type combinations with exceptional longevity. Fisher’s exact test was used to assess significance. The sequential Dunn-Sidak pro- cedure was used to adjust the exact P-values for multiple com- parisons of haplotype combinations. The adjustment included seven such combinations independently identified in the Geor- gia and Louisiana samples in the subpopulations of European origin (Table S4). In the African-origin subpopulations, there were seven and three such combinations in these samples, respectively. A stringent criterion of adjusted P < 0.01 (two- sided) was used to identify the potentially interacting combina-
+
+Statistical analysis
+
+There is substantial evidence supporting the hypothesis of asso- ciation with exceptional longevity of variants in the three candi- date genes chosen here for analysis. This information is presented in this paper. APOE has been replicated as a longev- ity-determining gene in numerous studies (Christensen et al., 2006). This gene anchors the interaction described in this report (Fig. 5). The hypothesis we test is related to the role of the apoli- poprotein APOE in lipid and lipoprotein metabolism. The BioSys- tems Database (NCBI) lists 228 genes under the entry ‘Metabolism of Lipids and Lipoproteins.’ APOE and LASS1 are among them. Thus, we assume the prior probability of an inter- action of these genes to be  1.0. It is likely that there are genes involved in lipid and lipoprotein metabolism in addition to the 228, and we conservatively propose there to be 300. We there- fore assume the prior probability of identifying another interact- ing gene, such as HRAS1, to be  300⁄30 000 or  0.01. We set the posterior probability for identification of such a gene at 0.95. Applying Bayes’ theorem, we obtain the likelihood ratio Pr(Data|Association)⁄Pr(Data|NoAssociation) of 1881. These considerations are applicable to the initial test of the association with longevity of the combination of the haplotypes in the three genes in both the Georgia and Louisiana populations. The prior probability increases dramatically in subsequent tests, once the
+
+The two significant haplotype combinations found to be asso- ciated with exceptional longevity in the independent analyses in the Georgia and Louisiana samples were then evaluated in men
+
+Hawley, J. Hayden, K. Hebert, F. Holton, H.-C. Hsu, D. Johann- sen, L. Kawasaki, B. Kimball, C. King-Rowley, M. Konkel, R. Kuhn, K. Landry, C. Lavie, D. LaVie, M. Leblanc, H.-Y. Lin, K. Lopez, B. McEvoy-Hein, J.D. Mountz, E. Olinde, J. Owens, K. Pedersen, A. Pellett, P. Remedios, Y. Robertson, J. Rood, H. Rothschild, R.A. Russell, E. Sandifer, B. Schmidt, R. Schwartz, D.K. Scott, J. Silva, F.N. Standberry, J. Thomson, A. Tiwari, V. Toups, C. Traylor, C. Velasco-Gonzalez, C. Waguespack, X.-Y. Wang, R.H. Wood, Q. Yu, S. Zehr, and P. Zhang.
+
+deficit accumulation in the Louisiana population. The same  0.01 frequency cutoff was applied. This involved adjustment for up to two comparisons, using the sequential Dunn-Sidak procedure. The haplotype combination frequencies differed sig- nificantly in the various samples examined. These haplotype combinations are common in the relevant samples characterized by longevity and⁄or healthy aging. The three-gene haplotype combinations reported here are associated with certain additional healthy-aging phenotypes but not with others (in preparation).
+
+Author contributions
+
+The APOE and APOEÆHRAS1 haplotypes derived from the significant haplotype combinations in the three genes were also evaluated independently for association with exceptional longevity, using the above procedures.
+
+S.M.J., L.W.P., M.A.B., D.A.W., L.J.S., D.B.H., E.R., K.E.C., and M.A.W. designed the research; S.K., L.L., X.B., J.C.J., J.A.W., C.M.L., J.V., L.M., L.J.S., D.B.H., M.V.M., and K.E.C. acquired data; J.A. and J.D. contributed new analytic tools; S.M.J., S.K., J.D., X.B., J.A., M.A.B., D.A.W., C.M.L., J.V., L.M., and L.J.S. analyzed and interpreted data; and S.M.J., S.K., and J.D. prepared the manuscript.
+
+Nonagenarians were classified by tertile according to their deficit accumulation, as described above. The Kaplan–Meier survival was plotted for each tertile. The differences between tertiles were evaluated by the Wilcoxon test (a two-sided P < 0.05 was considered significant). SAS v9.13 software was used for Kaplan–Meier survival analysis.
+
+References
+
+The significance of differences in promoter strength deter- mined using the luciferase reporter assay was evaluated for six independent experiments in which the control (no LASS1 promoter sequences) and the three LASS1 promoter haplo- types were compared. One-way ANOVA was used to first test for any differences, using a criterion of P < 0.05 (two-sided). Then, all pairwise combinations were evaluated in a two- tailed Newman–Keuls test, implemented in STATMOST (DataMost Corp., Sandy, UT, USA). A P-value of < 0.05 was considered significant.
+
+quez J, Valdivieso F (
+
+a) Allelic polymorphisms in the transcrip- tional regulatory region of apolipoprotein E gene. FEBS Lett.
+
+,
+
+–
+
+Artiga MJ, Bullido MJ, Frank A, Sastre I, Recuero M, Garcia MA, Lendon CL, Han SW, Morris JC, Va´zquez J, Goate A, Valdivieso F (
+
+b) Risk of Alzheimer’s disease correlates with transcriptional activity of the APOE gene. Hum. Mol. Genet.
+
+,
+
+–
+
+Bamshad MJ, Wooding S, Watkins WS, Ostler CT, Batzer MA, Jorde LB (
+
+) Human population genetic structure and inference of group membership. Am. J. Hum. Genet.
+
+,
+
+–
+
+Bergman A, Atzmon G, Ye K, Ma
+
+arthy T, Barzilai N (
+
+) Buffer- ing mechanisms in aging: a systems approach toward uncovering the genetic component of aging. PL
+
+Comput. Biol.
+
+, e
+
+Bonafe´ M, Barbi C, Olivieri F, Yashin A, Andreev KF, Vaupel JW, De Benedictis G, Rose G, Carrieri G, Jazwinski SM, Franceschi C (
+
+) An allele of HRAS
+
+¢variable number of tandem repeats is a frailty allele: implication for an evolutionarily-conserved pathway involved in longevity. Gene
+
+,
+
+–
+
+Chen JB, Sun J, Jazwinski SM (
+
+) Prolongation of the yeast life span by the v-Ha-Ras oncogene. Mol. Microbiol.
+
+,
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Dai J, Li L, Kim S, Kimball B, Jazwinski SM, Arnold J, for the Georgia Centenarian Study (
+
+) Exact sample size needed to detect dependence in
+
+x
+
+x
+
+tables. Biometrics
+
+,
+
+–
+
+De Benedictis G, Tan Q, Jeune B, Christensen K, Ukraintseva SV, Bona- fe´ M, Franceschi C, Vaupel JW, Yashin AI (
+
+) Recent advances in human gene-longevity association studies. Mech. Ageing Dev.
+
+,
+
+–
+
+Dickson RC (
+
+) More chores for TOR: de novo ceramide synthesis. Cell Metab.
+
+,
+
+–
+
+D’mello NP, Childress AM, Franklin DS, Kale SP, Pinswasdi C, Jazwinski SM (
+
+) Cloning and characterization of LAG
+
+, a longevity gene in yeast. J. Biol. Chem.
+
+,
+
+–
+
+Acknowledgments
+
+Supported by grants from the National Institute on Aging of the National Institutes of Health (P01 AG017553 and P01 AG022064) and by the Louisiana Board of Regents through the Millennium Trust Health Excellence Fund [HEF(2001-06)-02]. We thank the people of Georgia and Louisiana for participation in our study. We acknowledge the valuable recruitment, data acquisition, data management, and fiscal management efforts of M. Burgess, K. Grier, E. Jackson, E. McCarthy, K. Shaw, L. Strong, S. Reynolds, S. Anderson, E. Cassidy, M. Janke, T. Savla, M. Durden, M. Cervantes, D. Rouzan, and T. Beard.
+
+Additional authors include for The Georgia Centenarian Study: R.C. Green, M. Gearing, W.R. Markesbery, J.L. Woodard, M.A. Johnson, J.S. Tenover, I.C. Siegler, P. Martin, M. MacDon- ald, C. Rott, W.L. Rodgers, and A. Davey; for The Louisiana Healthy Aging Study: M. Allen, I.E. Antikainen, A.M. Arce, J. Arceneaux, E.O. Boudreaux, L. Byerley, P.A. Callinan, C.M. Champagne, H. Cheng, Y.-w. Chiu, L. Cosenza, M.E. Cress, M. Czarny-Ratajczak, J.P. DeLany, J. Denver, A. Deutsch, M.J. deVeer, D.A. Dobrosielski, R. Ellis, A. Ermolao, M. Erwin, M. Erwin, J. Fabre, E. Fontham, M. Frisard, P. Geiselman, L. Good- win, V. Greco, S. Hadie, T. Hall, M. Hamilton, S.W. Herke, K.
+
+Evert J, Lawler E, Bogan H, Perls T (
+
+) Morbidity profiles of cente- narians: survivors, delayers, and escapers. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Excoffier L, Laval G, Schneider S (
+
+) Arlequin ver.
+
+: an inte- grated software package for population genetics data analysis. Evol. Bioinform. Online
+
+,
+
+–
+
+Finch CE, Ruvkun G (
+
+) The genetics of aging. Annu. Rev. Genom- ics Hum. Genet.
+
+,
+
+–
+
+Flint J, Mackay TF (
+
+) Genetic architecture of quantitative traits in mice, flies, and humans. Genome Res.
+
+,
+
+–
+
+Gabriel SB, Schaffner SF, Nguyen H, Moore JM, Roy J, Blumenstiel B, Higgins J, D
+
+elice M, Lochner A, Faggart M, Liu-Cordero SN, Rotimi C, Adeyemo A, Cooper R, Ward R, Lander ES, Daly MJ, Altshuler D (
+
+) The structure of haplotype blocks in the human genome. Science
+
+,
+
+–
+
+Guillas I, Jiang JC, Vionnet C, Roubaty C, Uldry D, Chuard R, Wang J, Jazwinski SM, Conzelmann A (
+
+) Human homologues of LAG
+
+reconstitute Acyl-C
+
+-dependent ceramide synthesis in yeast. J. Biol. Chem.
+
+,
+
+–
+
+Hong MG, Reynolds C, Gatz M, Johansson B, Palmer JC, Gu HF, Blen- now K, Kehoe PG, de Faire U, Pedersen NL, Prince JA (
+
+) Evidence that the gene encoding insulin degrading enzyme influ- ences human lifespan. Hum. Mol. Genet.
+
+,
+
+–
+
+Jazwinski SM (
+
+) Longevity, genes, and aging. Science
+
+,
+
+–
+
+Jazwinski SM, Conzelmann A (
+
+) LAG
+
+puts the focus on ceramide signaling. Int. J. Biochem. Cell Biol.
+
+,
+
+–
+
+Jiang JC, Kirchman PA, Allen M, Jazwinski SM (
+
+) Suppressor anal- ysis points to the subtle role of the LAG
+
+ceramide synthase gene in determining yeast longevity. Exp. Gerontol.
+
+,
+
+–
+
+Kenyon C (
+
+) The plasticity of aging: insights from long-lived mutants. Cell
+
+,
+
+–
+
+Koybasi S, Senkal CE, Sundararaj K, Spassieva S, Bielawski J, Osta W, Day TA, Jiang JC, Jazwinski SM, Hannun YA, Obeid LM, Ogretmen B (
+
+) Defects in cell growth regulation by C
+
+:
+
+-ceramide and longevity assurance gene
+
+in human head and neck squamous cell carcinomas. J. Biol. Chem.
+
+,
+
+–
+
+Kulminski AM, Ukraintseva SV, Culminskaya IV, Arbeev KG, Land KC, Akushevich L, Yashin AI (
+
+) Cumulative deficits and physiological indices as predictors of mortality and long life. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Kusminski CM, Shetty S, Orci L, Unger RH, Scherer PE (
+
+) Diabetes and apoptosis: lipotoxicity. Apoptosis
+
+,
+
+–
+
+Mahley RW, Rall SJ (
+
+) Apolipoprotein E: far more than a lipid transport protein. Annu. Rev. Genomics Hum. Genet.
+
+,
+
+–
+
+Mehta R, Steinkraus KA, Sutphin GL, Ramos FJ, Shamieh LS, Huh A, Davis C, Chandler-Brown D, Kaeberlein M (
+
+) Proteasomal regu- lation of the hypoxic response modulates aging in C. elegans. Science
+
+,
+
+–
+
+Menuz V, Howell KS, Gentina S, Epstein S, Riezman I, Fornallaz-Mul- hauser M, Hengartner MO, Gomez M, Riezman H, Martinou JC (
+
+) Protection of C. elegans from anoxia by HYL-
+
+ceramide syn- thase. Science
+
+,
+
+–
+
+Migliaccio E, Giorgio M, Mele S, Pelicci G, Reboldi P, Pandolfi PP, Lan- francone L, Pelicci PG (
+
+) The p
+
+shc adaptor protein controls oxidative stress response and life span in mammals. Nature
+
+,
+
+–
+
+Ogretmen B, Hannun Y (
+
+) Biologically active sphingolipids in can- cer pathogenesis and treatment. Nat. Rev. Cancer
+
+,
+
+–
+
+Pritchard JK, Stephens M, Donnelly P (
+
+) Inference of population structure using multilocus genotype data. Genetics
+
+,
+
+–
+
+Evert J, Lawler E, Bogan H, Perls T (2003) Morbidity profiles of cente- narians: survivors, delayers, and escapers. J. Gerontol. A Biol. Sci.
+
+Ramos KS (1999) Redox regulation of c-Ha-ras and osteopontin signal- ing in vascular smooth muscle cells: implications in chemical athero-
+
+ing in vascular smooth muscle cells: implications in chemical genesis. Annu. Rev. Pharmacol. Toxicol.
+
+,
+
+–
+
+Ray DA, Walker JA, Hall A, Llewellyn B, Ballantyne J, Christian AT, teltaub K, Batzer MA (
+
+) Inference of human geographic using Alu insertion polymorphisms. Forensic Sci. Int.
+
+,
+
+–
+
+Rockwood K, Mitnitski A (
+
+) Frailty in relation to the of deficits. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Sanchez MS, Basten CJ, Ferrenberg AM, Asmussen MA, Arnold (
+
+) Exact sample sizes needed to detect dependence in
+
+x tables. Theor. Popul. Biol.
+
+,
+
+–
+
+Scha¨chter F, Faure-Delanef L, Gue´not F, Rouger H, Froguel P, Ginot L, Cohen D (
+
+) Genetic associations with human at the APOE and ACE loci. Nat. Genet.
+
+,
+
+–
+
+Searle SD, Mitnitski A, Gahbauer EA, Gill TM, Rockwood K (
+
+) standard procedure for creating a frailty index. BMC Geriatr.
+
+,
+
+Song Y, Stampfer MJ, Liu S (
+
+) Meta-analysis: apolipoprotein genotypes and risk for coronary heart disease. Ann. Intern.
+
+,
+
+–
+
+Strittmatter WJ, Saunders AM, Schmechel D, Pericak-Vance M, J, Salvesen GS, Roses AD (
+
+) Apolipoprotein E: high-avidity ing to beta-amyloid and increased frequency of type
+
+allele in onset Alzheimer disease. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Suh Y, Atzmon G, Cho MO, Hwang D, Liu B, Leahy DJ, Barzilai Cohen P (
+
+) Functionally significant insulin-like growth factor receptor mutations in centenarians. Proc. Natl Acad. Sci. USA
+
+–
+
+Sun J, Kale SP, Childress AM, Pinswasdi C, Jazwinski SM (
+
+) gent roles of RAS
+
+and RAS
+
+in yeast longevity. J. Biol. Chem.
+
+–
+
+Tedesco P, Jiang J, Wang J, Jazwinski SM, Johnson TE (
+
+) analysis of hyl-
+
+, the C. elegans homolog of LAG
+
+⁄LASS
+
+Age
+
+–
+
+Terry DF, Sebastiani P, Andersen SL, Perls TT (
+
+) Disentangling roles of disability and morbidity in survival to exceptional old Arch. Intern. Med.
+
+,
+
+–
+
+Thornton-Wells TA, Moore JJ, Haines JL (
+
+) Genetics, statistics human disease: analytical retooling for complexity. Trends
+
+,
+
+–
+
+Tishkoff SA, Pakstis AJ, Ruano G, Kidd KK (
+
+) The accuracy statistical methods for estimation of haplotype frequencies: example from the CD
+
+locus. Am. J. Hum. Genet.
+
+,
+
+–
+
+Watkins WS, Rogers AR, Ostler CT, Wooding S, Bamshad MJ, sington AM, Carroll ML, Nguyen SV, Walker JA, Prasad BV, PG, Das PK, Batzer MA, Jorde LB (
+
+) Genetic variation world populations: inferences from
+
+Alu insertion phisms. Genome Res.
+
+,
+
+–
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, Yano K, Masaki Willcox DC, Rodriguez B, Curb JD (
+
+) FOXO
+
+A genotype strongly associated with human longevity. Proc. Natl Acad. Sci.
+
+,
+
+–
+
+Witting SR, Maiorano JN, Davidson WS (
+
+) Ceramide cholesterol efflux to apolipoprotein A-I by increasing the cell presence of ATP-binding cassette transporter A
+
+J. Biol.
+
+,
+
+–
+
+Woo JG, Dolan LM, Deka R, Kaushal RD, Shen Y, Pal P, Daniels Martin LJ (
+
+) Interactions between noncontiguous haplotypes the adiponectin gene ACDC are associated with plasma tin. Diabetes
+
+,
+
+–
+
+Zhao J, Jin L, Xiong M (
+
+) Test for interaction between unlinked loci. Am. J. Hum. Genet.
+
+,
+
+–
+
+Excoffier L, Laval G, Schneider S (
+
+) Arlequin ver.
+
+: an inte- grated software package for population genetics data analysis. Evol. Bioinform. Online
+
+,
+
+–
+
+Finch CE, Ruvkun G (
+
+) The genetics of aging. Annu. Rev. Genom- ics Hum. Genet.
+
+,
+
+–
+
+Flint J, Mackay TF (
+
+) Genetic architecture of quantitative traits in mice, flies, and humans. Genome Res.
+
+,
+
+–
+
+Gabriel SB, Schaffner SF, Nguyen H, Moore JM, Roy J, Blumenstiel B, Higgins J, D
+
+elice M, Lochner A, Faggart M, Liu-Cordero SN, Rotimi C, Adeyemo A, Cooper R, Ward R, Lander ES, Daly MJ, Altshuler D (
+
+) The structure of haplotype blocks in the human genome. Science
+
+,
+
+–
+
+Guillas I, Jiang JC, Vionnet C, Roubaty C, Uldry D, Chuard R, Wang J, Jazwinski SM, Conzelmann A (
+
+) Human homologues of LAG
+
+reconstitute Acyl-C
+
+-dependent ceramide synthesis in yeast. J. Biol. Chem.
+
+,
+
+–
+
+Hong MG, Reynolds C, Gatz M, Johansson B, Palmer JC, Gu HF, Blen- now K, Kehoe PG, de Faire U, Pedersen NL, Prince JA (
+
+) Evidence that the gene encoding insulin degrading enzyme influ- ences human lifespan. Hum. Mol. Genet.
+
+,
+
+–
+
+Jazwinski SM (
+
+) Longevity, genes, and aging. Science
+
+,
+
+–
+
+Jazwinski SM, Conzelmann A (
+
+) LAG
+
+puts the focus on ceramide signaling. Int. J. Biochem. Cell Biol.
+
+,
+
+–
+
+Jiang JC, Kirchman PA, Allen M, Jazwinski SM (
+
+) Suppressor anal- ysis points to the subtle role of the LAG
+
+ceramide synthase gene in determining yeast longevity. Exp. Gerontol.
+
+,
+
+–
+
+Kenyon C (
+
+) The plasticity of aging: insights from long-lived
+
+Scha¨chter F, Faure-Delanef L, Gue´not F, Rouger H, Froguel P, Lesueur- Ginot L, Cohen D (1994) Genetic associations with human longevity
+
+longevity assurance gene
+
+in human head and neck squamous cell carcinomas. J. Biol. Chem.
+
+,
+
+–
+
+Kulminski AM, Ukraintseva SV, Culminskaya IV, Arbeev KG, Land KC, Akushevich L, Yashin AI (
+
+) Cumulative deficits and physiological indices as predictors of mortality and long life. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Kusminski CM, Shetty S, Orci L, Unger RH, Scherer PE (
+
+) Diabetes and apoptosis: lipotoxicity. Apoptosis
+
+,
+
+–
+
+Mahley RW, Rall SJ (
+
+) Apolipoprotein E: far more than a lipid transport protein. Annu. Rev. Genomics Hum. Genet.
+
+,
+
+–
+
+Mehta R, Steinkraus KA, Sutphin GL, Ramos FJ, Shamieh LS, Huh A, Davis C, Chandler-Brown D, Kaeberlein M (
+
+) Proteasomal regu- lation of the hypoxic response modulates aging in C. elegans. Science
+
+,
+
+–
+
+Menuz V, Howell KS, Gentina S, Epstein S, Riezman I, Fornallaz-Mul- hauser M, Hengartner MO, Gomez M, Riezman H, Martinou JC (
+
+) Protection of C. elegans from anoxia by HYL-
+
+ceramide syn- thase. Science
+
+,
+
+–
+
+Migliaccio E, Giorgio M, Mele S, Pelicci G, Reboldi P, Pandolfi PP, Lan- francone L, Pelicci PG (
+
+) The p
+
+shc adaptor protein controls oxidative stress response and life span in mammals. Nature
+
+,
+
+–
+
+Ogretmen B, Hannun Y (
+
+) Biologically active sphingolipids in can- cer pathogenesis and treatment. Nat. Rev. Cancer
+
+,
+
+–
+
+Pritchard JK, Stephens M, Donnelly P (
+
+) Inference of population structure using multilocus genotype data. Genetics
+
+,
+
+–
+
+Arch. Intern. Med.
+
+,
+
+–
+
+Thornton-Wells TA, Moore JJ, Haines JL (
+
+) Genetics, statistics and human disease: analytical retooling for complexity. Trends Genet.
+
+,
+
+–
+
+Tishkoff SA, Pakstis AJ, Ruano G, Kidd KK (
+
+) The accuracy of statistical methods for estimation of haplotype frequencies: an example from the CD
+
+locus. Am. J. Hum. Genet.
+
+,
+
+–
+
+Watkins WS, Rogers AR, Ostler CT, Wooding S, Bamshad MJ, Bras- sington AM, Carroll ML, Nguyen SV, Walker JA, Prasad BV, Reddy PG, Das PK, Batzer MA, Jorde LB (
+
+) Genetic variation among world populations: inferences from
+
+Alu insertion polymor- phisms. Genome Res.
+
+,
+
+–
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, Yano K, Masaki KH, Willcox DC, Rodriguez B, Curb JD (
+
+) FOXO
+
+A genotype is strongly associated with human longevity. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Witting SR, Maiorano JN, Davidson WS (
+
+) Ceramide enhances cholesterol efflux to apolipoprotein A-I by increasing the cell surface presence of ATP-binding cassette transporter A
+
+J. Biol. Chem.
+
+,
+
+–
+
+Woo JG, Dolan LM, Deka R, Kaushal RD, Shen Y, Pal P, Daniels SR, Martin LJ (
+
+) Interactions between noncontiguous haplotypes in the adiponectin gene ACDC are associated with plasma adiponec- tin. Diabetes
+
+,
+
+–
+
+Zhao J, Jin L, Xiong M (
+
+) Test for interaction between two unlinked loci. Am. J. Hum. Genet.
+
+,
+
+–
+
+Table S3 Lack of association with exceptional longevity of vari- ants in HRAS1 and LASS1 in the major population strata
+
+Supporting Information
+
+Additional Supporting Information may be found in the online version of this article:
+
+Table S4 Association of combinations of haplotypes in HRAS1, and LASS1 with exceptional longevity
+
+Fig. S1 Haplotype blocks in APOE, HRAS1, and LASS1. Haplo- type blocks for the three genes were examined using Haploview after stratifying the populations using Structure assignment probabilities of 0.8 and 0.9 (in parentheses below) for European origin. A – Georgia (0.9), B – Georgia (0.8), C – Louisiana (0.9), and D – Louisiana (0.8). Among the differences between the two populations, the large haplotype block in HRAS1 that is evident in the Louisiana population at 0.9 and 0.8 assignment probabilities is only apparent in Georgia at 0.9 assignment prob- ability, and the haplotype block seen in LASS1 in the Louisiana population is not apparent in the Georgia population. No tag SNP in the haplotype blocks were identified.
+
+Table S8 Genotyped loci
+
+As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer-reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues aris- ing from supporting information (other than missing files) should be addressed to the authors.
+
+Table S2 APOE association with exceptional longevity in major population strata

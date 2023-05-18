@@ -1,0 +1,1167 @@
+www.elsevier.com/locate/neuaging
+
+genome-wide association study of aging
+
+Stefan Waltera,b,1, Gil Atzmonc,d,e,1, Ellen W. Demerathf,1, Melissa E. Garciag,1, Robert C. Kaplanh,1, Meena Kumarii,1, Kathryn L. Lunettaj,1, Yuri Milaneschik,1, Toshiko Tanakak,1, Gregory J. Tranahl,1, Uwe Völkerm,1, Lei Yun,1, Alice Arnoldo, J. Benjaminp,q, Reiner Biffarr, Aron S. Buchmann, Eric Boerwinkles, David Coupert, Philip L. De Jageru, Denis A. Evansv, Tamara B. Harrisg, Wolfgang Hoffmannw,x, Albert Hofmanb, David Karasiky, Douglas P. Kiely, Thomas Kocherr, Maris Kuningasb, Lenore J. Launerg, Kurt K. Lohmanz, Pamela L. Lutseyf, Johan Mackenbacha, Kristin Marcianteaa, Bruce M. Psatyaa,bb, Eric M. Reimancc, Jerome I. Rotterdd, Sudha Seshadrip,q, Michelle D. Shardellee, Albert V. Smithff, Cornelia van Duijnb, Walstongg, M. Carola Zillikenshh, Stefania Bandinelliii,2, Sebastian E. Baumeisterw,2, David A. Bennettn,2, Luigi Ferruccijj,2, Vilmundur Gudnasonff,2, Mika Kivimakii,2, Yongmei Liuz,2, Joanne M. Murabitop,q,2, Anne B. Newmankk,2, Henning Tiemeierb,ll,2,*,
+
+a Department of Public Health, Erasmus Medical Center, Rotterdam, The Netherlands b Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands
+
+f Division of Epidemiology and Community Health, School of Public Health, University of Minnesota, Minneapolis, MN, g Laboratory of Epidemiology, Demography, and Biometry, National Institute on Aging, National Institutes of Health, Bethesda, h Department of Epidemiology and Population Health, Albert Einstein College of Medicine, Bronx, NY, USA i Department of Epidemiology and Public Health, University College London, London, UK j Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA
+
+m Interfaculty Institute for Genetics and Functional Genomics, Ernst-Moritz-Arndt-University Greifswald, Greifswald, Germany n Rush Alzheimer’s Disease Center, Rush University Medical Center, Chicago, IL, USA o Department of Biostatistics, University of Washington, Seattle, WA, USA
+
+v Rush Institute for Healthy Aging, Rush University Medical Center, Chicago, IL, USA w Institute of Community Medicine, Ernst-Moritz-Arndt-University Greifswald, Greifswald, Germany for Integrated Dementia Care Research (CIDC), a scientific cooperation between the Universities and University Hospitals of Rostock and Greifswald, and the German Center for Neurodegenerative Disease (DZNE), Bonn, Germany y
+
+0197-4580/$ – see front matter © 2011 Elsevier Inc. All rights reserved. doi:10.1016/j.neurobiolaging.2011.05.026
+
+Received 7 January 2011; received in revised form 14 April 2011; accepted 30 May 2011
+
+Abstract
+
+Human longevity and healthy aging show moderate heritability (20%–50%). We conducted a meta-analysis of genome-wide association studies from 9 studies from the Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium for 2 outcomes: (1) all-cause mortality, and (2) survival free of major disease or death. No single nucleotide polymorphism (SNP) was a genome-wide significant predictor of either outcome (p << 5 “ees” 10(cid:3)8). We found 14 independent SNPs that predicted risk of death, and 8 SNPs that predicted event-free survival (p »< | 10(cid:3)5). These SNPs are in or near genes that are highly expressed in the brain (HECW2, HIP1, BIN2, GRIA1), genes involved in neural development and function (KCNQ4, LMO4, GRIA1, NETO1) and autophagy (ATG4C), and genes that are associated with risk of various diseases including cancer and Alzheimer’s disease. In addition to considerable overlap between the traits, pathway and network analysis corroborated these findings. These findings indicate that variation in genes involved in neurological processes may be an important factor in regulating aging free of major disease and achieving longevity.
+
+Keywords: Genome-wide association analysis; Mortality; Disease-free survival; Longevity; Aging; Brain aging
+
+1. Introduction
+
+The recent, remarkable extension of life expectancy is largely attributed to the postponement of mortality at old age (Vaupel, 1997, 2010). The years of life gained in the older population residing in developed nations are a success story of public health measures and improved health care. In addition to such external factors, longevity and healthy aging consistently show a modest heritability between 20% and 50% and aging-associated genetic research may provide further insights into the mechanisms of aging (Herskind et al., 1996; McGue et al., 1993; Reed and Dick, 2003). It has been postulated that genes involved in pathways associated with aging identified in animal models, such as insulin-like growth factor (IGF)-insulin signaling, regulation of lipopro- tein metabolism, the mTOR pathway, and the oxidative stress response may also influence survival to old or even exceptionally old age in humans (Christensen et al., 2006; Kenyon, 2010; Vellai et al., 2003). However, in humans, common variants within genes involved in these pathways
+
+to aging in humans may be due to the complexity of the phenotype. One approach to investigate aging and longevity is to compare frequencies of genetic variants between no- nagenarians or centenarians and the general population. This approach led to the discovery of an association be- tween APOE (Deelen et al., 2011; Ewbank, 2007; Gerdes et al., 2000) and more recently FOXO3A (Anselmi et al., 2009; Flachsbart et al., 2009; Li et al., 2009a; Pawlikowska et al., 2009; Willcox et al., 2008) and human aging and longevity. However, a recent genome-wide association study (GWAS) of individuals reaching the age of 90 or older failed to identify genome-wide significant variants (Newman et al.,
+
+Prospective follow-up studies with a continuous outcome such as time to death are more powerful than case-control analyses. A study of time to death simultaneously addresses the effects of genetic variation related to life span, the progression toward death, and disease-specific mortality. This design has been successfully applied in animal models (Finch and Ruvkun, 2001; Kenyon, 2010) and also in hu- man genetics research of blood pressure (Levy et al., 2009; Newton-Cheh et al., 2009; van Rijn et al., 2007), a trait with heritability similar to longevity, where examination of a continuous outcome has been more successful in identifying genetic loci than studies that have solely used hypertension
+
+These authors contributed equally to this work.
+
+These authors are joint senior authors on this work. * Corresponding author at: Erasmus Medical Center Rotterdam, Depart- ment of Epidemiology & Biostatistics, P.O. Box
+
+,
+
+DR Rotter- dam, Netherlands. Tel.: (cid:
+
+)
+
+; fax: (cid:
+
+)
+
+(H. Tiemeier).
+
+least 4 out of 6 of the health conditions. Genome-wide information on polymorphisms was available for 16,995 participants free of disease at the beginning of the study. These participants were followed for 8.8 (SD 5.7) years and we registered 7314 major events.
+
+as a dichotomous trait. Frailty and survival free of disease have been suggested as more promising phenotypes for studies of aging because mortality is a very heterogeneous outcome caused by multiple chronic conditions (Vijg and Suh, 2005).
+
+sequential way using data from cohort studies participating in the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) consortium. First, we aimed to identify single nucleotide polymorphism (SNPs) associated with all cause mortality (time to death) in a hypothesis-free GWAS in approximately 25,000 unselected persons of Eu- ropean ancestry. Second, we performed GWAS of time to event, defined by major incident events (myocardial infarc- tion, heart failure, stroke, dementia, hip fracture, or cancer) or death, as an alternative phenotype for healthy aging. Last, we analyzed the SNPs along with their respective most likely associated genes identified in the GWAS meta-anal- yses to identify pathways and networks associated with aging and longevity.
+
+2.3. Genotyping and imputation
+
+As different genotyping platforms were used across stud- ies, we imputed to 2.5 million SNPs using the HapMap 22 CEU (Build 36) genotyped samples as a reference. For details on the study-specific quality control procedures for genotyping and imputation please consult Supplementary Table S1.
+
+2.4. Statistical analysis
+
+We used the semiparametric Cox proportional hazard to model time to event for both phenotypes in each study. Follow-up time since baseline was used as time scale. An additive genetic model was used in this analysis. We sub- sequently combined the individual study results in a meta- analysis using a fixed effects model that combined the study-specific regression parameters and standard errors us- ing inverse variance weighting. We included SNPs that had a minor allele frequency (MAF) of at least 1% and an imputation quality ratio (de Bakker et al., 2008) (equivalent to the MaCH r2 statistic; Li et al., 2009b) of at least 0.3. The study-specific inflation factors ((cid:1) ) were computed using GC the set of chi-square statistics used for the meta-analysis for each study. The inflation factor is computed as the median of all chi-square statistics divided by the expected median of the statistics (approximately 0.456) for a chi-square distri- bution with 1 degree of freedom. SNP associations at p r<! 5  10(cid:3)8 were considered to be genome-wide significant. SNPs with p  5  10(cid:3)5 were considered suggestive associations. The combined meta-analysis hazard ratio (HR) can be interpreted as the increase in the risk of dying or having a major event during follow-up per additional copy of the coded allele. Power analysis revealed 80% statistical power to detect SNPs with a minor allele frequency of 5% and relative risk of 1.10 using a nominal significance level of 0.05 (Supplementary Table S2).
+
+2. Methods
+
+2.1. Participants
+
+stem from cohorts of the CHARGE Consortium (Psaty et al., 2009). All cohorts are follow-up studies periodically assessing the health and vital status of their participants. Although some of the cohorts included multiple ethnic groups, only data from self-reported Caucasians were used. In addition, population structure was assessed using princi- pal components in each CHARGE study and outliers were removed. Any remaining within-study structure was ad- justed for using appropriate methods (Price et al., 2006). All participants included in this analysis were at least 55 years of age at the time of blood draw for DNA and provided written informed consent. A brief description of each pop- ulation is given in the Supplementary Information.
+
+2.2. Phenotype
+
+We conducted a survival analysis, adjusted for age at baseline and sex, to model continuous time to death or end  of follow-up in 25,007 participants (deceased “cases” ee 8444; mean follow-up time 10.6 [SD 5.4] years) that were older than 55 years at baseline. As research demon- strated that the likelihood of incident disease is genetically determined, we defined a second phenotype: survival free of major disease or mortality (Atzmon et al., 2004; Lunetta et al., 2007; Vijg and Suh, 2005). The outcome was defined as time to the first of the following adjudicated events: myo- cardial infarction, heart failure, stroke, dementia, hip frac- ture, cancer, or death. For this analysis, participants at baseline were older than 55 years of age and free of any of the aforementioned conditions. Inclusion in the study re- quired complete follow-up information on mortality and at
+
+In addition, we incorporated gene annotation informa- tion, a technique that has successfully been applied in the field of aging research (de Magalhaes et al., 2009a, 2010). Protein ANalysis THrough Evolutionary Relationships (PANTHER; Mi et al., 2007; Thomas et al., 2003) and Ingenuity Pathway Analysis (IPA) (www.ingenuity.com) were used for identification and classification of networks, pathways, biological processes, and molecular functions of the genes identified in this study. For both phenotypes we generated lists of candidate genes. These genes were the closest reference genes to the SNPs associated with the outcome at p  1 oN 10(cid:3)3. PANTHER compares these gene lists to the reference list using the binomial test for each molecular function, biological process, or pathway term.
+
+Observed (-logP)Observed (-logP) 43  Expected (-logP)    Expected (-logP)
+
+3. Results
+
+death adjusted for baseline age and sex in participants of European origin, 55 years of age or older from 9 longitu- dinal cohort studies participating in the CHARGE Consor- tium (Psaty et al., 2009). In total, we observed 8444 deaths (mean age at death: 81.1, SD 8.4) in 25,007 participants (55% female) after an average follow-up of 10.6 (SD 5.4) years. Descriptive characteristics of participants and Man- hattan plots showing genome wide p-values for association are displayed in the Supplementary data (Supplementary Fig. S1, and Supplementary Tables S3 and S4). The quan- tile-quantile plot (Q-Q plot) of observed versus expected p-values showed only a small deviation from the null hy- pothesis, indicating no significant population stratification   (Fig. 1a, 1.066). Although there were no genome- GC wide significant findings (p   5 _ 10(cid:3)8), 14 independent SNPs were associated with time to death at a suggestive threshold of p << 1  10(cid:3)5 (Table 1). Among these SNPs, rs4936894 (chromosome 11, near the von Willebrand factor A domain containing 5A gene [VWA5A]) had the strongest association with time to death (p  3.4 4ads| xX 10(cid:3)7). We sought replication for 5 of the 14 top SNPs with the strongest association with time to death in 4 independent samples    (n 10,411, deaths 1295) of the same ancestry. None of the SNPs were consistently associated with time to death at << a nominally significant level of p 0.05 across all replica- tion samples (Supplementary Tables S5–S8). In the com- bined meta-analysis of the discovery and replication studies only rs1425609 in the vicinity of otolin-1 (OTOL1) showed a stronger association (1.61 “J ™ 10(cid:3)6).
+
+Likewise, no genome-wide significant findings were identified in the time to event analysis following 16,995 participants free of disease at baseline and registering 7314 events over an average of 8.8 (SD 5.7) years of follow-up (Table 2). Events included incident myocardial infarction, heart failure, stroke, dementia, hip fracture, and cancer or ane  death. The Q-Q plot (Fig. 1a, 1.019) showed no GC evidence of inflation of type I error. In total, there were 8 independent SNPs associated with event-free survival at p er 10(cid:3)5. The SNP with the strongest association was rs10412199 (chromosome 19, p  3.02   10(cid:3)6), which is in close proximity to ataxia, cerebellar, Cayman type (AT- CAY). Additional descriptive information including defini- tions of each event and association results with p co‘ 10(cid:3)4 are provided in Supplementary Figure S2, and Supplemen- tary Tables S9–S12.
+
+Fig. 1. (a) Quantile-quantile (Q-Q) plot after meta-analysis for time to death. (b) Quantile-quantile (Q-Q) plot after meta-analysis for time to event.
+
+the overlap between their association results (Table 3). In- terpretation of the overlap between the phenotypes requires caution as both phenotypes are correlated, nevertheless it helps to focus on specific loci and put them into the context of aging. From the 14 loci passing the prespecified, sugges- tive threshold of p r< 1  10(cid:3)5 in the time to death analysis, 5 had corresponding SNPs within 500 kilo base pairs dis- tance, in linkage disequilibrium (LD; r2  0.1) associated with p << 1  10(cid:3)4 and the same overall direction of the effect in the time to event analysis. These 5 regions were in the vicinity of the following genes: OTOL1 (3q26.1), bridg- ing integrator 2 (BIN2, 12q13), ATG4 autophagy related 4 homolog C (ATG4C, 1p31.3), origin recognition complex,
+
+As both phenotypes may provide different but compli- mentary information about the aging process, we evaluated
+
+Table 1
+
+Top 14 SNPs (p-value   10-5) for time to death ranked by p-value, from meta-analysis of 9 cohortsa
+
+Number SNP Chr Position Closest reference Distance from Coded Noncoded Frequency HR p-value Study effect gene closest gene allele allele coded allele direction b 1 rs4936894 11 123522703 VWA5A 123 A G 0.226 1.11 3.38E-07 +t4te¢t-+ 224 2 rs1425609 3 164164689 OTOL1 1,460,265 A G 0.381 0.92 1.46E-06 —------ 399 3 rs766903 12 49990101 BIN2 14,104 A G 0.834 0.90 1.61E-06 —-------(cid:4)---- 7 4 rs12042640 1 63139384 ATG4C 36,747 T C 0.284 1.09 1.71E-06  +4+++-+-+- 19 5 rs17149227 7 75073485 HIP1 72,141 T G 0.959 0.79 3.56E-06 (cid:3)??---------(cid:4)-? 0 6 rs3128591 9 136741940 COL5A1 68,468 A G 0.754 0.92 3.64E-06 —------ 20 7 rs11582903 1 87618642 LMO4 34,804 A C 0.150 1.12 3.94E-06 ttt bat  38 8 rs4850695 2 196861504 HECW2 89,283 A G 0.766 1.09 4.62E-06 FN++t+t4++4+ 95 9 rs10259086 7 103680248 ORC5L 44,549 T G 0.686 1.08 5.16E-06 asFHP E+ HTH 72 10 rs2769255 1 41017941 KCNQ4 4329 T C 0.374 1.08 5.17E-06 Fst+t4t+-4++ 95 11 rs17291546 6 2660681 LOC340156 35,472 A G 0.957 0.82 7.65E-06 (cid:3)?------- 8 12 rs12606100 18 69102967 NETO1 417,177 T C 0.202 1.11 8.72E-06   4 13 rs1274214 11 122979741 GRAMD1B 18,987 T C 0.500 0.93 8.87E-06 —------ 42 14 rs10811679 9 2224701 SMARCA2 41,080 T C 0.330 1.08 9.53E-06 ++t+t4++4+  37
+
+n  25,007 participants with 8444 deaths, only SNPs with MAF   3% are presented. p-values are for the inverse variance-weighted for NCBI Build 36. HRs are for each additional coded allele. Number of supporting SNPs is the number of SNPs within 500 kilo base pairs of CEU release 22 (r2   (cid:5)0.10) and have association p-value  0.05. Key: Chr, chromosome; LD, linkage disequilibrium; MAF, minor allele frequency; SNP, single nucleotide polymorphism. a For information on all SNP associations with p-value   10-4 see Supplementary Table S2. b Study-specific information is presented in the order: RS, CHS, FHS, ARIC, AGES, HABC, BLSA, InCHIANTI, SHIP; “(cid:4)”  coded allele of mortality, “?”  not tested.
+
+n  25,007 participants with 8444 deaths, only SNPs with MAF   3% are presented. p-values are for the inverse variance-weighted meta-analysis. Distances to genes are given in base pairs. Position is for NCBI Build 36. HRs are for each additional coded allele. Number of supporting SNPs is the number of SNPs within 500 kilo base pairs of the top SNP that are in LD with the top SNP in the HapMap   
+
+subunit 5-like (ORC5L, 7q22.1), and potassium voltage- gated channel, KQT-like subfamily, member 4 (KCNQ4, 1p34). Similarly, in the time to event analysis 3 of the 8 top SNPs showed considerable overlap and the same direction of effect in the time to death analysis. These SNPs were close to the following genes: MDS1 and EVI1 complex locus (MECOM, 3q24-q28), succinate-CoA ligase, ADP- forming, beta subunit (SUCLA2, 13q12.2-q13.3), and ST3 beta-galactoside alpha-2,3-sialyltransferase 3 (ST3GAL3, 1p34.1).
+
+)stneve4137htiw599,61 (cid:5)n(eulav-pybdeknar,tneveotemitrofstrohoc8fosisylana-atemmorfsnoitaicossa)5-01 (cid:1)eulav-p(PNS8poT forebmuNtceffeydutSeulav-pRHycneuqerFdedocnoNdedoCmorf)pb(ecnatsiDtsesolCnoitisoPrhCPNSrebmuN sPNSgnitroppusanoitceridelelladedocelellaelellaenegtsesolceneGecnerefer 6-- (cid:4)(cid:4)-?–60-E20.319.033.0GA703YACTA17787839199121401sr1 27 (cid:4)- (cid:4)- (cid:4)(cid:4)(cid:4)(cid:4)60-E73.381.180.0CT016411MOCEM073961071321925861sr2 371--   (cid:4)(cid:4)(cid:4)60-E34.390.144.0CT9609212ALCUS32758274316791008sr3 04 (cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)60-E51.490.136.0CT68026211DTLE96170508136926111sr4 2 (cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)60-E01.671.180.0CT07571B2NIRG94760041213404674sr5 031--- (cid:4)-------—60-E97.658.080.0GA8260321AIRG07891625150352113sr6 63-----—60-E22.898.041.0CA332833A6LOC336539732279420201sr7 911- (cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)60-E13.980.124.0CT116243LAG3TS5148893415277632sr8  sPNSgnitroppusforebmuN.elelladedoclanoitiddahcaeroferasRH.63dliuBIBCNrofsinoitisoP.sriapesabninevigerasenegotsecnatsiD.sisylana-atemdethgiew-ecnairavesrevniehtroferaseulav-p llanonoitamrofniroF.50.0 (cid:1)eulav-pnoitaicossaevahdna)01.0 (cid:2)2r(22esaelerUECpaMpaHehtniPNSpotehthtiwDLnieratahtPNSpotehtforiapesabolik005nihtiwsPNSforebmunehtsi .21SelbaTyratnemelppuSees4-01 (cid:1)eulav-phtiwsnoitaicossaPNS .msihpromylopeditoelcunelgnis,PNS;muirbiliuqesidegaknil,DL;oitardrazah,RH;emosomorhc,rhC;riapesab,pb:yeK ;tnevefoksirsesaercedelelladedoc (cid:5)”-“;tnevefoksirsesaercnielelladedoc (cid:5)” (cid:4)“;ITNAIHCnI,ASLB,CBAH,SEGA,CIRA,SHF,SHC,SR:redroehtnidetneserpsinoitamrofnicfiiceps-ydutSa .detsetton (cid:5)”?“
+
+Finally, we evaluated candidate genes for aging by iden- tification and classification of networks, pathways, biolog- ical processes, and molecular functions. The candidate genes were derived from the meta-analyses of GWAS and included the reference genes closest to the SNPs associated with p r< 1  10(cid:3)3 (time to death: 862 genes, time to event: 704 genes). We used PANTHER (Mi et al., 2007; Thomas et al., 2003, 2006) and IPA software (www.ingenuity.com) for these analyses. PANTHER compares these gene lists to the reference list using the binomial test for each molecular function, biological process, or pathway term. IPA builds networks by searching the Ingenuity Pathways Knowledge Base for interactions between the identified genes and all other gene objects stored in the knowledge base.
+
+)stneve4137htiw599,61 (cid:5)n(eulav-pybdeknar,tneveotemitrofstrohoc8fosisylana-atemmorfsnoitaicossa)5-01 (cid:1)eulav-p(PNS8poT
+
+processes overrepresented in the PANTHER analysis were developmental processes, neuronal activities, signal transduc- tion, neurogenesis, ectoderm development, and cell adhesion. For the analysis of time to incident event, developmental pro- cesses and neuronal activities were overrepresented among other biological process (Table 4). The analyses also high- lighted the Wnt signaling pathway. The Wnt signaling path- way is ubiquitous and known to be involved in cancer but also plays an important role in the early stages of the development of the central nervous system, in synaptic formation by axon guidance, and in modulating fibrosis during muscle repair scored high in both traits under study (Brack et al., 2007; Inestrosa and Arenas, 2010; Keeble et al., 2006; Ulloa and Martí, 2010). For extended tables see Supplementary Tables S13 and S14. In addition, Ingenuity identified 1 network with p  10(cid:3)31 containing 26 genes involved in processes related to nervous system develop- ment and function for the analysis of time to death (Fig. 2) and 1 network with p  10(cid:3)40 containing 28 genes involved in cellular function and development for time to event (Supplementary Fig. S3).
+
+IPA analysis highlighted the following genes associated with the time to death trait: NTRK2 (neurotrophic tyrosine kinase, receptor, type 2)—a member of the neurotrophic tyrosine receptor kinase family. This kinase is a membrane- bound receptor that, upon neurotrophin binding, phospho- rylates itself and members of the mitogen-activated protein kinase (MAPK) pathway. Signaling through this kinase leads to cell differentiation. Second in line were NCAM1 (neural cell adhesion molecule 1)—a cytoskeletal binding
+
+Overlap between the associations of time to death and time to eventa
+
+Top SNPs from time to death (time to event) analysis associated with different p- values in time to event (time to death) analysis
+
+Top hit SNP Chr Closest reference Time to death Time to event Top SNPs from time to death (time to event) analysis associated with different p- gene values in time to event (time to death) analysis p Effect p Effect Total p   0.05 p  0.05 p   0.01 p  0.001 p  0.0001 Time to death 1 rs1425609 3 OTOL1 1.46E-06  0.005704  1119 693 235 132 37 22 2 rs766903 12 BIN2 1.61E-06  0.01315  37 27 4 5 0 1 3 rs12042640 1 ATG4C 1.71E-06  0.03701  93 60 19 4 0 10 4 rs11582903 1 LMO4 3.94E-06  0.7336  133 91 8 12 21 1 5 rs10259086 7 ORC5L 5.16E-06  0.03266  239 154 56 21 4 4 6 rs2769255 1 KCNQ4 5.17E-06  0.01322  287 151 68 56 7 5 7 rs17291546 6 LOC340156 7.65E-06  0.01624  29 19 9 1 0 0 8 rs12606100 18 NETO1 8.72E-06  0.02853  23 16 5 2 0 0 9 rs1274214 11 GRAMD1B 8.87E-06  0.0567  101 39 28 17 17 0 Time to event 1 rs16852912 3 MECOM 0.00589  3.37E-06  169 67 49 49 2 2 2 rs8001976 13 SUCLA2 0.01473  3.43E-06  433 198 91 46 59 39 3 rs4764043 12 GRIN2B 0.0017  6.10E-06  45 42 2 1 0 0 4 rs10202497 2 COL6A3 0.00035  8.22E-06  135 83 27 12 9 4 5 rs2367725 1 ST3GAL3 0.0274   9.31E-06  459 317 56 37 31 18
+
+
+
+p-values are for the inverse variance-weighted meta-analysis. Total represents the number of SNPs in time to death (time to event) analysis within 500 kilo base pair of SNPs from the time to event (time to death) analysis that are in LD with the top SNPs from the time to death (time to event) analysis in the HapMap CEU release 22 (r2 zeus| 0.10) and have association p-value  0.05. Key: Chr, chromosome; Effect, meta-analysis direction of effect; LD, linkage disequilibrium; SNP, single nucleotide polymorphism. a Only SNPs that were nominally significant (p y < ( 0.05) for both traits are shown.
+
+Table 4
+
+Results from the gene annotation analysis using PANTHER
+
+Biological process H. sapiens Number of Number of  I+ p-value p-value (reference) genes observed genes expected unadjusted adjusted a Time to death: Biological process unclassified 11321 238 367.71  1.29E-20 4.00E-19 Developmental processes 2152 152 69.9  1.39E-19 4.32E-18 Neuronal activities 569 65 18.48  8.94E-18 2.77E-16 Signal transduction 3406 199 110.63  9.09E-17 2.82E-15 Neurogenesis 587 64 19.07  1.43E-16 2.84E-14 Ectoderm development 692 68 22.48  2.33E-15 3.38E-13 Cell adhesion 622 57 20.2  7.00E-12 2.17E-10 Time to event: Developmental processes 2152 115 57.46  1.02E-12 3.16E-11 Biological process unclassified 11321 214 302.27  2.93E-12 9.08E-11 Neuronal activities 569 47 15.19   2.28E-11 7.08E-10
+
+Candidate genes (genes observed) were in the neighborhood of single nucleotide polymorphisms (SNPs) associated with p value   1  10-3. For time to death 862 candidate genes were identified; 826 could be matched to the Protein ANalysis THrough Evolutionary Relationships (PANTHER) gene list. For time to event 704 candidate genes were identified; 679 could be matched to the PANTHER gene list. Extended lists of PANTHER pathways, biological processes, and molecular functions are listed in the Supplementary Tables (S13, S14). a Bonferroni correction multiplying the single-test p-value by the number of independent tests to obtain an expected error rate.
+
+Path Designer Networks 1.4 Merged 7 | = \ 
+
+Fig. 2. Network describing neuronal activities related to time to death. Pathway analysis of genes (single nucleotide polymorphisms; SNPs) associated with time to death. Genes are represented as nodes; edges indicate known interactions (solid lines depict direct and hatched lines depict indirect interaction). Human gene functions are color-coded as follows: red   unknown, yellow y=t transmembrane receptor and G protein coupled receptor, magenta (pink-purple) eee ee group/complex/other, bright green   ion channel, hunter green (dark green) =] peptidase, navy blue   transcription regulator, light blue Ape  transporter, beige eee  enzyme, orange   kinase, light green   cytokine, light purple   phosphate, gray   translation regulator, olive green  ligand-dependent nuclear receptor.
+
+physiological processes and diseases that act as intermediate factors on the pathway to death (de Magalhaes et al., 2010). Therefore, any common variation in genes associated with aging probably has a small effect.
+
+protein, GRID2 (glutamate receptor, ionotropic, delta 2)—a relatively new member of the family of ionotropic gluta- mate receptors which are the predominant excitatory neu- rotransmitter receptors in the mammalian brain, and have a role in neuronal apoptotic death, and RIMS1 (regulating synaptic membrane exocytosis 1), which regulates synaptic vesicle exocytosis and may be part of the protein scaffold of the cell.
+
+Second, the largely negative findings of this and other studies contrast with the intriguing animal studies of lon- gevity. Very large effects of single genes on lifespan have indeed been observed in laboratory animals, but humans often have several homologues of these genes which might significantly differ in function or compensate for mutated genes through redundant mechanisms (Kuningas et al., 2008). This could explain why our top findings did not include genes in these pathways found in animal models. Animal models also represent genetically homogenous pop- ulations and are exposed to controlled environmental influ- ences. The lack of replication of animal model findings in humans suggests that the use of knockout animals may not provide the optimal approach to understanding the variation in survival in humans as interactions with environmental factors may obscure the associations and prevent the iden- tification of loci in humans.
+
+Among the genes that were highlighted through the IPA analysis in the analysis of time to event was MYC (v-myc myelocytomatosis viral oncogene homolog)—a multifunc- tional, nuclear phosphoprotein that plays a role in cell cycle progression, apoptosis, and cellular transformation. MYC functions as a transcription factor that regulates transcrip- tion of specific target genes. Second in line were E2F1 (E2F transcription factor 1), EGFR (epidermal growth factor re- ceptor), and CEBPA (CCAAT/enhancer binding protein [C/ EBP], alpha). EF21, a transcription factor, plays a crucial role in the control of cell cycle and action of tumor sup- pressor proteins can mediate both cell proliferation and p53-dependent/independent apoptosis. EGFR is a trans- membrane glycoprotein that serves as a receptor for mem- bers of the epidermal growth factor family and supports cell proliferation. CEBP-Alpha, a bZIP transcription factor, can bind as a homodimer to certain promoters and enhancers. CEBPA also forms heterodimers with the related proteins CEBP-beta and CEBP-gamma and modulates the expres- sion of leptin, interacts with CDK2 and CDK4, and thereby inhibits these kinases and causes growth arrest in cultured cells.
+
+Third, our study is based on common genetic variants and therefore we cannot exclude effects due to low fre-  quency and rare variants ( 5%) or due to the presence of structural variation, such as copy number polymorphisms. Our discovery set may lack the power to identify all the relevant loci, even though we had sufficient power to detect  common SNPs (minor allele frequency 5% or more) with a relative risk of 1.10 (Supplementary Table S2).
+
+Last, we cannot exclude that phenotypic heterogeneity our findings. While all cohorts had prospectively information on major health events and diagnoses, in the methods of assessment and classifica- might have limited the ability to identify true effects.
+
+4. Discussion
+
+tion might have limited the ability to identify true effects. Complex diseases may result from the effects of a large number of low frequency variants, with substantial allelic heterogeneity at disease-causing loci (Pritchard, 2001; Pritchard and Cox, 2002; Swarbrick and Vaisse, 2003). Theoretical modeling that incorporates mutation, random genetic drift, and purifying selection suggests that many of the variants that affect complex traits may be in the 1%–5% frequency range (Pritchard, 2001). Indeed, sequencing of candidate genes in an attempt to capture such low frequency variants, has led to the identification of rare variants with modest effects on body mass index (Ahituv et al., 2007; Challis et al., 2002; Cone, 2000), triglyceride levels (Romeo et al., 2007), high-density lipoprotein (HDL; Cohen et al., 2004; Romeo et al., 2007) and low-density lipoprotein (LDL) cholesterol levels (Cohen et al., 2005, 2006; Ko- towski et al., 2006).
+
+In our analyses of over 25,000 individuals of 55 years and older followed for an average of 11 years, we did not identify genome-wide significant associations for all-cause mortality and survival free of major diseases. However, both traits highlighted loci with suggestive significance that were in the neighborhood of genes related to neural regu- lation. In addition, our pathway and network analyses iden- tified an enrichment of genes associated with cellular and neural development and function, and cell communication that may contribute to variation in human aging. Brain development might be responsible for the creation of redun- dancy in brain circuitry, which is associated with functional reserve and resiliency. Brain function regulates most of the compensatory strategy supporting maintenance of homeo- static equilibrium. Both of these processes are essential to healthy aging and longevity.
+
+Several explanations are possible for the lack of genome- wide significant findings. First, mortality is arguably 1 of the most complex phenotypes, and several trajectories to- ward extreme old age have been identified (Evert et al., 2003). Multiple genes could mediate the aging process but would have their effects through numerous different patho-
+
+It is impossible to determine the functional variant of a gene by GWAS. Moreover, we cannot conclude from the location of an SNP that this variation is involved in the expression of the closest gene. However, our top results suggested a possible role of genes involved in neurological
+
+genes that were involved in most pathways indeed had substantial effects within the analyzed trait. NTRK2 (Rico et al., 2002), NCAM1 (Rutishauser et al., 1988), GRID2 (Hirai et al., 2003), and RIMS1 (Johnson et al., 2003; Schoch et al., 2002) are associated with neuronal development and disease pathways that were highlighted in the analysis of time to death. MYC (Cole, 1986; Goga et al., 2007), E2F1 (Nevins, 2001), EGFR (Wang et al., 2004), and CEBPA (Ménard et al., 2002; Wang et al., 2001) are associated with “cancer,” “cell function,” and “development” pathways.
+
+processes in human longevity and aging. Ten of the 22 suggestive associations identified in our analyses are in or near genes that are highly expressed in the brain (HECW2 [Rotin and Kumar, 2009], HIP1 [Blanpied et al., 2003], BIN2, GRIA1), were previously related to the regulation of neuronal excitability and plasticity (KCNQ4 [Van Eyken et al., 2006], LMO4 [Joshi et al., 2009; Leuba et al., 2004], GRIA1), and the maintenance of neural circuitry and syn- aptic plasticity (NETO1), or are associated with neurologi- cal diseases such as Alzheimer’s disease (LMO4 [Leuba et al., 2004], BIN2, GRIA1, GRIN2B), and amyotrophic lat- eral sclerosis (GRIN2B). In addition, 6 of the 22 SNPs were in close proximity to genes associated with other pheno- types of aging such as autophagy (ATG4C [Kenyon, 2010]), cancer (ATG4C [Maiuri et al., 2009], HIP1 [Bradley et al., 2007], HECW2 [Rotin and Kumar, 2009], VWA5A [Zhou et al., 2009], MECOM), and mitochondrial depletion syn- drome (SUCLA2). Notably, BIN2, ATG4C, KCNQ4, MECOM, and SUCLA2 showed associations with both traits in our study.
+
+Few if any of the top hits from the GWAS were involved in common pathways of aging, typically ad- dressed in candidate gene studies. For example, there was no specific evidence for genes involved in IGF-insulin signaling. However, this negative finding cannot be in- terpreted as evidence against the importance of IGF- insulin signaling, as well as other processes such as inflammation, oxidative stress, cellular damage and re- pair, growth hormone, and cell proliferation in aging. Moreover, it is possible that polymorphisms in related genes have an effect in the oldest old, who were repre- sented by fewer numbers in our study population such that our study design would be underpowered to detect it. It is also conceivable that the neurological pathways identified by our analysis interact with the known candi- date genes involved in aging (Bishop et al., 2010; Finch and Ruvkun, 2001). It is feasible that the traditional aging pathways are hierarchically controlled by neurons and that the brain might be the location coordinating physi- ological changes (Bishop et al., 2010; Finch and Ruvkun, 2001). Because neurons are particularly susceptible to damage caused by reactive oxygen species, limitations in cellular maintenance and repair might reinforce these pathways and accelerate aging (Finch and Ruvkun, 2001). An increased ability of neuronal cells to prevent or repair oxidative damage might result in beneficial hor- monal signaling, otherwise deregulated with age, thus delaying the onset of age-related disease and directly regulating cognitive aging and life span (Bishop et al., 2010; Cutler and Mattson, 2006; de Magalhães and Sand- berg, 2005).
+
+Using the expression quantitative trait loci (eQTL) browser (eqtl.uchicago.edu/cgi-bin/gbrowse/eqtl/) we de- tected eQTL associated with HIP1, COL5A1, LOC340156, and SMARCA2 in time to death only.
+
+Interestingly, SNPs known to be associated with longev- ity and disease in the neighborhood of APOE (Deelen et al., 2011) orFOXO3A (Flachsbart et al., 2009; Willcox et al., 2008) only reached nominal significance (results not shown). These genes were originally identified in studies of centenarians; it is possible that our study of cohorts com- prised of individuals from the general populations did not have sufficient statistical power to identify these genes with certainty. (Tan et al., 2008).
+
+While meta-analysis of GWAS has the power to detect small changes of allele frequencies between groups with the analyzed trait, true association signals may not be revealed based on a stringent genome-wide significance threshold. This situation, although limiting false positive findings, per- forms poorly in identifying false negatives as they may fall below the threshold. Network analyses using a less stringent significance threshold do not amend the overall negative finding of this study. However, it is well-recognized that within the many associations that failed to attain this level of significance lie true positive associations. Network anal- yses can provide useful information exploring multiple gene effects and their interactions.
+
+In conclusion, our analysis did provide suggestive evi- dence that aging is under neuronal control. Unfortunately, we have no relevant tissue or expression experiment avail- able to further underscore or validate our findings. Future investigations of changes of gene expression with age at cellular and population levels are warranted.
+
+In fact the interpretation of most GWAS results is diffi- cult because individual results may involve many seemingly unrelated genes. Because PANTHER and IPA are built on different conceptual approaches, database sources and dif- ferent pathway classifications, they can be seen as comple- mentary approaches. Our pathway and network analyses highlighted neuronal activities and organism developmental processes as major biological processes involved aging. In addition, it highlighted Wnt signaling and showed that those
+
+Disclosure statement
+
+The authors declare that no competing interests exist. All participants included in this analysis provided written informed consent.
+
+National Institute of Aging R01 AG031890 with additional contribution from the National Institute of Neurological Disorders and Stroke. A full list of principal CHS investi- gators and institutions can be found at www.chs-nhlbi.org/ pi.htm. DNA handling and genotyping was supported in part by National Center for Research Resources grant M01- RR00425 to the Cedars-Sinai General Clinical Research Center Genotyping core and National Institute of Diabetes and Digestive and Kidney Diseases grant DK063491 to the Southern California Diabetes Endocrinology Research Cen-
+
+Replication Samples
+
+Whitehall II: Whitehall II has been supported by grants from the Medical Research Council; Economic and Social Research Council; British Heart Foundation; Health and Safety Executive; Department of Health; National Heart Lung and Blood Institute (HL36310), US NIH National Institute on Aging (AG13196), US NIH Agency for Health Care Policy Research (HS06516); and the John D. and Catherine T. MacArthur Foundation Research Networks on Successful Midlife Development and Socio-economic Sta- tus and Health.
+
+ses were supported by the National Institute of Aging grant number R01AG029451 (PI: JMM). The Framing- ham Heart Study of the National Heart Lung and Blood Institute of the National Institutes of Health and Boston University School of Medicine were supported by the National Heart, Lung and Blood Institute’s Framingham Heart Study Contract No. N01-HC-25195 and its contract with Affymetrix, Inc., for genotyping services (Contract No. N02-HL-6-4278). Analyses reflect intellectual input and resource development from the Framingham Heart Study investigators participating in the SNP Health As- sociation Resource (SHARe) project. A portion of this research was conducted using the Linux Cluster for Ge- netic Analysis (LinGA-II) funded by the Robert Dawson Evans Endowment of the Department of Medicine at Boston University School of Medicine and Boston Med- ical Center. Dr. Kiel’s effort as well as all hip fracture data from the Framingham Osteoporosis Study was sup- ported by a grant from the National Institute of Arthritis, Musculoskeletal and Skin Diseases and the National In- stitute on Aging; R01 AR/AG 41398. This research was additionally supported by the following grants: AG033193, AG081220, NS17950, P30AG013846, 1R01- AG028321.
+
+English Longitudinal Study of Aging: Samples from the English Longitudinal Study of Ageing (ELSA) DNA Re- pository (EDNAR), received support under a grant (AG1764406S1) awarded by the National Institute on Age- ing (NIA). ELSA was developed by a team of researchers based at the National Centre for Social Research, University College London and the Institute of Fiscal Studies. The data were collected by the National Centre for Social Research. Religious Order Study: Grants P30AG10161,
+
+Religious Order Study: Grants P30AG10161, R01AG15819, and R01AG30146 from the National Insti- tute on Aging, and the Translation Genomics Research Institute.
+
+Memory and Aging Project: Grants R01AG17917 and R01AG15819 from the National Instiute on Aging, and the Translation Genomics Research Institute.
+
+The Longevity Consortium, funded by the National In- stitute of Aging, grant number U19 AG023122, provided administrative resources to CHARGE investigators for this phenotype as well as scientific opportunity funds for de novo genotyping of the 5 selected SNPs in the ELSA and Whitehall II replication studies.
+
+Acknowledgements
+
+Rotterdam Study: The Rotterdam Study is supported by Netherlands Genomics Initiative/Netherlands Consortium for Healthy Aging (050-060-810); Netherlands Organisa- tion for Scientific Research (NWO) (904-61-090, 904-61- 193, 480-04-004, 400-05-717, SPI 56-464-1419, 175.010. 2005.011, 911-03-012 and 017.106.370); Netspar—Living longer for a good health; the Erasmus Medical Center, and Erasmus University in Rotterdam; the Netherlands Organi- zation for Health Research and Development, the Nether- lands Research Institute for Diseases in the Elderly; the Dutch Ministry of Education, Culture and Science, and the Ministry for Health, Welfare and Sports; the European Commission; and the Municipality of Rotterdam, the Neth- erlands.
+
+Atherosclerosis Risk in Communities Study: The Ath- erosclerosis Risk in Communities Study is carried out as a collaborative study supported by National Heart, Lung, and Blood Institute contracts N01-HC-55015, N01-HC-55016, N01-HC-55018, N01-HC-55019, N01-HC-55020, N01- HC-55021, and N01-HC-55022. The authors thank the staff and participants of the ARIC study for their important contributions.
+
+Age, Gene/Environment Susceptibility -Reykjavik Study: The Age, Gene/Environment Susceptibility-Reykja- vik Study is funded by NIH contract N01-AG-12100, the NIA Intramural Research Program, Hjartavernd (the Icelan- dic Heart Association), and the Althingi (the Icelandic Par- liament). Genotyping was conducted at the NIA IRP Lab- oratory of Neurogenetics.
+
+Cardiovascular Health Study: The CHS research re- ported in this article was supported by contract numbers N01-HC-85079 through N01-HC-85086, N01-HC-35129, N01 HC-15103, N01 HC-55222, N01-HC-75150, N01-HC- 45133, grant numbers U01 HL080295 and R01 HL087652 from the National Heart, Lung, and Blood Institute, the
+
+Invecchiare nel Chianti: The InCHIANTI study baseline (1998–2000) was supported as a “targeted project” (ICS110.1/RF97.71) by the Italian Ministry of Health and in
+
+part by the U.S. National Institute on Aging (Contracts: 263 MD 9164 and 263 MD 821336).
+
+Brack, A.S., Conboy, M.J., Roy, S., Lee, M., Kuo, C.J., Keller, C., Rando, T.A., 2007. Increased Wnt signaling during aging alters muscle stem
+
+T.A.,
+
+Increased Wnt signaling during aging alters muscle stem cell fate and increases fibrosis. Science
+
+,
+
+–
+
+Bradley, S.V., Holland, E.C., Liu, G.Y., Thomas, D., Hyun, T.S., Ross, T.S.,
+
+Huntingtin interacting protein
+
+is a novel brain tumor marker that associates with epidermal growth factor receptor. Cancer Res.
+
+,
+
+–
+
+Challis, B.G., Pritchard, L.E., Creemers, J.W., Delplanque, J., Keogh, J.M., Luan, J., Wareham, N.J., Yeo, G.S., Bhattacharyya, S., Froguel, P., White, A., Farooqi, I.S., O’Rahilly, S.,
+
+A missense mutation disrupting a dibasic prohormone processing site in pro-opiomelanocor- tin (POMC) increases susceptibility to early-onset obesity through a novel molecular mechanism. Hum. Mol. Genet.
+
+,
+
+–
+
+Christensen, K., Johnson, T.E., Vaupel, J.W.,
+
+The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Cohen, J., Pertsemlidis, A., Kotowski, I.K., Graham, R., Garcia, C.K., Hobbs, H.H.,
+
+Low LDL cholesterol in individuals of African descent resulting from frequent nonsense mutations in PCSK
+
+Nat. Genet.
+
+,
+
+–
+
+Cohen, J.C., Kiss, R.S., Pertsemlidis, A., Marcel, Y.L., M
+
+herson, R., Hobbs, H.H.,
+
+Multiple rare alleles contribute to low plasma levels of HDL cholesterol. Science
+
+,
+
+–
+
+Cohen, J.C., Pertsemlidis, A., Fahmi, S., Esmail, S., Vega, G.L., Grundy, S.M., Hobbs, H.H.,
+
+Multiple rare variants in NPC
+
+L
+
+associated with reduced sterol absorption and plasma low-density lipoprotein levels. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Cole, M.D.,
+
+The myc oncogene: its role in transformation and differentiation. Annu. Rev. Genet.
+
+,
+
+–
+
+Cone, R.D.,
+
+Haploinsufficiency of the melanocortin-
+
+receptor: part of a thrifty genotype? J. Clin. Invest.
+
+,
+
+–
+
+Cutler, R.G., Mattson, M.P.,
+
+The adversities of aging. Ageing Res. Rev.
+
+,
+
+–
+
+de Bakker, P.I., Ferreira, M.A., Jia, X., Neale, B.M., Raychaudhuri, S., Voight, B.F.,
+
+Practical aspects of imputation-driven meta-anal- ysis of genome-wide association studies. Hum. Mol. Genet.
+
+, R
+
+– R
+
+de Magalhaes, J.P., Budovsky, A., Lehmann, G., Costa, J., Li, Y., Fraifeld, V., Church, G.M.,
+
+a. The Human Ageing Genomic Resources: online databases and tools for biogerontologists. Aging Cell
+
+,
+
+–
+
+de Magalhaes, J.P., Finch, C.E., Janssens, G.,
+
+Next-generation se- quencing in aging research: Emerging applications, problems, pitfalls and possible solutions. Ageing Res Rev
+
+,
+
+–
+
+Baltimore Longitudinal Study of Aging: The BLSA was supported in part by the Intramural Research Program of the NIH, National Institute on Aging. A portion of that support was through an R&D contract with MedStar Research In- stitute.
+
+Health, Aging and Body Composition: This research is supported in part by the Intramural Research Program of the NIH, National Institute on Aging. This research was sup- ported by NIA contracts N01AG62101, N01AG62103, N01AG62106 and NIA grant 1R03AG032498-01. The ge- nome-wide association study was funded by NIA grant 1R01AG032098-01A1 to Wake Forest University Health Sciences and genotyping services were provided by the Center for Inherited Disease Research (CIDR). CIDR is fully funded through a federal contract from the National Institutes of Health to The Johns Hopkins University, con- tract number HHSN268200782096C.
+
+Cohen, J.C., Pertsemlidis, A., Fahmi, S., Esmail, S., Vega, G.L., Grundy, S.M., Hobbs, H.H.,
+
+Multiple rare variants in NPC
+
+L
+
+associated with reduced sterol absorption and plasma low-density lipoprotein levels. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Cole, M.D.,
+
+The myc oncogene: its role in transformation and differentiation. Annu. Rev. Genet.
+
+,
+
+–
+
+Cone, R.D.,
+
+Haploinsufficiency of the melanocortin-
+
+receptor: part of a thrifty genotype? J. Clin. Invest.
+
+,
+
+–
+
+Cutler, R.G., Mattson, M.P.,
+
+The adversities of aging. Ageing Res. Rev.
+
+,
+
+–
+
+de Bakker, P.I., Ferreira, M.A., Jia, X., Neale, B.M., Raychaudhuri, S., Voight, B.F.,
+
+Practical aspects of imputation-driven meta-anal- ysis of genome-wide association studies. Hum. Mol. Genet.
+
+, R
+
+– R
+
+de Magalhaes, J.P., Budovsky, A., Lehmann, G., Costa, J., Li, Y., Fraifeld, V., Church, G.M.,
+
+a. The Human Ageing Genomic Resources: online databases and tools for biogerontologists. Aging Cell
+
+,
+
+–
+
+de Magalhaes, J.P., Finch, C.E., Janssens, G.,
+
+Next-generation se- quencing in aging research: Emerging applications, problems, pitfalls and possible solutions. Ageing Res Rev
+
+,
+
+–
+
+de Magalhães, J.P., Sandberg, A.,
+
+Cognitive aging as an extension of brain development: a model linking learning, brain plasticity, and neurodegeneration. Mech. Ageing Dev.
+
+,
+
+–
+
+Deelen, J., Beekman, M., Uh, H.W., Helmer, Q., Kuningas, M., Christian- sen, L., Kremer, D., van de Breggen, R., Suchiman, H.E., Lakenberg, N., van den Akker, E.B., Passtoors, W.M., Tiemeier, H., van Heemst, D., de Craen, A.J., Rivadeneira, F., de Geus, E.J., Perola, M., van der Ouderaa, F.J., Gunn, D.A., Boomsma, D.I., Uitterlinden, A.G., Chris- tensen, K., van Duijn, C.M., Heijmans, B.T., Houwing-Duistermaat, J.J., Westendorp, R.G., Slagboom, P.E.,
+
+Genome-wide associa- tion study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell doi:
+
+/j.
+
+-
+
+x. Evert, J., Lawler, E., Bogan, H., Perls, T.,
+
+Morbidity profiles of centenarians: survivors, delayers, and escapers. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Ewbank, D.C.,
+
+Differences in the association between apolipoprotein E genotype and mortality across populations. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Finch, C.E., Ruvkun, G.,
+
+The genetics of aging. Annu. Rev. Genom- ics Hum. Genet. Genet.
+
+,
+
+–
+
+Flachsbart, F., Caliebe, A., Kleindorp, R., Blanché, H., von Eller-Eberstein, H., Nikolaus, S., Schreiber, S., Nebel, A.,
+
+Association of
+
+Study of Health in Pomerania: SHIP is part of the Com- munity Medicine Research net of the University of Greif- swald, Germany, which is funded by the Federal Ministry of Education and Research (grants no. 01ZZ9603, 01ZZ0103, and 01ZZ0403), the Ministry of Cultural Affairs as well as the Social Ministry of the Federal State of Mecklenburg- West Pomerania. Genome-wide data have been supported by the Federal Ministry of Education and Research (grant no. 03ZIK012) and a joint grant from Siemens Healthcare, Erlangen, Germany and the Federal State of Mecklenburg, West Pomerania. The University of Greifswald is a member of the “Center of Knowledge Interchange” program of the Siemens AG.
+
+Appendix. Supplementary data
+
+Supplementary data associated with this article can be found, in the online version, at doi:10.1016/j.neurobiolaging. 2011.05.026.
+
+References
+
+Ahituv, N., Kavaslar, N., Schackwitz, W., Ustaszewska, A., Martin, J., Hebert, S., Doelle, H., Ersoy, B., Kryukov, G., Schmidt, S., Yosef, N., Ruppin, E., Sharan, R., Vaisse, C., Sunyaev, S., Dent, R., Cohen, J., M
+
+herson, R., Pennacchio, L.A.,
+
+Medical sequencing at the extremes of human body mass. Am. J. Hum. Genet.
+
+,
+
+–
+
+Anselmi, C.V., Malovini, A., Roncarati, R., Novelli, V., Villa, F., Con- dorelli, G., Bellazzi, R., Puca, A.A.,
+
+Association of the FOXO
+
+A locus with extreme longevity in a southern Italian centenarian study. Rejuvenation Res.
+
+,
+
+–
+
+Atzmon, G., Schechter, C., Greiner, W., Davidson, D., Rennert, G., Bar- zilai, N.,
+
+Clinical phenotype of families with longevity. J. Am. Geriatr. Soc.
+
+,
+
+–
+
+Bishop, N.A., Lu, T., Yankner, B.A.,
+
+Neural mechanisms of ageing and cognitive decline. Nature
+
+,
+
+–
+
+Blanpied, T.A., Scott, D.B., Ehlers, M.D.,
+
+Age-related regulation of dendritic endocytosis associated with altered clathrin dynamics. Neu- robiol. Aging
+
+,
+
+–
+
+F., Caliebe, A., Kleindorp, R., Blanché, H., von Eller-Eberstein, H., Nikolaus, S., Schreiber, S., Nebel, A., 2009. Association of
+
+S. Walter et al. / Neurobiology of FOXO
+
+A variation with human longevity confirmed in German centenarians. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Gerdes, L.U., Jeune, B., Ranberg, K.A., Nybo, H., Vaupel, J.W.,
+
+Estimation of apolipoprotein E genotype-specific relative mortality risks from the distribution of genotypes in centenarians and middle- aged men: apolipoprotein E gene is a “frailty gene,” not a “longevity gene.Genet. Epidemiol.
+
+,
+
+–
+
+Goga, A., Yang, D., Tward, A.D., Morgan, D.O., Bishop, J.M.,
+
+Inhibition of CDK
+
+as a potential therapy for tumors over-expressing MYC. Nat. Med.
+
+,
+
+–
+
+Herskind, A.M., M
+
+ue, M., Holm, N.V., Sørensen, T.I., Harvald, B., Vaupel, J.W.,
+
+The heritability of human longevity: a population- based study of
+
+Danish twin pairs born
+
+–
+
+Hum. Genet.
+
+,
+
+–
+
+Hirai, H., Launey, T., Mikawa, S., Torashima, T., Yanagihara, D., Kasaura, T., Miyamoto, A., Yuzaki, M.,
+
+New role of delta
+
+-glutamate receptors in AMPA receptor trafficking and cerebellar function. Nat. Neurosci.
+
+,
+
+–
+
+Inestrosa, N.C., Arenas, E.,
+
+Emerging roles of Wnts in the adult nervous system. Nat. Rev. Neurosci.
+
+,
+
+–
+
+Johnson, S., Halford, S., Morris, A.G., Patel, R.J., Wilkie, S.E., Hardcastle, A.J., Moore, A.T., Zhang, K., Hunt, D.M.,
+
+Genomic organisation and alternative splicing of human RIM
+
+, a gene implicated in auto- somal dominant cone-rod dystrophy (CORD
+
+). Genomics
+
+,
+
+–
+
+Joshi, K., Lee, S., Lee, B., Lee, J.W., Lee, S.K.,
+
+LMO
+
+controls the balance between excitatory and inhibitory spinal V
+
+interneurons. Neu- ron
+
+,
+
+–
+
+Keeble, T.R., Halford, M.M., Seaman, C., Kee, N., Macheda, M., Ander- son, R.B., Stacker, S.A., Cooper, H.M.,
+
+The Wnt receptor Ryk is required for Wnt
+
+a-mediated axon guidance on the contralateral side of the corpus callosum. J. Neurosci.
+
+,
+
+–
+
+Kenyon, C.J.,
+
+The genetics of ageing. Nature
+
+,
+
+–
+
+Kotowski, I.K., Pertsemlidis, A., Luke, A., Cooper, R.S., Vega, G.L., Cohen, J.C., Hobbs, H.H.,
+
+A spectrum of PCSK
+
+alleles con- tributes to plasma levels of low-density lipoprotein cholesterol. Am. J. Hum. Genet.
+
+,
+
+–
+
+Kuningas, M., Mooijaart, S.P., van Heemst, D., Zwaan, B.J., Slagboom, P.E., Westendorp, R.G.,
+
+Genes encoding longevity: from model organisms to humans. Aging Cell
+
+,
+
+–
+
+Leuba, G., Vernay, A., Vu, D., Walzer, C., Belloir, B., Kraftsik, R., Bouras, C., Savioz, A.,
+
+Differential expression of LMO
+
+protein in Alzheimer’s disease. Neuropathol. Appl. Neurobiol.
+
+,
+
+–
+
+Levy, D., Ehret, G.B., Rice, K., Verwoert, G.C., Launer, L.J., Dehghan, A., Glazer, N.L., Morrison, A.C., Johnson, A.D., Aspelund, T., Aulchenko, Y., Lumley, T., Kottgen, A., Vasan, R.S., Rivadeneira, F., Eiriksdottir, G., Guo, X., Arking, D.E., Mitchell, G.F., Mattace-Raso, F.U., Smith, A.V., Taylor, K., Scharpf, R.B., Hwang, S.J., Sijbrands, E.J., Bis, J., Harris, T.B., Ganesh, S.K., O’Donnell, C.J., Hofman, A., Rotter, J.I., Coresh, J., Benjamin, E.J., Uitterlinden, A.G., Heiss, G., Fox, C.S., Witteman, J.C., Boerwinkle, E., Wang, T.J., Gudnason, V., Larson, M.G., Chakravarti, A., Psaty, B.M., van Duijn, C.M.,
+
+Genome- wide association study of blood pressure and hypertension. Nat Genet
+
+,
+
+–
+
+Li, Y., Wang, W.J., Cao, H., Lu, J., Wu, C., Hu, F.Y., Guo, J., Zhao, L., Yang, F., Zhang, Y.X., Li, W., Zheng, G.Y., Cui, H., Chen, X., Zhu, Z., He, H., Dong, B., Mo, X., Zeng, Y., Tian, X.L.,
+
+a. Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum. Mol. Genet.
+
+,
+
+–
+
+Li, Y., Willer, C., Sanna, S., Abecasis, G.,
+
+b. Genotype imputation. Annu. Rev. Genomics Hum. Genet.
+
+,
+
+–
+
+Lunetta, K.L., D’Agostino, R.B., Sr., Karasik, D., Benjamin, E.J., Guo, C.Y., Govindaraju, R., Kiel, D.P., Kelly-Hayes, M., Massaro, J.M., Pencina, M.J., Seshadri, S., Murabito, J.M.,
+
+Genetic correlates of
+
+S. Walter et al. / Neurobiology of Aging 32 (2011) 2109.e15–2109.e28
+
+ation study in the Framingham Study. BMC Med. Genet.
+
+suppl S
+
+Maiuri, M.C., Tasdemir, E., Criollo, A., Morselli, E., Vicencio, Carnuccio, R., Kroemer, G.,
+
+Control of autophagy by and tumor suppressor genes. Cell Death Differ.
+
+,
+
+–
+
+M
+
+ue, M., Vaupel, J.W., Holm, N., Harvald, B.,
+
+Longevity moderately heritable in a sample of Danish twins born
+
+–
+
+Gerontol.
+
+, B
+
+–B
+
+Ménard, C., Hein, P., Paquin, A., Savelson, A., Yang, X.M., Lederfein, Barnabé-Heider, F., Mir, A.A., Sterneck, E., Peterson, A.C., P.F., Vinson, C., Miller, F.D.,
+
+An essential role for a EBP pathway during growth factor-regulated cortical Neuron
+
+,
+
+–
+
+Mi, H., Guo, N., Kejariwal, A., Thomas, P.D.,
+
+PANTHER version protein sequence and function evolution data with expanded tation of biological pathways. Nucleic Acids Res.
+
+(Database D
+
+–D
+
+Nevins, J.R.,
+
+The Rb/E
+
+F pathway and cancer. Hum. Mol. Genet.
+
+–
+
+Newman, A.B., Walter, S., Lunetta, K.L., Garcia, M.E., Slagboom, Christensen, K., Arnold, A.M., Aspelund, T., Aulchenko, Y.S., min, E.J., Christiansen, L., D’Agostino, R.B., Sr., Fitzpatrick, Franceschini, N., Glazer, N.L., Gudnason, V., Hofman, A., Kaplan, Karasik, D., Kelly-Hayes, M., Kiel, D.P., Launer, L.J., K.D., Massaro, J.M., Miljkovic, I., Nalls, M.A., Hernandez, D., B.M., Rivadeneira, F., Rotter, J., Seshadri, S., Smith, A.V., K.D., Tiemeier, H., Uh, H.W., Uitterlinden, A.G., Vaupel, J.W., ston, J., Westendorp, R.G., Harris, T.B., Lumley, T., van Duijn, Murabito, J.M.,
+
+A meta-analysis of four genome-wide tion studies of survival to age
+
+years or older: The Cohorts for and Aging Research in Genomic Epidemiology Consortium. J. tol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Newton-Cheh, C., Johnson, T., Gateva, V., Tobin, M.D., Bochud, M., L., Najjar, S.S., Zhao, J.H., Heath, S.C., Eyheramendy, S., Papadakis, Voight, B.F., Scott, L.J., Zhang, F., Farrall, M., Tanaka, T., Wallace, Chambers, J.C., Khaw, K.T., Nilsson, P., van der Harst, P., Polidoro, Grobbee, D.E., Onland-Moret, N.C., Bots, M.L., Wain, L.V., Elliott, Teumer, A., Luan, J., Lucas, G., Kuusisto, J., Burton, P.R., Hadley, M
+
+rdle, W.L., Brown, M., Dominiczak, A., Newhouse, S.J., N.J., Webster, J., Zeggini, E., Beckmann, J.S., Bergmann, S., Lim, Song, K., Vollenweider, P., Waeber, G., Waterworth, D.M., Yuan, Groop, L., Orho-Melander, M., Allione, A., Di Gregorio, A., Guarrera, Panico, S., Ricceri, F., Romanazzi, V., Sacerdote, C., Vineis, P., I., Sandhu, M.S., Luben, R.N., Crawford, G.J., Jousilahti, P., Perola, Boehnke, M., Bonnycastle, L.L., Collins, F.S., Jackson, A.U., K.L., Stringham, H.M., Valle, T.T., Willer, C.J., Bergman, R.N., M.A., Doring, A., Gieger, C., Illig, T., Meitinger, T., Org, E., Pfeufer, Wichmann, H.E., Kathiresan, S., Marrugat, J., O’Donnell, C.J., S.M., Siscovick, D.S., Subirana, I., Freimer, N.B., Hartikainen, M
+
+arthy, M.I., O’Reilly, P.F., Peltonen, L., Pouta, A., de Jong, Snieder, H., van Gilst, W.H., Clarke, R., Goel, A., Hamsten, A., J.F., Seedorf, U., Syvanen, A.C., Tognoni, G., Lakatta, E.G., Sanna, Scheet, P., Schlessinger, D., Scuteri, A., Dorr, M., Ernst, F., Felix, Homuth, G., Lorbeer, R., Reffelmann, T., Rettig, R., Volker, U., Galan, Gut, I.G., Hercberg, S., Lathrop, G.M., Zelenika, D., Deloukas, Soranzo, N., Williams, F.M., Zhai, G., Salomaa, V., Laakso, M., R., Forouhi, N.G., Volzke, H., Uiterwaal, C.S., van der Schouw, Numans, M.E., Matullo, G., Navis, G., Berglund, G., Bingham, Kooner, J.S., Connell, J.M., Bandinelli, S., Ferrucci, L., Watkins, Spector, T.D., Tuomilehto, J., Altshuler, D., Strachan, D.P., Laan, Meneton, P., Wareham, N.J., Uda, M., Jarvelin, M.R., Mooser, V., lander, O., Loos, R.J., Elliott, P., Abecasis, G.R., Caulfield, M., P.B.,
+
+Genome-wide association study identifies eight loci with blood pressure. Nat. Genet.
+
+,
+
+–
+
+Pawlikowska, L., Hu, D., Huntsman, S., Sung, A., Chu, C., Chen, Joyner, A.H., Schork, N.J., Hsueh, W.C., Reiner, A.P., Psaty,
+
+S
+
+Maiuri, M.C., Tasdemir, E., Criollo, A., Morselli, E., Vicencio, J.M., Carnuccio, R., Kroemer, G.,
+
+Control of autophagy by oncogenes and tumor suppressor genes. Cell Death Differ.
+
+,
+
+–
+
+M
+
+ue, M., Vaupel, J.W., Holm, N., Harvald, B.,
+
+Longevity is moderately heritable in a sample of Danish twins born
+
+–
+
+J. Gerontol.
+
+, B
+
+–B
+
+Ménard, C., Hein, P., Paquin, A., Savelson, A., Yang, X.M., Lederfein, D., Barnabé-Heider, F., Mir, A.A., Sterneck, E., Peterson, A.C., Johnson, P.F., Vinson, C., Miller, F.D.,
+
+An essential role for a MEK-C/ EBP pathway during growth factor-regulated cortical neurogenesis. Neuron
+
+,
+
+–
+
+Mi, H., Guo, N., Kejariwal, A., Thomas, P.D.,
+
+PANTHER version
+
+: protein sequence and function evolution data with expanded represen- tation of biological pathways. Nucleic Acids Res.
+
+(Database issue), D
+
+–D
+
+Nevins, J.R.,
+
+The Rb/E
+
+F pathway and cancer. Hum. Mol. Genet.
+
+,
+
+–
+
+Newman, A.B., Walter, S., Lunetta, K.L., Garcia, M.E., Slagboom, P.E., Christensen, K., Arnold, A.M., Aspelund, T., Aulchenko, Y.S., Benja- min, E.J., Christiansen, L., D’Agostino, R.B., Sr., Fitzpatrick, A.L., Franceschini, N., Glazer, N.L., Gudnason, V., Hofman, A., Kaplan, R.,
+
+centenarians. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Gerdes, L.U., Jeune, B., Ranberg, K.A., Nybo, H., Vaupel, J.W.,
+
+Estimation of apolipoprotein E genotype-specific relative mortality risks from the distribution of genotypes in centenarians and middle- aged men: apolipoprotein E gene is a “frailty gene,” not a “longevity gene.Genet. Epidemiol.
+
+,
+
+–
+
+Goga, A., Yang, D., Tward, A.D., Morgan, D.O., Bishop, J.M.,
+
+Inhibition of CDK
+
+as a potential therapy for tumors over-expressing MYC. Nat. Med.
+
+,
+
+–
+
+Herskind, A.M., M
+
+ue, M., Holm, N.V., Sørensen, T.I., Harvald, B., Vaupel, J.W.,
+
+The heritability of human longevity: a population- based study of
+
+Danish twin pairs born
+
+–
+
+Hum. Genet.
+
+,
+
+–
+
+Hirai, H., Launey, T., Mikawa, S., Torashima, T., Yanagihara, D., Kasaura, T., Miyamoto, A., Yuzaki, M.,
+
+New role of delta
+
+-glutamate receptors in AMPA receptor trafficking and cerebellar function. Nat. Neurosci.
+
+,
+
+–
+
+Inestrosa, N.C., Arenas, E.,
+
+Emerging roles of Wnts in the adult nervous system. Nat. Rev. Neurosci.
+
+,
+
+–
+
+Johnson, S., Halford, S., Morris, A.G., Patel, R.J., Wilkie, S.E., Hardcastle, A.J., Moore, A.T., Zhang, K., Hunt, D.M.,
+
+Genomic organisation and alternative splicing of human RIM
+
+, a gene implicated in auto- somal dominant cone-rod dystrophy (CORD
+
+). Genomics
+
+,
+
+–
+
+Joshi, K., Lee, S., Lee, B., Lee, J.W., Lee, S.K.,
+
+LMO
+
+controls the balance between excitatory and inhibitory spinal V
+
+interneurons. Neu- ron
+
+,
+
+–
+
+Keeble, T.R., Halford, M.M., Seaman, C., Kee, N., Macheda, M., Ander- son, R.B., Stacker, S.A., Cooper, H.M.,
+
+The Wnt receptor Ryk is required for Wnt
+
+a-mediated axon guidance on the contralateral side of the corpus callosum. J. Neurosci.
+
+,
+
+–
+
+A.B., Walter, S., Lunetta, K.L., Garcia, M.E., Slagboom, P.E., Christensen, K., Arnold, A.M., Aspelund, T., Aulchenko, Y.S., Benja- min, E.J., Christiansen, L., D’Agostino, R.B., Sr., Fitzpatrick, A.L., Franceschini, N., Glazer, N.L., Gudnason, V., Hofman, A., Kaplan, R., Karasik, D., Kelly-Hayes, M., Kiel, D.P., Launer, L.J., Marciante, K.D., Massaro, J.M., Miljkovic, I., Nalls, M.A., Hernandez, D., Psaty, B.M., Rivadeneira, F., Rotter, J., Seshadri, S., Smith, A.V., Taylor, K.D., Tiemeier, H., Uh, H.W., Uitterlinden, A.G., Vaupel, J.W., Wal- ston, J., Westendorp, R.G., Harris, T.B., Lumley, T., van Duijn, C.M., Murabito, J.M., 2010. A meta-analysis of four genome-wide associa- tion studies of survival to age 90 years or older: The Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium. J. Geron-
+
+Newton-Cheh, C., Johnson, T., Gateva, V., Tobin, M.D., Bochud, M., Coin, L., Najjar, S.S., Zhao, J.H., Heath, S.C., Eyheramendy, S., Papadakis, K., Voight, B.F., Scott, L.J., Zhang, F., Farrall, M., Tanaka, T., Wallace, C., Chambers, J.C., Khaw, K.T., Nilsson, P., van der Harst, P., Polidoro, S., Grobbee, D.E., Onland-Moret, N.C., Bots, M.L., Wain, L.V., Elliott, K.S., Teumer, A., Luan, J., Lucas, G., Kuusisto, J., Burton, P.R., Hadley, D., McArdle, W.L., Brown, M., Dominiczak, A., Newhouse, S.J., Samani, N.J., Webster, J., Zeggini, E., Beckmann, J.S., Bergmann, S., Lim, N., Song, K., Vollenweider, P., Waeber, G., Waterworth, D.M., Yuan, X., Groop, L., Orho-Melander, M., Allione, A., Di Gregorio, A., Guarrera, S., Panico, S., Ricceri, F., Romanazzi, V., Sacerdote, C., Vineis, P., Barroso, I., Sandhu, M.S., Luben, R.N., Crawford, G.J., Jousilahti, P., Perola, M., Boehnke, M., Bonnycastle, L.L., Collins, F.S., Jackson, A.U., Mohlke, K.L., Stringham, H.M., Valle, T.T., Willer, C.J., Bergman, R.N., Morken, M.A., Doring, A., Gieger, C., Illig, T., Meitinger, T., Org, E., Pfeufer, A., Wichmann, H.E., Kathiresan, S., Marrugat, J., O’Donnell, C.J., Schwartz, S.M., Siscovick, D.S., Subirana, I., Freimer, N.B., Hartikainen, A.L., McCarthy, M.I., O’Reilly, P.F., Peltonen, L., Pouta, A., de Jong, P.E., Snieder, H., van Gilst, W.H., Clarke, R., Goel, A., Hamsten, A., Peden, J.F., Seedorf, U., Syvanen, A.C., Tognoni, G., Lakatta, E.G., Sanna, S., Scheet, P., Schlessinger, D., Scuteri, A., Dorr, M., Ernst, F., Felix, S.B., Homuth, G., Lorbeer, R., Reffelmann, T., Rettig, R., Volker, U., Galan, P., Gut, I.G., Hercberg, S., Lathrop, G.M., Zelenika, D., Deloukas, P., Soranzo, N., Williams, F.M., Zhai, G., Salomaa, V., Laakso, M., Elosua, R., Forouhi, N.G., Volzke, H., Uiterwaal, C.S., van der Schouw, Y.T., Numans, M.E., Matullo, G., Navis, G., Berglund, G., Bingham, S.A., Kooner, J.S., Connell, J.M., Bandinelli, S., Ferrucci, L., Watkins, H., Spector, T.D., Tuomilehto, J., Altshuler, D., Strachan, D.P., Laan, M., Meneton, P., Wareham, N.J., Uda, M., Jarvelin, M.R., Mooser, V., Me- lander, O., Loos, R.J., Elliott, P., Abecasis, G.R., Caulfield, M., Munroe, P.B., 2009. Genome-wide association study identifies eight loci associated with blood pressure. Nat. Genet. 41, 666–676. Pawlikowska, L., Hu, D., Huntsman, S., Sung, A., Chu, C., Chen, J.,
+
+I.K., Pertsemlidis, A., Luke, A., Cooper, R.S., Vega, G.L., Cohen, J.C., Hobbs, H.H.,
+
+A spectrum of PCSK
+
+alleles con- tributes to plasma levels of low-density lipoprotein cholesterol. Am. J. Hum. Genet.
+
+,
+
+–
+
+M., Mooijaart, S.P., van Heemst, D., Zwaan, B.J., Slagboom, P.E., Westendorp, R.G.,
+
+Genes encoding longevity: from model organisms to humans. Aging Cell
+
+,
+
+–
+
+G., Vernay, A., Vu, D., Walzer, C., Belloir, B., Kraftsik, R., Bouras, C., Savioz, A.,
+
+Differential expression of LMO
+
+protein in Alzheimer’s disease. Neuropathol. Appl. Neurobiol.
+
+,
+
+–
+
+D., Ehret, G.B., Rice, K., Verwoert, G.C., Launer, L.J., Dehghan, A., Glazer, N.L., Morrison, A.C., Johnson, A.D., Aspelund, T., Aulchenko, Y., Lumley, T., Kottgen, A., Vasan, R.S., Rivadeneira, F., Eiriksdottir, G., Guo, X., Arking, D.E., Mitchell, G.F., Mattace-Raso, F.U., Smith, A.V., Taylor, K., Scharpf, R.B., Hwang, S.J., Sijbrands, E.J., Bis, J., Harris, T.B., Ganesh, S.K., O’Donnell, C.J., Hofman, A., Rotter, J.I., Coresh, J., Benjamin, E.J., Uitterlinden, A.G., Heiss, G., Fox, C.S., Witteman, J.C., Boerwinkle, E., Wang, T.J., Gudnason, V., Larson, M.G., Chakravarti, A., Psaty, B.M., van Duijn, C.M.,
+
+Genome- wide association study of blood pressure and hypertension. Nat Genet
+
+,
+
+–
+
+Y., Wang, W.J., Cao, H., Lu, J., Wu, C., Hu, F.Y., Guo, J., Zhao, L., Yang, F., Zhang, Y.X., Li, W., Zheng, G.Y., Cui, H., Chen, X., Zhu, Z., He, H., Dong, B., Mo, X., Zeng, Y., Tian, X.L.,
+
+a. Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum. Mol. Genet.
+
+,
+
+–
+
+Y., Willer, C., Sanna, S., Abecasis, G.,
+
+b. Genotype imputation. Annu. Rev. Genomics Hum. Genet.
+
+,
+
+–
+
+K.L., D’Agostino, R.B., Sr., Karasik, D., Benjamin, E.J., Guo, C.Y., Govindaraju, R., Kiel, D.P., Kelly-Hayes, M., Massaro, J.M., Pencina, M.J., Seshadri, S., Murabito, J.M.,
+
+Genetic correlates of
+
+Pawlikowska, L., Hu, D., Huntsman, S., Sung, A., Chu, C., Chen, J., Joyner, A.H., Schork, N.J., Hsueh, W.C., Reiner, A.P., Psaty, B.M.,
+
+THER: a library of protein families and subfamilies indexed by function. Genome Res.
+
+,
+
+–
+
+Thomas, P.D., Kejariwal, A., Guo, N., Mi, H., Campbell, M.J., Muruganu- jan, A., Lazareva-Ulitsky, B.,
+
+Applications for protein sequence- function evolution data:
+
+NA/protein expression analysis and coding SNP scoring tools. Nucleic Acids Res.
+
+(Web Server issue), W
+
+–
+
+Ulloa, F., Martí, E.,
+
+Wnt won the war: antagonistic role of Wnt over Shh controls dorso-ventral patterning of the vertebrate neural tube. Dev. Dyn.
+
+,
+
+–
+
+Van Eyken, E., Van Laer, L., Fransen, E., Topsakal, V., Lemkens, N., Laureys, W., Nelissen, N., Vandevelde, A., Wienker, T., Van De Heyning, P., Van Camp, G.,
+
+KCNQ
+
+: a gene for age-related hearing impairment? Hum. Mutat.
+
+,
+
+–
+
+van Rijn, M.J., Schut, A.F., Aulchenko, Y.S., Deinum, J., Sayed-Taba- tabaei, F.A., Yazdanpanah, M., Isaacs, A., Axenovich, T.I., Zorkoltseva, I.V., Zillikens, M.C., Pols, H.A., Witteman, J.C., Oostra, B.A., van Duijn, C.M.,
+
+Heritability of blood pressure traits and the genetic contribution to blood pressure variance explained by four blood-pressure-related genes. J. Hypertens.
+
+,
+
+–
+
+Vaupel, J.W.,
+
+The remarkable improvements in survival at older ages. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+
+,
+
+–
+
+Vaupel, J.W.,
+
+Biodemography of human ageing. Nature
+
+,
+
+–
+
+Vellai, T., Takacs-Vellai, K., Zhang, Y., Kovacs, A.L., Orosz, L., Muller, F.,
+
+Genetics: influence of TOR kinase on lifespan in C. elegans. Nature
+
+,
+
+Vijg, J., Suh, Y.,
+
+Genetics of longevity and aging. Annu. Rev. Med.
+
+,
+
+–
+
+Wang, H., Iakova, P., Wilde, M., Welm, A., Goode, T., Roesler, W.J., Timchenko, N.A.,
+
+C/EBPalpha arrests cell proliferation through direct inhibition of Cdk
+
+and Cdk
+
+Mol. Cell
+
+,
+
+–
+
+Wang, K., Yamamoto, H., Chin, J.R., Werb, Z., Vu, T.H.,
+
+Epidermal growth factor receptor-deficient mice have delayed primary endochon- dral ossification because of defective osteoclast recruitment. J. Biol. Chem.
+
+,
+
+–
+
+Willcox, B.J., Donlon, T.A., He, Q., Chen, R., Grove, J.S., Yano, K., Masaki, K.H., Willcox, D.C., Rodriguez, B., Curb, J.D.,
+
+FOXO
+
+A genotype is strongly associated with human longevity. Proc. Natl. Acad. Sci. U. S. A.
+
+,
+
+–
+
+Zhou, Y.Q., Chen, S.L., Ju, J.Y., Shen, L., Liu, Y., Zhen, S., Lv, N., He, Z.G., Zhu, L.P., Lv, N., He, Z.G., Zhu, L.P,
+
+Tumor suppressor function of BCSC-
+
+in nasopharyngeal carcinoma. Cancer Sci.
+
+,
+
+–
+
+Atzmon, G., Barzilai, N., Cummings, S.R., Browner, W.S., Kwok, P.Y., Ziv, E., Study of Osteoporotic Fractures,
+
+Association of common genetic variation in the insulin/IGF
+
+signaling pathway with human longevity. Aging Cell
+
+,
+
+–
+
+Price, A.L., Patterson, N.J., Plenge, R.M., Weinblatt, M.E., Shadick, N.A., Reich, D.,
+
+Principal components analysis corrects for stratifica- tion in genome-wide association studies. Nat. Genet.
+
+,
+
+–
+
+Pritchard, J.K.,
+
+Are rare variants responsible for susceptibility to complex diseases? Am. J. Hum. Genet.
+
+,
+
+–
+
+Pritchard, J.K., Cox, N.J.,
+
+The allelic architecture of human disease genes: common disease-common variant. . .or not? Hum. Mol. Genet.
+
+,
+
+–
+
+Psaty, B.M., O’Donnell, C.J., Gudnason, V., Lunetta, K.L., Folsom, A.R., Rotter, J.I., Uitterlinden, A.G., Harris, T.B., Witteman, J.C., Boer- winkle, E., CHARGE Consortium,
+
+Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium: Design of prospective meta-analyses of genome-wide association studies from
+
+cohorts. Circ. Cardiovasc. Genet.
+
+,
+
+–
+
+Reed, T., Dick, D.M.,
+
+Heritability and validity of healthy physical aging (wellness) in elderly male twins. Twin Res.
+
+,
+
+–
+
+Rico, B., Xu, B., Reichardt, L.F.,
+
+Tr
+
+receptor signaling is required for establishment of GABAergic synapses in the cerebellum. Nat. Neurosci.
+
+,
+
+–
+
+Romeo, S., Pennacchio, L.A., Fu, Y., Boerwinkle, E., Tybjaerg-Hansen, A., Hobbs, H.H., Cohen, J.C.,
+
+Population-based resequencing of ANGPTL
+
+uncovers variations that reduce triglycerides and increase HDL. Nat. Genet.
+
+,
+
+–
+
+Rotin, D., Kumar, S.,
+
+Physiological functions of the HECT family of ubiquitin ligases. Nat. Rev. Mol. Cell Biol.
+
+,
+
+–
+
+Rutishauser, U., Acheson, A., Hall, A.K., Mann, D.M., Sunshine, J.,
+
+The neural cell adhesion molecule (NCAM) as a regulator of cell-cell interactions. Science
+
+,
+
+–
+
+Schoch, S., Castillo, P.E., Jo, T., Mukherjee, K., Geppert, M., Wang, Y., Schmitz, F., Malenka, R.C., Südhof, T.C.,
+
+RIM
+
+alpha forms a protein scaffold for regulating neurotransmitter release at the active zone. Nature
+
+,
+
+–
+
+Swarbrick, M.M., Vaisse, C.,
+
+Emerging trends in the search for genetic variants predisposing to human obesity. Curr. Opin. Clin. Nutr. Metab. Care
+
+,
+
+–
+
+Tan, Q., Zhao, J.H., Zhang, D., Kruse, T.A., Christensen, K.,
+
+Power for genetic association study of human longevity using the case-control design. Am. J. Epidemiol.
+
+,
+
+–
+
+Thomas, P.D., Campbell, M.J., Kejariwal, A., Mi, H., Karlak, B., Daver- man, R., Diemer, K., Muruganujan, A., Narechania, A.,
+
+PAN-
+
+THER: a library of protein families and subfamilies indexed by function. Genome Res. 13, 2129–2141.

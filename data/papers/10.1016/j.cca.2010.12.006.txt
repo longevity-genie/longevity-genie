@@ -1,0 +1,503 @@
+Contents lists available at ScienceDirect Clinica Chimica Acta journal homepage: www.elsevier.com/locate/clinchim  
+
+journal homepage: www.elsevier.com/locate/clinchim
+
+Haptoglobin (HP) polymorphisms and human longevity: A cross-sectional association study in a Central Italy population
+
+Napolioni a, , Paola Giannì a, Francesco M. Carpi b, Fabio Concetti a,
+
+a Laboratory of Human Genetics, School of Biosciences and Biotechnologies, University of Camerino, Camerino, Italy b Laboratory of Applied Biochemistry, School of Biosciences and Biotechnologies, University of Camerino, Camerino, Italy
+
+Haptoglobin (HP), which scavenges free, cell-toxic hemoglobin and has anti-inflammatory and function in extravascular tissues, may represent an excellent candidate gene to
+
+investigate the life-span expectancy. Methods: HP 1/2 polymorphism has been determined for 1072 (569 females, 503 males) unrelated healthy individuals from Central Italy, 18–106 years old, divided into three gender-specific age classes defined according to demographic information and accounting for the different survivals between sexes. HP*1F/S subtyping was also performed to check the possible existence for a preferential advantage of HP*1F or HP*1S allele.
+
+Results: HP*1/*1 genotype results associated to increased probability of young subjects of attaining longevity (Comparison 1: O.R. 1.709, p=0.0114) with a concomitant advantage of HP*1 allele (Comparison 1: O.R. 1.273, p=0.0194). On the other side, carriers of HP*2 allele displayed an overall significant disadvantage in reaching Age Class 2 (O.R. 0.585, p=0.0092). No significant differences were noticed between age groups either considering total HP*1F and HP*1S allele frequencies or according to HP 1/2 genotypes. Conclusion: The crucial role played by HP in aging process is warranted by its many established functions and its related phenotypes so that it may be considered an important gene involved in the determination of human survival.
+
+© 2010 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+in small lymphocyte sub-populations [3]. HP has also been shown to bind to the majority of CD4+ and CD8+ T lymphocytes, directly inhibiting their proliferation and modifying the T helper (Th) Th1/Th2 balance [4].
+
+Aging is a complex phenomenon arising from a combination of oxidative, immunological and metabolic factors. In recent years, several candidate genes have been analysed for a possible association with aging and longevity.
+
+HP is an endowed with Hb-binding capacity and is characterized by molecular heterogeneity; this is due to the existence of three major genotypes, i.e. HP*1/*1, HP*2/*1 and HP*2/*2 [5].ThemaindifferencebetweenallelesHP*1andHP*2isthepresenceof a duplicated ~1.7 Kb DNA segment in HP*2, but not HP*1 [6]. Of note, HP*1 has two variants, HP*1F (fast) and HP*1S (slow), which are correlated with the presence of amino acids Asp-Lys (version F) or Asn- Glu (version S) at amino acid positions 52 and 53 in the α1-chain. The HP*2 allele is supposed to originate from a breakage and reunion event at non-homologous positions within the fourth and the second introns (unequal crossing-over) in an individual who was heterozygous for HP*1F and HP*1S [7]. Having exons 3 and 4 in duplicate, HP*2 monomer is bivalent and can associate with 2 different HP monomers. Thus homozygous HP*1/*1 individuals express HP protein as a single α1β homodimer of 86 kDa.HomozygousHP*2/*2individuals expressthe HP 2-2 phenotype, which consists of cyclic HP oligomers containing 3 or more α2β subunits (170–900 kDa). The HP synthesized by HP*2/*1 heterozygous subjects are assembled into linear homodimers and multimers of variable number of α2β subunits flanked ateachterminus
+
+The pleiotropic functions of haptoglobin make HP (Gene map locus 16q22.1, MIM ID*140100) a compelling candidate gene for human longevity. HP is a potent antioxidant playing a scavenging role for the toxic free hemoglobin (Hb) which accumulates during acute-phase inflammatory reaction. HP also exerts a direct angiogenic, anti- inflammatoryandimmunomodulatoryfunctioninextravasculartissues and body fluids. In fact in response to various stimuli, HP is able to migrate through vessel walls and is expressed in different tissues [1]. Furthermore,HPcanbereleasedfromneutrophilgranulocytesatsitesof injury or inflammation and locally dampens tissue damage [2]. HP receptors include CD163 expressed on the monocyte–macrophage system and CD11b(CR3) found on granulocytes, natural killer cells, and
+
+⁎ Corresponding author. Laboratory of Human Genetics, School of Biosciences and Biotechnologies, Via Gentile III da Varano, University of Camerino, 62032 Camerino, Italy. Tel.: +39 0737 403293; fax: +39 0737 403290. E-mail address: valerio.napolioni@unicam.it (V. Napolioni).
+
+0009-8981/$ – see front matter © 2010 Elsevier B.V. All rights reserved. doi:10.1016/j.cca.2010.12.006
+
+by 1α1β subunits (86–300 kDa). Thus, the HP 2-1 phenotype is distinctly different from the phenotypes of the HP*2 or HP*1 homozygotes. Since functional differences in the antioxidant, scaveng- ing, and immune-regulatory properties of HP occur as a function of its polymorphism, the genetics of HP has been associated with predispo- sition to infections, with autoimmune, cardiovascular, and other diseases and disorders [5].
+
+2.3. Statistical analysis
+
+Hardy–Weinberg Equilibrium (HWE) was checked by the good- ness-of-fit test for biallelic markers. The differences in HP genotypes and allele distributions between the groups were evaluated by the Pearson's χ2 and the Armitage's trend test and the results were expressed as odds ratios (ORs) with 95% confidence intervals. These calculations were done using tests for association available at http:// ihg2.helmholtz-muenchen.de/cgi-bin/hw/hwa1.pl. The analysis of HP*1F/S polymorphism was also carried out by 2×2 contingency tables (available at http://faculty.vassar.edu/lowry/VassarStats. html) and applying Fisher's exact test (two-tailed) when an expected cell value was b5. Statistical significance was set at p-valueb0.05 for all the tests.
+
+On the basis of these considerations, a possible association between HP polymorphisms and longevity has been investigated in the present work.
+
+2. Materials and methods
+
+2.1. Subjects
+
+3. Results
+
+Peripheral blood was obtained from 1072 (569 females and 503 males) unrelated individuals, 18–106 years old, randomly recruited from the same geographical area of Central Italy (Marche region) on the eastern side of the Apennines. The whole population studied is composed of Caucasian individuals and is ethnically homogeneous: the people are the descendants of an ancient pre-Roman Italian population called the Piceni [8]. The same donors provided informa- tion concerning their health condition so as to ascertain that no pathological condition existed (e.g. cancer, diabetes, heart diseases, hypertension, obesity, and chronic inflammatory diseases). Almost all subjects up to age of 65 were recruited in blood donor centres while those over 65 were recruited through family physicians or among home-guests for the elderly. The population under study was divided into three sex-specific age classes: for men [women], the first class consists of individuals b66 years old [b73 years old], the second class of individuals 66–88 years old [73–91 years old], and the third class of individuals N88 years old [N91 years old]. These gender-specific age classes were defined according to demographic information and account for the different survivals of men and women in the Italian population [9]. The study protocol was approved by the Joint Ethical Committee (JEC) University of Camerino-Azienda ASUR Marche ZT-10 Camerino, in accordance with the Declaration of Helsinki in its revised edition and with international and local regulatory requirements.
+
+The allele and genotype frequency distributions of the HP 1/2 polymorphism were compared among the age classes (Table 1). No significant deviation from HWE expectation was detected among the gender-specific age classes except for females Age Class 2 (p=0.0251). Genotype distributions do not differ significantly between males and females within age classes.
+
+In the whole population studied HP*1/*1 genotype was associated with increased probability of young subjects to attain increased life- span (Comparison 1: O.R. 1.709, 95% C.I. 1.138–2.566, p=0.0114) with a concomitant gain of HP*1 allele (Comparison 1: O.R. 1.273, 95% C.I. 1.039–1.558, p=0.0194) (Table 1). On the other side, carriers of HP*2 allele displayed an overall significant disadvantage in reaching Age Class 2 (O.R. 0.585, 95% C.I. 0.390–0.879, p=0.0092), also considering HP*2/*1 heterozygous or HP*2/*2 homozygous genotype singularly (Table 1). No differences were reported for Comparison 2, suggesting that HP 1/2 polymorphism exerts its effect on human survival acting earlier in life (Table 1).
+
+Given the significant association of HP*1/*1 genotype and HP*1 allele with increased life-expectancy, we also performed HP*1F/S subtyping to check the possible existence for a preferential advantage of HP*1F or HP*1S allele. Since HP*1/*1 and HP*2/*1 genotypes express two distinct phenotypes, extremely different at molecular (stereo configuration, molecular weight and subunit composition) and genetic level, F/S genotype distributions comparison was conducted separately. No significant differences were noticed between age groups studied either considering total HP*1F and HP*1S allele frequencies (Table 2) or according to HP 1/2 genotypes (Table 3).
+
+2.2. HP genotyping
+
+Genomic DNA extraction was carried out from peripheral blood through standardized salting-out method and DNA was stored at −20 °Cuntilgeneanalysis.HP1/2genotypingwasperformedbyallele- specific PCR as described [10] with slight modifications. Genomic DNA was amplified by PCR with primers flanking the duplicated HP 1/2 polymorphic region.Sense primer:5′-AGCCCACCCCTCCACCTATGTGCC- 3′; antisense primer: 5′-GCTTAAGATCCCAGTCGCATACC-3′. The ampli- fication was performed in 20 μl reaction mix containing 80 ng template DNA,0.4 UPhusionHighFidelty-DNApolymerase(Finnzymes,Finland), 0.5 μMofeachprimerand200 μM(finalconcentration)ofdNTPsand1× Phusion HF buffer (Finnzymes). PCR was performed on a Biometra T- gradient thermal-cycler with initial denaturation at 98 °C for 3 min, followed by 30 cycles of a two-step protocol consisting of denaturation at 98 °C for 15 s and annealing/extension at 72 °C for 3 min and 45 s followed by a final extension of 3 min at 72 °C. HP 1/2 genotypes were identified by 0.8% agarosegelelectrophoresis. The HP*1and HP*2alleles yield a3.245-anda4.945-bpband,respectively. HP*1F/Ssubtypingwas performed by RFLP-PCR method according to Koch et al. [11] using primers A (5′-GAGGGGAGCTTGCCTTTCCATTG-3′) and B (5′- GAGATTTTTGAGCCCTGGCTGGT-3′), and restriction endonuclease DraI (Fermentas). All samples were genotyped in duplicate and the accuracy ofHP1/2genotypingwasassessedbycomparisonwiththeresultsofHP protein profiling performed with plasma samples of 65 young individuals.
+
+4. Discussion
+
+The results of the present study indicate that HP 1/2 polymor- affects the probability of reaching extreme old age, by acting early in adult life (Comparison 1). To our knowledge, this is first report relating the HP genetic polymorphisms and human in a large group of elderly individuals. However, previous examined the age-distribution of HP 1/2 polymorphism in subjects from three other populations, Chinese Fujian Han Jordanians [13] and Polish [14], respectively, very distinct for
+
+In our study, the frequencies of HP*1/*1 genotype and HP*1 allele were found to be significantly higher in the elderly groups than in younger group, suggesting that possessing this genotype could confer a survival advantage for attaining longevity. Furthermore, this evidence is sustained by the above mentioned studies, reporting significant age-dependent increase of HP*1 allele, with Polish study evidencing a considerable increase of HP*1/*1 genotype in subjects aged 81–91 years [14]. On the other side, both HP*2/*1 and HP*2/*2 carriers display a significant deleterious effect compared to HP*1/*1 homozygous.
+
+Table 1
+
+HP1/2polymorphism: genotype andallele frequenciesinageclassesstudied.Valuesshowingsignificantdifferencesareshowninbold.O.R.=oddsratio.*AssumingHP*2astherisk allele.
+
+HP Groups Age Class 1 Age Class 2 Age Class 3 Males (b66 y, N=144) Males (66–88 y, N=261) Males (N88 y, N=98) Females (b73 y, N=190) Females (73–91 y, N=286) Females (N91 y, N=93) Total N=334 Total N=547 Total N=191 1*/1* 37 (11.1%) 96 (17.6%) 33 (17.3%) 2*/1* 145 (43.4%) 227 (41.5%) 80 (41.9%) 2*/2* 152 (45.5%) 224 (40.9%) 78 (40.8%) 1* 219 (32.8%) 419 (38.3%) 146 (38.2%) 2* 449 (67.2%) 675 (61.7%) 236 (61.8%) Tests for association (C.I.: 95% confidence interval)* Comparison 1: Age Class 2 vs. Age Class 1 Allele freq. difference Heterozygous Homozygous Allele positivity Armitage's trend test [1*]↔[2*] [1*/1*]↔[2*/1*] [1*/1*]↔[2*/2*] [1*/1*]↔[2*/1*+2*/2*] Common odds ratio O.R.=0.786 O.R.=0.603 O.R.=0.568 O.R.=0.585 O.R.=0.782 C.I.=[0.642–0.962] C.I.=[0.391–0.930] C.I.=[0.369–0.875] C.I.=[0.390–0.879] χ2=5.03 χ2=5.46 χ2=5.29 χ2=6.69 χ2=6.78 p=0.02492 p=0.01943 p=0.02142 p=0.00971 p=0.00923 Comparison 2: Age Class 3 vs. Age Class 2 Allele freq. difference Heterozygous Homozygous Allele positivity Armitage's trend test [1*]↔[2*] [1*/1*]↔[2*/1*] [1*/1*]↔[2*/2*] [1*/1*]↔[2*/1*+2*/2*] Common odds ratio O.R.=1.003 O.R.=1.025 O.R.=1.013 O.R.=1.019 O.R.=1.005 C.I.=[0.790–1.275] C.I.=[0.640–1.641] C.I.=[0.632–1.624] C.I.=[0.660–1.575] χ2=0.00 χ2=0.00 χ2=0.01 χ2=0.00 χ2=0.01 p=0.97914 p=0.97793 p=0.91733 p=0.95727 p=0.93190
+
+Tests for association (C.I.: 95% confidence interval)*
+
+also shown that binding of CD163 to HP*2–Hb complexes lowers significantly the amount of released anti-inflammatory IL-10 [20].
+
+AlthoughtheHP*1allelefrequencyofAgeClass1islower(0.33)than the ones published for Italian population (Rome: 0.36 [10], Sicily: 0.42 [10]; North West Italy: 0.37 [15]), the population of Marche region is genetically similar to South eastern European populations [16], making theresultsreportedheregeneticallyplausible.Moreover,astudycarried outonthepopulationoftheMiddleSangroValley(Abruzzoregion,Italy, 430 individuals, 15–88 years) [17], located on the eastern side of ApennineandborderingtheMarcheregiontothenorth,reportsanHP*1 frequency of 0.34, very similar to that reported for Age Class 1.
+
+DNA damage and mutations have also been implicated as key causal events in the process of aging [21]. In this context oxidative damage to DNA induced by hydrogen peroxide may be prevented by HP, as demonstrated by a recent finding that HP*1/*1 genotype was associated with a lower rate of DNA damage [22]. Our results are also sustained by numerous studies reporting the association of HP*2/*1 and HP*2/*2 genotypes with several age-related diseases such as abdominal aortic aneurysm [23], atherosclerosis [24,25], type 2 diabetes [26], hypertension [27] and Parkinson's disease [28].
+
+HP 1/2 polymorphism is characterized by the production of three distinct biochemical phenotypes, each one possessing different molec- ular configurations and functions. In this model the small HP 1-1 molecule has theadvantage byits higher Hb-bindingcapacity and byits distribution in the extravascular fluid and in the liver, while the larger HP 2-1 molecule has the drawback of its lower Hb-binding capacity and by its distribution in the extravascular fluid, and the HP 2-2 molecule is moderately favored by a balance between low level of HP 2-2-Hb complex elimination via CD163 [18] and the efficiency by which the HP cyclic polymer is eliminated via the extravascular fluid and the liver [5]. Moreover HP 2-2 has been associated with a significant decrease of receptor CD163 expression [18]. Thus, due to their higher levels of free Hb, the tissues of HP*2/*2 subjects might contain higher levels of reactive oxygen species and could be more exposed to oxidative damage. The macrophage CD163 receptor functions not only as a scavenger for HP–Hb complexes, but may also have an immune modulatory action with pivotal anti-inflammatory properties which entails IL-10, heme oxygenase and bilirubin synthesis [19]. It has been
+
+Thus, most of the accumulated evidence supports a potential role of HP in human health, aging and longevity. Furthermore, in light of its association with various aging phenotypes, and of its documented interactionwith another “longevitygenes”(i.e.APOA1, APOB, APOE, HFE, HMOX1,IL-6,IL-10andTNF-α)[29–35],theHPgenecanberegardedasa potential fork-head or bridge between immuno-aging, free radicals and human aging/longevity (http://genomics.senescence.info/genes/
+
+A potential limitation of this study is that the age groups were recruited differently, and, although all the individuals apparently displayed no pathological condition, some factors (e.g. environment, life-style, nutritional status, and education level) may provide advantages and may result in overrepresentation or selection of a certain HP allele in one of the age groups.
+
+In conclusion, the present results report a relevant association of HP 1/2 genetic polymorphism with human longevity. The crucial role
+
+Table 2
+
+HP*1 F/S polymorphism: allele frequency in age classes studied.
+
+HP Groups Comparison 1: Age Class 2 vs. Age Class 1 Comparison 2: Age Class 3 vs. Age Class 2 Age Class 1 Age Class 2 Age Class 3 O.R. 95% C.I. p-value O.R. 95% C.I. p-value 1*F 93 (42.5%) 178 (42.5%) 55 (37.7%) 1.001 0.719–1.393 1.000 0.818 0.556–1.205 0.330 1*S 126 (57.5%) 241 (57.5%) 91 (62.3%) 0.999 0.718–1.391 1.222 0.830–1.799
+
+Table 3
+
+HP*1 F/S polymorphism in carriers of HP*1/*1 and HP*2/*1 genotype.
+
+Groups Comparison 1: Age Class 2 vs. Comparison 2: Age Class 3 vs. Age Class 1 Age Class 2 HP*1/*1 Age Class 1 Age Class 2 Age Class 3 Armitage's trend test p-value Armitage's trend test p-value N=37 N=96 N=33 O.R.a O.R.a F*/F* 8(21.6%) 27(28.1%) 7(21.2%) 0.955 0.917 1.173 0.558 F*/S* 15(40.6%) 28(29.2%) 11(33.3%) S*/S* 14(37.8%) 41(42.7%) 15(45.5%) HP*2/*1 Age Class 1 Age Class 2 Age Class 3 O.R. 95% C.I. P value O.R. 95% C.I. P value N=145 N=227 N=80 F* 62(42.8%) 96(42.3%) 30(37.5%) 0.981 0.644–1.495 1.000 0.819 0.485–1.382 0.509 S* 83(57.2%) 131(57.7%) 50(62.5%) 1.019 0.669–1.554 1.221 0.724–2.062
+
+a Assuming HP*1S as risk allele.
+
+[
+
+] Levy AP, Purushothaman KR, Levy NS, et al. Downregulation of the hemoglobin scavenger receptor in individuals with diabetes and the Hp
+
+-
+
+genotype: implicationsfortheresponsetointraplaquehemorrhageandplaquevulnerability. Circ Res
+
+;
+
+:
+
+–
+
+[
+
+] Moestru
+
+K,Molle
+
+J.CD
+
+:aregulatedhaemoglobinscavenger receptorwith a role in the anti-inflammatory response. Ann Med
+
+;
+
+:
+
+–
+
+[
+
+] Levy AP, Moreno PR. Intraplaque hemorrhage. Curr Mol Med
+
+;
+
+:
+
+–
+
+[
+
+] Vijg J. The role of DNA damage and repair in aging: new approaches to an old problem. Mech Aging Dev
+
+;
+
+:
+
+–
+
+[
+
+] Moreira LR, Miranda-Vilela AL, Silva IC, Akimoto AK, Klautau-Guimarães MN, Grisolia CK. Antioxidant effect of haptoglobin phenotypes against DNA damage induced by hydrogen peroxide in human leukocytes. Genet Mol Res
+
+;
+
+:
+
+–
+
+[
+
+] Wiernick
+
+,Safranow K, Baranowska-Bosiacka I,Piate
+
+,Gutowski P.Haptoglobin
+
+-
+
+phenotype predicts rapid growth of abdominal aortic aneurysms. J Vasc Surg
+
+;
+
+:
+
+–
+
+[
+
+] Delangh
+
+,Cambie
+
+,Langloi
+
+,etal.Haptoglobinpolymorphism,ageneticrisk factor in coronary artery bypass surgery. Atherosclerosis
+
+;
+
+:
+
+–
+
+[
+
+] Brouwers A, Langlois M, Delanghe J, et al. Oxidized low-density lipoprotein, iron stores, and haptoglobin polymorphism. Atherosclerosis
+
+;
+
+:
+
+–
+
+[
+
+] Van Vlierberghe H, Langlois M, Delanghe J. Haptoglobin polymorphisms and iron homeostasis in health and in disease. Clin Chim Acta
+
+;
+
+:
+
+–
+
+[
+
+] Tournoy KG, Delanghe JR, Duprez DA, et al. Genetic polymorphisms and erythrocyte sodium–lithium countertransport in essential hypertension. Clin Chim Acta
+
+;
+
+:
+
+–
+
+[
+
+] Costa-Mallen P, Checkoway H, Zabeti A, et al. The functional polymorphism of the hemoglobin-binding protein haptoglobin influences susceptibility to idiopathic Parkinson's disease. Am J Med Genet B Neuropsychiatr Genet
+
+;
+
+B:
+
+–
+
+[
+
+] Spagnuolo MS, Cigliano L, D'Andrea LD, Pedone C, Abrescia P. Assignment of the binding site for haptoglobin on apolipoprotein A-I. J Biol Chem
+
+;
+
+:
+
+–
+
+[
+
+] Braeckman L, De Bacquer D, Delanghe J, Claeys L, De Backer G. Associations between haptoglobin polymorphism, lipids, lipoproteins and inflammatory variables. Atherosclerosis
+
+;
+
+:
+
+–
+
+[
+
+] Cigliano L, Pugliese CR, Spagnuolo MS, Palumbo R, Abrescia P. Haptoglobin binds the antiatherogenic protein apolipoprotein E — impairment of apolipoprotein E stimulation of both lecithin:cholesterol acyltransferase activity and cholesterol uptake by hepatocytes. FEBS J
+
+;
+
+:
+
+–
+
+[
+
+] Van Vlierberghe H, Langlois M, Delanghe J, et al. Haptoglobin phenotype
+
+-
+
+overrepresentation in Cys
+
+Tyr hemochromatotic patients. J Hepatol
+
+;
+
+:
+
+–
+
+[
+
+] Philippidis P, Mason JC, Evans BJ, et al. Hemoglobin scavenger receptor CD
+
+mediates interleukin-
+
+release and heme oxygenase-
+
+synthesis: antiinflamma- tory monocyte–macrophage responses in vitro, in resolving skin blisters in vivo, and after cardiopulmonary bypass surgery. Circ Res
+
+;
+
+:
+
+–
+
+[
+
+] Oliviero S, Cortese R. The human haptoglobin gene promoter: interleukin-
+
+- response elements interact with a DNA-binding protein induced by interleukin-
+
+EMBO J
+
+;
+
+:
+
+–
+
+[
+
+] Guett
+
+,Strauss M,Levy NS,Fahoum L,Levy AP.Haptoglobin genotype modulates the balance of Th
+
+/Th
+
+cytokines produced by macrophages exposed to free haemoglobin. Atherosclerosis
+
+;
+
+:
+
+–
+
+[18] Levy AP, Purushothaman KR, Levy NS, et al. Downregulation of the hemoglobin scavenger receptor in individuals with diabetes and the Hp 2-2 genotype: implicationsfortheresponsetointraplaquehemorrhageandplaquevulnerability.
+
+played by HP in aging process is warranted by many established functions of this protein and its related phenotypes, so we may speculate that it may be considered an important gene involved in the regulation of human life-span.
+
+References
+
+[
+
+] Yang F, Friedrichs WE, Navarijo-Ashbaugh AL, d
+
+raffenried LA, Bowman Coalso
+
+J.Celltype-specificandinflammatory-induced expression ofhaptoglobin gene in lung. Lab Investig
+
+;
+
+:
+
+–
+
+[
+
+] Theilgaard-Monch K, Jacobsen LC, Nielsen MJ, et al. Haptoglobin is during granulocyte differentiation, stored in specific granules, and released neutrophils in response to activation. Blood
+
+;
+
+:
+
+–
+
+[
+
+] Kristiansen M, Graversen JH, Jacobsen C, et al. Identification of the haemoglobin scavenger receptor. Nature
+
+;
+
+:
+
+–
+
+[
+
+] and suppresses T helper cell type
+
+cytokine release. Immunology
+
+–
+
+[
+
+] Langlois MR, Delanghe JR. Biological and clinical significance of haptoglobin polymorphism in humans. Clin Chem
+
+;
+
+:
+
+–
+
+[
+
+] Maeda N, Yang F, Barnett DR, Bowman BH, Smithies O. Duplication within haptoglobin Hp
+
+gene. Nature
+
+;
+
+:
+
+–
+
+[
+
+] Asakawa J, Kodaira M, Nakamura N, Satoh C, Fujita M. Chimerism in humans intragenic recombination at the haptoglobin locus during early Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+[
+
+] Cavalli-Sforza LL, Menozzi P, Piazza A. The History and Geography of Genes. Princeton: Princeton University Press;
+
+[
+
+] Passarino G, Montesanto A, Dato S, et al. Sex and age specificity of susceptibility genes modulating survival at old age. Hum Hered
+
+;
+
+:
+
+–
+
+[
+
+] Saccucci P, Verdecchia M, Piciullo A, et al. Convulsive disorder and polymorphism. Association of idiopathic generalized epilepsy with polymorphism. Neurogenetics
+
+;
+
+:
+
+–
+
+[
+
+] Koch W, Latz W, Eichinger M, et al. Haptoglobin gene subtyping by enzyme analysis. Clin Chem
+
+;
+
+:
+
+–
+
+[
+
+] Zou Q, Lin X, Chen Y, Lin Y. Genetic analysis of haptoglobin gene in Fujian nationality. Front Med China
+
+;
+
+:
+
+–
+
+[
+
+] distribution in Jordanians. Clin Chim Acta
+
+;
+
+:
+
+–
+
+[
+
+] Turowska B, Gurda M, Woźniak K. ABO, MN, Kell, Hp and Gm
+
+markers in humans. Mater Med Pol
+
+;
+
+:
+
+–
+
+[
+
+] Maes M, Delanghe J, Bocchio Chiavetto L. Haptoglobin polymorphism schizophrenia: genetic variation on chromosome
+
+Psychiatry Res
+
+;
+
+:
+
+–
+
+[
+
+] Capelli C, Brisighelli F, Scarnicci F, et al. Y chromosome genetic variation in Italian peninsula is clinal and supports an admixture model for the Neolithic encounter. Mol Phylogenet Evol
+
+;
+
+:
+
+–
+
+[
+
+] Gruppioni G, De Laurentiis P, Taraborelli T. Analysis of the distribution of (Chieti — Abruzzo, Italy). Gene Geogr
+
+;
+
+:
+
+–

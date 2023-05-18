@@ -1,0 +1,591 @@
+Genomewide Association Analysis and Relationship to Cardiovascular Risk and Mortality in Older Adults
+
+Alex P. Reiner, Ethan M. Lange, Nancy S. Jenny, Paulo H.M. Chaves, Jaclyn Ellis, Jin Li, Jeremy Walston, Leslie A. Lange, Mary Cushman, Russell P. Tracy
+
+Objective—CD14 is a glycosylphosphotidylinositol-anchored membrane glycoprotein expressed on neutrophils and monocytes/macrophages that also circulates as a soluble form (sCD14). Despite the well-recognized role of CD14 in inflammation, relatively little is known about the genetic determinants of sCD14 or the relationship of sCD14 to vascular- and aging-related phenotypes.
+
+Methods and Results—We measured baseline levels of sCD14 in >5000 European-American and black adults aged 65 years and older from the Cardiovascular Health Study, who were well characterized at baseline for atherosclerotic risk factors and subclinical cardiovascular disease, and who have been followed for clinical cardiovascular disease and mortality outcomes up to 20 years. At baseline, sCD14 generally showed strong positive correlations with traditional cardio- metabolic risk factors and with subclinical measures of vascular disease such as carotid wall thickness and ankle-brachial index (independently of traditional cardiovascular disease risk factors), and was also inversely correlated with body mass index. In genomewide association analyses of sCD14, we (1) confirmed the importance of the CD14 locus on chromosome 5q21 in European-American; (2) identified a novel African ancestry-specific allele of CD14 associated with lower sCD14 in blacks; and (3) identified a putative novel association in European-American of a nonsynonymous variant of PIGC, which encodes an enzyme required for the first step in glycosylphosphotidylinositol anchor biosynthesis. Finally, we show that, like other acute phase inflammatory biomarkers, sCD14 predicts incident cardiovascular disease, and strongly and independently predicts all-cause mortality in older adults.
+
+Key Words: CD14 ◼ coronary heart disease ◼ glycosylphosphotidylinositol ◼ mortality
+
+CD14, sCD14 is able to mediate LPS-activation of mCD14- negative cells such as endothelial and smooth muscle cells,11,12 events that are important for the development of atherosclerosis and its complications. At higher concentra- tions, LPS binding protein and sCD14 downregulate LPS- induced responses13 by transfer of LPS to lipoproteins for subsequent removal.
+
+membrane glycoprotein constitutively expressed on monocytes/macrophages and neutrophils.1 Cell surface or membrane (m)CD14 binds to lipopolysaccharide (LPS) and other microbial and nonmicrobial ligands in the presence of another accessory protein, LPS binding protein, resulting in activation of various toll-like receptors and downstream pro- inflammatory pathway signaling.2,3 CD14 also exists as a solu- ble form (sCD14).4 In addition to secretion from liver, sCD14 may be derived by enzymatic cleavage of GPI-anchored cell membrane-bound CD14.4–9
+
+The genetic and environmental determinants of sCD14 are largely unknown, though CD14 expression appears to be at least partially regulated at the genetic level in a cell-type specific manner. The human CD14 gene on chromosome 5q23- 31 contains a common proximal promoter polymorphism encoding a cytosine to thymidine transition at bp –159 from the major transcription start site that has been associated with circulating sCD14 levels.14,15 A regulatory element located further upstream of the CD14 gene is critical for sCD14 expression in hepatocytes, but not in monocytes.9
+
+In response to inflammation and infection, (IL)-6 induces hepatic sCD14 expression; therefore ing sCD14 is regarded as an acute phase protein.10 Like acute phase proteins, sCD14 levels increase in the of acute and chronic infectious and inflammatory including atherosclerosis. Similar to
+
+From the Department of Epidemiology, University of Washington, Seattle WA (A.P.R.); Department of Genetics, University of North Carolina, Chapel Hill, NC (E.M.L., J.E., J.L., L.A.L.); Department of Medicine, Family Center for Geriatric Research and Education, Herbert Wertheim College of Medicine, Florida International University, Miami, FL (P.H.M.C.); Department of Medicine and Pathology, University of Vermont, Burlington, VT (N.S.J., M.C., R.P.T.); and Department of Medicine, Johns Hopkins School of Medicine, Baltimore, MD (J.W.).
+
+The online-only Data Supplement is available with this article at http://atvb.ahajournals.org/lookup/suppl/doi:10.1161/ATVBAHA.112.300421/-/DC1. Correspondence to Alex Reiner, Department of Epidemiology, Box 357236, University of Washington, Seattle, Washington 98195. E-mail apreiner@u. washington.edu © 2012 American Heart Association, Inc.
+
+Despite its potential importance for atherosclerosis and other aging-related inflammatory diseases, sCD14 has not been well characterized in prospective, population-based studies of older adults. We therefore measured and analyzed sCD14 in the Cardiovascular Health Study (CHS), a large cohort of older adults with follow-up for incident cardiovascular disease (CVD) and mortality for up to 20 years. We first characterized the cross- sectional relationship of sCD14 to other traditional CVD risk factors and subclinical vascular disease, as well as other inflam- matory CVD biomarkers (fibrinogen, C-reactive protein [CRP], and IL-6). Second, we conducted genomewide and CVD can- didate gene-centric association scans of sCD14 in the CHS, separately in European-Americans (EA) and blacks. Finally, we assessed the ability of sCD14 and its main genetic determinants to predict incident CVD and mortality during follow-up.
+
+analysis. Four Cox-proportional hazard models containing progres- sive levels of covariate adjustment were used to assess risk of inci- dent events associated with baseline sCD14 levels. The first model was minimally adjusted for demographic characteristics (age, sex, and race). The second model was additionally adjusted for traditional CVD risk factors (hypertension, systolic blood pressure, diabetes mellitus, smoking, low-density lipoprotein cholesterol). For analysis of mortality, the second model also included cystatin C, and baseline peripheral artery disease, stroke, coronary heart disease (CHD). The third model included additional adjustment for subclinical vascular disease as assessed by ABI and internal carotid wall thickness. The fourth model additionally included adjustment for plasma levels of other inflammation biomarkers, CRP, IL-6, and fibrinogen. Hazard ratios and 95% CI (hazard ratios, 95% CI) for biomarkers were com- pared qualitatively with those of other inflammation biomarkers.
+
+Assessment of Association Between CD14 Genotype and CVD in Women’s Health Initiative
+
+To assess the association between CD14 SNP genotype and CVD, we used data from a larger nested case–control sample of incident CHD and stroke from the Women’s Health Initiative.20 The sample included 3042 myocardial infarction (MI) and 2222 stroke EA cases and 296 MI and 251 stroke black cases. There were 2943 EA and 295 black controls without CHD or stroke. Genotyping and quality con- trol of CD14 SNPs was performed using the ITMAT/Broad/CARe (IBC) array at TGen (Phoenix, Arizona). Logistic regression models were adjusted for traditional risk factors (age, BMI, smoking, diabe- tes mellitus, hypertension, cholesterol) and principal components to control for population stratification.
+
+Methods
+
+CHS Cohort
+
+The CHS is a prospective population-based cohort study of older adult men and women recruited from 4 US field centers: Forsyth County, NC; Sacramento County, CA; Washington County, MD; and Pittsburgh, PA. A total of 5201 participants (original cohort) were recruited in 1988–1989.16 An additional 687 primarily black par- ticipants were recruited in 1992–1993 (minority cohort) for a total cohort of 5888. The CHS baseline evaluation included demographic, lifestyle and medical histories, physical examination, fasting blood collection, and assessment of subclinical vascular disease by carotid ultrasound and ankle-brachial index (ABI).17 Informed consent was obtained using methods approved by institutional review committees at each study site. Genomewide genotyping was performed on 2952 EA and 528 black unrelated CHS participants with sCD14 measure- ments using the Illumina 370CNV platform. Details of the methods for measurement of plasma biomarkers, genotyping, fine-mapping, ascertainment of clinical CVD events during follow-up adjudication are described in the online-only Data Supplement.
+
+Results
+
+Relationship of sCD14 With Baseline CVD Risk Factors and Other Inflammation Biomarkers
+
+CHS participant characteristics are summarized in Table I in the online-only Data Supplement, by race. sCD14 levels were approximately normally distributed with a mean±SD of 1641±348 (range 284–4030) ng/mL. sCD14 levels increased with age and differed significantly by sex (P<0.001) and by race (P<0.001). The mean values in EA women, EA men, black women, and black men were 1714±354, 1596±329, 1551±410, and 1454±392 ng/mL, respectively (Figure). The Spearman
+
+Statistical Analysis
+
+(body mass index [BMI], lipid levels, fasting glucose, insulin, CRP, IL-6, ABI, and carotid intima media thickness), or binary traits (diabetes mellitus, hypertension) were assessed using multiple lin- ear regression or logistic regression, respectively. Hypertension is defined as systolic blood pressure>140, diastolic blood pressure>90, or current use of antihypertensive medication. CRP and IL-6 were log-transformed to reduce skewness. To test for genetic associations with sCD14, linear regression was performed, assuming an additive genetic model, using PLINK18 for the genotyped data and Mach2qtl for the imputed data, adjusting for covariates of age, sex, and the first 10 eigenvectors derived from principal components analysis. For blacks, sCD14 was analyzed using log-transformed values in the genetic association analyses to assess statistical significance; means and standard errors were reported from the corresponding untrans- formed model for comparisons with EAs. Haplotype frequency esti- mation and association analyses were performed using the haplo.stats package for R.19 Estimation of sCD14 phenotypic variance explained by genomewide single-nucleotide polymorphisms (SNPs) was per- formed using the Genome-wide Complex Trait Analysis method, as described in the online-only Data Supplement.
+
+BLACK WOMEN BLACK MEN WHITE WOMEN WHITE MEN )Lm/gn(( 41DCs 000,4000,3000,2000,10
+
+We performed Cox proportional hazards models to test for associa- tion between sCD14 (or other inflammation biomarkers) and risk of incident CVD events or mortality. sCD14 and other biomarkers were analyzed continuously to estimate the effects of a 1-SD difference in value, as well as categorically using quintiles. The first quintile represented the reference group. For the continuous analysis, IL-6 and CRP were log transformed. Persons with adjudicated baseline prevalent disease relevant for each outcome were excluded before
+
+Figure. Distribution of soluble CD14 according to ethnicity and sex. Median and interquartile ranges are indicated by the middle band and box edges, respectively. The whiskers indicate upper and lower adjacent values. Dots indicate values outlying 1.5 times the interquartile range (IQR) above the 75th percentile and 1.5 times the IQR below the 25th percentile.
+
+Figure. Distribution of soluble CD14 according to ethnicity and sex. Median and interquartile ranges are indicated by the band and box edges, respectively. The whiskers indicate upper
+
+rank correlation coefficient between sCD14 and CRP, fibrin- ogen, and IL-6 were 0.22, 0.21, and 0.17, respectively (all P<0.001). In age, race, and sex-adjusted models, sCD14 was positively correlated with baseline smoking, diabetes mellitus, fasting glucose, hypertension, and negatively correlated with BMI (all P<0.001; Table 1). The differences in sCD14 by race and sex persisted on adjustment for CVD risk factors (Table 1). When adjusted for baseline CHD and CVD risk factors, sCD14 was strongly and independently associated with other inflammatory and acute phase proteins, including CRP, IL-6, and fibrinogen, as well as with increased internal carotid artery wall thickness and decreased ABI (all P<0.001).
+
+Complex Trait Analysis method using all genotyped autosomal SNPs. The estimate of sCD14 phenotypic variance explained by genomewide SNPs was 33±17% (P=0.03).
+
+Genomewide Association Scan of sCD14 in EA and Blacks
+
+In the genomewide association scan of 2952 EA and 528 blacks, 2 regions, 1q24 and 5q31, reached genomewide signif- icance in EA (Figure I in the online-only Data Supplement); the chromosome 5q31 peak was also genomewide significant in blacks (Figure II in the online-only Data Supplement). Results for the lead (index) SNPs associated with sCD14 in each genomic region are summarized in Table 2. In EA, the strongest genomewide association signal was located on chro- mosome 5q31, centered around the CD14 structural gene. The 5q31 region of association spanned ≈500 kb, encompassed 16 additional genes, and included an extended block of linkage disequilibrium containing 165 SNPs with P<5×10–8 (Figure IIIA in the online-only Data Supplement). The minor allele at the EA index SNP rs5744441 (minor allele frequency=0.22; imputation quality score=0.99) was associated with 101±10 ng/mL lower sCD14 (P=3.0×10–23). The rs5744441 SNP is located ≈3 kb upstream of CD14.
+
+Estimation of Proportion of sCD14 Phenotypic Variation Explained by Genomewide SNPs
+
+To our knowledge, family-based estimates of sCD14 heritability have not been previously reported. Therefore, we estimated the amount of phenotypic variance of sCD14 explained by distant genetic relationships between individuals with the CHS EA population by applying the Genome-wide
+
+Table 1. Association Between Soluble CD14 and Other Cardiovascular Risk Factors and Measures of Subclinical Cardiovascular Disease at the CHS Baseline Examination
+
+In the EA genome-wide association study (GWAS), a sec- ond region on chromosome 1q24.3 achieved genomewide significance (Table 2 and Figure IV in the online-only Data Supplement). The index SNP rs1063412 at 1q24.3 is a C/T polymorphism that encodes a Pro266Ser amino acid substitu- tion within the second exon of PIGC (MAF=0.43). According to the HapMap, the C allele (Pro266) is the minor allele in European and Asian populations, but is the major allele in African populations. The C allele (MAF=0.43 in CHS EA) was associated with 48±8 ng/mL lower sCD14 (P=1.4×10–8).
+
+Model A Model B Model C Baseline Characteristic β±SE β±SE β±SE Age, y 7.13±0.86* 6.60±0.88* 4.34±0.90* Female sex 119±9.7* 123±9.6* 118±10.3* Black race −155±13.3* −164±13.5* −185±13.3* Current smoking 96±15* 84±15* 41±15** Diabetes mellitus 59±10* 66±11* 35±11** Hypertension 74±10* 78±10* 54±10* Systolic blood pressure, mm Hg 0.49±0.22 0.26±0.22 0.18±0.22 LDL cholesterol, mg/dL 0.34±0.12 0.44±0.13** 0.43±0.13** HDL cholesterol, mg/dL −1.02±0.32** −0.96±0.34** 0.38±0.34 Triglycerides, mg/dL 17.1±11.1 4.62±11.54 −30±13.4 Glucose, mg/dL 1.07±0.13* 1.00±0.16* 0.73±0.16* Insulin, mg/dL 0.84±0.18* 0.70±0.18* 0.40±0.18 BMI, kg/m2 −4.87±1.03* −4.87±1.03* −13.0±1.12* Waist circumference, cm −1.14±0.38** 0.316±0.674 −1.15±0.658 C-reactive protein, g/L 95±4.5* 101±4.7* 62±6.0* Interleukin-6, pg/dL 117±7.8* 117±8.1* 51±9.3* Fibrinogen, mg/dL 1.28±0.069* 1.26±0.070* 0.55±0.085* Internal carotid wall thickness, 75.6±8.80* 55.6±8.98* 36.7±8.96* mm
+
+tion at the CD14 locus, but the specific SNPs associated with sCD14 were distinct from those in EA (Table 2 and Figure IIIB in the online-only Data Supplement). The index SNP in blacks rs778584 (MAF=0.31) was located in the 3´ flanking region and was associated with 128 ng/mL±24 higher sCD14 (P=5.5×10–9). The EA index SNP at the CD14 locus rs5744441 was less common (MAF=0.08) in blacks and associated more weakly with sCD14 (β=−108±38 ng/mL; P=0.003). In blacks, the PIGC rs1063412 C allele (Pro266) was considerably more common (MAF=0.83) than in EA. Nonetheless, the PIGC rs1063412 Pro266 variant was not significantly associated with sCD14 in blacks (P=0.95; Figure V in the online-only Data Supplement).
+
+Haplotype Analysis and Fine-Mapping of CD14 Gene Region
+
+LDL indicates low-density lipoprotein; HDL, high-density lipoprotein; CHS, Cardiovascular Health; and BMI, body mass index.
+
+To further explore the CD14 gene variants associated with sCD14 in EA and blacks, we used denser CD14 genotype data from the IBC array, which contains 15 SNPs covering the CD14 coding, intronic, untranslated, and flanking regions. In EA, the most strongly associated SNP on the IBC array was rs5744455 (β=−101±9.5 ng/mL; P=3.5×10–26), located ≈50 bp upstream of the transcription start site. On the basis of 1000 Genomes Centre d’Etude du Polymorphisme Humain (CEU) data, this SNP is in strong LD with the index GWAS SNP,
+
+Triglycerides, C-reactive protein, and interleukin-6 were natural log-trans- formed. Model A: adjusted for age, race, and sex. Model B: adjusted for age, race, sex, smoking, diabetes mellitus, hypertension, systolic blood pressure, and BMI. Model C: adjusted for age, race, sex, smoking, diabetes mellitus, hy- pertension, systolic blood pressure, BMI, LDL cholesterol, HDL cholesterol, C- reactive protein, interleukin-6, and fibrinogen. In all models, the estimates for age, race, and sex were adjusted only for the 2 remaining variables. *P<0.0001.
+
+2. Top Genomewide Association Results for Soluble CD14 in European Americans and Blacks
+
+Number SNPs Top SNP in Minor Minor Allele Effect Size (SE) Population Chromosome With P<5×10−8 Region Position Hg18 Candidate Genes Allele Frequency [ng/mL sCD14] P Value European-Americans 5q31 144 rs5744441 139997031 HBEGF, SLC4A9, ANKHD1, G 0.22 −101 (10) 2.98×10–23 EIF4EBP3, SRA1, APBB3, SLC35A4, CD14, IK, WDR55, TMCO6, DND1, HARS, HARS2, NDUFA2,ZMAT2, VTRNA1 Black 5q31 1 rs778584 139985396 CD14 T 0.31 128 (24) 5.5×10–9 European-Americans 1q24 19 rs1063412 170677590 PIGC A 0.43 −48 (8.5) 1.40×10–8
+
+Black
+
+SNP indicates single-nucleotide polymorphism.
+
+rs5744441 (LD r2=1.0). After conditioning on rs5744455, probability values for 3 additional SNPs in the CD14 region were significant at the Bonferroni-adjusted threshold of P<0.003: rs2569191 and rs778584 (which are in strong LD; r2=0.97) and rs4914, suggesting the possibility of allelic heterogeneity at the CD14 locus. Together with rs5744455, rs4914 (a synonymous coding variant) and rs778584 define 4 common CD14 EA haplotypes (Table 3). Compared with ref- erent haplotype 1, haplotype 4 (tagged by the minor allele of rs5744455) was associated with lower sCD14, whereas haplo- type 3 (tagged by the minor allele of rs4914) and haplotype 2 (tagged by the minor allele of rs778584) were each associated with higher sCD14 levels.
+
+were attributed to noncardiovascular causes. The relation- ships between sCD14 and these outcomes are shown in Table 4. When minimally adjusted for age, sex, and race, baseline sCD14 was associated with increased risk of MI, CHD, stroke, and mortality. Additional adjustment for traditional risk fac- tors and measures of subclinical vascular disease attenuated these associations, though the associations with CHD, stroke, and mortality remained significant. Moreover, the association of sCD14 with mortality and stroke (but not MI or CHD) was independent of the other studied biomarkers (CRP, IL-6, fibrin- ogen). In the fully adjusted model 4, sCD14 was associated similarly with death because of cardiovascular causes (hazard ratio=1.13; 95%CI=1.05–1.22; P=0.001) and death because of noncardiovascular causes (hazard ratio=1.11; 95%CI=1.04– 1.18; P=0.001). Table II in the online-only Data Supplement shows the association of each inflammation biomarker with mortality in multivariable models, including all the inflamma- tion biomarkers. In these models, sCD14 and IL-6 were each independently associated with mortality, whereas CRP and fibrinogen were not. When analyzed categorically, there was a graded, linear increase in mortality risk with each succes- sive sCD14 quintile. Compared with the bottom quintile, the hazard ratios (95% CIs) for the second, third, fourth, and fifth quintile were 1.00 (0.87–1.14), 1.02 (0.89–1.16), 1.12 (0.98– 1.27), and 1.27 (1.11–1.45), respectively. The hazard ratios comparing top with bottom quintiles for cardiovascular death and noncardiovascular were 1.26 (95% CI 1.01–1.57; P=0.04) and 1.32 (95% CI 1.11–1.57; P=0.002), respectively.
+
+In blacks, several other SNPs on the IBC array had more significant P values than the index SNP from the black GWAS rs778584. The lead SNP from the IBC analysis was rs5744451 (MAF=0.09), which was associated with 279±36 ng/mL lower sCD14 (P=1.3×10–14). rs5744451 is located in the 5ʹ flanking region of CD14. This SNP was not successfully imputed and hence not included in the GWAS analysis. After conditioning on rs5744451, 3 additional CD14 SNPs (rs5744455, rs2569191, and rs778584) had P<0.003. Haplotype analysis confirmed that rs5744451 tags a second CD14-lowering haplotype that is com- mon among blacks but rare among EA (Table 3).
+
+Relationship of sCD14 to Incident CVD and Mortality
+
+Among the 5462 EA and black participants with measured at the CHS baseline examination, there were incident MI, 1547 incident CHD, 945 incident strokes, 3820 deaths during the 20-year follow-up period. Of the deaths, 1519 were attributed to cardiovascular causes and
+
+Among the sCD14-associated SNPs identified in our GWAS, there was no association with risk of mortality in either ethnicity of CHS (Table III in the online-only Data Supplement). In CHS, the minor alleles of CD14 rs4914
+
+3. Association of CD14 haplotypes With Soluble CD14 in European Americans and Blacks
+
+CD14 SNP European Americans Blacks Haplotype rs778584 rs4914 rs5744455 rs5744451 Freq β (SE) P Value Freq β (SE) P Value H1 C C G A 0.17 Referent  0.44 Referent … H2 T C G A 0.49 67 (11) 6.15e-08 0.31 51 (25) 0.04 H3 C G G A 0.12 87 (15) 3.23e-08 0.07 26 (44) 0.55 H4 C C A A 0.21 −46 (12) 0.0002 0.08 −93 (40) 0.02 H5 C C G C <0.01 NA NA 0.09 −262 (37) 3.2e–013
+
+SNP indicates single-nucleotide polymorphism; NA, not applicable; and EA, European The global P value for CD14 haplotype association with sCD14 in EA=6.65e–31. The global P value for CD14 haplotype association with sCD14 in blacks=1.28e–12.
+
+4. Estimated Hazard Ratios for Association Between 1 SD Unit Increase in Soluble CD14 and Incident CVD Events and
+
+Mortality (n=3820) MI (n=870) CHD (n=1547) Stroke (n=945) Model HR (95% CI) P Value HR (95% CI) P Value HR (95% CI) P Value HR (95% CI) P Minimal (1) 1.25 (1.21–1.29) 1.2×10–42 1.10 (1.03–1.19) 0.006 1.14 (1.09–1.20) 2.4×10–7 1.15 (1.07–1.23) Multivariable (2) 1.11 (1.07–1.15) 5.5×10–9 1.07 (0.99–1.15) 0.075 1.11 (1.06–1.18) 7.5×10–5 1.12 (1.04–1.20) Subclinical (3) 1.09 (1.06–1.13) 1.3×10–6 1.03 (0.96–1.11) 0.38 1.07 (1.01–1.13) 0.017 1.11 (1.03–1.19) Biomarkers (4) 1.09 (1.05–1.13) 2.9×10–5 0.96 (0.89–1.05) 0.39 1.01 (0.95–1.07) 0.73 1.08 (1.00–1.17)
+
+CVD indicates cardiovascular disease; MI, myocardial infarction; CHD, coronary heart disease; lipoprotein; and HR, hazard ratios. Model definitions:
+
+) Age, sex, race.
+
+) Model
+
++smoking, diabetes mellitus, hypertension, SBP, LDL (baseline CVD, cystatin C).
+
+) Model
+
++carotid IMT and ankle-brachial index.
+
+) Model
+
++C-reactive protein, interleukin-
+
+, and fibrinogen.
+
+and rs778584 were each nominally associated with 1.3- to 1.6-fold increased risk of stroke in black, whereas rs778584 was associated with decreased risk of CHD in EA (P=0.025). However, these results were not significant when corrected for multiple hypothesis testing. Nor was there significant evidence for association between CD14 genotype and risk of CHD or stroke in a second, large case-control sample from the Women’s Health Initiative (Table IV in the online-only Data Supplement).
+
+within several putatively functional genomic elements indica- tive of chromatin accessibility, including an Encyclopedia Of DNA Elements Consortium (ENCODE) DNaseI hypersensi- tivity site, histone methylation and acylation enrichment sites, and hepatocyte-specific transcription factor binding elements for hepatocyte nuclear factor 4 alpha (HNF4A)- and forkhead box protein A1 (FOXA1), as determined by genomewide chromatin immunoprecipitation (ChIP)-Seq.22
+
+Two other CD14 variants (haplotypes 2 and 3 in Table 3) were associated with higher sCD14 levels. Haplotype 2 (tagged by rs778584 in our data set) contains the previously characterized –159 T allele of rs2569190, which is located in the proximal promoter.23 The CD14 –159 T allele poly- morphism increases transcription of CD14 in monocytes by decreasing binding affinity to the inhibitory Sp3 subunit of an Sp transcription factor site15 and has been associated with higher sCD14 concentration14 as well as greater density of mCD14 in some studies24 but not in others.25,26
+
+Discussion
+
+In a biracial population of older adults, we have character- ized the epidemiological and genetic associations of sCD14, as well as relationships of this inflammatory biomarker to incident CVD and mortality. Baseline sCD14 was correlated positively with EA ethnicity, female sex, traditional CVD risk factors (smoking, hypertension, diabetes mellitus), and other inflammatory biomarkers (IL-6, CRP, fibrinogen), and negatively correlated with BMI. We identified 2 genomewide significant sCD14-associated loci, the CD14 structural locus on chromosome 5q21 and a novel missense variant of PIGC, which encodes an enzyme required for the first step in GPI anchor biosynthesis. We also showed that sCD14 predicts incident CVD and mortality in older adults.
+
+levels of other commonly measured inflammation biomarkers among blacks, we found that levels of sCD14 were lower in blacks than EA. Whether the ethnic differences in sCD14 are a result of environmental and genetic factors is uncertain. The CD14 gene locus shows evidence of balancing selection, par- ticularly among European populations,27 which could be attrib- utable to its impact on the magnitude of host immune response to local pathogens. It is also noteworthy that the 2 CD14 alleles tagged by rs778584 and rs4914 associated with higher sCD14 are both more common in EA than blacks, whereas the sCD14- lowering haplotype tagged by rs5744451 is common only among blacks. Assuming independence of SNPs, and an addi- tive genetic model, differences in allele frequencies between the identified SNPs accounts for ≈23% of the interpopulation differences in sCD14 levels. Therefore, allele frequency differ- ences at the CD14 locus provide some potential explanation for the higher sCD14 levels observed in EA.
+
+identified intra- and interpopulation allelic heterogeneity at the CD14 locus, including 2 new CD14 variants associated with lower sCD14 levels. The significant, nonredundant vari- ants at the CD14 locus explain 3.7% of the trait variability in EA versus 9.0% in blacks. One of these variants (haplo- type 4 tagged by rs5744455 in Table 3) was associated with lower sCD14 in both EA and blacks. rs5744455 may represent a functional variant, as this SNP is located ≈50 bp upstream of the transcription start site within an ENCODE DNaseI hypersensitivity site in CD14+ monocytes and promyelocytic cells. DNaseI hypersensitivity sites are characterized by open chromatin and tend to be transcriptionally active. The other newly discovered sCD14-lowering variant was present only among blacks (haplotype 5 tagged by rs5744451 in Table 3. Of the SNPs associated with haplotype 5, rs5744430 lies within a 700-bp hepatocyte-specific enhancer region located ≈6 kb 5ʹ of the transcription start site.9,21 rs5744430 is also located
+
+CD14 is 1 of >100 cell-surface proteins anchored to the plasma membrane via GPI. Assembly of GPI-linked proteins occurs in the endoplasmic reticulum and involves more than 30 different genes.28 The first step of the biosynthesis, the transfer of N-acetylglucosamine from UDP-N-acetylglucosamine to phosphatidylinositol, is mediated by at least 3 genes (PIGA,
+
+younger and middle-aged subjects.33–36 In a smaller prospec- tive European study of healthy middle-aged men, sCD14 lev- els did not differ between CHD cases and controls.37 Despite the association between sCD14 levels and CVD risk in CHS, we found little evidence of association between CD14 geno- type and risk of CHD or stroke, in samples totaling >4000 CHD cases and 3000 stroke cases. These results are consistent with those of a recent meta-analysis of previously published studies (11 813 CHD cases and 6196 controls) that showed no evidence of association between the CD14 C-159T promoter polymorphism and CHD in Europeans or subjects from India, though a possible association between -159 T and CHD was observed among East Asians.38
+
+phosphatidylinositol glycan class A (PIGA) in hematopoietic stem cells cause paroxysmal nocturnal hemoglobinuria, which manifests as bone marrow failure, hemolytic anemia, and thrombosis. As a result of the GPI anchoring defect, paroxysmal nocturnal hemoglobinuria patients do not express mCD14 on their monocytes, yet have normal plasma levels of sCD14.6 Notably, the Pro266Ser amino acid substitution encoded by PIGC rs1063412 is predicted to be functionally deleterious by Condel.29 The association of higher sCD14 with a functional coding variant of PIGC suggests that defective GPI anchor synthesis may be a mechanism that results in increased release of intracellular CD14 into the circulation from myeloid cells. Although the association reached genomewide significance in EA and is certainly biologically plausible, verification of the association between PIGC rs1063412 and sCD14 in an independent EA population is necessary to authenticate the finding.
+
+Several limitations of the current study should be noted. Replication in an independent sample of EA, and also studies including larger numbers of blacks, will be required to validate the PIGC association and to determine whether the finding is ethnicity specific. The remaining phenotypic variability in sCD14 not ascribed to heritable factors or loci identified in our analyses suggests a contribution of combined effects of rare variants not tagged by current genotyping arrays, nonaddi- tive genetic factors, as well environmental factors. Therefore, genotyping arrays of even greater density and targeted sequencing of the CD14 locus may ultimately be required to identify the full spectrum of trait-associated variants. Finally, further study of the inverse relationship of sCD14 with body mass, as well as generalization of these association findings to younger adults is needed.
+
+Germline mutations in GPI anchor genes have been identified in congenital autosomal recessive disorders that are characterized by a diverse range of phenotypes. To our knowledge, this is the first report of a common, inherited variant of a gene involved in GPI anchor biosynthesis associated with a complex trait. A recent GWAS identified a SNP located ≈70 kb downstream of PIGC associated with waist- hip ratio.30 However, there is no LD between the waist-hip ratio-associated rs1011731 variant and the sCD14-associated PIGC coding variant. In the current study, we were unable to detect an association between the PIGC locus and sCD14 in blacks. Even though the variant is more common in blacks, our black sample size was considerably smaller than our EA sample; therefore, power was only 43% to detect an effect of similar magnitude in blacks. Other possible explanations for the lack of replication in blacks include (1) a false-positive result (type I error) or overestimation of the effect (winner’s curse) in EA; (2) effect modification by another genetic or environmental factor that is differentially expressed between EA and blacks; (3) rs1063412 may not be true causal variant and the frequency of the true causal variant differs between EA and blacks and is not well tagged in blacks.
+
+In population studies of older adults, serum levels of CRP and IL-6 predict adverse health outcomes and mortality. Though sCD14 is an acute phase protein, and correlates with CRP and IL-6, we found that sCD14 and IL-6 were strong and independent risk factors for mortality in older adults. Accounting for IL-6 and sCD14, there was no association of CRP or fibrinogen with mor- tality. sCD14 levels are increased in a number of acute and chronic inflammatory conditions and higher levels have been associated with disease severity,39 including mortality in Gram-negative sep- sis.40 Conversely, in mouse models, CD14 deficiency has been associated with resistance to LPS-induced shock,41 whereas mice harboring toll-like receptor (TLR)-4 and CD14 mutations have increased bone mineral density, decreased body fat, greater insu- lin sensitivity, live long lives, and show no evidence of infection.32 Increasing evidence suggests that proinflammatory mediators play a direct role in aging-related chronic diseases such as ath- erosclerosis, diabetes mellitus, and cancer. Whether higher levels of sCD14 or other inflammatory mediators are directly causal, or indicative of chronic, low-level infection and other immune alterations in older adults, or simply reflect worsening subclini- cal and clinical disease, is difficult to distinguish. Nonetheless, sCD14 may have potential clinical utility as a marker of aging, disease risk, or disease progression in older adults.
+
+Our results show that sCD14 levels are associated with both subclinical vascular disease (carotid intima media thickness and ABI) and with risk of future clinical CVD in older adults, independently of other risk factors. The reason for the nega- tive association between sCD14 and BMI is unclear, though the inter-relationships between the CD14 system and obesity appear to be complex. sCD14 can both potentiate and down- regulate responses to LPS. For example, adipose tissue CD14 gene expression is increased in obese humans,31 whereas mice harboring CD14 mutations have decreased body fat.31,32 In con- trast, administration of exogenous recombinant human sCD14 is associated with decreased visceral fat and adipocyte inflam- matory gene expression in high-fat-fed mice. Another pos- sible explanation for the paradoxical association with sCD14 observed in CHS is that lower BMI could constitute a marker for frailty and chronic disease in older adults. Therefore, addi- tional studies of sCD14 and BMI involving younger popula- tions and longitudinal data on BMI may be required.
+
+Sources of Funding
+
+Research reported in this article was supported by contracts HHSN268201200036C, N01-HC-85239, N01-HC-85079 through N01-HC-85086, N01-HC-35129, N01 HC-15103, N01 HC-55222, N01-HC-75150, N01-HC-45133, and grants HL080295R01 and HL71862 from the National Heart, Lung, and Blood Institute, with addi- tional contribution from the National Institute of Neurological Disorders and Stroke. Additional support was provided through AG-023629,
+
+Previous studies of sCD14 and subclinical atherosclerosis have been inconsistent, though most have included primarily
+
+AG-15928, AG-20098, and AG-027058 from the National Institute on Aging. A full list of principal Cardiovascular Health Study investigators and institutions can be found at http://www.chs-nhlbi.org/pi.htm.
+
+;
+
+:D
+
+–D
+
+Zhang DE, Hetherington CJ, Tan S, Dziennis SE, Gonzalez DA, Chen HM, Tenen DG. Sp
+
+is a critical factor for the monocytic specific expres- sion of human CD
+
+J Biol Chem.
+
+;
+
+:
+
+–
+
+Hubacek JA, Rothe G, Pit’ha J, Skodová Z, Stanek V, Poledne R, Schmitz G. C(-
+
+)–>T polymorphism in the promoter of the CD
+
+monocyte receptor gene as a risk factor for myocardial infarction. Circulation.
+
+;
+
+:
+
+–
+
+Heesen M, Blomeke B, Schluter B, Heussen N, Rossaint R, Kunz D. Lack of association between the −
+
+C->T promoter polymorphism of the endotoxin receptor CD
+
+gene and the CD
+
+density of unstimulated human monocytes and soluble CD
+
+plasma levels. Intens Care Med.
+
+;
+
+:
+
+–
+
+Ito D, Murata M, Tanahashi N, Sato H, Sonoda A, Saito I, Watanabe K, Fukuuchi Y. Polymorphism in the promoter of lipopolysaccharide receptor CD
+
+and ischemic cerebrovascular disease. Stroke.
+
+;
+
+:
+
+–
+
+Ferrer-Admetlla A, Bosch E, Sikora M, Marquès-Bonet T, Ramírez- Soriano A, Muntasell A, Navarro A, Lazarus R, Calafell F, Bertranpetit J, Casals F. Balancing selection is the main force shaping the evolution of innate immunity genes. J Immunol.
+
+;
+
+:
+
+–
+
+Kinoshita T, Fujita M, Maeda Y. Biosynthesis, remodelling and func- tions of mammalian GPI-anchored proteins: recent progress. J Biochem.
+
+;
+
+:
+
+–
+
+González-Pérez A, López-Bigas N. Improving the assessment of the out- come of nonsynonymous SNVs with a consensus deleteriousness score, Condel. Am J Hum Genet.
+
+;
+
+:
+
+–
+
+Heid IM, Jackson AU, Randall JC, et al; MAGIC. Meta-analysis identifies
+
+new loci associated with waist-hip ratio and reveals sexual dimorphism in the genetic basis of fat distribution. Nat Genet.
+
+;
+
+:
+
+–
+
+Fernández-Real JM, Pérez del Pulgar S, Luche E, Moreno-Navarrete JM, Waget A, Serino M, Sorianello E, Sánchez-Pla A, Pontaque FC, Vendrell J, Chacón MR, Ricart W, Burcelin R, Zorzano A. CD
+
+modulates inflammation-driven insulin resistance. Diabetes.
+
+;
+
+:
+
+–
+
+Johnson GB, Riggs BL, Platt JL. A genetic basis for the “Adonis” pheno- type of low adiposity and strong bones. FASEB J.
+
+;
+
+:
+
+–
+
+Risley P, Jerrard-Dunne P, Sitzer M, Buehler A, von Kegler S, Markus HS; Carotid Atherosclerosis Progression Study. Promoter polymorphism in the endotoxin receptor (CD
+
+) is associated with increased carotid atherosclerosis only in smokers: the Carotid Atherosclerosis Progression Study (CAPS). Stroke.
+
+;
+
+:
+
+–
+
+Hung J, M
+
+uillan BM, Chapman CM, Thompson PL, Beilby JP. Promoter polymorphism of the gene for CD
+
+receptor is not associated with sub-clinical carotid atherosclerosis in a community population. Eur J Cardiovasc Prev Rehabil.
+
+;
+
+:
+
+–
+
+Amar J, Ruidavets JB, Bal Dit Sollier C, Bongard V, Boccalon H, Chamontin B, Drouet L, Ferrières J. Soluble CD
+
+and aortic stiffness in a population-based study. J Hypertens.
+
+;
+
+:
+
+–
+
+Amar J, Ruidavets JB, Bal dit Sollier C, Bongard V, Boccalon H, Chamontin B, Drouet L, Ferrières J. CD
+
+C(-
+
+)T gene polymor- phism, circulating soluble CD
+
+levels and arteriosclerosis. J Hypertens.
+
+;
+
+:
+
+–
+
+Morange PE, Tiret L, Saut N, Luc G, Arveiler D, Ferrieres J, Amouyel P, Evans A, Ducimetiere P, Cambien F, Juhan-Vague I; PRIME Study Group. TLR
+
+/Asp
+
+Gly, CD
+
+/C-
+
+T, plasma levels of the soluble receptor CD
+
+and the risk of coronary heart disease: The PRIME Study. Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+Zhang HF, Zhong BL, Zhu WL, Xie SL, Qiu LX, Zhu LG, Wang Y, Lei L. CD
+
+C-
+
+T gene polymorphism and ischemic heart disease suscepti- bility: a H
+
+E review and meta-analysis. Genet Med.
+
+;
+
+:
+
+–
+
+Mikuls TR, L
+
+an TD, Sayles H, Yu F, Caplan L, Cannon GW, Kerr GS, Reimold AM, Johnson DS, Thiele GM. Soluble CD
+
+and CD
+
+poly- morphisms in rheumatoid arthritis. J Rheumatol.
+
+;
+
+:
+
+–
+
+Landmann R, Zimmerli W, Sansano S, Link S, Hahn A, Glauser MP, Calandra T. Increased circulating soluble CD
+
+is associated with high mortality in gram-negative septic shock. J Infect Dis.
+
+;
+
+:
+
+–
+
+Haziot A, Ferrero E, Köntgen F, Hijiya N, Yamamoto S, Silver J, Stewart CL, Goyert SM. Resistance to endotoxin shock and reduced dissemi- nation of gram-negative bacteria in CD
+
+-deficient mice. Immunity.
+
+;
+
+:
+
+–
+
+References
+
+Haziot A, Chen S, Ferrero E, Low MG, Silber R, Goyert SM. The mono- cyte differentiation antigen, CD
+
+, is anchored to the cell membrane by a phosphatidylinositol linkage. J Immunol.
+
+;
+
+:
+
+–
+
+Wright SD, Ramos RA, Tobias PS, Ulevitch RJ, Mathison JC. CD
+
+, a receptor for complexes of lipopolysaccharide (LPS) and LPS binding protein. Science.
+
+;
+
+:
+
+–
+
+Tobias PS, Ulevitch RJ. Lipopolysaccharide binding protein and CD
+
+in LPS dependent macrophage activation. Immunobiology.
+
+;
+
+:
+
+–
+
+Bazil V, Baudys M, Hilgert I, Stefanová I, Low MG, Zbrozek J, Horejsí V. Structural relationship between the soluble and membrane-bound forms of human monocyte surface glycoprotein CD
+
+Mol Immunol.
+
+;
+
+:
+
+–
+
+Bazil V, Strominger JL. Shedding as a mechanism of down-modulation of CD
+
+on stimulated human monocytes. J Immunol.
+
+;
+
+:
+
+–
+
+Durieux JJ, Vita N, Popescu O, Guette F, Calzada-Wack J, Munker R, Schmidt RE, Lupker J, Ferrara P, Ziegler-Heitbrock HW. The two soluble forms of the lipopolysaccharide receptor, CD
+
+: characterization and release by normal human monocytes. Eur J Immunol.
+
+;
+
+:
+
+–
+
+Bufler P, Stiegler G, Schuchmann M, Hess S, Krüger C, Stelter F, Eckerskorn C, Schütt C, Engelmann H. Soluble lipopolysaccharide receptor (CD
+
+) is released via two different mechanisms from human monocytes and CD
+
+transfectants. Eur J Immunol.
+
+;
+
+:
+
+–
+
+Su GL, Dorko K, Strom SC, Nüssler AK, Wang SC. CD
+
+expression and production by human hepatocytes. J Hepatol.
+
+;
+
+:
+
+–
+
+Pan Z, Zhou L, Hetherington CJ, Zhang DE. Hepatocytes contribute to soluble CD
+
+production, and CD
+
+expression is differentially regulated in hepatocytes and monocytes. J Biol Chem.
+
+;
+
+:
+
+–
+
+Bas S, Gauthier BR, Spenato U, Stingelin S, Gabay C. CD
+
+is an acute- phase protein. J Immunol.
+
+;
+
+:
+
+–
+
+Pugin J, Schürer-Maly CC, Leturcq D, Moriarty A, Ulevitch RJ, Tobias PS. Lipopolysaccharide activation of human endothelial and epithelial cells is mediated by lipopolysaccharide-binding protein and soluble CD
+
+Proc Natl Acad Sci USA.
+
+;
+
+:
+
+–
+
+Juan TS, Kelley MJ, Johnson DA, Busse LA, Hailman E, Wright SD, Lichenstein HS. Soluble CD
+
+truncated at amino acid
+
+binds lipo- polysaccharide (LPS) and enables cellular response to LPS. J Biol Chem.
+
+;
+
+:
+
+–
+
+Kitchens RL, Thompson PA. Modulatory effects of
+
+D
+
+and LBP on LPS-host cell interactions. J Endotoxin Res.
+
+;
+
+:
+
+–
+
+Baldini M, Lohman IC, Halonen M, Erickson RP, Holt PG, Martinez FD. A Polymorphism* in the
+
+’ flanking region of the CD
+
+gene is associ- ated with circulating soluble CD
+
+levels and with total serum immuno- globulin E. Am J Respir Cell Mol Biol.
+
+;
+
+:
+
+–
+
+L
+
+an TD, Bloom JW, Bailey TJ, Karp CL, Halonen M, Martinez FD, Vercelli D. A common single nucleotide polymorphism in the CD
+
+promoter decreases the affinity of Sp protein binding and enhances tran- scriptional activity. J Immunol.
+
+;
+
+:
+
+–
+
+Fried LP, Borhani NO, Enright P, Furberg CD, Gardin JM, Kronmal RA, Kuller LH, Manolio TA, Mittelmark MB, Newman A. The Cardiovascular Health Study: design and rationale. Ann Epidemiol.
+
+;
+
+:
+
+–
+
+O’Leary DH, Polak JF, Wolfson SK Jr, Bond MG, Bommer W, Sheth S, Psaty BM, Sharrett AR, Manolio TA. Use of sonography to evaluate carotid atherosclerosis in the elderly. The Cardiovascular Health Study. CHS Collaborative Research Group. Stroke.
+
+;
+
+:
+
+–
+
+Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MA, Bender D, Maller J, Sklar P, de Bakker PI, Daly MJ, Sham PC. PLINK: a tool set for whole-genome association and population-based linkage analyses. Am J Hum Genet.
+
+;
+
+:
+
+–
+
+Lake SL, Lyon H, Tantisira K, Silverman EK, Weiss ST, Laird NM, Schaid DJ. Estimation and tests of haplotype-environment interaction when linkage phase is ambiguous. Hum Hered.
+
+;
+
+:
+
+–
+
+Design of the Women’s Health Initiative clinical trial and observational study. The Women’s Health Initiative Study Group. Control Clin Trials.
+
+;
+
+:
+
+–

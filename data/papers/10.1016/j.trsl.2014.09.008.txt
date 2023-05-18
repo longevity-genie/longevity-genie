@@ -1,0 +1,115 @@
+(SIRT1) Genetic variation in Sirtuin 1 is associated with lipid profiles but not with longevity in Ashkenazi
+
+JEEHAE HAN, GIL ATZMON, NIR BARZILAI, and YOUSIN SUH BRONX, NY; AND DONGGUAN, CHINA
+
+overexpression of which has been shown to extend lifespan and delay age-related phenotypes in model organisms. To investigate the role of SIRT1 in healthy aging in SIRT1 humans, we performed comprehensive resequencing analysis of to identify all possible variants in the exons, exon-intron junctions, and 3.1kb proximal promoter region in 16 centenarians and 16 controls of Ashkenazi Jewish (AJ) population. Gen- SIRT1 otyping analysis of 19 common SNPs discovered to have minor allele frequency greater than 5% was performed in 213 AJ centenarians and 169 AJ controls and showed that their allele and genotype frequencies were not significantly different be- tween centenarians and controls. Further association analysis of 5 tagSNPs (rs10997854, rs142194353, rs12778366, rs35706870, and rs932658) that capture all SIRT1 $ common SNP information across the gene region (r2 0.9) with lipid profile showed that 2 tagSNPs were significantly associated after multiple testing correc- P 5 P 5 tions; rs3758391 with large LDL ( 0.0365) and large HDL ( 0.0412) and P 5 P 5 rs142194353 with large HDL ( 0.0035) and HDL size ( 0.0033). Taken together, these results suggest that genetic variation in SIRT1 may contribute to healthy aging by affecting lipid profiles in humans but not to longevity. (Translational Research -
+
+Abbreviations: AJ ¼ Ashkenazi Jewish; AMPK ¼ AMP-activated protein kinase; BMI ¼ body mass index; FDR ¼ False Discovery Rate; HDL ¼ high-density lipoprotein; LDL ¼ low-density lipoprotein; NAD ¼ nicotinamide adenine dinucleotide; NMR ¼ nuclear magnetic resonance; PGC-1a ¼ PPARgcoactivator1a; PPARg¼peroxisomeproliferator-activatedreceptorgamma;SD¼ stan- dard deviation; SIRT1 ¼ Sirtuin 1; SNP ¼ single-nucleotide polymorphism; VLDL ¼ very low-density lipoprotein
+
+uman Sirtuin
+
+(SIRT
+
+) is a nicotinamide adenine dinucleotide dependent protein deace- tylase with homologs reported to extend lifespan in yeast, worms, fruit flies, and mice.
+
+In partic-
+
+ular, studies in mice have indicated that SIRT1 plays a key role in regulating metabolism and mitochondrial function in different tissues through targets that include peroxisome proliferator-activated receptor g, PPARg
+
+From the Department of Genetics, Albert Einstein College of Medicine, Bronx, NY; Department of Medicine, Albert Einstein College of Medicine, Bronx, NY; Institute of Aging Research, Guangdong Medical College, Dongguan, China. Submitted for publication July 21, 2014; revision submitted
+
+Reprint requests: Yousin Suh, Departments of Genetics and Medicine, Albert Einstein College of Medicine,
+
+Morris Park Avenue, Bronx, NY
+
+; e-mail: yousin.suh@einstein.yu.edu.
+
+-
+
+/$ - see front matter
+
+Elsevier Inc. All rights reserved.
+
+http://dx.doi.org/10.1016/j.trsl.2014.09.008
+
+Table I. Discovery, genotyping, and association analysis of SIRT1 gene region with longevity
+
+Control Centenarian Control Centenarian SNP ID Position* Region Maj.min MAF† MAF† MAF‡ MAF‡ P value‡ rs10997854 Chr10: 69641369 Upstream C.A 0.34 0.25 0.39 0.40 0.865 rs10997855 Chr10: 69641401 Upstream G.A 0.34 0.25 0.39 0.40 0.865 rs142194353 Chr10: 69641539 Upstream C.T 0.06 0.06 0.06 0.06 0.967 rs10823100 Chr10: 69641693 Upstream G.C 0.09 0.03 0.05 0.04 0.501 rs10997856 Chr10: 69641706 Upstream C.T 0.34 0.25 0.39 0.40 0.865 rs10823101 Chr10: 69641711 Upstream T.A 0.09 0.03 0.05 0.04 0.501 rs10997857 Chr10: 69641715 Upstream T.A 0.09 0.03 0.05 0.04 0.501 rs10823102 Chr10: 69641833 Upstream T.A 0.34 0.25 0.39 0.40 0.833 rs12250285 Chr10: 69641954 Upstream C.T 0.37 0.25 0.43 0.42 0.840 rs148743102 Chr10: 69642058 Upstream Ins T 0.09 0.09 0.10 0.12 0.527 Novel Chr10: 69642546 Upstream Ins T 0 0.03 n.a. n.a. n.a. rs10740280 Chr10: 69642668 Upstream T.A 0 0 n.a. n.a. n.a. Novel Chr10: 69642675 Upstream Del T 0.06 0 n.a. n.a. n.a. Novel Chr10: 69642766 Upstream C.T 0 0.06 n.a. n.a. n.a. rs12778366 Chr10: 69643079 Upstream T.C 0.16 0.13 0.15 0.15 0.960 rs3758391 Chr10: 69643342 Upstream T.C 0.34 0.25 0.39 0.40 0.905 Novel Chr10: 69643586 Upstream T.A 0 0.03 n.a. n.a. n.a. rs35706870 Chr10: 69643617 Upstream A.C 0.09 0.09 0.10 0.13 0.362 rs3740051 Chr10: 69643959 Upstream A.G 0.09 0.03 0.05 0.03 0.227 rs932658 Chr10: 69644217 Upstream A.C 0.34 0.25 0.42 0.46 0.561 rs3740053 Chr10: 69644335 Upstream A.G 0.09 0.03 0.05 0.03 0.406 rs2394443 Chr10: 69644341 Upstream G.C 0.41 0.25 0.45 0.42 0.739 Novel Chr10: 69647182 Exon 2 Del TCT 0 0.03 n.a. n.a. n.a. rs932657 Chr10: 69647332 Intron G.T 0.06 0 n.a. n.a. n.a. rs7896005 Chr10: 69651125 Intron A.G 0.37 0.25 0.38 0.39 0.909 rs36107781 Chr10: 69651319 Intron T.C 0.03 0 n.a. n.a. n.a. rs2273773 Chr10: 69666598 Exon 5 T.C 0.09 0.03 0.05 0.04 0.613 rs149313098 Chr10: 69672556 Exon 8 G.A 0.03 0 n.a. n.a. n.a. rs61666042§ Chr10: 69676547 3UTR Ins T 0.5 0.47 n.a. n.a. n.a. rs2394445§ Chr10: 69676560 3UTR T.A 0.13 0.13 n.a. n.a. n.a. rs35461348§ Chr10: 69676610 3UTR Del CTTT 0.37 0.28 n.a. n.a. n.a. rs752578 Chr10: 69677060 3UTR C.T 0 0 n.a. n.a. n.a. rs34934649 Chr10: 69677458 3UTR Del C 0.03 0 n.a. n.a. n.a. rs200236450 Chr10: 69677699 3UTR C.T 0.03 0 n.a. n.a. n.a. rs199731267 Chr10: 69677758 3UTR G.A 0.03 0 n.a. n.a. n.a. rs2234975 Chr10: 69678078 3UTR C.T 0.06 0.03 n.a. n.a. n.a.
+
+Abbreviations: AJ, Ashkenazi Jewish; MAF, minor allele frequency; SNP, single-nucleotide polymorphism; UTR, untranslated region. Bold underlined SNPs indicate common SNPs that have total MAF . 0.05 that were chosen for genotyping. n.a. indicates SNPs that were not
+
+Abbreviations: AJ, Ashkenazi Jewish; MAF, minor allele frequency; SNP, single-nucleotide polymorphism; UTR, untranslated region. Bold underlined SNPs indicate common SNPs that have total MAF . 0.05 that were chosen for genotyping. n.a. indicates SNPs genotyped and thus are nonapplicable. *Position is based on National Center for Biotechnology Information human genome build 37 coordinates. †MAF from sequencing analysis for SIRT1 gene region in 16 AJ centenarians and 16 AJ controls. ‡MAF and P value from genotyping and association analysis of SIRT1 in 213 AJ centenarians and 169 AJ controls. §These were not chosen for further genotyping because of the unclear sequence reads caused by multiple deletions in the
+
+coactivator 1a, and AMP-activated protein On the basis of these studies in model organisms, there has been much interest in determining the role of SIRT1 functions in healthy aging in humans. To date, polymor- SIRT1 phisms in have been associated with several disease-related phenotypes, including diabetes, body mass index, obesity, cholesterol metabolism, energy expenditure, glucose tolerance, and cardiovascular dis- ease.3
+
+with either longevity or lipid profiles in an Ashkenazi Jewish (AJ) population. We began by performing SIRT1 comprehensive resequencing analysis of to iden- tify variants in the exons, exon-intron junctions, and 3.1 kb proximal promoter region of 16 centenarians and 16 controls. A total of 36 sequence variants in the SIRT1 gene were identified, among which 5 had not been previously reported (Table I).
+
+We next selected 19 common single- nucleotide polymorphisms (SNPs) with total minor allele frequency greater than 0.05 in the initial 32
+
+To further investigate the role of SIRT1 in healthy ag- SIRT1 ing, we searched for polymorphisms associated
+
+slaudividnihsiweJizanekhsA382niselfiorpdipilhtiwsPNSgat1TRISfonoitaicossA.IIelbaT 856239sr07860753sr66387721sr353491241sr45879901srPNS *tsujdaPTTTGGG*tsujdaPCCACAA*tsujdaPCCCTTT*tsujdaPTTTCCC*tsujdaPCCACAAepytoneG 2307197126730375809201414392851591n 6180.04165.895.469.487.363.376180.02719.761.18364.976180.09.7265.296.665.491.369.576180.09.862.89365.775630.04169015.468.586.3627egraL )%(LDL 8302.04.465.04266.538.165.134550.04.085.266.235.16434131.08.5165.449.261.934.161.235300.01.461.643.162.232140.02.561.441.264.636.163.03egraL )%(LDH 3575.01.066.91.064.91.064.93575.01.011.064.9064.96443.02.066.91.065.9064.93300.01.068.9064.93575.01.066.91.064.91.064.9LDH )mn(ezis .msihpromylopeditoelcun-elgnis,PNS;loretselohcnietorpopilytisned-wol,C-LDL;loretselohcnietorpopilytisned-hgih,C-LDH:snoitaiverbbA ,)mn(ezisLDL,selcitrapLDL,)%(LDHllams,)%(LDHmuidem,)%(LDHegral,)%(LDLllams,)%(LDLmuidem,)%(LDLegral,)Ld/gm(C-LDL,)Ld/gm(C-LDH,)Ld/gm(sedirecylgirt,)Ld/gm(loretselohC .elbatsihtninwohsera)50.0,eulavtsujdaP(tnacfiingiserewtahtsretemarapehtylnotubPNShcaehtiwsisylananoitaicossarofderusaemerew)Ld/gm(nietorpopilytisned-wolyrev,)mn(ezisLDH .)50.0,P(snoitaicossatnacfiingissetacidnienilrednudloB
+
+individuals (indicated as bold in Table I) and genotyped them in 213 AJ centenarians and 169 AJ controls. A centenarian is defined as a healthy individual aged 95 years or older living independently, and a control is defined as an individual without a family history of un- usual longevity; parents of controls survived to the age SIRT1 of 85 years or less. The association analysis of with longevity was performed using SNP & Variation suite version 7.6.11 (Golden helix). Basic allelic test, genotypic test, additive model test, dominant model test, and recessive model test were performed and statis- tical differences among groups were assessed by the Fisher exact test. No association was found between SIRT1 SNPs and longevity (Table I).
+
+SIRT1 genotype and lipid profiles in the same 382 indi- viduals. Because 5 tagSNPs (rs10997854, rs142194353, rs12778366, rs35706870, and rs932658) could capture all the SNPs with minor allele frequency greater than 0.05 across the SIRT1 gene region (r2 $ 0.9), association analysis with lipid profiles was performed with those tagSNPs. The test was performed using the JMP geno- mics program (version 6; Cary, NC), and numeric vari- 6 ables were expressed as the mean standard deviation (SD) (Table II). To assess the effect of each genotype within the SNP and continuous variables of lipid param- eters, logistic regression with adjustment for age and gender for additivemodel was carried out. Theresults re- SIRT1 vealedthat 2 tagSNPs were associated with 3 lipid parameters (Table II). The C allele of rs10997854, which SIRT1 served as a tag for 8 SNPs across the gene region, showed association with large low-density lipoprotein (LDL) and large high-density lipoprotein (HDL) by an additive model after multiple testing correction P 5 P 5 ( 0.0365 and 0.0412, respectively). In addition, the CT genotype of rs142194353 showed association with large LDL and HDL size by an additive model after P 5 P 5 multiple testing correction ( 0.0035 and 0.0033, respectively). Other lipid parameters showed no signifi- cant correlation with these SIRT1 SNPs.
+
+slaudividnihsiweJizanekhsA382niselfiorpdipilhtiwsPNSgat1TRISfonoitaicossA.IIelbaT
+
+Taken together, our data suggest that common vari- SIRT1 ants in are associated with lipid profile but not longevity in this AJ cohort. Prior association studies SIRT1 examining the relationship between variants and longevity have been mixed, with only 3 of more than 9 independent studies detecting a significant link. SIRT1 This suggests that the role of common variants in human longevity is minor or population specific. SIRT1 Interestingly, our resequencing analysis of from 32 individuals identified 5 novel SNPs, which were rare in frequency (Table I). Four of these SNPs were only found in centenarians, suggesting a potential role of rare SIRT1 variant in longevity. Further studies will be required to address this possibility.
+
+This work was funded by National Institutes of Health (NIH) grant AG
+
+, AG
+
+, and AG
+
+All authors have read the journal’s authorship agree- ment.
+
+In our study, lipid profiles have been determined by nuclear magnetic resonance–based subfractioned lipo- protein particle size. It is now well recognized that the cholesterol values from LDL-cholesterol or HDL- cholesterol do not accurately reflect the number of circulating LDL or HDL particles or metabolic syn- drome risk associated with them.4 Our study is the first to report the positive associations of subfractioned lipo- protein particle sizes with SIRT1 variants, suggesting a role of SIRT1 in modulating risk of metabolic syndrome in the AJ population.
+
+We thank Dr Matt Kaeberlein of University of Wash- ington for the comments and editing of the manuscript.
+
+REFERENCES
+
+Giblin W, Skinner ME, Lombard DB. Sirtuins: guardians of mammalian healthspan. Trends Genet
+
+;
+
+:
+
+–
+
+Chang HC, Guarente L. SIRT
+
+and other sirtuins in metabolism. Trends Endocrinol Metab
+
+;
+
+:
+
+–
+
+Nogueiras R, Habegger KM, Chaudhary N, et al. Sirtuin
+
+and sir- tuin
+
+: physiological modulators of metabolism. Physiol Rev
+
+;
+
+:
+
+–
+
+Jeyarajah EJ, Cromwell WC, Otvos JD. Lipoprotein particle anal- ysis by nuclear magnetic resonance spectroscopy. Clin Lab Med
+
+;
+
+:
+
+–
+
+ACKNOWLEDGMENTS
+
+Conflicts of Interest: All authors have read the jour- nal’s policy on disclosure of potential conflicts of inter- est. Authors have no financial disclosures to make and no conflicts of interest to disclose.

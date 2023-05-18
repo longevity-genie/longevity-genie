@@ -1,0 +1,461 @@
+Metabolic gene polymorphisms and p53 mutations in healthy centenarians and younger controls
+
+L. GASPARI
+
+, P. PEDOTTI
+
+, M. BONAFE`
+
+, C. FRANCESCHI
+
+, D. MARINELLI
+
+, D. MARI
+
+, S. GARTE
+
+and E. TAIOLI
+
+*
+
+Genetic and Molecular Epidemiology Unit, IRCCS  Ospedale Policlinico di Milano, / Milan, Italy
+
+Department of Experimental Pathology, University of Bologna, Bologna, Italy
+
+Institute of Internal Medicine, University of Milan, Milan, Italy
+
+2 Department of Experimental Pathology, University of Bologna, Bologna, Italy 3 Institute of Internal Medicine, University of Milan, Milan, Italy 4 Genetics Research Institute, Strada della Carita` 10, 20135, Milan, Italy
+
+Received 21 May 2003, revised form accepted 25 September 2003
+
+To obtain insights into the genetic mechanisms of ageing, we studied the frequency of the simultaneous presence of polymorphisms in phase I and phase II genes and of several p53 germline mutations in a group of 66 nonagenarians and centenarians in good health, selected from a larger sample of a multicentre Italian study in Northern Italy, and in a sample of 150 young healthy volunteers of the same ethnic group. We found a statistically significant difference in the frequency of the GSTT1 deletion and the p53 genotypes: the absence of any p53 polymorphisms and of GSTT1 deletion, and the simultaneous presence of the three p53 polymorphisms and of GSTT1 deletion, were much more frequent in young subjects than in centenarians (41.5% versus 26.9% and 8.8% versus 3.8%, respectively). One hypothesis to explain this difference is that subjects with both GSTT1 deletion and p53 polymorphisms may accumulate carcinogens and may have reduced DNA repair ability, and thus are more at risk for cancer. Another possible explanation is that both metabolic genes and p53 act on pathways related to cell ageing and death, and therefore certain composite genetic patterns could represent a generic mechanism of protection against ageing, not just against the development of chronic diseases. It is likely that longevity is related to a complex genetic trait as well as to certain environmental exposures.
+
+Keywords: ageing, molecular epidemiology, chronic diseases.
+
+Introduction
+
+Centenarians who have managed to reach the extreme limit of human life in good health are the best example of successful ageing. It is possible that they were able to escape the major diseases associated with age as a result of optimal environmental conditions and good lifestyle habits combined with some genetically determined resistance against age-associated diseases (Johnson 1997). Recently a possible antagonism between living to an old age and getting cancer has been suggested (Leroi et al. 2003).
+
+Individual susceptibility to environmental carcinogens and toxicants is by genetic differences. Many enzymes are involved in the metabolism of and endogenous carcinogens. These enzymes are the products of two major families: phase 1 (such as the CYP family) and phase 2 (such as the GST, NAT EH families). Polymorphisms in these genes are very common in the
+
+*Corresponding author: Emanuela Taioli, Molecular and Genetic Epidemiology Unit, Padiglione Marangoni, Ospedale Policlinico IRCCS, Via F. Sforza 35, 20122 Milano, Italy. Tel: ((cid:2)39) 02 / 55034055; fax: ((cid:2)39) 02 55034055; e-mail: epidemiologia@policlinico.mi.it /
+
+Biomarkers ISSN 1354-750X print/ISSN 1366-5804 online # 2003 Taylor & Francis Ltd http://www.tandf.co.uk/journals DOI: 10.1080/13547500310001627519
+
+Metabolic gene polymorphisms and p53 mutations in healthy centenarians
+
+population (Garte et al. 2001) and are associated with various types of cancer (D’Errico et al. 1999). We have previously found a significant increase in homozygous deletion of the GSTT1 gene in Italian nonagenarians compared with young healthy subjects (Taioli et al. 2001).
+
+The homozygous CYP1A1 Msp1 restriction fragment length polymorphism (RFLP) has been found to affect levels of expression of the gene (Garte et al. 2003), and has been shown to be associated with lung cancer in Europeans (Vineis et al. 2003). The heterozygote polymorphism has not been found to have any phenotypic effect.
+
+p53 is a nuclear protein that plays a major role in tumour suppression via its involvement in multiple pathways, including apoptosis, cell cycle regulation and arrest, cellular transcriptional control and DNA repair. The p53 gene is located on chromosome 17p13, and is one of the most commonly mutated genes in different types of human cancer (Hollstein et al. 1991). Besides the known example of germline mutations as the basis of the rare, familial Li-Fraumeni syndrome (Law et al. 1991), other more common polymorphisms have been found in this gene: in codon 72 in exon 4, a G0C transversion leads to an arginine (Arg) to proline (Pro) / change (Miller et al. 2002); in intron 6 there is an Msp1 RFLP consisting of either six or eight variable bases (McDaniel et al. 1991), and a 16 bp duplication has been described in intron 3 (Lazar et al. 1993). These polymorphisms have been associated with lung cancer (Birgander et al. 1995, Biros et al. 2001), breast cancer (Sja¨lander et al. 1996, Wang-Gohrke et al. 2002), ovarian cancer (Wang- Gohrke et al. 1999) and bladder cancer (Biro et al. 2000). A previous study showed no differences in genotype frequency between healthy centenarians and controls (Bonafe` et al. 1999). Two studies on lung cancer looked at the combined effect of both p53 codon 72 polymorphism and GSTs polymorphisms. Both studies showed an increased risk of lung cancer when the combined genotypes were present (Liu et
+
+Recently it has been demonstrated that the two p53 variants at codon 72 are not functionally equivalent, either biochemically or biologically: they have different gene expression activities in inducing apoptosis and suppressing transfor- mation, with the p53Arg variant more efficient than the p53Pro (Thomas et al.
+
+The intronic polymorphisms p53 Msp1 and the p53 16 bp duplication are situated in a non-coding region of the gene and do not seem to be functionally involved in the carcinogenesis process, but they do show strong linkage disequili- bria with each other and with p53 codon 72 polymorphism (Sja¨lander et al. 1995); for this reason it is very useful to study the combined genotype distribution for these three polymorphisms when analysing differences between groups, or associations with any type of endpoint.
+
+We studied the frequency of the simultaneous presence of polymorphisms in phase I and phase II genes, and of three p53 germline mutations, in a group of nonagenarians and a group of healthy young controls, to order to obtain insights into the genetic mechanisms of ageing.
+
+Materials and methods
+
+The study population comprised 66 nonagenarians and centenarians in good health, described in detail elsewhere (Franceschi et al. 2000), selected from a larger sample of a multicentre Italian study in Northern Italy on mechanisms responsible for successful ageing. The mean (9SD) age of the group was / 100.192.2 years (range 95(cid:1)105 years); 77% were females and 23% were males. / /
+
+A sample of 150 young healthy volunteers of the same ethnic group as the centenarians were recruited in Northern Italy and used as a reference group. The mean (9SD) age of the control group was 42.59 / / 12.4 years (range 20(cid:1)65 years). Since the majority of the centenarians were females, we used a / population of female as controls.
+
+Genotypinganalysis
+
+Genomic DNA was extracted from peripheral blood lymphocytes and genotyping analyses were performed on all the subjects.
+
+GSTM1 and GSTT1 genotypes were determined in a multiplex polymerase chain reaction (PCR) analysis using primer pairs specific for GSTM1 (5?-GAACTCCCTGAAAAGCTAAAGC-3? and 5?- GTTGGGCTCAAATAT ACGTGG-3?) and GSTT1 (5?-TTCCTTACTGGTCCTCACATCTC-3? and 5?-TCACCGGATCATGGCCAGCA-3?) together with a b-globin specific primer pair (5?- CAACTTCATCCACGTTCACC-3? and 5?-GAAGAGCCAAGGACAGGTAC-3?). After an initial step of denaturation, 35 cycles were performed with denaturation at 948C for 1 min, annealing at 648C for 1 min, and extension at 728C for 1 min. Briefly, the absence (deleted) or presence of the GSTM1- and GSTT1-specific PCR products determined the respective genotypes, whereas the b-globin
+
+CYP1A1 Msp1 (CYP1A1*2) genotyping analyses were performed using PCR as previously described (Taioli et al. 1995) using the following primers: 5?-TTAGGAGTCTTGTCTCATGCCT-3? and 5?- CAGTGAAGAGGTGTAGCCGCT-3?.
+
+The term ‘wild type’ refers to homozygotes for the common allele (absence of the Msp1 restriction site) and ‘heterozygotes’ refers to the presence of the polymorphism on one allele; when the polymorphism is present on both the alleles we used the term ‘homozygotes’.
+
+p53 polymorphisms were determined using the method of Sja¨lander et al. (1995). A set of primers, 5?-GCAGAGACCTGTGGGAAGCGA-3? and 5?-ACCGTAGCTGCCCTGGTAGGT-3?, was used to analyse p53 codon 72 and p53 16 bp duplication polymorphisms: 33(cid:1)35 cycles of amplification were / performed with denaturation at 948C for 1 min, annealing at 658C for 1 min 30 sec and extension at 728C for 1.30 min. A fragment of 401 bp, or 417 bp if the 16 bp duplication is present, was amplified. To visualize the codon 72 polymorphism, 15 ml of PCR product was then digested with 8 U of BstU restriction enzyme and separated on 3% agarose gel stained with ethidium bromide. Two other primers, 5?-TATGAGCCGCCTGAGGTCTGG-3? and 5?-TACAGGCA TGAGCCACTGCGC-3? were used to study the Msp1 polymorphism; amplification conditions were similar to those previously described for the other p53 polymorphisms, with an annealing temperature of 688C for 1 min. PCR products were digested with 10 U of Msp1 and run on agarose gel.
+
+The term ‘wild type’ refers to homozygotes for the common allele (presence of the BstU or Msp1 restriction site, and absence of the 16 bp duplication), ‘heterozygotes’ refers to the presence of the polymorphism on one allele, and ‘homozygotes’ referes to the presence of the polymorphism on both alleles.
+
+Statisticalanalysis
+
+Gene polymorphism frequencies are presented separately for centenarians and controls. Differences among gene frequencies were estimated using the x2 test or, when necessary, with the Monte Carlo simulation (Roff and Bentzen 1989). Values of p 50.05 were considered to be significant. / Analysis of the data was performed using SAS 8.2 software system.
+
+We estimated the genotype frequencies of several genes involved in xenobiotic metabolism (GSTM1, GSTT1 and CYP1A1*2) and of various p53 polymorphisms (codon 72, Msp1 and a 16 bp duplication) for more than 95% of the study population (Table 1). No statistically significant differences in the genotype frequencies were found between the two groups analysed; GSTT1 deletion was
+
+1. Frequencies of gene polymorphisms in centenarians and controls.
+
+Centenarians (n(cid:4)66) Controls (n(cid:4)150) / / Gene polymorphism n % n % p value p53 Msp1 Wild type (G/G) 42 63.6 101 67.8 Heterozygous (G/A) 23 34.9 44 29.5 Homozygous (A/A) 1 1.5 4 2.7 0.65 p53 codon 72 Wild type (G/G) 33 50.0 81 54.3 Heterozygous (G/C) 28 42.4 57 38.3 Homozygous (C/C) 5 7.6 11 7.4 0.85 p53 16 bp duplication Wild type 34 60.7 98 65.8 Heterozygous 21 37.5 46 30.8 Homozygous 1 1.8 5 3.4 0.59 CYP1A1*2 Wild type (T/T) 46 73.0 124 82.7 Heterozygous (T/C) 16 25.4 23 15.3 Homozygous (C/C) 1 1.6 3 2.0 0.19 GSTM1 Present 27 43.6 70 47.0 Deleted 35 56.4 79 53.0 0.54 GSTT1 Present 45 72.6 119 79.9 Deleted 17 27.4 30 20.1 0.20
+
+difference did not reach statistical significance. In order to evaluate a possible interaction between GSTT1 deletion and p53 gene polymorphisms, we calculated the combined genotype frequencies in the two groups (Table 2). We found a statistically significant difference in the frequency of the GSTT1 deletion and certain p53 genotypes: the absence of any p53 polymorphisms and of GSTT1 deletion, and the simultaneous presence of the three p53 polymorphisms and of the GSTT1 deletion, were much more frequent in young subjects than in centenarians (41.5% versus 26.9% and 8.8% versus 3.8%, respectively). Combinations of p53 genotypes and GSTM1 or CYP1A1*2 were not differently distributed in the two groups (data not shown). The absence of any p53 polymorphisms and of both GSTT1 and GSTM1 deletion was 22.5% in controls and 13.5% in centenarians, while simultaneous presence of the three p53 polymorphisms and of the double deletion of both GSTT1 and GSTM1 was 4.8% in controls and was not found in centenarians (x2 (cid:4)26.8, p(cid:4)0.04). / /
+
+We studied the frequency of several gene polymorphisms in a population of in order to understand the mechanisms of ageing.
+
+2. Combined genotype frequencies in centenarians and healthy controls.
+
+Centenarians Controls (n(cid:4)66) (n(cid:4)150) / / p53 P53 16 bp p53 Msp1 codon 72 duplication GSTT1 n % n % G/G G/G Wild type Present 14 26.9 61 41.5 G/G G/G Wild type Deleted 8 15.4 14 9.5 G/G G/G Polymorphic Present 2 3.8 3 2.0 G/G G/G Polymorphic Deleted 1 1.9 1 0.7 G/G G/C(cid:2)C/C Wild type Present 4 7.7 19 12.9 / G/G G/C(cid:2)C/C Wild type Deleted 4 7.7 1 0.7 / G/A(cid:2)A/A G/G Wild type Present 0 0.0 0 0.0 / G/A(cid:2)A/A G/G Wild type Deleted 0 0.0 0 0.0 / G/A(cid:2)A/A G/C(cid:2)C/C Wild type Present 2 3.8 0 0.0 / / G/A(cid:2)A/A G/C(cid:2)C/C Wild type Deleted 0 0.0 1 0.7 / / G/A(cid:2)A/A G/G Polymorphic Present 0 0.0 0 0.0 / G/A(cid:2)A/A G/G Polymorphic Deleted 0 0.0 0 0.0 / G/G G/C(cid:2)C/C Polymorphic Present 0 0.0 0 0.0 / G/G G/C(cid:2)C/C Polymorphic Deleted 0 0.0 0 0.0 / G/A(cid:2)A/A G/C(cid:2)C/C Polymorphic Present 15 28.8 34 23.1 / / G/A(cid:2)A/A G/C(cid:2)C/C Polymorphic Deleted 2 3.8 13 8.8 / /
+
+The main finding of this study was the presence of a significantly lower of certain combined genotypes in centenarians, such as GSTT1 deletion/ 16 bp duplication, and GSTT1 deletion/p53 Msp1 polymorphism. A possible for these findings is that loss of function in GSTT1 allows the of a large amount of activated carcinogens, which are known to several types of DNA damage such as DNA adducts. In addition, in p53 are known to affect DNA repair and genome stability et al. 2000). Subjects with both GSTT1 deletion and p53 polymorphisms therefore have greater exposure to carcinogens and reduced DNA repair and thus are at increased risk for cancer. This mechanism could also explain the pattern of deletion of the two phase II genes GSTM1 and GSTT1 together p53 polymorphisms was very rare, or even absent, in our population of The deletion of two glutathione transferases would amplify the effect described above. Case(cid:1)control studies have shown an increased / of lung cancer associated with the GSTs1 and p53 double variants (Liu et al. Miller et al. 2002). It is possible that the effect of the combined genotypes is than the sum of the independent effects, even though the genes are not on same biological pathways; multiple variants may interact in a unique way and a biological effect for which individual variants may have poor predictive (Kinzler and Vogelstein 1997).
+
+No data was available on the past environmental exposure in this population; however, it is likely that environmental conditions were very different at the beginning of the century, when this population was young and active, than nowadays. Our study included a large number of female centenarians, whose reproductive life included more children than younger females, and this could be a contributing factor to longevity.
+
+Metabolic gene polymorphisms and p53 mutations in healthy centenarians
+
+Another possible explanation for our findings is that both metabolic genes and p53 act on pathways related to cell ageing and death. It is known that p53 acts on apoptosis and cell senescence. It is possible that the accumulation of oxidative processes, such as those found in the presence of deletion of the GSTs genes, could increase the mechanisms of cell senescence and death associated with p53 polymorphisms. In this case, certain composite genetic patterns would represent a generic mechanism of protection against ageing, not just against the development of chronic diseases. Since cancer is not the only disease responsible for a short survival, it is possible that the genes included in our study could also be relevant to
+
+One aspect that needs to be underlined is that our study indicates that combinations of polymorphisms in several different classes of genes need to be studied when looking at the processes of carcinogenesis or ageing. The pathways we explored by looking at some candidate genes are probably very complex and involve several other gene families. Large samples of healthy centenarians are needed in order to study multiple pathways and several gene polymorphisms at once. In conclusion, it is likely that longevity is related to a very complex genetic trait as well as to certain environmental exposures.
+
+References
+
+SEIDEGARD, J., TORNLING, G., BECKMAN, G. and BECKMAN, L.
+
+, p
+
+polymorphisms and haplotypes in lung cancer. Carcinogenesis,
+
+,
+
+(cid:
+
+)
+
+/ BIRO, E., KALINA, I., SALAGOVIC, J., HABALOVA, V., HRIVAK, M. and VALANSKY, L.
+
+, p
+
+single nucleotide polymorphisms and bladder cancer. Neoplasma,
+
+,
+
+(cid:
+
+)
+
+/ BIROS, E., KALINA, I., KOHUT, A., STUBNA, J. and SALAGOVIC, J.
+
+, Germ line polymorphisms of the tumor suppressor gene p
+
+and lung cancer. Lung Cancer,
+
+,
+
+(cid:
+
+)
+
+/ BONAFE`, M., OLIVIERI, F., MARIV, D., BAGGIO, G., MATTACE, R., SANSONI, P., DE BENEDICTIS, G., DE LUCA, M., BERTOLINI, S., BARBI, C., MONTI, D. and FRANCESCHI, C.
+
+, p
+
+variants predisposing to cancer are present in healthy centenarians. American Journal of Human Genetics,
+
+,
+
+(cid:
+
+)
+
+/ D’ERRICO, A., MALATS, N., VINEIS, P. and BOFFETTA, P.
+
+, Review of studies of selected metabolic polymorphisms and cancer. IARC Scientific Publications,
+
+,
+
+(cid:
+
+)
+
+/ FRANCESCHI, C., MOTTA, L., VALENSIN, S., RAPISARDA, R., FRANZONE, A., BERARDELLI, M., MOTTA, M., BONAFE`, M., FERRUCCI, L., DEIANA, L., PES, G., CARRU, C., DESOLE, S., BARBI, C., GEMELLI, C., LESCAI, F., OLIVIERI, F., MARCHEGIANI, F., CARDELLI, M., CAVALLONE, L., GUERESI, P., COSSARIZZA, A., TROIANO, L., PINI, G., SANSONI, P., PASSERI, G., LISA, R., SPAZZAFUMOO, L., AMADIO, L., GIUNTA, S., STECCONI, R., MORRESI, R., VITICCHI, C., MATTACE, R., DE BENEDICTIS, G., BAGGIO, G. and THE ITALIAN MULTICENTER STUDY ON CENTENARIANS (IMUSE).
+
+, Do men and women follow different trajectories to reach longevity? Aging (Milano),
+
+,
+
+(cid:
+
+)
+
+/ GARTE, S., GANGULY, S. and TAIOLI, E.
+
+, Effect of genotype on steady-state CYP
+
+A
+
+gene expression in human peripheral lymphocytes. Biochemical Pharmacology,
+
+,
+
+(cid:
+
+)
+
+/ GARTE, S., GASPARI, L., ALEXANDRIE, A. K., AMBROSONE, C., AUTRUP, H., AUTRUP, J. L., BARANOVA, H., BATHUM, L., BENHAMOU, S., BOFFETTA, P., BOUCHARDY, C., BRESKVAR, K., BROCKMOL- LER, J., CASCORBI, I., CLAPPER, M. L., COUTELLE, C., DALY, A., DELL’OMO, M., DOLZAN, V., DRESLER, C. M., FRYER, A., HAUGEN, A., HEIN, D. W., HILDESHEIM, A., HIRVONEN, A., HSIEH, L. L., INGELMAN-SUNDBERG, M., KALINA, I., KANG, D., KIHARA, M., KIYOHARA, C., KREMERS, P., LAZARUS, P., LE MARCHAND, L., LECHNER, M. C., VAN LIESHOUT, E. M., LONDON, S., MANNI, J. J., MAUGARD, C. M., MORITA, S., NAZAR-STEWART, V., NODA, K., ODA, Y., PARL, F. F., PASTORELLI, R., PERSSON, I., PETERS, W. H., RANNUG, A., REBBECK, T., RISCH, A., ROELANDT, L., ROMKES, M., RYBERG, D., SALAGOVIC, J., SCHOKET, B., SEIDEGARD, J., SHIELDS, P. G., SIM, E., SINNET, D., STRANGE, R. C., STUCKER, I., SUGIMURA, H., TO-FIGUERAS, J., VINEIS, P., YU, M. C. and TAIOLI, E.
+
+, Metabolic gene polymorphism frequencies in control populations. Cancer Epidemiology, Biomarkers and Prevention,
+
+,
+
+(cid:
+
+)
+
+/
+
+C., MOTTA, L., VALENSIN, S., RAPISARDA, R., FRANZONE, A., BERARDELLI, M., M., BONAFE`, M., FERRUCCI, L., DEIANA, L., PES, G., CARRU, C., DESOLE, S., BARBI, GEMELLI, C., LESCAI, F., OLIVIERI, F., MARCHEGIANI, F., CARDELLI, M., CAVALLONE, GUERESI, P., COSSARIZZA, A., TROIANO, L., PINI, G., SANSONI, P., PASSERI, G., LISA, SPAZZAFUMOO, L., AMADIO, L., GIUNTA, S., STECCONI, R., MORRESI, R., VITICCHI, MATTACE, R., DE BENEDICTIS, G., BAGGIO, G. and THE ITALIAN MULTICENTER STUDY CENTENARIANS (IMUSE). 2000, Do men and women follow different trajectories to
+
+expression in human peripheral lymphocytes. Biochemical Pharmacology, 65, 441(cid:1)445. / S., GASPARI, L., ALEXANDRIE, A. K., AMBROSONE, C., AUTRUP, H., AUTRUP, J. L., BARANOVA, H., BATHUM, L., BENHAMOU, S., BOFFETTA, P., BOUCHARDY, C., BRESKVAR, K., BROCKMOL- LER, J., CASCORBI, I., CLAPPER, M. L., COUTELLE, C., DALY, A., DELL’OMO, M., DOLZAN, V., DRESLER, C. M., FRYER, A., HAUGEN, A., HEIN, D. W., HILDESHEIM, A., HIRVONEN, A., HSIEH, L. L., INGELMAN-SUNDBERG, M., KALINA, I., KANG, D., KIHARA, M., KIYOHARA, C., KREMERS, P., LAZARUS, P., LE MARCHAND, L., LECHNER, M. C., VAN LIESHOUT, E. M., LONDON, S., MANNI, J. J., MAUGARD, C. M., MORITA, S., NAZAR-STEWART, V., NODA, K., ODA, Y., PARL, F. F., PASTORELLI, R., PERSSON, I., PETERS, W. H., RANNUG, A., REBBECK, T., RISCH, A., ROELANDT, L., ROMKES, M., RYBERG, D., SALAGOVIC, J., SCHOKET, B., SEIDEGARD, J., SHIELDS, P. G., SIM, E., SINNET, D., STRANGE, R. C., STUCKER, I., SUGIMURA, H., TO-FIGUERAS, J., VINEIS, P., YU, M. C. and TAIOLI, E. 2001, Metabolic gene polymorphism frequencies in control populations. Cancer Epidemiology, Biomarkers and Prevention, 10, 1239(cid:1)1248. /
+
+cancers. Science,
+
+,
+
+(cid:
+
+)
+
+/ JOHNSON, T. E.
+
+, Genetic influences on aging. Experimental Gerontology,
+
+,
+
+(cid:
+
+) /
+
+KINZLER, K. W. and VOGELSTEIN, B.
+
+, Cancer-susceptibility genes. Gatekeepers and caretakers. Nature,
+
+,
+
+(cid:
+
+)
+
+/ LAW, J. C., STRONG, L. C., CHIDAMBARAM, A. and FERRELL, R. E.
+
+, Germ line mutation in exon
+
+of the p
+
+gene in an extended cancer family. Cancer Research,
+
+,
+
+(cid:
+
+)
+
+/ LAZAR, V., HAZARD, F., BERTIN, F., JANIN, N., BELLET, D. and BRESSAC, B.
+
+, Simple sequence repeat polymorphism within the p
+
+gene. Oncogene,
+
+,
+
+(cid:
+
+)
+
+/ LEROI, A. M., KOUFOPANOU, V. and BURT, A.
+
+, Cancer selection. Nature Reviews, Cancer,
+
+,
+
+(cid:
+
+) /
+
+LIU, G., MILLER, D. P., ZHOU, W., THURSTON, S. W., FAN, R., XU, L. L., LYNCH, T. J., WAIN, J. C., SU, L. and CHRISTIANI, D.
+
+, Differential association of the codon
+
+p
+
+and GSTM
+
+polymorphisms on histological subtype of non-small cell lung carcinoma. Cancer Research,
+
+,
+
+(cid:
+
+)
+
+/ MCDANIEL, T., CARBONE, D., TAKAHASHI, T., CHUMAKOV, P., CHANG, E. H., PIROLLO, K. F., YIN, J., HUANG, Y. and MELTZER, S. J.
+
+, The Msp
+
+polymorphism in intron
+
+of p
+
+(TP
+
+) detected by digestion of PCR products. Nucleic Acids Research,
+
+,
+
+MILLER, D. P., LIU, G., DE VIVO, I., LYNCH, T. J., WAIN, J. C., SU, L. and CHRISTIANI, D.
+
+, Combinations of the variant genotypes of GSTP
+
+, GSTM
+
+, and p
+
+are associated with an increased lung cancer risk. Cancer Research,
+
+,
+
+(cid:
+
+)
+
+/ ROFF, D. A. and BENTZEN, P.
+
+, The statistical analysis of mitochondrial DNA polymorphisms: chi square and the problem of small samples. Molecular Biology and Evolution,
+
+,
+
+(cid:
+
+)
+
+/ SJA¨LANDER, A., BIRGANDER, R., KIVELA¨, A. and BECKMAN, G.
+
+, p
+
+polymorphisms and haplotypes in different ethnic groups. Human Heredity,
+
+,
+
+(cid:
+
+)
+
+/ SJA¨LANDER, A., BIRGANDER, R., HALLMANS, G., CAJANDER, S., LENNER, P., ATHLIN, L., BECKMAN, G. and BECKMAN, L.
+
+, p
+
+polymorphisms and haplotypes in breast cancer. Carcinogenesis,
+
+,
+
+(cid:
+
+)
+
+/ TAIOLI, E., TRACHMAN, J., CHEN, X., TONIOLO, P. and GARTE, S. J.
+
+, A CYP
+
+A
+
+restriction fragment length polymorphism is associated with breast cancer in African(cid:
+
+)American women. / Cancer Research,
+
+,
+
+(cid:
+
+)
+
+/ TAIOLI, E., MARI, D., FRANCESCHI, C., BONAFE`, M., MONTI, D., BERTOLINI, S., MARINELLI, D. and GARTE, S.
+
+, Polymorphisms of drug-metabolizing enzymes in healthy nonagenarians and centenarians: difference at GSTT
+
+locus. Biochemical and Biophysical Research Communications,
+
+,
+
+(cid:
+
+)
+
+/ THOMAS, M., KALITA, A., LABRECQUE, S., PIM, D., BANKS, L. and MATLASHEWSKI, G.
+
+, Two polymorphic variants of wild-type p
+
+differ biochemically and biologically. Molecular and Cellular Biology,
+
+,
+
+(cid:
+
+)
+
+/ VINEIS, P., VEGLIA, F., BENHAMOU, S., BUTKIEWICZ, D., CASCORBI, I., CLAPPER, M. L., DOLZAN, V., HAUGEN, A., HIRVONEN, A., INGELMAN-SUNDBERG, M., KIHARA, M., KIYOHARA, C., KREMERS, P., LE MARCHAND, L., OHSHIMA, S., PASTORELLI, R., RANNUG, A., ROMKES, M., SCHOKET, B., SHIELDS, P., STRANGE, R. C., STUCKER, I., SUGIMURA, H., GARTE, S., GASPARI, L. and TAIOLI, E.
+
+, CYP
+
+A
+
+T
+
+C polymorphism and lung cancer: a pooled analysis of
+
+cases and
+
+controls. International Journal of Cancer,
+
+,
+
+(cid:
+
+)
+
+/ WANG-GOHRKE, S., WEIKEL, W., RISCH, H., VESPRINI, D., ABRAHAMSON, J., LERMAN, C., GODWIN, A., MOSLEHI, R., OLIPADE, O., BRUNET, J. S., STICKELER, E., KREIENBERG, R., WEBER, B., NAROD, S. A. and RUNNEBAUM, I. B
+
+, Intron variants of the p
+
+gene are associated with increased risk for ovarian cancer but not in carriers of BRCA
+
+or BRCA
+
+germline mutations. British Journal of Cancer,
+
+,
+
+(cid:
+
+)
+
+/ WANG-GOHRKE, S., BECHER, H., KREIENBERG, R., RUNNEBAUM, I. B. and CHANG-CLOUDE, J.
+
+, Intron
+
+bp duplication polymorphism of p
+
+is associated with an increase risk for breast cancer by the age of
+
+years. Pharmacogenetics,
+
+,
+
+(cid:
+
+)
+
+/ WANI, M. A., ZHU, Q., EL-MAHDY, M., VENKATACHALAM, S. and WANI, A. A.
+
+, Enhanced sensitivity to anti-benzo(a)pyrene-diol-epoxide DNA damage correlates with decreased global genomic repair attributable to abrogated p
+
+function in human cells. Cancer Research,
+
+,
+
+(cid:
+
+) /
+
+JOHNSON, T. E. 1997, Genetic influences on aging. Experimental Gerontology, 32, 11(cid:1) /22. KINZLER, K. W. and VOGELSTEIN, B. 1997, Cancer-susceptibility genes. Gatekeepers and
+
+LAW, J. C., STRONG, L. C., CHIDAMBARAM, A. and FERRELL, R. E. 1991, Germ line mutation in exon 5 of the p53 gene in an extended cancer family. Cancer Research, 51, 6385(cid:1)6387. / LAZAR, V., HAZARD, F., BERTIN, F., JANIN, N., BELLET, D. and BRESSAC, B. 1993, Simple sequence repeat polymorphism within the p53 gene. Oncogene, 8, 1703(cid:1)1705. / LEROI, A. M., KOUFOPANOU, V. and BURT, A. 2003, Cancer selection. Nature Reviews, Cancer, 3, 226(cid:1) /
+
+P., VEGLIA, F., BENHAMOU, S., BUTKIEWICZ, D., CASCORBI, I., CLAPPER, M. L., DOLZAN, V., HAUGEN, A., HIRVONEN, A., INGELMAN-SUNDBERG, M., KIHARA, M., KIYOHARA, C., KREMERS, P., LE MARCHAND, L., OHSHIMA, S., PASTORELLI, R., RANNUG, A., ROMKES, M., SCHOKET, B., SHIELDS, P., STRANGE, R. C., STUCKER, I., SUGIMURA, H., GARTE, S., GASPARI, L. and TAIOLI, E. 2003, CYP1A1 T3801 C polymorphism and lung cancer: a pooled analysis of 2451 cases and /
+
+M. A., ZHU, Q., EL-MAHDY, M., VENKATACHALAM, S. and WANI, A. A. 2000, Enhanced sensitivity to anti-benzo(a)pyrene-diol-epoxide DNA damage correlates with decreased global genomic repair attributable to abrogated p53 function in human cells. Cancer Research, 60, 2273(cid:1) /

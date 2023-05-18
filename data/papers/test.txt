@@ -1,0 +1,2533 @@
+Distributed System Executions
+
+Distributed systems pose unique challenges for software developers. Understanding the system’s commu- nication topology and reasoning about concurrent activities of system hosts can be difficult. The standard approach, analyzing system logs, can be a tedious and complex process that involves reconstructing a system log from multiple hosts’ logs, reconciling timestamps among hosts with non-synchronized clocks, and un- derstanding what took place during the execution encoded by the log. This article presents a novel approach for tackling three tasks frequently performed during analysis of distributed system executions: (1) under- standing the relative ordering of events, (2) searching for specific patterns of interaction between hosts, and (3) identifying structural similarities and differences between pairs of executions. Our approach consists of XVector, which instruments distributed systems to capture partial ordering information that encodes the happens-before relation between events, and ShiViz, which processes the resulting logs and presents dis- tributed system executions as interactive time-space diagrams. Two user studies with a total of 109 students and a case study with 2 developers showed that our method was effective, helping participants answer sta- tistically significantly more system-comprehension questions correctly, with a very large effect size.
+
+Additional Key Words and Phrases: Distributed systems, program comprehension, log
+
+Ivan Beschastnikh, Perry Liu, Albert Xing, Patty Wang, Yuriy Brun, and Michael D. Ernst. 2020. Visualizing Distributed System Executions. ACM Trans. Softw. Eng. Methodol. 29, 2, Article 9 (March 2020), 38 pages. https://doi.org/10.1145/3375633
+
+We acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC) through the Discovery grant, funding reference numbers 2014-04870 and 2019-05090. Authors Perry Liu, Albert Xing, and Patty Wang contributed to the project while sponsored by the NSERC USRA program. This material is based upon work supported by the United States Air Force under contract nos. FA8750-12-2-0107 and FA8750-15-C-0010, and by the National Science
+
+contributed to the project while sponsored by the NSERC USRA program. This material is based upon work supported by the United States Air Force under contract nos. FA8750-12-2-0107 and FA8750-15-C-0010, and by the National Science Foundation under grant nos. CCF-1453474 and CCF-1763423. Authors’ addresses: I. Beschastnikh, P. Liu, A. Xing, and P. Wang, University of British Columbia, 201-2366 Main Mall, Vancouver, BC, V6T 1Z4, Canada; emails: bestchai@cs.ubc.ca, {perry, albert.xing}@alumni.ubc.ca, patty.pcw@gmail.com; Y. Brun,University ofMassachusetts Amherst, 140Governors Drive, Amherst, MA, 01003-9264;email:brun@cs.umass.edu; M. D. Ernst, University of Washington, 185 Stevens Way, Seattle, WA, 98195-2350; email: mernst@cs.washington.edu. Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org. © 2020 Copyright held by the owner/author(s). Publication rights licensed to ACM. 1049-331X/2020/03-ART9 $15.00
+
+Authors’ addresses: I. Beschastnikh, P. Liu, A. Xing, and P. Wang, University of British Columbia, 201-2366 Main Mall, Vancouver, BC, V6T 1Z4, Canada; emails: bestchai@cs.ubc.ca, {perry, albert.xing}@alumni.ubc.ca, patty.pcw@gmail.com; Y. Brun,University ofMassachusetts Amherst, 140Governors Drive, Amherst, MA, 01003-9264;email:brun@cs.umass.edu;
+
+https://doi.org/10.1145/3375633
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+INTRODUCTION
+
+Understanding and debugging distributed systems is challenging. Given two events at different hosts, it is not obvious whether one of them is causally dependent on the other, even if each of the events has a timestamp. Distributed systems are prone to failure and are designed to be resilient to it: messages may be dropped, new hosts may join, and existing hosts may leave or fail without notice. Pausing or stepping through a distributed execution is generally impossible. Today, one standard strategy that developers use to diagnose software bugs and reason about program exe- cution is logging [20, 40, 88, 123, 124]. Prior work has observed that logs play an important role in resolving cloud-based system outages [50, 51, 122], access-denied issues [120], and configuration issues [121], among other tasks [85]. A typical way that logging is used in distributed systems is by logging system behavior to generate a log for each host (e.g., using printf statements or logging libraries such as Log4J). The developers then analyze the global sequence of events across different hosts by serializing the logs from multiple hosts using timestamps in the logs. However, serializing a distributed system to a total order is misleading—even if the clocks are perfectly synchronized, a total order hides the fact that events may have occurred concurrently, independently of one another.
+
+Three important tasks that developers perform while testing or diagnosing distributed systems
+
+Understanding the relative ordering of events. Given two events at different hosts, is one potentially causally dependent on the other? (If not, then their relative order is an ac
+
+cident of timing—such as scheduling or speed of message delivery—that could be reversed without any effect on the rest of the execution.) When do hosts communicate with one an
+
+other? What is the minimal set of events that may be responsible for a particular outcome?  Querying for interaction patterns between hosts. The distributed system is designed to perform certain patterns of interaction. When do these occur? When do they begin to occur but are interrupted and fail to complete? What patterns exist that may not be documented or may be an emergent property of the system as a whole?  Identifying structural similarities and differences between pairs of executions. Given a reference implementation and a buggy implementation, how and when does their behavior differ? Given a single system, characterize the differences between faulty and non
+
+faulty executions. How does the system react to differing environments, such as hardware failure? What are the runtime differences between two algorithms designed to serve the same purpose?
+
+Understanding the relative ordering of events. Given two events at different hosts, is one potentially causally dependent on the other? (If not, then their relative order is an ac- cident of timing—such as scheduling or speed of message delivery—that could be reversed without any effect on the rest of the execution.) When do hosts communicate with one an- other? What is the minimal set of events that may be responsible for a particular outcome? Querying for interaction patterns between hosts. The distributed system is designed to perform certain patterns of interaction. When do these occur? When do they begin to occur but are interrupted and fail to complete? What patterns exist that may not be documented or may be an emergent property of the system as a whole?
+
+Identifying structural similarities and differences between pairs of executions. Given a reference implementation and a buggy implementation, how and when does their behavior differ? Given a single system, characterize the differences between faulty and non- faulty executions. How does the system react to differing environments, such as hardware failure? What are the runtime differences between two algorithms designed to serve the
+
+We have developed a novel method for logging and analyzing distributed systems to address these challenges of understanding, querying, and comparing distributed system executions. Our method consists of two parts, ShiViz and XVector. ShiViz visualizes a distributed system execu- tion as a time-space diagram [66] that explicitly represents the happens-before relation between events (for examples, see Figures 1 and 2). ShiViz contains features to support the following system
+
+ Event ordering. The ShiViz time-space diagram explicitly but compactly represents the relative ordering of events across hosts in the system, capturing concurrency among events. The visualization also links the time-space diagram to the corresponding textual entries in the log. ShiViz enables the developer to simplify the graph by transforming it to elide information that is not relevant to their current task.  Interaction patterns. ShiViz allows developers to construct event sub-graphs and search for them in the time-space diagram. These sub-graphs may include constraints on host identifiers and event meta-data.
+
+Event ordering. The Sh
+
+iz time-space diagram explicitly but compactly represents relative ordering of events across hosts in the system, capturing concurrency among The visualization also links the time-space diagram to the corresponding textual in the log. Sh
+
+iz enables the developer to simplify the graph by transforming it to information that is not relevant to their current task.  Interaction patterns. Sh
+
+iz allows developers to construct event sub-graphs and for them in the time-space diagram. These sub-graphs may include constraints on identifiers and event meta-data.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+ Multiple execution comparison. ShiViz can present two execution graphs side-by-side to help developers compare these executions. ShiViz includes algorithms to highlight dif- ferences between pairs of executions and supports the clustering of executions based on features.
+
+ShiViz requires the distributed system to generate a particular kind of log, which captures con- currency information. XVector, a suite of libraries for C, C++, Java, and Go, helps automate this process.1 XVector interposes on communication and logging channels at each host in the system to add vector clock timestamps [36, 80]. These vector timestamps capture the happens-before re- lation [68]. XVector produces a textual log of printf-style messages augmented with vector clock timestamps. ShiViz reads these logs to reconstruct the graph of inter-host communication and display a time-space diagram. ShiViz includes specific capabilities to help developers implement correct systems. The capabilities help a developer understand event ordering, query for interaction patterns, and compare executions.
+
+We evaluated the behavior-understanding capabilities in ShiViz through three studies:
+
+(
+
+) We ran a controlled experiment with a mix of
+
+undergraduate and graduate One group of participants studied distributed system executions using Sh
+
+iz and group without Sh
+
+iz. The study asked all participants to answer questions about system represented by the executions. (
+
+)
+
+students in a distributed systems course used Sh
+
+iz as part of two homework ments to help them debug and understand their implementations. (
+
+) We ran a case study with two systems researchers who were developing complex tributed systems to evaluate the end-to-end usefulness of Sh
+
+iz to developers in work. Across these studies, we collected the developers’ impressions via surveys
+
+We ran a case study with two systems researchers who were developing complex dis- tributed systems to evaluate the end-to-end usefulness of ShiViz to developers in their work. Across these studies, we collected the developers’ impressions via surveys and
+
+Our evaluation results demonstrate that ShiViz supports both novice and advanced developers in distributed system development tasks. For example, our controlled experiment with 39 partici- pants showed that those using ShiViz answered statistically significantly more distributed system understanding questions correctly than control-group participants without ShiViz, with a very large effect size. The two case studies provide qualitative data about the ShiViz developer experi- ence, indicating that ShiViz helped these participants solve their problems faster than if they were to use other tools.
+
+This article’s main research contributions are:
+
+A new method (and the supporting open
+
+source implementation for systems written in C, C++, Java, and Go, as detailed below) for logging and analyzing distributed systems to support common system
+
+understanding developer tasks.  Advanced, composable graph transformations for manipulating distributed system execu
+
+tion graphs, including constrained custom structured search and filtering by process.  A mechanism for side
+
+by
+
+side juxtaposition of pairs of execution graphs, supporting all of the single
+
+graph transformations, as well as new transformations to highlight graph differ
+
+ences and similarities.  Algorithms to cluster distributed executions using two approaches computed over sets of graphs: clustering by similarity to a specified graph and by number of processes.
+
+1For simplicity, we refer to any one of the libraries as XVector.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Sh
+
+iz, a robust, web-deployed, freely available implementation of the above contributions for developers to use for distributed system development. Sh
+
+iz is available online: http:// bestchai.bitbucket.io/shiviz/. A video demonstrating key features of Sh
+
+iz is also available: http://bestchai.bitbucket. io/shiviz-demo/. Sh
+
+iz is being actively used in the research community [
+
+,
+
+] and by projects within companies like Microsoft
+
+and by popular open source projects like Akka.
+
+Four implementations of XVector, easy-to-use libraries for logging distributed system exe- cutions, for C, C++, Java, and Go. These libraries are available online: https://github.com/
+
+ShiViz is being actively used in the research community [82, 107] and by projects within companies like Microsoft2 and by popular open source projects like Akka.3 Four implementations of XVector, easy-to-use libraries for logging distributed system exe- cutions, for C, C++, Java, and Go. These libraries are available online: https://github.com/
+
+The rest of this article is structured as follows: Section 2 illustrates distributed systems chal- lenges with three use cases. Section 3 presents distributed systems background. Section 4 presents ShiViz’s mechanisms for navigating and manipulating the visualization, which address the chal- lenges of distributed system understanding. Section 5 describes our XVector and ShiViz imple- mentations. Section 6 evaluates XVector and ShiViz with a series of controlled experiments and user studies. Section 7 discusses the threats to the validity of our study. Section 8 describes the work’s limitations and future work. Section 9 places our work in the context of related research.
+
+EXAMPLE USE CASES
+
+This section presents three use cases that highlight how ShiViz supports developers in debugging distributed systems. These use cases were inspired by our own experiences in building distributed systems, as well as by conversations with real distributed system developers.
+
+1. A developer attempts to understand why two leader hosts are active simultaneously in her imple- mentation of a leader election algorithm.
+
+A safety invariant in a leader election algorithm is that at any given time, there is at most one leader in the system. If a leader fails (such as crashing or becoming disconnected from the network), then a new leader is elected.
+
+Consider a developer whose implementation sometimes generates a situation in which two lead- ers are active simultaneously. The developer wants to understand under what circumstances this situation occurs.
+
+It is standard practice for the developer to add print statements to capture critical state tions of the system. For example, when a host becomes the leader, the host logs a message to effect. To use ShiViz, the developer takes three additional actions. (1) The developer the system using the XVector library, which augments each logged message generated by the tem with a vector timestamp. (2) The developer deploys the instrumented system and the problem. The system writes logs augmented with vector timestamps. (3) The developer ShiViz to visualize the logs from all of the hosts.
+
+The developer first wants to know where in the trace the system entered the invalid two-leader state. She finds events where a host became a leader via a keyword search for isLeader=true && desc=‘became leader’ (these keywords are specific to the system logging the developer has implemented). The developer observes that for this system execution, there were four matching
+
+Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Visualizing Distributed System Executions
+
+results. She navigates to each of the matched messages, one at a time, and finds that two of results have the same “epoch” field value, which violates a correctness property of the
+
+results. She navigates to each of the matched messages, one at a time, and finds that two of the results have the same “epoch” field value, which violates a correctness property of the algorithm. Next, the developer considers the context surrounding the two contradictory messages. By studying the relative ordering of events around these two messages, she sees that one of the hosts, prior to becoming a leader, knew of the other host as the leader. She also sees that the messages preceding this host’s change of state to being a leader are “send” messages to the leader. These messages, however, never receive a reply from the current leader. This eventually causes the local host to declare itself the leader without incrementing the epoch number.
+
+2. A developer wants to know why a replicated data storage sometimes fails to reply to client requests.
+
+In this system, a client contacts the front-end host, which delegates the client to one of the replicated data storage hosts at random. Some clients that contact a replicated data storage system time out waiting for a reply. However, this happens rarely and non-deterministically.
+
+The developer formulates a structured search query to find cases in the recorded execution where a client sent a request but did not receive a response. To do this, the developer uses ShiViz’s graphical interface to describe the scenario visually, as a sub-graph, shown in Figure 5 in Sec- tion 4.2. In the query sub-graph, a message from a client host reaches the front-end in the system, the request is forwarded to some data storage host, but the client does not receive a reply from the front-end within three logged events.
+
+The search returns five locations in the execution graph where the scenario occurred. Looking over the five locations that match this scenario, the developer sees a pattern: The requests that do not receive a response are forwarded to data storage hosts that have been recently added to the storage system. This indicates that a firewall may be the root cause, preventing the storage hosts from communicating back to the front-end because the firewall configuration has not been updated to allow traffic from these hosts to reach the front-end server.
+
+3. A developer is implementing a client library for the SMTP mail transfer protocol. During testing he learns that his implementation does not interoperate with a standard SMTP server. He wants to know how his SMTP implementation differs from other clients.
+
+In implementing his SMTP library, the developer follows the original RFC specification [61]. In response to a test message, an SMTP server responds with 503 Bad sequence of commands and closes the connection.
+
+The developer decides to compare his client-side implementation of the SMTP protocol to a different client-side implementation, Mozilla Thunderbird, which he knows works properly with the same SMTP server. He instruments both SMTP clients and the SMTP server with XVector. He generates an execution trace containing logs for Thunderbird and the server, and then generates an execution trace containing logs for his library and the server. He loads the two executions into ShiViz for analysis.
+
+The developer uses the side-by-side execution comparison ShiViz feature to compare the two executions. Then, he uses the highlight differences ShiViz feature to highlight those events that appear in one execution but do not appear in the other execution. This view reveals that his library never sends the required RCPT command to the server.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+By contrast, to resolve the issues in these three use cases without ShiViz, a developer today would (1) add logging code, such as print statements, automatically or manually to the system, and (2) study the resulting textual logs, one per node in the system. As a result, without ShiViz, the developer cannot easily understand the partial ordering of concurrent events in the system, and has to piece together what happened by scanning through the individual node logs. Section 9 considers specific tool alternatives and prior research work in more detail.
+
+Summary. These three use cases illustrate the utility of ShiViz’s mechanisms for (1) under- standing the relative ordering of events in an execution, (2) querying for patterns of interaction between hosts in an execution, and (3) identifying structural similarities and differences between pairs of executions.
+
+BACKGROUND: DISTRIBUTED SYSTEMS
+
+This section overviews distributed systems concepts necessary to understand our work.
+
+A distributed system is composed of a number of hosts, and each host generates a totally ordered sequence of events. Each event is associated with a set of attributes, such as the time the event occurred. A host trace is the set of all events generated at one host.
+
+Order is an important property of a distributed execution. Events are ordered in two ways. First, the host ordering orders every pair of events at the same host, but does not order events that occur at different hosts. Second, the interaction ordering orders dependent events at different hosts; for example, if two hosts use message passing to communicate, a send message event is ordered before the receive message event for the same message. Taken together, the host and interaction ordering generate a partial ordering over all events in the execution. The partial ordering is known as the happens-before relation [68]. Understanding this partial order is central to most tasks that a distributed system developer performs.
+
+Figure 1 is a time-space diagram, which is the standard visualization of the happens-before re- lation in a distributed system [66]. (ShiViz displays distributed system executions as time-space diagrams; see Figure 2.) The time-space diagram expresses happens-before relations as directed edges between events. (This ordering is transitive, but for clarity, the diagram omits transitive edges.) For example, in the diagram, the tx prepare event at TX Manager occurs before the abort event at Replica 1 (there is an edge from tx prepare to abort). In a time-space diagram, two events are concurrent if the time-space diagram lacks a directed path between them. For example, in Fig- ure 1 there is no directed path between the concurrent events abort at Replica 1 and commit at Replica 2.
+
+One way to represent partial order in a system trace is to associate a vector clock timestamp with each event. These timestamps make explicit the partial order of events in the system trace. The remainder of this section briefly explains vector time and an algorithm to record vector timestamps in a distributed system [36, 80]. Though more efficient vector clock mechanisms exist [4, 6], we believe that vector timestamps [36, 80] are practical for debugging: short time periods on large systems, or during development and testing.
+
+For concreteness, our explanation below assumes that the distributed system uses message pass- ing, but vector timestamps are equally applicable to a system that uses other mechanisms for inter- host communication, such as shared memory.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 1. Time-space diagram illustrating an execution of the two-phase commit protocol [8] with one transac- tion manager and two replicas. The vertical lines represent the host ordering, and the diagonal lines represent the interaction ordering. Each event has an associated vector timestamp. For conciseness, this time-space diagram does not explicitly include message send and receive events.
+
+Ordering Events with Vector Time
+
+In a distributed system of h hosts, each host maintains a local logical time. In addition, each host maintains a vector clock, which is an underestimate of the logical time at all hosts. A vector clock = is an array of monotonically increasing clocks C [c 0, c 1, . . . ,c h−1], where c j represents the lo- cal logical time at host j. C denotes the vector clock at host i and C [j] represents i’s current i i knowledge about the local logical time at j.
+
+The hosts update their clocks to reflect the execution of events in the system by following
+
+(
+
+) Each host starts with an initial vector clock [
+
+, . . . ,
+
+]. (
+
+) After a host i generates an event, it increments its own clock value (at index i) by
+
+, i.e., ++ C [i] . Sending and receiving a message are each considered an event. i (
+
+) Every message sent by a host i includes the value of its vector clock C . Upon receiving i ALN
+
+) ∀ <
+
+AI = the message, host j updates its vector clock to C such that k, C [k] max(C [k],C [k]). i j
+
+The above description assumes that every host knows the complete set of participating hosts in the system and that this set does not change over time.
+
+Using the above procedure, each event in the system is associated with a vector timestamp—the value of C immediately after the event occurred. Vector timestamps are partially ordered by the ≺ ≺ a relation , where C C if and only if each entry of C is less than or equal to the corresponding 9a’ ≺ 47 ∀ ≤ pra entry of C and at least one entry is strictly less. More formally: C C iff i,C[i] C [i] and ∃ avy j,C[j] < C [j]. This ordering is partial, because some timestamp pairs cannot be ordered (e.g., [1, 2] and [2, 1]). In this case, we say that the two corresponding events occurred concurrently.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 2. ShiViz screen visualizing an execution of the Voldemort distributed data store. Key features and areas ➀ of the UI are numbered. Log lines corresponding to the currently visible time-space diagram to the right. ➁ Boxes at the top represent hosts in the system; the box colors provide a consistent coloring for events and ➂ ➃ log lines associated with a host. An event on a host timeline is represented as a circle. A sequence of local events with no intermediate communication is collapsed into a larger circle whose label indicates the ➄ ➅ number of collapsed events. When an event is clicked, details for the event are shown in a pane, and the relevant log line is highlighted and its log line number is shown to its left. The log line may also be clicked ➆ ➇ directly. The graph may be searched by keywords or by structure (Section 4.2). When the developer ➈ hovers over an event or host, details are shown in this top-right pane. The developer can click on a host to omit it and its log lines from the visualization (Section 4.1.3). Hidden hosts are kept in a list to the right and can be restored with a double-click.
+
+Note that it is possible for one event to precede another event in wall clock time, yet the two events are concurrent according to their vector timestamps.
+
+SUPPORT FOR LOG UNDERSTANDING
+
+ShiViz visualizes a logged distributed execution as a time-space diagram—a common mental model used by programmers for distributed systems. Two key differences from prior tools are ShiViz’s emphasis on time-space visualizations that it can generate for all concurrent systems and a pow- erful set of operations to help developers navigate, search, and explore the logged execution as a graph rather than a text-based log.
+
+The following three sections explain how ShiViz supports developers in the three key tasks that motivate our work: understanding the relative ordering of events in an execution (Section 4.1), querying for patterns of interaction between hosts in an execution (Section 4.2), and identifying structural similarities and differences between pairs of executions (Section 4.3). The reader may use the deployed version of ShiViz while reading this section at http://bestchai.bitbucket.io/shiviz/.
+
+Exposing the Global Event Ordering
+
+ShiViz displays two types of information: the log itself and the time-space diagram derived from it. By presenting the views simultaneously, ShiViz provides the developer with the familiar
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Visualizing Distributed System Executions
+
+log-based view, as well as a view that conveys the partial ordering of what happened. Figure 2 shows a screenshot of the main ShiViz screen. This screen displays the logged execution in two ways: textually, as log lines, on the left, and graphically, as a time-space diagram, on the right.
+
+In the time-space diagram, time flows from top to bottom. The boxes at the top represent hosts and the vertical lines below them are the host timelines. Circles on a host timeline represent events executed by that host. Edges connect events, representing the recorded happens-before relation: an event that is higher in the graph happened before an event positioned lower in the graph that it is connected to. The hosts are ordered from left to right in decreasing number of events executed; the developer may change this ordering.4
+
+To reveal more log lines and events in the execution, the developer scrolls down. During scrolling, the host boxes remain in their positions at the top of the window to provide context.
+
+The goal of the time-space diagram is to reveal ordering between events at different hosts, in- cluding likely chains of causality between such events. Such information is not easily discernible from manual inspection of logs. The execution graph reproduces the events and inter-host com- munication captured in the input log, but the graph makes the ordering information explicit in the visualization. For example, the developer in use case 1 in Section 2 wants to understand the context surrounding two contradictory messages. ShiViz exposes this context, including the ordering of events, the events themselves, as well as the corresponding log lines.
+
+4.1.1 Relating the Time-space Diagram with Log Lines. Two views (log-based and the partial ordering) of the same execution can create confusion, since many tasks require using both types of information—what was logged and when it was logged. To help with this, ShiViz augments, not replaces, the log with an execution graph—the input log is always accessible in the left panel and is linked to the execution graph through visual cues. Hovering over an event or clicking on an event in the graph highlights the background of the corresponding log line in the left panel. This informative feedback supports the developer’s mental model that the execution graph is a more ➄ structured representation of the log. For example, the selected event in Figure 2 corresponds to the highlighted log line ➅ Closed, exiting. Likewise, clicking on a log line on the left highlights
+
+The log lines are positioned to horizontally align with their corresponding events to strengthen the association. However, this also means that the log lines may appear in an order different from the order of log lines in the input log, but always one consistent with the partial order and one that could have been generated by the same execution.
+
+4.1.2 Associating Log Lines with Hosts. To make it easy to spot the lines in the log associated with a specific host, each host in the execution graph is associated with a color that is used for its host box, event circles, and log lines. This color-coding works best when displaying few enough hosts to allow ShiViz not to reuse host colors.
+
+4.1.3 Graph Transformations. The execution graph may contain a large number of events, in- cluding ones that are not relevant to a developer’s task. ShiViz includes three graph transforma- tions, shown in Figure 3, to help developers focus on relevant behavior in the execution. Transformation 1: collapse local events. ShiViz emphasizes ordering information and com- munication between processes. Series of local events that do not involve interactions with other processes are often less relevant to understanding the communication patterns in the system.
+
+4.1.3 Graph Transformations. The execution graph may contain a large number of events, in- cluding ones that are not relevant to a developer’s task. ShiViz includes three graph transforma-
+
+Transformation 1: collapse local events. ShiViz emphasizes ordering information and com- munication between processes. Series of local events that do not involve interactions with other processes are often less relevant to understanding the communication patterns in the system.
+
+4ShiVizallowsuserstoorderthehostsinoneoffourways:(1)Orderhostsindescendingorderofthenumberofeventseach host generated in total. (2) Order hosts in ascending order of the number of events each host generated in total. (3) Order hosts in descending order of the line number where the host appeared in the log. (4) Order hosts in ascending order of the line number where the host appeared in the log.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 3. (a) A collapse transformation collapses a series of local events on a host timeline. (b) A hide host timeline transformation removes a host timeline from view. (c) A filter by host transformation retains just those hosts and events that are relevant to communication with the specified host(s).
+
+ShiViz groups and merges these local events into a single node to simplify the visualization and emphasize global ordering information, as illustrated in Figure 3(a). This transformation is enabled by default: All series of events that can be collapsed are collapsed when the execution graph is first shown to the developer. They can expand or collapse each set of nodes independently by clicking on the node and selecting “expand” or “collapse.”
+
+a subset of the hosts in the system. Using the hide host transformations, a developer can remove a host (including the corresponding host timeline and log lines) from view, or bring these back into view. To hide a host, a developer double-clicks on the host box at the top of the time-space ➈ diagram. Hidden hosts are collected in the right panel ( in Figure 2). To unhide the host, devel- opers double click on the host box in this panel. A dashed edge connects two events at not-hidden hosts that are connected transitively through one or more hidden hosts. Figure 3(b) illustrates this
+
+Transformation 3: filter by host. The filter by host transformation refines the graph to show just the set of events and hosts that are relevant to communication with a particular host. A white square inside the host box denotes a filtered host. It is possible to filter by more than one host and to unfilter hosts in any order. Figure 3(c) illustrates the filter by host transformation. Figure 4 shows an example of this transformation on the log and view from Figure 2.
+
+Throughout these transformations, the log in the left panel continues to reflect the visible events on the right. For example, when a host is hidden from the graph, the log lines for that host are hidden as well. Therefore, these three graph transformations are log transformations as well.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 4. An illustration of the filter by host transformation, applied to the log and view in Figure 2. (Top) The user can select to hide a host or to filter by a host transformation by clicking on the host’s box. (Bottom) Shows the result of choosing to filter by a host (nio-server1) in the top view. Notice that the filtered orange host box is highlighted and the result of the transformation is to retain just those host timelines with which this host has directly communicated. The boxes for hosts with which the filtered host did not communicate are added to the hidden processes list on the right and their timelines are removed from view.
+
+A key feature of ShiViz transformations is that they are composable; that is, ShiViz has built-in semantics to resolve the layering of transformations. So, it is possible to hide a host, then un- collapse a set of events, filter by two hosts, and finally hide one more host. A developer can also remove transformations from this layering in any order, not just in the reverse of the order in which the transformations were added.
+
+Supporting Execution Graph Queries
+
+Few developers read or browse a complex system’s log manually. Instead, developers often focus on specific parts of the log and write regular expressions to parse information they need out of the log [109]. Presenting a visual partial ordering that describes an execution cannot help with this. To be useful for complex logs, ShiViz must be able to support developer queries about the partial ordering. A key challenge for ShiViz is in supporting graph-based queries. Using graph- based queries, developers can express the topologies of interesting event orderings, rather than the text contents of the events themselves.
+
+ShiViz implements two kinds of searches: structured search and keyword search. When a devel- ➆ oper clicks in the search area at the top of the screen ( in Figure 2), a drop-down appears, using which the developer can either perform a structured search or a keyword search query.
+
+4.2.1 Structured Search. In a structured search, a developer queries the execution graph for a set of events that are related through a particular ordering pattern. We call this pattern a sub- graph. The sub-graph can be either user-defined or predefined, and search results are presented as highlighted sub-graphs overlaid on top of the execution graph.
+
+A user-defined sub-graph (left side of Figure 5) is generated by the developer with a mouse by adding a number of hosts, host events, and connections between pairs of events to define a partial order. During a query, ShiViz searches every possible permutation of hosts and events to
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+
+
+Fig. 5. Structured search with a query corresponding to use case 2 from Section 2. The regular expressions (in bold font below each host box) are host constraints that restrict the search to those scenarios in which the host names in the execution graph match the three host constraints. The right side shows the results of the search with two highlighted matches.
+
+find matching sub-graphs. Most interesting user-defined sub-graphs are small in size (fewer than 5 hosts and 10 events) and our algorithm is fast enough to find a match, if one exists, in under a second.
+
+In Figure 5, the sub-graph represents a forwarding pattern where the leftmost host sends a message to the middle host, which then communicates with the right-most host. This communi- cation chain is then reversed. The drawn sub-graph is also represented as a textual query in the search bar in Figure 5, specifying hosts and their corresponding vector clocks. Modifying either the user-defined sub-graph or its textual representation will update the other to match. This sim- plifies custom structure reuse and sharing, as sub-graphs can be generated by pasting text strings starting with #structure into the search bar.
+
+match of the custom structure; that is, only events connected in the specified order, without any interleaving events, will be shown as a search result. Developers can further filter the result set by specifying host-name constraints. A host timeline with an added constraint will only map to timelines in the execution graph that satisfy the given restriction. For example, the right side of Figure 5 shows how ShiViz visualizes two highlighted matching patterns corresponding to the custom query on the left.
+
+The query in Figure 5 corresponds to use case 2 in Section 2; it is an example of a user-defined sub-graph with host-name constraints. In this figure, the Client* constraint on the left-most host constrains the structured search to match host names like Client-1.
+
+Alternatively, developers can search for a predefined sub-graph pattern (middle of Figure ShiViz has three such patterns: (1) request-response: a source host sends a request and the nation host sends a response back; (2) broadcast: a host sends a message to most other hosts the system; (3) gather: a host receives a message from most other hosts. Figure 6 lists search results for these three predefined sub-graph patterns. The predefined searches are advanced than the custom structured search and can find variations of an underlying pattern. instance, a broadcast can be represented as a sequence of separate send events, as illustrated blue in Figure 6, or as multiple sends at once, as seen in green in the same figure. Both tures will be highlighted as a search result. The predefined sub-graphs are also more flexible
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 6. Example search results for three predefined sub-graph search patterns in ShiViz.
+
+not restricted to exact matches. For instance, when querying for request-response interactions, events interleaving between the request and response events will not interfere with detection of the pattern.
+
+Both the user-defined and predefined searches allow developers to locate communication pat- terns of interest within an execution graph. The presence or absence of queried sub-graphs at particular points in an execution can help developers detect anomalous behavior, aiding them in their debugging efforts.
+
+4.2.2 Keyword Search. Unlike the structured search, which allows the developer to find patterns in the structure of the graph, a keyword search allows a developer to search across the events’ data fields.
+
+Developers can query for a particular word or phrase and find all events in the graph with a field matching the search. These constraints can be generalized with JavaScript regular expressions and combined through logical connectives.
+
+In both types of searches, the developer interacts with the search results in one of two ways. The developer can scroll through the execution graph to find the highlighted search results manually, or they can jump to the previous/next instance in the results using a pair of arrow buttons in the
+
+Multi-execution Comparing and Clustering
+
+A common challenge for studying a concurrent system over several executions is the nondeter- minism that makes two executions not directly comparable. That is, an interleaving difference may make two logs appear behaviorally different even though the system that produced the logs is the same. For this reason, we decided to extend ShiViz to support developers in understanding and juxtaposing multiple executions recorded in the log. Specifically, when ShiViz parses more than one execution from the log, it allows the developer to view any single execution or any pair of
+
+The features described previously (e.g., search, hiding a host) continue to operate in the side- by-side view. For example, if the developer hides a host in the left execution, the same host will be hidden in the right execution.
+
+4.3.1 Highlighting Differences between Executions. A feature exclusive to the pairwise view is the ability to highlight differences between two executions. To use this feature the user selects a base execution, against which other executions will be compared. Hosts or events in an execution that do not appear in the base execution are drawn as rhombuses (Figure 7). This highlighting is
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+
+
+
+
+Fig. 7. ShiViz uses rhombuses to highlight differences between executions. Here, compared to a base tion (a), the execution in (b) has a different host, and the execution in (c) differs in both hosts and events.
+
+done by walking the timeline of corresponding processes and comparing each event against events in the base execution.
+
+This explicit highlighting of differences provides developers with fast detection of anomalous events, or points where two executions diverge, allowing them to more effectively compare exe- cutions. For example, during a debugging task, this differencing can lead the developer to quickly spot buggy behavior.
+
+The event differencing mechanism compares the host name and event text strings. As future work, we plan to allow the developer to specify which other data fields to include in event com- parison and to highlight order or structural differences between two executions.
+
+4.3.2 Clustering Executions. ShiViz also supports grouping multiple executions into clusters. Developers can cluster by the number of processes or by using the comparison against a base execution described above (Figure 7). Cluster results are presented as distinct groups of listed execution names.
+
+Execution clusters aid in the inspection and comparison of multiple executions by providing an overview of all executions at once. Developers can quickly scan through cluster results to see how executions are alike or different based on the groups into which they are sorted. Clustering also helps developers pinpoint executions of interest by allowing them to inspect a subset of executions matching a desired measure. This subset can be further narrowed down by performing one of the previously mentioned searches (keyword and structured search) on top of the clustering results. Execution names among clusters are highlighted if their corresponding graphs contain instances matching the developer query.
+
+Section 6.2.2 discusses two case studies in which the multi-execution comparison and clustering were useful to developers working on complex distributed systems.
+
+IMPLEMENTATION
+
+ShiViz reads events and their happens-before relation from a log, then visualizes one or more executions as time-space diagrams. Sections 5.1 and 5.2 describe creation and parsing of logs, and Section 5.3 gives details about the ShiViz implementation.
+
+Logging the Happens-before Relation
+
+Typical distributed systems already contain logging calls to record events and values of interest; for example, by printing them to a file. Therefore, most of the work to create a log is already done. However, the partial happens-before order of the events may be lost due to the concur- rent execution. One way to preserve this order is to associate a vector clock timestamp with each
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+ TX Manager MMSystem Log® print ("tx abort") (Dm Host =X Manager| _vent : abot  send(“tx aborted”)      "ex aborted” SYReplicat Mil( = \System Log   Host: Replicat3 msg = eev()peinte(nsa)——(4)-m Event : tx aborted         (a) Uninstrumented systemLog‘Analysis     TX Manager ( Xvector  payload = “tx aborted”buf = prepareSend(“tx abort”payload)|   Host: TX Manager|\VTime :[1,4,1]   send(buf)            Replicat( Xvector =buf = reev()payload = unpackReceive(buf)LoghocalEvent (payload)   Host: ReplicatVTime : [2,4,1]Event : tx aborted         (b) System instrumented with XVector     
+
+Fig. 8. A log-based view of the bottom-most edge from TX Manager to Replica 1 in Figure 1. (a) Uninstru- mented version of the system that produces a log that can be manually analyzed. (b) A system instrumented with XVector to capture the partial ordering relation; the resulting log can be analyzed using ShiViz.
+
+event [36, 80]. We have developed XVector, a suite of libraries to instrument distributed systems to log happens-before partial order via vector time. For exposition, our XVector explanation assumes the distributed system uses message passing, but the XVector approach is equally applicable to systems that use other inter-host communication, such as shared memory.
+
+The XVector library relieves developers from needing to implement the vector clock algo- rithm [36, 80] (recall Section 3.2). To use the library, developers (1) initialize the library, and (2) make calls to the library to pack and unpack existing messages sent by the system with a header that consists of the vector clock timestamp. XVector maintains a vector clock for each host in the system and updates it whenever the client application makes calls to pack or unpack. These packing calls also take a string that will be logged to a log file along with the current vector clock timestamp. XVector also includes a call that can be used to just log a message with a vector timestamp. Figure 8 details the XVector instrumentation for a small part of the two-phase commit
+
+We have built XVector implementations for several languages: C, C++, Java, and Go. These li- braries inter-operate, allowing multi-lingual systems to be instrumented. XVector integrates with popular logging libraries in these languages, such as Log4J. For two languages, Java and Go, we have versions of XVector that automatically instrument the source code using static analysis and a whitelist of known networking library calls. This procedure is described in more detail in our previous work on inferring distributed system invariants [46]. For the other languages, the devel- oper must manually log information with XVector. We are working on automating this process
+
+Given a log, ShiViz needs to know the following:
+
+—For each event, the host that executed the event, the vector timestamp of the event (recall Section
+
+), and a text string describing the event. —Optionally, additional data associated with each event, which developers can search for within Sh
+
+iz (see Section
+
+). • Optionally, how to divide the log into multiple system execution traces.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+The developer specifies this information with a regular expression that matches events and an optional regular expression to delimit system traces. The event regular expression must contain three named capture groups to extract the triples of [host,clock,event] information from the log and may contain other named capture groups.
+
+This method of processing logs is flexible and can accommodate many format types (including text, JSON, etc.) without making any assumptions about the system that produced the log. We have used ShiViz to visualize not just distributed systems but also multi-threaded applications.
+
+5.3 ShiViz Implementation
+
+After processing the log, ShiViz presents the developer with a view like the one in Figure 2, which is a screenshot of ShiViz for an input log from a distributed data store system called Voldemort [112]. ShiViz is implemented as a pure client-side web application, making it trivial to deploy. To use it, a developer only needs a web browser. A developer may either paste logs and regular expressions into the web form, or they can upload a local file containing the logged execution(s) and necessary regular expression(s). ShiViz implements all of the logic in JavaScript, making it highly portable. ShiViz never sends the input system logs over the network. This makes it safe to use in a cor- porate environment where logs may contain sensitive information.
+
+ShiViz is an open source project. A public deployment can be accessed at http://bestchai. bitbucket.io/shiviz/, and the source code is available at https://bitbucket.org/bestchai/shiviz/src/.
+
+6 EVALUATION
+
+We evaluated ShiViz in three ways, via a 39-participant controlled experiment, via a study with 70 students using ShiViz in a distributed systems class, and via two case studies, in which one developer per study used ShiViz while working on a complex system. We also evaluate XVec- tor’s performance overhead. We study four research questions, which are based around the design features of ShiViz highlighted in Section 4:
+
+• RQ
+
+: Does Sh
+
+iz help understand the relative ordering of events? • RQ
+
+: Does Sh
+
+iz help query for inter-host interaction patterns? • RQ
+
+: Does Sh
+
+iz help identify structural similarities and differences between pairs of ecutions? •
+
+evaluate RQ1–RQ3, we designed a controlled experiment with 39 participants. We first designed 15-question questionnaire (Figure 9) about four distributed executions of three systems: (1) an of the reliable broadcast protocol (RBcast), (2) a Facebook client-server interaction (3) an enterprise distributed system called Voldemort [112] (Vold), and (4) a pair of Facebook interactions (FB pair). Figure 2 shows a visualization of the Voldemort log (with some hidden from view).
+
+These questions were based on our experience teaching a fourth-year distributed systems course at the University of British Columbia. In this course, the students work in teams of 2–4 students to build complex distributed systems in Go. As they develop their systems, the students frequently run
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 10. Demographics of the participants of the control and treatment groups in the controlled user study.
+
+into debugging challenges and ask questions in office hours and in an online discussion forum. The questions in our study build on the student questions in the course, combined with our expertise as educators, aimed to design questions that accurately measure system comprehension.
+
+questions in our study build on the student questions in the course, combined with our expertise as educators, aimed to design questions that accurately measure system comprehension. A control group of 15 participants relied on the raw logs to answer the questions. These logs contained vector timestamps. We used raw logs as our baseline, because we know of no other log analysis tool for understanding communication patterns in distributed systems. Our baseline is
+
+contained vector timestamps. We used raw logs as our baseline, because we know of no other log analysis tool for understanding communication patterns in distributed systems. Our baseline is what a professional developer would use today [20, 40, 85].
+
+A treatment group of 24 participants received a 10-minute introduction to ShiViz, then used the same logs and the ShiViz tool to answer the questions. None of the participants in the treat- ment group had prior exposure to ShiViz. Participants in both the control and treatment groups were limited to 60 minutes. The participants were assigned to the treatment and control groups at random; this randomness led to the uneven split.
+
+The controlled study included a mix of 6 graduate students, 8 undergraduate students, and 1 professor. The treatment study included 24 students in a combined graduate and undergraduate course: 8 graduate students and 16 undergraduate students. Figure 10 reports the demographics of the two groups.
+
+The participants in both groups were non-experts in the field of distributed systems, though about 50% had prior experience with such systems and about 60% had taken a related course. All participants were students or employees at UMass Amherst (and none are authors of this article).
+
+For each group and for each question, Figure 9 reports the percent of participants who answered the question correctly, and the Fisher’s exact test p-value showing whether there is a statistically significant difference between the treatment and control groups. Overall effect of using ShiViz. First, we compared the distribution of correctly answered questions by the treatment group to that of the control group using the two-tailed unpaired t-test. The test rejected the null hypothesis that = these groups came from the same distribution (p 0.00002). We thus conclude that using ShiViz did significantly impact the participants’ ability to answer distributed systems questions correctly. The effect size of the impact is very large (Cohen’s d = 1.56).5
+
+We then, for each question, compared the distributions of correct answers and measured if ShiViz’s effect was statistically significant for that question. We used the non-parametric two- tailed Fisher’s exact test that makes no assumptions about the underlying distribution and is rec- ommended for small sample sizes. We found that for six of the fifteen questions, the test confirmed that the treatment group and control group were statistically significantly different (p < 0.05, highlighted in Figure 9). For each of these six questions, participants using ShiViz answered more questions correctly than the participants in the control group. For example, 96% of the participants using ShiViz answered question 2.1 correctly, whereas only 33% of the participants without ShiViz did so. For these six questions, on average, 52% more of the participants using ShiViz answered
+
+5We use the standard effect size interpretation of Cohen’s d: d ≥ .01 is interpreted as very small, d ≥ .2 as small, d ≥ .5 as medium, d ≥ .8 as large, d ≥ 1.2 as very large, and d ≥ 2.0 as huge [104].
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Visualizing Distributed System Executions
+
+questions correctly than participants in the control group. For the other questions, the difference between the groups was not statistically significant, likely an artifact of our study’s size.
+
+UI: Diagram comprehension. The treatment participants scored 83%–92% (mean 90%) on questions that tested the participants’ understanding of the visual components making up the execution graph as well as the relation of these components to information captured in the input log. This was an improvement over the control group, which scored 47%–100% (mean 73%). On some questions, such as question 1.1, the control group did better. We believe the reason for this is the lack of experience with ShiViz. To answer question 1.1 they had to simply count the number of host boxes, or timelines, in the diagram.
+
+RQ1: Understanding event ordering. A primary purpose of the ShiViz execution graph is to help developers reason about logged events and inter-host interactions (Sections 4.1.1 and 4.1.2). Question 1.3 required identifying the host that initiated the protocol (i.e., generated an event that caused the other hosts to generate events). For this question participants had to reason about the ordering of events. Question 1.5 required a detailed inspection of the interactions between two particular hosts. Treatment participants had success rates of 96% and 79%, respectively. Control participants did well on the first question (100%), but did significantly worse on the second question (47%). Studying event order by studying the raw log is error-prone.
+
+RQ2: Querying the execution graph. Several questions tested the participants’ ability to use the ShiViz search features. Questions 1.4 and 3.2 both required performing a keyword search (Section 4.2.2) for a particular event string. However, question 1.4 also involved manual inspection of the graph for highlighted (matching) events and a correlation with the hosts that generated these events. By contrast, the control group participants easily searched the log for lines containing the keyword and the corresponding host. We think this explains why it had a lower score in the treatment group (63%) as compared to the control group (87%). For question 3.2, however, both
+
+Questions 2.1 and 2.2 could both be answered using the pre-defined request-response search (Section 4.2.1) and received respective scores of 96% and 75% in the treatment group. control group participants scored poorly on these two questions, with an accuracy of just 33% 20%, respectively. Even simple inter-host behavior, such as the request-response pattern used these two questions, is difficult to identify using raw logs.
+
+we had not yet implemented the feature to highlight differences between two executions, two executions could be viewed side-by-side (Section 4.3.1). This differencing feature was inspired by question 4.2, which was the most difficult question in the study, with only 12.5% 7% of treatment and control participants, respectively, answering it correctly. This question the participants to reason about the divergence between two Facebook execution logs. The similarity stemmed from an extra client request in one of the executions.
+
+Most treatment participants manually compared the executions side-by-side, looking for the first point of deviation where events do not sync up between the two executions. Their answers indi- cated that inter-host communication in the two executions eventually occurs at different points, but nearly all participants failed to properly explain the divergence in terms of high-level system behavior. One participant presented a particularly elegant answer in the form of a user-defined structured search query (Section 4.2.1). The participant’s query illustrated that one of the execu-
+
+Semantic: Conceptual understanding. Finally, we asked conceptual questions that asked par- ticipants to understand the semantics of the communication in the system. For instance, in ques- tion 2.3, the participants were asked to describe the role of host X, which processed client requests and routed them to the appropriate data center host. Both groups did similarly on this question.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+However, for questions 3.3 and 3.4, which asked the participants to identify a host that acted similarly to another host, participants in the treatment group did significantly better (mean 61%) than those in the control group (mean 7%). The ShiViz tool helped the participants to visualize the
+
+Summary: Overall, we found that the participants using ShiViz had substantially higher ac- curacy than those participants who used the raw logs. Specifically, on 9 of the 15 questions those who used ShiViz had an accuracy score that was at least 19 absolute percentage points higher. And, Fisher’s exact test shows that for 6 of the 15 questions there was statistically significant difference (p < 0.05) in how the two groups performed.
+
+Developing Distributed Systems
+
+6.2.1 Distributed Systems Course Study. We conducted a study using an undergraduate dis- tributed systems course in which 70 participants used ShiViz. None of the authors were directly involved with the instruction of this course. The course instructor presented vector clocks in a lec- ture and then briefly demonstrated how ShiViz can be used to visualize a log. The students were then given two homework assignments that described the file format ShiViz uses. One assign- ment asked the students to implement the bully leader election algorithm [16], and the other the distributed two-phase commit transaction algorithm [8]. As part of the assignments, the students were asked to write a short description of their experience using ShiViz within the assignments. Once the course ended, the instructor shared the students’ assignments with us. More information about the two assignments is available online [13].
+
+Leader election assignment. For the first assignment, the participants were required to im- plement a bully leader election algorithm, cause it to exhibit some interesting behavior, capture that behavior in logs, and then explain that behavior.
+
+Many participants described how ShiViz helped them to discover, understand, and fix defects, then confirm correct behavior, in their implementation of the bully leader election algorithm. The leader election system should be robust against environmental faults such as network partitions, dropped packets, failing hosts, and slow communication links, but the initial implementations were
+
+“The visualization helped us spot a bug that nodes were not sending their most current timestamps to other nodes until a COORD is sent.” [Group 28] (Section 4.1.1).
+
+“One specific instance of how ShiViz helped us debug our program was when we were struggling to understand why our timestamps seemed to get increasingly misaligned over time. It was difficult to understand the ordering of our events through our Linux console, so we used ShiViz to understand the
+
+“...we were noticing a problem where the second-highest node regularly set itself as the coordinator, even without any network failures. The highest node was also listing itself as a coordinator. We dis- covered this by examining the visualization and noticing that both the two highest nodes were often simultaneously listed as coordinators. We used this visualization to help us determine the source of
+
+Two-phase commit assignment. For the second assignment, the participants were required to implement a system based on the two-phase commit protocol, cause their system to complete a transaction with no errors, and then cause a transaction that commits despite the failure of a
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+In their reports, the participants frequently referred to the helpfulness of the visualization in confirming behavior: “these ShiViz logs show a clear indication of successful functionality of the basic 2-phase commit protocols.” [Group 18]. Some groups also noted that ShiViz helped them understand concurrency in their algorithm: “ShiViz was very useful for visualizing these parallel transactions.” [Group 15].
+
+In both assignments, participants noted the importance of logging key events in the system, because otherwise the events are invisible to ShiViz. They also mentioned that ShiViz diagrams can be complex, particularly in cases with significant concurrency between the hosts.
+
+6.2.2 Case Studies with Two Researchers. We performed two case studies, each one with a highly experienced systems researcher who used ShiViz to understand and debug a complex system they were working on at the time. The first researcher used ShiViz for four months while designing and debugging a distributed system for troubleshooting other systems [108]. The second researcher used ShiViz during the course of two weeks in debugging two locking implementations in the context of a commercial multi-threaded key-value store that is used as a storage engine for Mon- goDB [82]. In both cases, the researchers learned and used ShiViz on their own.
+
+system was to minimize input sequences to distributed systems when reproducing failures; that is, his system tries to minimize external events and internal event schedules when recreating a failed execution. In building this system, the researcher used ShiViz to debug and understand behavior across a variety of distributed systems. We performed a semi-structured interview with the researcher after the four-month period to gain insight into how he used ShiViz and what features he found most useful.
+
+The researcher initially used ShiViz to come up with a heuristic for the minimization algorithm. Instead of enumerating the entire event schedule space to find the minimal schedule, he wanted to inspect several schedules that led to the same bug and then attempt to find unifying features among these schedules. He did this by using ShiViz to visually compare (Section 4.3.1) several event schedules from three different distributed systems: a reliable broadcast implementation, a consensus protocol called Raft [86], and a distributed hash table implementation based on Pas-
+
+The researcher also used ShiViz to debug his own system. A particular example that he de- scribed involved the debugging of a model-checking optimization called distributed partial order reduction (DPOR) [37]. He began by comparing the event schedules produced by DPOR against those generated by a simpler strategy that he knew to be correct. He found that the outputs of the two did not match, even though they should have been equivalent. To pinpoint exact areas of divergence between two such schedules, he used ShiViz to visualize outputs from both strategies and to compare the resulting execution graphs side-by-side. The generated schedules were about
+
+The side-by-side execution comparison helped the researcher efficiently locate points of devia- tion in the DPOR output. He noted that the visual nature of the execution graphs as well as their emphasis on the happens-before relations made it “easy to spot where things diverge”.6 Upon finding the deviation, the researcher traced the event back to the relevant statement in the original console output using the associated log lines on the left of the execution graph
+
+Upon finding the deviation, the researcher traced the event back to the relevant statement in the original console output using the associated log lines on the left of the execution graph
+
+6At the time of this study, ShiViz did not support the explicit highlighting of differences between executions (Section 4.3.1). We have added this feature in part because of this use case.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+(Section 4.1.1). This allowed him to debug his implementation of DPOR without having to manu- ally sift through the console output, a process that is both tedious and error-prone. The researcher mentioned that the console output was “enormous and hard to understand,” while ShiViz made the
+
+As with the last use case in Section 2, the juxtaposition of two traces—one generated by the developer’s implementation and one by an implementation known to be correct—enabled visual comparison, aiding in the researcher’s debugging efforts. In this case, the researcher manually looked for points of divergence between the graphs, but the feature for explicitly highlighting differences facilitates this effort by immediately emphasizing any disparities. This study indicates that ShiViz is an effective tool for comparing executions and for identifying divergences in their behavior (RQ3).
+
+Case study 2: Performance debugging of a multi-threaded system. In the second case study, a researcher, as part of her consulting work, used ShiViz for two weeks to debug performance disparities between two mutex implementations used by a multi-threaded key-value system at a small company. We performed two semi-structured interviews with the researcher to understand how she used ShiViz.
+
+The researcher focused on improving two-lock implementation. The original version used pthread mutexes, while the new and optimized implementation used a ticket idea to provide fair- ness. The naive version had each thread spin in a tight loop waiting its turn. This was then opti- mized to have a fixed number of spinners and the remaining threads sleeping. The next (spinning) thread to grab the lock would send a signal to wake up the next sleeping thread so there was a con- stant number of spinners. The performance problem was that the average acquire time of a ticket- based lock was unexpectedly longer than that of a pthread mutex, even though the critical section and the time to release the lock were both shorter. This anomaly was elusive—the researcher spent a few weeks trying to understand the root cause of this problem before we approached her. She noted that existing performance debugging tools were not helpful: “I spent several weeks trying to figure out this subtle problem using conventional performance tools that typically rely on computing averages and aggregates, and I was getting nowhere.”
+
+To use ShiViz, the researcher first implemented an instrumentation tool to track the use of locks in each thread and to associate a fine-grained timestamp with each event. The resulting ShiViz execution graph represented the lock release/acquire events as message send/receive in the graph. To study the anomaly, the researcher generated a log with 16–30 active threads, containing about 70M events. ShiViz did not scale to visualizing the complete log, so she used ShiViz to visualize a 4K subset of events, focusing on “trying to answer the question: what happened that made [the ticket-based lock] wait for so long? Were there unexpected delays to any events?”
+
+ually determined the time that a thread spent acquiring a lock, holding a lock, and so on. She relied heavily on ShiViz to understand the relative ordering of events between threads. She spent sev- eral hours analyzing the log with ShiViz before determining the root cause of the problem: “With ShiViz, which enabled to see thread interactions at granularity of individual events, I figured out what
+
+She found that for the ticket-based lock the elapsed time between one thread releasing the lock and another thread acquiring that lock was non-uniform. This was contrary to the assumption that each time the acquiring thread is spinning, as threads are sent the wake signal. The problem was that a thread may take a while to wake up: It might not wake up early enough to enter the spinning state when the lock becomes available. This explained why the lock wait times were longer than expected.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Visualizing Distributed System Executions
+
+In addition to the acquisition time disparity, the researcher used ShiViz to determine that (1) one thread does different work than the others (based on the amount of time spent in this thread). By examining the code, the researcher realized that this thread is a work producer. (2) Using ShiViz, the researcher realized that the pthread mutex is unfair relative to the ticket-based lock—some threads acquire the lock more often than others when using the pthread mutex, which creates a priority inversion. And, (3) the priority inversion makes the work producer thread run more often when using the pthread mutex than when using the ticket lock. Since the work producer is the bottleneck in the studied workload, the workload ends up completing faster with the pthread
+
+In summary, the researcher noted that ShiViz helped her solve the problem faster than if she used other tools: “I seriously doubt that I would have been able to pinpoint the precise cause of the problem without ShiViz, and even if I had, it would have taken me many weeks.”
+
+Vector Clock Instrumentation Overhead
+
+Our XVector vector clock instrumentation libraries have (1) a network overhead due to the ad- ditional vector clock timestamps in network payloads, and (2) a vector clock logging overhead. We evaluate both of these overheads in the GoVector library, which is an XVector library for Go lang. Our experience using other XVector libraries in teaching and with open-source systems in- dicates that the other XVector libraries have similar overheads. We use GoVector to instrument etcd,7 a popular distributed key value store that uses the Raft consensus protocol [87] to achieve
+
+Experimental setup. We ran all experiments on an Intel machine with a 4-core i5 CPU and 8 GB of memory. The machine was running Ubuntu 14.04 and all applications were compiled using Go 1.6 for Linux/amd64. We exercised etcd by loading it using the Yahoo! Cloud Serving Benchmark (YCSB-B)8 with a uniform distribution (50% gets and 50% puts on random keys). The etcd Raft cluster consisted of three replication nodes. We measured the latency and goodput9 on both the uninstrumented and the instrumented versions of etcd. In both experiments, the maximum number of clients that could execute concurrently without reaching maximum CPU utilization was 72.
+
+identity and the other is the node’s logical clock timestamp. The overhead of vector clocks is fore a product of the number of nodes interacting during execution and the number of · · 64 bits nodes messages. In practice, adding vector clocks to messages slows down each which can impact the behavior of the system.
+
+Figure 11 shows the goodput for uninstrumented and instrumented Raft with each point repre- senting an average over three executions. Adding vector clocks to Raft slowed down the broadcast of heartbeat messages and caused an increase in goodput with 36 clients. As the number of clients grew, the size of the vector clocks overcame this goodput saving. Across these experiments, good- put decreased by 13% on average and the maximum decrease was 23%.
+
+Latency overhead. GoVector imposes a latency overhead in computing vector clocks and in se- rializing and deserializing messages with vector clocks. Figure 12 shows Raft’s latency processing client requests in the uninstrumented and instrumented versions of Raft. Across these experiments, the latency increase was 7% on average with a maximum increase of 21%.
+
+9Goodput is application-level throughput. For etcd, it is the number of client requests that the system can process per unit time.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 11. Goodput of uninstrumented and instrumented etcd Raft.
+
+
+
+12. Latency of uninstrumented and instrumented etcd Raft.
+
+Logging overhead. In the above experiment, we also collected information on logging over- head. We found that the average execution time of a single logging statement is 20 microseconds. In our local area network with a round trip time of 0.05 milliseconds while running etcd with 1-second timeouts, we were able to execute approximately 50K logging statements per node be- fore perturbing the system.
+
+The overhead imposed by XVector makes it a viable tool during development, but not in produc- tion. We believe that existing distributed tracing systems, such as X-Trace [39] and Dapper [110], which are intended for production use, can be extended with tracking of vector-clock timestamps. We have also successfully reconstructed ShiViz-compatible logs from X-Trace traces.10
+
+ShiViz Scalability on Synthetic and Benchmark Logs
+
+ShiViz is designed to run in the browser, making it more accessible and easier to use. However, design choice does impact its ability to scale to large and complex logs. In this section, we scalability results from using ShiViz on a variety of logs. In each experiment, we report the to load and visualize the log with ShiViz in a browser. In every log we experimented with, remained real-time interactive after the visualization was rendered.
+
+We ran all experiments on a Mac Air laptop running OS X 10.13.6 with a 2.2 GHz i7 processor and 8 GB RAM. We used a 64-bit version of the Chrome browser version 76.0.3809 with the latest version of ShiViz (commit id 4d89184c2d12). In the first three experiments, we generated synthetic logs that had specific characteristics to allow us to control for different scalability factors. In the fourth experiment, we used logs collected from a microservices-based social network system with 36 unique microservices [42].
+
+In the first experiment, we varied the number of events in the log. Each log in this had 12 hosts; every other event in each log was a communication event (that is, 50% of the
+
+10https://github.com/MPI-SWS/xtrace-shiviz/.
+
+
+
+Fig. 13. ShiViz scalability for logs with varying number of total events.
+
+
+
+14. ShiViz scalability for logs with varying number of hosts.
+
+
+
+Fig. 15. ShiViz scalability for logs with varying percentage of communication events.
+
+were communication events), and each log had between 2K and 24K total events. Figure 13 shows the time to visualize each of these logs with ShiViz. The plot illustrates that ShiViz has a nonlinear cost for processing logs in terms of the number of log events. Note, however, that ShiViz visualizes logs with fewer than 5K events in under 10 seconds. This accommodates many systems: Distributed tracing logs from the microservices-based system below contain as few as a hundred events.
+
+In the second experiment, we varied the number of hosts in the log. Each log in this experiment had 12K events with 50% being communication events, and varied the number of hosts from 2 to 24 in steps of 2. Figure 14 shows the visualization time with ShiViz for these logs, which is around 22 seconds for all the logs. This indicates that ShiViz is not impacted by the number of hosts in the log, vector clock length (which is proportional to the number of hosts), and the number of visual host timelines that ShiViz has to generate for logs with more hosts.
+
+In the third experiment, we varied the fraction of events in the log that were communication events. Each log in this experiment had 12K events split evenly across 12 hosts, but the fraction of communication events varied from 10% (mostly local events) to 100% (all events are communication events). Figure 15 shows the time to visualize these logs with ShiViz. The time is relatively stable,
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+
+
+Fig. 16. Description of different types of interactions with the social network microservices-based applica- tion from the DeathStarBench benchmark suite [42] and the properties of the log produced by distributed tracing each of these interactions.
+
+as the fraction of communication events varies. The cost of an extra communication edge is (1) the computation to determine which two log events to connect, and (2) an extra communication edge visual element.
+
+The above three experiments were on synthetic logs to help us benchmark ShiViz. We also considered real logs from DeathStarBench, a recently published microservices benchmark suite by Gan et al. [42]. We used the social network system in this suite. It is composed of 36 microservices and has over 60K LOC in a variety of languages.
+
+We used the built-in social network user interactions, such as register for a new account, this application to generate the workload. We then captured the distributed trace caused by interaction across the microservices by using an instrumented version of the benchmark X-trace distributed tracing [39].11 We then converted the collected distributed trace into a compatible log and visualized it with ShiViz.
+
+Figure 16 describes the benchmark interactions we used to generate the logs, the size of each log, the number of microservices in each log, the time ShiViz took to visualize the log, and the
+
+Figure 16 shows that the logs had fewer than 400 events from 2–22 microservices. ShiViz visu- alized each of these logs in under a second and collapsed at least 70% of the local events in these traces.12 Based on this experience, we conclude that tracing specific parts of a complex system, such as a specific interaction in a social network system, is the most scalable way of using ShiViz.
+
+Evaluation Summary
+
+Overall, our evaluation suggests that ShiViz is easy to learn and to use. In particular, we found evidence to answer three of our research questions, RQ1–RQ3, in the affirmative. We also found that ShiViz is useful in a variety of contexts, including confirming system behavior, debugging, identifying anomalous behavior, and supporting system comprehension. The overhead of vector clock instrumentation depends on the system and its communication patterns; however, our ex- periments with etcd Raft indicate that our existing instrumentation libraries are usable and have reasonable performance in the context of complex distributed systems.
+
+Since describing the XVector and ShiViz tools in a practitioner-oriented article [14], these tools have been used by other research groups and developers and researchers at several companies. For example, ShiViz is used in research projects focused on debugging of distributed systems that
+
+11https://github.com/JonathanMace/DeathStarBench.
+
+Visualizing Distributed System Executions
+
+use ShiViz to visualize the traces they produce [82, 107]. ShiViz is also used by P and P# projects within Microsoft to visualize traces of executions during debugging.13 Akka is a popular toolkit for building concurrent and distributed systems by using actor-based programming in Java and Scala. Akka includes scripts for developers to convert their logs into ShiViz format.14 TLC is a model checker for TLA+ and PlusCal modeling languages. TLC supports ShiViz for visualizing the counter-example trace from a model checking run of a concurrent model.15 As a final example, the Bro network monitor includes ShiViz support to help developers visualize distributed network
+
+THREATS TO VALIDITY
+
+Salman et al. [102] and Pham et al. [89] have demonstrated that conclusions based on that use students can generalize to the broader developer community. We evaluated ShiViz 70 participants in an undergraduate distributed systems course with fourth-year CS majors at University of British Columbia, a major research university (Section 6.2.1). Most of these became novice professional software developers only a few months later; we expect our results generalize at least to novice engineers and perhaps beyond.
+
+While the goal of our ShiViz evaluations was to evaluate a set of user interface features and underlying algorithms, such evaluations and interface design are inherently iterative. The devel- opers’ interactions with the tool inform the tool makers and suggest new interface features. For example, our studies revealed that developers might benefit from highlighting differences between two executions, as described in Section 4.3.1. We elected to implement this feature as part of ShiViz and include the description of this finding here, even though the ShiViz version used for evalua- tion did not yet include this feature: ShiViz displayed executions side-by-side but did not highlight differences. Adding such features could, in theory, alter our results, although the effect is unlikely
+
+Our study asked participants to answer questions (Figure 9) about system behavior. The goal of the questions is to gauge the correctness of the participants’ understanding of the system be- havior. We used our expertise as educators to design questions that accurately measure system comprehension. More questions would likely have resulted in more accurate results, but the study had to balance this accuracy against the length of the study.
+
+8 DISCUSSION
+
+ShiViz surfaces low-level ordering information, which makes it a poor choice for understanding aggregate system behavior. The ShiViz visualization is based on logical and not real-time ordering and cannot be used to study certain performance characteristics. The ShiViz tool is implemented as a client-side-only browser application, making it portable and appropriate for analyzing sensitive
+
+ShiViz reconstructs the happens-before relation using vector timestamps associated with logged events. The protocol for maintaining these timestamps (detailed in Section 3.2) does not provide ordering information when messages are lost. In particular, a send event without a corresponding receive event will not be identified as a send event. This is because the event that immediately happens-after the send event cannot be associated with a remote host, since the sent message was
+
+https://github.com/p-org/Trac
+
+isualizer.
+
+https://github.com/akka/akka-logging-convertor.
+
+https://github.com/tlaplus/tlaplus/issues/
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+
+
+Fig. 17. A screenshot of TSViz, a tool that extends ShiViz to support real-time timestamps. A global clock ➁ time scale totally orders all events in the log. The user can interact with not only the visualized events, but also with the intervals between events.
+
+Optimizing visualization layout. At the moment, ShiViz presents hosts in a set order: either ordering them from left to right by the number of events each host generated in total, or by their appearance in the log. We are working to formulate an algorithm that can produce a host ordering that minimizes the total number of line crossings (this problem is NP-hard).
+
+based on ShiViz that focuses on logs with real-time timestamps in a short tool-demonstration per [83]. TSViz uses logs that are composed of both logical and real-time timestamps to give opers a better sense of when events occur relative to each other. This is in contrast to ShiViz, places each event host on a process timeline as soon as possible without violating the before requirements and using a default minimum spacing between events. Figure 17 shows screenshot of TSviz.
+
+We envision a number of additional features to make ShiViz even more useful to developers. Real-time online visualizations. Rather than wait for an execution to complete and then collect logs from each process for visualization with ShiViz, we could augment XVector to auto- matically upload logged events to the ShiViz website as they are generated. ShiViz would then generate a scrolling visualization of the system in real-time.
+
+Linking the visualization with code. An event in a ShiViz visualization corresponds to some program point that generated the event. A developer interested in jumping to this program point from the visualization must manually find and jump to the program point. This process could be automated and the visualization could even be integrated into IDEs.
+
+RELATED WORK
+
+We have briefly described ShiViz in two practitioner-oriented articles that overview the space of approaches to debugging distributed systems [14] and as a poster [1]. None of these prior publi- cations present ShiViz’s technical contributions and none evaluate ShiViz.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+There are many log analysis tools for processing totally ordered logs, including fluentd [38], logstash [76], graylog [47], splunk [111], papertrail [87], loggly [75], sumologic [113], and Zin- sight [26, 27]. A common enterprise solution for end-to-end log analysis is the ELK stack for index- ing and storing traces (elasticsearch [34]), filtering and extracting data from traces (logstash [76]), and visualization of the results (kibana [60]).
+
+These tools can aid manual performance analysis and debugging [26], such as the detection of memory leaks in Java [30], and can be applied to the setting of streaming logs [25, 29], even at
+
+Unlike ShiViz, the goal of these tools, including the ELK stack, excludes capturing and analyz- ing partial ordering information. As a result, unlike ShiViz, these tools do not help developers understand the exact ordering of events in a system with concurrent processes.
+
+Visualizing Distributed Systems
+
+The most closely related systems to ShiViz are Poet [65] and DTVS [33]. Poet is a toolchain for instrumenting and then visualizing distributed systems as time-space diagrams. DTVS visualizes concurrency regions in a trace of synchronous distributed system executions. ShiViz makes sev- eral technical advances over both Poet and DTVS, including graph transformations (e.g., filter by host), keyword and structured search, multi-execution comparison, and clustering. ShiViz is also simpler to use and deploy: ShiViz does not require a server, runs in a browser, and requires no in- stallation by the developer. The Poet and DTVS tools have not been evaluated with developers.
+
+Hy+ [21] is a system for parallel and distributed systems debugging. Hy+ uses a visualization technique that is a cross between Harel’s statecharts [52] and directed hypergraphs. ShiViz’s struc- tured search feature comes from Hy+, which allows developers to use the GraphLog language to specify communication patterns of interest. However, unlike ShiViz, Hy+ does not allow develop- ers to compare and cluster multiple executions.
+
+Pajé [18, 19] is a tool to instrument a multi-threaded system to produce partially ordered traces. The tool provides features such as the ability to rewind execution or pinpoint the source code line that generated a specific event. Pajé does not support ShiViz’s features such as keyword search,
+
+De Pauw et al. mine communication flow patterns between web services at transaction granu- larity and have developed a visualization tool to cluster and present the pattern clusters to develop- ers [28]. The tool visualizes web-server interaction patterns as a partial order. It does not, however, support structured search, execution comparison, or associating the diagram with logged infor-
+
+Visualizing communication patterns in publish/subscribe systems can help developers and ad- ministrators understand and manage topic-specific message flows and their performance. The graph-like visualizations can be overlaid on maps to help understand spatial and geographical relationships in message flows [59].
+
+For Charm++ programs, it is possible to use heuristics to partially recover partial order, compen- sating for missing dependencies [54]. ShiViz and XVector are more general and apply to programs other than Charm++ programs, but ShiViz requires logged vector clock timestamps for precisely reconstructing partial order, while XVector may require developers to modify their code.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Ravel [55, 56] is a tool to scalably visualize the communication topologies of MPI applications with thousands of processes. Ravel visualizes both the partial order and the physical clock or- der of MPI send and receive events. Ravel has multiple features to scale the visualization to very large traces, such as strategies to cluster processes and their communication patterns. By contrast, ShiViz is a log analysis tool whose visualization is tightly linked to the input text log. The two tools are complementary: ShiViz has features that Ravel does not, including keyword search, structured search, and comparison and differencing of multiple executions. And, Ravel includes features for understanding performance that are not present in ShiViz. Our ongoing work on TSViz incor- porates some features to visualize performance into a ShiViz-like interface [83] (as discussed in
+
+DAGViz [53] can visualize execution traces of programs written in a task-based parallel gramming paradigm for understanding the performance of such problems. Task-based programming, by design, hides the runtime scheduling mechanisms from the developer, performance-affecting decisions out of the developers’ hands. DAGViz aids understanding of formance bottlenecks. ShiViz could also be used to visualize task-based parallel programs, can similarly help understand bottlenecks, although ShiViz’s focus is not performance. DAGViz, ShiViz is general and can be used to visualize other distributed programs than parallel ones.
+
+Two-dimensional and three-dimensional visualizations can help understand the network traffic patterns of massively parallel programs, e.g., those that execute on supercomputers. Such visu- alizations embed the physical network topology and can help understand and improve system performance [69]. Logical time can help create these large-scale visualizations [55]. By contrast, ShiViz does not focus on the physical topology, and hosts in the ShiViz visualizations can be co- located on the same physical machine or be distributed on different machines. ShiViz also focuses on relatively smaller systems than the massively parallel ones capable of executing on supercom-
+
+Comparing executions can be difficult if the executions are long. ShiViz allows users to filter events and executions to reduce the visual load. Other techniques, such as aggregating the events or data [105], visualizing heatmaps [7, 67], bundling edges [118], or animating the visualization [70] can also manage long executions. Inherently, these techniques aim to abstract away some details of the execution to make it possible to visualize a larger execution, while ShiViz aims to show as many details as is reasonable to help developers understand the relevant behavior. Such work is complementary to ours and ShiViz could be extended with such approaches for long executions; however, such extensions are beyond the scope of this article.
+
+Visualizing Distributed Systems without a Partial Order
+
+Distributed system behavior can be visualized without representing the partial ordering of events. Theia [43] displays a visual signature that summarizes various aspects of a Hadoop execution, such as the execution’s resource utilization. Similarly, shared resource use can be modeled and visualized to represent complex system behavior, such as MapReduce and WatsonDeepQA [31]. SALSA [116] and Mochi [117] are log analysis tools that extract and visualize the control- and data-flow of Hadoop applications’ logic in a variety of forms, including finite state machines. These tools can be used for failure diagnosis and performance debugging. Overall, tools in this category necessarily provide high-level summaries of a system’s behavior. ViVA [73] has a similar goal as ShiViz, but its focus is on visualizing component interactions in a distributed setting; ViVA neither
+
+A promising alternative approach is to use NLP techniques to reconstruct distributed workflow information from existing logs, e.g., as in recent work by Pi et al. [90]. This approach does not
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Tracing and Debugging Distributed Systems
+
+A variety of tracing systems have been proposed to track requests in distributed systems, such as Dapper [110], Zipkin [125], X-Trace [39], and others [3, 5, 100, 115]. For example, vPath [115] is a VM monitor for understanding causality by tracking thread and network activity, and WAP5 [103] relinks a target application to custom system libraries to monitor network communication and reconstruct request paths using statistical inference. By contrast, XVector uses vector clocks to
+
+ShiViz’s side-by-side view with differencing is similar to the side-by-side view in work to evalu- ate the visualization strategies for distributed request-flow comparison by Sambasivan et al. [103]. However, request flow visualization is fundamentally different from observing the partial order- ing of all events in the system. In particular, a single request flow rarely has the same amount of concurrency. More recent work on differencing execution traces [114] collapses loops and clusters traces; adding these features to ShiViz is likely useful.
+
+XVector adds useful partial ordering information to execution logs. We have previously used this information to mine temporal properties to relate events at different hosts and to infer a model of the distributed system from multiple executions. These models, too, were useful for understanding system behavior [10, 11].
+
+Reproducing a bug is a key aspect of debugging. Unfortunately, reproducing bugs in distributed systems can be challenging due to sources of nondeterminism, including scheduling and paral- lel execution. Friday [44] helps replay distributed system executions, eliminating some sources of nondeterminism. Recon [72] can further aid debugging by collecting relations between dis- tributed system artifacts, such as hosts, communication channels, events, and so on, and enabling querying these relationships after the execution. The goal of ShiViz is to improve understand- ing of a distributed system execution, which is often a necessary step in debugging distributed systems. ShiViz does not directly facilitate execution replay, although the happens-before rela- tionship XVector logs can help reconstruct what happened in a non-deterministic execution. The work on debugging distributed systems is complementary to ShiViz, and these tools may benefit
+
+DistIA [17] is a dynamic impact analysis approach for distributed systems. This tool does not visualize/explain executions as ShiViz does; instead, DistIA helps developers make sense of how changes to their code would influence the execution of the processes in the distributed system.
+
+Summarizing Logs and System Behavior
+
+Numerous techniques attempt to summarize multiple system executions as a behavioral model. These approaches target both sequential executions [9, 12, 15, 22, 35, 41, 45, 62, 63, 71, 74, 77, 84, 98, 106, 119] as well as concurrent executions [2, 10, 64]. Such summaries can be created remotely and used to facilitate code reuse [78, 79]. The goal of summarization is to abstract the observed behavior, which is necessarily partial, into a compact representation that often includes other, unobserved, but likely behavior. As a result, while these techniques strive to abstract the behavior precisely, they often make overzealous abstraction decisions that result in loss of precision [62, 71]. Unlike these summarization techniques, ShiViz focuses on visualizing executions exactly as they occurred. ShiViz does not attempt to predict unobserved behavior.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Performance-based Analysis
+
+Distributed system visualization can help understand system performance, and many existing tools aim to analyze or visualize performance-related aspects of distributed system behavior [58, 59]. Coz [23] finds causal performance relationships between execution blocks in concurrent systems. Coz can be used to identify how speeding up a particular block or set of blocks will affect system running time. Unlike ShiViz, Coz does not visualize system executions but does help developers
+
+Flame graphs [48, 49] visualize profiler output to help developers reason about how is consuming resources, which can speed up root cause analysis. Flame graphs combine elements using a resource, using element hierarchy to visualize those elements that use the resources. These graphs can be explored interactively to understand resource use.
+
+Integrated Development Environments
+
+Visualizations of system implementation source code, control flow, data flow, and so on, have long been used to help developers understand and debug their systems. One such common use of visual- izations is by the integrated development environment (IDE). PECAN [91] supports semantic views of a program expression trees, data type diagrams, flow graphs, and the symbol table. The Field environment [93] combines multiple views of the code itself. The Garden environment [92] allows combining graphical and code-based visualizations and supports customizations to the code visu- alizations to better align with the developer’s workflow. The Desert environment [95] allows in- tegrating multiple tools into one environment. Cacti [94] allows combining multiple data sources, such as static and dynamic analyses, into visualizations in an IDE. JIVE [97, 99] and JOVE [99] allow the developer to visualize dynamic analysis traces to quickly understand the implications of changes to code. BLOOM [96] provides a toolkit for data collection, data analysis, and data vi- sualization, again, to help developers understand particular aspects of their systems’ source code through static and dynamic analyses, aiding development and debugging. OverView [32] focuses specifically on visualizing distributed systems in the IDE, helping developers design distributed protocols by creating appropriate abstractions. While these IDEs and IDE components all help vi- sualize various aspects of software systems, they are each quite distinct from ShiViz and its goal of visualizing concurrency of actual executions via the partial ordering of events in a distributed
+
+10 CONTRIBUTIONS
+
+Logging is a common debugging technique, though the logs generated by distributed systems are often difficult to reason about manually. This article introduced a new method to help de- velopers reason about distributed system executions. This method consists of XVector, to auto- mate logging of concurrent behavior in distributed systems, and ShiViz, to visualize the logged executions.
+
+Our method helps both novice and advanced developers to gain insight into the operation and design of their distributed systems. Our evaluation case studies suggest that ShiViz is effective at communicating execution information to the developers and that its visualization transformations and querying mechanisms are helpful. ShiViz helps developers detect issues with their systems and
+
+In addition to developing this method for reasoning about distributed system executions, we implemented XVector as a suite of libraries to augment distributed system execution logs with partial ordering information and ShiViz as a browser-based tool. All our tools, experi- mental design, and data are available publicly. The XVector libraries source code is available at
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+ACKNOWLEDGMENTS
+
+We thank Jenny Abrahamson for developing the initial XVector and ShiViz prototypes and Vaastav Anand, who helped us evaluate ShiViz’ scalability and also helped with development of several XVector variants. We also thank Graham St-Laurent and Matheus Nunes for making numerous improvements to the ShiViz implementation. Further, we thank to Donald Acton and Colin Scott, who helped us evaluate ShiViz, as well as all the participants in our user studies.
+
+REFERENCES
+
+[
+
+] Jenny Abrahamson, Iva
+
+eschastnikh, Yuriy Brun,and Michae
+
+Ernst.
+
+Shedding lighton distributedsystem executions. In Proceedings of the International Conference on Software Engineering (ICSE Poster track) (
+
+–
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Mithun Acharya, Tao Xie, Jian Pei, and Jun Xu.
+
+Mining API patterns as partial orders from source code: From usage scenarios to specifications. In Proceedings of the European Software Engineering Conference and ACM SIGSOFT International Symposium on Foundations of Software Engineering (ESEC/FSE’
+
+). [
+
+] Marcos K. Aguilera, Jeffrey C. Mogul, Janet L. Wiener, Patrick Reynolds, and Athicha Muthitacharoen.
+
+Per- formance debugging for distributed systems of black boxes. SIGOPS OSR
+
+,
+
+(
+
+),
+
+–
+
+[
+
+] Paulo Sérgio Almeida, Carlos Baquero, and Victor Fonte.
+
+Interval tree clocks. In Proceedings of the International Conference on Principles of Distributed Systems (OPODIS’
+
+). Springer-Verlag,
+
+–
+
+DOI:https://doi.org/
+
+/
+
+-
+
+-
+
+-
+
+-
+
+_
+
+[
+
+] Paul Barham, Austin Donnelly, Rebecca Isaacs, and Richard Mortier.
+
+Using Magpie for request extraction and workload modelling. In Proceedings of the Symposium on Operating Systems Design & Implementation (OSDI’
+
+).
+
+–
+
+[
+
+] Daniel Becker, Rolf Rabenseifner, Felix Wolf, and John C. Linford.
+
+Scalable timestamp synchronization for event traces of message-passing applications. Parallel Comput.
+
+,
+
+(
+
+),
+
+–
+
+[
+
+] Omar Benomar, Houari Sahraoui, and Pierre Poulin.
+
+Visualizing software dynamicities with heat maps. In Proceedings of the IEEE Working Conference on Software Visualization (VISSOFT’
+
+). DOI:https://doi.org/
+
+/ VISSOFT.
+
+[
+
+] Philip A. Bernstein, Vassos Hadzilacos, and Nathan Goodman.
+
+Concurrency Control and Recovery in Database Systems (Chapter
+
+). Addison-Wesley Longman Publishing Co., Inc., Boston, MA. [
+
+] Ivan Beschastnikh, Yuriy Brun, Jenny Abrahamson, Michael D. Ernst, and Arvind Krishnamurthy.
+
+Using declarativespecificationtoimprovetheunderstanding,extensibility,andcomparisonofmodel-inferencealgorithms. IEEE Trans. Softw. Eng.
+
+,
+
+(Apr.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/TSE.
+
+[
+
+] Ivan Beschastnikh, Yuriy Brun, Michael D. Ernst, and Arvind Krishnamurthy.
+
+Inferring models of concurrent systems from logs of their behavior with CSight. In Proceedings of the International Conference on Software Engineer- ing (ICSE’
+
+).
+
+–
+
+[
+
+] Ivan Beschastnikh, Yuriy Brun, Michael D. Ernst, Arvind Krishnamurthy, and Thomas E. Anderson.
+
+Mining temporal invariants from partially ordered logs. SIGOPS Oper. Syst. Rev.
+
+,
+
+(Jan.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Ivan Beschastnikh, Yuriy Brun, Sigurd Schneider, Michael Sloan, and Michael D. Ernst.
+
+Leveraging existing instrumentation to automatically infer invariant-constrained models. In Proceedings of the ACM SIGSOFT Conference on the Foundations of Software Engineering (FSE’
+
+).
+
+–
+
+[
+
+] Ivan Beschastnikh, Perry Liu, Albert Xing, Patty Wang, Yuriy Brun, and Michael D. Ernst.
+
+Sh
+
+iz evaluation details. Retrieved from http://bestchai.bitbucket.io/shiviz-evaluation/. [
+
+] Ivan Beschastnikh, Patty Wang, Yuriy Brun, and Michael D. Ernst.
+
+Debugging distributed systems. Commun. ACM
+
+,
+
+(Aug.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Alan W. Biermann and Jerome A. Feldman.
+
+On the synthesis of finite-state machines from samples of their behavior. IEEE Trans. Comput.
+
+,
+
+(
+
+),
+
+–
+
+[
+
+] Bully algorithm
+
+Retrieved from http://en.wikipedia.org/wiki/Bully_algorithm. [
+
+] Haipeng Cai and Douglas Thain.
+
+Dis
+
+A: A cost-effective dynamic impact analysis for distributed programs. In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE’
+
+). [
+
+] Jacques Chassin de Kergommeaux and Benhur de Oliveira Stein.
+
+Flexible performance visualization of parallel and distributed applications. Fut. Gen. Comput. Syst.
+
+,
+
+(
+
+),
+
+–
+
+Haipeng Cai and Douglas Thain. 2016. DistIA: A cost-effective dynamic impact analysis for distributed programs. In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE’16). Jacques Chassin de Kergommeaux and Benhur de Oliveira Stein. 2003. Flexible performance visualization of parallel and distributed applications. Fut. Gen. Comput. Syst. 19, 5 (2003), 735–747.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+I. Beschastnikh et al. [
+
+] Jacques Chassin de Kergommeaux, Benhur de Oliveira Stein, and Pierre-Eric Bernard.
+
+Pajé, an interactive visualization tool for tuning multi-threaded parallel applications. Parallel Comput.
+
+,
+
+(
+
+),
+
+–
+
+[
+
+] Boyuan Chen and Zhen Ming (Jack) Jiang.
+
+Characterizing logging practices in Java-based open source soft- ware projects—A replication study in Apache Software Foundation. Empir. Softw. Eng.
+
+,
+
+(Feb.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/s
+
+-
+
+-
+
+-
+
+[
+
+] Mariano C. Consens, Masum Z. Hasan, and Alberto O. Mendelzon.
+
+Debugging distributed programs by visu- alizing and querying event traces. In Proceedings of the Conference on Applications of Databases, Vol.
+
+–
+
+[
+
+] Jonathan E. Cook and Alexander L. Wolf.
+
+Discovering models of software processes from event-based data. ACM Trans. Softw. Eng. Methodol.
+
+,
+
+(
+
+). [
+
+] Charlie Curtsinger and Emery D. Berger.
+
+Coz: Finding code that counts with causal profiling. In Proceedings of the Symposium on Operating Systems Principles (SOSP’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Wim De Pauw and Henrique Andrade.
+
+Visualizing large-scale streaming applications. Inf. Vis.
+
+,
+
+(Apr.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/ivs.
+
+[
+
+] Wim De Pauw, Henrique Andrade, and Lisa Amini.
+
+Strea
+
+ight: A visualization tool for large-scale streaming applications. In Proceedings of the International Symposium on Software Visualization (Sof
+
+is’
+
+).
+
+–
+
+DOI: https://doi.org/
+
+/
+
+[
+
+] Wim De Pauw and Steve Heisig.
+
+Visual and algorithmic tooling for system trace analysis: A case study. Oper. Syst. Rev.
+
+,
+
+(
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Wim De Pauw and Steve Heisig.
+
+Zinsight: A visual and analytic environment for exploring large event traces. In Proceedings of the International Symposium on Software Visualization (Sof
+
+is’
+
+).
+
+–
+
+[
+
+] Wim De Pauw, Sophia Krasikov, and John F. Morar.
+
+Execution patterns for visualizing web services. In Pro- ceedings of the International Symposium on Software Visualization (Sof
+
+is’
+
+).
+
+–
+
+[
+
+] Wim De Pauw, Mihai Letia, Bugra Gedik, Henrique Andrade, Andy Frenkiel, Michael Pfeifer, and Daby M. Sow.
+
+Visual debugging for stream processing applications. In Proceedings of the International Conference on Runtime Verification (RV’
+
+).
+
+–
+
+[
+
+] Wim De Pauw and John M. Vlissides.
+
+Visualizing object-oriented programs with Jinsight. In Proceedings of the Workshop Ion on Object-Oriented Technology.
+
+–
+
+[
+
+] Wim De Pauw, Joel L. Wolf, and Andrey Balmin.
+
+Visualizing jobs with shared resources in distributed en- vironments. In Proceedings of the IEEE Working Conference on Software Visualization (VISSOFT’
+
+). DOI:https:// doi.org/
+
+/VISSOFT.
+
+[
+
+] Travis Desell, Harihar Narasimha Iyer, Carlos Varela, and Abe Stephens.
+
+Ove
+
+iew: A framework for generic online visualization of distributed systems. Electron. Notes Theor. Comput. Sci. (Eclipse Technol. Exch.:
+
+X Eclipse Phenom.)
+
+(
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/j.entcs.
+
+[
+
+] Dennis Edwards and Phil Kearns.
+
+DTVS: A distributed trace visualization system. In Proceedings of the Sym- posium on Parallel and Distributed Processing (IPDPS’
+
+).
+
+–
+
+[
+
+] elasticsearch
+
+Retrieved from https://www.elastic.co/products/elasticsearch. [
+
+] Dirk Fahland, David Lo, and Shahar Maoz.
+
+Mining branching-time scenarios. In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE’
+
+). [
+
+] Colin J. Fidge.
+
+Timestamps in message-passing systems that preserve the partial ordering. In Proceedings of the Australasian Computer Science Conference (ACSC’
+
+).
+
+–
+
+[
+
+] Cormac Flanagan and Patrice Godefroid.
+
+Dynamic partial-order reduction for model checking software. In Proceedings of the ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL’
+
+).
+
+–
+
+[
+
+] fluentd
+
+Retrieved from http://www.fluentd.org/. [
+
+] Rodrigo Fonseca, George Porter, Randy H. Katz, Scott Shenker, and Ion Stoica.
+
+X-Trace: A pervasive net- work tracing framework. In Proceedings of the USENIX Conference on Networked Systems Design & Implementation (NSDI’
+
+).
+
+–
+
+[
+
+] Qiang Fu, Jieming Zhu, Wenlu Hu, Jian-Guang Lou, Rui Ding, Qingwei Lin, Dongmei Zhang, and Tao Xie.
+
+Where do developers log? An empirical study on logging practices in industry. In Proceedings of the International Conference on Software Engineering (ICSE’
+
+). [
+
+] Mark Gabel and Zhendong Su.
+
+Javert: Fully automatic mining of general temporal properties from dynamic traces. In Proceedings of the International Symposium on Foundations of Software Engineering (FSE’
+
+). DOI:https:// doi.org/
+
+/
+
+[
+
+] Yu Gan, Yanqi Zhang, Dailun Cheng, Ankitha Shetty, Priyal Rathi, Nayan Katarki, Ariana Bruno, Justin Hu, Brian Ritchken, Brendon Jackson, Kelvin Hu, Meghna Pancholi, Yuan He, Brett Clancy, Chris Colen, Fukang Wen, Cather- ine Leung, Siyuan Wang, Leon Zaruvinsky, Mateo Espinosa, Rick Lin, Zhongling Liu, Jake Padilla, and Christina Delimitrou.
+
+An open-source benchmark suite for microservices and their hardware-software implications for cloud & edge systems. In Proceedings of the Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’
+
+). Transactions on Software Engineering and Methodology, Vol.
+
+, No.
+
+, Article
+
+Pub. date: March
+
+[
+
+] Boyuan Chen and Zhen Ming (Jack) Jiang.
+
+Characterizing logging practices in Java-based open source soft- ware projects—A replication study in Apache Software Foundation. Empir. Softw. Eng.
+
+,
+
+(Feb.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/s
+
+-
+
+-
+
+-
+
+[
+
+] Mariano C. Consens, Masum Z. Hasan, and Alberto O. Mendelzon.
+
+Debugging distributed programs by visu- alizing and querying event traces. In Proceedings of the Conference on Applications of Databases, Vol.
+
+–
+
+[
+
+] Jonathan E. Cook and Alexander L. Wolf.
+
+Discovering models of software processes from event-based data. ACM Trans. Softw. Eng. Methodol.
+
+,
+
+(
+
+). [
+
+] Charlie Curtsinger and Emery D. Berger.
+
+Coz: Finding code that counts with causal profiling. In Proceedings of the Symposium on Operating Systems Principles (SOSP’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Wim De Pauw and Henrique Andrade.
+
+Visualizing large-scale streaming applications. Inf. Vis.
+
+,
+
+(Apr.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/ivs.
+
+[
+
+] Wim De Pauw, Henrique Andrade, and Lisa Amini.
+
+Strea
+
+ight: A visualization tool for large-scale streaming applications. In Proceedings of the International Symposium on Software Visualization (Sof
+
+is’
+
+).
+
+–
+
+DOI: https://doi.org/
+
+/
+
+[
+
+] Wim De Pauw and Steve Heisig.
+
+Visual and algorithmic tooling for system trace analysis: A case study. Oper. Syst. Rev.
+
+,
+
+(
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Wim De Pauw and Steve Heisig.
+
+Zinsight: A visual and analytic environment for exploring large event traces. In Proceedings of the International Symposium on Software Visualization (Sof
+
+is’
+
+).
+
+–
+
+[
+
+] Wim De Pauw, Sophia Krasikov, and John F. Morar.
+
+Execution patterns for visualizing web services. In Pro- ceedings of the International Symposium on Software Visualization (Sof
+
+is’
+
+).
+
+–
+
+[
+
+] Wim De Pauw, Mihai Letia, Bugra Gedik, Henrique Andrade, Andy Frenkiel, Michael Pfeifer, and Daby M. Sow.
+
+Visual debugging for stream processing applications. In Proceedings of the International Conference on Runtime Verification (RV’
+
+).
+
+–
+
+[
+
+] Wim De Pauw and John M. Vlissides.
+
+Visualizing object-oriented programs with Jinsight. In Proceedings of the Workshop Ion on Object-Oriented Technology.
+
+–
+
+[
+
+] Wim De Pauw, Joel L. Wolf, and Andrey Balmin.
+
+Visualizing jobs with shared resources in distributed en- vironments. In Proceedings of the IEEE Working Conference on Software Visualization (VISSOFT’
+
+). DOI:https:// doi.org/
+
+/VISSOFT.
+
+[
+
+] Travis Desell, Harihar Narasimha Iyer, Carlos Varela, and Abe Stephens.
+
+Ove
+
+iew: A framework for generic online visualization of distributed systems. Electron. Notes Theor. Comput. Sci. (Eclipse Technol. Exch.:
+
+X Eclipse Phenom.)
+
+(
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/j.entcs.
+
+Charlie Curtsinger and Emery D. Berger. 2015. Coz: Finding code that counts with causal profiling. In Proceedings of the Symposium on Operating Systems Principles (SOSP’15). 184–197. DOI:https://doi.org/10.1145/2815400.2815409 Wim De Pauw and Henrique Andrade. 2009. Visualizing large-scale streaming applications. Inf. Vis. 8, 2 (Apr. 2009),
+
+Yu Gan, Yanqi Zhang, Dailun Cheng, Ankitha Shetty, Priyal Rathi, Nayan Katarki, Ariana Bruno, Justin Hu, Brian Ritchken, Brendon Jackson, Kelvin Hu, Meghna Pancholi, Yuan He, Brett Clancy, Chris Colen, Fukang Wen, Cather- ine Leung, Siyuan Wang, Leon Zaruvinsky, Mateo Espinosa, Rick Lin, Zhongling Liu, Jake Padilla, and Christina Delimitrou. 2019. An open-source benchmark suite for microservices and their hardware-software implications for cloud & edge systems. In Proceedings of the Conference on Architectural Support for Programming Languages and
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Visualizing Distributed System Executions
+
+intensive web applications. In Proceedings of the ACM/IEEE International Conference on Software (ICSE’
+
+). Stewart Grant, Hendrik Cech, and Ivan Beschastnikh.
+
+Inferring and asserting distributed system In Proceedings of the International Conference on Software Engineering (ICSE’
+
+).
+
+–
+
+/
+
+graylog.
+
+Retrieved from https://www.graylog.org/. Brendan Gregg.
+
+The flame graph. Commun. ACM
+
+,
+
+(June
+
+),
+
+–
+
+Brendan Gregg.
+
+Visualizing performance with flame graphs. In Proceedings of the USENIX Annual Conference (ATC’
+
+).
+
+–
+
+Haryadi S. Gunawi, Mingzhe Hao, Tanakorn Leesatapornwongsa, Tiratat Patana-Anake, Thanh Do, Jeffry atama, Kurnia J. Eliazar, Agung Laksono, Jeffrey F. Lukman, Vincentius Martin, and Anang D. Satria.
+
+bugs live in the cloud? A study of
+
++ issues in cloud systems. In Proceedings of the ACM Symposium on Computing (S
+
+C’
+
+). Haryadi S. Gunawi, Mingzhe Hao, Riza O. Suminto, Agung Laksono, Anang D. Satria, Jeffry Adityatama, and J. Eliazar.
+
+Why does the cloud stop computing?: Lessons from hundreds of service outages. In Proceedings the ACM Symposium on Cloud Computing (S
+
+C’
+
+). David Harel.
+
+Statecharts: A visual formalism for complex systems. Sci. Comput. Program.
+
+,
+
+(
+
+), task-parallel program traces. In Proceedings of the
+
+nd Workshop on Visual Performance Analysis (VPA’
+
+). DOI:https://doi.org/
+
+/
+
+Katherine E. Isaacs, Abhinav Bhatele, Jonathan Lifflander, David Böhme, Todd Gamblin, Martin Schulz, Hamann, and Peer-Timo Bremer.
+
+Recovering logical structure from Charm++ event traces. In Proceedings the International Conference for High Performance Computing, Networking, Storage and Analysis (SC’
+
+). DOI:https://doi.org/
+
+/
+
+Katherine E. Isaacs, Peer-Timo Bremer, Ilir Jusufi, Todd Gamblin, Abhinav Bhatele, Martin Schulz, and Hamann.
+
+Combing the communication hairball: Visualizing parallel execution traces using logical time. Trans. Vis. Comput. Graph.
+
+,
+
+(Dec.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/TVCG.
+
+Katherine E. Isaacs, Todd Gamblin, Abhinav Bhatele, Martin Schulz, Bernd Hamann, and Peer-Timo Bremer. Ordering traces logically to identify lateness in message passing programs. IEEE Trans. Parallel Distrib. Syst. (Mar.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/TPDS.
+
+Peer-Timo Bremer.
+
+State-of-the-art of performance visualization. In Proceedings of the Eurographics on Visualization (Eur
+
+is’
+
+). Hank Jakiela.
+
+Performance visualization of a distributed system: A case study. Computer
+
+,
+
+(Nov.
+
+–
+
+DOI:https://doi.org/
+
+/
+
+Kyriakos Karenos, Wim De Pauw, and Hui Lei.
+
+A topic-based visualization tool for distributed lish/subscribe messaging. In Proceedings of the International Symposium on Applications and the Internet
+
+–
+
+DOI:https://doi.org/
+
+/SAINT.
+
+kibana
+
+Retrieved from https://www.elastic.co/products/kibana. J. Klensin.
+
+Simple Mail Transfer Protocol. RFC
+
+(Draft Standard). Retrieved from rfc
+
+txt. Ivo Krka, Yuriy Brun, and Nenad Medvidovic.
+
+Automatic mining of specifications from invocation and method invariants. In Proceedings of the ACM SIGSOFT International Symposium on Foundations of Engineering (FSE’
+
+) (
+
+–
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+Ivo Krka, Yuriy Brun, Daniel Popescu, Joshua Garcia, and Nenad Medvidovic.
+
+Using dynamic execution and program invariants to enhance behavioral model inference. In Proceedings of the International Conference Software Engineering (ICSE NIER track) (
+
+–
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+Sandeep Kumar, Siau-Cheng Khoo, Abhik Roychoudhury, and David Lo.
+
+Inferring class level for distributed systems. In Proceedings of the ACM/IEEE International Conference on Software Engineering Thomas Kunz, David J. Taylor, and James P. Black.
+
+Poet: Target-system independent visualizations of distributed-application executions. Comput. J.
+
+(
+
+),
+
+–
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+I. Beschastnikh et [
+
+] James F. Kurose and Keith W. Ross.
+
+Computer Networking: A Top-down Approach (
+
+th ed.). Pearson. [
+
+] Fabrizio Lamberti and Gianluca Paravati.
+
+VDHM: Viewport-DOM based heat maps as a tool for visually gating web users’ interaction data from mobile and heterogeneous devices. In Proceedings of the IEEE Conference on Mobile Services (MS’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/Mo
+
+erv.
+
+[
+
+] Leslie Lamport.
+
+Time, clocks, and the ordering of events in a distributed system. Commun. ACM
+
+,
+
+–
+
+[
+
+] Aaditya G. Landge, Joshua A. Levine, Katherine E. Isaacs, Abhinav Bhatele, Todd Gamblin, Martin Schulz, Steve Langer, Peer-Timo Bremer,an
+
+alerio Pascucci.
+
+Visualizing network traffic to understand the performance massively parallel simulations. IEEE Trans. Vis. Comput. Graph.
+
+,
+
+(Dec.
+
+),
+
+–
+
+/TVCG.
+
+[
+
+] Guillaume Langelier, Houari Sahraoui, and Pierre Poulin.
+
+Exploring the evolution of software quality animated visualization. In Proceedings of the IEEE Symposium on Visual Languages and Human-Centric (VL/HCC’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/VLHCC.
+
+[
+
+] Tien-Duy B. Le, Xuan-Bach D. Le, David Lo, and Ivan Beschastnikh.
+
+Synergizing specification miners model fissions and fusions. In Proceedings of the IEEE/ACM International Conference on Automated Software neering (ASE’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/ASE.
+
+[
+
+] Kyu Hyung Lee, Nick Sumner, Xiangyu Zhang, and Patrick Eugster.
+
+Unified debugging of distributed with Recon. In Proceedings of the IEEE/IFIP
+
+st International Conference on Dependable Systems & Networks
+
+–
+
+DOI:https://doi.org/
+
+/DSN.
+
+[
+
+] Youn Kyu Lee, Jae Young Bang, Joshua Garcia, and Nenad Medvidovic.
+
+V
+
+A: A visualization and analysis (ICSE Demo track).
+
+–
+
+[
+
+] David Lo and Shahar Maoz.
+
+Scenario-based and value-based specification mining: Better together. In ings of the IEEE/ACM International Conference on Automated Software Engineering (ASE’
+
+).
+
+–
+
+[
+
+] loggly
+
+Retrieved from https://www.loggly.com/. [
+
+] logstash
+
+Retrieved from https://www.elastic.co/products/logstash. [
+
+] Davide Lorenzoli, Leonardo Mariani, and Mauro Pezzè.
+
+Automatic generation of software behavioral In Proceedings of the International Conference on Software Engineering (ICSE’
+
+).
+
+–
+
+/
+
+[
+
+] Stuart Marshall, Kirk Jackson, Craig Anslow, and Robert Biddle.
+
+Aspects to visualising reusable In Proceedings of the Asia-Pacific Symposium on Information Visualisation (APVis’
+
+), Vol.
+
+–
+
+[
+
+] Stuart Marshall, Kirk Jackson, Robert Biddle, Michael M
+
+avin, Ewan Tempero, and Matthew Duignan.
+
+sualising reusable software over the web. In Proceedings of the Asia-Pacific Symposium on Information (APVis’
+
+), Vol.
+
+–
+
+[
+
+] Friedemann Mattern.
+
+Virtual time and global states of distributed systems. In Parallel and Distributed rithms. North-Holland,
+
+–
+
+[
+
+] mongodb
+
+Retrieved from https://www.mongodb.org/. [
+
+] F. Neves, N. Machado, and J. Pereira.
+
+Falcon: A practical log-based analysis tool for distributed In Proceedings of the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN’
+
+). DOI:https://doi.org/
+
+/DSN.
+
+[
+
+] Matheus Nunes, Ashaya Sharma Harjeet Lalh, Augustine Wong, Svetozar Miucin, Alexandra Fedorova, and Beschastnikh.
+
+Studying multi-threaded behavior with TSViz. In Proceedings of the International Conference Software Engineering (ICSE Demo track). [
+
+] Tony Ohmann, Michael Herzberg, Sebastian Fiss, Armand Halbert, Marc Palyart, Ivan Beschastnikh, and Brun.
+
+Behavioral resource-aware model inference. In Proceedings of the IEEE/ACM International Conference Automated Software Engineering (ASE’
+
+) (
+
+–
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Adam Oliner, Archana Ganapathi, and Wei Xu.
+
+Advances and challenges in log analysis. Commun. ACM
+
+, (Feb.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Diego Ongaro and John Ousterhout.
+
+In search of an understandable consensus algorithm. In Proceedings of USENIX Annual Technical Conference (ATC’
+
+).
+
+–
+
+[
+
+] papertrailapp
+
+Retrieved from https://papertrailapp.com/. [
+
+] Antonio Pecchia, Marcello Cinque, Gabriella Carrozza, and Domenico Cotroneo.
+
+Industry practices and logging: Assessment of a critical software development process. In Proceedings of the International Conference Software Engineering (ICSE’
+
+). [
+
+] Raphae
+
+ham,Stephan Kiesling,Olg
+
+iskin,Lei
+
+inger, an
+
+urt Schneider.
+
+Enablers,inhibitors, of Software Engineering (FSE’
+
+).
+
+James F. Kurose and Keith W. Ross. 2012. Computer Networking: A Top-down Approach (6th ed.). Pearson. Fabrizio Lamberti and Gianluca Paravati. 2015. VDHM: Viewport-DOM based heat maps as a tool for visually aggre- gating web users’ interaction data from mobile and heterogeneous devices. In Proceedings of the IEEE International Conference on Mobile Services (MS’15). 33–40. DOI:https://doi.org/10.1109/MobServ.2015.15 Leslie Lamport. 1978. Time, clocks, and the ordering of events in a distributed system. Commun. ACM 21, 7 (1978),
+
+gating web users’ interaction data from mobile and heterogeneous devices. In Proceedings of the IEEE International Conference on Mobile Services (MS’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/Mo
+
+erv.
+
+[
+
+] Leslie Lamport.
+
+Time, clocks, and the ordering of events in a distributed system. Commun. ACM
+
+,
+
+(
+
+),
+
+–
+
+[
+
+] Aaditya G. Landge, Joshua A. Levine, Katherine E. Isaacs, Abhinav Bhatele, Todd Gamblin, Martin Schulz, Steve H. Langer, Peer-Timo Bremer,an
+
+alerio Pascucci.
+
+Visualizing network traffic to understand the performance of massively parallel simulations. IEEE Trans. Vis. Comput. Graph.
+
+,
+
+(Dec.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/TVCG.
+
+[
+
+] Guillaume Langelier, Houari Sahraoui, and Pierre Poulin.
+
+Exploring the evolution of software quality with animated visualization. In Proceedings of the IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/VLHCC.
+
+[
+
+] Tien-Duy B. Le, Xuan-Bach D. Le, David Lo, and Ivan Beschastnikh.
+
+Synergizing specification miners through model fissions and fusions. In Proceedings of the IEEE/ACM International Conference on Automated Software Engi- neering (ASE’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/ASE.
+
+[
+
+] Kyu Hyung Lee, Nick Sumner, Xiangyu Zhang, and Patrick Eugster.
+
+Unified debugging of distributed systems with Recon. In Proceedings of the IEEE/IFIP
+
+st International Conference on Dependable Systems & Networks (DSN’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/DSN.
+
+[
+
+] Youn Kyu Lee, Jae Young Bang, Joshua Garcia, and Nenad Medvidovic.
+
+V
+
+A: A visualization and analysis tool fordistributedevent-basedsystems.I
+
+roceedingsofth
+
+CM/IEEEInternationa
+
+onferenceo
+
+oftwar
+
+ngineering (ICSE Demo track).
+
+–
+
+[
+
+] David Lo and Shahar Maoz.
+
+Scenario-based and value-based specification mining: Better together. In Proceed- ings of the IEEE/ACM International Conference on Automated Software Engineering (ASE’
+
+).
+
+–
+
+[
+
+] loggly
+
+Retrieved from https://www.loggly.com/. [
+
+] logstash
+
+Retrieved from https://www.elastic.co/products/logstash. [
+
+] Davide Lorenzoli, Leonardo Mariani, and Mauro Pezzè.
+
+Automatic generation of software behavioral models. In Proceedings of the International Conference on Software Engineering (ICSE’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Stuart Marshall, Kirk Jackson, Craig Anslow, and Robert Biddle.
+
+Aspects to visualising reusable components. In Proceedings of the Asia-Pacific Symposium on Information Visualisation (APVis’
+
+), Vol.
+
+–
+
+Davide Lorenzoli, Leonardo Mariani, and Mauro Pezzè.
+
+Automatic generation of software behavioral In Proceedings of the International Conference on Software Engineering (ICSE’
+
+).
+
+–
+
+/
+
+Stuart Marshall, Kirk Jackson, Craig Anslow, and Robert Biddle.
+
+Aspects to visualising reusable In Proceedings of the Asia-Pacific Symposium on Information Visualisation (APVis’
+
+), Vol.
+
+–
+
+Stuart Marshall, Kirk Jackson, Robert Biddle, Michael M
+
+avin, Ewan Tempero, and Matthew Duignan.
+
+sualising reusable software over the web. In Proceedings of the Asia-Pacific Symposium on Information (APVis’
+
+), Vol.
+
+–
+
+Friedemann Mattern.
+
+Virtual time and global states of distributed systems. In Parallel and Distributed rithms. North-Holland,
+
+–
+
+mongodb
+
+Retrieved from https://www.mongodb.org/. F. Neves, N. Machado, and J. Pereira.
+
+Falcon: A practical log-based analysis tool for distributed In Proceedings of the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN’
+
+). DOI:https://doi.org/
+
+/DSN.
+
+Matheus Nunes, Ashaya Sharma Harjeet Lalh, Augustine Wong, Svetozar Miucin, Alexandra Fedorova, and Beschastnikh.
+
+Studying multi-threaded behavior with TSViz. In Proceedings of the International Conference Software Engineering (ICSE Demo track). Tony Ohmann, Michael Herzberg, Sebastian Fiss, Armand Halbert, Marc Palyart, Ivan Beschastnikh, and Brun.
+
+Behavioral resource-aware model inference. In Proceedings of the IEEE/ACM International Conference Automated Software Engineering (ASE’
+
+) (
+
+–
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+Adam Oliner, Archana Ganapathi, and Wei Xu.
+
+Advances and challenges in log analysis. Commun. ACM
+
+, (Feb.
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/
+
+Diego Ongaro and John Ousterhout.
+
+In search of an understandable consensus algorithm. In Proceedings of USENIX Annual Technical Conference (ATC’
+
+).
+
+–
+
+papertrailapp
+
+Retrieved from https://papertrailapp.com/. Antonio Pecchia, Marcello Cinque, Gabriella Carrozza, and Domenico Cotroneo.
+
+Industry practices and logging: Assessment of a critical software development process. In Proceedings of the International Conference Software Engineering (ICSE’
+
+). Raphae
+
+ham,Stephan Kiesling,Olg
+
+iskin,Lei
+
+inger, an
+
+urt Schneider.
+
+Enablers,inhibitors, of Software Engineering (FSE’
+
+).
+
+RaphaelPham,Stephan Kiesling,OlgaLiskin,LeifSinger, andKurt Schneider. 2014.Enablers,inhibitors, andpercep- tionsoftestinginnovicesoftwareteams.InProceedingsoftheACMSIGSOFTInternationalSymposiumonFoundations of Software Engineering (FSE’14).
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March 2020.
+
+Visualizing Distributed System Executions
+
+[
+
+] Aidi Pi, Wei Chen, Shaoqi Wang, and Xiaobo Zhou.
+
+Semantic-aware workflow construction and analysis distributed data analytics systems. In Proceedings of the International Symposium on High-Performance Parallel Distributed Computing (HPDC’
+
+). ACM, New York, NY. DOI:https://doi.org/
+
+/
+
+[
+
+] Steven P. Reiss.
+
+PECAN: Program development systems that support multiple views. IEEE Trans. Softw.
+
+,
+
+(
+
+),
+
+–
+
+DOI:https://doi.org/
+
+/TSE.
+
+[
+
+] Steven P. Reiss.
+
+Working in the garden environment for conceptual programming. IEEE Softw.
+
+,
+
+–
+
+DOI:https://doi.org/
+
+/MS.
+
+[
+
+] Steven P. Reiss.
+
+Connecting tools using message passing in the field environment. IEEE Softw.
+
+,
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Steven P. Reiss.
+
+Cacti: A front end for program visualization. In Proceedings of the IEEE Symposium on mation Visualization (Inf
+
+is’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/INFVIS.
+
+[
+
+] Steven P. Reiss.
+
+The desert environment. ACM Trans. Softw. Eng. Methodol.
+
+,
+
+(
+
+),
+
+–
+
+//doi.org/Reiss
+
+[
+
+] Steven P. Reiss.
+
+An overview of BLOOM. In Proceedings of the ACM SIGPLAN-SIGSOFT Workshop on Analysis for Software Tools and Engineering (PASTE’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Steven P. Reiss.
+
+JIVE: Visualizing Java in action demonstration description. In Proceedings of the International Conference on Software Engineering (ICSE’
+
+).
+
+–
+
+[
+
+] Conference on Software Engineering (ICSE’
+
+).
+
+–
+
+[
+
+] Steven P. Reiss and Manos Renieris.
+
+Demonstration of JIVE and JOVE: Java as it happens. In Proceedings the ACM/IEEE International Conference on Software Engineering (ICSE Demo Track).
+
+–
+
+/
+
+[
+
+] Patrick Reynolds, Janet L. Wiener, Jeffrey C. Mogul, Marcos K. Aguilera, and Amin Vahdat.
+
+WAP
+
+: performance debugging for wide-area systems. In Proceedings of the International Conference on World Wide (WWW’
+
+). DOI:https://doi.org/
+
+/
+
+[
+
+] scale peer-to-peer systems. In Proceedings of the IFIP/ACM International Conference on Distributed Systems and Open Distributed Processing (Middleware’
+
+).
+
+–
+
+[
+
+] engineering experiments? In Proceedings of the International Conference on Software Engineering (ICSE’
+
+). [
+
+] R. R. Sambasivan, I. Shafer, M. L. Mazurek, and G. R. Ganger.
+
+Visualizing request-flow comparison to performance diagnosis in distributed systems. IEEE Trans. Vis. Comput. Graph.
+
+,
+
+(Dec.
+
+), DOI:https://doi.org/
+
+/TVCG.
+
+[
+
+] Shlomo S. Sawilowsky.
+
+New effect size rules of thumb. J. Mod. Appl. Stat. Meth.
+
+,
+
+(
+
+),
+
+-
+
+[
+
+] Teseo Schneider, Yuriy Tymchuk, Ronie Salgado, and Alexandre Bergel.
+
+Cuboi
+
+atrix: Exploring structural connectionsinsoftwarecomponentsusingspace-timecube.I
+
+roceedings on Software Visualization (VISSOFT’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/VISSOFT.
+
+[
+
+] Matthias Schur, Andreas Roth, and Andreas Zeller.
+
+Mining behavior models from enterprise web tions. In Proceedings of the European Software Engineering Conference and ACM SIGSOFT International on Foundations of Software Engineering (ESEC/FSE’
+
+).
+
+–
+
+[
+
+] Coli
+
+cott,Vjekosla
+
+rajkovic,Georg
+
+ecula,Arvin
+
+rishnamurthy,an
+
+cot
+
+henker. executions of distributed systems. In Proceedings of the USENIX Conference on Networked Systems Design & mentation (NSDI’
+
+).
+
+–
+
+[
+
+] Colin Scott, Andreas Wundsam, Barath Raghavan, Aurojit Panda, Andrew Or, Jefferson Lai, Eugene Huang, Liu, Ahmed El-Hassany, Sam Whitlock, H. B. Acharya, Kyriakos Zarifis, and Scott Shenker.
+
+blackbox SDN control software with minimal causal sequences. In Proceedings of the Conference on Technologies, Architectures, and Protocols for Computer Communication (SIGCOMM’
+
+).
+
+–
+
+[
+
+] Weiyi Shang, Meiyappan Nagappan, Ahmed E. Hassan, and Zhen Ming Jiang.
+
+Understanding log lines ing development knowledge. In Proceedings of the International Conference on Software Maintenance and (ICSME’
+
+).
+
+–
+
+DOI:https://doi.org/
+
+/ICSME.
+
+[
+
+] Benjamin H. Sigelman, Luiz André Barroso, Mike Burrows, Pat Stephenson, Manoj Plakal, Donald Beaver, Jaspan, and Chandan Shanbhag.
+
+Dapper, a Large-Scale Distributed Systems Tracing Infrastructure. Report. Google, Inc. Retrieved from http://research.google.com/archive/papers/dapper-
+
+-
+
+pdf. [
+
+] splunk
+
+Retrieved from http://www.splunk.com/. [
+
+] Roshan Sumbaly, Jay Kreps, Lei Gao, Alex Feinberg, Chinmay Soman, and Sam Shah.
+
+Serving large-scale computed data with Project Voldemort. In Proceedings of the USENIX Conference on File and Storage (FAST’
+
+).
+
+–
+
+ACM Transactions on Software Engineering and Methodology, Vol.
+
+, No.
+
+, Article
+
+Pub. date: March
+
+Steven P. Reiss. 2001. An overview of BLOOM. In Proceedings of the ACM SIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering (PASTE’01). 2–5. DOI:https://doi.org/10.1145/379605.379629 Steven P. Reiss. 2003. JIVE: Visualizing Java in action demonstration description. In Proceedings of the ACM/IEEE International Conference on Software Engineering (ICSE’03). 820–821. DOI:https://doi.org/10.1109/ICSE.2003.1201303 StevenP.ReissandManosRenieris.2001.Encodingprogramexecutions.InProceedingsoftheACM/IEEEInternational
+
+Roshan Sumbaly, Jay Kreps, Lei Gao, Alex Feinberg, Chinmay Soman, and Sam Shah. 2012. Serving large-scale batch computed data with Project Voldemort. In Proceedings of the USENIX Conference on File and Storage Technologies (FAST’12). 18–18.
+
+ACM Transactions on Software Engineering and Methodology, Vol. 29, No. 2, Article 9. Pub. date: March
+
+[
+
+] Saeed Taheri, Ian Briggs, Martin Burtscher, and Ganesh Gopalakrishnan.
+
+Dif
+
+race: Efficient trace analysis and diffing for debugging. In Proceedings of the International Conference on Cluster Computing. [
+
+] Byung Chul Tak, Chunqiang Tang, Chun Zhang, Sriram Govindan, Bhuvan Urgaonkar, and Rong N. Chang.
+
+ath: Precise discovery of request processing paths from black-box observations of thread and network In Proceedings of the USENIX Annual Technical Conference (USENIX’
+
+).
+
+:
+
+–
+
+:
+
+[
+
+] Jiaqi Tan, Xinghao Pan, Soila Kavulya, Rajeev Gandhi, and Priya Narasimhan.
+
+SALSA: analyzing logs as machines. In Proceedings of the
+
+st USENIX Conference on Analysis of System Logs (WASL’
+
+). [
+
+] Jiaqi Tan, Xinghao Pan, Soila Kavulya, Rajeev Gandhi, and Priya Narasimhan.
+
+Mochi: Visual log-analysis tools for debugging hadoop. In Proceedings of the USENIX Workshop on Hot Topics in Cloud Computing [
+
+] Jonas Trümper, Jürgen Döllner, and Alexandru Telea.
+
+Multiscale visual comparison of execution traces. Proceedings of the International Conference on Program Comprehension (ICPC’
+
+).
+
+–
+
+ICPC.
+
+[
+
+] Neil Walkinshaw and Kirill Bogdanov.
+
+Inferring finite-state models with temporal constraints. In of the IEEE/ACM International Conference on Automated Software Engineering (ASE’
+
+).
+
+–
+
+[
+
+] Tianyin Xu, Han Min Naing, Le Lu, and Yuanyuan Zhou.
+
+How do system administrators resolve issues in the real world? In Proceedings of the Conference on Human Factors in Computing Systems (CHI’
+
+). [
+
+] Tianyin Xu and Yuanyuan Zhou.
+
+Systems approaches to tackling configuration errors: A survey. Comput.
+
+,
+
+(July
+
+),
+
+:
+
+–
+
+:
+
+DOI:https://doi.org/
+
+/
+
+[
+
+] Wei Xu, Ling Huang, Armando Fox, David Patterson, and Michael Jordan.
+
+Experience mining Google’s duction console logs. In Proceedings of the Workshop on Managing Systems via Log Analysis and Machine Techniques (SLAML’
+
+). [
+
+] Ding Yuan, Soyeon Park, and Yuanyuan Zhou.
+
+Characterizing logging practices in open-source software. Proceedings of the International Conference on Software Engineering (ICSE’
+
+). [
+
+] Xu Zhao, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan, and Yuanyuan Zhou.
+
+Log
+
+: Fully optimal placement of log printing statements under specified overhead threshold. In Proceedings of the on Operating Systems Principles (SOSP’
+
+). [
+
+] Zipkin
+
+Retrieved from http://zipkin.io/.
+
+Saeed Taheri, Ian Briggs, Martin Burtscher, and Ganesh Gopalakrishnan. 2019. DiffTrace: Efficient whole-program trace analysis and diffing for debugging. In Proceedings of the International Conference on Cluster Computing. IEEE. Byung Chul Tak, Chunqiang Tang, Chun Zhang, Sriram Govindan, Bhuvan Urgaonkar, and Rong N. Chang. 2009. vPath: Precise discovery of request processing paths from black-box observations of thread and network activities.
+
+Jiaqi Tan, Xinghao Pan, Soila Kavulya, Rajeev Gandhi, and Priya Narasimhan. 2009. Mochi: Visual log-analysis based tools for debugging hadoop. In Proceedings of the USENIX Workshop on Hot Topics in Cloud Computing (HotCloud’09). Jonas Trümper, Jürgen Döllner, and Alexandru Telea. 2013. Multiscale visual comparison of execution traces. In Proceedings of the International Conference on Program Comprehension (ICPC’13). 53–62. DOI:https://doi.org/10.1109/
+
+Received October 2018; revised September 2019; accepted November 2019

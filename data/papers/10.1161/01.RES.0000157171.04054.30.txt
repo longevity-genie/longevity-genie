@@ -1,0 +1,413 @@
+é AmericanHeartAssociatione
+
+CirculationResearc 
+
+Can ee 
+
+Association Between a Functional Variant of the KLOTHO Gene and High-Density Lipoprotein Cholesterol, Blood Pressure, Stroke, and Longevity Dan E. Arking, Gil Atzmon, Albert Arking, Nir Barzilai and Harry C. Dietz
+
+Circ Res. 2005;96:412-418; originally published online January 27, 2005;
+
+Research is published by the American Heart Association, 7272 Greenville Avenue, Dallas, TX Copyright © 2005 American Heart Association, Inc. All rights reserved. Print ISSN: 0009-7330. Online ISSN: 1524-4571
+
+Permissions: Requests for permissions to reproduce figures, tables, or portions of articles originally published in Circulation Research can be obtained via RightsLink, a service of the Copyright Clearance Center, not the Editorial Office. Once the online version of the published article for which permission is being requested is located, click Request Permissions in the middle column of the Web page under Services. Further information about this process is available in the Permissions and Rights Question and Answer document.
+
+in Circulation Research can be obtained via Right
+
+ink, a service of the Copyright Clearance Center, not the Editorial Office. Once the online version of the published article for which permission is being requested is located, click Request Permissions in the middle column of the Web page under Services. Further information about this process is available in the Permissions and Rights Question and Answer document. Reprints: Information about reprints can be found online at: http://www.lww.com/reprints
+
+Reprints: Information about reprints can be found online at:
+
+Association Between a Functional Variant of the KLOTHO Gene and High-Density Lipoprotein Cholesterol, Blood Pressure, Stroke, and Longevity
+
+Dan E. Arking, Gil Atzmon, Albert Arking, Nir Barzilai, Harry C. Dietz
+
+previously identified a functional variant of KLOTHO, termed KL-VS, that is associated with human aging and early-onset occult coronary artery disease. Here, we determine whether the KL-VS allele influences cardiovascular disease risk factors, cardiovascular events, and ultimately, mortality. A total of 525 Ashkenazi Jews composed of 216  probands (age 95 years) and 309 unrelated individuals (ages 51 to 94) were genotyped for the KL-VS allele. In   D<( concordance with our previous data in Czech individuals (age 79; P 0.01), a heterozygous advantage for longevity 27 P<( was observed for individuals 79 years of age (P 0.004). Combined analysis indicates a 1.57-fold (95% CI, 1.23 to P<() 1.98) increased odds ratio (OR) for 5-year survival in two independent populations (P 0.0002). Cardiovascular disease risk factors were assessed through multivariate regression analysis, demonstrating that high-density lipoprotein P<() meeeP<() cholesterol (HDL-C; P 0.05) and systolic blood pressure (SBP; P 0.008) are associated with KL-VS genotype. History of vascular events was analyzed using logistic regression, indicating that after adjustment for traditional risk factors, heterozygous individuals were at significantly lower risk for stroke than wild-type individuals (OR, 5.88; 95% CI, 1.18 to 29.41), whereas homozygous KL-VS individuals had the highest risk (OR, 30.65; 95% CI, 2.55 to 368.00). Similarly, prospective analysis of mortality in probands using Cox regression indicates that wild-type individuals have a 2.15-fold (95% CI, 1.18 to 3.91) and homozygous KL-VS individuals a 4.49-fold (95% CI, 1.35 to 14.97) increase in relative risk for mortality after adjusting for potential confounders. Thus, cross-sectional and prospective studies confirm a genetic model in which the KL-VS allele confers a heterozygous advantage in conjunction with a marked homozygous disadvantage for HDL-C levels, SBP, stroke, and longevity. (Circ Res. 2005;96:412-418.)
+
+Key Words: aging  cardiovascular genomics  genetics  lipids  hypertension
+
+Recent work has demonstrated that klotho is a novel  | B-s -glucuronidase capable of hydrolyzing steroid -glucuronides.6 Klotho has been shown to be a circulating factor detectable in serum that declines with age,7 although recent evidence suggests that klotho may also act cell-autonomously.8 Although the specific biological targets of klotho have not been identified, klotho likely plays a role in calcium homeostasis,9 and klotho levels have been demonstrated to alter gene expression of angiotensin-converting enzyme (MIM 106180)10 and plasmino- gen activator inhibitor type 1 (PAI-1 [MIM 173360]),11 genes involved in CVD.12,13
+
+cardiovascular disease (CVD) was postulated initially on the basis of the observation that Klotho-deficient mice manifest a syndrome resembling accelerated human aging and display extensive and accelerated arteriosclerosis.1 Additionally, they exhibit impaired endothelium- dependent vasodilation2 and impaired angiogenesis,3 sug- gesting that klotho protein may protect the cardiovascular system through endothelium-derived NO production. Sub- sequent studies in humans have identified a functional variant of KLOTHO, termed KL-VS, that has been associ- ated with longevity4 and early-onset occult coronary artery disease (CAD).5 This allele is common in the general   population (frequency 0.16) and harbors three mutations in the coding region, of which one is silent, and two code for missense mutations F352V and C370S, which alter klotho metabolism.
+
+In the present population-based study of 525 Ashkenazi Jews, we used cross-sectional methods to examine the effect of the KL-VS allele on longevity, cardiovascular risk factors, and cardiovascular events. In an elderly subset of this population (age   95 years; n(cid:3) 216), we were able to perform prospective studies for the effect of the KL-VS allele on mortality.
+
+Original received August 17, 2004; resubmission received January 7, 2005; accepted January 14, 2005. From the McKusick-Nathans Institute of Genetic Medicine (D.E.A., H.C.D.), Johns Hopkins University School of Medicine, Baltimore, Md; Institute for Aging Research (G.A., N.B.), Albert Einstein College of Medicine, Bronx, NY; Johns Hopkins University (A.A.), Baltimore, Md; and Howard Hughes
+
+This manuscript was sent to Eugene Braunwald, Consulting Editor, for review by expert referees, editorial decision, and final disposition. Correspondence to Harry C. Dietz, Johns Hopkins University School of Medicine, 733 N Broadway, Room 539, Baltimore, MD 21205. E-mail
+
+Circulation Research is available at http://www.circresaha.org
+
+Statistical
+
+  
+
+association with age, KL-VS allele frequencies were plotted as 5-year averages in 1-year increments. Data points with (cid:1)30 samples were not plotted. Significance for trend was determined using logistic regression with KL-VS allele status (heterozygous versus all others) as the dependent variable and age as the independent variable. For the Ashkenazi cohort, only individuals aged 63 to 104 years were included for this analysis, and for Czech, only individuals aged 75 to 94. These age cutoffs were chosen so that there was no missing data for a given age. The age cutoffs for the uptrend and downtrend in each population were selected to maximize effect and statistical significance. Combined analysis included a term in the logistic regression model to account for allele frequency differences between the populations.
+
+Univariate analyses were assessed by ANOVA for continuous variables and by the (cid:3)2 test for dichotomous variables. Multivariate linear regression was performed for CVD risk factors with sugges- tive univariate associations (P(cid:1)0.10). Because the data did not fit traditional genetic models, genotypes were treated as independent variables. In addition to traditional CVD risk factors, a term for recruitment status (proband versus control) was included to account for any differences attributable to sample collection. The overall significance of the KL-VS allele, P , was determined by compar- robust ing the explained variance, R2, before and after inclusion of the KL-VS allele terms. Multivariate analysis of history of stroke was analyzed using multiple logistic regression with independent vari- ables for each KL-VS genotype. Overall significance, P , was robust calculated by comparing log-likelihood ratios before and after inclusion of the KL-VS allele terms into the model.
+
+Figure 1. Frequency of KL-VS heterozygous individuals plotted as 5-year averages in 1-year increments. Blue line represents Ashkenazi samples. Red lines represents Czech samples.
+
+Materials and Methods
+
+Study Populations
+
+described previously and consists of 435 elderly individuals ((cid:1)75 years) drawn at random from the Bohemian Czech population.14 Ashkenazi Jews were recruited as described previously.15,16 Briefly, 216 probands with exceptional longevity (95 to 109 years of age) were recruited to participate in the study. Probands were required to be living independently at 95 years of age as a reflection of good health, although at the time of recruitment, they could be at any institution or level of dependency. Additional samples consisted of spouses of the offspring and age-matched Ashkenazi Jewish individ- uals recruited from the Einstein Aging Study,17 for a total of 309 subjects (51 to 94 years of age). Informed written consent was obtained in accordance with the policy of the committee on clinical investigations of the Albert Einstein College of Medicine.
+
+Mortality was analyzed using Cox regression survival analysis, with survival measured in 1-year increments. Independent variables and calculations of overall significance were identical to those used for stroke.
+
+Results
+
+KL-VS Genotype Frequencies and Their Association With Age
+
+Clinical Assessment
+
+The KL-VS allele was genotyped and found to be in Hardy– Weinberg equilibrium (P(cid:3) 0.38) in the entire Ashkenazi cohort, as well as when stratified by proband status (P(cid:4) 0.15). No genotype frequency differences were observed between males and females in the entire Ashkenazi cohort (P(cid:4) 0.59) nor in the probands alone (P(cid:4) 0.90). Figure 1 displays the 5-year average frequency of heterozygous individuals plotted in 1-year increments. For a comparison, we plotted 5-year moving averages for Czech elderly individuals reported previously to exhibit a heterozygous advantage for longevi- ty.4 In Ashkenazi and Czech populations, a significant in- crease in the frequency of KL-VS heterozygous individuals is observed for ages   79 years (P(cid:1) 0.004 and P(cid:1) 0.01, respec-
+
+Clinical evaluation was performed as described previously.15,16 Lipids analysis was performed by standard automated methods at the clinical laboratories of Montefiore Medical Center. Low-density lipoprotein cholesterol (LDL-C) and high-density lipoprotein cho- lesterol (HDL-C) subclass levels and mean particle sizes were determined for all participants by NMR spectroscopy at Lipo- Science, Inc.
+
+Genotyping
+
+Genotyping for the KL-VS allele was performed as described previously.5 Briefly, DNA was amplified using polymerase chain reaction and then digested with Mae III (Roche). The KL-VS allele is characterized by diagnostic Mae III restriction fragments of 265 and 185 bp. Selected genotypes were verified by Applied Biosystems TaqMan assays (primer sequences available on request).
+
+TABLE 1. Logistic Regression Analysis of KL-VS Frequency and Age
+
+Ashkenazi Ashkenazi Ashkenazi (Age Restricted) Czech Combined Ashkenazi (Age Restricted) Czech Combined Age 63 to 81 75 to 81 75 to 81 75 to 81 79 to 104 79 to 94 79 to 94 79 to 94 Beta (cid:5)0.096 (cid:5)0.060 (cid:5)0.0169 (cid:5)0.135 0.052 0.092 0.087 0.089 SE 0.032 0.148 0.100 0.083 0.018 0.034 0.034 0.024 OR 0.908 0.942 0.845 0.874 1.053 1.096 1.091 1.094 95% CI 0.852 to 0.968 0.705 to 1.259 0.695 to 1.028 0.743 to 1.029 1.017 to 1.091 1.026 to 1.171 1.021 to 1.166 1.043 to 1.146 5-year survival OR 0.62 0.74 0.43 0.51 1.29 1.58 1.55 1.57 P 0.003 0.69 0.092 0.11 0.004 0.007 0.010 0.0002
+
+2. Cardiovascular Risk Factors Stratified by KL-VS Genotype
+
+FF (n) FV (n) VV (n) P* Male 33.3% (357) 29.5% (149) 26.3% (19) 0.59 Age, years 85.1(cid:6)11.7 (357) 85.9(cid:6)12.6 (149) 85.3(cid:6)12.5 (19) 0.78 LDL-C, mg/dL 116.9(cid:6)33.2 (309) 110.4(cid:6)32.9 (132) 126.3(cid:6)31.7 (16) 0.07 HDL-C, mg/dL 54.7(cid:6)17.1 (313) 58.3(cid:6)18.1 (136) 50.7(cid:6)14.5 (16) 0.06 Triglycerides, mg/dL 140.1(cid:6)84.8 (321) 140.9(cid:6)103.6 (139) 140.9(cid:6)69.6 (16) 1.0 BMI, kg/m2 23.8(cid:6)3.7 (216) 23.7(cid:6)4.0 (108) 24.7(cid:6)3.7 (12) 0.69 SBP, mm Hg 138.2(cid:6)21.3 (252) 132.0(cid:6)23.4 (122) 153.4(cid:6)39.5 (14) 0.001 DBP, mm Hg 75.3(cid:6)10.9 (252) 73.1(cid:6)12.1 (122) 79.3(cid:6)10.7 (14) 0.07 Diabetes mellitus 17.7% (226) 18.4% (114) 0 (12) 0.27
+
+BMI indicates body mass index; FF, homozygous wild-type; FV, heterozygous; VV, KL-VS.
+
+BMI indicates body mass index; FF, homozygous wild-type; FV, heterozygous; VV, homozygous
+
+*P refers to the significance of differences between all three genotypes as measured by ANOVA for continuous variable and by the (cid:3)2 test for dichotomous variables.
+
+tively; Table 1). When the Ashkenazi cohort is restricted to the same age range as the Czech (79 to 94 years), the heterozygous advantage is still significant (P(cid:1) 0.007), and the Be magnitude of the effect, as indicated by the -estimates, is remarkably similar (0.092(cid:6) 0.034 versus 0.087(cid:6) 0.034). Combining these two data sets, we find a 1.094-fold (95% CI, 1.043 to 1.146) increased odds ratio (OR) for survival per year for heterozygous individuals from age 79 to 94 years in two independent populations. This corresponds to a 1.57-fold (95% CI, 1.23 to 1.98) increased OR for 5-year survival (P(cid:1) 0.0002).
+
+CVD risk factors. Table 2 displays CVD risk factors stratified by KL-VS genotype. Univariate analysis indicates that sys- tolic blood pressure (SBP) levels were significantly associ- ated with KL-VS genotype (P(cid:1) 0.001), and suggestive results (P(cid:1) 0.10) were seen for LDL-C, HDL-C, and DBP. Figure 2 indicates that for each of these measurements, the heterozy- gous individuals have the best CVD risk profile and homozy- gous KL-VS individuals the worst. These data do not fit traditional genetic models, and thus, linear regression was performed for each of these CVD risk factors, with each genotype entered as an independent variable (Table 3). HDL-C was associated significantly with KL-VS genotype after adjusting for potential confounders in a multivariate analysis (P(cid:1) 0.050), with a decrease of 3.47 mg/dL (95% CI,   aut»—0 7.19 to 0.24) and 9.80 mg/dL (95% CI, 19.05 to 0.54) of HDL-C for homozygous wild-type and homozygous KL-VS individuals, respectively, relative to heterozygous individuals. In contrast, KL-VS allele status was not signifi- cantly associated with LDL-C levels after adjustment for potential confounders (P(cid:3) 0.28).
+
+In the Ashkenazi population, a decrease in the frequency of heterozygous individuals between the ages of 63 to 81 years is observed (OR, 0.908; 95% CI, 0.852 to 0.968; P(cid:1) 0.003). Although not noted previously, the Czech population shows a similar decrease in frequency of heterozygous individuals 75 to 81 years of age (OR, 0.845; 95% CI, 0.695 to 1.028; P(cid:1) 0.092). When the Ashkenazi cohort was restricted to the same age range (75 to 81 years), the negative trend for frequency of heterozygous individuals was also not statisti- cally significant (P(cid:1) 0.69), nor was the trend significant in the combined data set (P(cid:1) 0.11).
+
+SBP was significantly associated with KL-VS allele status after adjusting for potential confounders (P(cid:1) 0.008), whereas suggestive data were seen for diastolic blood pressure (DBP; P(cid:1) 0.089; Table 3). Individuals heterozygous for the KL-VS
+
+Analysis of CVD Risk Factors
+
+Previous results have indicated that the KL-VS allele influ- ences the risk for early-onset CAD,5 and therefore, we
+
+LDL (mg/dL); SBP (mm Hg)16015014013012011080mFFmFVawNisHDL-C  HDL (mg/dL); DBP (mm Hg)
+
+TABLE 3. Multivariate Linear Regression Analysis for Cardiovascular Risk Factors*
+
+Risk Factor P † Genotype (cid:2)‡ SE P 95% CI robust   LDL-C, mg/dL 0.28 FF 0.01 4.10 1.0 (cid:5)8.06 to 8.07 VV 14.82 10.18 0.15 (cid:5)5.22 to 34.87 HDL-C, mg/dL 0.050 FF (cid:5)3.47 1.89 0.067 (cid:5)7.19 to 0.24 VV (cid:5)9.80 4.70 0.038 (cid:5)19.05 to (cid:5)0.54 SBP, mm Hg 0.008 FF 6.51 2.82 0.022 0.97 to 12.05 VV 18.97 7.01 0.007 5.19 to 32.77 DBP, mm Hg 0.089 FF 2.57 1.33 0.055 (cid:5)0.05 to 5.19 VV 5.15 3.32 0.12 (cid:5)1.38 to 11.68
+
+*Model is adjusted for age, sex, body mass index, LDL-C, HDL-C, triglycerides, SBP, DBP, and proband status, with the dependent variable excluded from each specific model. SBP and DBP are excluded from the analysis of blood pressure measurements.
+
+†P refers to the overall significance of the KL-VS allele (see Material and Methods); robust ‡homozygous wild-type (FF) and KL-VS (VV) individuals are compared with heterozygous individuals
+
+allele had lower SBP (6.51 mm Hg; 95% CI, 0.97 to 12.05) and DBP (2.57 mm Hg; 95% CI, outs 0.05 to 5.19) than wild-type individuals. Remarkably, homozygosity for the KL-VS allele was associated with an increase of 18.97 mm Hg (95% CI, 5.18 to 32.77) in SBP relative to heterozygous individuals.
+
+however, KL-VS allele status was associated significantly with incidence of stroke (P(cid:1) 0.026). Similar to the CVD risk factor data, heterozygous individuals have the fewest stroke events and homozygous KL-VS the most. Multiple logistic regression was performed incorporating traditional CVD risk factors, demonstrating that KL-VS allele status is an inde- pendent predictor of stroke (P(cid:1) 0.009; Table 4). Wild-type individuals had a 5.88-fold (95% CI, 1.18 to 29.41) increased OR for stroke and homozygous KL-VS individuals a 30.65- fold (95% CI, 2.55 to 368.00) increased OR for stroke, relative to heterozygous individuals.
+
+Medication data were available for   50% of our samples, with   33% taking cholesterol-lowering medication and ~S 50% taking antihypertensives. To test for potential con- founding attributable to medication, we substituted pulse pressure (defined as SBP-DBP) for SBP as the outcome in our regression analysis because this measure is robust to the effects of blood pressure medication18 and does not result in a loss of sample size. The overall effect of KL-VS genotype was significant (P(cid:1) 0.039), again exhibiting a heterozygous advantage in conjunction with a homozygous disadvantage for the KL-VS allele. To examine the effects of cholesterol- lowering medication, we added a term into the regression model for medication status, and although the sample size was significantly reduced, the effect sizes for individuals homozygous for the wild-type or KL-VS alleles were in- creased, indicating that any potential confounding attributable to medication is more likely to lead to a false-negative result rather than a false-positive result.
+
+Prospective Analysis of Survival in Probands
+
+Probands were recruited from 1998 to 2002 and were fol- lowed prospectively for mortality status; as of January 2004, 96 of 216 (44.4%) had died. Univariate logistic regression indicates that KL-VS allele status is a significant predictor of mortality (P(cid:1) 0.016), and similar to the other phenotypes
+
+P<0.026 StrokeFFmFVgvvVP=0.79 
+
+Because recent work has demonstrated the importance of lipid particle size in CAD and longevity, we examined whether HDL-C and LDL-C particle size are associated with KL-VS allele status. Univariate regression analysis indicates that KL-VS allele status is a significant predictor of LDL-C particle size (P(cid:1) 0.030) and HDL-C particle size (P(cid:1) 0.023); however, in multivariate analyses, KL-VS allele status was not a significant predictor of LDL-C particle size (P(cid:1) 0.17) or HDL-C particle size (P(cid:1) 0.75; data not shown).
+
+Analysis of CVD Events
+
+A subset of samples had information on history of events. A total of 11.1% reported having had a stroke (30 271) and 13.4% a myocardial infarct (MI) (39 of 292). 3 depicts event data stratified by KL-VS genotype. No of KL-VS allele status on MI was observed (P(cid:1)
+
+Figure 3. Coronary vascular disease event data stratified by KL-VS allele status. P value indicates overall significance of the KL-VS allele as determined by the (cid:3)2 test.
+
+4. Multivariate Regression Analysis for Cardiovascular Events*
+
+Event P † Genotype Beta‡ SE P OR/RR§ 95% CI robust   Stroke 0.009 FF 1.77 0.82 0.031 5.88 1.18 to 29.41 VV 3.42 1.27 0.007 30.65 2.55 to 368.00 Mortality 0.010 FF 0.77 0.31 0.012 2.15 1.18 to 3.91 VV 1.50 0.62 0.015 4.49 1.35 to 14.97
+
+*Model is adjusted for age, sex, body mass index, LDL-C, HDL-C, triglycerides, SBP, DBP, and proband status.
+
+†P refers to the overall significance of the KL-VS allele (see Materials and Methods). robust ‡Homozygous wild-type (FF) and KL-VS (VV) individuals are compared with heterozygous individuals (FV); §mortality data are prospective and so RRs are calculated.
+
+frequency of KL-VS heterozygous individuals as a function of age in the current cohort of 525 Ashkenazi Jews demon- strated remarkable concordance with the initial study in  Czechs, exhibiting a heterozygous advantage for ages 79 years. A combined analysis was performed for overlapping age ranges, demonstrating a 1.57-fold (95% CI, 1.23 to 1.98) increased OR for survival in two independent populations. No significant trend was observed for homozygous KL-VS indi- viduals (data not shown), largely attributable to small sample size. However, the prospective analysis of mortality (dis- cussed below) confirms the homozygous KL-VS disadvan- tage for survival.
+
+examined, heterozygous individuals have the lowest mortality and homozygous KL-VS individuals the highest (Figure 4). We performed Cox regression survival analysis, adjusting for age, sex, body mass index, SBP, DBP, HDL-C, LDL-C, and triglycerides, indicating that KL-VS allele status is associated significantly with mortality after adjusting for potential con- founders (P(cid:1) 0.01). Wild-type individuals had a 2.15-fold (95% CI, 1.18 to 3.91) increase in relative risk (RR) for mortality relative to heterozygous individuals. Homozygous KL-VS individuals displayed a 4.49-fold (95% CI, 1.35 to 14.97) increased RR compared with heterozygous individu- als. These data strongly support the cross-sectional analyses indicating a heterozygous advantage for survival late in life.
+
+  of ages 75 years, and although a trend for a heterozygous disadvantage for survival was observed for ages 75 to 81 years, it was not statistically significant. The Ashkenazi cohort spanned a greater age range and exhibited a marked decrease in the frequency of heterozygous individuals 63 to 81 years of age. This apparent change in the effect of the KL-VS allele on mortality is consistent in both populations and raises questions as to the mechanism through which klotho exerts its effects on survival. It is possible that the KL-VS allele may increase the risk for causes of mortality earlier in life, such as cancer, but in later life, reduce the risk for CVD. Interestingly, the transition age at which the leading cause of mortality in Caucasian 8  Americans switches between cancer and heart disease is 80 years.19 An alternate hypothesis is that those who have survived to age 80 years with the detrimental KL-VS allele have faced a stronger survival selection and are thus representative of a more robust cohort. However, if this were the case, one would expect that those who survive to age 80 years with two copies of the KL-VS allele would also exhibit this robust phenotype. Instead, these individuals have lower HDL-C, higher SBP, and the highest RR for mortality, as measured prospectively in the proband cohort.
+
+Discussion
+
+Survival is a product of the interaction between environmen- tal and genetic effects, and mortality is determined through numerous mechanisms such as infectious disease, cancer, and CVD. In previous studies of the impact of KLOTHO on human longevity, we had identified a functional variant, KL-VS, for which homozygosity was markedly reduced in the elderly relative to infants, and in the Czech population, showed a heterozygous advantage late in life.4 Analysis of the
+
+Survival (%)8 8 6 8 8 8 81=oo P<0.026|m FF| 
+
+The association of the KL-VS allele with the CVD risk factors SBP and HDL-C is particularly intriguing in light of previous work demonstrating that the effect of the KL-VS allele on early-onset occult CAD is modified by these two factors.5 A recent genome scan for quantitative trait loci influencing HDL-C concentration identified suggestive link- age (LOD, 2.36), with a marker 360 kb 3(cid:7) of KLOTHO,20 providing further evidence for a role for klotho in influencing HDL-C levels. The mechanism through which klotho affects these phenotypes remains to be elucidated, although several studies have already implicated a role for klotho in the
+
+Figure 4. Mortality analysis of Ashkenazi probands stratified by KL-VS genotype. P value indicates overall significance of the KL-VS allele as determined by the (cid:3)2 test.
+
+renin-angiotensin system,10,21,22 as well as in the NO produc- tion pathway.2,3
+
+accurately the magnitude of the risk associated with the KL-VS allele.
+
+Analysis of the history of cardiovascular events revealed an association between KL-VS genotype and stroke. Al- though this result may be anticipated on the basis of the effect of klotho on SBP, a known risk factor for stroke,23 in a multivariate model adjusting for blood pressure, the KL-VS was still a strong predictor of stroke. Wild-type individuals had a 5.88-fold (95% CI, 1.18 to 29.41) and homozygous KL-VS individuals a 30.65-fold (95% CI, 2.55 to 368.00) increased OR for stroke, indicating an effect of the KL-VS allele on stroke independent of its effect on blood pressure. A possible explanation for this result stems from the observa- tion that klotho deficiency in mice increases the levels of PAI-1.11 Increased PAI-1 serum levels have been associated with increased risk for stroke,24 thus providing an alternate pathway through which klotho may act.
+
+Conclusions
+
+In the current study, we presented strong evidence confirming the role of a common variant of KLOTHO, the KL-VS allele, in human longevity. Cross-sectional and prospective studies con- firm a heterozygous advantage for survival at later ages in conjunction with a marked homozygous KL-VS disadvantage. This genetic model held true for cardiovascular risk factors HDL-C and SBP, associated previously with KLOTHO , as well as a history of stroke. Collectively, these data implicate an important role for KLOTHO in the etiology of CVD and, ultimately, mortality.
+
+Acknowledgments
+
+D.E.A. is supported by National Institute of Mental Health grant MH070172 and by the Donald W. Reynolds Foundation Clinical Cardiovascular Research Center grant to Johns Hopkins Univer- sity. G.A. and N.B. are supported by grants from the Paul Beeson physician faculty scholar in aging award, the Ellison Medical Foundation senior scholar award, RO1 (AG-18728-01A1), Aging Einstein Study (P01 AG-03949-01A1), the General Clinical Research Center (MO1-RR12248) and Diabetes Research and Training Center (DK 20541) at the Albert Einstein College of Medicine, and the Baltimore VA Geriatric Research and Educa- tion Clinical Center. H.C.D. is supported by the Howard Hughes Medical Institute.
+
+allele on longevity have been limited to cross-sectional data, the current study incorporates prospective mortality data generated in individuals   95 years of age. As observed in the cross-sectional analyses of CVD risk factors and events, heterozygous individuals had a marked advantage. Wild-type individuals have an increased RR of 2.15 (95% CI, 1.18 to 3.91) and homozygous KL-VS individuals a 4.49-fold in- creased RR (95% CI, 1.35 to 14.97) for mortality relative to heterozygous individuals, after adjusting for potential con- founders. These data strongly support a role for the KL-VS allele in longevity.
+
+References
+
+Kuro-o M, Matsumura Y, Aizawa H, Kawaguchi H, Suga T, Utsugi T, Ohyama Y, Kurabayashi M, Kaname T, Kume E, Iwasaki H, Iida A, Shiraki-Iida T, Nishikawa S, Nagai R, Nabeshima YI. Mutation of the mouse klotho gene leads to a syndrome resembling aging. Nature.
+
+;
+
+:
+
+–
+
+Saito Y, Yamagishi T, Nakamura T, Ohyama Y, Aizawa H, Suga T, Matsumura Y, Masuda H, Kurabayashi M, Kuro-o M, Nabeshima Y, Nagai R. Klotho protein protects against endothelial dysfunction. Biochem Biophys Res Commun.
+
+;
+
+:
+
+–
+
+Fukino K, Suzuki T, Saito Y, Shindo T, Amaki T, Kurabayashi M, Nagai R. Regulation of angiogenesis by the aging suppressor gene klotho. Biochem Biophys Res Commun.
+
+;
+
+:
+
+–
+
+Arking DE, Krebsova A, Macek M Sr, Macek M Jr, Arking A, Mian IS, Fried L, Hamosh A, Dey S, M
+
+ntosh I, Dietz HC. Association of human aging with a functional variant of klotho. Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Arking DE, Becker DM, Yanek LR, Fallin D, Judge DP, Moy TF, Becker LC, Dietz HC. KLOTHO allele status and the risk of early-onset occult coronary artery disease. Am J Hum Genet.
+
+;
+
+:
+
+–
+
+Tohyama O, Imura A, Iwano A, Freund JN, Henrissat B, Fujimori T, Nabeshima Y. Klotho is a novel beta-glucuronidase capable of hydro- lyzing steroid beta-glucuronides. J Biol Chem.
+
+;
+
+:
+
+–
+
+Xiao NM, Zhang YM, Zheng Q, Gu J. Klotho is a serum factor related to human aging. Chin Med J (Engl).
+
+;
+
+:
+
+–
+
+Takeshita K, Fujimori T, Kurotaki Y, Honjo H, Tsujikawa H, Yasui K, Lee JK, Kamiya K, Kitaichi K, Yamamoto K, Ito M, Kondo T, Iino S, Inden Y, Hirai M, Murohara T, Kodama I, Nabeshima Y. Sinoatrial node dysfunction and early unexpected death of mice with a defect of klotho gene expression. Circulation.
+
+;
+
+:
+
+–
+
+Yoshida T, Fujimori T, Nabeshima Y. Mediation of unusually high concentrations of
+
+,
+
+-dihydroxyvitamin D in homozygous klotho mutant mice by increased expression of renal
+
+alpha-hydroxylase gene. Endo- crinology.
+
+;
+
+:
+
+–
+
+Yang J, Matsukawa N, Rakugi H, Imai M, Kida I, Nagai M, Ohta J, Fukuo K, Nabeshima Y, Ogihara T. Upregulation of
+
+MP is a new functional signal pathway of Klotho in endothelial cells. Biochem Biophys Res Commun.
+
+;
+
+:
+
+–
+
+Takeshita K, Yamamoto K, Ito M, Kondo T, Matsushita T, Hirai M, Kojima T, Nishimura M, Nabeshima Y, Loskutoff DJ, Saito H, Murohara T. Increased expression of plasminogen activator inhibitor-
+
+with fibrin
+
+The consistent observation of opposing effects of one copy of the KL-VS allele versus carrying two copies offers a possible explanation for the relatively high frequency of the KL-VS allele in the general population (frequency 0.16). This model of “balancing selection” has been observed for the hemoglobin S allele in sickle cell anemia25 and for the  F508 allele in cystic fibrosis26 but has not been reported previously for a complex disease.
+
+Study Limitations
+
+Although the effect of the KL-VS allele on longevity for ;=7 individuals 79 years of age is validated in two independent populations through cross-sectional studies, and further evi- dence is provided through prospective studies, the opposite effect of the KL-VS allele on younger individuals is only statistically significant in one population (in part, because of absence of data for Czechs 4<7 75 years of age). Thus, a model in which there is a change in the effect of heterozygosity for the KL-VS allele on survival from negative to positive as age increases, although intriguing, remains to be validated through further studies. Particularly useful would be the ability to look at mortality data spanning a wide age range (65 to 95 years) that includes cause of death. This would allow for the testing of the hypothesis that the KL-VS allele may increase risk of mortality from one cause, such as cancer, while lowering risk for another, such as CVD. Another caveat is that the number of stroke events in the study was relatively few (30), and although the results are statistically significant because of the large effect, additional studies in cohorts with a greater number of events is necessary to determine more
+
+Control C
+
+Deaths, percent of total deaths, and death rates for the
+
+leading cause of death in selected age groups, by race and sex: United States,
+
+Natl Vital Stat Rep.
+
+;
+
+Peacock JM, Arnett DK, Atwood LD, Myers RH, Coon H, Rich SS, Province MA, Heiss G. Genome scan for quantitative trait loci linked to high-density lipoprotein cholesterol: the NHLBI Family Heart Study. Arterioscler Thromb Vasc Biol.
+
+;
+
+:
+
+–
+
+Mitani H, Ishizaka N, Aizawa T, Ohno M, Usui S, Suzuki T, Amaki T, Mori I, Nakamura Y, Sato M, Nangaku M, Hirata Y, Nagai R. In vivo klotho gene transfer ameliorates angiotensin II-induced renal damage. Hypertension.
+
+;
+
+:
+
+–
+
+Hamdi HK, Castellon R. A genetic variant of ACE increases cell survival: a new paradigm for biology and disease. Biochem Biophys Res Commun.
+
+;
+
+:
+
+–
+
+Lawes CM, Bennett DA, Feigin VL, Rodgers A. Blood pressure and stroke: an overview of published reviews. Stroke.
+
+;
+
+:
+
+Hoekstra T, Geleijnse JM, Kluft C, Giltay EJ, Kok FJ, Schouten EG.
+
+G/
+
+G genotype of PAI-
+
+gene is associated with reduced risk of stroke in elderly. Stroke.
+
+;
+
+:
+
+–
+
+Roth EF Jr, Friedman M, Ueda Y, Tellez I, Trager W, Nagel RL. Sickling rates of human AS red cells infected in vitro with Plasmodium falciparum malaria. Science.
+
+;
+
+:
+
+–
+
+Schroeder SA, Gaughan DM, Swift M. Protection against bronchial asthma by CFTR delta F
+
+mutation: a heterozygote advantage in cystic fibrosis. Nat Med.
+
+;
+
+:
+
+–
+
+deposition in a murine model of aging, “Klotho” mouse. Semin Thromb Hemostasis.
+
+;
+
+:
+
+–
+
+Crisan D, Carr J. Angiotensin I-converting enzyme: genotype and disease associations. J Mol Diagn.
+
+;
+
+:
+
+–
+
+Margaglione M, Cappucci G, Colaizzo D, Giuliani N, Vecchione G, Grandone E, Pennelli O, Di Minno G. The PAI-
+
+gene locus
+
+G/
+
+G polymorphism is associated with a family history of coronary artery disease. Arterioscler Thromb Vasc Biol.
+
+;
+
+:
+
+–
+
+Macek M Jr, Macek M Sr, Krebsova A, Nash E, Hamosh A, Reis A, Varon-Mateeva R, Schmidtke J, Maestri NE, Sperling K, Krawczak M, Cutting GR. Possible association of the allele status of the CS.
+
+/Hh
+
+polymorphism
+
+(cid:
+
+) of the CFTR gene with postnatal female survival. Hum Genet.
+
+;
+
+:
+
+–
+
+Atzmon G, Schechter C, Greiner W, Davidson D, Rennert G, Barzilai N. Clinical Phenotype of Families with Longevity. J Am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Barzilai N, Atzmon G, Schechter C, Schaefer EJ, Cupples AL, Lipton R, Cheng S, Shuldiner AR. Unique lipoprotein phenotype and genotype associated with exceptional longevity. J Am Med Assoc.
+
+;
+
+:
+
+–
+
+Verghese J, Lipton RB, Hall CB, Kuslansky G, Katz MJ, Buschke H. Abnormality of gait as a predictor of non-Alzheimer’s dementia. N Engl J Med.
+
+;
+
+:
+
+–
+
+Oparil S, Weber M. Hypertension: A Companion to Brenner & Rector’s

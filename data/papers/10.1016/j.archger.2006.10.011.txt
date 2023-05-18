@@ -1,0 +1,203 @@
+ScienceDirect
+
+Archives of Gerontology and Geriatrics 45 (2007) 201–206
+
+converting enzyme polymorphism in sporadic and familial Alzheimer’s disease and longevity
+
+Benedetta Nacmias , Silvia Bagnoli , Andrea Tedde , a a b Elena Cellini , Valentina Bessi , Biancamaria Guarnieri , b a a Luigi Ortensi , Silvia Piacentini , Laura Bracco , Sandro Sorbi
+
+aDepartment of Neurological and Psychiatric Sciences, University of Florence, Florence and Centro di Ricerca, Trasferimento e Alta Formazione DENOTHE,
+
+Received 26 May 2006; received in revised form 16 October 2006; accepted 20 October 2006 Available online 19 December 2006
+
+Abstract
+
+A recent, large meta-analysis has reproposed the role of the angiotensin converting enzyme (ACE) insertion/deletion (I/D) polymorphism as a risk factor for Alzheimer’s disease (AD). To further investigate the proposed association and to better clarify the role of ACE as a risk factor for AD, we analyzed the genotype and allele frequency distribution of ACE I/D and apolipoprotein E (APOE) genepolymorphismsin235ItalianpatientswithsporadicAD,153withfamilialAD(FAD),192healthy controls and 111 centenarians. Patients with AD were consecutively gathered from among the outpatients from the Neurology Department at the University of Florence. All 691 subjects were genotypedforACEandAPOEpolymorphisms.TherewerenosignificantdifferencesinACEgenotypes or allele frequencies in all the studied groups, even after stratification for APOE e4 carrier status. CentenariansshowthehighestalleleDfrequency,althoughthevalueisnotsignificant,thussuggestinga possible implication of the D allele as an epistatic allele that has pleiotropic age-dependent effects. In conclusion, our data suggest that the ACE allelic variant is not a susceptibility factor in sporadic and familial AD (FAD), nor does it mitigate the effect of the APOE e4 allele in the risk of developing AD. Moreover, our data do not suggest a possible involvement of the D allele in longevity. # 2006 Elsevier Ireland Ltd. All rights reserved.
+
+Keywords: Alzheimer’s disease; ACE; Apolipoprotein E; Gene-polymorphism; Longevity and ACE
+
+1. Introduction
+
+AD is an insidious and progressive neurodegenerative disorder that accounts for the vast majority of age-related dementia. Rare, fully penetrant autosomal dominant mutations in three genes (i.e., amyloid precursor protein = APP; presenilin 1 = PS1 and presenilin 2 = PS2) have been shown to cause 50% of the familial form of the disease, while a common, incompletely penetrant susceptibility variant, the APOE e4 allele, significantly increases the risk of developing sporadic AD (Strittmatter and Roses, 1995). The search for other genetic factors have shown polymorphisms in an increasing number of genes, all possibly involved in the AD pathogenesis interfering with b- amyloid deposition (Tanzi and Bertram, 2005). ACE (17q23) is a dipeptidyl carboxypeptidase that plays an important role in blood pressure regulation and electrolyte balance by hydrolyzing angiotensin I into angiotensin II, a potent vasopressor. ACE is one of the several risk factors for AD shared with vascular dementia (VaD) (Kolsch et al., 2005). According to recent studies, ACE may modulate the susceptibility to and progression of AD via degradation of amyloid b-protein (Ab) whose progressive accumulation and deposition is an early and pathogenically important feature of Alzheimer disease (Hemming and Selkoe, 2005). Despite biological support of ACE playing a role in AD, studies assessing the ACE insertion/ deletion (I/D) polymorphism in AD are conflicting (Lehmann et al., 2005). A 287-bp Alu I/D polymorphism in intron 16 of the ACE gene has been associated with athletic performance, aging and disease, and recently with physical decline, with contrasting results (Kritchevsky et al., 2005).
+
+A collaborative study from 1999 provides evidence of a possible association between ACE gene I alleles and an increased risk of AD, independent of APOE status et al., 1999). Since then there have been a considerable number of papers and published on attempts to replicate these findings and there certainly has been a of results, some of which support, some of which found evidence indicating the allele and some of which that found no evidence one way or the other. A meta- provided evidence that the I allele of the ACE I/D polymorphism is associated an increased risk of late-onset AD (Elkins et al., 2004). Another more recent, large has reproposed the role of the ACE I/D polymorphism as a risk factor for (Lehmann et al., 2005) confirming the association of the ACE I/D polymorphism as a for AD. Moreover, further association studies were published showing a increase in the risk of AD in patients who were either homozygous for the ACE allele, as seen in a sample of subjects of German origin (Kolsch et al., 2005) and in of Dutch origin, independent of vascular factors (Sleegers et al., 2005), or who homozygous for the ACE D allele, as seen in a sample of subjects of Chinese origin
+
+In light of these contrasting findings, we investigated the segregation of ACE I/D polymorphism and APOE gene polymorphisms in a case-control study in Italian patients with sporadic and FAD in order to analyze a possible implication for ACE as a risk factor and whether or not such effects are dependent on the APOE e4 allele. Moreover, we analyzed the I/D genotype distribution in a sample of 111 Italian centenarians in order to study a possible implication for ACE in longevity.
+
+2. Methods
+
+The local Ethical Committee approved the study. A detailed medical history was obtained from the patients and centenarians and they or their caregivers gave a written informed consent after receiving clear explanation of the study. We analyzed a sample of 691 subjects: 235 consecutive sporadic AD patients: 148 females and 87 males, age at onset 66.7    8.12 (mean    S.D.) years defined as the onset of the first cognitive changes, Mini Mental State Examination (MMSE) score 21.2    4.4 points, with a diagnosis of probable AD. Moreover, we studied 153 patients with FAD (88 females and 65 males, mean age 71.3    5.4 years, MMSE score 23.2  3.4 points). Patients were considered familial patients if at least two first-degree relatives with dementia in two generations were documented. If reliable family history was not available, patients were termed sporadic, early-onset FAD (EOFAD). They were defined by the occurrence of AD with a onset at age <65 years and late-onset FAD (LOFAD) by the occurrence of AD with a onset age >65 years. All patients were enrolled at the Department of Neurology of the University of Florence and Villa Serena Hospital, Pescara. Clinical assessments of the patients were done according to published guidelines and the AD diagnosis fulfilled the DSM-IV criteria
+
+Moreover, we also examined a sample of 192, apparently normal, Caucasian controls (110 females and 82 males, mean age 84.2    18.2 years). All controls were carefully assessed using a rigorous clinical history and general/neurological examination in order to exclude the presence of any neurological disorder.
+
+In addition, a sample of 111 centenarians (23 men and 88 women, mean age 102.4    2.6 years) were included in this study. DNA from the affected and control individuals were extracted from peripheral blood samples using the phenol–chloroform procedure. The polymorphisms of ACE and APOE gene were determined in 691 subjects using polymerase chain reaction (PCR) and restriction fragment length polymorphism (RFLP) methods as previously described (Rigat et al., 1992; Sorbi et al., 1994). ACE genotypes were followed by a quality control amplification step necessary in detecting under-amplified ACE I alleles (Kehoe et al., 1999). Briefly, the reaction volume of 25 ml contained 200 mM each of deoxynucleoside triphosphate, 1.5 mM MgCl , enzyme buffer recommended by 2 manufacturer, 1.25 units of Taq DNA polymerase (Roche) and 10 pmol of each of the following primers: 50-CTG-GAG-ACC-ACT-CCC-ATC-CTT-TCT-30 and 50-GAT-GTG- GCC-ATC-ACA-TTC-GTC-AGA-T-30. Follow-ing denaturation at 96 8C for 20 s, amplification was achieved by 30 cycles of polymerization (10 s at 96 8C, 20 s at 55 8C, 30 s at 74 8C) with a final incubation for 1.30 min at 74 8C to ensure complete elongation. The amplification product was resolved through 2% standard agarose and stained with ethidium bromide. A band of 190 basepairs (bp) was present in the absence of the insertion (allele D) and a 490 bp fragment in the presence of the insertion (allele I).
+
+2.1. Statistical analysis
+
+The frequencies of ACE and APOE alleles and genotypes were estimated by gene counting. Statistical analysis was done using the chi-square test with the Yates correction. Odds ratios corresponding to 95% confidence intervals were calculated with standard
+
+Distribution of ACE I/D polymorphismgenotypesand alleles, stratified by APOE e4 allele carrier status invarious types of AD and in centenarians
+
+Group ACE genotypes ACE alleles DD (%) ID (%) II (%) D (%) I (%) AD APOE e4(cid:3) (126) 54 (42.8) 57 (45.2) 15 (11.9) 165 (65.4) 87 (34.5) AD APOE e4+ (109) 48 (44) 51 (46.7) 10 (9.2) 147 (67.4) 71 (32.5) FAD APOE e4(cid:3) (109) 55 (50.4) 39 (35.8) 15 (13.7) 149 (68.3) 69 (31.6) FAD APOE e4+ (44) 24 (54.5) 14 (31.8) 6 (13.6) 62 (70.4) 26 (29.5) Cent APOE e4(cid:3) (102) 54 (52.9) 35 (34.3) 13 (12.7) 143 (70.1) 61 (39.8) Cent APOE e4+ (9) 3 (33.3) 5 (55.5) 1 (11.1) 11 (61.1) 7 (38.8) Contr APOE e4(cid:3) (168) 71 (42.2) 74 (44) 23 (13.7) 216 (64.3) 120 (35.6) Contr APOE e4+ (24) 11 (45.8) 10 (41.6) 3 (12.5) 32 (66.6) 16 (33.3)
+
+Notes: APOE e4(cid:3): non-carrier; APOE e4+: carrier.
+
+methods. Significance limit was defined as p < 0.05. Statistical analysis was performed using SSPS software (SPSS, Inc., Evanston, IL, USA). To test the effects of the APOE e4 allele status and ACE genotypes (Table 1) alone and in combination, a logistic regression analysis was used. In detail, diagnosis served as a dependent variable and the presence/ absence of the APOE e4 allele and/or the ACE I/D and ACE I/I genotypes was pooled into a single referent group versus the ACE D/D genotype as the covariates. We also did the same calculation in the presence/absence of the APOE e4 allele and/or the ACE I/D and ACE D/ D genotypes pooled into a single referent group versus the ACE II genotype as the covariates. Comparison of the ages at onset between the genotype groups was made using the ANOVA test. The power analysis was performed using Power Calculator software (Department of Statistics at the University of Los Angeles, CA, USA;
+
+3. Results
+
+Both polymorphisms followed a distribution in the Hardy–Weinberg equilibrium and did not significantly differ from the controls ( p > 0.1). As shown in Table 2, out of the 235 AD patients, 10.6% were homozygous (II) and 46% were heterozygous (ID). We did not find any significant differences (13.5% II; 43.7% ID) with respect to the controls. There
+
+ACE I/D polymorphism: allele and genotype distributions in sporadic and familial AD and in centenarians
+
+Group No. Genotype Allele frequency DD (%) ID II D I AD 235 102 (43.4) 108 (46) 25 (10.6) 0.663 0.336 FAD 153 79 (51.6) 53 (34.6) 21 (13.7) 0.689 0.310 Centenarians 111 57 (51.4) 40(36.0) 14 (12.6) 0.694 0.306 Controls 192 82 (42.7) 84 (43.7) 26 (13.5) 0.645 0.354
+
+no statistically significant differences in the allele and genotype distributions in AD compared with the controls ( p > 0.1), while we found a strong association AD and the APOE e4 allele ( p < 0.0001, data not shown), confirming earlier EOFAD and LOFAD patients were pooled together (FAD group), as no differences found in these categories. The examined samples of 235 AD patients and 192 controls evaluated to have 97.1% power to detect an odds ratio of 2.0 at a 5% significance rate. addition, no correlation was observed between age at onset, sex and any ACE genotype not shown). Stratification of data irrespective of the APOE status did not show an effect of the two genes (Table 1).
+
+4. Discussion
+
+Our data suggest that the ACE genetic variant is not a susceptibility factor to AD, nor does it mitigate the effect of the APOE e4 allele on the risk of developing AD. Several non- mutually exclusive factors can produce conflicting results in association studies of common complex diseases, including the presence of genetic, clinical and population heterogeneity. A possible explanation of the inconsistency between results of different groups may be that the studied ACE I/D polymorphism may have no functional consequences, but may be in linkage disequilibrium with a functional polymorphism linked to the AD risk. Further research is needed to elucidate any role that the ACE polymorphism may play in relation to sporadic and familial AD. With regards to longevity, a recent observation (Kritchevsky et al., 2005) has shown that older adults possessing the ID or DD genotype and who exercised achieved more benefit in preserving mobility function than did those with the II genotype. In our study we confirm this data, since 97 out of 111 (87.4%) of the analyzed centenarians carried the ID or DD genotype and not showing gross functional limitations (i.e., difficulty walking and climbing steps). Centenarians show the highest allele D frequency, although the value is not significant (0.694 versus 0.645 in controls, 0.663 in AD and 0.689 in FAD), thus suggesting that the D allele could belong to a set of epistatic alleles that have pleiotropic age-dependent effects. The comparison between centenarians and controls has a power of 96.61%. However, recent studies on centenarians belonging to different ethnic groups (Choi et al., 2003; Panza et al., 2003) suggested that neither the ACE nor the APOE gene is significantly associated with longevity in the Korean population and in a population from Southern Italy, which do not confirm previous studies (Schachter et al., 1994). In conclusion, our data do not suggest a possible involvement of the D allele in longevity; moreover, they do not support involvement of the ACE gene I/D polymorphism in sporadic and familial AD, nor
+
+Acknowledgements
+
+This study was supported by the Italian Ministry of Instruction, University and Research (grant nos. 2005051707-005 and 2005062887-004) and by the Cassa di Risparmio of Florence (grant no. 2003.1764).
+
+References
+
+APA (American Psychiatric Association),
+
+Diagnostic and Statistical Manual of Mental Disorders.
+
+th (DSM-IV). American Psychiatric Publishing, APA Press, Washington DC. Choi, Y.H., Kim, J.H., Kim, D.K., Kim, J.W., Kim, D.K., Lee, M.S., Kim, C.H., Park, S.C.,
+
+Distributions ACE and APOE polymorphisms and their relations with dementia status in Korean centenarians. J. A, Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Alzheimer’s disease. Ital. J. Neurol. Sci.
+
+,
+
+–
+
+Elkins, J.S., Douglas, V.C., Johnston, S.C.,
+
+Alzheimer disease risk and genetic variation in ACE: a analysis. Neurology
+
+,
+
+–
+
+Hemming, M.L., Selkoe, D.J.,
+
+Amyloidbeta-protein is degraded by cellular angiotensin-converting (ACE) and elevated by an ACE inhibitor. J. Biol. Chem.
+
+,
+
+–
+
+Kehoe, P.G., Russ, C., M
+
+lory, S., Williams, H., Holmans, P., Holmes, C., Liolitsa, D., Vahidassr, D., Powell, M
+
+leenon, B., Liddell, M., Plomin, R., Dynan, K., Williams, N., Neal, J., Cairns, N.J., Wilcock, Passmore, P., Lovestone, S., Williams, J., Owen, M.J.,
+
+Variation in DCP
+
+, encoding ACE, is with susceptibility to Alzheimer disease. Nat. Genet.
+
+,
+
+–
+
+Kolsch, H., Jessen, F., Freymann, N., Kreis, M., Hentschel, F., Maier, W., Heun, R.,
+
+ACE I/D is a risk factor of Alzheimer’s disease but not of vascular dementia. Neurosci. Lett.
+
+,
+
+–
+
+Kritchevsky, S.B., Nicklas, B.J., Visser, M., Simonsick, E.M., Newman, A.B., Harris, T.B., Lange, E.M., B.W., Goodpaster, B.H., Satterfield, S., Colbert, L.H., Rubin, M., Pahor, S.M.,
+
+enzyme insertion/deletion genotype, exercise, and physical decline. J. Am. Med. Assoc.
+
+,
+
+–
+
+Lehmann,D.J., Cortina-Borja,M., Warden, D.R.,Smith, A.D., Sleegers, K., Prince, J.A., Van Duijn,C.M., P.G.,
+
+Large meta-analysis establishes the ACE insertion-deletion polymorphism as a marker Alzheimer’s disease. Am. J. Epidemiol.
+
+,
+
+–
+
+Panza, F., Solfrizzi, V., D’Introno, A., Colacicco, A.M., Capurso, C., Kehoe, P.G., Capurso, A.,
+
+I converting enzyme (ACE) gene polymorphism in centenarians: different allele frequencies between North and South of Europe. Exp. Gerontol.
+
+,
+
+–
+
+Rigat, B., Hubert, C., Corvol, P., Soubrier, F.,
+
+PCR detection of the insertion/deletion polymor-phism of human angiotensin converting enzyme gene (DCP
+
+) (dipeptidyl carboxypeptidase
+
+). Nucleic. Acids Res.
+
+Schachter, F., Faure-Delanef, L., Guenot, F., Rouger, H., Froguel, P., Lesueur-Ginot, L., Cohen, D.,
+
+association with human longevity with the APOE and ACE loci. Nat. Genet.
+
+,
+
+–
+
+Sleegers,K.,De
+
+eijer,T., Va
+
+ijk,E.J.,Hofman,A.,Bertoli-Avella, A.M.,Koudstaal, Duijn, C.M.,
+
+ACE gene is associated with Alzheimer’s disease and atrophy of hippocampus amygdale. Neurobiol. Aging
+
+,
+
+–
+
+Sorbi, S., Nacmias, B., Forleo, P., Latorraca, S., Gobbini, I., Bracco, L., Piacentini, S., Amaducci, L.,
+
+allele frequencies in Italian sporadic and familial Alzheimer’s disease. Neurosci. Lett.
+
+,
+
+–
+
+Strittmatter, W.J., Roses, A.D.,
+
+Apolipoprotein E and Alzheimer disease. Proc. Natl. Acad. Sci. U.S.A.
+
+–
+
+Tanzi, R.E., Bertram, L.,
+
+Twenty years of the Alzheimer’s disease amyloid hypothesis: a perspective. Cell
+
+,
+
+–
+
+Zhang, J.W., Li, X.Q., Zhang, X., Chen, D., Zhao, H.L., Wu, Y.N., Qu, Q.M.,
+
+Association angiotensin-converting enzyme gene polymorphism and Alzheimer’s disease in a Chinese Dement. Geriatr. Cogn. Disorder.
+
+,
+
+–

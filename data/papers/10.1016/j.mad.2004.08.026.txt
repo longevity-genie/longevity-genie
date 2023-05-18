@@ -1,0 +1,263 @@
+Mechanisms of Ageing and Development 126 (2005) 341–345
+
+www.elsevier.com/locate/mechagedev
+
+evidence for inheritance of exceptional longevity
+
+a b a Gil Atzmon , Marielisa Rincon , Pegah Rabizadeh , Nir Barzilai
+
+aDepartment of Medicine, Institute for Aging Research, Diabetes Research and Training Center, Albert Einstein College of Medicine, 1300 Morris Park Avenue, Bronx, NY 10461, USA bPediatric Endocrinology, Children’s Hospital at Montefiore, Bronx, NY 10461, USA
+
+Available online 6 November 2004
+
+Abstract
+
+Subjects with exceptional longevity have a lower incidence and/or significant delay in the onset of age-related disease, and their family members may inherit biological factors that modulate aging processes and disease susceptibility. In a case control study, we aim to determine phenotype and genotype of exceptional longevity in a genetically homogenous population (Ashkenazi Jews), and their offspring, while an age-matched control group of Ashkenazi Jews was used as control groups.
+
+We demonstrated that exceptional longevity and healthy aging in humans is an inherited phenotype across three generations. Moreover, we demonstrated that subjects with exceptional longevity and their offspring have significantly larger high-density lipoprotein (HDL) levels and particle sizes and low-density lipoprotein (LDL) levels that reflect on their health and cognitive function performance. This phenotype have led us to study candidate genes involved in lipoprotein metabolism, and to the implication of homozygosity for the 405 valine (V) allele of cholesteryl ester transfer protein (CETP). A markedly higher frequency of a functional CETP variant that led to increased particle sizes of HDL and LDL and thus a better health performance is the first example of a phenotype and an associated genotype in humans with exceptional longevity. Hopefully, this line of research will lead us to establish which genotype is necessary (although not necessary sufficient) for a prolonged disease-free aging.
+
+Keywords: Lipoprotein particle size; High-density lipoprotein (HDL) cholesterol; Low-density lipoprotein (LDL) cholesterol; Longevity; Centenarians; Cardiovascular disease; Cognitive function; Cholesteryl ester transfer protein (CETP); Genetics
+
+manipulations on lower organisms, though, provides strong support for the concept that genes can control life span and that cellular and metabolic pathways may mediate this phenotype (Barzilai and Shuldiner, 2001). A growing number of human longevity studies support the notion that families with exceptional longevity have a unique phenotype (Atzmon et al., 2004; Barzilai et al., 2003; Terry et al., 2003) and genotype (Barzilai et al., 2003; Geesaman et al., 2003; Perls and Terry, 2003a; Perls and Terry, 2003b). Since extreme longevity is a rare phenotype (1/10,000), efforts to collect and study such individuals are enormous and there are only few major research groups that investigate this unique phenotype. Several approaches have been used to understand environmental and genetic variables involved in the phenotype of long-lived individuals. Selection of study populations have included isolated groups of centenarians (Lio et al., 2003), mixed population from the same area
+
+1. Introduction
+
+Extension of life span has been genetically achieved in lower species such as nematodes (Caenorhabditis elegans) and flies (Drosophila). One of the most remarkable life extensions (three to fivefold increase) was achieved by genetically altering the daf-16 gene of the nematode (Libina et al., 2003). A less well-defined genetic mutation (Methuselah) was induced in Drosophila (Lin et al., 1998), which increased life span by 35%. However, data in lower organisms should be cautiously applied to humans because of the complexity of human systems and because life span and causes of death in humans are different than those in lower species. Longevity induced by genetic
+
+0047-6374/$ – see front matter # 2004 Elsevier Ireland Ltd. All rights doi:10.1016/j.mad.2004.08.026
+
+3. Inheritance of longevity in centenarians’ families
+
+across the world (Blanche et al., 2001; Choi et al., 2003; Rosholm et al., 2002; Sikora, 2000). Our approach was designed to overcome some of the problems in tackling the potential biological complexity of exceptional longevity. First, to avoid the task for population stratification, we gathered Ashkenazi Jews who were relatively healthy past the age of 95. This unique population originated in the Pale of Europe up to the 17th century, encountered a combination of plagues, wars and anti-semitic persecution, constricting the population size to an estimated few hundred thousands. This relatively small group then experienced rapid popula- tion growth, but ensuing generations stemmed from a relatively limited number of founders. The genetic makeup of Ashkenazi Jews is, therefore, comparatively homogenous, making it easier to identify important genetic differences, for example, the genes for ovarian cancer and breast cancer which were originally identified in studies done among Ashkenazi women (Lancaster et al., 1997). Second, we argued that the phenotype that was helpful during the aging of our subjects might not be apparent at the end of their lives. Therefore, we recruited their offspring who may be enriched with longevity phenotype and genotype if it is indeed a marked one. Third, because the controls for centenarians died few decades ago, we established an age-matched control group for their offspring. This group consists of mainly the spouses of the offsprings or their neighbors, sharing much of their environment. Here, we will demons- trate the advantages of such an approach.
+
+Recently, we demonstrated that longevity is not an ‘‘once in a family’’ trait, since it presented in every branch of the centenarians’ ancestors (Atzmon et al., 2004). We obtained the age of death from the two pairs of centenarians’ and their spouses’ parents. We then calculated the risk ratio of survival to the age of 100 in this population that lived in the 19th century where life expectancy was 50 (Mackay, 2003). Compared to centenarians’ in-laws, centenarians’ parents risk ratio to live to extended age increased on every decade, attaining 6.9 (95% CI = 3.8–10.1) at last; furthermore, a significant threshold (p < 0.007) was seen comparing the 1960s decade (95% CI = 0.77–1.23). We then hypothesized that inheritance of such phenomenon decodes into a healthier performance. To avoid skewed results since centenarians are at the end of their life we then tested the next generation.
+
+4. Offspring of centenarians are healthier
+
+Following our observation that longevity is inherited, we then examined offspring of centenarians to determine whether or not they were relatively spared from age-related diseases. The assumption was that offspring who were (cid:1)33 years younger than their long-lived parents, would have inherited a favorable genotype that is reflected on their good health phenotype. In fact, we reported significantly lower prevalence of diabetes mellitus, hypertension and myocar- dial infarction, without any report of stroke in the offspring group compared to their cohort (Fig. 1), and these observations were extended to several other control groups such as NHANES and Israel Clalit Members (Atzmon et al., 2004). This finding supports the hypothesis that offspring of long-lived parents are healthier probably due to good genetic background. In addition, it could explain the notion that exceptional longevity is just a flip side of being spared from
+
+2. Study design, data recruitment and statistical analysis
+
+2004). This finding supports the hypothesis that offspring of long-lived parents are healthier probably due to good genetic background. In addition, it could explain the notion that exceptional longevity is just a flip side of being spared from cardiovascular disease, a potential age-related risk. To
+
+described elsewhere (Atzmon et al., 2002; Atzmon et al., 2004; Barzilai et al., 2003; Barzilai et al., 2001). Over 300 probands (80% female) were already recruited, of which 48% are over the age of 100. Birth certificates or dates of birth as stated on passports defined the participants’ ages.
+
+subjects (55% female) with average age of 70. We used two different control groups. The first control group consisted mainly of age-matched spouses of the offspring to reduce environmental effect, and other age-matched Ashkenazi for a total of 258 subjects.
+
+Percentage in population=e eXnnewwaousBSRSRBS @ Probands @ Offspring Control  m= HINDM MICardiovascular diseaseStroke
+
+Detailed questionnaires, physical examination, and blood tests including assessment of their lipids and lipoprotein subclass levels and particle sizes by proton nuclear magnetic resonance (NMR) were performed. Samples were also genotyped for the amino acid substitution 405 isoleucine to valine (I405V) variation in the cholesteryl ester transfer protein (CETP) gene, which is involved in regulation of lipoprotein and their particle sizes (Atzmon et al., 2002; Atzmon et al., 2004; Barzilai et al., 2003).
+
+Fig. 1. Percentage of CVD among probands, offspring, and control *p < 0.05, **p < 0.01.
+
+eliminate a possible co-founder to the health condition we determined the body mass index (BMI) in offspring as well as probands and control and we demonstrated that although the probands have significant lower BMI (probably this leanness results from their impending end of life) the control groups did not changed significantly compared to the offspring (Atzmon et al., 2004). Because over 30% of our centenarians were overweight or obese, we believe that leanness is not essential part of exceptional longevity.
+
+    2€56 t |2»* 5 .t € 5fo}3aee 232 °2 ZERRS RRR(wu) azis aponaed TqH S (wu) azis apyaed [qTProbands Offspring Control(a)
+
+5. HDL and LDL levels and particle sizes
+
+cause of non-traumatic death in the western world (Jneid and Bhatt, 2003). A possible explanation for the long lives of centenarians is that they may possess ‘‘atherosclerotic protective factors’’. Higher HDL level was described as a main component of those protective factors (Barzilai et al., 2001). In order to focus on candidate genes, we further established the size of lipoproteins. Indeed, while most molecules in our body are similar in size across humans and most species, this is not the case for lipoproteins. In recent years, small LDL particle size has been associated with cardiovascular risks. We measured the lipoprotein size by NMR technology and studied the lipid profile characteristics of centenarians’ offspring ((cid:1)33 years younger) and compared them to a matched control group. Our results indicated that offspring of centenarians have both large HDL and LDL particle size compared to appropriate controls (Fig. 2). We also determined that this profile is highly heritable (0.4–0.7 for heritability) based on gender and the specific lipoproteins. These data suggest that certain lipid profiles may be inherited in families, and probably may play a role in longevity.
+
+Fig. 2. Average HDL and LDL particle sizes among probands, offspring, and control groups. ***p < 0.0001.
+
+7. Polymorphism in the CETP gene and the phenotype of exceptional longevity
+
+After the observation that offspring of exceptionally long-lived individuals also have a protective lipoprotein phenotype, we further searched for potential candidate genes. We failed to find any mutations or polymorphism in the promoter of hepatic lipase, a strong determinant of lipoprotein size. We then studied CETP gene, another obvious candidate for it has been shown to modulate HDL and LDL levels and sizes. Our findings showed a significant statistical association between genetic variation in CETP and exceptional longevity (Barzilai et al., 2003). Homo- zygosity for the 405V allele of CETP was at a significantly higher percentage among centenarian and their offspring compared to an Ashkenazi control group (Fig. 3). Further investigation of subjects carrying the VV genotype showed lower serum CETP levels and larger lipoprotein particle sizes. Following reasonable statistical assumption, we calculated that the attributable ‘‘risk’’ of one having the VV genotype to reach exceptional old age is 18.1. We proposed a causal connection between individuals carrying the VV genotype and survival advantage, mediated by decreased levels of CETP that promotes higher lipoprotein sizes and levels which we believe lead to exceptional longevity (Barzilai et al., 2003). This finding along with the recent discovery that a common polymorphism of micro- somal transfer protein (MTP), a protein involved in
+
+6. HDL levels and minimental score
+
+Collecting this large number of centenarians has allowed us to relate a biological phenotype to a functional one. We hypothesized that high plasma HDL level is protective on cognitive function among centenarians. We tested cognitive capability by minimental score test (MMSE) and indeed the HDL plasma levels where highly positively correlated with the MMSE test score. Strict analysis of the MMSE distribution compared to HDL levels revealed that subjects with higher HDL plasma levels were significantly differ- entiated in MMSE score compared to subjects with low HDL levels, both in men and women (Atzmon et al., 2002). Statistical adjustment for gender, triglycerides levels, nutrients, BMI, LDL levels, albumin, and apolipoprotein (APO-A1) did not affect the association strength between HDL levels and cognitive function. Thus, HDL is a strong independent predictor of cognitive function in this popula- tion with very old brains (Atzmon et al., 2002).
+
+than the control, supporting the transfer of genetics from their prolong-lived parents. It is this group that allowed us to conclude that lipoprotein particle size is inherited, and led us to focus on candidate genes.
+
+25:20. CETP 405VV genotype percentage       Probands Offspring Ashkenazi Control*p<0.05
+
+The mechanisms of extending life or its components are still unknown. We believe that we have established some insight into the understanding of exceptional longevity and its complexity through the connection between favorable lipid profiles and being spared from age-related diseases. Because such a large percent of centenarians and offspring have large lipoprotein particle size, we suggest that a favorable lipoprotein profile is necessary but may not be sufficient for exceptional longevity. Indeed, these subjects had to survive the childhood infection epidemic of the beginning of last century; they avoided cancer and other age- related diseases. Interestingly, 15% of our population have or had variety of tumors and the distribution of tumor amongst these with and without CETP genotype is similar. However, we found that centenarians have the same cancer type distribution compared to a common population but it occurs 20 years later and in mild condition. This data was not associated with any genotype or phenotype described earlier and further illustrates the complexity in elucidating factors involved in longevity. Nevertheless, association analysis of the CETP gene polymorphism demonstrating a causal connection to a favorable lipid profile leads us to conclude that CETP may be the first gene implicated in longevity. Hopefully, this line of research will lead us to establish which genotype is necessary or/and sufficient for a
+
+Fig. 3. Percentage of CETP 405 favorable allele among probands, off- spring, and control groups.*p < 0.05.
+
+lipoprotein metabolism, is associated with exceptional longevity (Geesaman et al., 2003) provides further evidence for a link between genetics and a protective lipoprotein phenotype.
+
+8. Conclusion
+
+In recent years, the strong component of inheritance of longevity among the ‘‘oldest old’’ became well established. Increased odds ratio of between 4- and 17-fold from appropriate control have been demonstrated amongst siblings and parents of subjects with exceptional longevity (Atzmon et al., 2004; Perls et al., 1998). However, approaches that led to implication of genetic/biological pathway for longevity have been discovered very recently (Barzilai et al., 2003; Geesaman et al., 2003). The two approaches have been result of identifying a specific intermediate phenotype leading to candidate gene approach; furthermore, the second approach was from linkage analysis and ‘industrial’ effort to focus on the site of the initial LOD score (Geesaman et al., 2003). Interestingly, both discov- eries were of known polymorphisms.
+
+References
+
+Atzmon, G., Gabriely, I., Greiner, W., Davidson, D., Schechter, C., N.,
+
+Plasma HDL levels highly correlate with cognitive function exceptional longevity. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, M
+
+Atzmon, G., Schechter, C., Greiner, W., Davidson, D., Rennert, G., N.,
+
+Clinical phenotype of families with longevity. J. Am. Soc.
+
+,
+
+–
+
+Barzilai, N., Atzmon, G., Schechter, C., Schaefer, E.J., Cupples, Lipton, R., Cheng, S., Shuldiner, A.R.,
+
+Unique phenotype and genotype associated with exceptional longevity. Am. Med. Assoc.
+
+,
+
+–
+
+Barzilai, N., Gabriely, I., Gabriely, M., Iankowitz, N., Sorkin, J.D., Offspring of centenarians have a favorable lipid profile. J. Am. Soc.
+
+,
+
+–
+
+Barzilai, N., Shuldiner, A.R.,
+
+Searching for human longevity the future history of gerontology in the post-genomic era. J. Gerontol. Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Blanche, H., Cabanne, L., Sahbatou, M., Thomas, G.,
+
+A study French centenarians: are ACE and APOE associated with longevity? R. Acad Sci. III
+
+,
+
+–
+
+Choi, Y.H., Kim, J.H., Kim, D.K., Kim, J.W., Lee, M.S., Kim, C.H., S.C.,
+
+Distributions of ACE and APOE polymorphisms and relations with dementia status in Korean centenarians. J. Gerontol. Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Geesaman, B.J., Benson, E., Brewster, S.J., Kunkel, L.M., Blanche, Thomas, G., Perls, T.T., Daly, M.J., Puca, A.A.,
+
+Of special note is our approach for phenotype. We have realized that a phenotype that could have sustained our subject throughout life may not be determined any longer because they are near the end of their life. At this age phenotypic changes that are seen with longevity may be attenuated as in the examples of BMI and HDL levels. In addition, centenarians do not have the appropriate control group, consistent of subjects who died decades ago. Therefore, our study is unique in setting a control group of offspring of centenarians and their age-matched spouse or neighbors. We have shown that the offspring are healthier
+
+identification of a microsomal transfer protein marker associated with the human lifespan. Proc. Natl. Acad. Sci. U.S.A.
+
+,
+
+–
+
+Jneid, H., Bhatt, D.L.,
+
+Advances in antiplatelet therapy. Expert Opin. Emerg. Drugs
+
+,
+
+–
+
+Lancaster, J.M., Carney, M.E., Futreal, P.A.,
+
+BRCA
+
+and
+
+—a genetic link to familial breast and ovarian cancer. Medscape Womens Health
+
+,
+
+Libina, N., Berman, J.R., Kenyon, C.,
+
+Tissue-specific activities of C. elegans DAF-
+
+in the regulation of lifespan. Cell
+
+,
+
+–
+
+Lin, Y.J., Seroude, L., Benzer, S.,
+
+Extended life-span and stress resistance in the Drosophila mutant methuselah. Science
+
+,
+
+–
+
+Lio, D., Pes, G.M., Carru, C., Listi, F., Ferlazzo, V., Candore, G., Colonna- Romano, G., Ferrucci, L., Deiana, L., Baggio, G., Franceschi, C., Caruso, C.,
+
+Association between the HLA-DR alleles and long- evity: a study in Sardinian population. Exp. Gerontol.
+
+,
+
+–
+
+Mackay, I.R.,
+
+Humanism and the suffering of the people. Intern. Med. J.
+
+,
+
+–
+
+Perls,T., Terry, D.,
+
+a.Geneticsof exceptionallongevity. Exp.Gerontol.
+
+,
+
+–
+
+Perls, T., Terry, D.,
+
+b. Understanding the determinants of exceptional
+
+Perls, T.T., Bubrick, E., Wager, C.G., Vijg, J., Kruglyak, L., 1998. Siblings of centenarians live longer. Lancet 351, 1560.
+
+identification of a microsomal transfer protein marker associated with the human lifespan. Proc. Natl. Acad. Sci. U.S.A. 100, 14115–14120. Jneid, H., Bhatt, D.L., 2003. Advances in antiplatelet therapy. Expert Opin.
+
+of centenarians live longer. Lancet
+
+,
+
+Puca, A.A., Daly, M.J., Brewster, S.J., Matise, T.C., Barrett, J., Shea- Drinkwater, M., Kang, S., Joyce, E., Nicoli, J., Benson, E., Kunkel, L.M., Perls, T.,
+
+A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome
+
+Proc. Natl. Acad. Sci. U.S.A.
+
+,
+
+–
+
+Rosholm, J.U., Nybo, H., Andersen Ranberg, K., Himmelstrup, B., Skjelbo, E., Christensen, K., Gram, L.F.,
+
+Hyponatraemia in very old nonhospitalised people: association with drug use. Drugs Aging
+
+,
+
+–
+
+Shimizu, K., Takeda, S., Noji, H., Hirose, N., Ebihara, Y., Arai, Y., Hamamatsu, M., Nakazawa, S., Gondo, Y., Konishi, K.,
+
+Dietary patterns and further survival in Japanese centenarians. J. Nutr. Sci. Vitam. (Tokyo)
+
+,
+
+–
+
+Sikora, E.,
+
+Studies on successful aging and longevity: Polish Cen- tenarian Program. Acta Biochim. Pol.
+
+,
+
+–
+
+Terry, D.F., Wilcox, M., M
+
+ormick, M.A., Lawler, E., Perls, T.T.,
+
+Cardiovascular advantages among the offspring of centenarians. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M

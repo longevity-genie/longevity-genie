@@ -1,0 +1,429 @@
+Experimental Gerontology 38 (2003) 1065–1070
+
+www.elsevier.com/locate/expgero
+
+Variability of the SIRT3 gene, human silent information regulator Sir2 homologue, and survivorship in the elderly
+
+Rose , S. Dato , K. Altomare , D. Bellizzi , S. Garasto , V. Greco , G. Passarino , b b c c c d e E. Feraco , V. Mari , C. Barbi , M. BonaFe , C. Franceschi , Q. Tan , S. Boiko ,
+
+aDepartment of Cell Biology, University of Calabria, Rende 87030, Italy bItalian National Research Center on Aging, INRCA, Cosenza, Italy cDepartment of Molecular Pathology, University of Bologna, Bologna, Italy dDepartment of Clinical Biochemistry, University of Southern Denmark, Odense, eMax Planck Institute for Demographic Research, Rostock, Germany
+
+Received 16 April 2003; received in revised form 18 July 2003; accepted 25 July 2003
+
+Abstract
+
+The human sirtuin 3 (SIRT3) gene encodes a putative mitochondrial NAD-dependent deacetylase (SIRT3) which belongs to the evolutionary conserved family of sirtuin 2 proteins. Studies in model organisms have demonstrated that SIR2 genes control lifespan, while no data are available regarding a possible role of SIRT3 in human longevity. By analysing the genotype-specific survival function relevant to the G477T marker of SIRT3, we found that in males the TT genotype increases ðp ¼ 0:0272Þ; while the GT genotype decreases ðp ¼ 0:0391Þ survival in the elderly. Since SIRT3 lies in a chromosomal region (11p15.5) where four genes potentially associated with longevity are located (HRAS1, Insulin-like Growth Factor 2, Proinsulin, and Tyrosine Hydroxylase) we tested for linkage-disequilibrium between G477T alleles and alleles of the above genes. The disequilibrium was not significant in any case, thus suggesting that SIRT3 itself, or a gene strictly linked to SIRT3, may have a role in human longevity. q 2003 Elsevier Inc. All rights reserved.
+
+Keywords: SIRT3 gene; Human longevity; Silent Information Regulator 2 homologue
+
+1. Introduction
+
+actually unknown, but probably associated with the insulin signalling pathway (Tissenbaum and Guarente, 2001). The role played by Sir2p as NAD þ dependent protein deacetylase links cellular metabolism, transcriptional silen- cing and ageing (Guarente, 2000) and it has been proposed that SIR2 genes may regulate ageing in many species, possibly by coordinating the pace of ageing to the metabolic rate (Guarente and Kenyon, 2000; Guarente, 2001).
+
+mitochondrial protein (SIRT3) (Schwer et al., 2002; Onyango et al., 2002) which is homologous to the yeast protein Sir2p (silent information regulator 2 protein) the founding member of a large family of NAD þ dependent protein deacetylases named sirtuins (Smith et al., 2000). The SIR2 gene is a key determinant in yeast lifespan: indeed null mutations of SIR2 shorten while an extra-copy of SIR2 extends lifespan, probably through chromatin silencing in the ribosomal DNA repeats (Kaeberlein et al., 1999; Sinclair and Guarente, 1997). Also in C. elegans a SIR2 homologue, sir-2.1, seems to modulate lifespan through a mechanism
+
+The SIRT3 gene (www.ncbi.nlm.nih.gov/omim: MIM 604481; contig NT_035113) lies at the telomeric terminal on 11p15.5 chromosome. Allelic association studies carried out in people older than 100 years showed that a relationship exists between longevity and polymorphism of four genes located in this region. In particular, by analysing an STR marker of the Tyrosine Hydroxylase (TH) gene, as well as the haplotypes defined by this marker and RFLPs of Proinsulin (INS) and Insulin-like Growth Factor 2 (IGF2) genes, significant age-related variations of the allelic pool had been observed (De Luca et al., 2001;
+
+* Corresponding author. Tel.: þ
+
+-
+
+-
+
+; fax:
+
+E-mail address: g.debenedictis@unical.it (G. De Benedictis).
+
+These authors contributed equally.
+
+* Corresponding author. Tel.: þ39-0984-492932; fax: 492911.
+
+G. Rose et al. / Experimental Gerontology 38 (2003) 1065–1070
+
+Tan et al., 2002); similar age-related variations were also found for the 30 VNTR marker of the HRAS1 gene (Bonafe` et al., 2002). The HRAS1 gene (contig NT_035113) lies at 0.665 Mb from the telomere, while the genes IGF2, INS and TH lie at 2.112, 2.140, and 2.145 Mb, respectively, from the telomeric terminal and are comprised within the contig NT_028310. Therefore, within a short piece of chromosome, five genes potentially involved in longevity are located.
+
+(2813–3551 nt, GeneBank accession NT_035113) which included the GAGISXXXGIPXFR conserved motif of the SIRT3 gene (exons 2 and 3) was amplified by PCR and automatically sequenced by ABIPRISM 310 DNA sequen- cer. A silent transversion was identified in exon 3 at the position 477 of the coding region (G477T corresponding to Ser159Ser; AF083108). This mutation originated a Bgl II polymorphic restriction site. Restriction analysis was then used to analyse the G477T polymorphism in the whole sample population. Details on the experimental procedures are available on request (g.debenedictis@unical.it).
+
+The effect exerted on yeast and worm lifespan by sirtuin 2 genes, as well as the location of SIRT3 in the 11p15.5 chromosomal region, prompted us to investigate whether variants of this gene were associated with longevity. Since polymorphisms of SIRT3 were not known, we first searched for variability in the SIRT3 region encoding for a core domain that contains short motifs of conserved amino acids (Frye, 1999, 2000). After the identification of a SNP marker in exon 3, we used this marker in searching for possible modifications of the genetic pool which may occur as the population ages and survival selection operates.
+
+2.3. Statistical
+
+non-carriers of the respective genotypes (Yashin et al., 1999, 2000; Tan et al., 2002). In particular, parametric, semi-parametric, non-parametric and relative-risk models were used to discover possible differences between the survivorship of carriers and non-carriers of TT, GG and GT genotypes. Only the non-parametric model gave adequate parametrization of mortality rates in Gompertz’s form, with corresponding modelled survival curves giving appropriate approximation to empirical survival function for the whole population. Therefore we tested the formal hypothesis of gene longevity effects (standard likelihood ratio test) by the non-parametric model, and calculated p-values based on upper-tail x2 values (MATLAB software).
+
+2. Materials and methods
+
+2.1. Population sample
+
+An appropriate campaign of recruitment was launched in Calabria (southern Italy) for genetic studies on ageing in 1999, excepted for centenarians whose recruitment started beginning from 1994. The recruitment campaign was focused on University students and staff for 18–60 years old people, thermal baths and aged people-Academy for 60–80 years old people. As to the centenarians, they were identified through the birth registers of the Municipalities of Calabria and then contacted. Only subjects born and living in Calabria were invited to take part to the study and after a detailed explanation of the research project, more than 90% of the contacted persons agreed to participate and gave their informed consent to studies on ageing carried out by the present research group. For each subject routine blood analyses were carried out and, in addition, subjects older than 60 years underwent a complete clinical and geriatric assessment. A total of 801 unrelated subjects (331 males and 470 females) free of clinically overt pathologies and having routine blood parameters in the normal sex- and age-specific range were enrolled in the study. The sample included 120 subjects older than 100 years (36 males and 84 females). These centenarians, classified in the categories A and B according to the criteria reported by Franceschi et al. (2000), were in a fairly good health status and did not suffer major pathologies or disabilities.
+
+Note that in this study we deal with cross-sectional data, where gene frequencies for different ages are calculated for individuals from different cohorts. We combine this information with demographic life table data to evaluate age patterns of mortality rates and survival functions for carriers of respective genes or genotypes. Before statistical calculations using cross-sectional data on genetic markers were made, we performed preliminary historic-demo- graphic analysis of the Italian population where data came from. Such analysis was needed to make sure that migration processes did not produce much change in the initial frequencies of respective genes and genotypes in the cohorts participating in the cross-sectional study.
+
+The method described by Weir (1996) was used to assess ; linkage disequilibrium D and to check the null hypothesis D ¼ 0; between the G477T marker of SIRT3 and each of the markers previously analysed at the loci HRAS1 (Bonafe` et al., 2002) and IGF2, INS, TH (De Luca et al., 2001). Maximum Likelihood Estimation (MLE) was used to estimate the haplotypic frequencies (Arlequin 1.1 software).
+
+2.2. DNA analyses
+
+3. Results
+
+After DNA extraction from blood buffy coats of 50 subjects randomly chosen, a 738 bp DNA fragment
+
+By searching for variability in the evolutionary conserved domain of the SIRT3 gene (exon 2–exon 3) we
+
+Survival Functions405060 70Age (Years)— (GG)Modeleee Experiment80 90100
+
+Survival Functions   — (17)Modeleee Experiment   40 50 60 70 80 90 100Age (Years)
+
+Fig. 3. Survival functions for carriers of GG genotype among Italian males. Empirical and modelled survival function for the whole population are also shown (please note that the three curves almost completely overlap).
+
+Fig. 1. Survival functions for carriers of TT genotype among Italian males. Empirical and modelled survival function for the whole population are also shown (please note that the empirical curve almost completely overlaps with the modelled one).
+
+was observed in females (p ¼ 674 for TT; p ¼ 845 for GT; p ¼ 0: 777 for GG).
+
+identified a silent G/T transversion at the position 477 of the coding region (G477T corresponding to Ser159Ser; AF083108). We used this marker to investigate possible modifications of the SIRT3 gene pool in people of increasing age, including the oldest old. We found that, in males, the TT genotype increased ðp ¼ 0: 0272Þ while the GT genotype decreased ðp ¼ 0: 0391Þ the value of the survival function; the GG genotype did not affect significantly the survival function ðp ¼ 0: 871Þ (Figs. 1–3; note that the modelled functions start from the minimal age present in the subpopulation of carriers of the respective genotype, and then scales along the age axes are different). As previously observed for other loci (see Franceschi et al., 2000; De Luca et al., 2001 and references therein) the association between SIRT3 variability and survival was restricted to males,
+
+The sample we were analysing in the present study had already been typed, at least in part, for markers of other genes spanning for 1.5 Mb about in the same region and associated with longevity (HRAS1, IGF2, INS, TH). Since the association between SIRT3 and survivorship could be due to allelic associations, we tested for linkage disequili- brium (LD) between the G477T marker of SIRT3 and markers of the above genes. In particular, after verification of the Hardy Weinberg equilibrium for the SIRT3 polymorphism (see Supplementary material), LD was checked between G477T polymorphism and HRAS1- 30 VNTR; IGF2-Ava II-RFLP; INS-Fok I-RFLP, and HUMTHO.1-STR. Results are shown in Tables 1–4, respectively, where it can be seen that the hypothesis D ¼ 0 cannot be rejected in any case.
+
+et al., 2001 and references therein) the association between SIRT3 variability and survival was restricted to males, because no genotype specific variation of the survivorship
+
+Survival Functions4050       60 70Age (Years)— (GT)Modeleee Experiment 80 90 100
+
+Table 1
+
+SIRT3-(G/T) /HRAS1-30VNTR linkage disequilibrium ðDÞ analysis in a 3223 sub-sample of 145 subjects
+
+Haplotypes ðn ¼ 290Þ Frequency ( £ 100) Standard errors ( £ 100) G-a1 43.50 3.36 G-a2 8.67 1.79 G-a3 7.93 1.74 G-a4 4.23 1.40 T-a1 16.84 2.47 T-a2 0.99 0.86 T-a3 1.38 0.99 T-a4 4.04 1.38 Others 12.42 1.90
+
+Haplotypic frequencies are only reported for HRAS1-30VNTR common alleles (a1, a2, a3, a4) while haplotypes containing rare alleles are grouped as Others (Bonafe` et al., 2002). Haplotypic frequencies are estimated by maximum likelihood method (Arlequin 1.1 software). The hypothesis D ¼ 0 is not rejected (p ¼ 0:124 ^ 0:001).
+
+Fig. 2. Survival functions for carriers of GT genotype among Italian males. Empirical and modelled survival function for the whole population are also shown (please note that the empirical curve almost completely overlaps with the modelled one).
+
+G. Rose et al. / Experimental Gerontology 38 (2003) 1065–1070
+
+Table 2
+
+to be sound. On the other hand the possibility that the association between SIRT3 variability and survival were due to population stratification is unlikely. Indeed, the population structure of Calabria was proved to be homogeneous and with no stratification by genotyping a moderate number of unlinked genetic markers in the same population (Rose et al., 1996; and unpublished results). What is more, the SIRT3 gene is a strong candidate in longevity taking into account the findings in model organisms. Thus, both the choice of the population sample and the choice of the candidate gene fit with the criteria suggested for genetic association studies of complex traits
+
+SIRT3-(G/T) /IGF2-AvaII-RFLP linkage disequilibrium ðDÞ analysis in 3223 a sub-sample of 130 subjects
+
+Haplotypes ðn ¼ 260Þ Frequency ( £ 100) Standard errors ( £ G-P0 25.54 2.99 G-A0 47.16 3.28 T-P0 7.92 2.10 T-A0 19.38 2.87
+
+IGF2-AvaII-RFLP alleles are named according to the presence/absence (P0/A0) of the AvaII restriction site (De Luca et al., 2001). Haplotypic frequencies are estimated by maximum likelihood method (Arlequin 1.1 software). The hypothesis D ¼ 0 is not rejected (p ¼ 0:499 ^ 0:002).
+
+On the other hand, since the G477T transversion does not change the amino acid in the conserved sirtuin domain, the observed association could be due to LD either with a functional variant of the SIRT3 gene itself or of other genes occurring in this neighbourhood. As an LD map relevant to the 11p15.5 chromosomal region is not yet available, it is not known if such a region is organised in hot or cold LD blocks (Ardlie et al., 2002). In any case, the negative findings obtained in LD analysis (Tables 1–4) show that the relationship between the G477T marker of SIRT3 and survivorship is not due to the gene/longevity associations previously found in the same 11p15.5 region, thus reinforcing the hypothesis of D-linkage between the G477T variant and an unknown functional variant of SIRT3 itself. In particular, the puzzling effects of different genotypes on the survival curves (Figs. 1–3) suggest a linkage disequilibrium of G477T with a putative multi- allelic polymorphism displaying complex allelic inter- actions as previously observed for the STR alleles of the TH gene (Tan et al., 2002). Intriguingly, molecular analyses we are carrying out in the surrounding region revealed a functional multiallelic polymorphism located in the 5th intron of the SIRT3 gene; at present, a linkage disequili- brium map of the 11p15.5 region is under construction
+
+Table 3
+
+SIRT3-(G/T) /INS-FokI-RFLP linkage disequilibrium ðDÞ analysis in a 3223 sub-sample of 130 subjects
+
+Haplotypes ðn ¼ 260Þ Frequency ( £ 100) Standard errors ( £ G-P 10.57 2.17 G-A 62.12 3.26 T-P 4.43 1.68 T-A 22.88 2.83
+
+INS-FokI-RFLP alleles are named according to the presence/absence (P/A) of the FokI restriction site (De Luca et al., 2001). Haplotypic frequencies are estimated by maximum likelihood method (Arlequin 1.1 software). The hypothesis D ¼ 0 is not rejected (p ¼ 0:810 ^ 0:001).
+
+Table 4
+
+SIRT3-(G/T) /HUMTHO.1-STR linkage disequilibrium ðDÞ analysis in a 3223 sub-sample of 718 subjects
+
+Haplotypes ðn ¼ 1436Þ Frequency ( £ 100) Standard errors ( £ 100) G-6 20.84 1.19 G-7 10.01 0.92 G-8 9.06 0.86 G-9 13.52 1.03 G-10* 16.35 1.08 G-10 0.62 0.25 T-6 9.80 0.96 T-7 4.89 0.73 T-8 3.26 0.61 T-9 6.26 0.82 T-10* 4.96 0.78 T-10 0.43 0.22
+
+Anyway, whatever the functional variant may be, an association between a marker of SIRT3 and survivorship has been found. The possibility that the Sir2p human homologue has a role in ageing is in line with the idea that, although ageing is not a programmed process as mechanisms of development are, the modulators of the rate of ageing are conserved over large evolutionary distances (Partridge and Gems, 2002). On the other hand a link among rate of ageing, gene-expression modulation, and metabolic rate is suggested by an elegant study of genome-wide transcript profiles in ageing D. melanogaster which showed age-dependent changes in transcription level nearly in 23% of the genome (Pletcher et al., 2002). These findings indicate that Sir2p activity may be an evolutionary conserved check point of this complex interplay (Chang and Ming, 2002) and therefore agree with the idea that SIRT3 variability may modulate human ageing. What is more, the localisation of the SIRT3 protein to mitochondria,
+
+HUMTHO.1-STR alleles are named according to the number of STR repeats; allele 10* is that containing the imperfect repeat (De Luca et al., 2001; Tan et al., 2002). Haplotypic frequencies are estimated by maximum likelihood method (Arlequin 1.1 software). The hypothesis D ¼ 0 is not rejected (p ¼ 0:482 ^ 0:002).
+
+4. Discussion
+
+By applying a demographic-genetic approach (Yashin et al., 1999) a significant variation of the survivorship, related to the genotypes defined by the G477T polymorph- ism of the SIRT3 gene, was found in the elderly. Although the possibility that such association is due to chance cannot be ruled out, the statistical significance of the finding seems
+
+Table S1 SIRT3 (G477T) polymorphism Genotype Absolute Relative HWE expected frequency frequency ^ SE values —Contig NT_035113IGF2INS   
+
+as well as its NAD þ dependent activity in these organelles, is in line with models putting the mitochondria as central actors in the network which connects metabolic rate, gene expression modulation, and lifespan (Salvioli et al., 2001; Rose et al., 2002).
+
+The location in a restrict chromosomal region, 11p15.5, of five genes potentially involved in human ageing (HRAS1, SIRT3, IGF2, INS, TH) is very intriguing and suggests an evolutionary conserved control of shared regulatory elements (Hurst et al., 2002). Some preliminary results we obtained by gene expression studies indicate that this may be the case at least for some of the above 11p15.5 genes (Bellizzi et al., 2002).
+
+In conclusion, by a demographic genetic approach a male-specific relationship between a marker of SIRT3 and survivorship has been discovered. This finding shows that the variability of a gene which affects lifespan in experimental organisms is associated with longevity in humans. Furthermore, the SIRT3 chromosomal location close to other genes associated with longevity opens intriguing questions about the significance of this finding in the light of the current evolutionary theories on ageing and longevity (Partridge and Gems, 2002).
+
+5. Supplementary material
+
+The following supplementary material is available on the web site of the Department of Cell Biology of the University of Calabria: http://biologia.unical.it/genetica.
+
+A graph reporting the survival curve of the general Italian population (year 2000)
+
+Genotypic distribution in the male population (x2 ¼ 2.22 with 1 d.f.; p ¼ 0.155) GG 152 0.51 ^ 0.029 157.1 GT 128 0.43 ^ 0.029 117.8 TT 17 0.06 ^ 0.013 22.1 Total 297 1 297.0 Genotypic distribution in the female population (x2 ¼ 3.28 with 1 d.f.; p ¼ 0.068) GG 197 0.45 ^ 0.024 205.1 GT 202 0.47 ^ 0.024 185.8 TT 34 0.08 ^ 0.013 42.1 Total 433 1 433.0 Alleles Counts Relative frequenvy ^ SE Allelic distribution in the male population G 432 0.73 ^ 0.018 T 162 0.27 ^ 0.018 Total 594 1 Allelic distribution in the female population G 596 0.69 ^ 0.016 T 270 0.31 ^ 0.016
+
+Survival Function0.80.60.4  0.2Italian Population   — females~-- males       2040 60Age (Years) 
+
+2. A map of the chromosome 11p15.5 region, showing the—in scale—position of the genes HRAS1, SIRT3, IGF2, INS and TH
+
+x2 and p values refer to expected values at Hardy Weinberg Equilibrium (HWE).
+
+(
+
+)
+
+–
+
+Hurst, L.D., Williams, E.J.B., Pal, C.,
+
+Natural selection promotes conservation of linkage of co-expressed genes. Trends Genet.
+
+–
+
+Kaeberlein, M., M
+
+ey, M., Guarente, L.,
+
+The SIR
+
+/
+
+/
+
+complex SIR
+
+alone promote longevity in Saccharomyces cerevisiae by different mechanisms. Genes Dev.
+
+,
+
+–
+
+Onyango, P., Celic, I., M
+
+affery, J.M., Boeke, J.D., Feinberg, A.P., SIRT
+
+, a human SIR
+
+homologue, is a NAD-dependent localized to mitochondria. Proc. Natl Acad. Sci. USA
+
+–
+
+Partridge, L., Gems, D.,
+
+Mechanisms of ageing: public or Nat. Rev. Genet.
+
+,
+
+–
+
+Pletcher, S.D., Macdonald, S.J., Marguerie, R., Certa, U., Stearns, Goldstein, D.B., Partridge, L.,
+
+Genome-wide transcript profiles aging and calorically restricted Drosophila melanogaster. Curr.
+
+,
+
+–
+
+Rose, G., De Luca, M., Falcone, E., Spadafora, P., Carrieri, G., Benedictis, G.,
+
+Allele frequency distribution at seven hypervariable loci in a population sample from Calabria Italy). Gene Geogr.
+
+,
+
+–
+
+Rose, G., Passarino, G., Franceschi, C., De Benedictis, G.,
+
+variability of the mitochondrial genome in human aging: a key for and death? Int. J. Biochem. Cell. Biol.
+
+,
+
+–
+
+Salvioli, M., Bonafe`, M., Capri, M., Monti, D., Franceschi, C., Mitochondria, aging and longevity: a new perspective. FEBS Lett.
+
+–
+
+Schwer, B., North, B.J., Frye, R.A., Ott, M., Verdin, E.,
+
+The silent information regulator (sir)
+
+homologue
+
+IRT
+
+is a drial nicotinamide adenine dinucleotide-dependent deacetylase. J. Biol.
+
+,
+
+–
+
+Sinclair, D., Guarente, L.,
+
+Extrachromosomal DNA circles—a of aging in yeast. Cell
+
+,
+
+–
+
+Smith, J.S., Brachmann, C.B., Celic, I., Kenna, M.A., Muhammad, Starai, V.J., Avalos, J.L., Escalante-Semerena, J.C., Grbmeyer, Wolberger, C., Boeke, J.D.,
+
+A phylogenetically NAD þ dependent protein deacetylase activity in the SIR
+
+family. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Tabor, H.K., Risch, N.J., Myers, R.M.,
+
+Candidate-gene for studying complex genetic traits: practical considerations. Nat. Genet.
+
+,
+
+–
+
+Tan, Q., Bellizzi, D., Rose, G., Grarasto, S., Franceschi, C., Kruse, Vaupel, J.W., De Benedictis, G., Yashin, A.I.,
+
+The influence human longevity by HUMTHO
+
+STR polymorphims Hydroxylase gene). A relative risk approach. Mech. Ageing
+
+,
+
+–
+
+Tissenbaum, H.A., Guarente, L.,
+
+Increased dosage of a sir-
+
+extends lifespan in C. elegans. Nature
+
+,
+
+–
+
+Yashin, A.I., De Benedictis, G., Vaupel, J.W., Tan, Q., Andreev, Iachine, I.A., Bonafe, M., De Luca, M., Valensin, S., Carotenuto, Franceschi, C.,
+
+Genes, demography, and life span: contribution of demographic data in genetic studies on aging longevity. Am. J. Hum. Genet.
+
+,
+
+–
+
+Yashin, A.I., De Benedictis, G., Vaupel, J.W., Tan, Q., Andreev, Iachine, I.A., Bonafe, M., De Luca, M., Valensin, S., Carotenuto, Franceschi, C.,
+
+Genes and longevity: lessons from studies. J. Gerontol.: Biol. Sci.
+
+A, B
+
+–B
+
+Weir, B.S.,
+
+Genetic Data Analysis II, Sinauer Associates, land, MA, pp.
+
+–
+
+G. Rose et al. / Experimental Gerontology 38 (2003) 1065–1070
+
+Work financed by the Italian Ministry of Scientific Research and Technology (PRIN 2000–2002 Genetics Determinant of Human Longevity), by the Italian Ministry of Health (IRCCS project 2000–2002. Marcatori genetici e biologici di invecchiamento normale e patologico) and by the EU project ‘European Challenge for Healthy Ageing’ (ECHA, No. QLRT-2001-00128, Call Identifier: QOL-2001-3).
+
+Ardlie, K.G., Kruglyak, L., Seielstad, M.,
+
+Patterns of linkage disequilibrium in the human genome. Nat. Rev. Genet.
+
+,
+
+–
+
+Bellizzi, D., Rose, G., Maggiolini, M., Passarino, G., De Benedictis, G.,
+
+The SIRT
+
+and the PSMD
+
+genes are linked head-to-head and share a bidirectional promoter. Proceedings of the Cold Spring Harbor Laboratory ‘Molecular genetics of aging’, October
+
+–
+
+,
+
+, Cold Spring Harbor, NY, USA. Bonafe`, M., Barbi, C., Olivieri, F., Yashin, A.I., Andreev, K.F., Vaupel, J.W., De Benedictis, G., Rose, G., Carrieri, G., Jazwinski, S.M., Franceschi, C.,
+
+An allele of HRAS
+
+variable number of tandem repeats is a frailty allele: implication for an evolutionary-conserved pathway of longevity. Gene
+
+,
+
+–
+
+Chang, K.T., Ming, K.T.,
+
+Regulation of lifespan by histone deacetylase. Ageing Res. Rev.
+
+,
+
+–
+
+De Luca, M., Rose, G., Bonafe`, M., Garasto, S., Greco, V., Weir, B.S., Franceschi, C., De Benedictis, G.,
+
+Sex-specific longevity associations defined by Tyrosine Hydroxylase–Insulin–Insulin Growth Factor
+
+on the
+
+p
+
+chromosomal region. Exp. Gerontol.
+
+,
+
+–
+
+Franceschi, C., Motta, L., Valensin, S., Italian Multicenter Study on Centenarians,
+
+Do men and women follow different trajectories to reach extreme longevity? Aging Clin. Exp. Res.
+
+,
+
+–
+
+Frye, R.A.,
+
+Characterization offive human
+
+NAs with homology to the yeast SIR
+
+gene: Sir
+
+-like proteins (sirtuins) metabolize NAD and may have protein ADP-ribosyltransferase activity. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Frye, R.A.,
+
+Phylogenetic classification of prokaryotic and eukaryotic Sir
+
+-like proteins. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Guarente, L.,
+
+Sir
+
+links chromatin silencing, metabolism, and aging. Genes Dev.
+
+,
+
+–
+
+Guarente, L.,
+
+SIR
+
+and aging—the exception that proves the rule. Trends Genet.
+
+,
+
+–
+
+Guarente, L., Kenyon, C.,
+
+Genetic pathways that regulates ageing in model organisms. Nature
+
+,
+
+–

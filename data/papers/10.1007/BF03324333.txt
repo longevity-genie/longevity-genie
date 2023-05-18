@@ -1,0 +1,379 @@
+Apolipoprotein E allele frequencies in an Italian population: Relation to age and lipid profile
+
+lG. Ruiu, 1M. Cassader, lR. Gambino, IN. Alemanno, IF. Demichieli, lAo Pagano, 2F. Veglia, IG. Pagano lIstituto di Medicina Interna, Universita di Torino, Torino, 2Unita di Epidemiologia, Istituto Scientifico Ospedale S. Raffaele, Milano, Italy
+
+1G. Ruiu, 1M. Cassader, 1R. Gambino, !N. Alemanno, !F. Demichieli, 1A. Pagano, ?F. Veglia, and11m n........
+
+lIstituto di Medicina Interna, Universita di Torino, Torino, 2Unita di Epidemiologia, Istituto Scientifico Ospedale S. Raffaele, Milano, Italy
+
+complications (10-13) suggested that £4 frequency gradually decreases with age, and evidence of this change, coupled with an increase in £2, has been pro vided by a number of investigations (14-17).
+
+ABSTRACT. Apo E phenotype and plasma Tg, Chol, LDL-Chol, HDL-Chol and Apo B levels were determined in a sample of 228 healthy Italian sub jects (124 men and 104 women) aged 18-93. The allele frequencies were: £2=0.070; £3=0.829; £4=0.101 (among the lowest values in the litera ture). Division of the sample into four age groups indicated that £4 frequency decreased with age to o in persons aged over 75. Covariance analysis of the influence of each allele on plasma lipids showed that £4 was significantly associated with the highest Chol, LDL-Chol and Apo B levels. These data are evidence of the influence of £4 on Chol metabolism in an Italian population. They also show that its fre quency decreases with age.
+
+This study evidences the distribution of Apo E phenotypes, and their relationship to plasma lipids and £4 frequency patterns in a male and female Italian population divided into four age groups.
+
+MATERIALS AND METHODS
+
+MATERIALS AND METHODS Subjects
+
+Plasma samples for Apo E phenotyping were col lected in the morning after an overnight fast from 124 male and 104 female subjects aged 18-93, divided in to 4 age groups: under 65, 66-70, 71-75 and over 75. The population consisted of medical students, hospital staff members and persons over 60 who were able-bodied inmates of a rest-home or regis tered for analyses at the laboratory of the San Gio vanni Hospital, Torino. Subjects with diabetes, or liver, kidney or thyroid diseases were excluded.
+
+INTRODUCTION
+
+The 299-amino-acid glycoprotein apolipoprotein (Apo) E is primarily a component of chylomicra and VLDL (1), and acts as a ligand for the LDL receptor (Apo BI00-E receptor) and the remnants receptor (Apo E receptor) (2). Human Apo E displays a ge netically-determined polymorphism (3, 4); three alle les on the same locus encode for the three E2, E3 and E4 isoforms to produce three homozygous and three heterozygous phenotypes. Differences in the iso electric points of the three isoforms allow pheno typing by isoelectrofocalization (IEF) (5, 6). Studies of allele distribution in several populations have revealed a lack of uniformity in £4 distribution (7). The major importance of this finding lies in the fact that the three alleles influence cholesterol (Chol) metabolism. Bearers of one or more £4 alleles display high total Chol and LDL-Chollevels, whereas the opposite is true for £2 (7-9). The observation of enhanced £4 fre quency in patients with atherosclerotic cardiovascular
+
+Preparation of samples
+
+1 mg/mL EDT A-Na2 plasma samples were cen trifuged for 30 minutes at 2500 rpm at 4°C in a J6B centrifuge (Beckman, Palo Alto, CA, U.S.A.), and stored at -20°C until processed. Chol and triglyc erides (Tg) were measured enzymatically. HDL-Chol was determined after precipitation of Apo B-contain ing lipoproteins with heparin and manganese chloride (18). LDL-Chol was calculated according to Friedewald et at. (19). Plasma Apo B was determined by the tur bidimetric method (Poli Diagnostici, Milano, Italy).
+
+Apo E phenotyping
+
+Plasma samples (10 ilL) were delipidated with ace tone and ethanol (2.5 mL) 1: 1 v/v for 4 hours at
+
+Key words: Aging, Apo B, Apolipoprotein E phenotype, cholesterol, LDL-cholesterol. Correspondence: M. Cassader, M.D., Istituto di Medicina Interna, Corso A.M. Dogliotli 14, 10126 Torino, Italy. Received May 3, 1994; accepted in revised form January 23, 1995.
+
+with rabbit anti-sheep IgG conjugated to horseradish peroxidase (1:500, v/v) (Pierce, Rockford, II, U.S.A.) for 1 hour at 37°C in washing buffer. After three more washes, it was developed at room tempera ture using 30 mg of 4-chloro-I-naphtol in 10 ml methanol, 40 ml Oulbecco's buffer solution (Sig ma), and 30 III 30% H 0 The reaction took place . 2 2 in 30 seconds and after 5-20 minutes was stopped with ddH 0. 2
+
+-20°C, resuspended with acetone and ethanol (2.5 ml) for 1 hour, and washed in diethyl-ether (1 ml). The final precipitate was dried under nitrogen, dis solved in 200 III 0.1 mollL Tris-HCl, pH 10.2, containing 6 mollL urea, 1% SOS, 2% ampholytes pH 4-6.5, 1 III E-mercaptoethanol, and 5% sucrose, and left for 1 hour at room temperature before IEF. Polyacrylamide gel was poured onto a plastic sheet
+
+covering the inner face of a glass plate (240 x 130 mm or 160 x 120). The spacer between the two glasses was 1 mm thick. The gel mixture contained 2% ampholytes (pH 4-6.5), and was prepared ac cording to Warnick (20).
+
+Statistics
+
+Statistical analyses were performed using the SAS statistical package (SAS institute). Allele frequencies were determined by means of the gene-counting method. The significance of a frequency increase or decrease across the four age groups was assessed by the X2 test for trends (Mantel-Haenszel) (22). The association between the £-Iocus and the level of serum lipoproteins was assessed by linear regression us the number of £3 and £4 alleles in the genotype, with ad justment for gender and age (covariance analysis). Tg values were log-transformed before analysis in view of their skewed distribution. The average effect of the Apo E alleles (denoted aI, a2, (3) on plasma total Chol, lOl-Chol and Apo B levels (adjusted for age) in men and women was determined according to the following formulas (23):
+
+IEF was carried out in a Bio-Phoresis TM Horizontal Electrophoresis Cell (Bio-Rad, Richmond, CA, U.S.A.), using a Model 3000/300 power unit. Paper wicks were soaked in cathode and anode solutions, 0.1 mollL NaOH and 0.04 mollL glutamiC acid respectively. Af ter prefocusing at 500 constant V for 30 minutes, the sample applicator was placed onto the gel surface near the cathode, and up to 20 samples (30 III each) were applied. Focusing was carried out under 12 W until con stant voltage was reached (usually 1 hour), and then un der l300 constant V for 20 minutes.
+
+The immunoblotting procedure was substantially that described by Havekes et al. (21) with minor mo difications. After the run, the slab gel was washed for 15 minutes in 192 mmolll glycine, 25 mmolll Tris-HCl, and 20% methanol, pH 8.3, and the prote ins were then transferred overnight at room temper ature onto 0.45-llm pore size nitrocellulose mem brane by simple diffusion. After transfer, the nitro cellulose sheet was incubated in 0.15 mollL NaCI, 10 mmollL Tris-HCI, 0.2% Tween 20, and 4% bovine serum albumin, pH 7.4, for 1 hour at 3rC, and then washed twice for 15 minutes in 0.15 mollL NaCI, 10 mmolll Tris-HCI, 0.2% Tween 20, and 0.5% bovine serum albumin (washing buffer). The nitrocellulose was then incubated with sheep anti ApoE antiserum (1:500, v/v) (Immuno, Wien, Austria) in washing buffer for 1 hour at 3rc. After three washes (20 ml) in washing buffer, it was incubated
+
+where 122,123 etc. are the expected phenotype frequencies assuming a Hardy-Winberg equilibrium; 1122, 1123 etc. are the phenotypic means, and 11 is the grand mean of the sample.
+
+RESULTS
+
+The mean age, Apo E phenotype distribution and allele frequency values observed in our population (to tal and by sex) are shown in Table 1. Serum lipid con-
+
+Table 1 - Age (mean±SD), distribution of Apo E phenotypes and allele frequencies in 228 subjects (total and by sex).
+
+N Age Phenotypes Allele Frequencies (years) 2\2 2\3 2\4 3\3 3\4 4\4 E*2 E*3 E*4 All 228 55±16 3 25 1 158 37 4 0.070 0.829 0.101 Males 124 56±13 1 14 1 87 20 1 0.068 0.839 0.093 Females 104 54±18 2 11 71 17 3 0.072 0.817 0.111
+
+Table 2 - Apo E phenotype and serum lipid concentrations (mg/dL, mean + SD) in 228 subjects. 
+
+N Age Tg Chol HDL-Chol LDL-Chol ApoB Total 228 55±16 152±82 211±48 55±13 126±42 117±33 E 2/2 3 42±21 69±40 177±18 76±10 93±5 91±19 E 2/3 25 58±14 147±92 199±53 60±17 112±49 110±30 E2/4 1 37 178 174 51 104 120 E 3/3 158 56±16 152±77 212±46 55±13 127±39 117±34 E3/4 37 53±15 156±99 216±54 55±13 130±47 118±34 E4/4 4 52±9 183±71 244±25 47±5 157±32 139±39
+
+cholesterol metabolism in an Italian population are similar to those in the recent literature.
+
+centrations (total and by phenotype) are reported in Table 2, where it can be seen that the highest total Chol, LDL-Chol and Apo B levels were found in the E4/4 subjects. As expected, E3/3 was by far the most common phenotype, followed by E3/4 and E2/3. Our £2 frequency was much the same as that re ported for Caucasian and other populations, whereas the £4 frequency (0.101) was lower than the 0.140- 0.227 range described in the literature (7, 19,24).
+
+Our allele frequencies (£2=0.070, £3=0.829, £4=0.101), however, differ from those of other work ers. This is particularly true in the case of £4 fre quency. Indeed, population studies have revealed a lack of geographical uniformity in its distribution; the highest £4 frequency was observed in Northern Eu rope (0.227) (7), vs 0.149 and 0.175 in North Amer ica (24,25), and 0.139 in Germany (26). Our low find ing, however, is in line with another Italian study (27).
+
+The Mantel-Haenszel X2 test showed an increase in £3 frequency with age (p=0.013), coupled with a de crease in £4 frequency (p=0.015) [fable 3), that was al so more marked in males (data not shown). The av erage effect of the £2 allele was to decrease total Chol, LDL-Chol and Apo B by 16.9, 18.5 and 7.3 mg/dL, respectively, in men and by 17.7,14.5 and 12.9 mg/dL, respectively, in women. By contrast, the average effect of the £4 allele was t() increase the previous lipid plasma levels by 9.3, S.3 and 9.1 mg/dL, respectively, in men and by 10.5,10.8 and 5.6 mg/dL, respectively, in women.
+
+The three alleles are an important {actor in deter mining the plasma levels of the lipoproteins that transport cholesterol (9,28). In vitro and in vivo studies have identified the physiopathological mech anism responsible for the differences in allele behav ior, whereby £2 and £4 are respectively associated with the lowest and highest total Chol, LDL-Chol and Apo B levels (29). The average effect findings show that the values of these three parameters are re duced in £2 carriers, and increased in £4 carriers. Covariance analysis confirmed the positive correlation between Chol, LDL-Chol and Apo B levels and £4. This correlation had already been established in larg-
+
+The effect of Apo E polymorphism on plaSma total Chol, LDL -Chol and Apo B values (adjusted for ~x and age) was evaluated by analysis of covariance [fable 4). The numbers of £3 ed £4 alleles were introduced as ex plicative variables. Since the number of the three possible alleles in the genotype is not independent, the effect of more than two cannot be evaluated Simultaneously.
+
+Table 3 - Variation of Apo E allele frequency with age.
+
+A significant association was observed between £4 and all the lipid parameters, whereas £3 was signifi cantly associated with LDL-Chol only, and more weak ly with the other parameters.
+
+Age ,;;;65 66-70 71-75 >76 p * N=165 N=32 N=19 N=12 £2 7.58 6.25 5.00 4.55 0.418 £3 80.60 84.37 92.50 95.45 0.013 £4 11.82 9.38 2.50 0.00 0.015
+
+The results of this study of genetically determined Apo E polymorphism and its role with regard to
+
+'p value for a Mantel-Haenszel X2 test for trend.
+
+Table 4 - Covariance analysis of lipoproteins lIS number of f.3 and e4 alleles, adjusted for sex and age.
+
+concerning the association between £4 and LDL hy percholesterolemia, and hence an increased inci dence of cardiovascular disease, and the assumption that the E phenotype, in any case, is important in as sessing the risk of atherosclerosis in patients with high LDL-Chollevels. Indeed, compared with other phenotypes, the reduced frequency of £4 during aging in relation to increased mortality, at present may on ly support speculative hypotheses. One must not lose sight of the fact that other adverse factors may be as sociated with Apo E alleles, especially the E3/ 4 phe notype, such as the different process times of chy lomicra and remnant particles, with an influence on the residence times of atherogenic particles in the cir culation and on HDL-Chollevels (30), together with uncertain effects on clotting parameters. Besides, a demonstrated association exists between £4 and en hanced plasma lipoprotein(a) (31). Previous papers have also described a close association between £4 and type V hyperlipoproteinemia (32, 33).
+
+b p value Serum Chol Age 0.84 0.0001 Sex 11.65 0.0569 E4 23.51 0.0169 e3 14.52 0.0695 LOGTg Age 0.009 0.0001 Sex -0.173 0.0141 £4 0.224 0.0471 £3 0.149 0.1040 LDL-Chol Age 0.604 0.0006 Sex 9.987 0.0648 £4 22.660 0.0093 £3 14.908 0.0352 Apo B Age 0.863 0.0001 Sex 6.696 0.1024 E4 14.817 0.0246 £3 7.998 0.1354
+
+These metabolic features of the Apo E phenotype need to be carefully investigated before the effect of al lele £4 on the deterioration of lipoproteic metabolism, and its early disappearance during aging can be clear ly assessed.
+
+ACKNOWLEDGEMENTS
+
+This work was supported in part by a grant from the "Consiglio Nazionale delle Ricerche" (n.93.00432.PF40, Progetio Finalizzato "lnvecchiamento") and the "Ministero dell'Universita e della Ricer ca Scientifica e Tecnologica", Roma, Italy. We are also indebted to Immuno, Vienna, for sheep Anti-Apo E antibody supplement.
+
+b= regression coefficient, i.e., increase in lipid value as a consequence of a unit increase in the explaining variable (in the case of sex, males us females). p value= significance of the t test for regreSSion coefficient = 0
+
+REFERENCES
+
+er case studies (14-16), and is indicative of the impact of £4 on cholesterol metabolism.
+
+Mahley R.W., lnnerarity T.L.: Lipoprotein receptors cholesterol homeostasis. Biochim. Biophys. Acta
+
+:
+
+,
+
+Brown M.S., Goldstein J.L The receptor model for of cholesterol in plasma. Ann. N. Y. Acad. Sci. USA
+
+:
+
+-
+
+,
+
+Utermann G., Hees M., Steinmetz A.: Polymorphism apolipoprotein E and occurrence of dysbetalipoproteinemia man. Nature
+
+:
+
+-
+
+,
+
+Zannis V.I., Just P.W., Breslow J.L.: Human E subclasses are genetically determined. Am. J. Hum.
+
+:
+
+-
+
+,
+
+R
+
+l S.C., Weisgraber K.H., Mahley R.W.: Human apo lipoprotein E. The complete amino acid sequence. J. Chem.
+
+:
+
+-
+
+,
+
+Bouthillier D., Sing C.F., Davignon J.: Apolipoprotein phenotyping with a single gel method: application to study of informative matings. J. Lipid Res.
+
+:
+
+Ehnholm C., Lukka M., Kuusi T., Nikkila E., Utermann
+
+The same more extensive studies (14,15) also made it clear that £4 frequency decreases with age, suggesting that Apo E alleles may have a selective ef fect on "survival". This decrease was first observed in an all-female population (14), and then in a Swedish population composed of 244 men and 163 women, aged 17-86 (15). We also explored the selective effect of age by dividing our subjects into four age groups. The Mantel-Haenszel X2 test disclosed a significant de crease in £4 frequency (p=0.015) with age, coupled with a significant increase in £3 (p=O.013).
+
+In contrast with the two earlier studies, there were no subjects with an £4 allele in the over-75 group, in which £3 instead was massively predominant. This is a new finding. Furthermore, we observed that the fall in £4 frequency occurs from the age of 66 onwards. No explanation has yet been advanced for the re lationship between age and Apo E alleles, especially
+
+Warnick G.R., Mayfield c., Albers J.J., Hazzard W.R.: Gel iso electric focusing method for specific diagnosis of familial hy perlipoproteinemia type III. Clin. Chem.
+
+:
+
+-
+
+,
+
+Havekes L.M., de Knijff P., Beisiegel U., Havinga J., Smit M., Klasen E.: A rapid micromethod for apolipoprotein E phe notyping directly in serum. J. Lipid Res.
+
+:
+
+-
+
+,
+
+Mantel N., Haenszel W.: Statistical aspects of the analysis of data from retrospective studies of disease. J. Natl. Cancer In st.
+
+:
+
+-
+
+,
+
+Boerwinkle E., Visvikis S., Welsh D., Steinmetz J., Hanash S., Sing C.F.: The use of measured genotype information in the analysis of quantitative phenotypes in man: II. The role of the apolipoprotein E polymorphism in determining levels, vari ability, and covariability of cholesterol, betalipoprotein, and triglycerides in a sample of unrelated individuals. Am. J. Hum. Genet.
+
+:
+
+-
+
+,
+
+Ghiselli G., Gregg R.E., Zech L.A., Schaefer E.J., Brewer H.B.Jr.: Phenotype study of apolipoprotein E isoforms in hyperlipoproteinemic patients. Lancet
+
+:
+
+-
+
+,
+
+Havel R.J.: Familial dysbetalipoproteinemia: new aspects of pathogenesis and diagnosis. Med. Clin. North Am.
+
+:
+
+-
+
+,
+
+Menzel H.J., Kladetzky R.G., Assmann G.: Apolipoprotein polymorphism and coronary artery disease. Arteriosclerosis
+
+:
+
+-
+
+,
+
+James R.W., Boemi M., Giansanti R., Fumelli P., Pometta D.: Underexpression of the apolipoprotein E
+
+isoform in an ital ian population. Arterioscler. Thromb.
+
+:
+
+-
+
+,
+
+Eichner J.E., Kuller L.H., Ferrell E., Meilahn E.N., Kamboh M.l.: Phenotyp
+
+effects of apolipoprotein structural varia tion on lipid profiles. Arteriosclerosis
+
+:
+
+-
+
+,
+
+Davignon J., Gregg R.E., Sing c.F.: Apolipoprotein E poly morphism and atherosclerosis. Arteriosclerosis
+
+:
+
+-
+
+,
+
+Dallongeville J., Lussier-Cacan S., Davignon J.: Modulation plasma triglyceride levels by Apo E phenotype: a meta-analysis. J. Lipid Res.
+
+:
+
+-
+
+,
+
+l. D
+
+nijff P., Kaptein A., Boomsma D., Princen Frants R., Havekes L.: Apolipoprotein E polymorphism plasma levels of lipoprotein(a). Atherosclerosis
+
+:
+
+,
+
+Ghiselli G., Schaefer E.J., Zech L.A., Gregg R.E., H.B.Jr.: Increased prevalence of apolipoprotein E
+
+in Type hyperlipoproteinemia. J. Clin. Invest.
+
+:
+
+-
+
+,
+
+Kuusi T., Taskinen M.R., Solakivi T., R.: Role of apolipoproteins E and C in type V hyperlipo-pro teinemia. J. Lipid Res.
+
+:
+
+-
+
+,
+
+gene frequencies and relation to lipoprotein concentrations. J. Lipid Res.
+
+:
+
+-
+
+;
+
+Robertson F.W., Cumming A.M.: Effects of apoprotein E polymorphism on serum lipoprotein concentration. Arterio sclerosis
+
+:
+
+-
+
+,
+
+Sing C.F., Davignon J.: Role of the apolipoprotein E poly morphism in determining normal plasma lipid and lipoprotein variation. Am. J. Hum. Genet.
+
+:
+
+-
+
+,
+
+Kaprio J. , Ferrell R.E., Kottke B.A., Kamboh M.I., Sing c.F.: Effects of polymorphisms in apolipoproteins E, A-N, and H on quantitative traits related to risk for cardiovascular disease. Arterioscler. Thromb.
+
+:
+
+-
+
+,
+
+Eichner J.E., Kuller L.H., Orchard T.J., Grandits GA, Mc-Cal lum L.M., Ferrell R.E., Neaton J.D.: Relation of apolipopro tein E phenotype to myocardial infarction and mortality from coronary artery disease. Am. J. Cardiol.
+
+:
+
+-
+
+,
+
+Van Bockxmeer F.M., Mamotte C.D.: Apolipoprotein ep silon
+
+homozygosity in young men with coronary heart dis ease. Lancet
+
+:
+
+-
+
+,
+
+Cumming AM., Robertson F.W.: Polymorphism at the apo protein-E locus in relation to risk of coronary disease. Clin. Genet.
+
+:
+
+-
+
+,
+
+Cauley JA , Eichner J.E., Kamboh M.I., Ferrell R.E., Kuller L.H.: Apo E allele frequencies in younger (age
+
+-
+
+) vs older (age
+
+-
+
+) women. Genet. Epidemio!.
+
+:
+
+-
+
+,
+
+Eggertsen G., Tegelman R., Ericsson S., Angelin B., Berglund L.: Apolipoprotein E polymorphism in a healthy Swedish population: variation of allele frequency with age and relation to serum lipid concentrations. Clin. Chem.
+
+:
+
+-
+
+,
+
+Davignon J., Bouthillier D., Nestruck AC., Sing C.F.: Apolipoprotein E polymorphism and atherosclerosis: from a study in octogenarians. Trans. Am. Clin. Climatol. As soc.
+
+:
+
+-
+
+,
+
+Eto M., Watanabe K., lwashima Y., Morikawa A , Oshima Sekiguchi M., Ishii K.: Apolipoprotein E phenotypes am plas ma lipids in young and middle-aged subjects. Tohoku J. Exp. Med.
+
+:
+
+-
+
+,
+
+Warnick G.R., Albers J.J.: A comprehensive evolution the heparin manganese precipitation procedure for high density lipoprotein cholesterol. J. Lipid Res.
+
+:
+
+Friedewald W.T., Levy R.I., Frederickson D.S.: Estimation the concentration of low density lipoprotein cholesterol plasma without use of the preparative ultracentrifuge. Clin. Chem.
+
+:
+
+-
+
+,

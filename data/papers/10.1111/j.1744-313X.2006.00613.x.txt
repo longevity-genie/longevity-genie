@@ -1,0 +1,171 @@
+BTlackwelhl Publishieng Ltd FCGR2A — Arg131 variant is no major mortality factor in the elderly — evidence from a German centenarian study
+
+B. K. Flesch,* S. Nikolaus,† N. E. El Mokhtari,‡ S. Schreiber§ & A. Nebel§
+
+by the encapsulated bacteria Streptococcus pneumoniae and Haemophilus influenzae combined (Jokinen et al., 2001). Aside from pneumonia, S. pneumoniae and H. influenzae cause also other serious infectious diseases like meningitis, otitis media and acute sinusitis. Findings in immunocompetent patients with bacteraemic pneumo- coccal pneumonia (Yee et al., 2000) and in invasive meningococcal disease patients (Bredius et al., 1994; Platonov et al., 1998) suggest that susceptibility to S. pneumoniae and H. influenzae infections is partly influ- enced by variation in the FCGR2A gene that codes for γ the Fc receptor for human immunoglobulin G (Fc RIIa). A functional single nucleotide polymorphism (SNP) in the FCGR2A gene (rs1801274) results in a histidine to arginine exchange at codon 131 (His131Arg). Of the two γ variants, only Fc RIIa-His131 can efficiently bind IgG2 (Warmerdam et al., 1991). IgG2 is the main immunoglobin type produced in response to bacterial polysaccharides and encapsulated bacteria (Ferrante et al., 1990). Previous studies showed a statistically significant overrepresenta- tion of the FCGR2A-Arg131/Arg131 type in patients with bacteraemic pneumonia (Yee et al., 2000) and with meningococcal disease (Bredius et al., 1994; Platonov et al., 1998), suggesting that Arg131-positive individuals are more susceptible to be adversely affected by these bacterial diseases.
+
+Summary
+
+The functional single nucleotide polymorphism rs1801274 in the FCGR2A gene (His131Arg) influences the efficiency of hIgG2 binding, the main isotype produced in response to encapsulated bacteria like Streptococcus pneumoniae and Haemophilus influenzae. In contrast to the receptor with the His131 allele, Fcγ RIIa-Arg131 binds hIgG2 poorly and carriers of this variant have been shown to be much more susceptible to succumb to bacterial pneumonia or meningitis. As bacteraemic pneumonia is one of the leading causes of death in elderly individuals, we hypoth- esized that the Arg131 variant could be a major mortality factor in the old. We analysed the FCGR2A-His131Arg polymorphism in a group of 408 German centenarians and two samples of younger Germans aged 60–75 and 18–49 years, respectively. No statistically significant differences were observed between the three age groups, neither at the allele nor at the genotype level. Apparently, the ability to reach old age is largely unaffected by the genetically determined efficacy of the FCGR2A-based immune response. However, the severely reduced ability of FCGR2A-131Arg carriers to eliminate encapsulated bacteria must apparently be compensated by an alterna- tive mechanism, possibly involving other genetic survival factors.
+
+In elderly individuals, pneumonia is a major threat to the health and survival as the death rate of pneumonia is 25-fold higher for people between 65 and 74 years, and for individuals older than 84 years it is even 458-fold higher than that for 25- to 44-year-olds (Kochanek et al., γ 2004). If the Fc RIIa-His131 indeed has such a key role in the defence of polysaccharide-coated bacteria, we would expect the Arg131 polymorphic form to decrease in frequency as a population ages, with carriers of the unfavourable variant being more prone to succumb to bacteraemic pneumonia. Hence, we analysed the FCGR2A- His131Arg polymorphism in a large group of German centenarians and in two samples of younger Germans aged 60–75 and 18–49 years, respectively.
+
+Introduction
+
+Bacteraemic pneumonia is the fourth leading cause of death in elderly individuals (Centers for Disease Control and Prevention, 1995). More than half of all bacterial pneumonia infections at the age 60 and above are caused
+
+* Institute of Transfusion Medicine, University Hospital Schleswig- Holstein, Kiel, Germany, † Hospital for General Internal Medicine, University Hospital Schleswig-Holstein, Kiel, Germany, ‡ Department of Cardiology, University Hospital Schleswig-Holstein, Kiel, Germany, and § Institute of Clinical Molecular Biology, Christian-Albrechts-University, Kiel, Germany.
+
+Received 15 March 2006; revised 2 June 2006; accepted 2 June
+
+Correspondence: Dr. Stefan Schreiber, Institute of Clinical Molecular Biology, Christian-Albrechts-University and University Hospital Schleswig-Holstein, Kiel Campus, Schittenhelmstrasse 12, 24105 Kiel, Germany. Tel: +49-431-597-2350; Fax: +49-431-597-1842; E-mail:
+
+Subjects and methods
+
+Three different age groups (adult, elderly and centenarian) were examined for the non-synonymous mutation
+
+Table 1. Distribution of FCGR2A-His131Arg alleles and genotypes in German centenarians and in two younger age groups
+
+FCGR2A allele Age frequencies FCGR2A genotype frequencies Age group Range/mean (years) n 131Arg 131His Arg/Arg Arg/His Adult 18–49/37.2 454 0.464 0.536 0.220 0.487 0.293 Elderly 60–75/67.3 446 0.435 0.565 0.184 0.502 0.314 Centenarian 100–110/101.3 408 0.468 0.532 0.210 0.515 0.275
+
+n, number of individuals tested.
+
+0.46, we would be able to detect a factor with a com- paratively low relative risk of 1.47 (at a significance level of 0.05 and a power of 80%).
+
+rs1801274 (His131Arg) in the FCGR2A gene (Table 1). The unrelated and healthy study participants were drawn anonymously from population-based samples. The elderly and centenarian individuals were recruited as described in Nebel et al. (2005); the adult subjects were controls from the PopGen biobank (Krawczak et al., 2006). The three samples were matched by ethnical ancestry (all Germans) and sex ratio (80% females vs. 20% males). All subjects gave informed, written consent prior to participation. The study was approved by the Ethics Committee of the University Hospital Schleswig-Holstein in Kiel and by the local data protection authorities. The DNA samples were analysed for rs1801274 using a TaqMan® SNP Genotyping Assay (Applied Biosystems, Foster City, CA). The accuracy of the typing was demonstrated by testing 37 DNA samples that had previously been examined for the same mutation by poly- merase chain reaction with sequence-specific primers (PCR– SSP) (Flesch et al., 1998). For each test sample, the two methods yielded consistent results. Pairwise comparison of allele and genotype frequency data between the three groups was performed with χ2 statistics and the appropriate degrees of freedom using the Web-based sisa (Simple Interactive Statistical Analysis) tool, available at http:// home.clara.net/sisa. Power calculation was carried out by means of a program at http://calculators.stat.ucla.edu/pc.
+
+Discussion
+
+Pneumonia caused by H. influenzae and S. pneumoniae is a major cause of death in the very old (Jokinen et al., 2001). As carriers of the FCGR2A-Arg131 variant are less likely to resist and/or to recover from bacterial pneumonia (Yee et al., 2000), we wanted to test whether the FCGR2A-Arg131 variant is a significant mortality factor during ageing. In this case, one might expect to observe a decrease in the 131Arg allele and a concurrent increase in the advantageous 131His variant in the centenarians compared to the elderly and adult individuals. However, our data obtained from the three different groups do not show any age-dependent distribution of the FCGR2A-His131Arg variants. Based on the power calculation, the analysed 131Arg polymorphism does not seem to be a major risk factor in the elderly, despite the particularly high incidence and mortality rate of bacterial pneumonia in this age group. Thus, the ability to survive to old age, and to reach even exceptional life expectancy, is largely unaffected by the genetically determined efficacy of the FCGR2A-based immune response.
+
+However, the severely reduced ability of FCGR2A- 131Arg carriers to eliminate encapsulated bacteria by γ Fc R-mediated phagocytosis must apparently be com- pensated by an alternative mechanism. We hypothesize that this finding could imply the existence of (a) rather strong survival factor(s), especially in the 131Arg- homozygous centenarians, which allowed them to attain such an advanced age. Studies on centenarians confirm that the immune system plays a major role in the attainment of longevity (Franceschi et al., 1995). The robust health of fit centenarians is likely to result from a proper lifestyle and/or a favourable genetic background; the latter may account for as much as of a third of the variance in human life expectancy (Skytthe et al., 2003). Key genes predispos- ing to a healthy and long life have indeed been proposed but, apart from APOE, none of the other suggested candidates have been confirmed (Christensen et al., 2006). Yet such ‘longevity’ genes might be able to compensate for the negative effects of other genetic factors, like the FCGR2A-131Arg variant. Thus, our finding lends
+
+Results
+
+The analysis of the FCGR2A gene variant His131Arg was performed on a sample of 408 centenarians from Germany and on two younger groups (Table 1), 446 elderly individuals (60–75 years) and 454 young-to-middle-aged volunteers (18–49 years). Using these extensive samples, we investigated whether there is a shift in the allele and genotype distribution of the functional FCGR2A SNP rs1801274 across the generations. The frequencies were compared in a pairwise manner between the three age groups. No evidence for a statistically significant difference was detected, at the allele or at the geno- type levels (for each comparison P > 0.05; Table 1). The His131Arg polymorphism was found to be in Hardy– Weinberg equilibrium in all three samples (P > 0.05). The observed frequencies are well within the range reported previously for Caucasians (Bredius et al., 1994; Reilly et al., 1995). A power calculation revealed that given our sample sizes and an average 131Arg allele frequency of
+
+acquired pneumonia in the adult population of
+
+municipalities in eastern Finland. Clinical Infectious Diseases,
+
+,
+
+Kochanek, K.D., Murphy, S.L., Anderson, R.N. & Scott, C. (
+
+) Deaths: Final Data for
+
+(USA). National Vital Statistics Reports. National Center for Health Statistics, Hyattsville, MD,
+
+,
+
+available at: (http://www.cdc.gov/nchs/data/nvsr/nvsr
+
+/ nvsr
+
+acc.pdf). Krawczak, M., Nikolaus, S., von Eberstein, H., Croucher, P., El Mokhtari, N. & Schreiber, S. (
+
+) Po
+
+en: Population-based recruitment of patients and controls for the analysis of complex genotype-phenotype relationships. Community Genetics,
+
+,
+
+Nebel, A., Croucher, P.J., Stiegeler, R., Nikolaus, S., Krawczak, M. & Schreiber, S. (
+
+) No association between microsomal triglyceride transfer protein (MTP) haplotype and longevity in humans. Proceedings of the National Academy of Sciences, USA,
+
+,
+
+Platonov, A.E., Shipulin, G.A., Vershinina, I.V., Dankert, J., van de Winkel, J.G.J. & Kuijper, E.J. (
+
+) Association of human FcγRIIa (CD
+
+) polymorphism with susceptibility to and severity of meningococcal disease. Clinical Infectious Diseases,
+
+,
+
+Reilly, A.F., Norris, C.F., Surrey, S., Bruchak, F.J., Rappaport, E.F., Schwartz, E. & M
+
+enzie, S.E. (
+
+) Genetic diversity in human Fc receptor II for immunoglobulin G: Fcγ receptor IIA ligand- binding polymorphism. Clinical and Diagnostic Laboratory Immunology,
+
+,
+
+Skytthe, A., Pedersen, N.L., Kaprio, J., Stazi, M.A., Hjelmborg, J.V., Iachine, I., Vaupel, J.W. & Christensen, K. (
+
+) Longevity studies in Geno
+
+Utwin. Twin Research,
+
+,
+
+Warmerdam, P.A.M., van de Winkel, J.G.J. & Vlug, A., Westerdaal, N.A.C. & Capel, P.J.A. (
+
+) A single amino acid in the second Ig-like domain of the human Fcγ receptor II is critical for human I
+
+binding. Journal of Immunology,
+
+,
+
+Yee, A.M.F., Phan, H.M., Zuniga, R., Salmon, J.E. & Musher, D.M. (
+
+) Association between FcγRIIa-R
+
+allotype and bacteremic pneumococcal pneumonia. Clinical Infectious Diseases,
+
+,
+
+additional support to the existence of ‘longevity’ genes and highlights the need to further search for them.
+
+Acknowledgment
+
+This study was funded by the Federal Ministry of Science and Education through an Explorative Project of the National Genome Research Network (NGFN-2).
+
+References
+
+Bredius, R.G.M., Derkx, B.H.F., Fijen, C.A.P., de Wit, T.P.M., de Haas, M., Weening, R.S., van de Winkel, J.G.J. & Out, T.A. (
+
+) Fcγ receptor IIa (CD
+
+) polymorphism in fulminant meningococcal septic shock in children. Journal of Infectious Diseases,
+
+,
+
+Centers for Disease Control and Prevention. (
+
+) Pneumonia and influenza death rates: United States,
+
+Morbidity and Mortality Weekly Report,
+
+,
+
+Christensen, K., Johnson, T.E. & Vaupel, J.W. (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nature Reviews Genetics,
+
+,
+
+Ferrante, A., Beard, L.J. & Feldman, R.G. (
+
+) I
+
+subclass distribution of antibodies to bacterial and viral antigens. The Pediatric Infectious Disease Journal,
+
+,
+
+Flesch, B.K., Bauer, F. & Neppert, J. (
+
+) Rapid typing of the human Fcγ receptor IIA polymorphism by polymerase chain reaction amplification with allele-specific primers. Transfusion,
+
+,
+
+Franceschi, C., Monti, D., Sansoni, P. & Cossarizza, A. (
+
+) The immunology of exceptional individuals: the lesson of centenarians. Immunology Today,
+
+,
+
+Jokinen, C., Heiskanen, L., Juvonen, H., Kallinen, S., Kleemola, M., Koskela, M. et al. (
+
+) Microbial etiology of community-

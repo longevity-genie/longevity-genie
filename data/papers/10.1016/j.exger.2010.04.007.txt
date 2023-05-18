@@ -1,0 +1,239 @@
+Contents lists available at ScienceDirect Experimental Gerontology journal homepage: www.elsevier.com/locate/expgero  ExperimentalGerontology    
+
+journal homepage: www.elsevier.com/locate/expgero
+
+Evidence for depletion of CASP5 Ala90Thr heterozygous genotype in aged subjects
+
+Yulia M. Ulybina a, Ekatherina Sh. Kuligina a, Nathalia V. Mitiushkina a, Nathalia Yu. Sherina a, Grigoriy A. Yanus a,b, Tatiana V. Gorodnova a,b, Anna S. Katanugina a, Andrey V. Koloskov c, ⁎ Alexandr V. Togo a, Evgeny N. Imyanitov a,b,d,
+
+a N.N. Petrov Institute of Oncology, Pesochny-2, St.-Petersburg, Russia b St.-Petersburg Pediatric Medical Academy, Russia c 26th City Hospital, St.-Petersburg, Russia d St.-Petersburg Medical Academy for Postgraduate Studies, Russia
+
+
+
+Our previous studies, which included genotyping of multiple coding apoptotic gene polymorphisms, unexpectedly demonstrated a depletion of heterozygous CASP5 Ala90Thr (rs507879, c.268 GNA) genotypes in elderly subjects. Present investigation was aimed to validate this trend. An analysis of 510 subjects aged 75–103 years revealed 205 (40%) CASP5 Ala90Thr heterozygotes as compared to 254 (50%) expected from the minor allele frequency 0.470 (p=0.000014). This deviation was not observed in 549 middle-aged (18– 50 years) controls (270 (49%) heterozygotes observed vs. 274 (50%) expected; minor allele frequency 0.475; p=0.743). Unfavorable significance of CASP5 heterozygous genotype may be explained by the role of the caspase-5 in inflammation-related processes. Almost all prior gene-longevity association studies focused on discrimination between “good” and “bad” gene variants. Here we present a distinct situation, where the combination of alternative alleles (i.e., heterozygosity) appears to be unfavorable as compared to the
+
+© 2010 Elsevier Inc. All rights reserved.
+
+a single case-control comparison. GWAS already led to the identifi- cation of new genetic determinants for common age-related diseases (Kronenberg, 2008), however their immediate use in genuine longevity research is compromised by the requirement for an extremely large study size (Franceschi et al., 2007; Lunetta et al.,
+
+1. Introduction
+
+expectancy is beyond any reasonable doubt. Several allelic variants related to either longevity per se or resistance to common age-related diseases, have been identified within recent decade, and many more remain to be discovered in the future years (Franceschi et al., 2007; Lunetta et al., 2007). Contribution of ApoE polymorphism in the risk of Alzheimer's disease, cardiovascular diseases and overall life span is frequently quoted as the most reproducible observation in molecular epidemiology of ageing (Lewis and Brunner, 2004). Some studies demonstrated age-related differences in p53 Arg/Pro allele distribu- tion (Bojesen and Nordestgaard, 2008). The analysis of IGF1 signaling pathway genes led to the identification of highly reproducible association between FOXO3A gene polymorphism and survival chances (Flachsbart et al., 2009). Previous research in this field was based on a candidate gene approach and included participants of lipid metabolism, energy production and storage, DNA repair, oxidative stress, inflammation and other relevant pathways. Recent invention of so-called genome-wide association studies (GWAS) provided a possibility to assess the distribution of nearly all known SNPs within
+
+Almost all “positive” gene-longevity association studies reported distinct frequencies of at-risk allele containing genotypes in elderly subjects vs. controls, i.e. they discriminated between “good” and “bad” gene variants (Franceschi et al., 2007; Lunetta et al., 2007). Here we present an unusual observation, where the presence of either of alternative homozygous genotypes appears to be neutral or favorable, whereas the combination of the variant alleles (i.e., heterozygosity) shows reduced frequency in aged subjects.
+
+This study originated from our activities in of cancer- associated gene polymorphisms. While comparing allele frequencies in cancer patients vs. non-affected subjects, we use elderly tumor-free individuals as a “supercontrol”, i.e. an example of pronounced cancer tolerance (Imyanitov, 2009). Previously, we performed a systematic analysis of cancer-predisposing relevance of coding polymorphisms in apoptotic genes. We initially analyzed 19 coding apoptotic gene SNPs in lung cancer patients vs. elderly tumor-free smokers and in breast cancer cases vs. elderly tumor-free females. The groups of elderly tumor-free subjects, which served as a reference in this com- parison, demonstrated agreement with Hardy–Weinberg genotype
+
+⁎ Corresponding author. N.N. Petrov Institute of Oncology, Pesochny-2, 197758 St.-Petersburg, Russia. Tel.: +7 812 5968951; fax: +7 812 5968947. E-mail address: evgeny@imyanitov.spb.ru (E.N. Imyanitov).
+
+0531-5565/$ – see front matter © 2010 Elsevier Inc. All rights reserved. doi:10.1016/j.exger.2010.04.007
+
+distribution for 18 out of 19 tested SNPs. The remaining gene polymorphism, CASP5 Ala90Thr (rs507879, c.268 GNA), showed statistically significant depletion of heterozygotes in both series of aged non-affected individuals, but not in the middle-aged breast or lung cancer patients (Ulybina et al., 2009; Ulybina et al., manuscript in preparation). CASP5 gene codes for caspase-5 protease, a protein specifically involved in the process of inflammation (Martinon and Tschopp, 2007). We hypothesized that the heterozygosity for the above polymorphism negatively affects chances to achieve elderly age, and designed the validation study to test this assumption.
+
+depletion of heterozygotes, whereas the frequencies of CASP5 genotypes in the control group perfectly respected Hardy–Weinberg distribution (Table 2). In the pooled sample of elderly subjects, only 205 (40%) genotypes were heterozygous, while the expected number of heterozygotes was equal to 254 (50%) (p=0.000014). When we compared CASP5 allelism in the pooled group of elderly subjects against healthy controls, it was evident that despite nearly identical minor allele frequency (0.470 vs. 0.475) there was a depletion of heterozygotes in the aged group (40% vs. 49%) at the expense of the increase of both AA and GG homozygous genotypes (33% vs. 28% and 27% vs. 23%, respectively). Furthermore, when the studied subjects were stratified according to smoking status and gender, this deviation retained statistical significance both in males and females as well as both in smokers and non-smokers (Table 3). On the contrary, this stratification did not reveal deviations from Hardy–Weinberg equi- librium in the reference subjects (Table 3). Given convincing statistical values and consistency of all performed comparisons (Tables 2 and 3), one may conclude that heterozygosity for CASP5 Ala90Thr polymorphism is negatively associated with life expectancy. We also considered differences in the genotype distribution
+
+2. Materials and methods
+
+While analyzing genetic predisposition to lung cancer (LC), we screened 111 LC patients with apparent characteristics of “extreme” disease susceptibility such as early onset and either non-smoking status or relatively modest smoking history. “Supercontrol” for lung cancer cases consisted of 110 elderly tumor-free heavy smokers (Ulybina et al., 2009). Similarly designed, yet unpublished study has been carried out for breast cancer (BC) predisposition. A group of “extreme” BC susceptibility consisted of 121 so-called “high-risk” BC patients characterized by early onset of the disease (=/b40 years), and/or first-degree-family history of BC, and/or bilateral cancer lesion. “Supercontrol” for BC cases included 142 elderly tumor-free females. When the depletion of CASP5 Ala90Thr heterozygotes was noticed in both of the above elderly groups, a validation study has been designed. Additional group of elderly subjects consisted of 258 elderly tumor-free individuals. 549 population controls were represented by middle-aged blood donation volunteers. All study participants were recruited in St.-Petersburg residential area, belonged to white race and had predominantly Slavic origin. The exact characteristics of the study groups are presented in Table 1.
+
+We also considered differences in the genotype between cancer patients and non-affected subjects. However, LC nor BC patients demonstrated statistically significant from the comparison groups (Table 2).
+
+4. Discussion
+
+There are some hypotheses suggesting negative impact of genome heterozygosity on longevity. It is reasoned that heterozygous organisms have increased intensity of metabolic processes resulting in higher rate of development, and, consequently, in accelerated ageing (Altukhov and Moskaleichik, 2006). In support of this assumption, Bonafè et al. (2001) observed decreased heterozygosity in centenarians using inter-Alu PCR. However, other evidence for negative impact of “general” heterozygosity on life expectancy are lacking. Furthermore, while analyzing the distribution of 19 coding polymorphisms of apoptotic gene SNPs in elderly tumor-free subjects, we did not observe general trend for increased homozygosity in aged population (Ulybina et al., 2009 and unpublished observations). Therefore, it can be suggested that the depletion of heterozygous genotypes in geriatric patients is specific for the CASP5 Ala90Thr polymorphism.
+
+Genotyping for CASP5 Ala90Thr polymorphism was performed by real-time allele-specific PCR using variant primers 5′-CCTTGTCTTCAA- TTTTGGT-3′ and 5′-CCTTGTCTTCAATTTTGGC′-3 and common primer 5′- CAGTTAAGATGTTGGAATAC-3′ (Ulybina et al., 2009). Statistical analysis was done using chi-square test.
+
+3. Results
+
+While analyzing the distribution of CASP5 Ala90Thr polymorphism in LC cases vs. elderly tumor-free smokers and in BC patients vs. elderly tumor-free women, we observed a statistically significant reduction of frequency of heterozygotes in both aged groups (Table 2). In order to validate this unusual finding, we considered the rest of our DNA collection of tumor-free elderly subjects, and selected all those who were 85 years or older (n=258). DNA samples from 549 middle-aged donors served as control. Similarly to the initial observation, aged subjects demonstrated statistically significant
+
+Possible explanation for age-related differences in the frequency of the CASP5 heterozygotes can be drawn from the inflammatory function of this caspase. It is commonly accepted that chronic inflammation is a substantial component of pathogenesis of ageing (Ostan et al., 2008; Pawelec and Larbi, 2008). One may speculate, that the presence of both alternative alleles of the CASP5 enhances propensity to inflammation thus accelerating ageing-related process- es. Similar observations for immune-related genes have been reported
+
+Table 1
+
+Characteristics of the studied subjects.
+
+Study groups Number of Males/ Mean age Smokers/ Mean tobacco exposure for smokers (range), subjects females (range), years non-smokers pack-years Elderly subjects Elderly tumor-free smokers (N/=75 years) 110 110/0 79 (75–89) 110/0 55 (30–126) Elderly tumor-free women (N/=75 years) 142 0/142 80 (75–91) 14/127a 10 (1–48) Elderly tumor-free subjects (N/=85 years) 258 86/172 88 (85–103) 41/217 24 (5–50) Comparison groups Lung cancer patients, young-onset and/or 111 96/15 54 (32–64) 94/17 30 (10–40) non-smokers “High-risk” breast cancer patients 121 0/121 45 (25–78) Not recorded Not recorded Middle-aged healthy subjects 549 207/342 35 (18–50) 327/222 8 (1–36)
+
+Pack/year is defined as the number of cigarettes smoked per day multiplied by the number of years the person has smoked. a Smoking history was unknown for 1 elderly tumor-free woman.
+
+Table 2
+
+Depletion of heterozygous genotypes for CASP5 Ala90Thr polymorphism in elderly subjects.
+
+Study groups Number of Observed Minor allele Expected number of p value for deviation from subjects (%) genotypes (%) frequency heterozygotes (%) Hardy–Weinberg equilibrium AA AG GG Elderly subjects Elderly tumor-free smokers (N/=75 years) 110 (100) 34 (31) 44 (40) 32 (29) 0.491 55 (50) 0.036 Elderly tumor-free women (N/= 75 years) 142 (100) 60 (42) 53 (37) 29 (20) 0.391 68 (48) 0.014 Elderly tumor-free subjects (N/= 85 years) 258 (100) 74 (29) 108 (42) 76 (29) 0.504 129 (50) 0.009 Total 510 (100) 168 (33) 205 (40) 137 (27) 0.470 254 (50) 0.000014 Comparison groups Lung cancer patients, young-onset and/or non-smokers 111 (100) 29 (26) 61 (55) 21 (19) 0.464 55 (50) 0.272 “High-risk” breast cancer patients 121 (100) 39 (32) 61 (50) 21 (17) 0.426 59 (49) 0.738 Middle-aged healthy subjects 549 (100) 153 (28) 270 (49) 126 (23) 0.475 274 (50) 0.743 Total 781 (100) 221 (28) 392 (50) 168 (22) 0.466 389 (50) 0.812
+
+Noteworthy, middle-aged cancer patients and healthy donors demonstrated similar frequency of the Ala90Thr heterozygotes, therefore the association of this genotype with decreased survival cannot be explained by premature mortality from malignant disease. Possible impact of CASP5 polymorphism in other age-related maladies cannot be analyzed within our data sets, because only cancer-related status was documented with sufficient level of comprehension and reliability.
+
+by Ivanova et al. (1998), who observed increased HLA homozygosity in aged subjects; however, other studies on HLA polymorphisms failed to provide evidence for the favorable impact of HLA homozygosity on life expectancy.
+
+Ala90Thr polymorphism is located within the caspase recruitment domain (CARD) of caspase-5. This domain mediates interaction of caspase-5 with other proteins and is likely to influence the activity of this enzyme (Martinon and Tschopp, 2007). If alanine- and threonine- containing variants of caspase-5 have a somewhat distinct repertoire of interacting proteins, a combination of these alleles may render inflammatory responsiveness to a wider spectrum of stimuli. However, actual functional significance of CASP5 Ala90Thr polymor- phism remains unknown. Alanine and threonine have clearly distinct chemical properties: the former is a hydrophobic non-polar amino acid, while the latter is a polar hydrophilic molecule. The PANTHER (Protein Analysis Through Evolutionary Relationships) tool, which relies on multiple alignment of evolutionary and functionally related protein sequences, reveals that the Ala90Thr allelism may affect properties of caspase-5 (http://www.pantherdb.org/, Thomas et al., 2006). The PROTEUS2 analysis indicates that this substitution may result in the secondary structure change of the CARD domain (http:// wks16338.biology.ualberta.ca/proteus2/, Montgomerie et al., 2008). However, the SNPs3D web-based software suggests neutral signifi- cance of this SNP (http://www.snps3d.org/, Yue et al., 2006).
+
+Previous investigations, including genome-wide association stud- ies, mainly focused on the discrimination between “favorable” and “unfavorable” gene variants, and rarely considered heterozygosity as the status with potentially specific phenotypic consequences. The presented above data look intriguing and certainly deserve validation in independent case-control series. If the significance of the CASP5 Ala90Thr heterozygosity is confirmed, functional properties of the CASP5 allelic variants need to be evaluated in laboratory assays. Furthermore, the role of CASP5 polymorphism in predisposition to autoimmune and inflammatory diseases has to be considered.
+
+Acknowledgements
+
+We cordially thank Prof. Vladimir Anisimov for stimulating discussions. The work is supported by the Russian Foundation for Basic Research (grants 07-04-91000, 07-04-00122 and 08-04-90105).
+
+Table 3
+
+Distribution of CASP5 Ala90Thr heterozygous genotypes according to gender and smoking status.
+
+Study groups Number of subjects (%) Observed Minor allele Expected number of p value for deviation from genotypes (%) frequency heterozygotes (%) Hardy–Weinberg AA AG GG Elderly subjects Gender Males 19\6 (100) 58 (30) 74 (38) 64 (33) 0.515 98 (50) 0.0006 Females 314 (100) 110 (35) 131 (42) 73 (23) 0.441 155 (49) 0.006 Smoking status Smokers 165 (100) 53 (32) 59 (36) 53 (32) 0.500 83 (50) 0.0003 Non-smokers 344 (100) 115 (33) 145 (42) 84 (24) 0.455 171 (50) 0.005 Unknown 1 – 1 – – – – Comparison groups Gender Males 303 (100) 80 (26) 157 (52) 66 (22) 0.477 151 (50) 0.502 Females 478 (100) 141 (30) 235 (49) 102 (21) 0.459 237 (50) 0.824 Smoking status Smokers 421 (100) 117 (28) 220 (52) 84 (20) 0.461 209 (50) 0.289 Non-smokers 239 (100) 65 (27) 111 (46) 63 (26) 0.496 119 (50) 0.272 Unknown 121 (100) 39 (32) 61 (50) 21 (17) 0.426 59 (49) 0.732
+
+Lunetta, K.L., D'Agostino Sr., R.B., Karasik, D., Benjamin, E.J., Guo, C.Y., Govindaraju, Kiel, D.P., Kelly-Hayes, M., Massaro, J.M., Pencina, M.J., Seshadri, S., Murabito,
+
+Genetic correlates of longevity and selected age-related phenotypes: genome-wide association study in the Framingham Study. BMC Med.
+
+(Suppl
+
+), S
+
+Martinon, F., Tschopp, J.,
+
+Inflammatory caspases and inflammasomes: switches of inflammation. Cell Death Differ.
+
+,
+
+–
+
+Montgomerie, S., Cruz, J.A., Shrivastava, S., Arndt, D., Berjanskii, M., Wishart, D.S., PROTEUS
+
+: a web server for comprehensive protein structure prediction structure-based annotation. Nucleic Acids Res.
+
+,
+
+–
+
+Immunosenescence and immunogenetics of human longevity. dulation
+
+,
+
+–
+
+Pawelec, G., Larbi, A.,
+
+Immunity and ageing in man: annual review Exp. Gerontol.
+
+,
+
+–
+
+Thomas, P.D., Kejariwal, A., Guo, N., Mi, H., Campbell, M.J., Muruganujan, A., Ulitsky, B.,
+
+Applications for protein sequence-function evolution
+
+NA/protein expression analysis andcoding SNP scoring tools.Nuclei
+
+cids
+
+, W
+
+–W
+
+Ulybina, Y.M., Kuligina, E.Sh., Mitiushkina, N.V., Rozanov, M.E., Ivantsov, Ponomariova, D.N., Togo, A.V., Levchenko, E.V., Shutkin, V.A.,Brenister,S.I., P., Zhivotovsky, B., Hirvonen, A., Imyanitov, E.N.,
+
+Coding polymorphisms Casp
+
+, Casp
+
+and DR
+
+genes may play a role in predisposition to lung Cancer Lett.
+
+,
+
+–
+
+Yue, P., Melamud, E., Moult, J.,
+
+SNPs
+
+D: candidate gene and SNP selection association studies. BMC Bioinform.
+
+,
+
+References
+
+Altukhov,Y.P.,Moskaleichik,F.F.,2006.Allozymeheterozygosity,metabolicrate,sexual maturation rate, and longevity. Dokl. Biol. Sci. 410, 416–420. Bojesen, S.E.,Nordestgaard, B.G., 2008. The common germline Arg72Pro polymorphism
+
+Altukhov,Y.P.,Moskaleichik,F.F.,
+
+Allozymeheterozygosity,metabolicrate,sexual maturation rate, and longevity. Dokl. Biol. Sci.
+
+,
+
+–
+
+Bojesen, S.E.,Nordestgaard, B.G.,
+
+The common germline Arg
+
+Pro polymorphism of p
+
+and increased longevity in humans. Cell Cycle
+
+,
+
+–
+
+Bonafè,M.,Cardelli,M.,Marchegiani,F.,Cavallone,L., Giovagnetti, S.,Olivieri, F.,Lisa,R., Pieri, C., Franceschi, C.,
+
+Increase of homozygosity in centenarians revealed by a new inter-Alu PCR technique. Exp. Gerontol.
+
+,
+
+–
+
+Flachsbart, F., Caliebe, A., Kleindorp, R., Blanché, H., von Eller-Eberstein, H., Nikolaus, S., Schreiber, S., Nebel, A.,
+
+Association of FOXO
+
+A variation with human longevity confirmed in German centenarians. Proc. Natl. Acad. Sci. U.S.A.
+
+,
+
+–
+
+Franceschi, C., Bezrukov, V., Blanché, H., Bolund, L., Christensen, K., de Benedictis, G., Deiana, L., Gonos, E.,Hervonen, A., Yang, H.,Jeune, B., Kirkwood, T.B., Kristensen, P., Leon, A., Pelicci, P.G., Peltonen, L., Poulain, M., Rea, I.M., Remacle, J., Robine, J.M., Schreiber, S., Sikora, E., Slagboom, P.E., Spazzafumo, L., Stazi, M.A., Toussaint, O., Vaupel, J.W.,
+
+Genetics of healthy aging in Europe: the EU-integrated project GEHA (GEnetics of Healthy Aging). Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Imyanitov, E.N.,
+
+Use of elderly tumor-free subjects as a “supercontrol” for cancer epidemiological studies: pros and cons. Mech. Ageing Dev.
+
+,
+
+–
+
+Ivanova, R., Hénon, N., Lepage, V., Charron, D., Vicaut, E., Schächter, F.,
+
+HLA-DR alleles display sex-dependent effects on survival and discriminate between individual and familial longevity. Hum. Mol. Genet.
+
+,
+
+–
+
+Kronenberg,F.,
+
+Genome-wideassociationstudiesinaging-relatedprocessessuch as diabetes mellitus, atherosclerosis and cancer. Exp. Gerontol.
+
+,
+
+–
+
+Lewis,S.J.,Brunner,E.J.,
+
+Methodologicalproblemsingeneticassociationstudiesof longevity—theapolipoprotei
+
+geneasanexample.Int.J.Epidemiol.
+
+,
+
+–

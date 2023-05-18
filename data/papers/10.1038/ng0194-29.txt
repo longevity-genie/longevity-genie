@@ -1,0 +1,421 @@
+Genetic associations with humanlongevity at the APOE and ACEloci
+
+Francois Schachter, Laurence Faure-Delanef, Frédérique Guénot, Hervé Rouger,Philippe Froguel, Laurence Lesueur-Ginot & Daniel Cohen
+
+in an emfort to dissect tne genetic Components OF longevity, we Nave unaerlaken Case-control studies of populations of centenarians (n=338) and adults aged 20~70 years atseveral polymorphic candidate gene loci. Here we report results on two genes, chosen fortheir impact on cardiovascular risk, encoding apolipoprotein E (ApoE), angiotensin-converting enzyme (ACE). We find that the e4 allele of APOE, which promotes prematureatherosclerosis, is significantly less frequent in centenarians than in controls (p<0.001), whilethe frequency of the €2 allele, associated previously with type Ill and IV hyperlipidemia, issignificantly increased (p<0.01). A variant of ACE which predisposes to coronary heartdisease is surprisingly more frequent in centenarians, with a significant increase of thehomozygous genotype (p<0.01). These associations provide examples of genetic influenceson differential survival and may point to pleiotropic age-dependent effects on longevity.
+
+and apoE4 . These alleles have a major impact on total andLDL-cholesterol levels in the serum, which in turn arehighly correlated with risk for atheroscleroticcardiovascular disease. The €4 allele has been associatedwith ischaemic heart disease in several studies’. Aninsertion (I)/deletion (D) polymorphism in the ACE geneisassociated with a major gene effect on theinter-individualvariability of plasma ACE concentration” and the deletionpolymorphism has been identified as a risk factor formyocardial infarction".In arder to cearch far cenetic influences on human
+
+Although there is ample evidence supporting thecontention that a genetic component contributes to thedetermination of human longevity'“ the only associationreported so far was found at the HLA locus in twoindependent investigations**. These studies included lessthan 100 centenarians. Since cardiovascular diseases areamong the leading causes of death’ and their underlyinggenetic causes have been extensively studied, we decidedto investigate possible associations between longevity andalleles of three already characterized candidate genes,coding for apolipoprotein E, apolipoprotein B andangiotensin- -convertin enzyme (ACE)a tg    
+
+In order to search for genetic influences on humanlongevity, a population of 300 French centenarians(individuals in their 100th year and beyond) was collected,to be compared with a control group of 160 French adults,aged 20-70. These populations were typed by DNAamplification for alleles of APOE" and ACE’. 
+
+ NE ESAPOEhas three common alleles’, designated €2, €3 and4, which code respectively for the isoforms apoE2, apoE3
+
+APOE allelesWL. 4 21121. £2...
+
+The €4 allele frequency was significantly decreased (5.2%versus 11.2%, p<0.001) while the €2 allele frequency wassignificantly increased (12.8% versus 6.8%, p<0.01) inthe centenarian group (Table 1). The p’” values were lessthan 10° for e4 and less than 10~ for €2 when data for asecond control group already genotyped were pooledwith the new control population (Table 1). The oddsratios, a measure of the relative chance of becoming acentenarian between subjects with or without a givenallele, were 2 and 0.43 for the €2 and the €4 alleles,respectively.
+
+Populations are in Hardy-Weinberg equilibrium for APOE alleles.Significantly higher than controls (p<0.01 and p<0.001 when both controlpopulations are pooled).®Significantly lower than controls (p<0.001 and p<10* when both contro!populations are pooled).
+
+ACE alleles and genotypesTTL. AOI LW. Dp cthe cet cen ccc,
+
+nn” ON EEThe ACE allele distribution was shifted in centenarians,with an increase of the DD genotype (39.6% versus 25.6%,29
+
+ Table 2 Distributions of ACE genotypes andalleles In controls and centenarians ACE genotypes Centenarians Controls Other control(n=310) (n=164) populations (n=553)number (frequency) number (frequency) Lille, Strasbourg,Toulouse" number(frequency)DD 434 (0.396) 42 (0.256) 157 (0.284)ID 148 (0.438) 91 (0.555) 295 (0.533)" 56 (0.166) 31 (0.189) 101 (0.183)ACE alleles Centenarians Controls Other controlnumber (frequency) number (frequency) populationsNancy, Lille,Strasbourg, Toulouse"*"*number (frequency)D 416 (0.615) 175 (0.533) 345 (0.555)1 260 (0.385) 153 (0.467) 276 (0.445)  ee  Table 4 Sex-related differences in centene APOE alleles €2 £3 €Females (n=282) 0.128 0.823 0Males (n=41) 0.122 0.805 0ACE genotypes DD DtFemales (n=294) 0.395 0.442 0Males (n=44) 0.409 0.409 0The numbers shown are allele and genotype freqThere is no significant difference male and femalecentenarians for any of these frequencies, at the §confidence level or between controls and centenzone sex.However, 41 male centenarians were typed for /44 for ACE, which allowed a comparison betwThere wac non cionificant cev_related difference
+
+Table 4 Sex-related differences in centenarians
+
+The numbers shown are allele and genotype frequencies.There is no significant difference male and femalecentenarians for any of these frequencies, at the 5%confidence level or between controls and centenarians ofone sex.
+
+However, 41 male centenarians were typed for APOE and44 for ACE, which allowed a comparison between sexes:There was no significant sex-related difference in any ofthe allele frequencies, whether for APOE or ACE (Table4). Searching for interactions between loci revealed atrend of negative correlation, that did not reach statisticalsignificance, between thee2 alleleof APOEand the deletionallele of ACE (Table 5).
+
+ Statistical analysis of association between longevity and ACE polymorphism.ACE genotypes (DD genotype more frequent in centenarians): p = 0.01 andPp<10- when all genotyped contro! populations are pooled. ACE alleles (D allelemore frequent in centenarians than in controls): p< 0.01 when all genotypedcontrol populations are pooled. Populations are in Hardy-Weinberg equilibriumfor ACE alleles.
+
+APOB polymorphismsme. CANN? .{ 
+
+p<0.01 and p<10° using the pooled controls, Table 2).The odds ratio was 1.9 for individuals with the DD genotypecompared to those with an I allele. Taking this value as ameasure of relative risk, 18.6% of the centenarians couldbe attributable to the DD genotype.
+
+The association of APOE alleles with longevity promptedus to investigate polymorphisms in the apolipoprotein B(ApoB) gene, since ApoE is involved in the metabolism ofApoB-containing lipoproteins’. We typed twopolymorphisms in APOB by DNA amplification" in ourpopulations. A threonine 2488 neutral substitutiondetectable by Xbal and the ins/del polymorphism in thesignal-peptide region, which have been associatedrespectively with significant effects on total cholesterol,LDL-cholesterol and triglyceride levels (for Xbal) andwith the severity of global coronary atherosclerosis (forins/del)'*. For both of these polymorphisms, the allelefrequencies were similar in the centenarian and the controlpopulations (Table 6). 
+
+Associations in a selected subgroup 
+
+A subset of the centenarians included in this study hadbeen independently selected through a different protocol,on the basis of their belonging to long-lived sibships. Thelong-lived sibships were defined as comprising at leasttwo siblings older than 95 years, if female or older than 90,if male. Thirty-five members of long-lived sibships whoall happened to be older than 99 years were pooled withthe directly selected population of centenarians. In thissubgroup, the APOE and ACE genotypes displayed thesame associations with an even more marked trend (Table3).
+
+Other polymorphismsWAT. oe ed ne De eb
+
+We typed random subsamples of our populations at twoother loci. A bi-allelic marker at D4595 on 4p16.3chromosome (the Huntington’s disease region), probe674 with Acdl (ref. 20), gave a frequency of 0.33 for the rareallele in controls (n=158) and centenarians (n=164) anda dinucleotide repeat within the B-cell leukaemia/lymphoma 2 (BCL-2) gene on chromosome 18q21.3 (ref.21) (GenBank accession number: M15701) with onefrequent allele and eight rare alleles gave a frequency of0.825 and 0.838 for the frequent allele in controls (n=103)and centenarians (#=108), respectively. Thus, for both ofthese polymorphisms there was no difference betweencontrols and centenarians.
+
+Gender effects and interaction between lociNo Dk en a 
+
+Our - population of centenarians was mainly composed offemales, its male to female ratio of 1:8 (see Table 1)reflecting the sex differential in longevity in France.  
+
+Table 3 APOE and ACE alleles in centenarians with long-lived siblings
+
+Discussion 
+
+The potential overlap between cases and controls (thefrequency of controls that might become centenarians), issmall enough — less than 2.4% and 0.5% of women andmen respectively at age 70, based on 1980 estimates takenfrom a Caucasian population” — as to remain negligible.The frequencies found in our control group for APOEandACE alleles agree well with those reported in Frenchpopulations from Paris”, Lille and Strasbourg” and (for 
+
+The differences reported in Tables 1 and 2 are all enhanced when controls arecompared with the selected subgroup of centenarians. However, statisticalsignificance is diminished due to the small sample size. P1, population of all thecentenarians. P2, population of controls.
+
+ Table 5 interaction between APOEand ACE in centenariansDD ID ul22 29 (0.115) 35 (0.132) 19 (0.182)63 210 (0.833) 219 (0.823) 78 (0.750)24 13 (0.052) 12 (0.045) 7 (0.067)
+
+functions besides its role on the renin-angiotensin andkallikrein-kinin systems. Its ability to cleave neuropeptidessuch as enkephalin, substance P and LHRH” and itsregional distribution in the brain” point toneuroendocrine functions. Furthermore, an increase, withage, in brain cortical ACE activity” suggests that an adaptiveresponse to increasing needs may occur during ageing.ACE may also function as an immunomodulator byhelping to process endogenous peptides within the MHCclass I complex in cytotoxic T lymphocytes™, and its levelis also associated with the I/D polymorphism in thesecells*®. These data indicate potential roles of ACE, outsidethe cardiovascular system, that may wellinfluence survival.Insofar as the quantity of ACE enzyme is a significantparameter in these other functions, they providea rationalefor understanding the differential influence on survival ofthe ACE-I/D polymorphism. However, the associationwith longevity may also stem from linkage disequilibriumwith another influential polymorphism in a nearby gene.In this regard, itis notable that the gene for human growthhormone, which may have an important role insenescence’, shows strong linkage to ACE, onchromosome 17q23 (ref. 26).Tha came nuectinne arica far Anan which lice in tha
+
+The frequencies of APOE alleles are shown in parenthesisfor each genotype at the ACE locus. The visible trend ofnegative correlation between the e2 and D alleles does notreach significance (p=0.09 for a comparison of the €2 allelefrequency between DD and II genotypes),
+
+Framingham (USA)* and Minster (West Germany)”.Although a decrease in the €4 allele frequency wasfound in Canadian octogenarians’, it was not as marked as.in our centenarians and there was no significant change inthe €2 allele frequency; on the other hand, the increase ofthe €3 allele frequency in females was less pronounced inour group of centenarians. Another study*> reported adecreased frequency of€4 in older female diabetic patients.The well documented impact of ApoE-e4 oncardiovascular risk is commonly attributed to itshypercholesterolaemic effect; the €2 allele has oppositeeffects on total and LDL-cholesterol, which has led to thesuggestion that it might protect against atherosclerosis,however it also has a hypertriglyceridaemic effect and maybe a risk factor for ischaemic heart disease in certainenvironments". Thus, while the lower frequency of ApoE-e4 in centenarians is consistent with its risk factor statusfor heart disease, the increase in €2 allele frequency is amore unexpected result. If 2 and €3 were neutral, withrespect to survival, the decrease in €4 frequency wouldresult in an evenly distributed increase in the two otherallele frequencies, whereas in fact the entire increase isborne by €2, adding to the evidence for a protective effectof this allele.oy sn eg aruree
+
+The same questions arise for ApoE, which lies in theapolipoprotein cluster in chromosome 19q13.2 (ref. 32).There is compelling evidence for a direct effect of the e4allele: ApoE plays a role in nerve development and repair;it is expressed in large quantities in the brain, where itbinds to B-amyloid with an affinity that is highest for thee4 isozyme; and the €4 allele has an increased frequency inlate-onset Alzheimer’s disease (AD) patients*’. It wasshown recently that ¢4 has a dose-effect on risk of AD, ageat onset and survival, in both familial and sporadic late-onset forms of the disease. The ratio of €4 carriersbetween late onset AD patients and control subjects was 2and 2.6 respectively for the sporadic and familial cases.According to a Swedish population-based study ofdementia®, 13% of the 85-year-olds had AD, with a42.2% three year mortality rate. This population will havevirtually disappeared before reaching 100 years of age,which suggests that there may bea steep negative selectiondifferential of e4 carriers due to AD after age 85. It wouldhelp explain a decrease in €4 allele frequency betweennonagenarians and centenarians. Furthermore, €4 genedose is inversely related to age of onset and survival, whichstrengthens the notion ofits important AD-related impacton survival. Thus, €4 appears asa risk factor for both heartdisease and Alzheimer’s disease, two major causes ofmortality and morbidity at advanced ages.
+
+ More surprising is the increased frequency of ACE/DDgenotypes found in centenarians, in view of its reportedassociation with myocardial infarction, Perhaps the riskconferred by the ACE/D allele is offset by some unknownlong-term protective effect. Although this ACEpolymorphism is associated with a major gene effect onthe plasma concentration of the enzyme, with a higherconcentration for the DD genotype, it is unrelated toblood pressure and hypertension in adult populations'*”*,However, such a correlation may arise at a very old age,which might then relate to higher blood pressure appearingto bea positive survival factor in centenarians (M. Allard,personal communication). ACE has other biological
+
+ee FOES IIE IIIS. ON OIE IESE IIEWehave reported the first non-HLA geneticassociationswith human longevity in centenarians, implicating twogenes that, each in its own way, are simultaneously involvedin the cardiovascular, central nervous and immunesystems. The effects found provide mixed clues tounderlying pleiotropic interactions. ApoE-e4 illustratesthe idea that deleterious alleles are not selected against ifthey act late in life, when the effects of natural selection areweaker. However, its deleterious effects are probably spreadout over the last decades of life. Perhaps these arecounterbalanced by earlier beneficial influences in ordertoaccount fora stable frequency around 15% in Caucasianpopulations. Conversely, the €2 variant, although codingfor a metabolically defective enzyme and present at alower frequency in adult populations, appears to have along-term protective effect. The high frequency of the
+
+ APOB alleles Centenarians Controlsnumbers (frequency) numbers (frequency)x 297 (0.518) 166 (0.494)x 275 (0.482) 170 (0.506)ins 294 (0.671) 220 (0.659)del 144 (0.329) 414 (0.341) 
+
+ X'/X-, Presence/absence of the Xbai site at codon 2488.ins/del, Insertior/deletion allele in the signal peptide region (ref.19).
+
+ACEF/D allele in normal populations, in spite of it being arisk factor for a leading cause of mortality, suggests that itmay confer some early selective advantage. The unexpectedassociation with longevity may indicate a late reversal ofits purported negative survival value. Linkagedisequilibrium with polymorphisms in neighbouringgenes may complicate the picture. Finally, as longevity isthe net outcome of life-long interactions betweengenotypes and environment, it will be important to checkfor such associations in populations of different ethnicbackgrounds living in different environments.
+
+polyacrylamide gel'®. 2, The ACE diallelic polymorphism wasgenotyped by amplification of the variable segment and resolution ofthe 190 and 490 bp alleles on a 1.5% agarose gel'*. 3, APOBpolymorphisms were analyzed as described previously” byamplification of the two DNA segments, direct visualization of theamplified product on a 10% non-denaturing polyacrylamide gel forins/del and visualization of the Xbal digestion products on a 1.5%agarose gel for the Thr,,,, substitution. 4, The polymorphism atD4S95 was revealed by Southern hybridization with probe 674 andAccl digested samples”. 5, The BCL-2 microsatellite alleles weretyped as described by Fougerousse et al. (personal communicaton).Primers 5'-TGTGTGTGTGTAGCGCGTGT-3' and 5'-CTGGCCGTGTGAGTGTGTGT-3' were used for amplification inareaction mix containing 200 ng genomic DNA, 10 pmoles of eachprimer and 0.75 U of Taq polymerase in a final volume of 50 pl.Samples were subjected to 30 cycles consisting of 40 s at 92 °C, 30sat 62 °C and 30 s at 72 °C. The alleles were revealed by Southernhybridization with a (CA), probe after resolution of the fragmentson a 10% denaturing polyacrylamide gel.
+
+MethodologyDec dcetee en nme
+
+ Populations. Centenarians were recruited from all over France(regional distribution: 40% Paris region, 18% central, 4% northern,5% eastern, 15% western, 18% southern), at their home or ininstitutions, through media advertising and retirement organisations.They were all Caucasians residing in France. The criterium forinclusion in the study was to be at least 99 years old on the day ofblood collection. The population of 338 centenarians is composed of11% men and 89% women with a mean age of 100.71 + 0.13.Controls were chosen among unrelated normal individuals fromFrench CEPH pedigrees.
+
+Acknowledgements 
+
+———————eWe thank Fondation IPSEN, ARRCO, AGIRC and the participatingclinicians as well as E. Sénard and J. Boirot for help in collecting thecentenarians, F. Lethrosne, F. Dufour, C. Habita, M. Legrand, L.Gressin, C. Massart, C. Billon for technical assistance, M.R. Hayden forprobe 674; F. Cambien, T. Kirkwood and R. Moulias for support anddiscussion.
+
+Genotypes. 1, The APOE genotypes were analyzed by Hhal digestionofa244 bp PCR- amplified fragmentcontaining the two polymorphicsites, with the restriction fragments resolved ona 10% non denaturing
+
+,
+
+,
+
+,
+
+,and healthy population-based individuals. Atherosclerosis
+
+,
+
+-
+
+(
+
+).Andrew, S. ef al. Nonrandom association between Huntington disease andtwo loci separated by about
+
+Mb on
+
+p
+
+Genomics
+
+,
+
+-
+
+(
+
+).Weber, J.L. & May, P.E. Abundant class of human DNA polymorphismswhich can be typed using the polymerase chain reaction. Am. J. hum. Genet.
+
+,
+
+-
+
+(
+
+).. Fries, J.F. Aging, natural death and the compression of morbidity. New Engi.J. Med,
+
+,
+
+(
+
+).Ordovas, J.M., Litwack-Kisin, L., Wilson, P.W.F., Schaefer, M.M. & Schaefer,E.J. Apolipoprotein E isoform phenotyping methodology and populationfrequency with identification of ap
+
+and ap
+
+isoforms. J. lipid Res.
+
+,
+
+-
+
+(
+
+).Utermann, G., Steinmetz, A. & Weber, W. Genetic control of humanapolipoprotein E polymorphism: comparison one- and two-dimensionaltechniques of isopratein analysis. Hum. Genet.
+
+,
+
+-
+
+(
+
+).Boemi, M. ef al. Gender differences in a type
+
+(non-insulin-dependent)diabetic population with respect to apolipoprotein E phenotype frequencies.Diabetologia
+
+,
+
+-
+
+(
+
+),Jeunemaitre, X., Lifton, R.P., Hunt, S.C., Williams, A.A. & Lalouel, J.M.Absence of linkage between the angiotensin converting enzyme locus andhuman essential hypertension. Nature Genet.
+
+,
+
+-
+
+(
+
+).Ehlers, M.R.W. & Riordan, J.F. Angiotensin-converting enzyme: newconcepts concerning its biological role. Biochemistry
+
+,
+
+-
+
+(
+
+).Costerousse, O., Jaspard, E., Wei, L., Corvol, P. & Alhene-Gelas, F. Theangiotensin |-converting enzyme (kininase Il): molecular organization andregulation of its expression In humans. J. cardiovasc. Pharmacol.
+
+(suppl.
+
+), $
+
+-S
+
+(
+
+).M
+
+eer, E.G. & Singh, E.A. Angiotensin-converting enzyme in cortical tissuein Alzheimer's and some other neurological diseases. Dementie
+
+,
+
+-
+
+(
+
+),. Eisentohr, L.C., Bacik, |., Bennink, J.R., Bernstein, K. & Yewdell, J.W.Expression of a membrane protease enhances presentation of endogenousantigens to MHC class I-restricted T lymphocytes. Cail
+
+,
+
+-
+
+(
+
+).Jorgensen, J.O.L. & Christiansen, J.S. Brave new senescence: GH therapyin adults. Lancet
+
+,
+
+(
+
+).. Donald, J.A. ef al. Linkage relationships of the gene for apolipoprotein Cllwith loci on chromosome
+
+Hum. Genet.
+
+,
+
+-
+
+(
+
+).Stritt matter, W.J. et af. Apolipoprotein E: high avidity binding to B-amyloidand increased frequency of type
+
+allele in late-onset familial Alzheimerdisease. Proc. natn. Acad. Sci, U.S.A.
+
+,
+
+-
+
+(
+
+).. Corder, EH. et al, Gene dose of apolipoprotein E type
+
+allele and the risk o
+
+lzheimer's disease in late onset families. Science
+
+,
+
+-
+
+(
+
+).Skoog, |., Nilsson, L., Palmertz, B., Andreasson, LA., Svanborg, A. Apopulation-based study of dementi in
+
+-year-olds.. New Engl. J. Med.
+
+,
+
+-
+
+(
+
+).. Kirkwood, T.B.L. & Rose, M.R. Evolution of senescence: late survivalsacrificed for reproduction. Phil. Trans. R. Soc. Lond. B
+
+:
+
+-
+
+(
+
+).
+
+an eo
+
+qt.
+
+,
+
+. Abbott, M.H., Murphy, E.A., Bolling, D-R. &Abbey, H. The familial componentinlongevity, a study of the offspring of nonagenarians II. Preliminary analysisof the completed study. Johns Hopkins med. J.
+
+,
+
+-
+
+(
+
+).. Finch, C.E. Genetic influences on lifespan, mortality rates, and age-relateddiseases. In Longevity, senescence and the genome, p.
+
+-
+
+(Universityof Chicago Press, Chicago,
+
+).Schachter, F. & Cohen, D. Longevity: a new field for human genetics.Lifespan
+
+,
+
+-
+
+(
+
+).Schachter, F., Cohen, D. & Kirkwood, T.B.L. Prospects for the genetics ofhuman longevity. Human Genetics
+
+,
+
+-
+
+(
+
+).. Proust, J. ef al, HLA and longevity. Tissue Antigens
+
+,
+
+-
+
+(+
+
+).}. Takata, H., Ishii, T., Suzuki, M., Sekiguchi, S. & Iri, H. Influence of majorhistocompatibility complex region genes on human longevity amon
+
+kinawan-Japanese centenarians and nonagenarians. Lancet ii,
+
+-
+
+(
+
+).. Hatton, F. & Michel, E. Les causes de mortalité en
+
+Insee premiére
+
+,mai
+
+. Zannis, V.|.etal. Proposed nomenclature of ap
+
+isoproteins, ap
+
+genotypesand phenotypes. J. lipid Res,
+
+,
+
+-
+
+(
+
+).. Davignon, J., Gregg, R.E. & Sing, C.F. Apolipoprotein E polymorphism andatherosclerosis. Arterfoscierosis
+
+,
+
+-
+
+(
+
+).Van Bockxmeer, F.M. & Mamotte, C.D.S. Apolipoprotein e
+
+homozygosity inyoung men with coronary heart disease. Lancet
+
+,
+
+-
+
+(
+
+).Eto, M., Watanabe, K. & Makino, |. Increased frequencies of apolipoprotein€
+
+and
+
+alleles in patients with ischemic heart disease. Clin. Genet.
+
+,
+
+—
+
+(
+
+).Tiret, L. et al. Evidence, from combined segregation and linkage anylysis,that a variant of the angiotensin |-converting enzyme (ACE) gene controlsplasma ACE levels. Am. J. hum. Genet.
+
+,
+
+-
+
+(
+
+).Cambien, F. etal, Deletion polymorphism in the gene coding for angiotensin-converting enzyme is a potent risk factor for myocardial: infarction. Nature
+
+,
+
+-
+
+(
+
+).Tiret, L. etal. Deletion polymorphism in angiotensin-converting enzyme geneassociated with parental history of myocardial infarction. Lancet
+
+,
+
+-
+
+(
+
+).|. Hixson, J.E. & Vernier, D.T. Restriction isotyping of human apolipoprotein Eby gene amplification and cleavage with Hhal. J. lipid Res, $
+
+,
+
+-
+
+(
+
+).. Rigat, B., Hubert, C., Corvot, P. & Soubrier, F. PCR detection of the insertion/deletion polymorphism of the human angiotensin converting enzyme gene.Nucl. Acids Res,
+
+,
+
+(
+
+).Bailleul, S. et a/. Direct phenotyping of human apolipoprotein E in plasma:application to population frequency distribution in Paris (France). Hum.Hered.
+
+,
+
+-
+
+(
+
+).Boerwinkle, E., Lee, S.S., Butler, R., Schumaker, V.N.& Chan, L. Rapidtypingof apolipoprotein
+
+DNA polymorphisms by DNA amplification. Atherosclerosis
+
+,
+
+(
+
+).Peacock, R. et al. Apolipoprotein B gene polymorphisms, lipoproteins andcoronary atherosclerosis: A study of young myocardial infarction survivors

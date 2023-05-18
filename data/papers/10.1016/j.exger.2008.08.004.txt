@@ -1,0 +1,323 @@
+Contents lists available at ScienceDirect Experimental Gerontology journal homepage: www.elsevier.com/locate/expgero   {|[! galExperimentalGerontology
+
+journal homepage: www.elsevier.com/locate/expgero
+
+Absence of association between SNPs in the promoter region of the insulin-like growth factor 1 (IGF-1) gene and longevity in the Han Chinese population
+
+Liang Xie a,b,c,1, Yuan-ying Gong a,c,1, Shi-gang Lian d, Juan Yang d, Ya Yang e, Shou-jun Gao f, Liang-you Xu f, Ya-ping Zhang a,b, *
+
+aState Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming 650223, China bLaboratory for Conservation and Utilization of Bio-Resource, Yunnan University, Kunming 650091, China cGraduate School of the Chinese Academy of Sciences, Beijing 100049, China dPeople’s Hospital of Dujiangyan City, Dujiangyan 611830, China eKey Laboratory of Animal Models and Human Disease Mechanisms and Learning and Memory, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming 650223, fDujiangyan Longevity Research Centre, Dujiangyan 611830, China
+
+eKey Laboratory of Animal Models and Human Disease Mechanisms and Learning and Memory, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming 650223, China fDujiangyan Longevity Research Centre, Dujiangyan 611830, China
+
+Previous studies have indicated that genetic variations in the factors of insulin/insulin-like growth factor 1 (IGF-1) signaling pathway could influence human life-span by affecting IGF-1 levels. The promoter region of the IGF-1 gene is an obvious candidate and has not been studied clearly. To explore the potential role of the promoter region variation of IGF-1 gene in longevity, we investigated 485 longevity subjects and 392 younger individuals from Dujiangyan, China. By sequencing about 2.5 kb (kilo base pairs) upstream the transcription start site of exon 1 of the IGF-1 gene in 30 individuals from both groups respectively, we acquired three previously described SNPs ((cid:2)439T/A (rs2288377), (cid:2)541T/C (rs5742612) and (cid:2)1246C/T (rs35767)). We examined the association between these three SNPs and lon- gevity by comparing the distribution of genotypes, alleles, and haplotypes in both the longevity and con- trol groups. None of these variants were found to be associated with longevity. Our results suggest that there is no association between SNPs in the promoter region of IGF-1 gene and longevity in the Han Chi- nese population.
+
+ 2008 Elsevier Inc. All rights reserved.
+
+1. Introduction
+
+tors in this pathway may contribute to longevity by affecting IGF-1 level. Furthermore, Bonafe et al. suggested that 3173A/G (rs2229765) in the IGF-1 receptor (IGF-1R) is associated with the production of IGF-1 (Bonafe et al., 2003). Another study reported that (cid:2)202A/C (rs2854744) located in insulin-like growth factor binding protein 3 (IGFBP3) promoter region could affect the circu- lating level of IGFBP3, which might influence circulating levels of IGF-1 accordingly (Deal et al., 2001). Recently, one study in cente- narians suggested that variations of IGF-1R may contribute to lon- gevity gender-specifically by increasing the IGF-1 levels in female centenarians (Suh et al., 2008). Meanwhile, another study sup- ported that the specific SNPs in IGF-1 gene can influence circulat- ing level of IGF-1 significantly (Patel et al., 2008). Unfortunately, as far as we know, there is still no research on the association be- tween the polymorphisms of the IGF-1 promoter region and lon- gevity, although the promoter region is important to the expression of the IGF-1 gene and serum IGF-1 levels. To explore the potential role of the promoter region variation of the IGF-1 gene in longevity, we performed an association study on the SNPs of the promoter region of IGF-1 and longevity in the Han Chinese population.
+
+Ageing is a complex physical process with a variety of changes occurring in many aspects of bodily functions such as physiology and endocrinology. In this process, genetic and environmental fac- tors interact with each other and greatly contribute to the aging process. In 2001, Mitchell et al. estimated a heritability of 25% of the life-span in an Amish population in Lancaster County, Pennsyl- vania (Mitchell et al., 2001), which implied a relatively strong ge- netic background in human life-span. Meanwhile, in invertebrate (Kenyon, 2001) and mice (Holzenberger et al., 2003) studies, a con- served insulin/IGF-1 signaling pathway was speculated to be in- volved in the regulation of longevity (Bartke, 2008; Tatar et al., 2003). IGF-1 is one of the major factors in the Insulin/IGF-1 signal- ing pathway. In humans, several studies suggested that an optimal level of circulating IGF-1 was beneficial for longevity (Juul, 2003;
+
+* Corresponding author. Address: State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan 650223, China. Tel.: +86 871 519 9030; fax: +86 871 519 5430.
+
+E-mail addresses: zhangyp@mail.kiz.ac.cn, zhangyp1@263.net.cn (Y.-p. Zhang). 1 These authors have equal contributions to this paper.
+
+0531-5565/$ - see front matter r © z 2008 Elsevier Inc. All rights reserved. doi:10.1016/j.exger.2008.08.004
+
+2. Materials and methods
+
+2005), respectively. The haplotype estimation was conducted Phase 2.1 software (Stephens and Scheet, 2005; Stephens et 2001). Statistical analyses were performed by SPSS software age (SPSS version 13.0, Chicago, IL). The genotype and frequencies in both groups were compared by Pearson’s chi test. The p value is two tailed and the cut off value was 0.05. SNP alleles, we calculated three categories of p values for the ent probable function of the mutant allele as follows: inhibitive, and codominant, which was identical to a study (Canzian et al., 2006).
+
+2.1. Subjects
+
+In this study, 485 unrelated elderly individuals (age P 94 for fe- male and age P 90 for male) were recruited from Dujiangyan in Sichuan province of China. Ages were authenticated by the official certification of the Fifth Nation Census in China as well as by the inference of the number of offspring generations, and the memo- ries of these, their offspring and other local elderly people. The age was confirmed when the certification and the inference were consistent. At the same time, 392 control individuals, which were healthy local younger people including 110 spouses of the children of the longevity people, were recruited from the same area (age 22–73). The subjects’ information is listed in Table 1. All partici- pants signed informed consent after they had been given a clear explanation of the potential risk of the study. This research was ap- proved by the Ethics Committee on human experimentation of Kunming Institute of Zoology, Chinese Academy of Sciences and relevant bodies in Dujiangyan. The study was done with the Decla- ration of Helsinki and subsequent amendments.
+
+3. Results
+
+In this study, we detected three SNPs ((cid:2)439T/A (rs2288377), (cid:2)541T/C (rs5742612) and (cid:2)1246C/T (rs35767)) in the 2.5 kb DNA fragment, which was consistent with the data in HapMap pro- ject (http://www.hapmap.org/). No novel SNP site was discovered. All of the genotype frequencies of the three SNPs in longevity and control populations followed the Hardy Weinberg equilibrium, even when as stratified by gender. In addition, we explored the linkage disequilibrium between the three SNPs and found that these three SNPs were linked together totally (D0 = 0.997 and r2 = 0.791 for rs35767 and rs5742612, D0 = 1.0 and r2 = 1.0 for rs5742612 and rs2288377).
+
+2.2. Genotyping
+
+The genotype distributions and allele frequencies of the three SNPs are listed in Table 2. Our results indicated that there were no significant differences in the genotype distribution and allele frequencies between the longevity and control groups of the three sites, respectively. Meanwhile, we stratified the genotype distribu- tions and allele frequencies by gender. And there were no signifi- cant differences as well. We also constructed the haplotypes of the three SNPs and performed statistical analyses. The results are the same as allelic results and no significance was found (data not shown).
+
+by the standard phenol/chloroform method (Sambrook et al., 1989). The 2.5 kb DNA fragment located upstream of the transcrip- tion start site of IGF-1 gene exon 1 (chromosome 12: 101, 398, 454–101, 400, 954, NCBI, Build 36.1) was amplified in a long and accurate PCR reaction using an LA-PCR Kit (Takara, Dalian, China). PCR was performed in a 25 lL volume with 20 ng genomic DNA as template, 2.5 lL 10(cid:3) PCR buffer, 1.0 lL dNTP (2.5 mmol L(cid:2)1), 0.5 lL BSA (bovine serum albumin, 200 lg ml(cid:2)1), 0.5 lL forward primer (50-GAGAACATCAAAATGGGTGATAGACT-30, 10 pmol lL(cid:2)1), 0.5 lL reverse primer (50-AAATAATTGGG TTGGAAGACTGCTG-30, 10 pmol lL(cid:2)1), 0.125 lL LA-Taq polymerase (Takara, Dalian, China) and 19.9 lL distilled water. The PCR procedure was as follows: an initial denaturation of 5 min at 95 (cid:3)C, followed by 35 cycles of 95 (cid:3)C for 30 s, 59.5 (cid:3)C for 1 min and 72 (cid:3)C for 2 min, and final extension at 72 (cid:3)C for 10 min. PCR products were purified using a Watson DNA Purification Kit (Watson Company, Shanghai, China) and were directly sequenced with five pairs of inner primers (the primer information can be reached by request to the authors) on an ABI 3700 (AppliedBiosystems, Foster City, CA) according to the manu- facturer’s protocol. In order to collect the information of common SNPs in this fragment, we firstly chose 30 individuals in each of the two groups respectively and performed sequencing of the whole fragment. According to the results, we sequenced the entire two regions containing the SNP sites directly. Any ambiguous re- sult was confirmed by another PCR and sequencing.
+
+4. Discussion
+
+gene at present. In the early 1990s, much research was done on the analyses of the functional mechanism of the promoter region of IGF-1 (Jansen et al., 1992; Kim et al., 1991). However, the results did not provide adequate information to understand the regulation mechanism of IGF-1.There are two promoters located in either exon 1 (P1) or exon 2 (P2) in IGF-1 gene and exon1 50-UTR is con- sidered as a potential region for regulatory elements (Rodriguez et al., 2007), which is also the reason why we chose this segment. Considering the important role of IGF-1 in life processes, it is nec- essary to elucidate the association between the regulation of IGF-1 expression and the ageing process distinctly. By our knowledge, it is the first time to report an association study between the SNPs in the 50 flanking region of IGF-1 and longevity in the Han Chinese population. In our research, the longevity and control populations were recruited from the same area. They shared the same living environment and common diet habits, which exclude the non-ge- netic factors to the greatest extent. Our investigation indicated that individuals in both populations were native Han inhabitants in this research, thus population stratification was avoided to a certain ex- tent in our study (Marchini et al., 2004).
+
+2.3. Statistical analysis
+
+The HWE (Hardy Weinberg equilibrium) test and linkage dis- equilibrium test were performed by Genepop 3.4 software (Ray- mond and Rousset, 1995) and Haploview software (Barrett et al.,
+
+Table 1
+
+There were several studies on the association between the above three SNPs and cancers. In 2006, a study showed that homo- zygote of the minor allele of (cid:2)1246C/T (rs35767) was associated with a reduction in the risk of breast cancer and a significant de- crease in circulating IGFBP3 levels in elderly Caucasian women (Canzian et al., 2006). Another study suggested that there was a 30% reduction of risk of colorectal cancer associated with posses-
+
+Demographic parameters of the subjects in this study
+
+Group N (Male/Female) Age (Mean ± SD, Nationality Range of years) age (year) Longevity 485 (246/239) 94.92 ± 3.15 Han Male P 90; Female P 94 Control 392 (180/212) 56.5 ± 10.10 Han 22–73
+
+sion of one or two copies of the C allele compared with TT genotype of (cid:2)541T/C (rs5742612) in a Singapore Chinese population (Wong et al., 2005). Meanwhile, Iona Cheng et al. found that a haplotype block, which embraced the promoter area, was associated with prostate cancer and the SNP (cid:2)439T/A (rs2288377) was associated with prostate cancer, mainly due to linkage disequilibrium (Cheng et al., 2006). Although longevity people are generally free of the lethal age-related cancers (Bonafe et al., 2002), we could not find any association between the three SNPs and longevity in our study. The major reason might be the complicated relationship between cancers and longevity (Campisi, 2003), which can abate the effect of genetic association study. At the same time, different ethnic populations, sample size, and living circumstances for people in these studies can be another reason. The last but not least, the intricate Insulin/IGF-1 signal pathway in the ageing process can not be excluded. It has been reported that a composite score of selective variants in several Insulin/IGF-1 signal pathway genes was associated with height and longevity (van Heemst et al., 2005). That is to say, the variants in IGF-1 promoter region may work in tandem with variants in other genes in this pathway, which can not be shown in an association study which only in- cludes this region.
+
+PPPeulavP2vs’nosraeP)%(elellaroniM)%(elellarojaM)%(etogyzomohelellaroniM)%(etogyzoreteH)%(etogyzomohelellarojaM
+
+Our study provides no support for the association between the SNPs in the promoter region of the IGF-1 gene and longevity in the Han Chinese population. It is just a primary and explorative step to explore the possible function of this region in human longevity. Studies based on a larger subject group and longer potential se- quence segments in this region and other genes are required to test our results.
+
+Acknowledgements
+
+We are grateful to the persons who participated in this re- search. In addition, we thank Dr. Hui Li, Dr. Chengye Wang, and Kristen Choffe for their help in preparing the paper. This work was supported by National Basic Research Program of China (No. 2007CB507405), ‘‘Light in Western China” of the Chinese Academy of Sciences, the National Natural Science Foundation of China (No. 30621092), Bureau of Science and Technology of Yunnan Province.
+
+References
+
+Barrett, J.C., Fry, B., Maller, J., Daly, M.J., 2005. Haploview: analysis and visualization of LD and haplotype maps. Bioinformatics 21, 263–265.
+
+of LD and haplotype maps. Bioinformatics
+
+,
+
+–
+
+Bartke, A.,
+
+Impact of reduced insulin-like growth factor-
+
+/insulin signaling aging in mammals: novel findings. Aging Cell
+
+,
+
+–
+
+Bonafe, M., Barbi, C., Storci, G., Salvioli, S., Capri, M., Olivieri, F., Valensin, S., D., Gonos, E.S., De Benedictis, G., Franceschi, C.,
+
+What studies on longevity tell us about the risk for cancer in the oldest old: data and on the genetics and immunology of centenarians? Exp. Gerontol.
+
+,
+
+Bonafe, M., Barbieri, M., Marchegiani, F., Olivieri, F., Ragno, E., Giampieri, Mugianesi, E., Centurelli, M., Franceschi, C., Paolisso, G.,
+
+variants of insulin-like growth factor I (IGF-I) receptor and phosphoinositide kinase genes affect IGF-I plasma levels and human longevity: cues for evolutionarily conserved mechanism of life span control. J. Clin. Metab.
+
+,
+
+–
+
+Campisi, J.,
+
+Cancer and ageing: rival demons? Nat. Rev. Cancer
+
+,
+
+Canzian, F., M
+
+ay, J.D., Cleveland, R.J., Dossus, L., Biessy, C., Rinaldi, S., Landi, Boillot, C., Monnier, S., Chajes, V., Clavel-Chapelon, F., Tehard, B., J., Linseisen, J., Lahmann, P.H., Pischon, T., Trichopoulos, D., Trichopoulou, Zilis, D., Palli, D., Tumino, R., Vineis, P., Berrino, F., Bueno-de-Mesquita, H.B., Gils, C.H., Peeters, P.H., Pera, G., Ardanaz, E., Chirlaque, M.D., Quiros, Larranaga, N., Martinez-Garcia, C., Allen, N.E., Key, T.J., Bingham, S.A., Khaw, Slimani, N., Norat, T., Riboli, E., Kaaks, R.,
+
+Polymorphisms of genes for insulin-like growth factor
+
+and its major binding proteins, circulating of IGF-I and IGFBP-
+
+and breast cancer risk: results from the EPIC study. Br. Cancer
+
+,
+
+–
+
+Cheng, I., Stram, D.O., Penney, K.L., Pike, M., Le Marchand, L., Kolonel, Hirschhorn, J., Altshuler, D., Henderson, B.E., Freedman, M.L.,
+
+genetic variation in IGF
+
+and prostate cancer risk in the Multiethnic Cohort. Natl. Cancer Inst.
+
+,
+
+–
+
+spuorglortnocdnaytivegnolniseicneuqerfelelladnasnoitubirtsidepytoneG
+
+not breast cancer risk: findings from the Breast and Prostate Cancer Consortium (BPC
+
+). PL
+
+ONE
+
+, e
+
+Raymond, M., Rousset, F.,
+
+GENEPOP (Version
+
+): population software for exact tests and ecumenicism. J. Hered.
+
+,
+
+–
+
+Rodriguez, S., Gaunt, T.R., Day, I.N.,
+
+Molecular genetics of human hormone, insulin-like growth factors and their pathways in common Hum. Genet.
+
+,
+
+–
+
+Sambrook, J., Fritsch, E.F., Maniatis, T.,
+
+Molecular Cloning: A Manual, second ed. Cold Spring Harbor Laboratory, Cold Spring Harbor, NY. Stephens, M., Scheet, P.,
+
+Accounting for decay of linkage disequilibrium haplotype inference and missing-data imputation. Am. J. Hum. Genet.
+
+,
+
+Stephens, M., Smith, N.J., Donnelly, P.,
+
+A new statistical method for reconstruction from population data. Am. J. Hum. Genet.
+
+,
+
+–
+
+Suh, Y., Atzmon, G., Cho, M.O., Hwang, D., Liu, B., Leahy, D.J., Barzilai, N., Cohen,
+
+Functionally significant insulin-like growth factor I receptor mutations centenarians. Proc. Natl. Acad. Sci. USA
+
+,
+
+–
+
+Tatar, M., Bartke, A., Antebi, A.,
+
+The endocrine regulation of aging by like signals. Science
+
+,
+
+–
+
+van Heemst, D., Beekman, M., Mooijaart, S.P., Heijmans, B.T., Brandt, B.W., B.J., Slagboom, P.E., Westendorp, R.G.,
+
+Reduced insulin/IGF-
+
+and human longevity. Aging Cell
+
+,
+
+–
+
+Wong, H.L., Delellis, K., Probst-Hensch, N., Koh, W.P., Van Den Berg, D., Lee, H.P., M.C., Ingles, S.A.,
+
+A new single nucleotide polymorphism in the like growth factor I regulatory region associates with colorectal cancer risk Singapore Chinese. Cancer Epidemiol. Biomarkers Prev.
+
+,
+
+–
+
+Yang, J., Anzo, M., Cohen, P.,
+
+Control of aging and longevity by IGF-I Exp. Gerontol.
+
+,
+
+–
+
+Pollak, M.,
+
+Novel promoter polymorphism in insulin-like growth factor- binding protein-
+
+: correlation with serum levels and interaction with known regulators. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Holzenberger, M., Dupont, J., Ducos, B., Leneuve, P., Geloen, A., Even, P.C., Cervera, P., Le Bouc, Y.,
+
+IGF-
+
+receptor regulates lifespan and resistance to oxidative stress in mice. Nature
+
+,
+
+–
+
+Jansen,E., Steenbergh,P.H., van Schaik, F.M.,Sussenbach,J.S.,
+
+Thehuman IGF-I gene contains two cell type-specifically regulated promoters. Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Juul, A.,
+
+Serum levels of insulin-like growth factor I and its binding proteins in health and disease. Growth Horm. IGF Res.
+
+,
+
+–
+
+Kenyon, C.,
+
+A conserved regulatory system for aging. Cell
+
+,
+
+–
+
+Kim, S.W., Lajara, R., Rotwein, P.,
+
+Structure and function of a human insulin- like growth factor-I gene promoter. Mol. Endocrinol.
+
+,
+
+–
+
+Marchini, J., Cardon, L.R., Phillips, M.S., Donnelly, P.,
+
+The effects of human population structure on large genetic association studies. Nat. Genet.
+
+,
+
+–
+
+Mitchell, B.D., Hsueh, W.C., King, T.M., Pollin, T.I., Sorkin, J., Agarwala, R., Schaffer, A.A., Shuldiner, A.R.,
+
+Heritability of life span in the old order Amish. Am. J. Med. Genet.
+
+,
+
+–
+
+Patel, A.V., Cheng, I., Canzian, F., Le Marchand, L., Thun, M.J., Berg, C.D., Buring, J., Calle, E.E., Chanock, S., Clavel-Chapelon, F., Cox, D.G., Dorronsoro, M., Dossus, L., Haiman, C.A., Hankinson, S.E., Henderson, B.E., Hoover, R., Hunter, D.J., Kaaks, R., Kolonel, L.N., Kraft, P., Linseisen, J., Lund, E., Manjer, J., M
+
+arty, C., Peeters, P.H., Pike, M.C., Pollak, M., Riboli, E., Stram, D.O., Tjonneland, A., Travis, R.C., Trichopoulos, D., Tumino, R., Yeager, M., Ziegler, R.G., Feigelson, H.S.,
+
+IGF-
+
+, IGFBP-
+
+, and IGFBP-
+
+polymorphisms predict circulating IGF levels but
+
+Mitchell, B.D., Hsueh, W.C., King, T.M., Pollin, T.I., Sorkin, J., Agarwala, R., Schaffer, A.A., Shuldiner, A.R.,
+
+Heritability of life span in the old order Amish. Am. J. Med. Genet.
+
+,
+
+–
+
+Patel, A.V., Cheng, I., Canzian, F., Le Marchand, L., Thun, M.J., Berg, C.D., Buring, J., Calle, E.E., Chanock, S., Clavel-Chapelon, F., Cox, D.G., Dorronsoro, M., Dossus, L., Haiman, C.A., Hankinson, S.E., Henderson, B.E., Hoover, R., Hunter, D.J., Kaaks, R., Kolonel, L.N., Kraft, P., Linseisen, J., Lund, E., Manjer, J., M
+
+arty, C., Peeters, P.H., Pike, M.C., Pollak, M., Riboli, E., Stram, D.O., Tjonneland, A., Travis, R.C., Trichopoulos, D., Tumino, R., Yeager, M., Ziegler, R.G., Feigelson, H.S.,
+
+IGF-
+
+, IGFBP-
+
+, and IGFBP-
+
+polymorphisms predict circulating IGF levels but
+
+Patel, A.V., Cheng, I., Canzian, F., Le Marchand, L., Thun, M.J., Berg, C.D., Buring, J., Calle, E.E., Chanock, S., Clavel-Chapelon, F., Cox, D.G., Dorronsoro, M., Dossus, L., Haiman, C.A., Hankinson, S.E., Henderson, B.E., Hoover, R., Hunter, D.J., Kaaks, R., Kolonel, L.N., Kraft, P., Linseisen, J., Lund, E., Manjer, J., McCarty, C., Peeters, P.H., Pike, M.C., Pollak, M., Riboli, E., Stram, D.O., Tjonneland, A., Travis, R.C., Trichopoulos, D., Tumino, R., Yeager, M., Ziegler, R.G., Feigelson, H.S., 2008. IGF-1, IGFBP-1, and IGFBP-3 polymorphisms predict circulating IGF levels but

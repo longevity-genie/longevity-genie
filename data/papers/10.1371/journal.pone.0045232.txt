@@ -1,0 +1,1043 @@
+Bitter Taste Receptor Polymorphisms and Human Aging
+
+, Francesco De , Maura Carrai3, Paolina Crocco2, Alberto Montesanto2, Canzian1, Giuseppina Rose2, Cosmeri Rizzato1, Giuseppe Passarino2" , Roberto Barale3"
+
+1Genomic Epidemiology Group, German Cancer Research Center (DKFZ), Heidelberg, Germany, 2Department of Cell Biology, University of Calabria, Rende, 3Department of Biology, University of Pisa, Pisa, Italy
+
+Abstract
+
+Several studies have shown that genetic factors account for 25% of the variation in human life span. On the basis of published molecular, genetic and epidemiological data, we hypothesized that genetic polymorphisms of taste receptors, which modulate food preferences but are also expressed in a number of organs and regulate food absorption processing and metabolism, could modulate the aging process. Using a tagging approach, we investigated the possible associations between longevity and the common genetic variation at the three bitter taste receptor gene clusters on chromosomes 5, 7 and 12 in a population of 941 individuals ranging in age from 20 to 106 years from the South of Italy. We found that one polymorphism, rs978739, situated 212 bp upstream of the TAS2R16 gene, shows a statistically significant association (p= 0.001) with longevity. In particular, the frequency of A/A homozygotes increases gradually from 35% in subjects aged 20 to 70 up to 55% in centenarians. These data provide suggestive evidence on the possible correlation between human longevity and taste genetics.
+
+Citation: Campa D, De Rango F, Carrai M, Crocco P, Montesanto A, et al. (2012) Bitter Taste Receptor Polymorphisms and Human Aging. PLoS ONE 7(11): doi:10.1371/journal.pone.0045232 Editor: John I. Glendinning, Barnard College, Columbia University, United States of America Received April 2, 2012; Accepted August 17, 2012; Published November 2, 2012 Copyright:   2012 Campa et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Funding: This research was partially funded from the European Union’s Seventh Framework Programme (FP7/2007–2011) under the grant agreement The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. No additional external funding received for this study. Competing Interests: The authors have declared that no competing interests exist.
+
+Introduction
+
+epidemiological studies it could be difficult to obtain, by elders, reliable information on diet style in their early decades of life, which, likely, significantly influenced later health status. Since there are several indications that bitter taste gene polymorphisms can influence food choice [39,41,42,43,44,45], we considered of some interest to investigate the possible association between bitter taste and longevity. On the basis of these molecular, genetic and epidemiological data from the literature we hypothesized that genetic polymorphisms of taste receptors, which modulate food preferences but are also expressed in a number of organs and regulate food absorption and processing, could modulate the aging process.
+
+Several studies including various genome wide association studies have demonstrated the existence of an important familial and genetic component of longevity [1,2,3,4,5,6,7,8,9]. Twin studies have highlighted that approximately 25% of the overall variation in human lifespan can be attributed to genetic factors [10,11,12], which becomes more relevant after 60 years of age [13]. Based on the results obtained in model organisms, the research on the genetic component of human longevity has been focused on conserved pathways related to stress response signalling, DNA repair and to the storage and the use of nutrients [14,15]. Studies on centenarians or long-lived subjects allowed indeed to identify specific genes and genotypes involved in these pathways that influence human lifespan (for reviews see [16,17,18,19]). In particular, the variability and the expression of the genes involved in the storage and the use of the nutrients showed to influence both longevity and the quality of the aging [14,20].
+
+For example, the TAS2R38 gene is characterized by three non synonymous coding SNPs (rs713598 – G145C, Ala49Pro; rs1726866 – T785C, Val262Ala; rs10246939 – A886G, Ile296Val) which give rise to several haplotypes [46]. Subjects possessing at least one copy of the PAV haplotype (i.e. the alleles coding for proline at rs713598, alanine at rs1726866 and valine at rs10246939) are significantly more responsive to the bitter tastants PROP, PTC, and chemically similar compounds [47,48,49,50,51,52,53,54,55]. Such individuals display the so-called taster phenotype, and are distinct from those who are homozygous for the AVI haplotype and display the so-called non-taster phenotype. Tasters show a reduction in their intake of several vegetables such as cabbage, spinach, lettuce [56,57]. Given the importance of diet in longevity, genetic variation in taste receptor could directly affect a healthy aging by modulating food preference during life.
+
+The importance of nutrients in the aging process is also witnessed by overwhelming epidemiologic evidences that diet and nutrition can affect growth, the development of the body during childhood, the risk of acute and chronic diseases during adulthood, the maintenance of physiological processes and the biological process of aging [21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38]. In particular, diets rich in vegetables seem to be associated with a significant increase in longevity and wellness [23,39,40]. In
+
+genes play a much broader role in human health. Genes of TAS1R-TAS2R gene family express membrane taste receptors the neuroendocrine cells of several organs of the system [58]. These cells start the regulation of a variety of functions, including appetite, satiety, the proliferation of GI cells, secretory activity of the stomach, liver and intestine motility, and gall bladder contraction [59]. A correlation has been observed between polymorphic variants various taste receptors and homeostasis of glucose and insulin which in turn are strongly related with longevity [61]. allelic variants in the taste receptor family may be a link ageing and glucose homeostasis. Moreover candidate gene on various traits have indicated suggestive associations allelic variants in taste receptor genes and Body Mass Index [34,62,63], complex diseases such as cancer [64], consumption [65], smoking [66] and nicotine dependence although these associations did not emerge from association studies on BMI and diabetes, at the highly threshold that is typically used in such studies (p,1028). it has been shown that taste receptors are expressed in organs and tissues which are not directly implicated in food or digestion such as the lung, the airway smooth muscle, the and the testis. In the airways they are thought to enhance response to noxious stimuli, while in the testis they could involved in spermatogenesis. These findings point to the fact bitter sensing is just one of the functions performed by this of genes, which could have a central role in the homeostasis of organisms. Given the possible involvement of the taste genes in wide spectrum of aspects which are crucial to health and such as diet and nutrition or the defense of the organism aerial and ingested toxic compounds, and due to the fact that genetic variability within these genes is well documented to an impact on their function, we addressed the hypothesis that receptor genetic variants may have a role in longevity. particular, using a tagging approach, we investigated the association between the common genetic variation at the bitter taste gene clusters on chromosomes 5, 7 and 12 longevity in a population of 941 individuals ranging from 60 106 years of age from the South of Italy.
+
+ Chrs ofc“rs _"redis inter gene“rs_" black is out of gene 15414672234233\Block 1 (1 kb)1 2 
+
+chromosome 5 region. The value inside each diamond the linkage disequilibrium (r2) between each SNP. The values inside black arrows represent the distance between the SNPs. SNPs situated a coding region are written in red, while SNPs in non coding regions in black. The red arrows show the direction in which the gene transcribed. doi:10.1371/journal.pone.0045232.g001
+
+grandparents were all born in Calabria, as ascertained from population registers.
+
+Younger subjects were contacted through general physicians. Subjects older than 90 years were identified by screening of population registers in different municipalities distributed across the Calabria region. It is important to note that we can exclude the fact that older and younger people in Calabria are of two different ethnicities. Calabria is not subject to immigration from other parts of Italy and all the subjects in the study were of Caucasian origin excluding the possibility that the observed effect is due to ethnicity Eligible subjects were contacted and invited to participate in the study. Written informed consent was obtained from all partici- pants before the enrolment in the study. The health status was ascertained through a medical examination carried out by a geriatrician. Subjects with dementia and/or neurologic disorders were not included. At the time of the visit, peripheral venous blood samples were also obtained.
+
+Materials and Methods
+
+Ethical Statement
+
+Samples were collected within the framework of several recruitment campaigns carried out for monitoring the quality of aging in Calabria (Southern Italy) from 2002. The recruitment campaigns and subsequent analyses received the approval of the Ethical committee of the University of Calabria. All subjects provided written informed consent for studies on aging carried out by our research group. White blood cells (WBC) from blood buffy coats were used as a source of DNA.
+
+Study Population
+
+Subjects were recruited between 1994 and 2008 in Calabria and included 941 unrelated individuals, of which 348 were very elderly cases ($85 years, range 85–106 years, mean age 93.8264.44 years, median age 92) and 593 were non-elderly controls (,85 years, range 20–84 years, mean age 59.17619.45 years, median age 67 years). We chose 85 as a cut-off point because it has been shown that genetic factors contribute to the variation in human life span minimally before age 60 years and most profoundly from age 85 years onwards [13]. Study participants, their parents, and
+
+Selection of Tagging SNPs
+
+We sought to survey the entire set of common genetic variants in the selected bitter taste receptors situated at chromosome 5, 7 and 12. To this end, we followed a hybrid tagging-functional approach. We used the algorithm described by Carlson and coworkers [68] that was developed to select the maximally informative set of tag SNPs in a candidate gene/candidate region for an association study. The resulting SNPs captured all genetic
+
+ Chr7    1370bp 18826637bp 266bp 182366bp 640bp 38191bp 220241 bp 191bpSOc a mo <_ aR <=209bp 181bp 876bp 15771bp 11664bp 101bp 1208195bp 1503bp 33679bpec Sf <—_ <> << 4H - <>          Lode aOLS J&2 2 2oo 2 en z Bo 3 =BF og a Si & So s 2ea RS 2 Si 8 3 on 3 882S Se 3 ot 5 San 3 288 38 8 en 5 ana N x 5as ge 3 SN g Ss = saBe 2B Z oP > 23 2 22—— 15135794938ge35ss    Block 1 (2 kb)1 2   
+
+Figure 2. Figure 2 shows the selected polymorphisms in the chromosome 7 region. Symbols are as in Figure 1. doi:10.1371/journal.pone.0045232.g002
+
+variability in the three regions of interest. All polymorphisms with minor allele frequency (MAF) $5% in Caucasians from the International HapMap Project (version 28, August 2010; http:// www.hapmap.org) were included. Tagging SNPs were selected with the use of the Tagger program within Haploview (http:// www.broad.mit.edu/mpg/haploview/; http://www.broad.mit. edu/mpg/tagger/) [69,70], using pairwise tagging with a mini- mum r2 of 0.8. On chromosome 5 we considered a 1440 base-pair region (9628089–9629529) extending from rs41467 to rs2234233 in the TAS2R1 gene. For genes situated on chromosome 7 and 12 we selected tagging polymorphisms. For the TAS2R38 gene we selected rs713598, rs1726866 and rs10246939 as tagging SNPs since they are all non-synonymous and functional [51]. The final selection included 41 SNPs belonging to 20 genes. [51]. Figures 1, 2 and 3 show the selected polymorphisms in the chromosome 5, 7 and 12 regions respectively, as well as the distance and the LD between each SNP within the same chromosome. Table S1 shows the genes and SNPs selected in the study, the Hardy-Weinberg equilibrium (HWE) values observed for each SNP in the study, their position in the genome, in the gene, and the amino acidic change specified.
+
+Kaspar (Kbioscience, Heddesdon, UK) or Taqman (Applied Biosystems, Foster City, CA, USA) assays. PCR plates were read on an ABI PRISM 7900HT instrument (Applied Biosystems).
+
+Haplotype Reconstruction
+
+this study using SNPtool (http://www.dkfz.de/de/ molgen_epidemiology/tools/SNPtool.html) [71] and the Haplo- view v4.2 software using a MAF of 0.05, an HWE p-value of 0.001 and a call rate of 75% as cut-off values. Individual haplotypes were then statistically inferred using the PHASE v.2.1.1 algorithm, based on a Bayesian approach (http://www.stat.washington.edu/ stephens/) [72].
+
+Statistical Analysis
+
+The frequency distribution of genotypes was examined for the cases and the controls. HWE was tested for each of the SNP by chi-square test. logistic regression for multivariate analyses to assess the main effects of the genetic polymorphism on longevity was used. In these models the genetic data was coded using a co- dominant and a dominant inheritance model using the most common genotype in the controls as the reference category. All analyses were adjusted for gender. For haplotype analysis unconditional logistic regression was used to estimate the ‘‘risk of longevity’’. The most frequent haplotype was set as reference, while haplotypes with a frequency below 1% were declared as rare and combined in a single category. In order to take into account the large number of tests performed in this study, we calculated for each gene the number of effective independent variables, M , by eff
+
+DNA Extraction and Genotyping
+
+DNA was extracted from blood samples with standard proteinase K digestion followed by phenol/chloroform extraction and ethanol precipitation. The order of DNAs of cases (age$85) and controls (age,85) was randomized on PCR plates in order to ensure that an equal number of cases and controls could be analyzed simultaneously. All genotyping was carried out using
+
+ <a- <> Om ne ae Fe oe  Chri2 644bp 22677bp1592bp45607bp2451bp—_— <—o hUlS3 besozoss!                  52869bppOr66S7S)8, ogesouzs!5 vaesozzs!INle|80PZ2Z01S4VETLOELSIgrosetzsssreires! 7
+
+Figure 3. Figure 3 shows the selected polymorphisms in the chromosome 12 region. Symbols are as in Figure 1. doi:10.1371/journal.pone.0045232.g003
+
+(higher or lower) using cross-validation and permutation testing. Detailed information is described elsewhere [74].
+
+use of the SNP Spectral Decomposition approach [73]. We obtained a region-wide M value for each chromosomal region eff and also a study-wide M value, by adding up region M ’s.
+
+All analysis were performed using STATGRAPHICSH Centu- rion XVI software ((cid:2) 2009 by StatPoint Technologies, Inc. www. STATGRAPHICS.com) and STATA software (StataCorp, Col- lege Station, TX).
+
+Results
+
+Genotyping Success Rates and Quality Control
+
+The genotype distributions at all loci were in HWE with non- significant chi square values (p.0.05) (table S1). Random duplicate samples (8%) were also included and concordance of their genotypes was greater than 99%. The average call rate for the SNPs was 97.% (range 90%–100%).
+
+Gene-gene Interactions
+
+SNP-SNP interactions were tested using nonparametric Multi- factor Dimensionality Reduction (MDR, http://www.epistasis. org.) and verified with logistic regression. MDR is a data reduction approach for detecting interactions of multilocus genotypes and discrete environmental factors that are predictive of a discrete outcome. MDR defines a single variable that incorporates information from several loci and/or environmental factors and evaluates its ability to classify and predict outcome risk status
+
+Main Effects of Genotyped SNPs
+
+The distribution of the genotypes and their odds ratios (ORs) for association with longevity are shown in Table S2. We found that there were five significant associations between the SNPs in the chromosome 7 cluster and longevity at the conventional level of
+
+Table 1. SNPs in chromosome 7 cluster associated with longevity.
+
+ID_Gene SNP $85 yrsa ,85 yrsa OR (95%CI)b P P value trend T2R16 rs6466849 G/G 233 316 1 0.043 A/G 86 172 0.69 (0.50–0.94) 0.018 A/A 14 22 0.89 (0.44–1.77) 0.730 (A/G+A/A) 0.71 (0.53–0.95) 0.023 T2R16 rs860170 A/A 139 253 1 0.042 A/G 153 224 1.25 (0.93–1.67) 0.135 G/G 39 46 1.51 (0.94–2.43) 0.090 (A/G+G/G) 1.29 (0.98–1.71) 0.069 T2R16 rs978739 A/A 185 245 1 0.004 A/G 125 284 0.59 (0.45–0.79) 3.26*1024 G/G 30 54 0.76 (0.46–1.23) 0.262 (A/G+G/G) 0.62 (0.47–0.81) 0.001 T2R4 rs2233998 C/C 118 159 1 0.057 C/T 146 282 0.71 (0.52–0.97) 0.029 T/T 78 146 0.74 (0.51–1.06) 0.102 (C/T+T/T) 0.72 (0.54–0.96) 0.024 T2R5 rs2227264 T/T 114 158 1 0.047 G/T 148 287 0.72 (0.53–0.99) 0.044 G/G 74 146 0.72 (0.50–1.04) 0.081 (G/T+G/G) 0.72 (0.54–0.97) 0.029
+
+aNumbers may not add up to 100% of subjects due to genotyping failure. Data points that were still not filled after this procedure were left blank. bOR: odds ratio; CI: confidence interval. doi:10.1371/journal.pone.0045232.t001
+
+p,0.05. Three were observed in the TAS2R16 gene (rs6466849, rs860170 and rs978739), one in the TAS2R4 gene (rs2233998), and one in the TAS2R5 gene (rs2227264) (shown in Table 1). All the variant alleles were associated with a decreased probability to attain longevity (ORs,1).
+
+To take into account multiple testing, we calculated for each region the number of effective independent variables (M ). The M values eff eff for the regions on chromosome 5, chromosome 7 and chromosome 12 were 2, 11 and 8, respectively. The experiment-wise significance threshold was therefore set at 0.05/(2+11+8)=0.0024. After correction for multiple testing, only the carriers of the G allele of rs978739 variation showed a statistically significant association.
+
+Haplotype analysis was performed for each LD block in the study. None of the haplotypes showed a study-wise statistically significant association with longevity. However, the haplotype (rs1357949– rs6466849–rs860170–rs978739: T_A_A_G) of the TAS2R16 gene showed a suggestive association with longevity (OR=0.74; 95% CI 0.56–0.98; p=0.033). Moreover the haplotype rs2588350 (TAS2R7)- rs619381(TAS2R9)-rs3741845(TAS2R9): G_G_T showed an associ- ation with increased longevity at the conventional 0.05 P-value (OR=1.35; 95% CI 1.02–1.78; p=0.037). Tables S3, S4, S5, S6, S7, S8, S9, S10, and S11 show the distribution of all the haplotypes and their associations with longevity. We also analyzed all the possible pair- wise interactions between SNPs using the MDR method. No interactions between SNPs emerged with a study-wise significant p- value.
+
+syria oe eee                      20-50 a AIAAIG51-70 i" Ha Gig71-8485-9293-106       
+
+Figure 4. Bar chart of age by genotypes showing the association between the polymorphism of TAS2R16rs 978739 and longevity. The A/A genotype frequency is about 40.5% in the young and adult classes (20–50 and 51–70 years). Thereafter the A/A frequency increases through older classes reaching the 55.5% in the oldest (x2=17,08, p,0.029).
+
+Discussion
+
+In the present study, we have investigated possible associations between longevity and 41 SNPs in 20 candidate genes involved in
+
+harmful compounds are recognized by the receptor throughout the life span and that this could, in the long term, modify the chances to reach very old ages. However there is also another possible, even though highly speculative, explanation of the involvement of TAS2R16 genetic variability in healthy aging. Numerous recent reports investigated non-gustatory actions of taste receptors. They have been shown to be expressed in a plethora of tissues such as the respiratory system where they affect respiratory functions in response to noxious stimuli [87], and the gastrointestinal tract where they are suspected to regulate the activation of metabolic and digestive functions [87]. Recently it has been shown that taste receptors are expressed also in the testis in mouse, where they can be involved in spermatogenesis [88]. The emerging picture is therefore that taste receptors could behave as pleiotropic genes, whose products are used by various cells, or have signaling function on various targets not linked one to the other. Probably the bitter sensing is just one of the functions performed by this cluster of genes, which could have a central role in the homeostasis of the organisms. Therefore their genetic variations can affect profoundly various traits, including longevity, in a way that we are just beginning to understand [89].
+
+bitter taste perception. Our intensive SNP tagging approach along with the analyses of haplotypes provides a close to exhaustive analysis of the possible associations of longevity with the known common polymorphic variants at these bitter taste receptor loci.
+
+We found that five polymorphisms were associated with longevity: three in the TAS2R16 gene (rs6466849, rs860170 and rs978739), one in the TAS2R4 gene (rs2233998) and two in the TAS2R5 (rs2227264). rs6466849 and rs978739 share a modest degree of LD (r2=0.52) indicating that they might not be statistically independent findings, while rs2233998 and rs2227264 are in complete LD (r2=0.99) and therefore represent the same association. Two haplotypes, (rs1357949–rs6466849–rs860170– rs978739: T_A_A_G) of the TAS2R16 gene and rs2588350 (TAS2R7)-rs619381(TAS2R9)-rs3741845(TAS2R9): G_G_T showed a suggestive association with longevity. After correction for multiple testing only one polymorphism, rs978739 showed a statistically significant association with longevity (p=0.001). In particular, the frequency of homozygotes A/A increases gradually from 35% in the subjects aged 20 to 70 up to 55% in centenarians. A distribution of the genotypes through various age strata is given in Figure 4.
+
+taste receptor family and interestingly it has been shown that it underwent recent selective pressure [75]. It mediates the detection of salicin and other naturally occurring bitter compounds such as diphenidol, sodium benzoate, amygdalin, arbutin, helicin, D- salicin, sinigrin, and phenyl beta-D-glucopyranoside [76,77]. Several of these compounds have been reported to have a pharmacologic effect and to be present in human food. For example, arbutin is present in pears, bearberries and wheat, and has been reported to be a strong inhibitor of bladder cancer proliferation [78]. Amygdalin, also known as Vitamin B17, is found in several fruit seeds and has been reported to have both apoptotic activity and to inhibit cell cycle genes [79] although its real effect on cancer remains controversial [80]. Sinigrin is found in plants of the Brassicaceae family such as broccoli, brussels sprouts, and the seeds of black mustard. It has been proposed to have a preventive effect on colorectal cancer and to inhibit bladder cancer [81]. The bark and leaf of willow species contain the prodrug salicin; following absorption salicin is metabolized into various salicylate derivatives [82]. Salicin has effects similar to aspirin (acetylsalicylic acid) on analgesia and as an anti-inflam- matory agent [82]. These reports point to a role for the TAS2R16 receptor in recognizing beneficial molecules with which the organism interacts during life. One can speculate that an impaired function of the receptor might affect the efficacy of the various compounds and that this could lead on the long term to a disadvantage for the organism.
+
+Supporting Information
+
+Table S1 Table S1 Shows the genes and SNPs selected in the study, the Hardy-Weinberg equilibrium (HWE) values observed for each SNP in the study, their position in the genome, in the gene, and the amino acidic change specified.
+
+Table S2 Logistic regression analysis for taste SNPs in long lived subjects.
+
+Table S4 Logistic regression analysis for haplotypes T2R3-T2R4-T2R5-genes in long lived subjects.
+
+Table S5 Logistic regression analysis for haplotypes of TAS2R16 gene in long lived subjects.
+
+Table S6 Logistic regression analysis for haplotypes of T2R38 gene in long lived subjects.
+
+Polymorphic variants in TAS2R16 confer differential response in vitro via functional changes in the receptor [83] and have been suggested to influence the sensations, liking, or intake of common beverages that contain phytochemicals and other pharmacologi- cally active ingredients linked to chronic diseases [84]. Moreover the functional polymorphism K172N (rs846664) appears to be a risk factor for alcohol intake [85] and dependence [86]. This variant is very rare in Caucasian populations and therefore its genotyping was not attempted in this sample set. TAS2R16 genetic variants have also been associated with the development of nicotine dependence in African Americans [67].
+
+Table S7 Logistic regression analysis for haplotypes T2R40 gene in long lived subjects.
+
+Table S8 Logistic regression analysis for haplotypes of T2R41 in long lived subjects.
+
+Table S9 Logistic regression analysis for haplotypes of T2R7 -T2R9 genes in long lived subjects.
+
+Table S10 Logistic regression analysis for haplotypes T2R14-T2R50-T2R20 genes in long lived subjects.
+
+These observations point to a role of variation in the TAS2R16 receptor in recognizing and therefore modulating the effect of both beneficial and harmful molecules with which the organism interacts during life. It is possible that the fine tuning of the receptor function due to the genetic polymorphisms along with the environment may modulate how many beneficial and how many
+
+Table S11 Logistic regression analysis for haplotypes of T2R19-T2R31-T2R46-T2R30 genes in long lived subjects.
+
+Author Contributions
+
+Acknowledgments
+
+Conceived and designed the experiments: DC RB. Performed the experiments: MC PC CR DC. Analyzed the data: FDR AM. Wrote the paper: FC GR DC GP.
+
+We would like to thank Prof. Dennis Drayna for his precious help and support.
+
+References
+
+nutritional epidemiology: applications, needs and new horizons. Hum Genet
+
+:
+
+–
+
+Kushi LH, Doyle C, M
+
+ullough M, Rock CL, Demark-Wahnefried W, et al. (
+
+) American Cancer Society Guidelines on nutrition and physical activity for cancer prevention: reducing the risk of cancer with healthy food choices and physical activity. CA Cancer J Clin
+
+:
+
+–
+
+Lumeng JC, Cardinal TM, Sitto JR, Kannan S (
+
+) Ability to taste
+
+-n- propylthiouracil and BMI in low-income preschool-aged children. Obesity (Silver Spring)
+
+:
+
+–
+
+Mattson MP (
+
+) Dietary factors, hormesis and health. Ageing Res Rev
+
+:
+
+–
+
+Micha R, Kalantarian S, Wirojratana P, Byers T, Danaei G, et al. (
+
+) Estimating the global and regional burden of suboptimal nutrition on chronic disease: methods and inputs to the analysis. Eur J Clin Nutr
+
+:
+
+–
+
+Solfrizzi V, D’Introno A, Colacicco AM, Capurso C, Del Parigi A, et al. (
+
+) Dietary fatty acids intake: possible role in cognitive decline and dementia. Exp Gerontol
+
+:
+
+–
+
+Solfrizzi V, Panza F, Frisardi V, Seripa D, Logroscino G, et al. (
+
+) Diet and Alzheimer’s disease risk factors or prevention: the current evidence. Expert Rev Neurother
+
+:
+
+–
+
+Buckland G, Agudo A, Travier N, Huerta JM, Cirera L, et al. (
+
+) Adherence to the Mediterranean diet reduces mortality in the Spanish cohort of the European Prospective Investigation into Cancer and Nutrition (EPIC-Spain). Br J Nutr
+
+:
+
+–
+
+Tognon G, Rothenberg E, Eiben G, Sundh V, Winkvist A, et al. (
+
+) Does the Mediterranean diet predict longevity in the elderly? A Swedish perspective. Age (Dordr)
+
+:
+
+–
+
+Bell KI, Tepper BJ (
+
+) Short-term vegetable intake by young children classified by
+
+-n-propylthoiuracil bitter-taste phenotype. Am J Clin Nutr
+
+:
+
+–
+
+Garcia-Bailo B, Toguri C, Eny KM, El-Sohemy A (
+
+) Genetic variation in taste and its influence on food selection. Omics
+
+:
+
+–
+
+Keller KL (
+
+) Genetic influences on oral fat perception and preference: Presented at the symposium ‘‘The Taste for Fat: New Discoveries on the Role of Fat in Sensory Perception, Metabolism, Sensory Pleasure and Beyond’’ held at the Institute of Food Technologists
+
+Annual Meeting, New Orleans, LA, June
+
+,
+
+J Food Sci
+
+: S
+
+–
+
+Tepper BJ (
+
+) Nutritional implications of genetic taste variation: the role of PROP sensitivity and other taste phenotypes. Annu Rev Nutr
+
+:
+
+–
+
+Tepper BJ, Neilland M, Ullrich NV, Koelliker Y, Belzer LM (
+
+) Greater energy intake from a buffet meal in lean, young women is associated with the
+
+-
+
+Gudmundsson H, Gudbjartsson DF, Frigge M, Gulcher JR, Stefansson K (
+
+) Inheritance of human longevity in Iceland. Eur J Hum Genet
+
+:
+
+–
+
+Kerber RA, O’Brien E, Smith KR, Cawthon RM (
+
+) Familial excess longevity in Utah genealogies. J Gerontol A Biol Sci Med Sci
+
+: B
+
+–
+
+Montesanto A, Latorre V, Giordano M, Martino C, Domma F, et al. (
+
+) The genetic component of human longevity: analysis of the survival advantage of parents and siblings of Italian nonagenarians. Eur J Hum Genet
+
+:
+
+–
+
+Perls T, Shea-Drinkwater M, Bowen-Flynn J, Ridge SB, Kang S, et al. (
+
+) Exceptional familial clustering for extreme longevity in humans. J Am Geriatr Soc
+
+:
+
+–
+
+Perls T, Terry DF, Silver M, Shea M, Bowen J, et al. (
+
+) Centenarians and the genetics of longevity. Results Probl Cell Differ
+
+:
+
+–
+
+Perls TT, Wilmoth J, Levenson R, Drinkwater M, Cohen M, et al. (
+
+) Life- long sustained mortality advantage of siblings of centenarians. Proc Natl Acad Sci U S A
+
+:
+
+–
+
+Schoenmaker M, de Craen AJ, de Meijer PH, Beekman M, Blauw GJ, et al. (
+
+) Evidence of genetic enrichment for exceptional survival using a family approach: the Leiden Longevity Study. Eur J Hum Genet
+
+:
+
+–
+
+Willcox BJ, Willcox DC, He Q, Curb JD, Suzuki M (
+
+) Siblings of Okinawan centenarians share lifelong mortality advantages. J Gerontol A Biol Sci Med Sci
+
+:
+
+–
+
+Herskind AM, M
+
+ue M, Holm NV, Sorensen TI, Harvald B, et al. (
+
+) The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet
+
+:
+
+–
+
+Ljungquist B, Berg S, Lanke J, M
+
+learn GE, Pedersen NL (
+
+) The effect of genetic factors for longevity: a comparison of identical and fraternal twins in the Swedish Twin Registry. J Gerontol A Biol Sci Med Sci
+
+: M
+
+–
+
+Skytthe A, Pedersen NL, Kaprio J, Stazi MA, Hjelmborg JV, et al. (
+
+) Longevity studies in Geno
+
+Utwin. Twin Res
+
+:
+
+–
+
+Hjelmborg JB, Iachine I, Skytthe A, Vaupel JW, M
+
+ue M, et al. (
+
+) Genetic influence on human lifespan and longevity. Hum Genet
+
+:
+
+–
+
+Fontana L, Partridge L, Longo VD (
+
+) Extending healthy life span–from yeast to humans. Science
+
+:
+
+–
+
+Kenyon CJ (
+
+) The genetics of ageing. Nature
+
+:
+
+–
+
+Bonafe M, Olivieri F (
+
+) Genetic polymorphism in long-lived people: cues for the presence of an insulin/IGF-pathway-dependent network affecting human longevity. Mol Cell Endocrinol
+
+:
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat Rev Genet
+
+:
+
+–
+
+Chung WH, Dao RL, Chen LK, Hung SI (
+
+) The role of genetic variants in human longevity. Ageing Res Rev
+
+Suppl
+
+: S
+
+–
+
+Slagboom PE, Beekman M, Passtoors WM, Deelen J, Vaarhorst AA, et al. (
+
+) Genomics of human longevity. Philos Trans R Soc Lond B Biol Sci
+
+:
+
+–
+
+Parrella E, Longo VD (
+
+) Insulin/IGF-I and related signaling pathways regulate aging in nondividing cells: from yeast to the mammalian brain. Scientific World Journal
+
+:
+
+–
+
+Fontana L (
+
+) The scientific basis of caloric restriction leading to longer life. Curr Opin Gastroenterol
+
+:
+
+–
+
+Ford JH (
+
+) Saturated fatty acid metabolism is key link between cell division, cancer, and senescence in cellular and whole organism aging. Age (Dordr)
+
+:
+
+–
+
+Willcox DC, Willcox BJ, Todoriki H, Suzuki M (
+
+) The Okinawan diet: health implications of a low-calorie, nutrient-dense, antioxidant-rich dietary pattern low in glycemic load. J Am Coll Nutr
+
+Suppl:
+
+S–
+
+S.
+
+Barker DJ, Osmond C (
+
+) Infant mortality, childhood nutrition, and ischaemic heart disease in England and Wales. Lancet
+
+:
+
+–
+
+de Magalhaes JP, Wuttke D, Wood SH, Plank M, Vora C (
+
+) Genome- environment interactions that modulate aging: powerful targets for drug discovery. Pharmacol Rev
+
+:
+
+–
+
+Feart C, Samieri C, Barberger-Gateau P (
+
+) Mediterranean diet and cognitive function in older adults. Curr Opin Clin Nutr Metab Care
+
+:
+
+–
+
+Ferguson LR, Philpott M (
+
+) Nutrition and mutagenesis. Annu Rev Nutr
+
+:
+
+–
+
+Gluckman PD, Hanson MA, Cooper C, Thornburg KL (
+
+) Effect of in utero and early-life conditions on adult health and disease. N Engl J Med
+
+:
+
+–
+
+Gonzalez CA, Riboli E (
+
+) Diet and cancer prevention: where we are, where we are going. Nutr Cancer
+
+:
+
+–
+
+Hanson MA, Gluckman PD (
+
+) Developmental origins of health and disease: new insights. Basic Clin Pharmacol Toxicol
+
+:
+
+–
+
+Hausman DB, Fischer JG, Johnson MA (
+
+) Nutrition in centenarians. Maturitas
+
+:
+
+–
+
+physical activity. CA Cancer J Clin
+
+:
+
+–
+
+Lumeng JC, Cardinal TM, Sitto JR, Kannan S (
+
+) Ability to taste
+
+-n- propylthiouracil and BMI in low-income preschool-aged children. Obesity (Silver Spring)
+
+:
+
+–
+
+Mattson MP (
+
+) Dietary factors, hormesis and health. Ageing Res Rev
+
+:
+
+–
+
+Micha R, Kalantarian S, Wirojratana P, Byers T, Danaei G, et al. (
+
+) Estimating the global and regional burden of suboptimal nutrition on chronic disease: methods and inputs to the analysis. Eur J Clin Nutr
+
+:
+
+–
+
+Solfrizzi V, D’Introno A, Colacicco AM, Capurso C, Del Parigi A, et al. (
+
+) Dietary fatty acids intake: possible role in cognitive decline and dementia. Exp Gerontol
+
+:
+
+–
+
+Solfrizzi V, Panza F, Frisardi V, Seripa D, Logroscino G, et al. (
+
+) Diet and Alzheimer’s disease risk factors or prevention: the current evidence. Expert Rev Neurother
+
+:
+
+–
+
+Buckland G, Agudo A, Travier N, Huerta JM, Cirera L, et al. (
+
+) Adherence to the Mediterranean diet reduces mortality in the Spanish cohort of the European Prospective Investigation into Cancer and Nutrition (EPIC-Spain). Br J Nutr
+
+:
+
+–
+
+Tognon G, Rothenberg E, Eiben G, Sundh V, Winkvist A, et al. (
+
+) Does the Mediterranean diet predict longevity in the elderly? A Swedish perspective. Age (Dordr)
+
+:
+
+–
+
+Bell KI, Tepper BJ (
+
+) Short-term vegetable intake by young children classified by
+
+-n-propylthoiuracil bitter-taste phenotype. Am J Clin Nutr
+
+:
+
+–
+
+Garcia-Bailo B, Toguri C, Eny KM, El-Sohemy A (
+
+) Genetic variation in taste and its influence on food selection. Omics
+
+:
+
+–
+
+Keller KL (
+
+) Genetic influences on oral fat perception and preference: Presented at the symposium ‘‘The Taste for Fat: New Discoveries on the Role of Fat in Sensory Perception, Metabolism, Sensory Pleasure and Beyond’’ held at the Institute of Food Technologists
+
+Annual Meeting, New Orleans, LA, June
+
+,
+
+J Food Sci
+
+: S
+
+–
+
+Tepper BJ (
+
+) Nutritional implications of genetic taste variation: the role of PROP sensitivity and other taste phenotypes. Annu Rev Nutr
+
+:
+
+–
+
+Tepper BJ, Neilland M, Ullrich NV, Koelliker Y, Belzer LM (
+
+) Greater energy intake from a buffet meal in lean, young women is associated with the
+
+- n-propylthiouracil (PROP) non-taster phenotype. Appetite
+
+:
+
+–
+
+Kim U, Wooding S, Ricci D, Jorde LB, Drayna D (
+
+) Worldwide haplotype diversity and coding sequence variation at human bitter taste receptor loci. Hum Mutat
+
+:
+
+–
+
+Bachmanov AA, Beauchamp GK (
+
+) Taste receptor genes. Annu Rev Nutr
+
+:
+
+–
+
+Behrens M, Meyerhof W (
+
+) Bitter taste receptors and human bitter taste perception. Cell Mol Life Sci
+
+:
+
+–
+
+Biarnes X, Marchiori A, Giorgetti A, Lanzara C, Gasparini P, et al. (
+
+) Insights into the binding of Phenyltiocarbamide (PTC) agonist to its target human TAS
+
+R
+
+bitter receptor. PL
+
+One
+
+: e
+
+Bufe B, Breslin PA, Kuhn C, Reed DR, Tharp CD, et al. (
+
+) The molecular basis of individual differences in phenylthiocarbamide and propylthiouracil bitterness perception. Curr Biol
+
+:
+
+–
+
+Kim UK, Drayna D (
+
+) Genetics of individual differences in bitter taste perception: lessons from the PTC gene. Clin Genet
+
+:
+
+–
+
+Prodi DA, Drayna D, Forabosco P, Palmas MA, Maestrale GB, et al. (
+
+) Bitter taste study in a sardinian genetic isolate supports the association of phenylthiocarbamide sensitivity to the TAS
+
+R
+
+bitter receptor gene. Chem Senses
+
+:
+
+–
+
+Reed DR, Zhu G, Breslin PA, Duke FF, Henders AK, et al. (
+
+) The perception of quinine taste intensity is associated with common genetic variants in a bitter receptor cluster on chromosome
+
+Hum Mol Genet
+
+:
+
+–
+
+Tepper BJ (
+
+)
+
+-n-Propylthiouracil: a genetic marker for taste, with implications for food preference and dietary habits. Am J Hum Genet
+
+:
+
+–
+
+Wooding S, Kim UK, Bamshad MJ, Larsen J, Jorde LB, et al. (
+
+) Natural selectionandmolecularevolutioni
+
+TC,abitter-tastereceptorgene.A
+
+Hum Genet
+
+:
+
+–
+
+Dinehart ME, Hayes JE, Bartoshuk LM, Lanier SL, Duffy VB (
+
+) Bitter taste markers explain variability in vegetable sweetness, bitterness, and intake. Physiol Behav
+
+:
+
+–
+
+Gao X, Starmer J, Martin ER (
+
+) A multiple testing correction method genetic association studies using correlated single nucleotide Genet Epidemiol
+
+:
+
+–
+
+Moore JH (
+
+) Computational analysis of gene-gene interactions multifactor dimensionality reduction. Expert Rev Mol Diagn
+
+:
+
+–
+
+Li H, Pakstis AJ, Kidd JR, Kidd KK (
+
+) Selection on the human bitter gene, TAS
+
+R
+
+, in Eurasian populations. Hum Biol
+
+:
+
+–
+
+Bufe B, Hofmann T, Krautwurst D, Raguse JD, Meyerhof W (
+
+) The TAS
+
+R
+
+receptor mediates bitter taste in response to Nat Genet
+
+:
+
+–
+
+Wiener A, Shudler M, Levit A, Niv MY (
+
+) Bitte
+
+B: a database of compounds. Nucleic Acids Res
+
+: D
+
+–
+
+Li H, Jeong YM, Kim SY, Kim MK, Kim DS (
+
+) Arbutin inhibits human bladder cancer cell proliferation via up-regulation of p
+
+Pharmazie
+
+–
+
+Chang HK, Shin MS, Yang HY, Lee JW, Kim YS, et al. (
+
+) induces apoptosis through regulation of Bax and Bcl-
+
+expressions in DU
+
+and LNC
+
+prostate cancer cells. Biol Pharm Bull
+
+:
+
+–
+
+Milazzo S, Ernst E, Lejeune S, Boehm K, Horneber M (
+
+) Laetrile for cancer. Cochrane Database Syst Rev
+
+: CD
+
+Bhattacharya A, Li Y, Wade KL, Paonessa JD, Fahey JW, et al. (
+
+) isothiocyanate-rich mustard seed powder inhibits bladder cancer growth muscle invasion. Carcinogenesis
+
+:
+
+–
+
+Vlachojannis J, Magora F, Chrubasik S (
+
+) Willow Species and Different Mechanism of Actions. Phytother Res.
+
+Soranzo N, Bufe B, Sabeti PC, Wilson JF, Weale ME, et al. (
+
+) selection on a high-sensitivity allele of the human bitter-taste receptor Curr Biol
+
+:
+
+–
+
+Hayes JE, Wallace MR, Knopik VS, Herbstman DM, Bartoshuk LM, et (
+
+) Allelic variation in TAS
+
+R bitter receptor genes associates with in sensations from and ingestive behaviors toward common bitter beverages adults. Chem Senses
+
+:
+
+–
+
+Wang JC, Hinrichs AL, Bertelsen S, Stock H, Budde JP, et al. (
+
+) variants in TAS
+
+R
+
+and TAS
+
+R
+
+influence alcohol consumption in families of African-American origin. Alcohol Clin Exp Res
+
+:
+
+–
+
+Hinrichs AL, Wang JC, Bufe B, Kwon JM, Budde J, et al. (
+
+) variant in a bitter-taste receptor (
+
+AS
+
+R
+
+) influences risk of dependence. Am J Hum Genet
+
+:
+
+–
+
+Behrens M, Meyerhof W (
+
+) Oral and extraoral bitter taste receptors. Probl Cell Differ
+
+:
+
+–
+
+Li F, Zhou M (
+
+) Depletion of bitter taste transduction leads to spermatid loss in transgenic mice. Mol Hum Reprod.
+
+Wooding S (
+
+) Phenylthiocarbamide: a
+
+-year adventure in genetics
+
+Curr Opin Gastroenterol
+
+:
+
+–
+
+Rozengurt E (
+
+) Taste receptors in the gastrointestinal tract. I. Bitter taste receptors and alpha-gustducin in the mammalian gut. Am J Physiol Gastrointest Liver Physiol
+
+: G
+
+–
+
+Sternini C (
+
+) Taste receptors in the gastrointestinal tract. IV. Functional implications of bitter taste receptors in gastrointestinal chemosensing. Am J Physiol Gastrointest Liver Physiol
+
+: G
+
+–
+
+Dotson CD, Zhang L, Xu H, Shin YK, Vigues S, et al. (
+
+) Bitter taste receptors influence glucose homeostasis. PL
+
+One
+
+: e
+
+Narasimhan SD, Yen K, Bansal A, Kwon ES, Padmanabhan S, et al. (
+
+) PDP-
+
+links the TGF-beta and IIS pathways to regulate longevity, development, and metabolism. PL
+
+Genet
+
+: e
+
+Hayes JE (
+
+) Response to ‘‘Lack of relation between bitter taste receptor TAS
+
+R
+
+and BMI in adults’’. Obesity (Silver Spring)
+
+:
+
+Tepper BJ, Koelliker Y, Zhao L, Ullrich NV, Lanzara C, et al. (
+
+) Variation in the bitter-taste receptor gene TAS
+
+R
+
+, and adiposity in a genetically isolated population in Southern Italy. Obesity (Silver Spring)
+
+:
+
+–
+
+Carrai M, Steinke V, Vodicka P, Pardini B, Rahner N, et al. (
+
+) Association between TAS
+
+R
+
+gene polymorphisms and colorectal cancer risk: a case- control study in two independent populations of Caucasian origin. PL
+
+One
+
+: e
+
+Duffy VB, Davidson AC, Kidd JR, Kidd KK, Speed WC, et al. (
+
+) Bitter receptor gene (TAS
+
+R
+
+),
+
+-n-propylthiouracil (PROP) bitterness and alcohol intake. Alcohol Clin Exp Res
+
+:
+
+–
+
+Cannon DS, Baker TB, Piper ME, Scholand MB, Lawrence DL, et al. (
+
+) Associations between phenylthiocarbamide gene polymorphisms and cigarette smoking. Nicotine Tob Res
+
+:
+
+–
+
+Mangold JE, Payne TJ, Ma JZ, Chen G, Li MD (
+
+) Bitter taste receptor gene polymorphisms are an important factor in the development of nicotine dependence in African Americans. J Med Genet
+
+:
+
+–
+
+Carlson CS, Eberle MA, Rieder MJ, Yi Q, Kruglyak L, et al. (
+
+) Selecting a maximally informative set of single-nucleotide polymorphisms for association analyses using linkage disequilibrium. Am J Hum Genet
+
+:
+
+–
+
+Barrett JC, Fry B, Maller J, Daly MJ (
+
+) Haploview: analysis and visualization of LD and haplotype maps. Bioinformatics
+
+:
+
+–
+
+de Bakker PI, Yelensky R, Pe’er I, Gabriel SB, Daly MJ, et al. (
+
+) Efficiency and power in genetic association studies. Nat Genet
+
+:
+
+–
+
+Chen B, Wilkening S, Drechsel M, Hemminki K (
+
+) SNP_tools: A compact tool package for analysis and conversion of genotype data for MS-Excel. BMC Res Notes
+
+:
+
+Gabriel SB, Schaffner SF, Nguyen H, Moore JM, Roy J, et al. (
+
+) The

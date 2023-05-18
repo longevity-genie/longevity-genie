@@ -1,0 +1,483 @@
+Candidate gene study of FOXO1, FOXO4, and FOXO6 reveals no association with human longevity in Germans
+
+Rabea Kleindorp,1 Friederike Flachsbart,1 Annibale A. Puca,2,3 Alberto Malovini,4 Stefan Schreiber1,5 and Almut Nebel1
+
+of Clinical Molecular Biology, Christian
+
+Albrechts
+
+of Kiel, Kiel, Germany Multimedica, Milan, Italy di Tecnologie Biomediche – Consiglio Nazionale delle Segrate, Italy of Computer Engineering and Systems Science, of Pavia, Pavia, Italy Biobank, Christian
+
+Albrechts
+
+University of Kiel, Kiel,
+
+Introduction
+
+The forkhead box class O (FOXO) family of transcription factors is evolutionarily conserved and characterized by the so-called forkhead box DNA-binding domain. In mammals, the FOXO gene family consists of four members: FOXO1, FOXO3A, FOXO4, and FOXO6, which are homologous to the dauer for- mation-16 (daf-16) gene in the worm Caenorhabditis elegans (C. elegans). Numerous studies have shown that FOXO proteins play an important role in a wide range of normal biological pro- cesses, including cellular proliferation, cell cycle arrest, stress response, and apoptosis (Burgering & Kops, 2002; Stahl et al., 2002; Accili & Arden, 2004), as well as in diseases like cancer or diabetes mellitus (Furukawa-Hibi et al., 2002; Kato et al., 2006). Furthermore, FOXOs interact with several pathways that regu- late cellular survival and aging, as it was demonstrated by early studies linking daf-16 in C. elegans as a key regulator of the insulin-IGF1 signaling (IIS) pathway (Kenyon, 2005) to extended lifespan (Tissenbaum & Guarente, 2001). Following on from these findings in model organisms, Willcox et al. (2008) have recently identified one of the daf-16 homologues, FOXO3A, as a susceptibility gene for human longevity in ethnic Japanese from Hawaii (Willcox et al., 2008). This association was subsequently replicated in German, Italian, Chinese, US-American, Jewish, and Danish populations (Anselmi et al., 2009; Flachsbart et al., 2009; Li et al., 2009; Pawlikowska et al., 2009; Soerensen et al., 2010).
+
+Summary
+
+In mammals, the forkhead box class O (FOXO) family of transcription factors consists of the four members FOXO1, FOXO3A, FOXO4, and FOXO6. The FOXO genes are homo- logues of daf-16, a key regulator of the insulin-IGF1 signaling pathway and a modulator of lifespan in Caenor- habditis elegans. Recently, variants in FOXO3A have consistently been associated with human longevity in various populations worldwide. Given this confirmed finding, it is conceivable that polymorphisms in the other FOXO genes might have a similar effect on human longev- ity. To evaluate whether allelic variation in FOXO1, FOXO4, and FOXO6 influences the ability to become long- lived, we performed a comprehensive haplotype-tagging analysis of the three genes in a group of 1447 centenari- ans⁄nonagenarians and 1029 younger controls from Ger- many. This is the first investigation to analyze a possible association of human longevity with FOXO4 and FOXO6, respectively, and the largest and most comprehensive study to date to assess the genetic contribution of FOXO1 to the phenotype. Our results suggest that in Germans, none of the three genes plays a significant role in the abil- ity to reach old age. With regard to FOXO1, this observa- tion is supported by data from an Italian sample and is consistent with several previous reports, but appears to be in contrast to a recent study of Han Chinese. The dis- crepant association findings in Europeans and Chinese may be explained by their different FOXO1 linkage dis-
+
+Human longevity is considered a multi-factorial phenotype with a genetic contribution of about 25% (Christensen et al., 2006). The genetic component has been shown to become stronger with increasing age of the individuals (Hjelmborg et al., 2006; Go¨gele et al., 2010). Many genetic factors are likely to be involved, each having only a weak to moderate effect (Christen- sen et al., 2006). Up to date, the e4 allele of the apolipoprotein E (APOE) gene and variation in FOXO3A remain the only genetic determinants that have consistently and repeatedly been found to influence survival into old age in numerous populations worldwide (Christensen et al., 2006; Willcox et al., 2008; Ansel- mi et al., 2009; Flachsbart et al., 2009; Li et al., 2009; Paw- likowska et al., 2009; Soerensen et al., 2010).
+
+Almut Nebel, Institute of Clinical Molecular Biology, Christian-Albrechts-Uni- versity, Schittenhelmstrasse 12, 24105 Kiel, Germany. Tel.: +49 431 597 1373; fax: +49 431 597 2196; e-mail: a.nebel@mucosa.de
+
+Given the confirmed association of FOXO3A variation with human longevity, it is conceivable that single-nucleotide
+
+Accepted for publication 16 February
+
+controls from Germany to evaluate whether allelic variation in any of the three genes influences the ability to attain old age.
+
+polymorphisms (SNPs) in the other FOXO members, which are also regulated by the IIS pathway, might have a similar effect on the phenotype. Previously, an analysis of FOXO1 in the prospec- tive population-based Leiden 85+ study revealed for carriers of a particular 3-SNP haplotype a 1.14-fold increased all-cause mor- tality risk (P value = 0.021, without correction for multiple test- ing) (Kuningas et al., 2007). More recently, statistically significant frequency differences for two SNPs and two haplo- types in FOXO1 were reported between long-lived and younger women from China, suggesting a female-specific effect (Li et al., 2009). The results of the single-point analysis were repli- cated in an additional sample of Chinese. However, this finding is in contrast to other studies showing no evidence for an associ- ation of FOXO1 with human longevity (Bonafe et al., 2003; Koj- ima et al., 2004; Willcox et al., 2008).
+
+Results
+
+In this study, 36 haplotype-tagging SNPs (htSNPs) in the gene regions of FOXO1, FOXO4, and FOXO6 were analyzed for asso- ciation with human longevity. The polymorphisms were spaced across the entire genes, covering the majority of the allelic varia- tion. For none of the SNPs, a significant deviation from Hardy– Weinberg equilibrium (HWE) was found in the control popula- tion (P > 0.02). Single-marker comparisons did not show a significant association in any of the tested SNPs, neither for the complete sample of LLI (Table 1) nor the female (Table 2) or male subgroup (data not shown). A subsequent haplotype- based association analysis using a sliding window with pairs of consecutive SNPs revealed no association in any of the three genes with human longevity (data not shown).
+
+Here, we performed a comprehensive analysis of FOXO1, FOXO4, and FOXO6 in a large group of 1447 long-lived individu- als (LLI, i.e. centenarians and nonagenarians) and 1029 younger
+
+Table 1 Association statistics for 36 haplotype-tagging single-nucleotide polymorphisms (htSNPs)in FOXO1,FOXO4, and FOXO6 in German LLI and controls
+
+Gene Chr. SNP bp minAF LI minAF controls P allele P geno OR (95% C.I.) FOXO1 13 rs2701893 40023636 0.349 0.353 0.772 0.520 0.98 (0.87–1.11) FOXO1 13 rs2721047 40025682 0.086 0.097 0.177 0.246 0.87 (0.72–1.06) FOXO1 13 rs17446593 40026085 0.170 0.181 0.338 0.631 0.93 (0.80–1.08) FOXO1 13 rs2755209 40035804 0.373 0.377 0.770 0.274 0.98 (0.87–1.11) FOXO1 13 rs1078892 40036020 0.187 0.193 0.589 0.425 0.96 (0.83–1.11) FOXO1 13 rs2701859 40039232 0.252 0.272 0.117 0.059 0.90 (0.79–1.03) FOXO1 13 rs12865518 40041190 0.250 0.237 0.307 0.345 1.07 (0.94–1.23) FOXO1 13 rs2721069 40041720 0.310 0.325 0.251 0.187 0.93 (0.82–1.05) FOXO1 13 rs2755213 40044301 0.090 0.094 0.626 0.876 0.95 (0.78–1.16) FOXO1 13 rs2701880 40048505 0.060 0.071 0.120 NA 0.83 (0.66–1.05) FOXO1 13 rs2951787 40059770 0.384 0.376 0.600 0.834 1.03 (0.92–1.16) FOXO1 13 rs2984121 40059979 0.185 0.178 0.556 0.823 1.05 (0.90–1.21) FOXO1 13 rs2721044 40060225 0.307 0.330 0.097 0.074 0.90 (0.80–1.02) FOXO1 13 rs4943794 40071408 0.211 0.223 0.313 0.457 0.93 (0.81–1.07) FOXO1 13 rs1986649 40076824 0.211 0.225 0.229 0.434 0.92 (0.80–1.06) FOXO1 13 rs17630266 40092032 0.036 0.033 0.510 NA 1.11 (0.81–1.52) FOXO1 13 rs12876443 40094877 0.107 0.107 0.989 0.871 1.00 (0.83–1.20) FOXO1 13 rs7981045 40107236 0.273 0.261 0.349 0.550 1.06 (0.93–1.21) FOXO1 13 rs9603776 40121886 0.025 0.024 0.778 NA 1.05 (0.73–1.52) FOXO4 X rs12013673 70233824 0.437 0.443 0.696 0.548 0.98 (0.86–1.10) FOXO4 X rs5981072 70236267 0.299 0.311 0.368 0.976 0.94 (0.83–1.07) FOXO6 1 rs11585393 41602844 0.301 0.293 0.531 0.466 1.04 (0.92–1.18) FOXO6 1 rs7539614 41603634 0.444 0.439 0.739 0.904 1.02 (0.91–1.15) FOXO6 1 rs7547654 41603948 0.458 0.440 0.200 0.356 1.08 (0.96–1.21) FOXO6 1 rs11581271 41607648 0.401 0.423 0.131 0.097 0.91 (0.81–1.03) FOXO6 1 rs1317558 41611670 0.119 0.108 0.257 0.195 1.11 (0.93–1.33) FOXO6 1 rs1317557 41611929 0.028 0.027 0.824 NA 1.04 (0.73–1.48) FOXO6 1 rs6693260 41612082 0.175 0.178 0.811 0.824 0.98 (0.85–1.14) FOXO6 1 rs4660532 41612784 0.331 0.348 0.224 0.461 0.93 (0.82–1.05) FOXO6 1 rs6690527 41614573 0.289 0.287 0.867 0.366 1.01 (0.89–1.15) FOXO6 1 rs4660192 41614937 0.458 0.464 0.663 0.833 0.97 (0.87–1.09) FOXO6 1 rs11209971 41616880 0.281 0.293 0.336 0.511 0.94 (0.83–1.07)
+
+Chr., chromosome; bp, base-position of NCBI build 36; minAF, minor allele frequency; LLI, long-lived individuals; P allele, P value obtained from allele-based case–control comparison using a chi square-test with 1 degree of freedom (df); P geno, P value obtained from genotype-based case–control comparison using a chi square-test with 2 df; OR, estimated odds ratio for minor allele (based on whole sample); CI, 95% confidence interval of OR; NA, genotype- based case–control comparison was not conducted when there were fewer than five observations. Associated markers from the study of Li et al. (2009) are in bold.
+
+Table 2 Association statistics for 36 haplotype-tagging single-nucleotide polymorphisms (htSNPs)in FOXO1,FOXO4, and FOXO6 in German female LLI and controls
+
+minAF minAF Gene Chr. SNP bp LLI controls P allele P geno OR (95% C.I.) FOXO1 13 rs2701893 40 023 636 0.345 0.353 0.617 0.348 0.97 (0.84–1.11) FOXO1 13 rs2721047 40 025 682 0.082 0.098 0.091 NA 0.82 (0.66–1.03) FOXO1 13 rs17446593 40 026 085 0.167 0.182 0.239 0.383 0.90 (0.76–1.07) FOXO1 13 rs2755209 40 035 804 0.369 0.376 0.654 0.109 0.97 (0.85–1.11) FOXO1 13 rs1078892 40 036 020 0.183 0.196 0.288 0.054 0.92 (0.78–1.08) FOXO1 13 rs2701859 40 039 232 0.247 0.269 0.130 0.078 0.89 (0.77–1.03) FOXO1 13 rs12865518 40 041 190 0.256 0.243 0.383 0.581 1.07 (0.92–1.24) FOXO1 13 rs2721069 40 041 720 0.309 0.323 0.367 0.303 0.94 (0.82–1.08) FOXO1 13 rs2755213 40 044 301 0.087 0.093 0.548 0.808 0.93 (0.75–1.17) FOXO1 13 rs2701880 40 048 505 0.058 0.070 0.121 NA 0.81 (0.62–1.06) FOXO1 13 rs2951787 40 059 770 0.382 0.372 0.513 0.806 1.05 (0.92–1.20) FOXO1 13 rs2984121 40 059 979 0.185 0.181 0.800 0.898 1.02 (0.86–1.21) FOXO1 13 rs2721044 40 060 225 0.307 0.328 0.170 0.135 0.91 (0.79–1.04) FOXO1 13 rs4943794 40 071 408 0.212 0.225 0.346 0.402 0.93 (0.79–1.08) FOXO1 13 rs1986649 40 076 824 0.212 0.227 0.277 0.413 0.92 (0.79–1.07) FOXO1 13 rs17630266 40 092 032 0.036 0.030 0.315 NA 1.20 (0.84–1.73) FOXO1 13 rs12876443 40 094 877 0.109 0.108 0.880 0.901 1.02 (0.82–1.25) FOXO1 13 rs7981045 40 107 236 0.278 0.266 0.435 0.696 1.06 (0.92–1.23) FOXO1 13 rs9603776 40 121 886 0.027 0.024 0.530 NA 1.14 (0.76–1.72) FOXO4 X rs12013673 70 233 824 0.432 0.428 0.800 0.574 1.02 (0.89–1.16) FOXO4 X rs5981072 70 236 267 0.298 0.296 0.927 0.982 1.01 (0.87–1.16) FOXO6 1 rs11585393 41 602 844 0.296 0.288 0.606 0.537 1.04 (0.90–1.20) FOXO6 1 rs7539614 41 603 634 0.443 0.437 0.707 0.924 1.03 (0.90–1.17) FOXO6 1 rs7547654 41 603 948 0.460 0.449 0.476 0.763 1.05 (0.92–1.19) FOXO6 1 rs11581271 41 607 648 0.395 0.408 0.446 0.445 0.95 (0.83–1.09) FOXO6 1 rs1317558 41 611 670 0.121 0.103 0.084 0.070 1.20 (0.98–1.47) FOXO6 1 rs1317557 41 611 929 0.028 0.025 0.541 NA 1.14 (0.76–1.71) FOXO6 1 rs6693260 41 612 082 0.168 0.179 0.388 0.591 0.93 (0.78–1.10) FOXO6 1 rs4660532 41 612 784 0.342 0.358 0.333 0.598 0.94 (0.82–1.07) FOXO6 1 rs6690527 41 614 573 0.286 0.283 0.830 0.405 1.02 (0.88–1.17) FOXO6 1 rs4660192 41 614 937 0.454 0.448 0.725 0.939 1.02 (0.90–1.17) FOXO6 1 rs11209971 41 616 880 0.281 0.279 0.887 0.990 1.01 (0.87–1.17)
+
+Chr., chromosome; bp, base-position of NCBI build 36; minAF, minor allele frequency; LLI, long-lived individuals; P allele, P value obtained from allele-based case–control comparison using a chi square-test with 1 degree of freedom (df); P geno, P value obtained from genotype-based case–control comparison using a chi square-test with 2 df; OR, estimated odds ratio for minor allele (based on whole sample); CI, 95% confidence interval of OR; NA, genotype- based case–controls comparison was not conducted when there were fewer than five observations. Associated markers from the study of Li et al. (2009) are in bold.
+
+Fig. 2), the data from the two populations were pooled. Also the combined sample with an a priori power of 84% did not confirm the previous finding of Li et al. (Table 3). Furthermore, in the German sample of female individuals (Table 4), we did not detect any association between the two haplotypes (ATG and CCG based on rs2755209, rs2755213, and rs17630266) and the longevity phenotype, as earlier reported in Chinese (Li et al., 2009).
+
+The markers used for the FOXO1 haplotype analysis in the Leiden 85+ study (Kuningas et al., 2007) were also sub- jected to a haplotype analysis in our sample (rs2721069, rs4943794, and rs7981045; Fig. 1A). The frequency of the observed mortality haplotype in the Dutch sample (TCA) was not significantly different in German LLI compared with
+
+Recently, association signals for the FOXO1 SNPs rs2755209 and rs2755213 were reported in two samples of female Han Chinese (Li et al., 2009). In Germans, the frequencies of the polymorphisms did not differ significantly between the LLI and the young controls, neither for the complete sample (Table 1) nor the female subgroup (Table 2). When we investigated an additional population of female Italians for the same SNPs, this analysis did neither show evidence of association (Table 3). In view of the very similar FOXO1 SNP frequencies and linkage dis- equilibrium (LD) structures in Germans and Italians (Table 5 and
+
+Discussion
+
+In the present study, we performed comprehensive haplotype tagging of the FOXO gene family members FOXO1, FOXO4, and FOXO6 in an extensive collection of LLI and younger controls, comprising altogether 2476 German individuals. This is the first investigation to analyze a possible association between FOXO4 or FOXO6, respectively, and human longevity, and the largest
+
+Table 5). A comparison of the two SNPs reveals a comparable increase in their minor allele frequencies in controls relative to LLI (2.9% in Japanese (Kojima et al., 2004) and 4.4% in Chinese (Li et al., 2009). In Japanese, this difference is not significant, which may be because of the relative small sample size used in that study (122 centenarians and 122 controls). Also the other two FOXO1 SNPs of Li et al. (2009) show similar allele frequen- cies in both Chinese and Japanese (Table 5), which raises the intriguing possibility of a continent-specific effect. This observa- tion is underscored by the notable differences in LD structure and allele⁄haplotype distribution between European and Asian populations [Tables 4 and 5, Fig. 2 and HapMap data (Consor- tium 2003)]. Therefore, although our study did not show any evidence for an association of FOXO1 variants with human lon- gevity in Germans and Italians, this does not exclude an effect that could be restricted to Chinese or Asians. Longevity in differ- ent populations is likely to be influenced by varying sets of inter- acting genetic and environmental factors (e.g. diet) (Caliebe et al., 2010). To confirm the Asian- and female-specific longevity association of FOXO1, replications with more exten- sive DNA collections of, for instance, Japanese origin would be helpful.
+
+FOXO1 110.9 kb 3′ 5′ 9 4 5 6 9 4 0 7 0 1 3 1 2 4 8 7 9 9 2 4 7 s s s r r r (B) Haplotype min AF cases min AF controls P value C G A 0.417 0.411 0.652 C G G 0.274 0.261 0.294 T C A 0.211 0.223 0.330 T G A 0.097 0.104 0.378
+
+Fig. 1 (A) Gene structure of FOXO1. (B) Results of the haplotype analysis in German long-lived individuals and controls. Single-nucleotide polymorphisms are based on the study of Kuningas et al. (2007).minAF, minor allele frequency.
+
+and most comprehensive one to date to assess the genetic con- tribution of FOXO1 to the phenotype (1886 German and 382 Italian females). Our overall result suggests that polymorphisms in none of the genes have a significant influence on a person’s ability to reach old age.
+
+For FOXO1, several longevity association studies have previ- ously been performed, albeit with contradictory findings (Bona- fe et al., 2003; Kojima et al., 2004; Li et al., 2009). Bonafe et al. (2003) described a negative result in Italians that is – though only a single SNP was tested – consistent with ours. Recently, a study of Han Chinese found two SNPs as well as two haplotypes in this gene to be associated with longevity in women (Li et al., 2009). The results of the single-point analysis were also replicated in an additional sample of Chinese (Li et al., 2009). However, two previous investigations of Asian populations had revealed no association (Kojima et al., 2004; Willcox et al., 2008). One of the studies that examined only male individuals of Japanese des- cent (Willcox et al., 2008) is not informative with regard to a potential association in females. Another report analyzing Japa- nese of both genders tested three SNPs (Kojima et al., 2004), which were not haplotype-tagging and thus did not cover the allelic variation in FOXO1 comprehensively. Of note, one of the SNPs, rs2297627, is in strong LD with one of the significantly associated markers described in Han Chinese (rs2755209,
+
+Polymorphisms in FOXO3A have convincingly and repeatedly been associated in numerous populations with the ability to sur- vive into old age (Willcox et al., 2008; Anselmi et al., 2009; Flachsbart et al., 2009; Li et al., 2009; Pawlikowska et al., 2009; Soerensen et al., 2010). Although here we used a larger sample than the one genotyped for the FOXO3A analysis (Flachsbart et al., 2009), our results did not ascertain an association of FOXO1, FOXO4, or FOXO6 with longevity in Germans. The members of the FOXO gene family share some characteristics (more than 60% sequence identity of the human FOXO domain (Anderson et al., 1998), regulation via the IIS pathway and a seemingly functional redundancy in vitro (Coffer & Burgering, 2004)) and yet their physiological roles are thought to be diverse (Wang et al., 2009), a finding that is supported by different expression patterns (Furuyama et al., 2000; Biggs et al., 2001). This functional diversification is also illustrated by the disruption of the FOXO genes (Hosaka et al., 2004): while a homozygous knock-out of FOXO1 is embryonically lethal, FOXO3A)⁄) and FOXO4)⁄) animals are viable and initially develop normal.
+
+Table 3 Association statistics of FOXO1 single-nucleotide polymorphisms (SNPs) in female Italian individuals and in the pooled sample of Germans and Italians
+
+minAF LLI minAF controls P allele P geno OR (95% C.I.) SICS LLI = 166 rs2755209 0.404 0.391 0.728 0.379 1.05 (0.79–1.41) Controls = 216 rs2755213 0.124 0.118 0.795 NA 1.06 (0.68–1.64) Germans + SICS LLI = 1258 rs2755209 0.373 0.379 0.702 0.601 0.98 (0.86–1.10) Controls = 1010 rs2755213 0.092 0.099 0.445 0.271 0.92 (0.76–1.13)
+
+SICS, South Italian Centenarian Study; minAF, minor allele frequency; LLI, long-lived individuals; n, number of individuals; P allele, P value obtained from allele-based case–control comparison using a chi square-test with 1 degree of freedom (df); P geno, P value obtained from genotype-based case–control comparison using a chi square-test with 2 df; OR, estimated odds ratio for minor allele (based on whole sample); CI, 95% confidence interval of OR; NA, genotype-based case–control comparison was not conducted when there were fewer than five observations.
+
+Experimental procedures
+
+Table 4 Comparison of FOXO1 haplotype association results in German and Chinese females
+
+Germans Chinese(cid:2) Freq. Freq. P Freq. Freq. P Haplotype† cases controls value cases controls value ATG§ 0.608 0.614 0.768 0.230 0.292 0.003 CTG 0.292 0.287 0.811 0.116 0.127 0.550 CCG 0.060 0.061 0.901 0.248 0.192 0.006 CCT 0.031 0.027 0.581 0.392 0.380 0.604 CTT 0.005 0.007 0.478 0.008 0.004 0.380
+
+Study participants
+
+The study sample comprised 1447 LLI with an age range of 95–110 years (mean age: 98.8 years) and 1029 younger con- trols (60–75 years; mean age: 66.8 years). About 75% of the LLI were women. The controls were similar to the LLI in terms of gender (75% women), ancestry, and geographic origin. There are no mortality data available for the controls. However, based on current predictions, only 1.5% of all 60-year-old and 1.8% of all 75-year-old German women will become 100 years. The study participants provided, as part of a health and family history questionnaire, personal and medical information. A detailed description of the study population and recruitment procedures is provided elsewhere (Nebel et al., 2005). All subjects gave written, informed consent prior to enrolment. The study was approved by the Ethics Committee of the University Hospital Schleswig-Holstein in Kiel.
+
+Table 5 Comparison of minor allele frequencies of FOXO1 single-nucleotide polymorphisms (SNPs) in German, Italian, Chinese, and Japanese controls
+
+The Italian women sample consisted of 166 LLI (90–109 years, mean age: 98.39 years) and 216 younger controls (18–48 years; mean age: 31.06 years) obtained from the Southern Italian Cen- tenarian Study (SICS). SICS LLI were thoroughly investigated for demographic and clinical characteristics and they were enrolled by Associazione Longevita` (Anselmi et al., 2009). All subjects gave written informed consent to the study. The study was approved by the Institutional Review Board of the ‘Istituto di Ricovero e Cura a Carattere Scientifico’, Multimedica, Milano, Italy.
+
+minAF minAF minAF minAF controls controls controls controls Germans Italians Chinese† Japanese(cid:2) rs2755209 0.37 0.40 0.29 0.33§ rs2755213 0.09 0.11 0.42 NA rs17630266 0.03 0.02– 0.37 0.39††
+
+Associated SNPs from Li et al. (
+
+) are in bold. mi
+
+F, minor allele frequency; NA, no information available. †Data from Li et al. (
+
+). (cid:
+
+)Data from Kojima et al. (
+
+). §Based on SNP rs
+
+from Kojima et al. (
+
+) that is in strong linkage disequilibrium (LD) with rs
+
+(r
+
+=
+
+, using JPT Ha
+
+ap data). –Based on imputed data. ††Based on SNP rs
+
+from Kojima et al. (
+
+) that is in strong LD
+
+Genotyping
+
+Genotyping of the German samples was performed using the SNPlexTM Genotyping System and TaqMan(cid:2) SNP Genotyping Assays (both Applied Biosystems, Foster City, CA, USA) on an automated platform (Hampe et al., 2001). For quality control purposes, positive controls on each genotyping plate were checked for consistency. All SNPs were tested for deviation from the HWE. The call rate for each marker exceeded 95.8%.
+
+††Based on SNP rs2297626 from Kojima et al. (2004) that is in strong with rs17630266 (r2 = 0.95, using JPT HapMap data).
+
+Further studies are needed to clarify in more detail the in vivo roles of the FOXO genes, and in particular of FOXO3A, in human longevity.
+
+(A) (B) (C) (D) 6 6 6 6 9 3 6 9 3 6 9 3 6 9 3 6 0 1 2 0 1 2 0 1 2 0 1 2 2 2 0 2 2 0 2 2 0 2 2 0 5 5 3 5 5 3 5 5 3 5 5 3 5 5 6 5 5 6 5 5 6 5 5 6 7 7 7 7 7 7 7 7 7 7 7 7 2 2 1 2 2 1 2 2 1 2 2 1 s s s s s s s s s s s s r r r r r r r r r r r r 15 14 18 13 53 34 86 52 5 2 18 45
+
+Fig. 2 LD structure of FOXO1 in Germans (A), Italians (B), Chinese (C), and Japanese (D). The depicted single-nucleotide polymorphisms were used in the study of Chinese (Li et al., 2009). The linkage disequilibrium plots are based on the measure r2 and were generated with Haploview using HapMap data of Han Chinese (CHB) and Japanese (JPT) as well as data of German and Italian control individuals from this study.
+
+References
+
+Genotyping of SICS individuals was carried out with the Infini- um II Assay-HumanHap 317K duo BeadChip system (Illumina, San Diego, CA, USA) using standard protocols. Individual sam- ples and markers showing a genotyping rate lower than 93% and 95%, respectively, were excluded. Imputation of unob- served genotypes was performed using Impute, version 0.5 (Marchini et al., 2007) with the HapMap CEU release 24 refer- ence panel (http://www.hapmap.org/).
+
+Accili D, Arden KC (
+
+) Fo
+
+s at the crossroads of cellular metabo- lism, differentiation, and transformation. Cell
+
+,
+
+–
+
+Anderson MJ, Viars CS, Czekay S, Cavenee WK, Arden KC (
+
+) Cloning and characterization of three human forkhead genes that comprise an FKHR-like gene subfamily. Genomics
+
+,
+
+–
+
+Anselmi CV, Malovini A, Roncarati R, Novelli V, Villa F, Condorelli G, Bellazzi R, Puca AA (
+
+) Association of the FOXO
+
+A locus with extreme longevity in a southern Italian centenarian study. Rejuvena- tion Res.
+
+,
+
+–
+
+Barrett JC, Fry B, Maller J, Daly MJ (
+
+) Haploview: analysis and visual- ization of LD and haplotype maps. Bioinformatics
+
+,
+
+–
+
+Biggs
+
+rd WH, Cavenee WK, Arden KC (
+
+) Identification and characterization of members of the FKHR (FOX O) subclass of winged-helix transcription factors in the mouse. Mamm. Genome
+
+,
+
+–
+
+Bonafe M, Barbieri M, Marchegiani F, Olivieri F, Ragno E, Giampieri C, Mugianesi E, Centurelli M, Franceschi C, Paolisso G (
+
+) Polymor- phic variants of insulin-like growth factor I (IGF-I) receptor and phos- phoinositide
+
+-kinase genes affect IGF-I plasma levels and human longevity: cues for an evolutionarily conserved mechanism of life span control. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Burgering BM, Kops GJ (
+
+) Cell cycle and death control: long live forkheads. Trends Biochem. Sci.
+
+,
+
+–
+
+Caliebe A, Kleindorp R, Blanche H, Christiansen L, Puca AA, Rea IM, Slagboom E, Flachsbart F, Christensen K, Rimbach G, Schreiber S, Nebel A (
+
+) No or only population-specific effect of PON
+
+on human longevity: a comprehensive meta-analysis. Ageing Res. Rev.
+
+,
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.
+
+,
+
+–
+
+Coffer PJ, Burgering BM (
+
+) Forkhead-box transcription factors and their role in the immune system. Nat. Rev. Immunol.
+
+,
+
+–
+
+Consortium TIH (
+
+) The International Ha
+
+ap Project. Nature
+
+,
+
+–
+
+Dudbridge F (
+
+) Pedigree disequilibrium tests for multilocus haplo- types. Genet. Epidemiol.
+
+,
+
+–
+
+Flachsbart F, Caliebe A, Kleindorp R, Blanche H, von Eller-Eberstein H, Nikolaus S, Schreiber S, Nebel A (
+
+) Association of FOXO
+
+A vari- ation with human longevity confirmed in German centenarians. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Furukawa-Hibi Y, Yoshida-Araki K, Ohta T, Ikeda K, Motoyama N (
+
+) FOXO forkhead transcription factors induce G(
+
+)-M check- point in response to oxidative stress. J. Biol. Chem.
+
+,
+
+–
+
+Furuyama T, Nakazawa T, Nakano I, Mori N (
+
+) Identification of the differential distribution patterns of
+
+NAs and consensus bind- ing sequences for mouse DAF-
+
+homologues. Biochem. J.
+
+,
+
+–
+
+Go¨gele M, Pattaro C, Fuchsberger C, Minelli C, Pramstaller PP, Wjst M (
+
+) Heritability analysis of life span in a semi-isolated population followed across four centuries reveals the presence of pleiotropy between life span and reproduction. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Hampe J, Wollstein A, Lu T, Frevel HJ, Will M, Manaster C, Schreiber S (
+
+) An integrated system for high throughput Ta
+
+an based SNP genotyping. Bioinformatics
+
+,
+
+–
+
+Hjelmborg J
+
+, Iachine I, Skytthe A, Vaupel JW, M
+
+ue M, Koskenvuo M, Kaprio J, Pedersen NL, Christensen K (
+
+) Genetic influence on human lifespan and longevity. Hum. Genet.
+
+,
+
+–
+
+Statistical analysis
+
+Haplotype-tagging SNPs (htSNPs) of FOXO1, FOXO4, and FOXO6 were selected based on the HapMap genotypes of Utah residents with ancestry from northern and western Europe (CEU; http://www.hapmap.org/) and the pairwise tagging option implemented in the Haploview v3.32 program (Barrett et al., 2005) (http://www.broad.mit.edu/mpg/haploview/) (minor allele frequency: > 0.05, pairwise r2 ‡ 0.8, P : > 0.01, for htSNPs HWE see Table 1). The exact genomic regions for the selection of the htSNPs were as follows: for FOXO1 chromosome 13: 40 022 274–40 144 279; for FOXO4 X chromosome: 70 227 715–70 245 118 and for FOXO6 chromosome 1: 41 596 756–41 624 373 (all NCBI36). The Haploview program was also applied for the haplotype analysis of FOXO1. An additional haplotype analy- sis using a two-marker sliding window was performed for all three genes with the sliding window option implemented in the programme COCAPHASE, version 2.403 that is part of PHASE, version 2.1 (http://www.stat.washington.edu/stephens/; Dud- bridge, 2003). Single-point analysis was performed using PLINK v1.07 (Purcell et al., 2007). P < 0.05 was considered statistically significant. The a priori power calculation for rs2755209 in the German and Italian women sample was carried out with the PS Power and Sample Size Program (PS version 3.0.14; http:// medipe.psu.ac.th/episoft/pssamplesize), assuming an OR of 0.77 as observed in the Chinese study (Li et al., 2009) and the minor allele frequency (40%) characteristic of the CEU HapMap sample.
+
+Acknowledgments
+
+We thank all study participants for their cooperation and the laboratory personnel at the Institute of Clinical Molecular Biol- ogy and the Popgen biobank for excellent technical assistance.
+
+Funding
+
+This study was supported by the DFG Excellence Cluster mation at Interfaces’.
+
+Author contributions
+
+R.K., A.N., S.S. designed research; R.K. performed R.K., F.F., A.A.P, A.M. analyzed data; R.K, A.N. wrote paper.
+
+Hosaka T, Biggs
+
+rd WH, Tieu D, Boyer AD, Varki NM, Cavenee WK, Arden KC (
+
+) Disruption of forkhead transcription factor (FOXO) family members in mice reveals their functional diversification. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Kato M, Yuan H, Xu ZG, Lanting L, Li SL, Wang M, Hu MC, Reddy MA, Natarajan R (
+
+) Role of the Akt⁄Fo
+
+a pathway in TGF- beta
+
+-mediated mesangial cell dysfunction: a novel mechanism related to diabetic kidney disease. J. Am. Soc. Nephrol.
+
+,
+
+–
+
+Kenyon C (
+
+) The plasticity of aging: insights from long-lived mutants. Cell
+
+,
+
+–
+
+Kojima T, Kamei H, Aizu T, Arai Y, Takayama M, Nakazawa S, Ebiha- ra Y, Inagaki H, Masui Y, Gondo Y, Sakaki Y, Hirose N (
+
+) Association analysis between longevity in the Japanese population and polymorphic variants of genes involved in insulin and insulin- like growth factor
+
+signaling pathways. Exp. Gerontol.
+
+,
+
+–
+
+Kuningas M, Magi R, Westendorp RG, Slagboom PE, Remm M, van Heemst D (
+
+) Haplotypes in the human Foxo
+
+a and Foxo
+
+a genes; impact on disease and mortality at old age. Eur. J. Hum. Genet.
+
+,
+
+–
+
+Li Y, Wang WJ, Cao H, Lu J, Wu C, Hu FY, Guo J, Zhao L, Yang F, Zhang YX, Li W, Zheng GY, Cui H, Chen X, Zhu Z, He H, Dong B, Mo X, Zeng Y, Tian XL (
+
+) Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum. Mol. Genet.
+
+,
+
+–
+
+Marchini J, Howie B, Myers S, M
+
+ean G, Donnelly P (
+
+) A new multipoint method for genome-wide association studies by imputa- tion of genotypes. Nat. Genet.
+
+,
+
+–
+
+S (
+
+) No association between microsomal triglyceride transfer protein (MTP) haplotype and longevity in humans. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Pawlikowska L, Hu D, Huntsman S, Sung A, Chu C, Chen J, Joyner AH, Schork NJ, Hsueh WC, Reiner AP, Psaty BM, Atzmon G, Barzilai N, Cummings SR, Browner WS, Kwok PY, Ziv E (
+
+) Association of common genetic variation in the insulin⁄IGF
+
+signaling pathway with human longevity. Aging Cell
+
+,
+
+–
+
+Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MA, Bender D, Maller J, Sklar P, de Bakker PI, Daly MJ, Sham PC (
+
+) PLINK: a tool set for whole-genome association and population-based linkage analyses. Am. J. Hum. Genet.
+
+,
+
+–
+
+Soerensen M, Dato S, Christensen K, M
+
+ue M, Stevnsner T, Bohr VA, Christiansen L (
+
+) Replication of an association of variation in the FOXO
+
+A gene with human longevity using both case–control and longitudinal data. Aging Cell
+
+,
+
+–
+
+Stahl M, Dijkers PF, Kops GJ, Lens SM, Coffer PJ, Burgering BM, Medema RH (
+
+) The forkhead transcription factor Fo
+
+regu- lates transcription of p
+
+Kip
+
+and Bim in response to IL-
+
+J. Immu- nol.
+
+,
+
+–
+
+Tissenbaum HA, Guarente L (
+
+) Increased dosage of a sir-
+
+gene extends lifespan in Caenorhabditis elegans. Nature
+
+,
+
+–
+
+Wang M, Zhang X, Zhao H, Wang Q, Pan Y (
+
+) Fo
+
+gene family evolution in vertebrates. BMC Evol. Biol.
+
+,
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, Yano K, Masaki KH, Willcox DC, Rodriguez B, Curb JD (
+
+) FOXO
+
+A genotype is strongly associated with human longevity. Proc. Natl Acad. Sci. USA
+
+,
+
+–
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, Yano K, Masaki KH, Willcox DC, Rodriguez B, Curb JD (2008) FOXO3A genotype is strongly associated with human longevity. Proc. Natl Acad. Sci. USA 105, 13987–13992.

@@ -1,0 +1,895 @@
+Experimental Gerontology 39 (2004) 1095–1100
+
+www.elsevier.com/locate/expgero
+
+specific association of genetic variation in peroxisome proliferator-activated receptor (PPAR)g-2 with longevity
+
+Michelangela , Massimiliano , Maria Rosaria , Emilia , Fabiola Olivierib , Francesca Marchegianib , Claudio Franceschib , Giuseppe Paolissoa,*
+
+aDepartment of Geriatric Medicine and Metabolic Diseases, VI Divisione di Medicina Interna, II University of Piazza Miraglia 2, I-80138 Naples, Italy
+
+bDepartment of Experimental Pathology, University of Bologna, via S. Giacomo 12, 40126 Bologna,
+
+Received 21 November 2003; received in revised form 19 March 2004; accepted 23 March 2004
+
+Long-lived subjects have been shown to have peculiar anthropometric features (i.e. lower body mass index (BMI)) and metabolic parameters (i.e. improved insulin sensitivity). Life style and a genetic background potentially protective against the age-related metabolic derangement might contribute to such a particular phenotype.
+
+Peroxisome proliferator-activated receptor (PPAR)g-2 is an important regulator of adipose tissue metabolism, insulin sensitivity and inflammatory response. Thus, the potential role of genetic variability at Pro/Ala loci of PPARG gene on longevity was studied in 222 long- lived subjects and 250 aged subjects.
+
+We found a different Pro/Ala genotype frequency distribution between long-lived and aged men subjects, long-lived men having an increased frequency of Pro/Ala genotype (20 vs 8.5%); no differences was found when allele and genotype distribution of Pro/Ala gene polymorphism were analyzed in the two age group of women. Interestingly, subjects with Pro/Ala polymorphism had significantly lower BMI than Ala/Ala and Pro/Pro polymorphism.
+
+In conclusion, our study demonstrated that paraoxonase Pro/Ala gene polyporphism is associated with human longevity. Such an effect is probably due to the effect of Pro/Ala polymorphism on body composition and appears to be gender specific. q 2004 Elsevier Inc. All rights reserved.
+
+Keywords: PPARg; Pro12Ala gene polymorphism; Human longevity; Ageing body composition
+
+1. Introduction
+
+the anthropometric and metabolic derangement found in aged subjects (Paolisso et al., 1995).
+
+Life style and a genetic background potentially protec- tive against the age-related metabolic derangement might contribute to the lower body mass index (BMI) and improved insulin sensitivity found among long-lived subjects.
+
+Several recent intriguing studies in Caucasian long-lived subjects have highlighted the role of biological factors as determinant of ‘successful ageing’ (Paolisso, 2000) and have demonstrated that, starting from young to very old subjects, aging is associated with a progressive remodeling (Paolisso, 2000). Such age-remodeling mainly affects anthropometric, endocrine and metabolic factors such as plasma lipid profile and insulin action. So far, long-lived subjects have been shown to have peculiar anthropometric features and metabolic parameters. In particular, it has been shown that long-lived subjects are less prone to
+
+Peroxisome proliferator-activated receptors (PPARs) are members of the nuclear hormone receptor subfamily of ligand-dependent transcription factors (Spiegelman, 1998). At the molecular level, PPARs act by binding to the promoter region as a heterodimer with the receptor for 9-cis- retinoic acid, and these heterodimers regulate the transcrip- tion of genes involved in lipid and glucose metabolism (Kersten et al., 2000) There are currently three known subtypes of PPARs: PPARa, PPARd, and PPARg (Kersten et al., 2000). The isoform PPARg2 is mainly expressed in
+
+0531-5565/$ - see front matter q 2004 Elsevier Inc. All rights reserved. doi:10.1016/j.exger.2004.03.034
+
+M. Barbieri et al. / Experimental Gerontology 39 (2004) 1095–1100
+
+adipose tissue (Kersten et al., 2000) where it modulates the expression of target genes involved in adipocyte differen- tiation (Elbrecht et al., 1996) insulin sensitivity, and inflammatory processes (Lemberger et al., 1996a,b; Blanquart et al., 2003; Ricote et al., 1998, 1999; Plutzky, 2003). This receptor is also the target of the thiazolidine- dione class of insulin-sensitizing drugs that are used to treat insulin resistance (Olefsky, 2000).
+
+within normal range. According to American Diabetes Association criteria (Alberti and Zimmet, 1998), all subjects were neither diabetics nor affected by impaired fasting glucose. No subject used drugs which affects insulin secretion and/or action or plasma lipid level. In particular, long-lived subjects represented a group of carefully selected individuals free of major age-related diseases. After a clear explanation of the potential risk of the study, all subjects (as well as long-lived’s relatives) gave informed consent to participate into the study, which was approved by the Ethical Committee of our Institutions.
+
+3p25 (Beamer et al., 1997) and it contains nine exons (Fajas et al., 1997). Since most of the PPAR target genes in the adipose tissue are implicated in lipogenic pathways, including lipoprotein lipase, acyl-CoA synthase, and fatty acid transport protein, variations in the human PPAR2 gene have received much attention. To date, at least two naturally occurring mutations in this gene have been identified, which impair the function of PPAR2 (Deeb et al., 1998; Ristow et al., 1998). The CG mutation in exon B of the PPAR2 gene leads to the substitution of alanine for proline at codon 12 (Pro12Ala) (Deeb et al., 1998). The PPAR2 Ala allele has reduced ability to activate the transcription of PPAR2 target genes (Deeb et al., 1998).
+
+2.2. Analytical methods
+
+Anthropometric determinations (weight, height and BMI) were measured as previously reported (Paolisso et al., 1995). Plasma glucose was determined by the glucose oxidase method (Beckman Glucose Autoanalyzer, Fullerton, CA). After centrifugation plasma insulin (Sorin Biomedica, Milan Italy, intra-assay c.v. 3.1 þ 0.3%) were determined by radioimmunoassay.
+
+2.3. Genotype typing
+
+Interestingly, some, but not all, studies have indicated a role for this variant in the pathogenesis of obesity and obesity-associated insulin resistance (Deeb et al., 1998; Ristow et al., 1998; Rosmond et al., 2003a; Koch et al., 1999; Valve et al., 1999; Meirhaeghe et al., 2000; Evans et al., 2000; Altshuler et al., 2000; Clement et al., 2000; Hasstedt et al., 2001; Mancini et al., 1999; Beamer et al., 1998).
+
+A total of 472 individuals were genotypized for codon 12 Pro/Ala locus variability. DNA was extracted from white blood cells by phenol/clorophorm extraction, according to standard procedures (Sambrook et al., 1989).
+
+Genotyping of the CG sequence variation in exon B of PPARg gene was carried out by PCR restriction fragment length polymorphism. Genomic leukocyte DNA (200 ng in a final volume of 10 ml) was amplified by polymerase chain reaction (PCR) using the primers 5-GCC AAT TCA AGC CCA GTC-3 (upstream) and 5-GAT ATG TTT GCA GAC AGT GTA TCA GTG AAG GAA TCG CTT TCC G-3 (downstream), which introduce a BstUI restriction site only when the CG substitution at nucleotide 34 is present (Yen et al., 1997). The amplified product was 270 bp. The PCR conditions were as follows: an initial denaturation step at 94 8C for 3 min, followed by 35 cycles of denaturation at 94 8C for 15 s, annealing at 60 8C for 15 s, and extension at 72 8C for 30 s, with a final extension of 10 min at 72 8C. The PCR reaction product was digested at 60 8C for 3 hours with 5U of Bst UI (New England Biolabs, Beverly, MA, USA), generating two fragments of 227 and 43 bp, respectively, when the G allele is present. The fragments were separated on a 4% agarose gel.
+
+To investigate if the unusual metabolic quantitative phenotypic findings observed in long-lived subjects had a genetic component, the role of genetic variability at Pro/Ala loci of PPARG gene on longevity was studied.
+
+2.1. Subjects
+
+Four hundred and seventy two Caucasian subjects (307 women and 165 men, mean age 75 ^ 26 yrs), living in balance way in north, centrum and south Italy, volunteered for the study.
+
+Yashin et al., 1999), in order to assess the impact of Pro/Ala gene polymorphism on longevity, subjects were then subcategorized in two groups, by splitting the whole sample at the age of 85: healthy people aged ,85 years of age (n ¼ 250; mean age 55 ^ 21 yrs) were grouped under the denomination of ‘aged people’; healthy people aged from 86 to 109 yrs; (n ¼ 222; mean age 97 ^ 4), were collected in the group of ‘long-lived people’.
+
+2.4. Statistical analysis
+
+Insulin resistance (IR) was calculated according to the homeostasis model assessment (HOMA) (Matthews et al., 1985; Bonora et al., 2000): insulin resistance (IR) ¼ FI £ G/22.5, where FI is the fasting insulin (mU/ml) and G the fasting glucose (mmol/l). HOMA method has been recently validated to be a good index of insulin
+
+All subjects were contacted at home or in their and examined by physicians previously trained to a questionnaire that included cognitive and depression All subjects had liver, kidney, and thyroid function
+
+M. Barbieri et al. / Experimental Gerontology 39 (2004) 1095–1100
+
+resistance in subjects with broad range of insulin sensitivity (Matthews et al., 1985) and has a good correlation with the insulin-mediated glucose uptake calculated by euglycemic hyperinsulinemic glucose clamp (Bonora et al., 2000).
+
+Allele and genotype distribution of the PPARG Pro/Ala polymorphism in men ðn ¼ 165Þ
+
+Aged ðn ¼ 71Þ % Long lived ðn ¼ 94Þ % 88.7 79.8 8.5 20.2 2.8 - frequency 93.0 89.9 7.0 10.1
+
+To approximate normal distributions, plasma insulin and IR (HOMA) were logarithmically transformed and used as such in all calculations and back-transformed for result presentations.
+
+The difference in genotype frequency was analyzed by Chi square test. For investigating difference in allele frequency Fisher’s test was used.
+
+Analysis of variance (ANOVA) with Scheffe’s test was used for comparing BMI and HOMA among the genotype groups.
+
+x2 ¼ 6:72; df ¼ 2; p ¼ 0:035 for genotype distribution.
+
+observed was almost similar to those reported in previous studies among Caucasians.
+
+Statistical analyses were performed using SPSS software package. All metabolic parameters are presented as ^ means standard deviation (SD).
+
+The whole sample was then divided in two subgroups ‘aged people’ (median age 60 yrs) and ‘long-lived people’ (median age 99yrs). Gender ratio confirmed a prevalence of females in the two age group.
+
+As expected and in agreement with that previously reported in recent studies on Italian centenarians, long-lived subjects had a significantly lower BMI, fasting plasma glucose and insulin, higher HDL cholesterol and a preserved insulin action compared to aged subjects (Table 1).
+
+3. Results
+
+Clinical characteristics of study group are reported in Table 1. All subjects were old, not obese, in sufficient metabolic control with a greater proportion of female (Table 1).
+
+The allele frequency and genotype distribution of Pro/Ala gene polymorphism did not differ between long- lived and aged subjects (Pro/Pro 82.9 vs 85.6%; Pro/Ala 53.6 vs 46.4%; Ala/Ala 0.5 vs 1.6%; x2 ¼ 2: 77; df ¼ 2; p ¼ 0: 25). Indeed, due to the different male/female proportion in the two age groups, genders were analyzed separately. As shown in Table 2 aged and long-lived men subjects had similar Ala allele frequency, whilst the frequency of Pro/Ala genotype was significantly increased in long-lived men (20%). As shown in Table 3, no differences was found when allele and genotype distribution of Pro/Ala gene polymorphism were analyzed in the two age group of women.
+
+According to gender ratio, female had a significantly ^ ^ higher plasma triglycerides (105 50 vs 94 40 mg/dl; p ¼ 0: 027) and cholesterol (202 ^ 44 vs 183 ^ 36; : p , 0 01) levels compared to male subjects. Indeed, no ^ ^ differences in plasma HDL (56.6 16.0 vs 53.8 15.5 mmol/ml; p ¼ 0: 10) level, BMI (24.2 ^ 3.4 vs 24.7 ^ 2.5; p ¼ 0: 09) and IR (HOMA) index (2.18 ^ 1.40 vs 2.06 ^ 1.13; p ¼ 0: 41) were found.
+
+As far as Pro/Ala gene polymorphism is concerned, the frequency of the Ala allele in the whole population, was 8.4%. The frequency of Pro/Pro, Pro/Ala and Ala/Ala genotypes was 84.3, 14.6 and 1.1%, respectively. The observed genotype and allele distribution were in Hardy– Weinberg equilibrium ðp . 0: 05Þ: The genotypic frequency
+
+The impact of Pro/Ala substitution in exon B of PPARG gene on BMI and insulin resistance degree was also evaluated in a subgroup of the whole of subjects ðn ¼ 414Þ: Comparing insulin resistance degree among the three genotype groups, there was a trend for individuals with Pro/Ala genotype to have lower IR degree
+
+characteristics of study population ðn ¼ 472Þ
+
+All Aged p Long lived ðn ¼ 472Þ ðn ¼ 250Þ ðn ¼ 222Þ Age (yrs) 75 ^ 26 55 ^ 21 0.001 97 ^ 4 Sex (male/female) 165/307 71/179 94/128* BMI (kg/m2) 24.4 ^ 3.2 25.1 ^ 2.6 0.001 23.2 ^ 3.6 Glucose (mmol/dl) 5.4 ^ 1.4 5.6 ^ 1.3 0.001 5.0 ^ 1.5 Insulin (mU/ml) 8.6 ^ 4.0 9.0 ^ 3.6 0.001 7.9 ^ 4.5 Triglycerides (mg/dl) 102 ^ 47 100 ^ 45 NS 103 ^ 50 Total cholesterol 196 ^ 43 198 ^ 42 NS 193 ^ 43 (mg/dl) HDL cholesterol 55.8 ^ 15.9 54.4 ^ 15.7 0.020 58.2 ^ 15.9 (mg/dl) HOMA (IR) 2.1 ^ 1.3 2.3 ^ 1.4 0.001 1.7 ^ 1.1
+
+Table 3
+
+Allele and genotype distribution of the PPARG Pro/Ala polymorphism in women ðn ¼ 307Þ
+
+Aged ðn ¼ 179Þ % Long lived ðn ¼ 128Þ % Pro/Pro 84.4 85.2 Pro/Ala 14.5 14.1 Ala/Ala 1.1 0.8 Allele frequency Pro 91.6 92.2 Ala 8.4 7.8
+
+Data are mean ^ SD. *x2 ¼ 5:69; df ¼ 1; p ¼ 0:017:
+
+x2 ¼ 0:10; df ¼ 2; p ¼ NS for genotype distribution.
+
+M. Barbieri et al. / Experimental Gerontology 39 (2004) 1095–1100
+
+BMI (kg/m’)35302520‘ialPro/Ala Ala/AlaPro/Ala polymorohism of PPARG? aene
+
+et al., 2000; Hasstedt et al., 2001; Mancini et al., 1999; Beamer et al., 1998).
+
+Previous studies, investigating the association of Pro/Ala with BMI and insulin sensitivity have inconsistent findings. In fact, Ala allele has been associated either with a higher BMI (Koch et al., Mancini et al., 1999; Beamer et al., 1998), or with BMI (Fajas et al., 1997; Deeb et al., 1998), while studies have found no association (Rosmond et al., Altshuler et al., 2000). Likewise, a beneficial effect insulin sensitivity is reported in some (Deeb et al., 1998; et al., 2001) but not in all population (Mancini al., 1999). Reasons for such discrepancy might be an statistical power, ethnic differences and genetic Furthermore, it is possible that Pro/Ala variant produces a characteristic phenotype only a certain genetic background.
+
+Pro/Ala polymorphism of PPARG2 gene
+
+1. Body mass index among the three different genotype groups. Variation of the group means: p ¼ 0:039:
+
+In our study, the Pro/Ala genotype has been found to be associated with lower BMI and with a trend towards lower IR (HOMA) degree. Nevertheless, some caution in data interpretation should be kept in mind due to the large SD of BMI in all study groups. Indeed, we demonstrated that the BMI difference as the trend and not as real difference among the group was significant, thus supporting the information that subjects grouped under Ala/Ala genotype were at the higher ‘risk’ to have higher BMI.
+
+^ ^ ^ (1.82 1.0 vs 2.19 1.3 and 2.5 0.6 for pro/pro and ala/ala genotype, respectively); the differences, however, did not reach statistical significance ðp ¼ 0: 12Þ: Indeed, subjects with Pro/Ala polymorphism had significantly lower BMI than Ala/Ala and Pro/Pro polymorphism (Fig. 1). Categoris- ing subject in aged and long-lived subjects the association between Pro/Ala genotype and BMI was significant in men but not in women (data not shown)
+
+It is unclear why a significant association with BMI could be demonstrated only in men, although gender differences in the association of PPARG gene polymorphism with dyslipidemia (Zietz et al., 2002), insulin sensitivity and BMI have been previously documented (Deeb et al., 1998). Interestingly, the greater part of the association studies evaluating the role of PPARG polymorphism have been performed only in men and not in women (Ek et al., 1999; Schneider et al., 2002; Rosmond et al., 2003b).
+
+4. Discussion
+
+Our study demonstrates that genetic variation in peroxi- some proliferator-activated receptor (PPAR)g-2 is associ- ated with human longevity. Such an effect is probably due to the effect of Pro/Ala polymorphism on body composition and appears to be gender specific. In fact, a different Pro/Ala genotype frequency distribution between long-lived and aged men subjects has been found, having long-lived men an increased frequency of Pro/Ala genotype.
+
+Interestingly, the increased proportion of Pro/Ala genotype found in long-lived men suggest that those individuals who are genetically predisposed to have lower BMI are advantageous in reaching the extreme limits of lifespan. Our results are strengthened by the evidence of an higher prevalence of Pro/Ala genotype among long-lived subjects even after a more refined age categorization (long lived, bottom 50% of aged, top 50% of aged) with no significant difference among the two subgroups of aged subjects (data not shown).
+
+Peroxisome proliferator-activated receptor (PPAR)g-2 is an important regulator of adipose tissue metabolism, insulin sensitivity and inflammatory response (Elbrecht et al., 1996; Lemberger et al., 1996a,b; Blanquart et al., 2003; Ricote et al., 1998, 1999; Plutzky, 2003). Interestingly, PPAR- gamma ligands reverse the major defect of the insulin resistance syndrome and have important effects that, inhibit atherosclerosis, improve endothelial cell function and attenuate inflammation (Hsueh and Law, 2003).
+
+The central role of obesity as a major risk factor for a number of age-related disorders including hypertension, coronary artery disease (CAD), dyslipidemias, and type 2 diabetes may explain the effect of PPARg locus on survival.
+
+The common Pro/Ala polymorphism occurring in the PPARG-2 exon B, which causes a reduction in the transcriptional activity of PPARg-2 (Deeb et al., 1998), has been extensively investigated for association with obesity and type 2 diabetes in different populations (Deeb et al., 1998; Ristow et al., 1998; Rosmond et al., 2003a; Koch et al., 1999; Valve et al., 1999; Meirhaeghe et al., 2000; Evans et al., 2000; Altshuler et al., 2000; Clement
+
+Our results suggest that survival selection through Pro/Ala locus is differentially affected in male and female. Indeed, the sex specific association of longevity with alleles or genotypes of several gene related to risk factors for a variety of age-related diseases, including PPARG genotype is not unexpected on the basis of previous studies on the genetics of longevity in centenarians
+
+M. Barbieri et al. / Experimental Gerontology 39 (2004) 1095–1100
+
+et al., 2001a; Ivanova et al., 1998). In fact, despite the fact that several genes have been found associated with long- evity in both genders (Puca et al., 2001; Schachter et al., 1994), different finding in male and female have been also observed in previous gene/longevity association studies (regarding tyrosine hydroxilase, mithocondrial DNA hap- logroups and IL-6 gene), pointing out that gender is a major variable in the genetics of longevity and suggesting that men and women follow different strategies to reach longevity. To this regard, it has been hypothesized that female centenar- ians are more likely to reach 100 years of age because of a more favorable environmental condition and a healthier life style (Bonafe` et al., 2001a).
+
+Ala variant in the peroxisome proliferator activated receptor g
+
+with obesity in two Caucasian population. Diabetes
+
+,
+
+–
+
+Blanquart, C., Barbier, O., Fruchart, J.C., Staels, B., Glineur, C., Peroxisome proliferator-activated receptors: regulation of tional activities and roles in inflammation. J. Steroid Biochem. Biol.
+
+(
+
+–
+
+),
+
+–
+
+Bonafe`, M., Olivieri, F., Cavallone, L., Giovagnetti, S., Marchegiani, Cardelli, M., Pieri, C., Marra, M., Antonicelli, R., Rosmarie, L., M.R., Paolisso, G., Monti, D., Franceschi, C.,
+
+a. A dependent genetic predisposition to produce high levels of IL-
+
+detrimental for longevity. Eur. J. Immunol.
+
+,
+
+–
+
+Bonafe`, M., Cardelli, M., Marchegiani, F., Cavallone, L., Giovagnetti, Olivieri, F., Lisa, R., Pieri, C., Franceschi, C.,
+
+b. Increase homozygosity in centenarians revealed by a new inter-Alu technique. Exp. Gerontol.
+
+(
+
+),
+
+–
+
+Bonora, E., Targher, G., Alberiche, M., Bonadonna, R.C., Saggiani, Zenere, M.B., Monauni, T., Muggeo, M.,
+
+Homeostasis assessment closely mirrors the glucose clamp technique in assessment of insulin sensitivity. Studies in subjects with degrees of glucose tolerance and insulin sensitivity. Diabetes Care
+
+–
+
+Caruso, C., Candore, G., Colonna Romano, G., Lio, D., Bonafe, Valensin, S., Franceschi, C.,
+
+HLA, aging, and longevity: a reappraisal. Hum. Immunol.
+
+(
+
+),
+
+–
+
+Chen, Y.J., Vortmeyer, A., Zhuang, Z., Huang, S., Jensen, R.T.,
+
+of heterozygosity of chromosome
+
+q in gastrinomas: occurrence prognostic significance. Cancer Res.
+
+(
+
+),
+
+–
+
+Clement, K., Hercberg, S., Passinge, B., Galan, P., Varroud-Vial, Shuldiner, A.R., Beamer, B.A., Charpentier, G., Guy-Grand, Froguel, P., Vaisse, C.,
+
+The Pro
+
+Gln and Pro
+
+Ala gene mutations in obesity and type
+
+diabetes. Int. J. Obes. Metab. Disord.
+
+,
+
+–
+
+De Benedictis, G., Rose, G., carrieri, G., De Luca, M., Falcone, Passarino, G., Bonafe`, M., Monti, D., Baggio, G., Bertolini, S., D., Mattace, R., Franceschi, C.,
+
+Mithocondrial DNA variants are associated with succesful ageing and longevity in FASEB J.
+
+,
+
+–
+
+Deeb, S.S., Fajas, L., Nemoto, M., Pihlajamaki, J., Mykkanen, L., J., Laakso, M., Fujimoto, W., Auwerx, J.,
+
+A substitution in PPARgamma
+
+associated with decreased activity, lower body mass index and improved insulin Nat. Genet.
+
+(
+
+),
+
+–
+
+Ek, J., Urhammer, S.A., Sorensen, T.I., Andersen, T., Auwerx, J., O.,
+
+Homozygosity of the Pro
+
+Ala variant of the proliferation-activated receptor-gamma
+
+(PPAR-gamma
+
+): modulating effects on body mass index in obese and lean men. Diabetologia
+
+(
+
+),
+
+–
+
+Elbrecht, A., Chen, Y., Cullinan, C.A., Hayes, N., Leibowitz, M., D.E., Berger, J.,
+
+Molecular cloning, expression and ation of human peroxisome proliferator activated receptors gamma and gamma
+
+Biochem. Biophys. Res. Commun.
+
+,
+
+–
+
+Ellerhorst, J.A., Hildebrand, W.H., Cavett, J.W., Fernandez-Vina, Hodges, S., Poindexter, N., Fischer, H., Grimm, E.A.,
+
+zygosity or homozygosity for
+
+HLA class II haplotypes favorable outcomes for renal cell carcinoma treated with therapy. J. Urol.
+
+(
+
+),
+
+–
+
+Evans, D., Mann, W.A., Heer, J., Michel, U., Wendt, D., Kortner, B., A., Beisiegel, U.,
+
+Variation in the gene for human proliferator activated receptor (PPAR) does not play a major role in development of morbid obesity. Int. J. Obes. Relat. Metab. Disord.
+
+–
+
+Fajas, L., Auboeuf, D., Raspe, E., Schoonjans, K., Lefebvre, A.M., R., Najib, J., Laville, M., Fruchart, J.C., Deeb, S., Vidal-Puig, A., J., Briggs, M.R., Staels, B., Vidal, H., Auwerx, J.,
+
+Intriguingly, the fact that longevity is associated with an increased heterozygosity at PPARG locus is in agreement with previous finding suggesting a survival advantage for heterozygous (Gerkins et al., 1974; Altukhov and Sheremet’eva, 2000; Penn et al., 2002; Ellerhorst et al., 2003). To this regard, heterozygosity at the MHC, the highly polymorphic loci that control immunological recognition of pathogens, has been found associated with significant prolongation of survival (Penn et al., 2002; Ellerhorst et al., 2003). Indeed, loss of heterozygosity is frequent in a number of non-endocrine tumors and in a few endocrine tumors and its presence can correlate with tumor aggres- siveness and survival. (Chen et al., 2003; Ho et al., 2002). Naturally, caution must be exercised in interpreting these novel findings. In fact, some studies did not confirm a survival advantage for heterozygotes (Caruso and Candore, 2000), whereas others suggested that increased homozyg- osity contributes to human longevity (Bonafe` et al., 2001b).
+
+In conclusion, our study demonstrated that paraoxonase Pro/Ala gene polyporphism is associated with human longevity. Such an effect is probably due to the effect of Pro/Ala polymorphism on body composition and appears to be gender specific.
+
+Alberti, K.G.M.M., Zimmet, P.Z., for the WHO Consultation,
+
+Definition, diagnosis and classification of diabetes mellitus and its complications. Part
+
+: diagnosis and classification of diabetes mellitus. Provisional report of a WHO consultation. Diabet. Med.
+
+,
+
+–
+
+Altshuler, D., Hirschhorn, J.N., Klannemark, M., Lindgren, C.M., Vohl, M.C., Nemesh, J., Lane, C.R., Schaffner, S.F., Bolk, S., Brewer, C., Tuomi, T., Gaudet, D., Hudson, T.J., Daly, M., Groop, L., Lander, E.S.,
+
+The common PPAR Pro
+
+Ala polymorphism is associated with decreased risk of type
+
+diabetes. Nat. Genet.
+
+,
+
+–
+
+Altukhov, Yu.P., Sheremet’eva, V.A.,
+
+Genomic heterozygosity and human longevity. Dokl. Biol. Sci.
+
+(
+
+–
+
+),
+
+–
+
+Beamer, B.A., Negri, C., Yen, C.J., Gavrilova, O., Rumberger, J.M., Durcan, M.J., Yarnall, D.P., Hawkins, A.L., Griffin, C.A., Burns, D.K., Roth, J., Reitman, M., Shuldiner, A.R.,
+
+Chromosomal localiz- ation and partial genomic structure of the human peroxisome proliferator activated receptor-gamma (
+
+PAR gamma) gene.
+
+(
+
+)
+
+–
+
+Penn, D.J., Damjanovich, K., Potts, W.K.,
+
+MHC heterozygosity confers a selective advantage against multiple-strain infections. Proc. Natl Acad. Sci. USA
+
+(
+
+),
+
+–
+
+Plutzky, J.,
+
+The potential role of peroxisome proliferator-activated receptors on inflammation in type
+
+diabetes mellitus and athero- sclerosis. Am J Cardiol.
+
+(
+
+A),
+
+J–
+
+J. Puca, A.A., Daly, M.J., Brewster, S.J., Matise, T.C., Barrett, J., Shea- Drinkwater, M., Kang, S., Joyce, E., Nicoli, J., Benson, E., Kunkel, L.M., Perls, T.,
+
+A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome
+
+Proc. Natl Acad. Sci. USA
+
+(
+
+),
+
+–
+
+Ricote, M., Li, A.C., Wilson, T.M., Kelly, C.J., Glass, C.K.,
+
+The peroxisome proliferator-activated receptor (PPARgamma) is a negative regulator of macrophage activation. Nature
+
+,
+
+–
+
+Ricote, M., Huang, J.T., Welch, J.S., Glass, C.K.,
+
+The peroxisome proliferator-activated receptor(PPARgamma) as a regulator of mono- cyte/macrophage function. J. Leukoc. Biol.
+
+(
+
+),
+
+–
+
+Ristow, M., Muller-Wieland, D., Pfeiffer, A., Krone, W., Kahn, C.R.,
+
+Obesity associated with a mutation in a genetic regulator of adipocyte differentiation. N. Engl. J. Med.
+
+(
+
+),
+
+–
+
+Rosmond, R., Chagnon, M., Bouchard, C.,
+
+a. The Pro
+
+Ala PPARgamma
+
+gene missense mutation is associated with obesity and insulin resistance in Swedish middle-aged men. Diabetes Metab. Res. Rev.
+
+(
+
+),
+
+–
+
+Rosmond, R., Chagnon, M., Bouchard, C.,
+
+b. The Pro
+
+Ala PPARgamma
+
+gene missense mutation is associated with obesity and insulin resistance in Swedish middle-aged men. Diabetes Metab. Res. Rev.
+
+(
+
+),
+
+–
+
+Sambrook, J., Fritsch, E.F., Maniatis, T. (Eds.),
+
+Molecular Cloning: A Laboratory Manual,
+
+nd ed., Cold Spring Harbor laboratory Press, Cold Spring Harbor, New York. Schachter, F., Faure-Delanef, L., Guenot, F., Rouger, H., Froguel, P., Lesueur-Ginot, L., Cohen, D.,
+
+Genetic associations with human longevity at the APOE and ACE loci. Nat. Genet.
+
+(
+
+),
+
+–
+
+Schneider, J., Kreuzer, J., Hamann, A., Nawroth, P.P., Dugi, K.A.,
+
+The proline
+
+alanine substitution in the peroxisome proliferator- activated receptor-gamma
+
+gene is associated with lower lipoprotein lipase activity in vivo. Diabetes
+
+(
+
+),
+
+–
+
+Spiegelman, B.M.,
+
+PPARg: adipogenic regulator and thiazolidine- dione receptor. Diabetes
+
+,
+
+–
+
+Thatcher, A.R., Kannisto, V., Vaupel, J.W.,
+
+The Forces of Mortality at Age
+
+to
+
+, Odense Monographs on Population Aging, vol.
+
+Odence University Press. Valve, R., Sivenius, K., Miettinen, R., Pihlajamaki, J., Rissanen, A., Deeb, S.S., Auwerx, J., Uusitupa, M., Laakso, M.,
+
+Two polymorphisms in the peroxisome proliferator-activated receptor-gene are associated with severe overweight among obese women. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Yashin, A.I., De Benedictis, G., Vaupel, J.W., Tan, Q., Andreev, K.F., Iachine, I.A., Bonafe`, M., De Luca, M., Valensin, S., Carotenuto, L., Franceschi, C.,
+
+Genes, demography and life span: the contribution of demographic data and genetic studies on ageing and longevity. Am. J. Hum. Genet.
+
+(
+
+),
+
+–
+
+Yen, C.J., Beamer, B.A., Negri, C., Silver, K., Brown, K.A., Yarnall, D.P., Burns, D.K., Roth, J., Shuldiner, A.R.,
+
+Molecular scanning of the human peroxisome proliferator activated receptor gamma (
+
+PAR gamma) gene in diabetic Caucasians: identification of a Pro
+
+Ala PPAR gamma
+
+missense mutation. Biochem. Biophys. Res. Commun.
+
+(
+
+),
+
+–
+
+Zietz, B., Barth, N., Spiegel, D., Schmitz, G., Scholmerich, J., Schaffler, A.,
+
+A Pro
+
+Ala polymorphism in the peroxisome proliferator- activated receptor-gamma
+
+(PPARgamma
+
+) is associated with higher levels of total cholesterol and LDL-cholesterol in male caucasian type
+
+diabetes patients. Exp. Clin. Endocrinol. Diabetes
+
+(
+
+),
+
+–
+
+M. Barbieri et al. / Experimental Gerontology 39 (2004) 1095–1100
+
+The organization, promoter analysis, and expression of the human PPARgamma gene. J. Biol. Chem.
+
+(
+
+),
+
+–
+
+Franceschi, C., Motta, L., Valensin, S., Rapisarda, R., Franzone, A., Berardelli, M., Motta, M., Monti, D., Bonafe`, M., Ferrucci, L., Deiana, L., Pes, G.M., Carru, C., Desole, M.S., Barbi, C., Sartoni, G., Gemelli, C., Lescai, F., Olivieri, F., Marchegiani, F., Cardelli, M., Cavallone, L., Gueresi, P., Cossarizza, A., Troiano, L., Pini, G., Sansoni, P., Passeri, G., Lisa, R., Spazzafumo, L., Amadio, L., Giunta, S., Stecconi, R., Morresi, R., Viticchi, C., Mattace, R., De Benedictis, G., Baggio, G.,
+
+Do men and women follow different trajectories to reach extreme longevity? Aging Clin. Exp. Res.
+
+,
+
+–
+
+Gerkins, V.R., Ting, A., Menck, H.T., Casagrande, J.T., Terasaki, P.I., Pike, M.C., Henderson, B.E.,
+
+HLA heterozygosity as a genetic marker of long term survival. J. Natl Cancer Inst.
+
+,
+
+–
+
+Hasstedt, S.J., Ren, Q.-F., Teng, K., Elbein, S.C.,
+
+Effect of the peroxisome proliferator-activated receptor-
+
+Pro
+
+Ala variant on obesity,glucose homeostasis, and bloodpressurein membersof familial Type
+
+diabetic kindreds. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Ho, W.L., Chang, J.W., Tseng, R.C., Chen, J.T., Chen, C.Y., Jou, Y.S., Wang, Y.C.,
+
+Loss of heterozygosity at loci of candidate tumor suppressor genes in microdissected primary non-small cell lung cancer. Cancer Detect. Prev.
+
+(
+
+),
+
+–
+
+Hsueh, W.A., Law, R.,
+
+The central role of fat and effect of peroxisome proliferator-activated receptor-gamma on progression of insulin resistance and cardiovascular disease. Am. J. Cardiol.
+
+(
+
+A),
+
+J–
+
+J. Ivanova, R., Henon, N., Lepage, V., Charron, D., Vicaut, E., Schachter, F.,
+
+HLA-DR alleles display sex-dependent effects on survival and discriminate between individual and familial longevity. Hum. Mol. Genet.
+
+(
+
+),
+
+–
+
+Kersten, S., Desvergne, B., Wahli, W.,
+
+Roles of PPARs in health and diseases. Nature
+
+,
+
+–
+
+Koch, M., Rett, K., Maerker, E., Volk, A., Haist, K., Deninger, M., Renn, W., Haring, H.U.,
+
+The PPAR
+
+amino acid polymorphism Pro
+
+Ala is prevalent in offspring of type II diabetic patients and is associated to increased insulin sensitivity in a subgroup of obese subjects. Diabetologia
+
+,
+
+–
+
+Lemberger, T., Braissant, O., Juge-Aubry, C., Keller, H., Saladin, R., Staels, B., Auwerx, J., Burger, A.G., Meier, C.A., Wahli, W.,
+
+a. PPAR tissue distribution and interactions with other hormone-signaling pathways. Ann. N. Y. Acad. Sci.
+
+,
+
+–
+
+Lemberger, T., Desvergne, B., Wahli, W.,
+
+b. Peroxisome proliferator- activated receptors: a nuclear receptor signaling pathway in lipid physiology. Annu. Rev. Cell Dev. Biol.
+
+,
+
+–
+
+Mancini, F.P., Vaccaro, O., Sabatino, L., Tufano, A., Rivellese, A.A., Riccardi, G., Colantuoni, V.,
+
+Pro
+
+Ala substitution in the peroxisome proliferator-activated receptor g
+
+is not associated with type
+
+diabetes. Diabetes
+
+,
+
+–
+
+Matthews, D.R., Hosker, J.P., Rudenski, A.S., Naylor, B.A., Treacher, D.F., Turner, R.C.,
+
+Homeostasis model assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man. Diabetologia
+
+,
+
+–
+
+Meirhaeghe, A., Fajas, L., Helbecque, N., Cottel, D.,
+
+Impact of the peroxisome proliferator activated receptor
+
+Pro
+
+Ala polymorphism on adiposity, lipids and non-insulin-dependent diabetes mellitus. Int. J. Obes. Relat. Metab. Disord.
+
+,
+
+–
+
+Olefsky, J.M.,
+
+Treatment of insulin resistance with peroxisome proliferator-activated receptor gamma agonists. J. Clin. Invest.
+
+(
+
+),
+
+–
+
+Paolisso, G., Gambardella, A., Balbi, V., Ammendola, S., D’Amore, A., Varricchio, M.,
+
+Body composition, body fat distribution and resting metabolic rate in healthy centenarians. Am. J. Clin. Nutr.
+
+,
+
+–
+
+Paolisso, G., Barbieri, M., Bonafe’, M., Franceschi, C.,
+
+Metabolic age remodeling: the lessons from centenarians. Eur. J. Clin. Invest.
+
+(
+
+),
+
+–
+
+Penn, D.J., Damjanovich, K., Potts, W.K.,
+
+MHC heterozygosity confers a selective advantage against multiple-strain infections. Proc. Natl Acad. Sci. USA
+
+(
+
+),
+
+–
+
+Plutzky, J.,
+
+The potential role of peroxisome proliferator-activated receptors on inflammation in type
+
+diabetes mellitus and athero- sclerosis. Am J Cardiol.
+
+(
+
+A),
+
+J–
+
+J. Puca, A.A., Daly, M.J., Brewster, S.J., Matise, T.C., Barrett, J., Shea- Drinkwater, M., Kang, S., Joyce, E., Nicoli, J., Benson, E., Kunkel, L.M., Perls, T.,
+
+A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome
+
+Proc. Natl Acad. Sci. USA
+
+(
+
+),
+
+–
+
+Ricote, M., Li, A.C., Wilson, T.M., Kelly, C.J., Glass, C.K.,
+
+The peroxisome proliferator-activated receptor (PPARgamma) is a negative regulator of macrophage activation. Nature
+
+,
+
+–
+
+Ricote, M., Huang, J.T., Welch, J.S., Glass, C.K.,
+
+The peroxisome proliferator-activated receptor(PPARgamma) as a regulator of mono- cyte/macrophage function. J. Leukoc. Biol.
+
+(
+
+),
+
+–
+
+Ristow, M., Muller-Wieland, D., Pfeiffer, A., Krone, W., Kahn, C.R.,
+
+Obesity associated with a mutation in a genetic regulator of adipocyte differentiation. N. Engl. J. Med.
+
+(
+
+),
+
+–
+
+Rosmond, R., Chagnon, M., Bouchard, C.,
+
+a. The Pro
+
+Ala PPARgamma
+
+gene missense mutation is associated with obesity and insulin resistance in Swedish middle-aged men. Diabetes Metab. Res. Rev.
+
+(
+
+),
+
+–
+
+Rosmond, R., Chagnon, M., Bouchard, C.,
+
+b. The Pro
+
+Ala PPARgamma
+
+gene missense mutation is associated with obesity and insulin resistance in Swedish middle-aged men. Diabetes Metab. Res. Rev.
+
+(
+
+),
+
+–
+
+Sambrook, J., Fritsch, E.F., Maniatis, T. (Eds.),
+
+Molecular Cloning: A Laboratory Manual,
+
+nd ed., Cold Spring Harbor laboratory Press, Cold Spring Harbor, New York. Schachter, F., Faure-Delanef, L., Guenot, F., Rouger, H., Froguel, P., Lesueur-Ginot, L., Cohen, D.,
+
+Genetic associations with human
+
+Lesueur-Ginot, L., Cohen, D.,
+
+Genetic associations with human longevity at the APOE and ACE loci. Nat. Genet.
+
+(
+
+),
+
+–
+
+Schneider, J., Kreuzer, J., Hamann, A., Nawroth, P.P., Dugi, K.A.,
+
+The proline
+
+alanine substitution in the peroxisome proliferator- activated receptor-gamma
+
+gene is associated with lower lipoprotein lipase activity in vivo. Diabetes
+
+(
+
+),
+
+–
+
+Spiegelman, B.M.,
+
+PPARg: adipogenic regulator and thiazolidine- dione receptor. Diabetes
+
+,
+
+–
+
+Thatcher, A.R., Kannisto, V., Vaupel, J.W.,
+
+The Forces of Mortality at Age
+
+to
+
+, Odense Monographs on Population Aging, vol.
+
+Odence University Press. Valve, R., Sivenius, K., Miettinen, R., Pihlajamaki, J., Rissanen, A., Deeb, S.S., Auwerx, J., Uusitupa, M., Laakso, M.,
+
+Two polymorphisms in the peroxisome proliferator-activated receptor-gene are associated with severe overweight among obese women. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Yashin, A.I., De Benedictis, G., Vaupel, J.W., Tan, Q., Andreev, K.F., Iachine, I.A., Bonafe`, M., De Luca, M., Valensin, S., Carotenuto, L., Franceschi, C.,
+
+Genes, demography and life span: the contribution of demographic data and genetic studies on ageing and longevity. Am. J. Hum. Genet.
+
+(
+
+),
+
+–
+
+Yen, C.J., Beamer, B.A., Negri, C., Silver, K., Brown, K.A., Yarnall, D.P., Burns, D.K., Roth, J., Shuldiner, A.R.,
+
+Molecular scanning of the human peroxisome proliferator activated receptor gamma (
+
+PAR gamma) gene in diabetic Caucasians: identification of a Pro
+
+Ala PPAR gamma
+
+missense mutation. Biochem. Biophys. Res. Commun.
+
+(
+
+),
+
+–
+
+Zietz, B., Barth, N., Spiegel, D., Schmitz, G., Scholmerich, J., Schaffler, A.,
+
+A Pro
+
+Ala polymorphism in the peroxisome proliferator- activated receptor-gamma
+
+(PPARgamma
+
+) is associated with higher levels of total cholesterol and LDL-cholesterol in male caucasian type
+
+diabetes patients. Exp. Clin. Endocrinol. Diabetes
+
+(
+
+),
+
+–

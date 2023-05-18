@@ -1,0 +1,679 @@
+a b c e f g P. Reiner , Paula Diehr , Warren S. Browner , Stephen E. Humphries , , , h h i h j k Nancy S. Jenny , Mary Cushman , Russell P. Tracy , Jeremy Walston , , , , c l m l a d e Thomas Lumley , Anne B. Newman , Lewis H. Kuller , Bruce M. Psaty
+
+16 September 2004; received in revised form 6 December 2004; accepted 10 January Available online 19 February 2005
+
+Abstract
+
+Inflammatory response genes may influence life span or quality at advanced ages. Using data from the population-based cardiovascular study (CHS) cohort, we examined the associations between promoter polymorphisms of several inflammation and thrombosis genes longevity. We ascertained genotypes for interleukin (IL)-6 −174 G/C, (cid:1)-fibrinogen −455 G/A, plasminogen activator inhibitor (PAI)-1 4G/5G, and thrombin-activatable fibrinolysis inhibitor (TAFI) −438 G/A in 2224 men and women ≥65 years old at baseline. During 10 of follow-up, men with the TAFI −438 A/A genotype had decreased mortality due to all causes, and lived, on average, 0.9 more years life, or 1.1 more years of healthy life, than men with the −438 G allele. The effects of TAFI −438 G/A in women were smaller and not significant. PAI-1 4G/4G genotype appeared to be associated with lower non-cardiovascular mortality in men, but with greater mortality in women. In exploratory analyses, we observed a possible interaction among anti-inflammatory drugs, interleukin-6 C/C genotype, and longevity. These findings suggest that modulators of fibrinolytic activity may have a generalized influence on aging, merit further investigation in studies of genetic determinants of human longevity.
+
+Thrombin-activatable fibrinolysis inhibitor; Longevity; Inflammation; Fibrinolysis; Promoter polymorphism
+
+Genetic factors appear to influence mortality, even at ad- vanced ages [1,2]. Inflammation, an evolutionarily conserved stress response, may reduce the length or quality of life in older adults by affecting adaptation to stressful events, chronic diseases, or the rate of aging. In case–control studies
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+provide complete mortality follow-up. For the current anal- ysis, we used complete 10-year follow-up data on all par- ticipants (corresponding to June 2000 for the original CHS cohort and June 2002 for the second CHS cohort).
+
+of exceptional survival, inflammation and thrombosis gene promoter variants were associated with longevity, often, in a − sex-specific manner [3–5]. For example, the 174 C allele of interleukin-6 was more common among male, but not female, centenarians,comparedtoyounger,sex-matchedcontrols[4]. These retrospective studies of longevity have several limita- tions. The comparison group is sampled from another birth cohort, whose environmental exposures may differ from the long-lived case group. In addition, observed differences in case–control genotype or allele frequency may reflect sur- vival due to association with a single, common age-related condition such as coronary heart disease, rather than any in- fluence on the aging process per se.
+
+Primary endpoints for this analysis included “years of life”, as well as “years of healthy life”, defined as the num- ber of years the person reported being in excellent, very good or good health in the 10 years after enrolment [7,8]. This outcome was derived from standard information on self-rated health status (excellent/very good/good/fair/poor) collected at baseline and every 6 months during follow- up. Missing data were imputed by linear interpolation of the available longitudinal data recorded 6 months before and after the missing value [7,8]. For the 3% of subjects whose final 10-year follow-up measurement was still miss- ing, we used the ‘last observation carried forward’ method of imputation.
+
+Longitudinal cohort studies may allow more accurate as- sessment of genetic influences on longevity because both cause-specific and overall mortality can be ascertained. We therefore performed an analysis of genotype data available £ for promoter polymorphisms of interleukin-6, -fibrinogen, PAI-1, and TAFI on a sub-sample of participants from the car- diovascular health study (CHS; for details see Appendix A), a U.S. cohort of white and black men and women 65 years and older. After 10 years of follow-up, we assessed sex-specific associations of these gene variants with outcomes that reflect overall longevity (as years of life), life span and quality of life (as years of healthy life), and all-cause and cause-specific mortality. Finally, we explored potential interactions of in- flammation genotypes with other common risk factors that influence inflammatory responses, such as cigarette smok- ing, obesity, and selected medications.
+
+1.3. Participant sampling and laboratory assays
+
+Genotyping assays were performed on blood drawn at baseline for a subset of 2334 CHS participants who were sampled as part of a nested case–control study of incident cardiovascular events [9,10], and who gave informed con- sent to DNA preparation and testing. We excluded nine sub- jects whose self-reported race was other than white or black. Another 101 participants (80 whites and 21 blacks) were ex- cluded because an adequate DNA sample was unavailable at the time of testing. Therefore, a total of 2224 partici- pants (1874 whites and 350 blacks) were included in the cur- − rent analyses. Genotyping for the interleukin-6 174 G/C, − − − PAI-1 675 4G/5G, fibrinogen 455 G/A, and TAFI 438 G/A polymorphisms was performed with standard methods [9–12].
+
+1. Methods
+
+1.1. Study subjects
+
+The cardiovascular health study is a prospective population-based cohort study of 5888 older adult men and women recruited from four U.S. field centers: Forsyth County, North Carolina; Sacramento County, California; Washington County, Maryland; and Pittsburgh, Pennsylva- nia [6]. Those eligible to participate included all persons 65 years of age or older living in the household of each individual sampled. The original cohort (n = 5201) was recruited from 1989to1990.Asecondcohort(n = 687)ofAfrican-American participants was recruited between 1992 and 1993. All pro- cedures were conducted under institutionally approved pro- tocols for use of human subjects, and all subjects provided written informed consent.
+
+Because available genotype data were from a case–control sample nested within the cohort, we weighted the data for each participant according to the reciprocal of his or her known sampling probability. Adjustment for sampling prob- ability recreates the frequency distribution of each case and control group in the entire cohort, thereby giving unbiased es- timates of genotype–longevity risk [13]. To obtain unbiased confidenceintervals(CI)andtestsofsignificance,weusedthe Huber–White (sandwich) method, as implemented in Stata 8.0 (College Station, TX) [14]. Hardy–Weinberg equilibrium was assessed by performing Pearson’s Chi-squared test us- ing the genotype distributions estimated for the entire cohort, but re-weighted a second time according to the case–control sample size, in order to more closely approximate the true sampling variance.
+
+Clinical events, including fatal events due to all causes, were adjudicated by physician review panel according to medical records, death certificates, supplemented by Medi- care utilization data. We used the National Death Index to
+
+All primary analyses were performed stratified by sex and by race. To assess associations of genotype with the continu- ous outcome variables (years of life, years of healthy life), we
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+medication use, cardiovascular risk factors, and prevalence of other attributes were similar in the 2224 included participants and the remaining 3664 CHS subjects.
+
+used multiple linear regression, adjusted for age at baseline and clinic site. In two additional regression models, we also adjustedforbaselinehealthstatus(self-ratedhealth,smoking, cardiovascular disease, cancer, hypertension, and diabetes), or indicators of socioeconomic status (years of education, in- come, and marital status). The associations of genotype with mortality (overall and cause-specific) were assessed with Cox proportional hazards models [15].
+
+After 10 years of follow-up, there were 918 deaths, in- cluding 451 cardiovascular deaths (303 from coronary heart disease) and 467 non-cardiovascular deaths (156 from can- ± cer). The mean ( S.D.) number of years lived per subject ± during those 10 years was 8.32 2.69; the mean number of ± healthy years was 6.07 3.43. Age, male sex, black race, baseline fair or poor self-reported health status, smoking, di- abetes, obesity, hypertension, and history of cardiovascular disease were strongly associated with fewer years of life and fewer years of healthy life (all P < 0.001).
+
+Subjects having the most common genotype served as the reference group, unless otherwise noted. Covariate-adjusted P-values for genetic main effects were calculated from the composite Wald test for indicator variables corresponding to the two minor genotypes. Because our primary hypotheses required performing multiple, independent tests of four un- ≤ linked genes, P-values 0.01 were considered statistically significant.
+
+Except for TAFI 438 G/A, the variant promoter alle- les were less common among blacks than whites (Table 2). Genotype distributions did not differ significantly according to other baseline health-related variables such as obesity, hy- pertension, diabetes, cardiovascular disease, cancer, and fair or poor health status (all P > 0.10).
+
+In hypothesis-generating analyses, we explored the in- teractions of inflammatory response genotypes with three risk factors that influence inflammation: cigarette smoking, obesity (body mass index ≥ 30 kg/m2), and baseline use of any medication having anti-inflammatory properties (aspirin, NSAIDs, ACE inhibitors, or statins). Models were adjusted for sex, sex-by-genotype interaction, baseline cardiovascu- lar disease, current smoking, diabetes, and hypertension. P- values for interaction were calculated from Wald tests for the cross-product interaction terms. Because of the exploratory nature of these analyses, we set statistical significance at P ≤ 0.05.
+
+Among white participants, the alleles of the TAFI − 438 G/A polymorphism deviated significantly from Hardy– Weinberg proportions (Table 2). The Hardy–Weinberg dis- equilibrium was strongly present among men (P = 0.0007), but not among women (P = 0.26). When adjusted for mul- tiple comparisons, the disequilibrium remained signifi- cant (P-values 0.03 overall, 0.01 in white men). Possible, but less extreme, deviations from Hardy–Weinberg equi- librium were noted for the PAI-1 4G/5G polymorphism
+
+2. Results
+
+The mean age at study entry was 73 years, 84% of the par- ticipants were white, and 54% were women (Table 1). Demo- graphic characteristics, overall health and functional status,
+
+Years of life and years of healthy life differed by TAFI pro- moter genotypes among white men (Table 3), but there was little association of TAFI genotype with longevity in women (Table 4). The association with years of life in men remained significant in analyses that also adjusted for baseline socioe- conomic (P = 0.007) or health-related variables (P = 0.003); similar results were seen for years of healthy life (P = 0.01 after adjustment for socioeconomic variables; P = 0.02 after adjustment for health-related variables). During 10 years of − follow-up, men carrying the TAFI 438 A/A genotype had 0.9 additional years of life (95% CI 0.2–1.9 years) or 1.1 additional years of healthy life (95% CI 0.2–2.1 years) rel- − ative to men carrying at least one common TAFI 438 G allele.
+
+Selected baseline characteristics of study participants
+
+Characteristics n (%) or mean±S.D. (range) Age, years (range) 73.4±5.5 (64–94) White race 1954 (84) Female sex 1253 (54) Very good or excellent health 830 (36) Obesitya 682 (29) Current smoker 273 (12) Diabetes 727 (32) Hypertension 1097 (47) Prevalent cardiovascular diseaseb 727 (31) Previous diagnosis of cancer 321 (14) Anti-inflammatory medication usec 1161 (50)
+
+Years of life and years of healthy life differed slightly, − but not significantly, by PAI-1 675 4G/5G genotype among whites (Tables 3 and 4), albeit in opposite directions among men and women (interaction P = 0.10 for years of life, and P = 0.01 for years of healthy life). There was little asso-  ciation between the interleukin-6 or -fibrinogen promoter
+
+b Self-reported myocardial infarction, stroke, angina, transient ischemic attack, claudication, or re-vascularization procedure. c Baseline use of any of the following: aspirin, NSAIDs, ACE inhibitors, or statins.
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+Estimated genotype frequency distributions and tests of Hardy–Weinberg equilibrium, by race
+
+Gene and SNP Genotype Whites (n=1874) Blacks (n=350) Observeda # (%) Expected # P Observeda # (%) Expected # P TAFI −438 GG 1070 (58) 1047 0.004 176 (52) 167 0.02 GA 643 (35) 690 133 (39) 141 AA 137 (7) 114 29 (8) 30 PAI-1 −675 4G/4G 487 (26) 510 0.03 37 (11) 32 0.19 4G/5G 974 (52) 928 136 (39) 146 5G/5G 399 (21) 422 173 (50) 168 IL6 −174 GG 712 (38) 693 0.06 288 (83) 289 0.61 GC 843 (45) 881 58 (17) 56 CC 299 (16) 280 2 (0.4) 3 (cid:1)-Fibrinogen −455 GG 1161 (63) 1158 0.63 312 (91) 312 0.81 GA 602 (33) 611 31 (9) 31 AA 84 (5) 81 1 (0.3) 1
+
+A small number of participants (<2%) have missing genotype data because of genotyping assay failure. Hardy–Weinberg equilibrium was assessed using Pearson’s Chi-squared test. a Becausetheavailabledatawerederivedfromacase–controlsampleofthetotalCHScohort,weadjustedtheobservedgenotypedistributionsbythesampling probability of each participant, as described under Section 2.
+
+polymorphisms and longevity (Table 3). Among blacks, there were no significant associations between the PAI-1 and TAFI  genotypes and longevity; the interleukin-6 or -fibrinogen promoter polymorphisms were too uncommon in blacks to assess genotype–longevity associations.
+
+The overall mortality risk in men associated with the TAFI promoter polymorphism did not appear to differ by
+
+Differences in the average number of years of life or years of healthy life according to inflammation and thrombosis gene promoter genotype in men, by racea
+
+Genotype Years of life (95% CI) P Years of healthy life (95% CI) P White men (n=893) TAFI −438 0.003 G/G 0 (referent) 0 (referent) G/A +0.01 (−0.40, +0.41) 0.99 +0.09 (−0.47, +0.65) A/A +0.87 (+0.33, +1.41) 0.002 +1.08 (+0.26, +1.91) PAI-1 −675 0.04 4G/4G +0.53 (+0.07, +0.98) 0.02 +0.53 (−0.06, +1.12) 4G/5G 0 (referent) 0 (referent) 5G/5G +0.52 (+0.02, +1.02) 0.04 +0.54 (−0.13, +1.21) Interleukin-6 −174 0.60 G/G 0 (referent) 0 (referent) G/C +0.12 (−0.35, +0.59) 0.61 +0.10 (−0.50, +0.71) C/C +0.30 (−0.29, +0.90) 0.32 +0.51 (− 0.27, +1.29) Fibrinogen −455 0.56 G/G 0 (referent) 0 (referent) G/A −0.22 (−0.70, +0.25) 0.36 +0.03 (−0.53, +0.58) A/A +0.11 (−0.52, +0.75) 0.72 +0.33 (−0.64, +1.30) Black men (n=133) TAFI −438 0.26 G/G 0 (referent) 0 (referent) G/A +0.94 (−0.20, +2.08) 0.11 +0.73 (−0.68, +2.15) A/A +0.89 (−1.65, +3.43) 0.49 +1.57 (−1.69, +4.84) PAI-1 −675 0.51 4G/4G −0.81 (−2.83, +1.21) 0.43 −0.69 (−2.84, +1.47) 4G/5G 0 (referent) 0 (referent) 5G/5G −0.65 (−1.97, +0.67) 0.33 −0.34 (−1.95, +1.27)
+
+a Adjusted for age at baseline and clinic site. Shown in bold are the adjusted P-values for the composite genotype test of association at each locus. are the adjusted P-values for the individual genotypes.
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+Differences in the average number of years of life or years of healthy life according to inflammation and thrombosis gene promoter genotype in women, by
+
+Genotype Years of life (95% CI) P Years of healthy life (95% CI) P White women (n=981) TAFI −438 0.81 0.82 G/G 0 (referent) 0 (referent) G/A −0.11 (−0.50, +0.26) 0.56 +0.01 (−0.52, +0.54) 0.96 A/A +0.05 (−0.57, +0.68) 0.88 +0.32 (−0.69, +1.33) 0.54 PAI-1 −675 0.35 0.05 4G/4G −0.29 (−0.69, +0.11) 0.15 −0.75 (−1.35, −0.14) 0.01 4G/5G 0 (referent) 0 (referent) 5G/5G −0.12 (−0.63, +0.39) 0.65 −0.28 (−0.95, +0.38) 0.38 Interleukin-6 −174 0.63 0.57 G/G 0 (referent) 0 (referent) G/C +0.08 (−0.31, +0.46) 0.69 +0.11 (−0.44, +0.66) 0.69 C/C +0.25 (−0.26, +0.75) 0.34 +0.38 (−0.32, +1.09) 0.29 Fibrinogen −455 0.82 0.88 G/G 0 (referent) 0 (referent) G/A +0.10 (−0.26, +0.47) 0.58 −0.08 (−0.62, +0.46) 0.78 A/A −0.11 (−1.06, +0.83) 0.82 −0.29 (−1.56, +0.98) 0.65 Black women (n=217) TAFI −438 0.13 0.23 G/G 0 (referent) 0 (referent) G/A +0.43 (−0.18, +1.04) 0.16 +0.01 (−0.99, +1.02) 0.82 A/A −0.94 (−2.54, +0.66) 0.25 −1.56 (−3.41, +0.28) 0.05 PAI-1 −675 0.80 0.49 4G/4G +0.31 (−0.65, +1.26) 0.53 +0.96 (−0.67, +2.59) 0.25 4G/5G 0 (referent) 0 (referent) 5G/5G +0.03 (−0.67, +0.72) 0.94 +0.19 (−0.91, +1.29) 0.73
+
+a Adjusted for age at baseline and clinic site. Shown in bold are the adjusted P-values for the composite genotype test of association at each locus. Also shown are the adjusted P-values for the individual genotypes.
+
+ated with reduced cancer-related mortality in men and women.
+
+cause of death (Table 5). When men carrying 438 A/A genotype were compared against the combined G/G + G/A genotype groups, the all-cause mortality hazard ratio (HR) was 0.53 (95% CI 0.32–0.87) and cause-specific hazard ra- tios were similar for cardiovascular and non-cardiovascular mortality (Fig. 1). In contrast there was little association − of TAFI 438 A/A genotype and mortality in women. − The TAFI 438 A/A genotype appeared to be associ-
+
+All-cause mortality was slightly lower in men with the PAI-1 4G/4G genotype, but slightly greater in women (Table 5 and Fig. 1). Although neither of these sex-specific associations was statistically significant, the P-value for a sex–PAI-1 genotype interaction was 0.01, perhaps because the PAI-1 4G/4G genotype was associated with increased
+
+Table 5
+
+Associations between TAFI and PAI-1 gene promoter genotypes and all-cause and cause-specific mortalitya
+
+Genotype White and black men (n=1026) White and black women (n=1198) All causes Cardiovascular Non-cardiovascular All causes Cardiovascular Non-cardiovascular causes causes causes causes TAFI −438 G/G 1 (referent) 1 (referent) 1 (referent) 1 (referent) 1 (referent) 1 (referent) G/A 1.00 (0.77–1.29) 1.30 (0.89–1.88) 0.85 (0.59–1.21) 1.13 (0.85–1.51) 0.99 (0.64–1.51) 1.26 (0.86–1.86) A/A 0.53 (0.32–0.88) 0.73 (0.39–1.38) 0.39 (0.19–0.81) 1.11 (0.60–2.06) 0.92 (0.39–2.18) 1.28 (0.54–3.04) PAI-1 −675 4G/4G 0.81 (0.61–1.07) 0.95 (0.63–1.43) 0.69 (0.47–1.02) 1.38 (1.00–1.89) 1.99 (1.28–3.09) 1.07 (0.69–1.67) 4G/5G 1 (referent) 1 (referent) 1 (referent) 1 (referent) 1 (referent)b 1 (referent) 5G/5G 0.81 (0.59–1.11) 0.80 (0.50–1.29) 0.81 (0.53–1.26) 1.17 (0.83–1.67) 1.52 (0.92–2.48) 1.00 (0.63–1.60)
+
+represent hazard ratio (95% CI). a Adjusted for race, age at baseline, and clinic site. b The composite PAI-1 4G/5G genotype test of association P-value was ≤0.01 for cardiovascular mortality in
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+CAUSE OF DEATHCAUSE OF DEATHMENWOMEN Non-CVD.CHD1.01.02.0 3.00.0HAZARD RATIOMEN2.0 3.00.0HAZARD RATIO1.02.0WOMEN1.02.03.0 3.0
+
+3. Discussion
+
+The primary finding of this longitudinal population-based study of older adults is the association of a common TAFI − promoter genotype, 438 A/A, with increased longevity in men. In contrast, we observed little association between TAFI promoter genotype and longevity in women. The restriction of the observed association to individuals homozygous for the rare TAFI allele and only men may suggest the possibil- ity of a false-positive association due to type 1 error. On the other hand, gender-specific genetic influences on longevity have been reported in both humans [1–5] and rodents [16]. In addition, TAFI promoter genotypes of our male study partic- ipants deviated significantly from Hardy–Weinberg equilib- rium, a finding previously noted among healthy middle-aged men of European descent [17]. The excess homozygosity of − the TAFI 438 A allele we observed in men at baseline rein- force the possibility of an age- and sex-specific influence of TAFI genotype on survival.
+
+TAFI is a pro-carboxypeptidase that regulates the bal- ance between coagulation and fibrinolysis by removing the C-terminal lysine residues from fibrin clots [18]. The associ- ation of TAFI genotype with longevity in older men raises the possibility that TAFI may influence aging beyond its effects on thrombosis, especially since the risk reduction associated with the TAFI promoter genotype was not limited to cardio- vascular mortality. Activated TAFI can cleave a broad range of substrates, including complement proteins, kinins, and os- teopontin, and thus may be involved in several acute inflam- matory and stress responses, including vasomotor stability, vascular permeability, cellular adhesion, leukocyte chemo- taxis, and wound healing [19,20].
+
+Fig. 1. Hazard ratios and 95% confidence intervals for all-cause and cause- specific mortality in men and women associated with: (A) TAFI −438 A/A genotype compared to carriers of the −438 G TAFI allele, or (B) PAI-1 4G/4G genotype compared to carriers of the 5G PAI-1 allele. Risk estimates and confidence intervals are adjusted for race, clinic site, and birth cohort. CVD: cardiovascular disease; CHD: coronary heart disease.
+
+The 438 A allele of the TAFI gene promoter has been associated with decreased circulating levels of TAFI anti- gen in the current study sample of older adults [12] and in other population samples [21]. We similarly observed that in men, but not in women, TAFI antigen levels in the low- est quartile were associated with greater number of years, or healthy years, lived during follow-up (unpublished observa- − tions). The 438 A allele also is in strong linkage disequi- librium with a common Thr325Ile substitution that increases the thermal stability and anti-fibrinolytic activity of activated TAFI [22]. Therefore, the apparent beneficial association of − TAFI 438 A/A genotype on longevity might result from increased fibrinolytic activity due to lower circulating TAFI levels, increased anti-inflammatory activity due to enhanced TAFI proteolysis of inflammatory substrates, or both.
+
+smoking status or obesity with inflammation genotypes in predicting longevity phenotypes. A possible drug–gene in- teraction was observed for the interleukin-6 promoter poly- morphism and inflammation-modulating medication use on all-cause mortality (P-value for interaction = 0.02) and years of healthy life (P-value for interaction = 0.06). After adjust- ing for baseline cardiovascular disease and risk factors, anti- inflammatory medication use was associated with reduced all-cause mortality (HR = 0.68, 95% CI 0.42–1.10) and in- creased years of healthy life (+0.5 years, 95% CI +0.2 to +1.2 years) among subjects with the − 174 C/C genotype. In contrast, among carriers of the common − 174 G allele, anti- inflammatory medication use appeared to be associated with increased all-cause mortality (HR = 1.20, 95% CI 0.98–1.47) and fewer years of healthy life (− 0.5 years, 95% CI − 0.1 to − 0.9 years).
+
+Evolutionarily, inflammation and tissue repair are likely to protect against infectious diseases and promote wound heal- ing, thereby ensuring reproductive fitness. Both TAFI and PAI-1 genotype affect survival in children with meningo- coccal infection [23,24]. Thus, common variants of genes that regulate inflammation or fibrin deposition may repre- sent an example of ‘antagonistic pleiotropy’, in which an attribute that is beneficial during childhood and the repro- ductive years (such as a robust inflammatory or hemostatic
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+interleukin-6 [42], but also with a greater than average fall in C-reactive protein and low-density lipoprotein cholesterol levels in response to anti-inflammatory drugs [43]. Confir- mation of our findings would have important implications for variability in the inter-individual response to drug ther- apy among older adults.
+
+response) subsequently reduces the length or quality of life in older adults. During the 19th and 20th centuries, advances in medicine and public health and improved living standards led to greatly improved childhood health and survival along with reduced chronic infections and inflammation. On the basis of cohort-specific adult mortality trends, along with the association of early-age mortality and subsequent mortality, it has been hypothesized that reduction in lifetime exposure to infectious diseases and other sources of inflammation may have contributed to the historical decline in old-age mortal- ity [25]. Sex-related differences in immune function and in- fectious disease susceptibility may also explain in part the shorter life span of men compared to women [26].
+
+In summary, a common promoter variant of the TAFI gene, and perhaps also the PAI-1 gene, may be associated with longevity in older men. These findings suggest that modu- lators of fibrinolytic activity or proteolysis may have a gen- eralized influence on aging or age-related disease, and merit further investigation in studies of genetic determinants of hu- man longevity. Examination of additional TAFI gene vari- ants, such as Thr325Ile, or multi-locus haplotypes, may be required to define more precisely the location of any func- tional longevity-associated allele(s). Interactions with addi- tional life style factors and interventions, as well as other gene pathways related to vascular disease and aging (oxida- tive and metabolic responses, insulin signaling) also may be appropriate for future study.
+
+Our results for the PAI-1 promoter polymorphism were confusing, and may just be due to chance. The 4G/4G geno- type appeared to be associated with lower non-cardiovascular mortality in men, but with greater cardiovascular mortality in women. Smaller population studies examining the PAI-1 pro- moter polymorphism have also showed conflicting results. The 4G allele was associated with increased longevity in an Italian centenarian case–control study, but a gender-specific was not noted [3]. There was no association between PAI-1 genotype in Danish centenarians [27], nor in a German oc- togenarian cohort [28]. The PAI-1 4G/5G variant has been shown to be functional in vitro [29,30]. The 4G sequence abolishes a binding site for a transcription repressor, thereby resulting in higher promoter activity and increased plasma levels of PAI-1 in vivo. In rodent models, the induction of PAI-1 expression in response to stress, and the age-related increase in magnitude of this response, influences the occur- rence of vascular and tissue thrombosis [31,32]. These ex- perimental findings might explain the trend toward increased cardiovascular mortality associated with the 4G/4G genotype observed here and by others [33,34].
+
+Acknowledgements
+
+The research reported in this article was supported by contracts N01-HC-85079 through N01-HC-85086, N01-HC- 35129, and N01-HC-15103 from the National Heart, Lung, and Blood Institute. WSB is supported by a grant from the National Institute of Health (AG 05407). SEH is supported by grants from the British Heart Foundation (RG2000/15).
+
+Appendix A
+
+Increased levels of plasma fibrinogen predict total mortal- ity in CHS [35] as well other cohort studies of older adults [36]. Nonetheless, we and others did not observe an associ-  ation with longevity for the -fibrinogen promoter polymor- phism. The negative findings may reflect the relatively small portion of the overall variance in fibrinogen level explained − by the 455 G/A polymorphism [37].
+
+Steering committee chairman: Curt D. Furberg, MD PhD, Wake Forest University School of Medicine. NHLBI project office: Jean Olson, MD MPH.
+
+L. Burke, MD. Wake Forest University—ECG Reading Center: Ronald Prineas, MD PhD. University of Califor- nia, Davis: John Robbins, MD MHS. The Johns Hop- kins University: Linda P. Fried, MD MPH. The Johns Hopkins University—MRI Reading Center: David Yousem, MD MBA. University of Pittsburgh: Lewis H. Kuller, MD DrPH. University of California, Irvine—Echocardiography Reading Center (baseline): Julius M. Gardin, MD. George- town Medical Center—Echocardiography Reading Center (follow-up): John S. Gottdiener, MD. New England Medi- cal Center, Boston—Ultrasound Reading Center: Daniel H. O’Leary, MD. University of Vermont—Central Blood Analy- sis Laboratory: Russell P. Tracy, PhD. University of Arizona, Tucson—Pulmonary Reading Center: Paul Enright, MD. Retinal Reading Center—University of Wisconsin: Ronald Klein, MD. University of Washington—Coordinating Cen- ter: Richard A. Kronmal, PhD.
+
+Increased plasma IL-6 levels have been associated with age-related morbidity and all-cause mortality in older adults. − In older men, the IL-6 promoter 174 G/G genotype was as- sociated with increased IL-6 levels and decreased longevity [4,38]. Other case–control studies of long-lived individuals reported conflicting results [39,40]. Overall, we observed a non-significant trend toward increased longevity associated − with the IL-6 174 C allele. The possible interaction of anti- − inflammatory drugs and interleukin-6 174 C/C genotype on mortality and years of healthy life should be interpreted cautiously. These data were derived from exploratory anal- yses uncorrected for multiple comparisons. Nonetheless, a − similar interaction between statins and interleukin-6 174 C/C in reducing cardiovascular risk has been reported [41]. The C/C genotype is associated with higher plasma levels of
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+References
+
+/
+
+phisms in the promoter and the
+
+region of the TAFI gene: evidence that plasma TAFI antigen levels are strongly genetically controlled. Blood
+
+;
+
+:
+
+–
+
+[
+
+] Schneider M, Boffa M, Stewart R, et al. Two naturally occurring variants of TAFI (Thr-
+
+and Ile-
+
+) differ substantially with re- spect to thermal stability and antifibrinolytic activity of the enzyme. J Biol Chem
+
+;
+
+:
+
+–
+
+[
+
+] Westendorp RG, Hottenga JJ, Slagboom PE. Variation in plasminogen-activator-inhibitor-
+
+gene and risk of meningococcal septic shock. Lancet
+
+;
+
+:
+
+–
+
+[
+
+] Kremer Hovinga J, Franco RF, Zago MA, et al. A functional single- nucleotide polymorphism in the thrombin-activatable fibrinolysis in- hibitor associated with risk and outcome of meningococcal disease. J Thromb Haemost
+
+;
+
+:
+
+–
+
+[
+
+] Finch CE, Crimmins EM. Inflammatory exposure and historical changes in human life-spans. Science
+
+;
+
+:
+
+–
+
+[
+
+] Owens IP. Ecology and evolution. Sex differences in mortality rate. Science
+
+;
+
+:
+
+–
+
+[
+
+] Bladbjerg EM, Andersen-Ranberg K, de Maat MP, et al. Longevity is independent of common variations in genes associated with car- diovascular risk. Thromb Haemost
+
+;
+
+:
+
+–
+
+[
+
+] Lottermoser K, Dusing R, Ervens P, et al. The plasminogen activator inhibitor
+
+G/
+
+G polymorphism is not associated with longevity: a study in octogenarians. J Mol Med
+
+;
+
+:
+
+–
+
+[
+
+] Dawson SJ, Wiman B, Hamsten A, et al. The two allele sequences of a common polymorphism in the promoter of the plasminogen activator inhibitor-
+
+(PAI-
+
+) gene respond differently to interleukin-
+
+in He
+
+cells. J Biol Chem
+
+;
+
+:
+
+–
+
+[
+
+] Eriksson P, Kallin B, van’t Hooft FM, Bavenholm P, Hamsten A. Allele-specific increase in basal transcription of the plasminogen- activator inhibitor
+
+gene is associated with myocardial infarction. Proc Natl Acad Sci
+
+;
+
+:
+
+–
+
+[
+
+] Yamamoto K, Takeshita K, Shimokawa T, et al. Plasminogen acti- vator inhibitor-
+
+is a major stress-regulated gene: implications for stress-induced thrombosis in aged individuals. Proc Natl Acad Sci
+
+;
+
+:
+
+–
+
+[
+
+] Eren M, Painter CA, Atkinson JB, Declerck PJ, Vaughan DE. Age- dependent spontaneous coronary arterial thrombosis in transgenic mice that express a stable form of human plasminogen activator inhibitor-
+
+Circulation
+
+;
+
+:
+
+–
+
+[
+
+] Heijmans BT, Westendorp RG, Knook DL, Kluft C, Slagboom PE. Angiotensin I-converting enzyme and plasminogen activator inhibitor-
+
+gene variants: risk of mortality and fatal cardiovascu- lar disease in an elderly population-based cohort. J Am Coll Cardiol
+
+;
+
+:
+
+–
+
+[
+
+] Jones K, Powell J, Brown L, et al. The influence of
+
+G/
+
+G polymor- phism in the plasminogen activator inhibitor-
+
+gene promoter on the incidence, growth and operative risk of abdominal aortic aneurysm. Eur J Vasc Endovasc Surg
+
+;
+
+:
+
+–
+
+[
+
+] Tracy RP, Arnold AM, Ettinger W, et al. The relationship of fibrino- gen and factors VII and VIII to incident cardiovascular disease and death in the elderly: results from the cardiovascular health study. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] Yano K, Grove JS, Chen R, et al. Plasma fibrinogen as a predictor of total and cause-specific mortality in elderly Japanese–American men. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] de Maat MP, Bladbjerg EM, Hjelmborg JB, et al. Genetic influence on inflammation variables in the elderly. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] Giacconi R, Cipriano C, Albanese F, et al. The −
+
+G/C polymor- phism of IL-
+
+is useful to screen old subjects at risk for atheroscle- rosis or to reach successful ageing. Exp Gerontol
+
+;
+
+:
+
+–
+
+[
+
+] Capurso C, Solfrizzi V, D’Introno A, et al. Interleukin-
+
+−
+
+G/C promoter gene polymorphism in centenarians: no evidence of asso- ciation with human longevity or interaction with apolipoprotein E
+
+from coronary heart disease: a
+
+-year follow-up of
+
+Swedish twins. J Intern Med
+
+;
+
+:
+
+–
+
+[
+
+] Wienke A, Holm NV, Christensen K, et al. The heritability of cause- specific mortality: a correlated gamma-frailty model applied to mor- tality due to respiratory diseases in Danish twins born
+
+–
+
+Stat Med
+
+;
+
+:
+
+–
+
+[
+
+] Mannucci PM, Mari D, Merati G, et al. Gene polymorphisms pre- dicting high plasma levels of coagulation and fibrinolysis proteins. A study in centenarians. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] Bonafe M, Olivieri F, Cavallone L, et al. A gender-dependent ge- netic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol
+
+;
+
+:
+
+–
+
+[
+
+] Lio D, Scola L, Crivello A, et al. Allele frequencies of +
+
+T→A single nucleotide polymorphism at the first intron of interferon- gamma gene in a group of Italian centenarians. Exp Gerontol
+
+;
+
+:
+
+–
+
+[
+
+] Fried LP, Borhani NO, Enright P, et al. The cardiovascular health study: design and rationale. Ann Epidemiol
+
+;
+
+:
+
+–
+
+[
+
+] Diehr P, Patrick DL, Bild DE, Burke GL, Williamson JD. Predict- ing future years of healthy life for older adults. J Clin Epidemiol
+
+;
+
+:
+
+–
+
+[
+
+] Diehr P, Newman AB, Jackson SA, Kuller L, Powe N. Weight- modification trials in older adults: what should the outcome measure be? Curr Control Trials Cardiovasc Med
+
+;
+
+:
+
+–
+
+[
+
+] Jenny NS, Tracy RP, Ogg MS, et al. In the elderly, interleukin-
+
+plasma levels and the −
+
+G>C polymorphism are associated with the development of cardiovascular disease. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] Crainich P, Jenny NS, Tang Z, et al. Lack of association of the plasminogen activator inhibitor-
+
+G/
+
+G promoter polymorphism with cardiovascular disease in the elderly. J Thromb Haemost
+
+;
+
+:
+
+–
+
+[
+
+] Thomas A, Lamlum H, Humphries S, Green F. Linkage disequi- librium across the fibrinogen locus as shown by five genetic poly- morphisms, G/A-
+
+(Ha
+
+II), C/T-
+
+(Hin
+
+II/Al
+
+), T/G+
+
+(Av
+
+I), and Bc
+
+(beta-fibrinogen) and Ta
+
+(alpha-fibrinogen), and their detection by PCR. Hum Mutat
+
+;
+
+:
+
+–
+
+[
+
+] Crainich P, Tang Z, Macy EM, et al. A polymorphism at position −
+
+in the promoter region of thrombin-activatable fibrinolysis in- hibitor (TAFI) is strongly associated with plasma antigen levels in healthy older men and women. Circulation
+
+;
+
+:II-
+
+[
+
+] Suissa S, Edwardes MD, Boivin JF. External comparisons from nested case–control designs. Epidemiology
+
+;
+
+:
+
+–
+
+[
+
+] Lin DY, Wei LJ. The robust inference of the Cox proportional haz- ards model. J Am Stat Assoc
+
+;
+
+:
+
+–
+
+[
+
+] Lamarca R, Alonso J, Gomez G, Munoz A. Left-truncated data with age as time scale: an alternative for survival analysis in the elderly population. J Gerontol A Biol Sci Med Sci
+
+;
+
+:
+
+–
+
+[
+
+] Jackson AU, Galecki AT, Burke DT, Miller RA. Mouse loci as- sociated with life span exhibit sex-specific and epistatic effects. J Gerontol A Biol Sci Med Sci
+
+;
+
+(
+
+):B
+
+–
+
+[January]. [
+
+] Juhan-Vague I, Morange PE, Aubert H, et al. Plasma thrombin- activatable fibrinolysis inhibitor antigen concentration and genotype in relation to myocardial infarction in the north and south of Europe. Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] Bouma BN, Meijers JC. Thrombin-activatable fibrinolysis inhibitor (TAFI, plasma procarboxypeptidase B, procarboxypeptidase R, pro- carboxypeptidase U). J Thromb Haemost
+
+;
+
+:
+
+–
+
+[
+
+] Campbell W, Okada N, Okada H. Carboxypeptidase R is an inacti- vator of complement-derived inflammatory peptides and an inhibitor of fibrinolysis. Immunol Rev
+
+;
+
+:
+
+–
+
+[
+
+] Bajzar L, Jain N, Wang P, Walker JB. Thrombin activatable fibri- nolysis inhibitor: not just an inhibitor of fibrinolysis. Crit Care Med
+
+;
+
+:S
+
+–
+
+A.P. Reiner et al. / Atherosclerosis 181 (2005) 175–183
+
+[
+
+] Basso F, Lowe GD, Rumley A, M
+
+ahon AD, Humphries SE. Interleukin-
+
+−
+
+G>C polymorphism and risk of coronary heart disease in West of Scotland coronary prevention study (WOSCOPS). Arterioscler Thromb Vasc Biol
+
+;
+
+:
+
+–
+
+[
+
+] Jones KG, Brull DJ, Brown LC, et al. Interleukin-
+
+(IL-
+
+) and the prognosis of abdominal aortic aneurysms. Circulation
+
+;
+
+:
+
+–
+
+[
+
+] Christiansen L, Bathum L, Andersen-Ranberg K, Jeune B, Chris- tensen K. Modest implication of interleukin-
+
+promoter polymor- phisms in longevity. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+[
+
+] Fishman D, Faulds G, Jeffery R, et al. The effect of novel polymor- phisms in the interleukin-
+
+(IL-
+
+) gene on IL-
+
+transcription and plasma IL-
+
+levels, and an association with systemic-onset juvenile chronic arthritis. J Clin Invest
+
+;
+
+:
+
+–

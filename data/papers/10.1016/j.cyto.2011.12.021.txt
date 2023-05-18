@@ -1,0 +1,275 @@
+Contents lists available at SciVerse ScienceDirect Cytokine journal homepage: www.elsevier.com/locate/issn/10434666   
+
+journal homepage: www.elsevier.com/locate/issn/10434666
+
+of functional polymorphic variants of inflammation-related genes and CCR5 in long-lived individuals
+
+Marina Laplana, Joan Fibla
+
+Departament de Ciències Mèdiques Bàsiques, Unitat de Genètica Humana, IRBLleida, Universitat de Lleida, C/ Montserrat Roig, 2. 25008 Lleida, Spain
+
+Article history: Received 4 October 2011 Received in revised form 23 December 2011 Accepted 24 December 2011 Available online 20 January 2012
+
+Although persistent inflammation has been related to unsuccessful aging, a pro-inflammatory status is the common phenotype in older people. To assess for a genetic component in the inflammatory status of the oldest we studied the distribution of two polymorphic chemokine pathway genes, RANTES and CCR5, in elderly. RANTES (cid:2)403G/A and RANTES Int1.1T/C polymorphisms and CCR5D32 polymorphism were genotyped in 104 elderly and 110 controls. RANTES (cid:2)403A and RANTES Int1.1C alleles have been associated with pro-inflammatory and anti-inflammatory status, respectively. CCR5D32 abrogates func- tional receptor expression of the pro-inflammatory CCR5-mediated action. Prevalence of RANTES (cid:2)403G allele, associated in other studies with high RANTES production, was reduced in elderly males, compared with controls. In addition, RANTES pro-inflammatory haplotype (cid:2)403A-Int1.1T was overrepre- sented in elderly males, while RANTES anti-inflammatory haplotype (cid:2)403G-Int1.1C was overrepresented in elderly females. Our results suggest a sex-specific RANTES inflammatory genetic determinant that could contribute to the known sex-related differences in aging.
+
+  2012 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+in recruitment of leukocytes to the inflammation site. Natural CCR5 ligands are the C-C motif chemokine ligands CCL3, CCL4 and CCL5, which is also known as RANTES (regulated upon activa- tion normal T-cell expressed and secreted). Two polymorphisms have been described in the RANTES gene, a promoter polymor- phism ((cid:2)403G/A, rs2107538) whose (cid:2)403A allele increases the pro- moter transcriptional activity, which results in high serum RANTES levels favouring a pro-inflammatory status [4], and an intronic polymorphism (Int1.1T/C, rs2280789) whose Int1.1C variant has been associated with low RANTES expression and an anti-inflam- matory status [5]. A 32 bp insertion/deletion polymorphism has been described in exon 3 of the CCR5 gene (CCR5D32, rs333) that abrogates functional CCR5 receptor expression, weakening the pro-inflammatory CCR5-mediated action [6]. The CCR5D32 allele reaches appreciable frequencies only in Europe, following a latitu- dinal cline distribution that is higher in the north and lower in the south. Studies have demonstrated that the CCR5D32 allele is re- lated to reduction of portal inflammation during hepatitis C (HCV) infection, delayed progression in multiple sclerosis, protec- tion against cardiovascular diseases (acute myocardial infarction and severe coronary heart disease) and attenuation of the inflam- matory response that delays progression of atherosclerotic lesions
+
+The immune system’s positive protective effect against patho- gens and the spread of tumor cells can also become a detrimental chronic inflammation affecting longevity. Studies on the genetic component of longevity have tended to evaluate the role of the im- mune system genes, especially those involved in inflammation. Re- sults obtained reveal that persistent activation of inflammatory status is related to unsuccessful aging and that avoiding a persis- tent inflammation contributes to healthy aging. However, a pro- inflammatory status is the common phenotype in older people [1].
+
+Inflammatory response could be affected by changes in chemo- kine gene transcription and receptor expression levels due to poly- morphisms at the corresponding genes. Previous studies of chemokine factors related to age-related disease and longevity re- vealed attrition or change in frequency of chemokine alleles with ageing [2,3]. Chemokines are small chemotactic cytokines (C-C) with a pivotal role in leukocyte trafficking and activation. Their biological effects are exerted via interaction with G protein-cou- pled receptors that mediate intracellular signals. C-C chemokine receptor type 5 (CCR5) is the co-receptor for macrophages and dual (T cell and macrophage) tropic immunodeficiency viruses and is involved in the migration of monocytes, NK cells and Th1 cells toward an increasing concentration of b-chemokines, which results
+
+To assess the possibility of a genetic component of inflamma- tory status in the elderly, we studied the distribution of functional polymorphic variants of two genes from the chemokine inflamma- tory pathway, RANTES and CCR5, in long-lived individuals.
+
+2. Methods
+
+According to the inflammation-linked effect attributed to both RANTES (cid:2)403G/A and Int1.1T/C polymorphisms, we can presume an anti-inflammatory effect for the (cid:2)403G-Int1.1C (GC) haplotype and the opposite pro-inflammatory effect for the (cid:2)403A-Int1.1T (AT) haplotype. Haplotype-specific test showed that anti-inflam- matory GC haplotype was overrepresented in the elderly cohort (P = 0.04), mainly due to the overrepresentation in females (Peto OR = 8.3; 95%CI = 2–34; P = 0.005). In contrast, pro-inflammatory AT haplotype was overrepresented in elderly males (OR = 4.9; 95%CI = 0.97–24.7; P = 0.03).
+
+RANTES (cid:2)403G/A and Int1.1T/C and CCR5D32 polymorphisms were genotyped by standard procedures (Supplementary Table 1) in a cohort of 214 subjects. A detailed description of cohorts can be found in Ref. [8], briefly: 110 sex-matched healthy young indi- viduals as a control group, 75 women (mean age 28 ± 5.8; range 17–39) and 35 men (mean age 29 ± 8.6; range 17–40), and 104 elderly subjects (>85 years), 72 women (mean age 89.4 ± 3.6; range 85–100) and 32 men (mean age 89.4 ± 3.2; range 85–97). Subjects were enrolled from the city of Lleida in northeast Spain, between January and June 2004. Elderly subjects were recruited from atten- dants to Primary Care Services (25%) and Nursing Home residents (75%). A comprehensive medical history was obtained from each elderly subject. Most frequent co-morbidities were hypertension (9.6%), stroke (7.7%), chronic obstructive pulmonary disease (4.8%) and heart disease (2.9%). A written informed consent for enrolling in the study and for personal data management was ob- tained from all subjects (elderly and controls) in accordance with Spanish laws. The Ethics Committee of our institution approved the study.
+
+Carrier distribution in males and females of pro- and anti- inflammatory haplotypes is shown in Fig. 1. As revealed by haplo- type-specific test, elderly males were carriers of the pro-inflamma- tory AT haplotype, which was more prevalent in elderly than in controls (26% and 6%, respectively; OR = 5.6; 95%CI = 1.06–29.7; P = 0.038), while carriers of the AT haplotype were equally distrib- uted in elderly and control females (10% and 13%, respectively). In contrast, elderly females were carriers of the anti-inflammatory GC haplotype that was absent in control females (11.4% vs. 0%, respec- tively; Peto OR = 8.8; 95%CI = 2.1–36.5; P = 0.0024).
+
+Our genetic study of Spanish elderly does not reveal any signif- icant association between the CCR5D32 polymorphism and longev- ity. The role of CCR5 in age-related diseases has been largely reviewed [9]. Assuming the hypothesis that alleles favouring inflammation-related diseases are detrimental for longevity and considering the inflammatory CCR5-mediated action, we could ex- pect an increased prevalence of defective CCR5D32 alleles, as well as CCR5D32 carriers, in long-lived individuals. The CCR5D32 poly- morphism has been studied in relation to diseases reducing life expectancy, such as acute myocardial infarction and prostate can- cer using centenarians as the reference population [10,11]. An overrepresentation of the CCR5D32 allele was reported in cente- narians compared to cases, assigning to this polymorphism a role in promoting longevity. In these studies the comparison of extreme phenotype populations (centenarians vs. affected cases) probably confers an increased power to detect association. However, the CCR5D32 prevalence in centenarians does not differ from that ob- served in the healthy control population which agrees with results obtained in our study. This could reflect a weak association of CCR5 with longevity that needs a more highly powered test to be established.
+
+3. Results and discussion
+
+Genotype and allele distributions of RANTES (cid:2)403G/A and CCR5D32 polymorphisms conform to Hardy–Weinberg equilibrium in both the control and elderly cohorts. In contrast, RANTES Int1.1T/C departs from Hardy–Weinberg equilibrium in the elderly cohort. Comparisons of genotype and allele distributions between controls and elderly were done by contingency table analysis performed by the OpenEpi web resource (http://www.openepi.com/OE2.3/Menu/ OpenEpiMenu.htm). Differences were evaluated considering all subjects and by sex between cohorts. For comparisons including zero values, odds ratio and 95%CI were calculated based on the Peto odds ratio method by using the on-line calculator http://www.hut- chon.net/ConfidORnulhypo.htm.Thisapproachhastheadvantageof accepting zero results without generating infinity. P values <0.05 were considered statistically significant. In addition, a modified Bonferroni-corrected nominal threshold of P = 0.05/N was used, where N is the ‘‘effective number of independent marker loci’’ after consideration of linkage disequilibrium between markers. N was calculated using the SNP (single nucleotide polymorphism) spectral decomposition approach web-based program SNPSpD (http:// gump.qimr.edu.au/general/daleN/SNPSpD/). This yields an experi- ment-wide significance threshold of 0.02 to keep Type I error rate at 5%.
+
+The association of RANTES polymorphisms with longevity has not yet been described. Our results denote a sex-specific associa- tion with functional RANTES polymorphisms. Pro-inflammatory RANTES alleles/haplotypes were positively associated with elderly males. In contrast, anti-inflammatory RANTES alleles/haplotypes showed positive association with elderly females.
+
+Elevation of circulating levels of RANTES has been described in unstable angina pectoris patients as predictive of future cardiovas- cular adverse events [9]. Furthermore, a significant elevation of major C-C chemokines, including RANTES, has been described dur- ing the course of acute myocardial infarction that actively contrib- utes to the pathophysiology of the disease. Finally, association studies of functional RANTES polymorphisms have been performed highlighting the role of RANTES in age-related diseases [4].
+
+Genotype distribution differences between elderly and controls showed statistical significance for Int1.1T/C polymorphism (P = 0.03), but not for CCR5D32 or (cid:2)403G/A polymorphisms (Table 1). Sex-based differences between cohorts for the CCR5D32 poly- morphism were not significant. Nevertheless, differences between elderly and control males were observed for the (cid:2)403G/A genotype (P = 0.029) and allele distribution (OR = 3.2; 95%CI = 1.2–8.5; P = 0.012) (Table 1). In addition, differences were observed when (cid:2)403A allele was modeled as dominant (OR = 4; 95%CI = 1.4–11.8; P = 0.01). We also found a genotype association for Int1.1C allele un- der recessive model (Peto OR = 8.8; 95%CI = 1.7–44.7; P = 0.008) that was mainly contributed by differences between elderly and control females (Peto OR = 8.4; 95%CI = 1.4–49.9; P = 0.02).
+
+Our findings on RANTES allele/haplotype distribution among elderly suggest a RANTES genetic determinant that is prone to a pro-inflammatory phenotype in males and an anti-inflammatory phenotype in females, which could contribute to the known sex- specific differences in aging. Sexual dimorphism in immune responsiveness has been reported with respect to genetic back- ground. Some evidence of an increase in frequency of the IL-10 anti-inflammatory cytokine gene in long-lived males has been reported [12] and early work suggested that sexual dimorphism existed in immune responsiveness in the HLA supratype A1B8Cw7DR3 [13].
+
+Haplotypes for RANTES gene markers were inferred by pLink software (pLink web resource available at http://pngu.mgh.har- vard.edu/~purcell/plink/). Haplotype distribution between elderly and controls in all subjects, males and females, showed significant differences (Omnibus test P = 0.02, P = 0.05 and P = 0.04, respec-
+
+Table 1
+
+Allele, genotype and haplotype distribution of CCR5D32, RANTES (cid:2)403G/A and RANTES Int1.1T/C polymorphisms in Spanish controls and elderly subjects.
+
+rs code, (alias) Genotype allele haplotype Controls Elderly All subjects n (%) Males n (%) Females n (%) All subjects n (%) Males n (%) Females n (%) rs333, (CCR5D32) Genotypes wtwt 88 (80) 29 (82.9) 59 (78.7) 79 (76) 22 (68.8) 57 (79.2) wtD32 22 (20) 6 (17.1) 16 (21.3) 21 (20.2) 9 (28.1) 12 (16.7) D32D32 0 (0) 0 (0) 0 (0) 3 (2.9) 1 (3.1) 2 (2.8) Alleles wt 198 (90) 64 (91.4) 134 (89.3) 179 (86.1) 53 (82.8) 126 (87.5) D32 22 (10) 6 (8.6) 16 (10.7) 27 (13) 11 (17.2) 16 (11.1) rs2107538 (RANTES (cid:2)403G/A) Genotypes GG 75 (68.2) 28 (80) 47 (62.7) 66 (63.5) 16 (50)a 50 (69.4) GA 34 (30.9) 7 (20) 27 (36) 35 (33.7) 15 (46.8) 20 (27.8) AA 1 (0.9) 0 (0) 1 (1.3) 3 (2.9) 1 (3.1) 2 (2.8) A carriers 35 (31.8) 7(20) 28 (37.3) 38 (36.6) 16 (49.9)a 22 (30.6) Alleles G 184 (83.6) 63 (90) 121 (80.7) 167 (80.3) 47 (73.4)a 120 (83.3) A 36 (16.4) 7 (10) 29 (19.3) 41 (19.7) 17 (26.6) 24 (16.7) rs2280789 (RANTES Int1.1T/C) Genotypes TT 86 (78.9) 29 (85.3) 57 (76) 71 (73.2)b 21 (77.8) 50 (71.4) TC 23 (21.1) 5 (14.7) 18 (24) 20 (20.6) 5 (18.5) 15 (21.4) CC 0 (0) 0 (0) 0 (0) 6 (6.2)b 1 (3.7) 5 (7.2)b Alleles T 195 (89.5) 63 (92.7) 132 (88) 162 (83.5) 47 (87) 115 (82.1) C 23 (10.5) 5 (7.3) 18 (12) 32 (16.5) 7 (13) 25 (17.9) rs2107538 and rs2280789 (RANTES haplotype)c Haplotype counts GT 182 (83.3) 61 (89.6) 121 (80.5) 148 (76.2) 40 (74)d 108 (77) AC 23 (10.4) 5 (7.3) 18 (11.9) 24 (12.3) 7 (12.9) 17 (12.1) AT 13 (6.1) 2 (3.1) 11 (7.6) 14 (7.3) 7 (13.1)e 7 (5.1) GC 0 (0) 0 (0) 0 (0) 8 (4.2)f 0 (0) 8 (5.8)f
+
+a Statistical differences between elderly and control males for global genotype distribution (P = 0.029); RANTES (cid:2)403A modeled as dominant (Odds Ratio (OR) = 4.0; confidence interval (CI) = 1.4–11.8; P = 0.01) and allele distribution (OR = 3.2; 95%CI = 1.2–8.5; P = 0.014). b Statistical differences between elderly and controls for global genotype distribution (P = 0.03) and RANTES Int1.1C under recessive model (Peto OR = 8.8; 95%CI = P = 0.008), mainly attributable to an overrepresentation in females (Peto OR = 8.4; 95%CI = 1.4–49.9; P = 0.02). c Statistical differences between elderly and controls for global haplotype distribution for all subjects (P = 0.02), males (P = 0.05) and females (P = 0.04). d GT haplotype was underrepresented in elderly males (OR = 0.3; 95%CI = 0.12–0.88; P = 0.02). e AT haplotype was overrepresented in elderly males (OR = 4.9; 95%CI = 0.97–24.7; P = 0.03). f GC haplotype was overrepresented in elderly subjects (P = 0.04) due to the overrepresentation in females (Peto OR = 8.3; 95%CI = 2–34; P = 0.005).
+
+40% 40% CONTROLS I35% Males 36% Females @ELOERLY.30% Poon 30%8 25% 25%<2 20% 20%s P=0.024® 15% 15% 10a 8 710% 10%29 9i. ° ° ~ ° I]0% + 0% +Carriers of Carriers of Carriers of Carriers ofanti-inflammatory pro-inflammatory anti-inflammatory pro-inflammatoryhaplotype (GC) haplotype (AT) haplotype (GC) haplotype (AT) 
+
+Fig. 1. Prevalence of carriers of RANTES anti-inflammatory (cid:2)403G-Int1.1C (GC) and pro-inflammatory (cid:2)403A-Int1.1T (AT) haplotypes between elderly and controls in males (left) and females (right). The numbers within each haplotype combination for RANTES genotypes are shown at the top of each bar.
+
+It has been previously described that the inflammation index, calculated as the sum of positive indicators such as C-reactive pro- tein, plasma fibrinogen and urinary albumin, shows sex differences and varies with age [14]. Women have a higher inflammation in- dex during all life stages compared with men but slower rates of increase in inflammation with age. This can contribute to the de- crease in the inflammation differences between the sexes in the el- derly population (>80 year-old) [14].
+
+Moreover, it has been suggested that the female sex hormone estrogen may increase the expression of antioxidant enzymes, playing a protective role that improves host resistance to degener- ative diseases, and may reduce the risk of cardiovascular diseases (CVD) by modulation of fibrinolytic factors [15]. Therefore, women have a greater capacity to recover from an inflammatory status, probably due to better regulation of the inflammatory response, which, as our data points out, can be enabled by the genetic
+
+Appendix A. Supplementary data
+
+component. The better control of inflammation in elderly women might be linked to the higher life expectancy.
+
+We acknowledge that our study have a number of potential limitations. The relatively small number of subjects in the elderly cohort, due to the difficulty to find older subjects fitting our inclu- sion criteria, could be considered as an important limitation of the study. Some statistical outcomes are based in comparisons performed with small numbers or zero subjects that do not pass statistical threshold when corrected for multiple testing. Despite having used appropriated statistical methods (i.e. Peto odds ratio and Bonferroni-corrected SNP spectral decomposition approach) revealing significant results, the mentioned limitations require us to consider conclusions as suggestive rather than a clear finding.
+
+Supplementary data associated with this article can be found, in online version, at doi:10.1016/j.cyto.2011.12.021.
+
+References
+
+[
+
+] Franceschi C, Bonafè M, Valensin S, Olivieri F, De Luca M, Ottaviani E, et al. Inflamm-aging. An evolutionary perspective on immunosenescence. Ann NY Acad Sci
+
+;
+
+:
+
+–
+
+[
+
+] Candore G et al. Cytokine gene polymorphisms and atherosclerosis. In: Vandenbroeck K, editor. Cytokine gene polymorphisms in multifactorial conditions. Boca Raton, FL: CRC Press;
+
+[
+
+] Rea IM et al. Cytokine gene polymorphisms and longevity. In: Vandenbroeck K, editor. Cytokine gene polymorphisms in multifactorial conditions. Boca Raton, FL: CRC Press;
+
+[
+
+] Zhernakova A, Alizadeh BZ, Eerligh P, Hanifi-Moghaddam P, Schloot NC, Diosdado B, et al. Genetic variants of RANTES are associated with serum RANTES level and protection for type
+
+diabetes. Genes Immun
+
+;
+
+:
+
+–
+
+[
+
+] An P, Nelson GW, Wang L, Donfield S, Goedert JJ, Phair J, et al. Modulating influence on HIV/AIDS by interacting RANTES gene variants. Proc Natl Acad Sci USA
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Samson M, Libert F, Doranz B, Rucker J, Liesnard C, Farber C, et al. Resistance to HIV-
+
+infection in caucasian individuals bearing mutant alleles of the CCR-
+
+chemokine receptor gene. Nature
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Potteaux S. Role of bone marrow-derived CC-chemokine receptor
+
+in the development of atherosclerosis of low-density lipoprotein receptor knockout mice. Arterioscler Thromb Vasc Biol
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Laplana M, Sánchez-de-la-Torre M, Aguiló A, Casado I, Flores M, Sánchez- Pellicer R, et al. Tagging long-lived individuals through vitamin-D receptor (VDR) haplotypes. Biogerontology
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Jones KL, Maguire JJ, Davenport AP. Chemokine receptor CCR
+
+: from AIDS to atherosclerosis. Br J Pharmacol
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Balistreri CR, Candore G, Caruso M, Incalcaterra E, Franceschi C, Caruso C. Role of polymorphisms of CC-chemokine receptor-
+
+gene in acute myocardial infarction and biological implications for longevity. Haematologica
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Balistreri CR, Carruba G, Calabrò M, Campisi I, Di Carlo D, Lio D, et al. CCR
+
+proinflammatory allele in prostate cancer risk: a pilot study in patients and centenarians from Sicily. Ann NY Acad Sci
+
+;
+
+:
+
+–
+
+[
+
+] Lio D, Scola L, Crivello A, Colonna-Romano G, Candore G, Bonafè M, et al. Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-
+
+(cid:
+
+)
+
+promoter SNP and its interaction with TNF-alpha (cid:
+
+)
+
+promoter SNP. J Med Genet
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Rea IM, Middleton D. Is the phenotypic combination A
+
+B
+
+Cw
+
+DR
+
+a marker for male longevity? J Am Geriatr Soc
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Yang Y, Kozloski M. Sex differences in age trajectories of physiological dysregulation: inflammation, metabolic syndrome, and allostatic load. J Gerontol A Biol Sci Med Sci
+
+;
+
+(
+
+):
+
+–
+
+[
+
+] Eskes T, Haanen C. Why do women live longer than men? Eur J Obstet Gynecol Reprod Biol
+
+;
+
+(
+
+):
+
+–
+
+The role of sex differences in age trajectories is still unresolved. Our data shows that the RANTES genetic component differs be- tween males and females and could contribute to their differences in aging trajectories. The appropriate regulation of the inflamma- tory response by a proper balance of pro- and anti-inflammatory cytokines could be an important factor in reaching extreme longevity. Assuming all the limitations previously mentioned our results encourage further studies to replicate our findings and to search for additional inflammation-related genes that could define an inflammation-related genetic component contributing to sex differences in longevity.
+
+Conflict of interest
+
+The authors declare that they have no proprietary, financial, professional or other personal interest of any nature or kind that might raise the question of bias in the work reported or in the conclusions, implications, or opinions stated in this manuscript.
+
+Acknowledgements
+
+M.L. was recipient of a fellowship from the University of Lleida. This work was supported by grants to the University of Lleida (J.F., principal investigator) from Fondo de Investigación Sanitaria (FIS, PI051778) and Ministerio de Ciencia e Innovación (CGL 2007- 62875). The authors thank Elaine Lilly, Ph.D. (Writer’s First Aid), for English language revision of the manuscript. The authors also thank the elderly participants and their families, who made this study possible.

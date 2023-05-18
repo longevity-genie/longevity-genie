@@ -1,0 +1,1081 @@
+Evidence from case control and longitudinal studies APOE CETP supports associations of genetic variation in , , IL6 and with human longevity
+
+Soerensen & Serena Dato & Qihua Tan & Thinggaard & Rabea Kleindorp & Beekman & H. Eka D. Suchiman & Jacobsen & Matt M
+
+ue & Tinna Stevnsner A. Bohr & Anton J. M. de Craen & G. J. Westendorp & Stefan Schreiber & Eline Slagboom & Almut Nebel & W. Vaupel & Kaare Christensen & Christiansen
+
+Received: 31 August 2011 /Accepted: 15 December 2011 # American Aging Association 2012
+
+CETP; HFE; IL6; IL6R; MTHFR; TGFB1; APOA4; APOC3; SIRTs 1, 3, 6; and HSPAs 1A, 1L, 14. In a – – case control study of 1,089 oldest-old (ages 92 93) and 736 middle-aged Danes, the minor allele
+
+Abstract In this study, we investigated 102 single- nucleotide polymorphisms (SNPs) covering the com- mon genetic variation in 16 genes recurrently regarded as candidates for human longevity: APOE; ACE;
+
+Electronic supplementary material The online version of this article (doi:10.1007/s11357-011-9373-7) contains supplementary material, which is available to authorized users.
+
+S. Dato
+
+M. Soerensen (*) S. Dato Q. Tan M. Thinggaard : : : R. Jacobsen M. M
+
+ue J. W. Vaupel K. Christensen L. Christiansen The Danish Aging Research Center, Epidemiology, Institute of Public Health, University of Southern Denmark, J.B. Winsloews Vej
+
+B,
+
+Odense C, Denmark e-mail: msoerensen@health.sdu.dk
+
+Institute of Clinical Molecular Biology, University Hospital Schleswig-Holstein and Christian-Albrechts-University, Schittenhelmstrasse 12, 24105 Kiel, Germany
+
+M. Soerensen Q. Tan K. Christensen L. Christiansen Department of Clinical Genetics, Odense University Hospital, Sdr. Boulevard 29, 5000 Odense C, Denmark
+
+M. Soerensen Q. Tan K. Christensen L. Christiansen Department of Clinical Biochemistry and Pharmacology, Odense University Hospital, Sdr. Boulevard 29,
+
+M. Beekman H. E. D. Suchiman P. E. Slagboom Netherlands Consortium for Healthy Ageing, Leiden University Medical Center,
+
+RC Leiden, the Netherlands
+
+frequency (MAF) of rs769449 (APOE) was cantly decreased in the oldest-old, while the MAF rs9923854 (CETP) was significantly enriched. effects were supported when investigating – oldest-old (ages 95 110) and 1,104 middle-aged mans. rs769449 was in modest linkage (R20 0.55) with rs429358 of the APOE-ε 4 and adjusting for rs429358 eliminated the of rs769449, indicating that the association reflects the well-known effect of rs429358. based analysis confirmed the effects of variation APOE and CETP and furthermore pointed to as a longevity gene. In a longitudinal study 11 years of follow-up on survival in the Danes, only one SNP, rs2069827 (IL6), was significantly associated with survival from age 92 0 corrected 0.064). This advantageous effect of the nor allele was supported when investigating a 0 longitudinal cohort (N 563) of oldest-old (age Since rs2069827 was located in a putative tion factor binding site, quantitative RNA studies were conducted. However, no difference in expression was observed between rs2069827 groups. In conclusion, we here support and expand evidence suggesting that genetic variation in CETP, and IL6, and possible HSPA14, is associated human longevity.
+
+Introduction
+
+Approximately 25% of the variation in human lifespan is thought to be caused by genetic variation (Herskind et al. 1996), a contribution considered to be minimal before age 60 years and most profound after age 85 years (Hjelmborg et al. 2006). Candidate genes for longevity encode proteins engaged in different biological processes including lipoprotein metabolism and inflammatory processes (Christensen et al. 2006).
+
+the common genetic variation within candidate genes previously reported to contain lifespan associated poly- morphisms. Furthermore, we expand the study to include the genetic variation of genes belonging to the same functional groups. Of the 16 genes included in this study, only SIRT1 and 3 have previously been investigated by a tagging single-nucleotide polymorphism (SNP) ap- proach in a candidate association study (Flachsbart et al. 2006; Kuningas et al. 2007; Lescai et al. 2009).
+
+We investigate the apolipoprotein E, C3, and A4 genes (APOE, APOC3, and APOA4), all of which are involved in lipoprotein metabolism, believed to pose an effect on longevity (Christensen et al. 2006). The APOE ε 4 haplotype is by far the most validated ge- netic variation and has repeatedly been associated with human longevity (e.g., Asada et al. 1996; Bathum et al. 2006; Deelen et al. 2011; Gerdes et al. 2000; McKay et al. 2011; Nebel et al. 2011; Schachter et al. 1994), whereas one study has found association of rs2542052 in APOC3 with longevity (Atzmon et al. 2006). The APOE polymorphism was recently reviewed in (Seripa et al. 2011). Also involved in lipoprotein metabolism is the cholesteryl ester transfer protein (cetp) for which rs5882 in CETP has been reported as a longevity SNP (Barzilai et al. 2003).
+
+T. Stevnsner V. A. Bohr The Danish Aging Research Center, Department of Molecular Biology, Aarhus University, C. F. Moellers Allé
+
+,
+
+Aarhus C, Denmark
+
+V. A. Bohr
+
+Genes encoding proteins engaged in immune regu- latory processes are also key candidates for longevity (reviewed in Jylhava and Hurme 2010). Frequently discussed is the cytokine interleukin 6 (IL6) and its receptor alpha (IL6R); in IL6, a variable number of − tandem repeat (VNTR) and a 174C/G polymorphism (rs1800795) have been described as associated with longevity (Capurso et al. 2007; Christiansen et al.
+
+A. J. M. de Craen R. G. J. Westendorp Department of Gerontology and Geriatrics, Leiden University Medical Center, C
+
+-R, PO Box
+
+,
+
+RC Leiden, the
+
+J. W. Vaupel
+
+Max Planck Institute for Demographic Research, Konrad-Zuse-Str.
+
+,
+
+Rostock, Germany
+
+2004; Hurme et al. 2005; Rea et al. 2003). Another cytokine gene often suggested is the transforming β growth factor beta 1 gene (TGF 1), which is involved, among others, in regulation of cellular proliferation β and differentiation. In TGF 1, the +915 polymorphism (rs1800471) and a haplotype including rs1800471 have been reported to be of relevance for longevity (Carrieri et al. 2004).
+
+1999; Blanche et al. 2001; Yang et al. 2009), rs1800562 in HFE (Carru et al. 2003; Coppin et al. 2003), and rs180113 in MTHFR (Bladbjerg et al. 1999; Khabour et al. 2009; Hessner et al. 2001; Brattstrom et − al. 1998) and 176C/G in IL6 (Pes et al. 2004; Wang et al. 2001). Furthermore, a few meta-analyses or pooled ε analyses have been published; for APOE 4 and the ACE I/D, insertion/deletion association was supported (McKay et al. 2011; Zajc et al. 2012), while for − the IL6 176C/G polymorphism, a North/South Euro- pean gradient of association was suggested (Di Bona et al. 2009). In any case, the involvement in longevity of the majority of these specific polymorphisms still remains uncertain.
+
+We also explored the heat shock protein (hsp) encoding genes HSPA1A, 1L, and 14, all playing a role in folding of newly translated proteins and in stabilization of proteins against aggregation, processes reported to decrease during aging (Singh et al. 2007). The A/C-110 polymorphism in HSP1A and T2437C in HSP1L have been described to be independently as- sociated with longevity (Altomare et al. 2003; Ross et al. 2003; Singh et al. 2010), as well as in separate haplotypes (Li et al. 2009a; Singh et al. 2010).
+
+The majority of candidate gene studies published to date have investigated only very few polymorphisms in each gene. To more thoroughly examine as much of the known variation in each of these genes as possible, we here apply a tagging SNP approach using a total of 102 tagging SNPs covering the 16 gene regions. With the exception of SIRT 1 and 3 (Flachsbart et al. 2006; Kuningas et al. 2007; Lescai et al. 2009), such an approach has, to our knowledge, not been applied before in a candidate gene study. Moreover, preceding studies – have generally used a case control study design, thus raising concerns of bias introduced by differences in characteristics of cases and controls, for example cohort – effects. Here we apply a case control approach using – two cohorts of 1,089 oldest-old (age 92 93 years) and – 736 middle-aged (age 46 67 years) Danish individuals, as well as a longitudinal approach with 11 years of follow-up survival data of the 1,089 oldest-old. Finally, we include replication data from Dutch and German study populations, as well as exploration of the initial – findings from the Danish case control study in the Danish longitudinal data and vice versa. Thus, the study presented here offers a good opportunity to confirm the putative association of variation in these major candidate
+
+The sirtuins 1, 3, and 6 probably function as intra- cellular regulatory proteins affecting for example IGF1/insulin signaling and DNA repair, although their roles are not entirely clear (Olmos et al. 2011). In SIRT3, a G477T polymorphism (Rose et al. 2003) and a VNTR polymorphism (Bellizzi et al. 2005) have been put forward as longevity polymorphisms.
+
+Finally, we examined three genes not belonging to any of these biological processes but still considered reliable candidates in previous studies: the highly dis- cussed candidate gene angiotensin I-converting en- zyme (ACE), for which the I/D insertion/deletion (tagged by rs4343 (Abdollahi et al. 2008)) has been reported by several authors to be associated with lon- gevity (Arias-Vasquez et al. 2005; Cellini et al. 2005; Frederiksen et al. 2003; Luft 1999; Novelli et al. 2008; Schachter et al. 1994; Zajc et al. 2012); the iron absorption regulatory protein hfe, for which the Cys282Tyr variation (rs1800562) was found to de- crease with age (Bathum et al. 2001; Lio et al. 2002); and, finally, MTHFR, which is of importance for the essential remethylation of homocysteine to methionine, where the C677T (rs1801133) polymor- phism has been suggested as associated with longevity (Stessman et al. 2005; Todesco et al. 1999).
+
+Subjects
+
+A considerable number of the associations men- tioned above could not be replicated in subsequent studies. These studies include rs2542052 in APOC3 (Novelli et al. 2008), rs5882 in CETP (Cellini et al. 2005; Novelli et al. 2008), I/D insertion/deletion in ACE (Agerholm-Larsen et al. 1997; Bladbjerg et al.
+
+Detailed characteristics for the discovery cohorts were previously described in (Soerensen et al. 2010). In
+
+short, the study population of oldest-old were 1,200 participants from The Danish 1905 Birth Cohort Study (Nybo et al. 2001), while the 800 younger controls were singleton participants from the Study of Middle Aged Danish Twins (Skytthe et al. 2002). The survival status information was retrieved from the Danish Central Population Register (Pedersen et al. 2006), and the vital status was followed until death or January 1, 2010. After data cleaning, the final sample size was 1,089 oldest-old and 736 middle-aged individuals. Permission to collect blood samples and usage of register-based information was granted by The Danish National Committee on Biomedical Research Ethics.
+
+(see Online Resource 1). The chromosomal regions investigated are the gene regions plus 5,000 kb up- stream and 1,000 kb downstream. Tagging SNPs were identified via HapMap consortium database (http:// hapmap.ncbi.nlm.nih.gov/index.html.en, CEU cohort) and analyzed using the HaploView software (http:// www.broadinstitute.org/haploview/haploview; Barrett et al. 2005). Finally, for optimal genotyping, SNPs known to perform poorly on the Illumina GoldenGate genotyping platform were excluded.
+
+Genotyping
+
+DNA was isolated from blood spot cards using the QIAamp DNA Mini and Micro Kits (Qiagen, Ger- many); genotyping was performed using Illumina GoldenGate technology (Illumina Inc, San Diego, CA, USA), and data clean up, data verification, and reproducibility checks were conducted as previously described (Soerensen et al. 2010). In total, 16 SNPs were excluded, leading to 102 SNPs for data analysis. Genotyping in the German and Dutch study popula- tions was performed using Sequenom MassARRAY iPLEX®Gold technology (Sequenom®, Inc., San Diego, CA, USA); see the Supplementary Material (Online Resource 1) for details.
+
+Study populations for replication of initial findings
+
+For replication of the initial observations from the – Danish case control study, two German samples of – 1,613 unrelated long-lived individuals (age 95 110) and 1,140 middle-aged controls (mean age 67.2) were used. The participants were identified through local registry offices and from the Federal Administrative Office. They were recruited from the different geo- graphic regions of Germany and were all of German ancestry (Nebel et al. 2005). Approval was received from the Ethics Committee of the University Hospital Schleswig-Holstein.
+
+For replication of initial findings from the Danish longitudinal study, the Dutch Leiden 85-plus Study was used. This prospective cohort was initiated in 1997, when all 85-year-old inhabitants of the city Leiden in the Netherlands were invited to participate. The cohort consists of 563 participants, all Caucasians – and members of the 1912 1914 birth cohort recruited from 1997 to 1999 (Bootsma-van der Wiel et al. 2002). The Medical Ethical Committee of the Leiden University Medical Centre approved the study, and informed consent was obtained from all participants or, in case of severe cognitive impairment, from their guardian.
+
+Whole blood samples were collected, stabilized, and transported in PAXgene Blood RNA Tubes (Qiagen) − and stored at 80°C. RNA was isolated using the PAXgene Blood RNA Kit (Qiagen), and the integ- rity and concentration of RNA were determined by the RNA 6000 Nano Kit and a Bioanalyser 2100 (Agilent Technologies, USA). Reverse transcription was performed by the high-capacity cDNA Reverse Transcription kit (Applied Biosystems, USA) taking μ maximum 2 g of purified RNA in a total volume μ of 20 l. IL-6 expression was determined by qPCR using TaqMan Gene Expression Assays (Applied biotechnology) in duplex reactions of FAM-labeled IL6 primers (Hs00985637_m) and VIC-MGB- labeled ACTB (beta actin) endogenous control (limited) primers (4326315E). First validation experiments were carried out checking for equal efficiency of the primers in single and duplex reactions with varying cDNA dilutions and by
+
+The 16 genes were chosen as part of a large candidate gene study based on comprehensive literature/data base searches for candidate longevity genes, candidate longevity SNPs, and tagging SNPs. The details of this selection are described in the Supplementary Material
+
+subsequently determining the dynamic range by μ standard curves. Consequently, 20 l reactions in- μ μ cluding 1 l of each primer and 4 l cDNA sam- ples diluted 1:10 were made in triplicates applying the standard protocol of the StepOnePlus real-time PCR system (Applied biotechnology). Thresholds established in the validation experiments were ap- plied, the real-time curves were confirmed, and in case of C values off range, such samples were t excluded.
+
+time of death was put at December 31, 2000, when half of the males and one third of the females in cohort had died. Accordingly, the early/late death 0 was defined as early time of death between (date at intake) and December 31, 2000 (i.e., 0 living to maximum age 95) and late time death after January 1, 2001 (i.e., individuals surviv- to age 95+). Fourteen of the 1089 oldest-old indi- were alive by January 1st 2010 (the recent Their remaining life expectancies were im- using www.mortality.org holding cohort mortal- data for the Danish population (based on data from Statistics Denmark). As a second survival variable, employed the number-of-days-lived variable de- as the exact number of days lived from date of in 1998 to either death or the imputed date. The of normal distribution and equal variance tested in the STATA 11.1 statistical program Corporation, College Station, TX, USA) by – – – Wilk and Breusch Pagan/Cook Weisberg and since the variable did not demonstrate nor- distribution, it was transformed to the square root a better fit. Association analysis was conducted by (number-of-days-lived variable) or logistic (ear- death variable) regression in Plink, adjusting sex and age or stratifying by sex, while adjusting age and applying additive, recessive, and dominant
+
+Statistical analysis
+
+quencies (CCA) and genotype frequencies (CCG), – as well as case control comparisons of haplotype frequencies (CCH) were performed for the Danish cohorts using the Plink statistical software (http:// pngu.mgh.harvard.edu/purcell/plink; Purcell et al. 2007). CCH was analyzed by regression analysis adjusting for sex. Haplotypes were defined by a sliding window of three SNPs (only considering haplotypes with frequency >5%). In sex-stratified – CCG analysis, first an additive model (Cochran Armitage test) and secondly recessive and dominant models were applied. To adjust CCG for sex, when analyzing both genders combined, CCG was ana- lyzed using a generalized linear model in the R software (http://www.r-project.org). Again additive, recessive, and dominant models were applied. The German replication data were analyzed in the same way for CCAs and CCGs. Finally, gene-based analysis was conducted in Plink by set-based analyses for each gene, calculating a mean of the single-SNP P values taking into account linkage disequilibrium (LD) be- tween the SNPs. The P-set value was corrected for multiple testing for the number of SNPs in each gene
+
+In the replication study, survival analysis using genotype data from the Leiden 85-plus Study was performed in Stata 11.1 by applying a sex-adjusted – Cox proportional hazard model. Kaplan Meier plots for the Dutch and the Danish cohorts were generated in Stata 11.1.
+
+For all analyses, a nominal significance level was set to 0.05. Correction for multiple testing was performed by the permutation approach (applying max(T) permu- tation mode set at 10,000 permutations) for analyses carried out in the Plink and R software.
+
+LD estimates for the APOE SNPs were obtained using the Plink software, and the LD data were used in the HaploView software (http://www.broadinstitute. org/haploview/haploview; Barrett et al. 2005) for gen- eration of an APOE LD plot.
+
+Data on IL6 expression measurements was ana- lyzed in the STATA 11.1 statistical program by Δ linear regression of C and rs2069827 genotype t data, adjusting for age at blood sampling (the latter was initially observed to be a confounder). Assumptions of normal distribution and equal var- Δ – iance were tested for Ct by Shapiro Wilk and – – Breusch Pagan/Cook Weisberg tests. A box plot Δ of mean Ct by rs2069827 genotype groups was generated in STATA 11.1.
+
+Two survival variables were applied in the Danish longitudinal study. First, we wanted to explore the genetic contribution to surviving for a short period versus a longer period of time during the ninth decade of life. The distribution of survival times was right skewed (data not shown); hence, a cutoff with respect
+
+Results
+
+(Candore et al. 2006; Franceschi et al. 2000; Li et al. 2009b; Soerensen et al. 2010), the analyses were re- peated while stratifying by gender. The sex-specific analyses of rs9923854 (CETP) and rs769449 (APOE) were in complete agreement with the result of the combined group, although rs769449 (APOE) did not pass correction for multiple testing (see Supplementary Table 3, Online Resource 4).
+
+The 102 genotyped SNPs in the 16 candidate genes are listed in Supplementary Table 1 (Online Resource 2), whereas the Danish discovery cohorts and German and Dutch replication populations are described in Table 1.
+
+Gene-based analysis confirmed the association of variations in CETP and APOE with longevity (see Table 3). HSPA14 and SIRT6 also showed significance in the gene-based analysis, but the gene-based P value for SIRT6 reflected the association of only a single SNP, since the remaining SIRT6 SNPs were insignificant at the single-marker level (data not shown).
+
+Comparison of allele frequencies between middle- aged and oldest-old Danes showed more significant findings than expected by chance (see Supplementary Table 2, Online Resource 3) and left two out of 102 SNPs significant after correction for multiple testing. The minor allele frequency of rs9923854 (CETP) was – enriched in the 92 93 year olds, implying that this allele is advantageous for survival from middle-age to old age (OR >1). In contrast, rs769449 (APOE) displayed a decreased prevalence of the minor allele, thus indicating a disadvantageous effect on survival (OR <1). Analysis of genotype frequencies supported – these findings. Haplotype case control comparisons identified three haplotypes significantly associated with longevity after correction for multiple testing; all three included either rs9923854 (CETP) or rs769449 (APOE) and demonstrated effects in line with the single-SNP analysis. The data are summarized in Table 2.
+
+ε 2/3/4 polymorphism (Bathum et al. 2006; Caliebe et al. 2010; Jacobsen et al. 2010) from 1,270 of the partic- ipants, we found that rs769449 (APOE) was in moderate LD with the ApoE ε 4 defining SNP rs429358 (R20 0.55). An LD plot for the APOE SNPs genotyped in this ε study and the two ApoE SNPs rs429358 and rs7412 is shown in Supplementary Figure 1 (Online Resource 5). In order to determine whether the effect of rs769449 was ε independent of APOE , logistic regression was per- – formed for case control status and rs769449 genotype data adjusting for gender and for either rs429358 or rs7412 genotype data. Using the 1,270 individuals with available information, the initially significant association 0 (P 0.043) remained unchanged after adjusting for
+
+As the association of SNPs with longevity has previously been suggested to differ between genders
+
+1 Characteristics of the Danish discovery cohorts and the German and Dutch study populations
+
+The Danish discovery cohorts MADT 1905 Number of individuals 736 1,089 Average age in years at intake (range) 50.6 (46.0–55.0) 93.2 (92.2–93.8) Males/females (%) at intake 50.4:49.6 28.7:71.3 Mean follow-up time (SD) – 3.53 (2.5) Follow-up time (years) – 11.4 German case–control study Dutch longitudinal study Study populations for replication of initial findings Controls LLI Leiden 85-plus Study Number of individuals 1,104 1,613 563 Average age at intake (SD) 67.2 (4.07) 98.4 (2.7) 85.0 (0) Males/females (%) at intake 25.6:74.3 26.8:73.2 33.4:66.6 Mean follow-up time (SD) – – 5.49 (3.0) Follow-up time (years) – – 10.4
+
+MADT the Study of Middle Aged Danish Twins, 1905 the Danish 1905 birth cohort, LLI long-lived individuals, SD standard deviation
+
+strohochsinaDdlo-tsedlodnadega-elddimfonosirapmoclortnoc –esacehtniytivegnolhtiwdetaicossayltnacifingissPNS2elbaT nosirapmoclortnoc –esacepytonegdnaelellA ycneuqerfniegnahCdetcerrocnuGCCP)IC%59(ROACCPACCPFAMnoitisoP/.rhC/roniMPNSeneG setogyzomohnommocfodetcerrocdetcerrocnu5091/TDAMenegninoitisopelellarojaM degaelddimmorf degadloot↑190.0007.0810.02000.0321.0/661.0cinortnI24810105/91G/A944967srEOPA )648.0 –975.0( ↓100.0849.1 4−01×0.1 01−01×24.4461.0/190.0cinortnI30547555/61A/C4583299srPTEC )904.2 –675.1(nosirapmoclortnoc –esacepytolpaH detcerrocHCCPdetcerrocnuHCCPRO5091qerFTDAMqerFepytolpaH3PNS2PNS1PNSeneGRHC 8020.0 5−01×86.956.0590.0141.0AGA944967sr644044sr905504srEOPA91 8300.0 5−01×53.207.1821.0380.0GCG7770081sr4583299sr2885srPTEC61 2300.0 5−01×11.296.1921.0480.0CGG4583299sr2885sr4770081sr dlobninwohssignitsetelpitlumfonoitcerrocretfatnacifingisgniebseulavGCCProACCP ,oitarsddoRO,eulavPnosirapmoclortnoc –esaccilellaACCP,trohoc5091eht5091,sniwThsinaDdegAelddiMfoydutSehtTDAM,ycneuqerfelellaronimFAM,emosomorhcrhC eulavPnosirapmoclortnoc-esaccipytolpahHCCP,ycneuqerfqerF,eulavPnosirapmoclortnoc –esaccipytonegGCCP,lavretniecnedifnoc%59IC%59
+
+
+
+
+
+Table 3 Danish case–control study; gene-based test of PCCAs
+
+Gene No. of SNPs Single-SNP-based test (PCCA<0.05) Gene-set-based genotyped SNP PCCA OR P-set CETP 20 rs1800777 0.020 1.517 1×10−5 rs289714 0.019 1.233 rs4784744 0.027 0.856 rs5883 0.022 1.385 rs9923854 4.42×10−10 1.948 rs9930761 0.004 1.460 APOE 3 rs405509 0.025 0.859 0.0016 rs769449 0.0002 0.700 HSPA14 6 rs12770830 0.011 1.346 0.0019 rs17268499 0.004 1.292 rs7905174 0.005 1.236 rs9787671 0.001 1.343 SIRT6 3 rs107251 0.001 1.348 0.0043
+
+PCCA allelic case–control comparison P value, OR odds ratio, P-set set/gene-based test
+
+up survival data on the oldest-old Danes were per- formed. After adjusting for multiple testing, only rs2069827 (IL6) obtained a corrected P value below 0.10 for the Number_of_days_lived variable: P- 0 0 uncorrected 0.0007, P-corrected 0.064, and only when applying a dominant model. In the gene- based analysis, IL6 showed a P-set value of 0.0068, yet this estimate reflected only rs2069827, since the other IL6 SNP (rs12700386) was insignif- icant in the single-marker analysis (data not shown). None of the remaining 15 genes showed P-set values below 0.05 (which was based on more than one signif- icant SNP) confirming the lack of association between variations in any other genes than IL6.
+
+Replication studies in a German case– control population and in the Danish longitudinal data
+
+When analyzing the APOE and CETP SNPs in a German population of 1,613 oldest-old and 1,104 middle-aged individuals, rs769449 (APOE) was sup- ported at the allelic level, whereas rs9923854 (CETP) showed borderline significance at the allelic level (95% CI (OR)0 0.960– 1.358), and was supported at the genotype level (see Table 4). In order to investigate whether the two SNPs also affected survival during old age, regression analysis on survival data on the oldest-old Danes (see below) was performed. We found no effect of rs769449 (APOE), while rs9923854 (CETP) showed nominal significance in females separately, with an estimate pointing in the same direction as observed in the case– control com- parison (the data are summarized in Table 4).
+
+From the regression analysis, the quantitative effect of carrying at least one rs2069827 A allele was esti- mated to be 0.77 and 0.74 additional years of survival for AA/AC males and females, respectively, compared to a mean survival time of 2.91 and 3.74 years for rs2069827-CC males and females, respectively, hence indicating a considerable effect.
+
+Longitudinal study in the cohort of oldest-old Danes
+
+Replication studies in a Dutch prospective cohort – and in the Danish case control data
+
+In order to evaluate the association of the 102 SNPs with survival at advanced ages and to esti- mate their quantitative effects, regression analyses of the survival variables using 11 years of follow-
+
+Investigation of this single borderline significant IL6 SNP in the Dutch replication cohort using Cox regres- 0 sion supported an effect on late life survival; HR 0.74,
+
+ydutslanidutignolhsinaDehtnidnanoitalupoplortnoc ydutslortnoc –esacnamreGydutslortnoc –esachsinaD ecnadrocnoCGCCP)IC%59(ROdetcerrocnuACCPsesac/slortnocFAM)IC%59(ROACCPsesac/slortnocFAMPNSeneG seidutsneewtebdetcerrocnudetcerrocnu seY190.0)625 –0 –153.0(034.0 71−01×02.5550.0/911.0)648.0 –975.0(007.02000.0321.0/661.0944967srEOPA seY b100.0)853.1 –069.0(241.1331.0911.0/601.0)904.2 –675.1(849.1 01−01×24.4461.0/190.04583299srPTEC ydutslanidutignolhsinaDydutslortnoc –esachsinaD seidutsneewtebecnadrocnoCeulavP)IC%59(ROdetcerrocnuACCPPNSeneG –50.0>)648.0 –975.0(007.02000.0944967srEOPA seY a50.0>)904.2 –675.1(849.1 01−01×24.44583299srPTEC eulavPnosirapmoclortnoc –esaccipytonegGCCP,lavretniecnedifnoc%59IC%59,oitarsddoRO,eulavPnosirapmoclortnoc –esaccilellaACCP )elbairavdevil_syad_fo_rebmuN(140.0 0P,)041.4 –980.0 0IC%59(411.2 0tneiciffeoc- βdna,)elbairavetal_ylrae(840.0 0P,)998.1 –200.1 0IC%59(083.1 0RO:selamefroF a 11.2 –74.1 0IC%59,67.1 0)setogyzomoherar(RO,85.1 –11.1 0IC%59,23.1 0)setogyzoreteh(RO b
+
+qPCR investigation of IL6 expression
+
+–esacnamreGaniydutslortnoc –esachsinaDehtmorfsgnidniflaitinifonoitacilpeR4elbaT
+
+base on SNP function prediction locates rs2069827 to ′ a putative transcription factor binding site in the 5 untranslated region of IL6. Hence, the level of IL6 mRNAwas analyzed by qPCR using 198 representative samples from the middle-aged cohort, for which RNA was available. No significant difference in mRNA levels was observed between genotype groups for rs2069827 0 Δ (P value 0.532). The average C values in each t rs2069827 group are depicted in Fig. 2, clearly illustrat- ing no difference between heterozygotes and common homozygotes.
+
+Discussion
+
+Several candidate genes have been explored for their part in human longevity. The majority of the previous studies on the genes investigated here have focused on one or a few variations and have often been followed by contradictory replication results. Interestingly, in this study we did include three of the specific SNPs reported previously (rs4343 (ACE), rs5882 (CETP), and rs1801133 (MTHFR)). Retrospectively inspecting these SNPs in the data shows that only rs4343 (ACE) was nominally significantly associated with longevity (P<0.05) in concordance with the initial publications, while no effect of the other two SNPs could be noted. Thus, these results emphasize that such a single-marker candidate approach might point to a specific polymor- phism, yet it does not enable conclusions on the possible relevance of variation in the gene region as such.
+
+–esachsinaDehtmorfsgnidniflaitinifonoitacilpeR4elbaT
+
+To facilitate the confirmation of the relevance of a number of well-known candidate genes for longevity, we thus extended the examination of these genes to cover the majority of the common variation in the regions by using a total of 102 tagging SNPs. Apply- – ing the case control approach, two SNPs, rs769449 (APOE) and rs9923854 (CETP), were found to be associated with longevity. The effect of these was supported by haplotype and gene-based analyses and
+
+(a) Danish cohort 1.00 AA+AC CC 0.75 0.50 0.25 0.00 93 98.5 104 Analysis time (age in years) (b) Dutch cohort 1.00 AA AC 0.75 CC 0.50 0.25 0.00 85 90 95 Analysis time (age in years) gnivivrus noitroporPgnivivrus noitroporP
+
+al. 2010). Moreover, in the cohort individuals used in the present paper for investigating the dependency between ε APOE and rs769449, rs429358 alone also shows a modest effect on survival during old age (unpublished data). Yet, such an effect was not seen for rs769449, indicating that rs769449 does not reflect all the effects of rs429358. In contrast, rs9923854 (CETP) did show nominal effects on survival during old age, yet only in females, indicating that the effect of this SNP might become gender specific toward the most late part of life.
+
+Apoe is involved in lipoprotein metabolism via its binding to low-density lipoprotein (LDL) receptors on the surface of for instance liver cells, hereby mediating endocytosis and consequently removal of LDL from the circulation. The isoforms of APOE (E2, E3, and E4) have been shown to interact differently with diverse LDL receptors, leading to differences in LDL levels, APOE4 being associated with the highest LDL levels. Moreover, APOE4 possibly also influences oxidative stress and inflammatory states. These mechanisms are probably the basis of the increased risk of premature ’ atherosclerosis, coronary heart disease, Alzheimer s dis- ε ease, and mortality repeatedly found in APOE 4 car- riers (Chung et al. 2010; Dietrich et al. 2005; Jofre- Monseny et al. 2007; Vitek et al. 2009). The association of rs769449 (APOE) to longevity identified here is probably a proxy for these functional effects.
+
+Fig. 1 Kaplan–Meier survival estimates by rs2069827 (IL6) genotype groups in the a Danish and b Dutch prospective cohorts
+
+was supported in the German replication population, hence pointing to importance of genes involved in lipoprotein metabolism for longevity.
+
+Cetp has opposing effects on lipoprotein metabo- lism. On one hand, it increases LDL and very-low- density lipoproteins (VLDLs) levels by transferring cholesterol esters from high-density lipoproteins (HDLs) to LDLs/VLDLs. On the other hand, it increases removal of lipoproteins from the circulation as part of transferring triglycerides from VLDLs/LDLs to HDLs (reviewed in Weber et al. 2010). Hence, one might expect the rare allele of rs9923854 (CETP) to contribute to decreased cholesterol ester transfer activity and/or increased triglyceride transfer activity, although the role could well be much more complex. This is underlined by the difference in success observed in clinical studies of cetp inhibitors for prevention of atherosclerosis (Weber et al. 2010).
+
+The effect of APOE rs769449 did, however, most ε likely reflect the well-known effect of the APOE 4 haplotype defining rs429358 and was not evident in ε advanced age survival. The APOE 4 haplotype has in our cohorts not only been reported to pose a negative effect on survival from middle age to old age (Gerdes et al. 2000; Tan et al. 2004) but also on survival during old age (Bathum et al. 2006; Deelen et al. 2011; Jacobsen et
+
+CC (N=45) AC (N= 153)182069827 (IL6) genotype groups 
+
+the level of the entire gene indicated a positive effect of the rare variants of HSPA14 on survival from middle-aged to old-aged. HSPA14 belongs to the same functional group as HSPA1A and HSPA1L (70 kDa heat shock proteins (HSP70s)) previously reported as associated with human longevity (Altomare et al.
+
+Fig. 2 Mean age-adjusted ΔC values by rs2069827 (IL6) t genotype groups
+
+Schleswig-K.E.R.N. (by EU funds from the European Regional Development Fund), the National Institute on Aging (P01 AG08761), the Novo Nordisk Foundation, the Aase and Ejnar Danielsen Foundation, the Augustinus Foundation, the Brødrene Hartmann Foundation, the King Christian the 10th foundation, the Einer Willumsens Mindelegat Foundation, and by a Dutch grant from the Netherlands Consortium for Healthy Ageing (grant 050- 060-810) in the framework of the Netherlands Genomics Initia- tive/Netherlands Organization for Scientific Research (NWO). The Danish Aging Research Center is supported by a grant from the VELUX Foundation. Susanne Knudsen,SteenGregersen,Ulla Munk, Shuxia Li, Anne Mette Hedegaard Nielsen, Marlene Graff Sørensen, and Lene Elnegaard are thanked for excellent technical work.
+
+2003; Ross et al. 2003; Singh et al. 2010). Hsp14 (also named hsp70L1) is a rather recently identified hsp70 protein (Wan et al. 2004) and is known to be located in ribosomes, probably playing a role in the folding of newly translated proteins (Otto et al. 2005). Accord- ingly, the rare alleles of the HSPA14 SNPs reported here could be hypothesized to enhance such activity and, thus, avoid accumulation of newly translated proteins during aging. However, hsp14 also enhances cellular immunity in dendrites, e.g., stimulating secre- α tion of for instance IL12 and TNF , and has therefore been suggested as an adjuvant for the treatment of cancer and infectious disease (Wu et al. 2005). An enhancement of such effects could intuitively be con- sidered to pose a positive effect on longevity, although the connection between immune regulatory processes and longevity is, as explained below, probably not that straightforward.
+
+References
+
+Abdollahi MR, Huang S, Rodriguez S, Guthrie PA, Smith GD, Ebrahim S, Lawlor DA, Day IN, Gaunt TR (
+
+) Homo- geneous assay of rs
+
+, an ACE I/D proxy, and an anal- ysis in the British Women’s Heart and Health Study (BWHHS). Dis Markers
+
+:
+
+–
+
+Agerholm-Larsen B, Nordestgaard BG, Steffensen R, Sorensen TI, Jensen G, Tybjaerg-Hansen A (
+
+) ACE gene poly- morphism: ischemic heart disease and longevity in
+
+,
+
+individuals. A case-referent and retrospective cohort study based on the Copenhagen City Heart Study. Circulation
+
+:
+
+–
+
+Altomare K, Greco V, Bellizzi D, Berardelli M, Dato S, D
+
+ango F, Garasto S, Rose G, Feraco E, Mari V, Passarino G, Franceschi C, De BG (
+
+) The allele (A)(−
+
+) in the promoter region of the HSP
+
+-
+
+gene is unfavorable to longevity in women. Biogerontology
+
+:
+
+–
+
+Arias-Vasquez A, Sayed-Tabatabaei FA, Schut AF, Hofman A, Bertolli-Avella AM, Vergeer JM, Aulchenko YS, Witteman JC, van Duijn CM (
+
+) Angiotensin converting enzyme gene, smoking and mortality in a population-based study. Eur J Clin Invest
+
+:
+
+–
+
+Asada T, Kariya T, Yamagata Z, Kinoshita T, Asaka A (
+
+) Ap
+
+epsilon
+
+allele and cognitive decline in patients with Alzheimer’s disease. Neurology
+
+:
+
+Atzmon G, Rincon M, Schechter CB, Shuldiner AR, Lipton RB, Bergman A, Barzilai N (
+
+) Lipoprotein genotype and conserved pathway for exceptional longevity in humans. PL
+
+Biol
+
+:e
+
+Barrett JC, Fry B, Maller J, Daly MJ (
+
+) Haploview: anal- ysis and visualization of LD and haplotype maps. Bioin- formatics
+
+:
+
+–
+
+Barzilai N, Atzmon G, Schechter C, Schaefer EJ, Cupples AL, Lipton R, Cheng S, Shuldiner AR (
+
+) Unique lipopro- tein phenotype and genotype associated with exceptional longevity. JAMA
+
+:
+
+–
+
+Bathum L, Christiansen L, Nybo H, Ranberg KA, Gaist D, Jeune B, Petersen NE, Vaupel J, Christensen K (
+
+) Association of mutations in the hemochromatosis gene with shorter life expectancy. Arch Intern Med
+
+:
+
+–
+
+Bathum L, Christiansen L, Jeune B, Vaupel J, M
+
+ue M, Christensen K (
+
+) Apolipoprotein e genotypes:
+
+When investigating survival during old age in the longitudinal study, we found rs2069827 (IL6) as the only SNP posing an effect, an effect which was con- firmed in the Dutch replication cohort. The relation of immune regulatory genes to longevity is in general based on the idea of a balance between pro- and anti- inflammatory processes, since aging is accompanied by both a decline in several immune functions (immu- nosenescence) and an increase in a chronic low-grade inflammation state (inflammaging). The genetic poly- morphisms associated with longevity are presumed to increase the ability to cope with inflammaging (Jyl- hava and Hurme 2010). Therefore, one might expect the rare allele of rs2069827 (IL6) to hold a low pro- inflammatory activity. Such low activity could pre- sumably be caused by low IL6 expression, yet in our qPCR study we observed no difference in IL6 mRNA levels between rs2069827 genotype groups. Hence, the impact of this SNP does not appear to be mediated through changes in IL6 expression. Finally, rs2069827 may simply be a proxy for a causal variant not geno- typed in the present study.
+
+In conclusion, we here add data to the proposed roles of 16 frequently discussed candidate genes, in- dicating that variation in APOE and CETP, and possi- ble HSPA14, is of importance in survival from middle age to old age, whereas genetic variation in IL6 seems to affect survival during late life.
+
+Acknowledgments This study was financially supported by the Max Planck Institute for Demographic Research (Rostock, Germany), the INTERREG 4 A programme Syddanmark-
+
+relationship to cognitive functioning, cognitive decline, and survival in nonagenarians. J Am Geriatr Soc
+
+:
+
+–
+
+Bellizzi D, Rose G, Cavalcante P, Covello G, Dato S, De RF, Greco V, Maggiolini M, Feraco E, Mari V, Franceschi C, Passarino G, De BG (
+
+) A novel VNTR enhancer within the SIRT
+
+gene, a human homologue of SIR
+
+, is associated with survival at oldest ages. Genomics
+
+:
+
+–
+
+Bladbjerg EM, Andersen-Ranberg K, de Maat MP, Kristensen SR, Jeune B, Gram J, Jespersen J (
+
+) Longevity is independent of common variations in genes associated with cardiovascular risk. Thromb Haemost
+
+:
+
+–
+
+Blanche H, Cabanne L, Sahbatou M, Thomas G (
+
+) A study of French centenarians: are ACE and APOE associated with longevity? C R Acad Sci III
+
+:
+
+–
+
+Bootsma-van der Wiel A, Van Exel E, de Craen AJ, Gussekloo J, Lagaay AM, Knook DL, Westendorp RG (
+
+) A high response is not essential to prevent selection bias: results from the Leiden
+
+-plus study. J Clin Epidemiol
+
+:
+
+–
+
+Brattstrom L, Zhang Y, Hurtig M, Refsum H, Ostensson S, Fransson L, Jones K, Landgren F, Brudin L, Ueland PM (
+
+) A common methylenetetrahydrofolate reductase gene mutation and longevity. Atherosclerosis
+
+:
+
+–
+
+Caliebe A, Kleindorp R, Blanche H, Christiansen L, Puca AA, Rea IM, Slagboom E, Flachsbart F, Christensen K, Rimbach G, Schreiber S, Nebel A (
+
+) No or only population- specific effect of PON
+
+on human longevity: a comprehen- sive meta-analysis. Ageing Res Rev
+
+:
+
+–
+
+Candore G, Balistreri CR, Listi F, Grimaldi MP, Vasto S, Colonna-Romano G, Franceschi C, Lio D, Caselli G, Caruso C (
+
+) Immunogenetics, gender, and longevity. Ann N Y Acad Sci
+
+:
+
+–
+
+Capurso C, Solfrizzi V, D’Introno A, Colacicco AM, Capurso SA, Semeraro C, Capurso A, Panza F (
+
+) Interleukin
+
+variable number of tandem repeats (VNTR) gene polymor- phism in centenarians. Ann Hum Genet
+
+:
+
+–
+
+Carrieri G, Marzi E, Olivieri F, Marchegiani F, Cavallone L, Cardelli M, Giovagnetti S, Stecconi R, Molendini C, Tra- passi C, De BG, Kletsas D, Franceschi C (
+
+) The G/ C
+
+polymorphism of transforming growth factor beta
+
+is associated with human longevity: a study in Italian cente- narians. Aging Cell
+
+:
+
+–
+
+Carru C, Pes GM, Deiana L, Baggio G, Franceschi C, Lio D, Balistreri CR, Candore G, Colonna-Romano G, Caruso C (
+
+) Association between the HFE mutations and lon- gevity: a study in Sardinian population. Mech Ageing Dev
+
+:
+
+–
+
+Cellini E, Nacmias B, Olivieri F, Ortenzi L, Tedde A, Bagnoli S, Petruzzi C, Franceschi C, Sorbi S (
+
+) Cholesteryl ester transfer protein (CETP) I
+
+V polymorphism and longev- ity in Italian centenarians. Mech Ageing Dev
+
+:
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat Rev Genet
+
+:
+
+–
+
+Christiansen L, Bathum L, Andersen-Ranberg K, Jeune B, Christensen K (
+
+) Modest implication of interleukin-
+
+promoter polymorphisms in longevity. Mech Ageing Dev
+
+:
+
+–
+
+Chung WH, Dao RL, Chen LK, Hung SI (
+
+) The role of genetic variants in human longevity. Ageing Res Rev
+
+(Suppl
+
+):S
+
+–S
+
+Coppin H, Bensaid M, Fruchon S, Borot N, Blanche H, Roth MP (
+
+) Longevity and carrying the C
+
+Y mutation for haemochromatosis on the HFE gene: case control study of
+
+French centenarians. BMJ
+
+:
+
+–
+
+Deele
+
+,Beekma
+
+,U
+
+W,Helme
+
+,Kuninga
+
+,Christiansen L, Kremer D, van der Breggen R, Suchiman HE, Lakenberg N, van den Akker EB, Passtoors WM, Tiemeier H, van Heemst D, d
+
+rae
+
+J, Rivadeneir
+
+, d
+
+eus EJ, Perola M, vander Ouderaa FJ, Gunn DA, Boomsma DI, Uitterlinden AG, Christensen K, van Duijn CM, Heijmans BT, Houwing- Duistermaat JJ, Westendorp RG, Slagboom PE (
+
+) Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell
+
+:
+
+–
+
+Di Bona D, Vasto S, Capurso C, Christiansen L, Deiana L, Franceschi C, Hurme M, Mocchegiani E, Rea M, Lio D, Candore G, Caruso C (
+
+) Effect of interleukin-
+
+poly- morphisms on human longevity: a systematic review and meta-analysis. Ageing Res Rev
+
+:
+
+–
+
+Dietrich M, Hu Y, Block G, Olano E, Packer L, Morrow JD, Hudes M, Abdukeyum G, Rimbach G, Minihane AM (
+
+) Associations between apolipoprotein E genotype and circulating F
+
+-isoprostane levels in humans. Lipids
+
+:
+
+–
+
+Flachsbart F, Croucher PJ, Nikolaus S, Hampe J, Cordes C, Schreiber S, Nebel A (
+
+) Sirtuin
+
+(SIRT
+
+) sequence variation is not associated with exceptional human longev- ity. Exp Gerontol
+
+:
+
+–
+
+Franceschi C, Motta L, Valensin S, Rapisarda R, Franzone A, Berardelli M, Motta M, Monti D, Bonafe M, Ferrucci L, Deiana L, Pes GM, Carru C, Desole MS, Barbi C, Sartoni G, Gemelli C, Lescai F, Olivieri F, Marchegiani F, Cardelli M, Cavallone L, Gueresi P, Cossarizza A, Troiano L, Pini G, Sansoni P, Passeri G, Lisa R, Spazzafumo L, Amadio L, Giunta S, Stecconi R, Morresi R, Viticchi C, Mattace R, De BG, Baggio G (
+
+) Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE). Aging (Milano)
+
+:
+
+–
+
+Frederiksen H, Gaist D, Bathum L, Andersen K, M
+
+ue M, Vaupel JW, Christensen K (
+
+) Angiotensin I-converting enzyme (ACE) gene polymorphism in relation to physical performance, cognition and survival—a follow-up study of elderly Danish twins. Ann Epidemiol
+
+:
+
+–
+
+Gerdes LU, Jeune B, Ranberg KA, Nybo H, Vaupel JW (
+
+) Estimation of apolipoprotein E genotype-specific relative mortality risks from the distribution of genotypes in cen- tenarians and middle-aged men: apolipoprotein E gene is a “frailty gene,” not a “longevity gene”. Genet Epidemiol
+
+:
+
+–
+
+Herskind AM, M
+
+ue M, Holm NV, Sorensen TI, Harvald B, Vaupel JW (
+
+) The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet
+
+:
+
+–
+
+Hessner MJ, Dinauer DM, Kwiatkowski R, Neri B, Raife TJ (
+
+) Age-dependent prevalence of vascular disease- associated polymorphisms among
+
+volunteer blood donors. Clin Chem
+
+:
+
+–
+
+Hjelmborg JVb, Iachine I, Skytthe A, Vaupel JW, M
+
+ue M, Koskenvuo M, Kaprio J, Pedersen NL, Christensen K (
+
+) Genetic influence on human lifespan and longevity. Hum Genet
+
+:
+
+–
+
+Colonna-Romano G, Franceschi C, Lio D, Caselli G, Caruso C (
+
+) Immunogenetics, gender, and longevity. Ann N Y Acad Sci
+
+:
+
+–
+
+Capurso C, Solfrizzi V, D’Introno A, Colacicco AM, Capurso SA, Semeraro C, Capurso A, Panza F (
+
+) Interleukin
+
+variable number of tandem repeats (VNTR) gene polymor- phism in centenarians. Ann Hum Genet
+
+:
+
+–
+
+Carrieri G, Marzi E, Olivieri F, Marchegiani F, Cavallone L, Cardelli M, Giovagnetti S, Stecconi R, Molendini C, Tra- passi C, De BG, Kletsas D, Franceschi C (
+
+) The G/ C
+
+polymorphism of transforming growth factor beta
+
+is associated with human longevity: a study in Italian cente- narians. Aging Cell
+
+:
+
+–
+
+Carru C, Pes GM, Deiana L, Baggio G, Franceschi C, Lio D, Balistreri CR, Candore G, Colonna-Romano G, Caruso C (
+
+) Association between the HFE mutations and lon- gevity: a study in Sardinian population. Mech Ageing Dev
+
+:
+
+–
+
+Cellini E, Nacmias B, Olivieri F, Ortenzi L, Tedde A, Bagnoli S, Petruzzi C, Franceschi C, Sorbi S (
+
+) Cholesteryl ester transfer protein (CETP) I
+
+V polymorphism and longev- ity in Italian centenarians. Mech Ageing Dev
+
+:
+
+–
+
+Christensen K, Johnson TE, Vaupel JW (
+
+) The quest for genetic determinants of human longevity: challenges and insights. Nat Rev Genet
+
+:
+
+–
+
+Christiansen L, Bathum L, Andersen-Ranberg K, Jeune B, Christensen K (
+
+) Modest implication of interleukin-
+
+promoter polymorphisms in longevity. Mech Ageing Dev
+
+:
+
+–
+
+Chung WH, Dao RL, Chen LK, Hung SI (
+
+) The role of genetic variants in human longevity. Ageing Res Rev
+
+(Suppl
+
+):S
+
+–S
+
+AGE Hurme M, Lehtimaki T, Jylha M, Karhunen PJ, Hervonen A (
+
+) Interleukin-
+
+−
+
+G/C polymorphism and longev- ity: a follow-up study. Mech Ageing Dev
+
+:
+
+–
+
+Jacobsen R, Martinussen T, Christiansen L, Jeune B, Ndersen- Ranberg K, Vaupel JW, Christensen K (
+
+) Increased effect of the Ap
+
+gene on survival at advanced age in healthy and long-lived Danes: two nationwide cohort stud- ies. Aging Cell
+
+:
+
+–
+
+Jofre-Monseny L, Loboda A, Wagner AE, Huebbe P, Boesch- Saadatmandi C, Jozkowicz A, Minihane AM, Dulak J, Rimbach G (
+
+) Effects of ap
+
+genotype on macro- phage inflammation and heme oxygenase-
+
+expression. Biochem Biophys Res Commun
+
+:
+
+–
+
+Jylhava J, Hurme M (
+
+) Gene variants as determinants of longevity: focus on the inflammatory factors. Pflugers Arch
+
+:
+
+–
+
+Khabour OF, Abdelhalim ES, Abu-Wardeh A (
+
+) Associa- tion between SOD
+
+T-
+
+C and MTHFR C
+
+T polymor- phisms and longevity: a study in Jordanian population. BMC Geriatr
+
+:
+
+Kuningas M, Putters M, Westendorp RG, Slagboom PE, van Heemst D (
+
+) SIRT
+
+gene, age-related diseases, and mortality: the Leiden
+
+-plus study. J Gerontol A Biol Sci Med Sci
+
+:
+
+–
+
+Lescai F,Blanche H, Nebel A,Beekma
+
+,Sahbato
+
+,Flachsbart F, Slagboom E, Schreiber S, Sorbi S, Passarino G, Franceschi C (
+
+) Human longevity and
+
+p
+
+: a study in
+
+centenarians. Eur J Hum Genet
+
+:
+
+–
+
+Li J, Niu W, Qi Y, Mayila W, Zhu P, Muhuyati CZ, Qiu C (
+
+a) Interactive association of heat shock protein
+
+genes variants with natural longevity in Xinjiang Hetian Uygur ethnicity. Transl Res
+
+:
+
+–
+
+Li Y, Wang WJ, Cao H, Lu J, Wu C, Hu FY, Guo J, Zhao L, Yang F, Zhang YX, Li W, Zheng GY, Cui H, Chen X, Zhu Z, He H, Dong B, Mo X, Zeng Y, Tian XL (
+
+b) Genetic association of FOXO
+
+A and FOXO
+
+A with longevity trait in Han Chinese populations. Hum Mol Genet
+
+:
+
+–
+
+Lio D, Balistreri CR, Colonna-Romano G, Motta M, Franceschi C, Malaguarnera M, Candore G, Caruso C (
+
+) Associ- ation between the MHC class I gene HFE polymorphisms and longevity: a study in Sicilian population. Genes Immun
+
+:
+
+–
+
+Luft FC (
+
+) Bad genes, good people, association, linkage, longevity and the prevention of cardiovascular disease. Clin Exp Pharmacol Physiol
+
+:
+
+–
+
+M
+
+ay GJ, Silvestri G, Chakravarthy U, Dasari S, Fritsche LG, Weber BH, Keilhauer CN, Klein ML, Francis PJ, Klaver CC, Vingerling JR, Ho L, De Jong PT, Dean M, Sawitzke J, Baird PN, Guymer RH, Stambolian D, Orlin A, Seddon JM, Peter I, Wright AF, Hayward C, Lotery AJ, Ennis S, Gorin MB, Weeks DE, Kuo CL, Hingorani AD, Sofat R, Cipriani V, Swaroop A, Othman M, Kanda A, Chen W, Abecasis GR, Yates JR, Webster AR, Moore AT, Seland JH, Rahu M, Soubrane G, Tomazzoli L, Topouzis F, Vioque J, Young IS, Fletcher AE, Patterson CC (
+
+) Variations in apolipoprotein e frequency with age in a pooled analysis of a large group of older people. Am J Epidemiol
+
+:
+
+–
+
+Nebel A, Croucher PJ, Stiegeler R, Nikolaus S, Krawczak M, Schreiber S (
+
+) No association between microsomal
+
+M, Lehtimaki T, Jylha M, Karhunen PJ, Hervonen A (2005) Interleukin-6 −174G/C polymorphism and longev-
+
+triglyceride transfer protein (MTP) haplotype and longev- ity in humans. Proc Natl Acad Sci U S A
+
+:
+
+–
+
+Nebel A, Kleindorp R, Caliebe A, Nothnagel M, Blanche H, Junge O, Wittig M, Ellinghaus D, Flachsbart F, Wichmann HE, Meitinger T, Nikolaus S, Franke A, Krawczak M, Lathrop M, Schreiber S (
+
+) A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals. Mech Ageing Dev
+
+:
+
+–
+
+Novelli V, Viviani AC, Roncarati R, Guffanti G, Malovini A, Piluso G, Puca AA (
+
+) Lack of replication of genetic associations with human longevity. Biogerontology
+
+:
+
+–
+
+Nybo H, Gaist D, Jeune B, Bathum L, M
+
+ue M, Vaupel JW, Christensen K (
+
+) The Danish
+
+cohort: a genetic- epidemiological nationwide survey. J Aging Health
+
+:
+
+–
+
+Olmos Y, Brosens JJ, Lam EW (
+
+) Interplay between SIRT proteins and tumour suppressor transcription factors in chemotherapeutic resistance of cancer. Drug Resist Updat
+
+:
+
+–
+
+Otto H, Conz C, Maier P, Wolfle T, Suzuki CK, Jeno P, Rucknagel P, Stahl J, Rospert S (
+
+) The chaperones MPP
+
+and Hsp
+
+L
+
+form the mammalian ribosome-associated com- plex. Proc Natl Acad Sci U S A
+
+:
+
+–
+
+Pedersen CB, Gotzsche H, Moller JO, Mortensen PB (
+
+) The Danish Civil Registration System. A cohort of eight million persons. Dan Med Bull
+
+:
+
+–
+
+Pes GM, Lio D, Carru C, Deiana L, Baggio G, Franceschi C, Ferrucci L, Oliveri F, Scola L, Crivello A, Candore G, Colonna-Romano G, Caruso C (
+
+) Association between longevity and cytokine gene polymorphisms. A study in Sardinian centenarians. Aging Clin Exp Res
+
+:
+
+–
+
+Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MAR, Bender D, Maller J, Sklar P, de Bakker PIW, Daly MJ, Sham PC (
+
+) PLINK: a toolset for whole-genome as- sociation and population-based linkage analysis. Am J Hum Genet
+
+:
+
+–
+
+Rea IM, Ross OA, Armstrong M, M
+
+erlan S, Alexander DH, Curran MD, Middleton D (
+
+) Interleukin-
+
+-gene C/G
+
+polymorphism in nonagenarian and octogenarian sub- jects in the BELFAST study. Reciprocal effects on IL-
+
+, soluble IL-
+
+receptor and for IL-
+
+in serum and monocyte supernatants. Mech Ageing Dev
+
+:
+
+–
+
+Rose G, Dato S, Altomare K, Bellizzi D, Garasto S, Greco V, Passarino G, Feraco E, Mari V, Barbi C, Bon
+
+e M, Franceschi C, Tan Q, Boiko S, Yashin AI, De BG (
+
+) Variability of the SIRT
+
+gene, human silent information regulator Sir
+
+homologue, and survivorship in the elderly. Exp Gerontol
+
+:
+
+–
+
+Ross OA, Curran MD, Crum KA, Rea IM, Barnett YA, Middleton D (
+
+) Increased frequency of the
+
+T allele of the heat shock protein
+
+-Hom gene in an aged Irish population. Exp Gerontol
+
+:
+
+–
+
+Schachter F, Faure-Delanef L, Guenot F, Rouger H, Froguel P, Lesueur-Ginot L, Cohen D (
+
+) Genetic associations with human longevity at the APOE and ACE loci. Nat Genet
+
+:
+
+–
+
+Seripa D, D’Onofrio G, Panza F, Cascavilla L, Masullo C, Pilotto A (
+
+) The genetics of the human APOE poly- morphism. Rejuvenation Res
+
+:
+
+–
+
+Singh R, Kolvraa S, Rattan SI (
+
+) Genetics of human lon- gevity with emphasis on the relevance of HSP
+
+as candi- date genes. Front Biosci
+
+:
+
+–
+
+Singh R, Kolvraa S, Bross P, Christensen K, Bathum Gregersen N, Tan Q, Rattan SI (
+
+) heat shock protein
+
+genes are positively associated human survival. Curr Pharm Des
+
+:
+
+–
+
+Skytthe A, Kyvik K, Holm NV, Vaupel JW, Christensen (
+
+) The Danish Twin Registry:
+
+birth cohorts twins. Twin Res
+
+:
+
+–
+
+Soerensen M, Dato S, Christensen K, M
+
+ue M, Stevnsner Bohr VA, Christiansen L (
+
+) Replication of an ation of variation in the FOXO
+
+A gene with human gevity using both case–control and longitudinal Aging Cell
+
+:
+
+–
+
+Stessman J, Maaravi Y, Hammerman-Rozenberg R, Cohen Nemanov L, Gritsenko I, Gruberman N, Ebstein RP Candidate genes associated with ageing and life cy in the Jerusalem longitudinal study. Mech Ageing
+
+:
+
+–
+
+Tan Q, Christiansen L, Christensen K, Kruse TA, Bathum (
+
+) Apolipoprotein E genotype frequency patterns aged Danes as revealed by logistic regression models. Eur Epidemiol
+
+:
+
+–
+
+Todesco L, Angst C, Litynski P, Loehrer F, Fowler B, WE (
+
+) Methylenetetrahydrofolate reductase phism, plasma homocysteine and age. Eur J Clin
+
+:
+
+–
+
+Vitek MP, Brown CM, Colton CA (
+
+) APOE specific differences in the innate immune response. biol Aging
+
+:
+
+–
+
+Wan T, Zhou X, Chen G, An H, Chen T, Zhang W, Liu S, Jiang Y, Yang F, Wu Y, Cao X (
+
+) Novel heat shock protein Hsp
+
+L
+
+activates dendritic cells and acts as a Th
+
+polar- izing adjuvant. Blood
+
+:
+
+–
+
+Wang XY, Hurme M, Jylha M, Hervonen A (
+
+) Lack of association between human longevity and polymor- phisms of IL-
+
+cluster, IL-
+
+, IL-
+
+and TNF-alpha genes in Finnish nonagenarians. Mech Ageing Dev
+
+:
+
+–
+
+Weber O, Bischoff H, Schmeck C, Bottcher MF (
+
+) Choles- teryl ester transfer protein and its inhibition. Cell Mol Life Sci
+
+:
+
+–
+
+Wu Y, Wan T, Zhou X, Wang B, Yang F, Li N, Chen G, Dai S, Liu S, Zhang M, Cao X (
+
+) Hsp
+
+-like protein
+
+fusion protein enhances induction of carcinoembryonic antigen- specific CD
+
++ CTL response by dendritic cell vaccine. Cancer Res
+
+:
+
+–
+
+Yang JK, Gong YY, Xie L, Lian SG, Yang J, Xu LY, Gao SJ, Zhang YP (
+
+) Lack of genetic association between the angiotensin-converting enzyme gene insertion/deletion polymorphism and longevity in a Han Chinese popu- lation. J Renin Angiotensin Aldosterone Syst
+
+:
+
+–
+
+Zajc PM, Skaric-Juric T, Smolej NN, Tomas Z, Krajacic P, Milicic J, Barbalic M, Tomek-Roksandic S (
+
+) Angiotensin-converting enzyme deletion allele is benefi- cial for the longevity of Europeans. Age (Dordr). doi:
+
+/s
+
+-
+
+-
+
+-

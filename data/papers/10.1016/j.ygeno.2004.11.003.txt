@@ -1,0 +1,589 @@
+GENOMICS
+
+Genomics 85 (2005) 258–263
+
+www.elsevier.com/locate/ygeno
+
+A novel VNTR enhancer within the SIRT3 gene, a human homologue of SIR2, is associated with survival at oldest ages
+
+Dina Bellizzi , Giuseppina Rose , Paola Cavalcante , Giuseppina Covello , Serena Dato , a a b c c De Rango , Valentina Greco , Marcello Maggiolini , Emidio Feraco , Vincenzo Mari , Claudio Franceschid , Giuseppe Passarinoa , Giovanna De Benedictisa,*
+
+aDepartment of Cell Biology, University of Calabria, 87036 Rende, Italy bDepartment of Pharmaco-Biology, University of Calabria, 87036 Rende, Italy cIstituto Nazionale Riposo e Cura dellTAnziano, Cosenza, Italy dDepartment of Experimental Pathology, University of Bologna, Bologna, Italy
+
+Abstract
+
+SIR2 genes control life span in model organisms, playing a central role in evolutionarily conserved pathways of aging and longevity. We wanted to verify whether similar effects may act in humans too. First, we searched for variability in the human sirtuin 3 gene (SIRT3) and discovered a VNTR polymorphism (72-bp repeat core) in intron 5. The alleles differed both for the number of repeats and for presence/ absence of potential regulatory sites. Second, by transient transfection experiments, we demonstrated that the VNTR region has an allele- specific enhancer activity. Third, by analyzing allele frequencies as a function of age in a sample of 945 individuals (20–106 years), we found that the allele completely lacking enhancer activity is virtually absent in males older than 90 years. Thus the underexpression of a human sirtuin gene seems to be detrimental for longevity as it occurs in model organisms. D 2004 Elsevier Inc. All rights reserved.
+
+Keywords: SIRT3; Human longevity; VNTR enhancer
+
+FOXO-family transcription factor that affects the rate of aging in response to the insulin/IGF1 pathway [5]. SIR2 proteins constitute an evolutionarily conserved family of NAD-dependent deacetylases called sirtuins [6–8]. In model organisms the expression levels of SIR2 modulate life span [9–11]. Since sirtuins are NAD+ dependent these proteins through different routes may link energy metabolism, genome maintenance, and aging [11,12]. Thus SIR2 genes may play a crucial role in conserved pathways of aging and longevity.
+
+Aging can be viewed as a lethal by-product of activities, such as reproduction and food intake, that are controlled by genes [1]. Since most of these genes are evolutionarily conserved, distant species may share common pathways of aging [2]. The insulin/insulin-like growth factor 1 (IGF1) signaling pathway could be one such common pathway, as it modulates aging in many species, including Caenorhabditis elegans, Drosophila, mice [3], and possibly humans [4]. An elegant study carried out in C. elegans by applying microarray techniques showed that a member of the SIR2- like protein family is regulated downstream of DAF-16, a
+
+A human homologue of the SIR2 genes, SIRT3, lies at the telomeric terminal on chromosome 11p15.5 (www.ncbi. nlm.nih.gov/omim; MIM 604481; contig NT_035113). The gene is ubiquitously expressed, particularly in metabolically active tissues, and the SIRT3 protein is targeted to mitochondria through an N-terminus signal necessary for
+
+* Corresponding author. Fax: +
+
+E-mail address: g.debenedictis@unical.it (G. De Benedictis).
+
+These authors contributed equally to this work.
+
+G477T and VNTR. The disequilibrium was highly signifi- b cant ( p 0.001), with 10 observed haplotypes of the 12 expected (estimated by MLE from both homozygous and heterozygous genotypes).
+
+mitochondrial localization [13,14]. By analyzing a large sample of individuals including people older than 100 years of age, we found an association between longevity and the silent marker G477T of SIRT3 [15]. Owing to the silent nature of the SNP, we hypothesized a linkage disequilibrium between the G477T marker and an unknown functional variant of SIRT3. The aim of the present study was to identify the functional variant that could account for the association we observed between the silent marker of SIRT3 and survival. Thus, first we searched for variability in the SIRT3 gene in a large population sample; then we characterized the functional activity, and its association with longevity, of a VNTR polymorphism we identified in intron 5.
+
+occur within the VNTR alleles. By sequencing the PCR- DNA fragments of all the subjects homozygous for the alleles having 1 to 4 repeats (see Table 1) we identified a T/C variation located in the second repeat, 63 nt from its starting point. MatInspector V2.2 analysis carried out on the 72-bp core fragment revealed that the T/C variation trans- formed a GATA3 site into a DeltaEF1 site, potentially having different regulatory activities [17,18]. On the occurrence of the GATA3/DeltaEF1 site in the second repeat, the length-alleles having one to four repeats were resolved into seven alleles. In fact, with the exception of allele 1 (which lacked a second repeat and thus had the GATA3 core sequence in all cases), each of the remaining common length-alleles was resolved into two categories, one having the GATA3 site (alleles 2a, 3a, and 4a) and the other the DeltaEF1 site (alleles 2b, 3b, 4b). Fig. 1 shows the position of the VNTR with respect to the G477T silent marker we previously identified in exon 3 [15], the seven length-alleles spanning one to four repeats, and the GATA3/
+
+Results
+
+To identify variability in the functional domains of SIRT3, we conducted DNA sequence analyses of PCR fragments around the FGE conserved motif (exon 5) in a panel of 50 unrelated subjects (25 males and 25 females randomly chosen from sample 1). We observed a VNTR polymorphism having a 72-bp core in the fifth intron of the gene (12,343 nt initial position referring to www.ncbi.nlm. nih.gov/omim; MIM 604481; contig NT_035113). After verification of Mendelian inheritance in 30 parent/offspring pairs collected in another study, we analyzed the VNTR polymorphism in all of sample 1. Six length-alleles were identified spanning one to six repeats (see Table 1); four alleles were common (alleles 1–4), while two were rare (alleles 5 and 6). Since the sample under study had been already typed for the silent variant G477T of SIRT3 [15], we analyzed linkage disequilibrium between the markers
+
+We analyzed possible enhancer effects of specific VNTR alleles. By using constructs including the alleles lacking the DeltaEF1 site (alleles 1a, 2a, 3a, 4a) we found that these alleles act as an enhancer whose activity appears to be related to the number of VNTR repeats (Fig. 2A). One-way ANOVA showed a statistically significant difference among the luciferase activities observed in the whole experiment (p V 0.001). Then LSD post hoc tests showed that: (i) the luciferase activity sustained by each of the four alleles is b significantly higher than that present in the control (p 0.05 for every allele) and (ii) the luciferase activity is significantly different between alleles that differ for two repeats at least (p = 0.04 between alleles 1a and 3a, p = 0.01 between alleles 1a and 4a, p = 0.02 between alleles 2a and 4a). But, when the alleles harboring the DeltaEF1 site in the second repeat were assayed (alleles 2b, 3b, 4b) allele 2b showed a dramatic reduction in the enhancer activity with respect to allele 2a (Fig. 2B), although the enhancer activity of alleles 3b and 4b did not differ from that of 3a and 4a, respectively (results not shown).
+
+Table 1
+
+Genotypic and allelic frequencies of the VNTR polymorphism in sample (20- to 80-year-old subjects)
+
+Genotype Count Allele Count 1.1 124 (17.6 F 1.4) 1 587 (41.7 F 1.3) 1.2 73 (10.4 F 1.2) 2 166 (11.8 F 0.9) 1.3 112 (15.9 F 1.4) 3 291 (20.7 F 1.1) 1.4 149 (21.2 F 1.5) 4 351 (25.0 F 1.2) 1.5 1 (0.1 F 0.1) 5 6 (0.4 F 0.2) 1.6 4 (0.6 F 0.3) 6 5 (0.4 F 0.2) 2.2 13 (1.9 F 0.5) Total 1406 (100.0) 2 3 27 (3.8 F 0.7) 2.4 38 (5.5 F 0.9) 2.5 2 (0.3 F 0.2) 3.3 40 (5.7 F 0.9) 3.4 69 (9.8 F 1.1) 3.5 2 (0.3 F 0.2) 3.6 1 (0.1 F 0.1) 4.4 47 (6.7 F 0.9) 4.5 1 (0.1 F 0.1) Total 703 (100.0)
+
+By the above approach we demonstrated that the VNTR acts in vitro as an enhancer on a reporter gene. To explore a possible role of this enhancer in human longevity we analyzed the VNTR polymorphism in sample 2 (90- to 106- year-old subjects) and compared the genotypic and allelic frequencies with those of sample 1 (20- to 80-year-old subjects). The analyses were carried out according to sex because of gender effects in mortality of the oldest people and sex specificity in gene/longevity associations. On the basis of data in Table 2, we rejected the hypothesis of homogeneity between the genotypic pools of samples 1 and
+
+Relative frequencies F standard errors ((cid:1)100) are given in parentheses. Allele nomenclature refers to the repeat number. Hardy–Weinberg equilibrium check (5000 permutations): p = 0.185.
+
+SIRT3 geneE14 E2E3 E4 ES E6 E?1 VNTR allelesG477TTGTCAGCAGGCCTGTGCAGGGAGGAGGCTGGAGGGCAGGGGAAGGGAGGGGTACAGGAG ‘CATGGGC TGTCAGCAGGCCTGTIGCAGGGAGGAGGCTGGAGGGCAGGGGAAGGGAGGGGTACAGGAGTCACET ‘CATGGGC
+
+  A[TGTCAGCAGGCCTETECAGGGAGGAGECTGGAGEGCAGEGGAAGGGAGEGGTAGAGGAGTTialtefin4
+
+Fig. 1. A schematic representation of the SIRT3 gene showing the positions of the G477T marker previously identified [15] and the VNTR discovered in the present study. The alleles including the GATA3 site in the second repeat (in yellow) are named 1a–4a, while the alleles including the DeltaEF1 site (in blue) are named 2b–4b. The variable sequence occurring in the second allele repeat is also shown. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+sequencing allele 2 in all the males. Of the 89 alleles found in the young group (sample 1, Table 2B) 49 were 2a and 40 were 2b, while all 5 alleles found in the oldest group (sample 2, Table 2B) were 2a. Therefore, in the entire gene pool, allele 2a decreased from 7.8 F 1.1% in sample 1 to 2.9 F 1.3% in sample 2 (p = 0.025 by Fisher exact test), while allele 2b decreased from 6.4 F 1.0% in sample 1 to 0 in sample 2 ( p = 8  10(cid:2)5 by Fisher exact test).
+
+2 in males (p = 0.026) but not in females (p = 0.674). Likewise, allele distribution frequencies were different b between samples 1 and 2 in males (p 0.001) but not in females (p = 0.923). In particular, in males, the frequency of allele 2 decreased from sample 1 to sample 2 (Table 2B). Since length-allele 2 included the sole allele lacking enhancer activity, we checked possible age-related varia- tions of the gene pool in terms of alleles 2a and 2b by
+
+Discussion
+
+>Fold inductionwoFold inductionpGL3pGL3 Allelela Allele2a Allele3a Allele4a  Allele2b Alleleza
+
+The aim of this study was to identify a putative functional variant occurring in SIRT3 that could account for the association previously observed between longevity and a silent marker of this gene [15]. Transfection experi- ments demonstrated that the VNTR we identified in intron 5 of SIRT3 is a functional polymorphism and that different VNTR alleles are able to modulate the expression of a reporter gene in an allele-specific way, according to number of repeats and occurrence of GATA3/DeltaEF1 site in the second repeat of the length-allele 2.
+
+Is this polymorphism the functional variant we were searching for? Some hints indicate that this may be the case. First, a strong linkage disequilibrium occurs between the G477T silent marker and VNTR alleles; second, both genotypic and allelic frequency distributions differ between the group selected for longevity (male sample 2) and the younger control group (male sample 1).
+
+Fig. 2. (A) Luciferase expression of constructs including the 1a–4a alleles reported as fold induction (pGL3 negative control). (B) Luciferase expression of constructs including the allele 2b or the allele 2a reported as fold induction (pGL3 negative control). In both A and B the values reported for transfection experiments are the means F SD of triplicate experiments.
+
+It is intriguing that the sole allele lacking an enhancer effect in vitro, allele 2b, is completely absent in the oldest
+
+Table 2
+
+(A) Genotypic and (B) allelic counts of VNTR polymorphism in samples of males and females of different ages
+
+Males Females (A) Genotype Sample 1 (20–80 years) Sample 2 (90–106 years) Sample 1 (20–80 years) Sample 2 (90–105 years) 1.1 46 (14.7 F 2.0) 14 (16.3 F 4.0) 78 (19.9 F 2.0) 27 (17.3 F 3.0) 1.2 36 (11.5 F 1.8) 3 (3.5 F 2.0) 37 (9.5 F 1.5) 13 (8.3 F 2.2) 1.3 42 (13.5 F 1.9) 15 (17.4 F 4.1) 70 (17.9 F 1.9) 31 (19.9 F 3.2) 1.4 69 (22.1 F 2.3) 23 (26.7 F 4.8) 80 (20.5 F 2.0) 33 (21.2 F 3.3) 1.5 — — 1 (0.3 F 0.3) — 1.6 — — 4 (1.0 F 0.5) — 2.2 10 (3.2 F 1.0) — 3 (0.8 F 0.4) 4 (2.6F 1.3) 2.3 12 (3.9 F 1.1) — 15 (3.8 F 1.0) 6 (3.8 F 1.5) 2.4 20 (6.4 F 1.4) 2 (2.3 F 1.6) 18 (4.6 F 1.1) 5 (3.2 F 1.4) 2.5 1 (0.3 F 0.3) — 1 (0.3 F 0.3) — 3.3 18 (5.8 F 1.3) 4 (4.7 F 2.3) 22 (5.6 F 1.2) 10 (6.4 F 2.0) 3.4 37 (11.9 F 1.8) 11 (12.8 F 3.6) 32 (8.2 F 1.4) 13 (8.3 F 2.2) 3.5 1 (0.3 F 0.3) 2 (2.3 F 1.6) 1 (0.3 F 0.3) — 3.6 — — 1 (0.3 F 0.3) — 4.4 19 (6.1 F 1.4) 10 (11.6 F 3.5) 28 (7.1 F 1.3) 11 (7.1 F 2.0) 4.5 1 (0.3 F 0.3) 1 (1.2 F 1.2) — 2 (1.3 F 0.9) 4.6 — 1 (1.2 F 1.2) — 1 (0.6 F 0.6) Total 312 (100.0) 86 (100.0) 391 (100.1) 156 (100.0) (B) Allele 1 239 (38.3 F 1.9) 69 (40.1 F 3.7) 348 (44.5 F 1.8) 131 (42.0 F 2.8) 2 89 (14.3 F 1.4) 5 (2.9 F 1.3) 77 (9.9 F 1.1) 32 (10.3 F 1.7) 3 128 (20.5 F 1.6) 36 (20.9 F 3.1) 163 (20.8 F 1.5) 70 (22.4 F 2.4) 4 165 (26.4 F 1.8) 58 (33.7 F 3.6) 186 (23.8 F 1.5) 76 (24.4 F 2.4) 5 3 (0.5 F 0.3) 3 (1.8 F 1.0) 3 (0.4 F 0.2) 2 (0.6 F 0.5) 6 — 1 (0.6 F 0.6) 5 (0.6 F 0.3) 1 (0.3 F 0.3) Total 624 (100.0) 172 (100.0) 782 (100.0) 312 (100.0)
+
+Relative frequencies SE ((cid:1)100) are given in parentheses. (A) Genotypic homogeneity tests between samples 1 and 2: p = 0.026 in males, p = 0.674 in females. (B) Allelic homogeneity tests between samples 1 and 2: p b 0.001 in males, p = 0.923 in females.
+
+The association between VNTR alleles and longevity was restricted to males, because no difference was observed, either in the genotypic or in the allelic pool, between female samples 1 and 2 (Table 2). This finding confirms that longevity factors are sex-specific [23–25] and that males and females probably follow different trajectories to attain longevity [16].
+
+This finding suggests that allele 2b is detrimental for male T longevity. On the other hand as the sample s age increases the frequency of allele 2a decreases as well ( p = 0.025), thus suggesting that this allele is also unfavorable to male longevity. It follows that the GATA3/DeltaEF1 variability is not the only factor affecting the age-related variation of the gene pool and that other regulatory sites present in the 72-bp core do not act independent of the number of the VNTR repeats. We are now carrying out appropriate molecular studies to verify what is the exact portion of the VNTR repeat that links nuclear proteins, what are the proteins interacting with the repeat core, and, most importantly, how do these proteins interact according to the number of repeats.
+
+Although cross-sectional data have been used for estimating the association between VNTR alleles and longevity, the present study should be reliable and not affected by bias caused by population stratification. In fact the population under study is highly homogeneous because of historical and geographical factors; furthermore, we did not find any stratification in this sample (unpublished results) by analyzing a panel of neutral markers spanning the genome [26].
+
+Although the effect of the VNTR alleles as enhancer sequences has been demonstrated on a reporter gene, on the whole our findings are in line with the possibility that the VNTR acts in vivo on SIRT3 and that variations in the expression of a SIR2-like gene may modulate life span in mammals [19]. Since the SIRT3 protein could deacetylate mitochondrial proteins involved directly in apoptosis [14], possibly by mimicking SIRT1 in inhibit- ing apoptosis by p53 deacetylation [20,21], the level of expression of SIRT3 may affect longevity by acting on apoptotic mitochondrial patterns [22].
+
+In conclusion, our study has discovered a VNTR polymorphism in intron 5 of the SIRT3 gene that has an allele-specific enhancer activity on a reporter gene. The frequency distribution of VNTR genotypes (and alleles) is significantly different between a sample of older men and a sample of younger men from the same population. Of course we need to confirm by appropriate longitudinal studies the effect of the VNTR on male longevity, and these studies are going on.
+
+Materials and methods
+
+sequencing in a 310 DNA sequencer with a BigDye Terminator Cycle Sequencing Ready Reaction Kit (PE Applied Biosystems).
+
+Population samples
+
+VNTR polymorphism typing
+
+the subjects lived in Calabria (southern Italy) and their T origin in the area was ascertained up to the grandparents generation (interview). The sample consisted of two subsamples: sample 1 was made up of 20- to 80-year-old subjects (median age 59 years); sample 2 was made up of 90- to 106-year-old subjects (median age 102 years). Sample 1 comprised 703 subjects (312 males and 391 females); sample 2 comprised 242 subjects (86 males and 156 females). For collecting sample 1, an appropriate campaign was addressed to Calabria University students and staff, as well as to people who attended the University for the Elderly or used local thermal baths. For collecting sample 2, subjects older than 90 years were identified by consulting the population registers of the Municipalities of Calabria, contacted by phone, and then visited.
+
+Both Gene Scan DNA fragment analysis (TAMRA 500 internal size standard) in a 310 DNA sequencer (PE Applied Biosystems) and electrophoresis in a 1.5% agarose gel (Marker Step Ladder 50 bp, Sigma, as molecular weight marker) were used on PCR-amplified products for VNTR genotyping.
+
+Allele 2 was analyzed by DNA sequencing in all the male carriers of the allele (10 homozygous plus 74 heterozygous subjects). After PCR amplification (see VNTR polymor- phism identification) and electrophoresis, the DNA fragment containing two repeats was recovered from agarose gel in TAE buffer 1(cid:1) (0.04 M Tris acetate, 0.001 M EDTA) by using the QIAquick gel extraction kit (Qiagen). The sequencing reactions were automatically carried out with the forward primer 5V-TCTTGCTGCATGTGGTTG-3V (5V position 12,275 nt).
+
+After a detailed explanation of the aims of the research, the subjects who agreed to participate donated a blood sample for routine laboratory analyses and DNA prepara- tion; furthermore, people older than 60 years underwent a complete clinical and geriatric assessment. Subjects free of clinically overt pathologies and having blood and biochem- ical parameters in the normal age- and sex-specific range were enrolled in the study. In particular, the subjects enclosed in sample 2 belonged to health categories A and B previously described [16].
+
+Plasmid construction
+
+The pGL3 promoter vector (Promega) containing an SV40 promoter was used in the construction of reporter plasmids for the analysis of allele-specific regulatory functions. Preliminarily, to discriminate between alleles having the same length but different nucleotide sequence (T/C at position 63 in the second repeat) the common alleles (one to four repeats) were amplified and automati- cally sequenced from subjects who were homozygous for the 1–4 length-alleles. The forward primer 5V-CTCQ CCCGGGTGGGAACTCCCTGGAGGTT-3V (5V position 12,324 nt referring to www.ncbi.nlm.nih.gov/omim; MIM 604481, contig NT_ 035113) and the reverse primer 5V- CTCCCCGGGTGGCACCAGCCCTGGAAG-3Vwere used to have DNA fragments containing the VNTR sequence only (the italicized sequence was added to include the SmaI site for cloning). The PCR conditions were the same as described above. The PCR products of subjects having (CC) or (TT) homozygous genotype were purified by agarose gel in TAE buffer by using the QIAquick gel extraction kit (Qiagen) and digested with SmaI restriction enzyme. After purification by phenol extraction, the fragments were cloned into the SmaI-digested and dephos- phorylated pGL3 vector, upstream of the Luc-promoter transcriptional unit. The sequence of each insert (and its orientation in the reporter vector) was confirmed by restriction mapping and automated DNA sequencing. Cloned vectors were purified by Qiagen Plasmid Maxi Kit and used for subsequent experiments.
+
+All the subjects analyzed in this study have given written informed consent for genetic studies on aging carried out by the present research group.
+
+DNA samples
+
+Six milliliters of blood was drawn from each subject. Plasma/sera were used for routine laboratory analyses, while DNA was extracted from blood buffy coats following standard procedures.
+
+PCR amplification of genomic DNA was carried out in 25-Al final volume containing 100 ng of DNA; 0.08 AM each forward primer, (5V position 12,030 nt referring to www.ncbi.nlm.nih.gov/ _ omim; MIM 604481; contig NT 035113), and reverse primer, 5V-CATTCACCTTCCCAAAGTGG-3V; 200 AM dNTP; 0.3 U Finnzymes Taq DNA polymerase; 1.5 mM MgCl ; and 1(cid:1) thermophilic buffer. The following 2 thermal cycling conditions were used: 1 cycle at 958C for 45 s and 25 cycles of denaturation for 1 min at 958C, annealing for 1 min at 558C, and elongation for 1 min at 728C. An extra step was performed at 728C for 5 min. PCR-amplified fragments were analyzed by automated
+
+signaling pathway: an evolutionarily conserved mechanism of longevity from yeast to humans, Am. J. Physiol. Endocrinol. Metab.
+
+(
+
+) E
+
+–E
+
+[
+
+] C.T. Murphy, et al., Genes that act downstream of DAF-
+
+to influence the lifespan of Caenorhabditis elegans, Nature
+
+(
+
+)
+
+–
+
+[
+
+] R.A. Frye, Characterization of five human
+
+NAs with homology to the yeast SIR
+
+gene: Sir
+
+-like proteins (sirtuins) metabolize NAD and may have protein ADP-ribosyltransferase activity, Biochem. Biophys. Res. Commun.
+
+(
+
+)
+
+–
+
+[
+
+] J.S. Smith, et al., A phylogenetically conserved NAD+-dependent protein deacetylase activity in the Sir
+
+protein family, Proc. Natl. Acad. Sci. USA
+
+(
+
+)
+
+–
+
+[
+
+] S. Imai, C.M. Armstrong, M. Kaeberlein, L. Guarente, Transcriptional silencing and longevity protein Sir
+
+is an NAD-dependent histone deacetylase, Nature
+
+(
+
+)
+
+–
+
+[
+
+] M. Kaeberlein, M. M
+
+ey, L. Guarente, The SIR
+
+/
+
+/
+
+complex and SIR
+
+alone promote longevity in Saccharomyces cerevisiae by two different mechanisms, Genes Dev.
+
+(
+
+)
+
+–
+
+[
+
+] H.A.Tissenbaum,L.Guarente,Increaseddosageofasir-
+
+geneextends lifespan in Caenorhabditis elegans, Nature
+
+(
+
+)
+
+–
+
+[
+
+] L. Guarente, Sir
+
+links chromatin silencing, metabolism and aging, Genes Dev.
+
+(
+
+)
+
+–
+
+[
+
+] P. Hasty, The impact energy metabolism and genome maintenance have on longevity and senescence: lessons from yeast to mammals, Mech. Ageing Dev.
+
+(
+
+)
+
+–
+
+[
+
+] B. Schwer, B.J. North, R.A. Frye, M. Ott, E. Verdin, The human silent information regulator (Sir)
+
+homologue
+
+IRT
+
+is a mitochondrial nicotinamide adenine dinucleotide-dependent deacetylase, J. Cell Biol.
+
+(
+
+)
+
+–
+
+[
+
+] P. Onyango, I. Celic, J.M. M
+
+affery, J.D. Boeke, A.P. Feinberg, SIRT
+
+, a human SIR
+
+homologue, is an NAD-dependent deacetylase localized to mitochondria, Proc. Natl. Acad. Sci. USA
+
+(
+
+)
+
+[
+
+] G. Rose, et al., Variability of the SIRT
+
+gene, human silent information regulator Sir
+
+homologue, and survivorship in the elderly, Exp. Gerontol.
+
+(
+
+)
+
+–
+
+[
+
+] C. Franceschi, et al., Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE), Aging Clin. Exp. Res.
+
+(
+
+)
+
+–
+
+[
+
+] J.E. Remacle, et al., New mode of DNA binding of multi-zinc finger transcription factors: delt
+
+F
+
+members bind with two hands to two target sites, EMBO J.
+
+(
+
+)
+
+–
+
+[
+
+] R.K. Patient, J.D. M
+
+hee, The GATA family (vertebrates and invertebrates), Curr. Opin. Genet. Dev.
+
+(
+
+)
+
+–
+
+[
+
+] J. Campisi, Between Scylla and Charybdis: p
+
+links tumor
+
+HeLa cells were cultured in DMEM (Sigma Aldrich) l supplemented with 5% fetal bovine serum, 2 mM - glutamine, 1% penicillin/streptomycin. Cells were trans- ferred to 24-well plates with 500 Al of regular growth medium/well the day before transfection. Transfections were performed with the Fugene 6 reagent as recommended by the manufacturer (Roche Diagnostics) with a mixture containing 1 Ag of each reporter plasmid and 2 ng of Renilla luciferase (Promega). Luciferase activity was measured after 24 h by using the Dual Luciferase Kit (Promega) in a Lumat LB9507 luminometer (EG&G Berthold). The luciferase activity of the reporter plasmids was normalized to the activity of Renilla luciferase. All transfections were performed in triplicate and repeated at least three times.
+
+different mechanisms, Genes Dev.
+
+(
+
+)
+
+–
+
+[
+
+] H.A.Tissenbaum,L.Guarente,Increaseddosageofasir-
+
+geneextends lifespan in Caenorhabditis elegans, Nature
+
+(
+
+)
+
+–
+
+[
+
+] L. Guarente, Sir
+
+links chromatin silencing, metabolism and aging, Genes Dev.
+
+(
+
+)
+
+–
+
+[
+
+] P. Hasty, The impact energy metabolism and genome maintenance have on longevity and senescence: lessons from yeast to mammals, Mech. Ageing Dev.
+
+(
+
+)
+
+–
+
+[
+
+] B. Schwer, B.J. North, R.A. Frye, M. Ott, E. Verdin, The human silent information regulator (Sir)
+
+homologue
+
+IRT
+
+is a mitochondrial nicotinamide adenine dinucleotide-dependent deacetylase, J. Cell Biol.
+
+(
+
+)
+
+–
+
+[
+
+] P. Onyango, I. Celic, J.M. M
+
+affery, J.D. Boeke, A.P. Feinberg, SIRT
+
+, a human SIR
+
+homologue, is an NAD-dependent deacetylase localized to mitochondria, Proc. Natl. Acad. Sci. USA
+
+(
+
+)
+
+[
+
+] G. Rose, et al., Variability of the SIRT
+
+gene, human silent information regulator Sir
+
+homologue, and survivorship in the elderly, Exp. Gerontol.
+
+(
+
+)
+
+–
+
+[
+
+] C. Franceschi, et al., Do men and women follow different trajectories to reach extreme longevity? Italian Multicenter Study on Centenarians (IMUSCE), Aging Clin. Exp. Res.
+
+(
+
+)
+
+–
+
+[
+
+] J.E. Remacle, et al., New mode of DNA binding of multi-zinc finger transcription factors: delt
+
+F
+
+members bind with two hands to two target sites, EMBO J.
+
+(
+
+)
+
+–
+
+[
+
+] R.K. Patient, J.D. M
+
+hee, The GATA family (vertebrates and invertebrates), Curr. Opin. Genet. Dev.
+
+(
+
+)
+
+–
+
+[
+
+] J. Campisi, Between Scylla and Charybdis: p
+
+links tumor suppression and aging, Mech. Aging Dev.
+
+(
+
+)
+
+–
+
+[
+
+] J. Luo, et al., Negative control of p
+
+by Sir
+
+alpha promotes cell survival under stress, Cell
+
+(
+
+)
+
+–
+
+[
+
+] H. Vaziri, et al.,
+
+IR
+
+(SIRT
+
+) functions as an NAD-dependent p
+
+deacetylase, Cell
+
+(
+
+)
+
+–
+
+[
+
+] G. Rose, G. Passarino, C. Franceschi, G. De Benedictis, The variability of the mitochondrial genome in human aging: a key for life and death? Int. J. Biochem. Cell. Biol.
+
+(
+
+)
+
+–
+
+[
+
+] R. Ivanova, et al., HLA-DR alleles display sex-dependent effects on survival and discriminate between individual and familial longevity, Hum. Mol. Genet.
+
+(
+
+)
+
+–
+
+[
+
+] M. De Luca, et al., Sex-specific longevity associations defined by tyrosine hydroxylase-insulin–insulin growth factor
+
+haplotypes on the
+
+p
+
+chromosomal region, Exp. Gerontol.
+
+(
+
+)
+
+–
+
+(See also erratum in Exp. Gerontol.
+
+(
+
+)
+
+-
+
+). [
+
+] Q. Tan, Measuring the genetic influence in modulating the human life span: gene–environment interaction and the sex-specific genetic effect, Biogerontology
+
+(
+
+)
+
+–
+
+[
+
+] J.K Pritchard, N.A. Rosenberg, Use of unlinked genetic markers to detect population stratification in association studies, Am. J. Hum. Genet.
+
+(
+
+)
+
+–
+
+Statistical analyses
+
+VNTR allele frequencies in samples 1 and 2 were estimated by counting genes from the observed genotypes, after verification of Hardy–Weinberg equilibrium by allele shuffling (5000 random permutations). The null hypothesis of homogeneity between the genotypic (or allelic) pools of samples 1 and 2 was checked by permutation tests (1000 permutations). The statistical significance of the differences among the enhancer activity of different VNTR alleles in transfection experiments was tested by ANOVA and LSD post hoc test. The MATLAB statistical textbook was used for all the statistical analyses, excepted for linkage disequilibrium analysis between the markers G477T [15] and VNTR, for which the Arlequin software was used; this software utilizes a maximum likelihood estimation procedure by using geno- typic data from both homozygous and heterozygous subjects.
+
+Acknowledgments
+
+The authors thank the Municipalities of Calabria (southern Italy) and all the persons who participated in the study for their precious collaboration. This work was financed by the b Q EU project European Challenge for Healthy Aging (No. QLRT-2001-00128, Call Identifier QOL-2001-3) and by the Italian Ministry of Instruction, University, and Research (FIRB/2001; project b Identificazione di profili genomici nucleo-mitocondriali nella patogenesi di malattie comuni Q eta`-associate. Implicazioni diagnostiche e terapeutiche ).
+
+References
+
+[
+
+] L. Partridge, D. Gems, Ageing: a lethal side-effect, Nature
+
+(
+
+)
+
+[
+
+] L. Guarente, C. Kenyon, Genetic pathways that regulate ageing in model organisms, Nature
+
+(
+
+)
+
+–
+
+[
+
+] L. Partridge, D. Gems, Mechanisms of ageing: public or private? Nat, Rev. Genet.
+
+(
+
+)
+
+–

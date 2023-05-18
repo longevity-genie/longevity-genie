@@ -1,0 +1,723 @@
+Contents lists available at ScienceDirect Experimental Gerontology journal homepage: www.elsevier.com/locate/expgero  ExperimentalGerontology    
+
+journal homepage: www.elsevier.com/locate/expgero
+
+Two variants located in the upstream enhancer region of human UCP1 gene affect gene expression and are correlated with human longevity
+
+Giuseppina Rose , Paolina Crocco, Patrizia D'Aquila, Alberto Montesanto, Dina Bellizzi, Giuseppe Passarino
+
+Department of Cell Biology, University of Calabria, 87036, Rende, Italy
+
+
+
+brown fat specific UnCoupling Protein 1 (UCP1) is involved in thermogenesis, a process by which energy dissipated as heat in response to cold stress and excess of caloric intake. Thermogenesis has potential for body mass control and cellular fat metabolism. In fact, in humans, the variability of the UCP1 is associated with obesity, fat gain and metabolism. Since regulation of metabolism is one of the key- in lifespan extension, we tested the possible effects of UCP1 variability on survival.
+
+pathways in lifespan extension, we tested the possible effects of UCP1 variability on survival. Twopolymorphisms (A-3826GandC-3740A), fallingintheupstream promoterregionofUCP1,wereanalyzed in a sample of 910 subjects from southern Italy (475 women and 435 men; age range 40–109). By analyzing haplotype specific survival functions we found that the A-C haplotype favors survival in the elderly. Consistently, transfection experiments showed that the luciferase activity of the construct containing the A-C haplotype was significantly higher than that containing the G-A haplotype. Interestingly, the different UCP1 haplotypes responded differently to hormonal stimuli. The results we present suggest a correlation between the activity ofUCP1 andhuman survival,indicating onceagainthe intricacyofmechanismsinvolved inenergy production, storage and consumption as the key to understanding human aging and longevity.
+
+1. Introduction
+
+(Adams et al., 2008). Moreover, in response to certain stimuli such as cold exposure and sympathetic stimulation, human white adipocytes can acquire the features of brown cells (Tiraby et al., 2003). Furthermore, starting from the first study by Nedergaard et al. (2007), a series of reports provided evidence for the presence of active adipose tissue in adult humans (Zingaretti et al., 2009; Virtanen et al., 2009; Cypess et al., 2009; van Marken Lichtenbelt et al., 2009; Saito et al., 2009; Nedergaard et al., 2011). In addition, Yoneshiro et al. (2010) have reported that BAT is involved in cold-induced thermo- genesis in healthy adult men, and thus contributes to whole-body energy expenditure. It may therefore be inferred from these
+
+The UnCoupling Protein 1 (UCP1), also known as thermogenin, belongs to a family of anion transporters located in the inner membrane of mitochondria. By allowing the leak of protons through the inner mitochondrial membrane of Brown Adipose Tissue (BAT), UCP1 uncouples fuel oxidation from ATP synthesis. UCP1 activation leads to thermogenesis, which allows energy to be dissipated as heat in response to cold stress and excess caloric intake (Lowell and Spiegelman, 2000; Cannon and Nedergaard, 2004).
+
+(2010) have reported that BAT is involved in cold-induced thermo- genesis in healthy adult men, and thus contributes to whole-body energy expenditure. It may therefore be inferred from these observations that BAT thermogenesis may have a role in human adult whole-body metabolism, and therefore also in aging and longevity.
+
+There is a huge body of evidence indicating that UCP1-mediated thermogenesis in brown fat in rodents significantly contributes to control of body temperature, body weight, energy expenditure, glucose and lipid metabolism (Sell et al., 2004; Cannon and Nedergaard, 2010; Kozak et al., 2010). Moreover, since a consequence of the mitochondrial uncoupling is the lowering of the mitochondrial membrane potential, a potential role for thermogenin in preventing excessive production of mitochondrial reactive oxygen species (ROS) has also been proposed (Cannon et al., 2006; Oelkrug et al., 2010; Dlasková et al., 2010).
+
+Aging is a very complex phenomenon, largely influenced by an increased susceptibility to energy imbalance (Roberts and Rosenberg, 2006). The dysregulation of energy intake and the progressive decline of all components of energy expenditure (that is, obligatory, activity induced and facultative thermogenesis) with advancing age has been well established (Roberts and Rosenberg, 2006; Manini, 2010). The decline of resting metabolic rate (RMR), which represents the largest componentofenergyexpenditure,istypicallyassociatedwithchanges inbodycomposition(i.e.increaseinfatmassandthedeclineinfat-free mass). However, the analysis of energy expenditure shows that after adjustment for differences in fat mass and fat-free mass, the body composition accounts for asmallproportionof the ageassociatedRMR
+
+In humans, UCP1 has been thought to be exclusively expressed in BAT which is well developed only in newborns and young children. However,somerecentstudieshaveshownthatUCP1isalso expressed,
+
+⁎ Corresponding author. Tel.: +39 0984492931; fax: +39 0984492911. E-mail address: pinarose@unical.it (G. Rose).
+
+0531-5565/$ – see front matter © 2011 Elsevier Inc. All rights reserved. doi:10.1016/j.exger.2011.07.011
+
+Table 1
+
+Luhrmann et al., 2010; St-Onge and Gallagher, 2010). This indicates that in aging, resting metabolism may decrease through other mechanisms such as reduction in the mass and metabolic rate of individual organs and tissues. An increase in resting metabolic rate, as is observed in pathological conditions, accelerates aging and leads to early mortality (Ruggiero et al., 2008; Jumpertz et al., 2011). Consistently, a reduction in metabolic rate, such as in caloric restriction, improvesseveral biologicalparametersand has a favorable impact on longevity in both animal models and humans (Mattson and Wan, 2005). Notwithstanding the above considerations, the link between metabolic rate and aging and longevity is far from straightforward. Rizzo et al. (2005) showed that compared to aged subjects, healthy long-lived subjects display energy expenditure parametersthat are closer to the values of healthy middle-aged adults.
+
+Frequency distribution of two-marker haplotypes in the UCP1 region in the analyzed sample categorized according to the defined age classes. Standard errors (SE) of haplotype frequencies were calculated through 1000 bootstrap resampling cycles.
+
+Age groups Females Haplotypes Age class 1 Age class 2 Age class 3 2n=400 2n=341 2n=236 (40–72 years) (73–91 years) (N91 years) Rel. freq.±SE Rel. freq.±SE Rel. freq.±SE A-C 0.741±0.022 0.780±0.022 0.764±0.028 G-A 0.088±0.014 0.092±0.016 0.081±0.017 G-C 0.171±0.019 0.127±0.019 0.153±0.023 A-A – – – Males Haplotypes Age class 1 Age class 2 Age class 3 2n=232 2n=430 2n=208 (40–65 years) (66–88 years) (N88 years) Rel. Freq. ± SE Rel. Freq. ± SE Rel. Freq. ± SE A-C 0.728±0.029 0.760±0.020 0.773±0.030 G-A 0.134±0.022 0.110±0.016 0.076±0.019 G-C 0.139±0.024 0.131±0.016 0.152±0.026 A-A – – –
+
+It is also worth noting that aging is characterized by the progressive increase in oxidative stress due to the production of ROS during cellular metabolism. The accumulation over time of oxidative damage to cellular components affects normal cell functioning, and leads to impaired ability to maintain baseline tissue energy homeostasis, and to the inability to respond adequately to physiological needs (Frisard and Ravussin, 2006). Therefore, metabolic control and stress response are interconnected processes that likely contribute to the aging phenomenon.
+
+2000)
+
+According to the to survive (Brand, 2000) uncoupling modulates the aging process by affecting the body's metabolic rate (mitochondrial proton leak accounts for 20–30% of whole-body resting energy expenditure, see Harper et al., 2002), and by protecting from oxidative stress. In this scenario, the UCP1 uncoupling activity in BAT mitochondria, as well as the uncoupling activity of other UCPs in different tissues, may be considered a physiological process that by linking metabolic rate and ROS production, can modulate the rate of human aging and lifespan. It is worth noting that in a previous report we showed that a functional polymorphism located in the promoter region of the muscle-specific UCP3 gene (rs1800849), significantly affected hand grip strength, a predictor of disability and mortality, in an elderly population from southern Italy (Crocco et al., 2011). Our report suggested a correlation between the uncoupling process and the regulation of muscle performance in the elderly. Thus, the goal of this study, was to test the hypothesis that aging and longevity are influenced by UCP1 variants. Two polymorphisms, A-3826G and C-3740A, falling in the upstream enhancer region of UCP1, were studied in a cohort of middle aged and oldest old subjects from southern Italy. The functional relevance of the two polymorphisms in the context of haplotypes was also explored.
+
+2.2. Genetic and statistical analyses
+
+The Hardy–Weinberg equilibrium (HWE) was tested by using a approach based on 10,000 random allele permutations each sample (Weir, 1996).
+
+An expectation maximization (EM) algorithm, implemented in the Arlequin software package (Excoffier et al., 2005) was used to obtain maximum likelihood estimation of multilocus haplotype frequencies for UCP1 genotypes. Standard deviations of the haplotype frequencies were estimated by a parametric bootstrap procedure (1000 replica- tions). The D′ linkage disequilibrium coefficient was assessed using Arlequin software package (Excoffier et al., 2005). Diplotypes were constructed based on the population genotypes in the UCP1 gene using a pseudo-Bayesian approach (ELB algorithm) implemented in the Arlequin software package (Excoffier et al., 2005).
+
+In order to model haplotype/diplotype frequency as a function of age, we carried out a binomial logistic regression analysis, as previously reported by Tan and co-workers (Tan et al., 2001). For this purpose the following model was used:
+
+2. Materials and methods
+
+In Eq. (1) g[π (x)] represents a logit transformation of the i frequency of the carriers of the haplotype h at age x, π (x). Thus, the i i effect of the haplotype h on survival is represented by the slope i parameter β : if it is significantly different from 0 the frequency of the i1 carrier of the haplotype h goes up if β N0, or down if β b0. i i1 i1
+
+2.1. Subjects and genotyping
+
+A total of 910 (475 women and 435 men) unrelated individuals (age range: 40–109 years) participated in the present study. The subjects, born and currently living in Calabria (southern Italy), and whose parents and grandparents were native of the same area, were collected during several campaigns of recruitment (De Rango et al., 2010). All the subjects gave their informed consent to use their anonymous genetic and phenotypic data for genetic studies on aging and longevity.
+
+For the diplotype frequencies, the previous model can be reformulated as:
+
+The UCP1 A-3826G polymorphism was genotyped by genomic PCR and BclI-RFLP analysis as previously described (Oppert et al., 1994). To genotype the UCP1 C-3737A polymorphism 3–5 μl of the amplified DNA as above was digested by the restriction enzyme DdeI (3 U) for 3 h at 37 °C as recommended by the manufacturer. The fragments were separated by electrophoresis on a 2% agarose gel and stained with ethidium bromide.
+
+where the effect of the diplotype h /h on survival is represented by the i j slope parameter β : if it is significantly different from 0 the frequency ij1 of the carriers of the diplotype h /h goes up if β N0, or down if β b0. i j ij1 ij1
+
+i j ij1 ij1 The binomial logistic regression model has been applied to estimate the effect of each of the three reconstructed haplotypes (A-C, G-A and G-C) and of the relevant diplotypes on survival.
+
+Table 2
+
+Diplotype frequency distributions in the analyzed sample categorized according to the defined age classes.
+
+Diplotype Females Males Age class 1 Age class 2 Age class 3 Age class 1 Age class 2 Age class 3 N=200 N=83 N=113 N=104 N=128 N=87 (40–72 years) (73–91 years) (N91 years) (40–65 years) (66–88 years) (N88 years) A-C/A-C 108 (54.0%) 99 (63.1%) 69 (58.5%) 63 (54.3%) 119 (55.3%) 64 (61.5%) A-C/G-A 27 (13.5%) 17 (10.8%) 14 (11.9%) 21 (18.1%) 45 (20.9%) 9 (8.7%) A-C/G-C 53 (26.5%) 30 (19.1%) 29 (26.4%) 22 (19.0%) 43 (20.0%) 25 (24.0%) G-A/G-A 2 (1.0%) 2 (1.3%) 2 (1.7%) 3 (2.6%) 0 (0.0%) 1 (1.0%) G-A/G-C 4 (2.0%) 8 (5.1%) 1 (0.8%) 4 (3.4%) 2 (0.9%) 4 (3.8%) G-C/G-C 6 (3.0%) 1 (0.6%) 3 (2.5%) 3 (2.6%) 6 (2.8%) 1 (1.0%)
+
+orientation and to confirm that the sequences matched the original genomic sequences with no PCR-generated errors. Cloned vectors were then used for subsequent experiments.
+
+2.3. Bioinformatic analyses
+
+A 463 bp fragment (corresponding to −3967 to −3504) of the 5′ region of the human UCP1 gene including both the A-3826G and C- 3737A polymorphisms was extracted from the National Center for BiotechnologyInformationdatabase(http://www.ncbi.nlm.nih.gov/). The search for putative regulatory elements in this sequence was performed using the MatInspector software (http://www.genomatix. de/matins).
+
+2.5. Transfection assays
+
+MCF-7 cells were cultured in Dulbecco's modified Eagle's medium (Invitrogen) containing 4.5 g/l glucose and 2 mM L-glutamine supplemented with 5% fetal bovine serum (Invitrogen) and 1% gentamycin (Invitrogen). T47D cells were cultured in RPMI 1640 medium (Sigma) supplemented with 4.5 g/l glucose (Sigma), 1 mM Sodium pyruvate (Sigma), 10 mM HEPES buffer (Sigma), 0.2 U/ml Insulin (Sigma), 10% fetal bovine serum (Invitrogen), 2 mM L- glutamine (Invitrogen) and 1% gentamycin (Invitrogen). The cells were cultured in a water-humidified incubator at 37 °C in 5% CO2/95% air. Transfections were performed with the Fugene6 reagent as recommended by the manufacturer (Roche Molecular Biochemicals). Briefly, MCF-7 (5×104) and T47D cells (8×104) were transferred into 24-well plates with 1 ml of regular growth medium/well the day before transfection. The growth medium was then discarded and replaced with fresh medium supplemented by a mixture containing Fugene6, 1 μg of each reporter plasmid, and 1 ng of pRL-CMV (Promega), a plasmid containing the Renilla luciferase gene under the cytomegalovirus promoter utilized as an internal control to normalize the effects of transfection efficiencies. After 10 h, the medium was discarded and cells were incubated in fresh medium containing 17β-estradiol 1 μM or Progesterone 30 nM or 9-cis Retinoic Acid 1 μM for 48, 36 and 24 h, respectively. Then, untreated and treated cells were lysed by applying 100 μl of Passive Lysis Buffer (Promega). 20 μl of cell lysate was used for luciferase reporter assay according to the manufacturer's protocol for the Dual Luciferase reporter Assay Kit (Promega). Light intensity was quantified in a Lumat LB9507 luminometer (EG&G Berthold). The luciferase activities of the reporter plasmids were normalized to the Renilla luciferase
+
+2.4. Construction of reporter gene plasmids
+
+The 463-bp region containing the different haplotypes was amplified by PCR from human genomic DNA. Primers were designed to include the restriction sites KpnI and SacI for cloning in the product (Forward: 5′caggtaccTAACAGGGTATTTCCCAG; Reverse: 5′cagactCT- GAGAGGTCACAGAAGTT). PCR was carried out in 25 μl containing 1× buffer, 0.2 mM dNTPs, 0.32 μM primers, 2.5 mM MgCl , and 1.5 U of 2 Go Taq FlexiDNA Polymerase (Promega). The PCR reaction consisted of 35 cycles (95 °C for 60 s for the denaturation step, 55 °C for 45 s for the annealing step, and 72 °C for 60 s for the extension step). A denaturation step of 2 min at 95 °C preceded the first cycle while the last was followed by an extension step of 5 min at 72 °C. The resulting fragments were purified by agarose gel electrophoresis (Wizard SV Gel; Promega) and digested with KpnI and SacI enzymes (Promega) as recommended by the manufacturer. After the enzymatic digestions, the fragments were purified by phenol extraction and then inserted by using T4 DNA ligase (Promega) into the KpnI–SacI site upstream of the firefly luciferase reporter gene in the pGL3-Basic vector containing an SV40 promoter (Promega). DNA constructs were transformed into Top10 Escherichia coli cells by electroporation according to standard protocols. pGL3/UCP1 haplotype constructs were prepared by using the QIAprep Spin Miniprep Kit (Qiagen). The constructs were sequenced with the BigDye Terminator Cycle Sequencing Ready Reaction Kit (PE Applied Biosystems) to check the correct insert
+
+0.350.30Haplotype frequency (G-A)  —e— Fitted (Females) Fitted (Males)Observed (Females)Observed (Males)      
+
+Table 3
+
+Maximum likelihood estimations of the parameters of the fitted binomial logistic regression models in the analyzed sample.
+
+Parameter β SE p-Value 95% CI Haplotype A-C Age 0.009 0.009 0.288 −0.008–0.026 [Sex=males] 0.128 0.285 0.654 −0.431–0.687 Constant 2.035 0.675 0.003 – Haplotype G-A Age −0.014 0.005 0.010 −0.024 to −0.003 [Sex=males] 0.257 0.173 0.137 −0.082–0.596 Constant −0.604 0.414 0.144 – Haplotype G-C Age −0.001 0.005 0.752 −0.010–0.007 [Sex=males] −0.163 0.150 0.279 −0.457–0.132 Constant −0.813 0.364 0.025 –
+
+Fig. 1. The observed and the estimated frequency for haplotype G-A carriers.
+
+Table 4
+
+         3.g_e3ie |1H °tho     Lovo s90 090 sso oso sro oro(9-W/9-v) Aouenbey edhjo\diq7060502°+Age Fitted (Mal© Observed (FObserved (Males)    |-- Fitted (Females)  Moco szo ozo sto oo(v-9/0-V) Aousnbay adAjojdiq 10'080 90 100 110Age70
+
+Maximum likelihood estimations of the parameters of the fitted binomial logistic regression models in the analyzed sample.
+
+Parameter β SE p-Value 95% CI Diplotype A-C/A-C Age 0.009 0.004 0.032 0.001–0.017 [Sex=males] −0.045 0.135 0.738 −0.309–0.219 Constant 0.346 0.328 0.291 – Diplotype A-C/G-A Age −0.014 0.006 0.014 −0.026 to −0.003 [Sex=males] 0.376 0.190 0.048 0.003–0.748 Constant −0.903 0.452 0.045 – Diplotype A-C/G-C Age 0.001 0.005 0.892 −0.009–0.010 [Sex=males] −0.166 0.161 0.300 −0.481–0.148 Constant −1.227 0.389 0.002 – Diplotype G-A/G-A Age −0.010 0.019 0.614 −0.048–0.028 [Sex=males] −0.343 0.650 0.599 −1.617–0.932 Constant −3.615 1.505 0.016 – Diplotype G-A/G-C Age −0.007 0.013 0.585 −0.032–0.018 [Sex=males] −0.194 0.427 0.649 −1.031–0.643 Constant −3.035 1.009 0.003 – Diplotype G-C/G-C Age −0.010 0.014 0.451 −0.038–0.017 [Sex=males] 0.067 0.453 0.882 −0.821–0.956 Constant −3.051 1.076 0.005 –
+
+activity. Each transfection experiment was carried out three times in duplicate.
+
+Statistical analyses were performed by using R statistical software for windows (www.cran.com). One-way analysis of variance (ANOVA) and Student's t-test with a significance level of 0.05, were adopted to check the significance of the difference between the fold induction values of the constructs containing the different haplotypes at basal conditions and after hormone stimulation.
+
+Fig. 2. The observed and the estimated frequency for diplotype A-C/A-C (A) and A (B) carriers.
+
+harmful haplotype. The slope parameters for both A-C and G-C haplotypes were not statistically different from 0, suggesting that their frequencies were independent of age. Fig. 1 shows the frequency patterns for the G-A haplotype carriers. As expected, both the observed and the fitted frequencies indicated that there was a constant decline of this haplotype with increasing age. In order to check if the detrimental effect of the G-A haplotype observed in both sexes involved a particular diplotype, we used the same model to analyze the frequency of the carriers of each of the six reconstructed diplotypes as a function of age. Table 4 reports the parameter estimates for all the reconstructed diplotypes. Diplotype A-C/A-C showed a significant positive slope parameter (β=0.009; p=0.032), indicating that the frequency of subjects with this diplotype increases with age. The diplotype A-C/G-A also showed a significant negative slope parameter (β=−0.014; p=0.014), which indicates that the frequency of subjects with this diplotype decreases with age (Fig. 2). As for the haplotypes, if one considers an age interval of 15 years the corresponding ORs from the relevant fitted models were 1.144 and 0.811 for the diplotype A-C/A-C and A-C/G-A, respectively. The diplotype A-C/G-C did not show any significant variation with age. The other diplotypes failed to reach the level of significance probably due to their low frequencies. On the whole, these results indicate that the A-C haplotype has a recessive and beneficial effect, while the G-A haplotype has a dominant and deleterious effect on human aging and longevity.
+
+3. Results
+
+3.1. Haplotype/diplotype analyses
+
+on a sample of 910 subjects categorized by age and sex as reported in Passarino et al. (2006). In each group, there was no evidence of departure from Hardy–Weinberg equilibrium (pN0.05). The two SNPs, which are very close to each other, resulted to be in linkage disequilibrium (D′=0.99, r2=0.58). Frequency distributions of two- marker haplotypes and diplotypes are summarized in Tables 1 and 2, respectively. We modeled the frequency of the carriers of each of the reconstructed haplotype/diplotype as a function of age by using the binary logistic regression model. Table 3 reports the maximum likelihood estimations of the parameters of the fitted haplotype-based model in males and females. Of the three reconstructed haplotypes, only the G-A haplotype showed a significant variation with age in both sexes. In fact, the slope parameter was significantly lower than 0 (β=−0.014) with a corresponding confidence interval ranging from −0.024 to −0.003. If one considers an age interval of 15 years the corresponding odds ratio (OR) from the fitted model is:
+
+3.2. Functional analyses of haplotypes
+
+To ascertain whether the observed associations reflected a different functional relevance of the different haplotypes, we first
+
+This means that for haplotype G-A carriers a remarkable reduction (around 20%) occurs in an age interval of 15 years indicating that it is a
+
+Fig. 3. Cloned sequence of the UCP1 gene containing the A-3828G (R) and the C-3737A (M) polymorphisms. Retinoic Acid-Response Element (RARE), Progesterone-Response Element (PRE), Activating Transcription Factor/cAMP Response Element binding protein (ATF/CREB), and Estrogen-Response Element (ERE) are underlined.
+
+submitted a sequence of 463 bp (from −3967 to −3504) the two polymorphic sites to the MatInspector online software. shown in Fig. 3, a putative retinoic acid response element
+
+accumulation, and thermogenesis in mice models but also to be associated with increased median survival and diminished age- related diseases (McDonald and Horwitz, 1999; Kontani et al., 2005; Gates et al., 2007).
+
+the two polymorphic sites to the MatInspector online software. As shown in Fig. 3, a putative retinoic acid response element (from −3842 to −3826), including the A-3826G variation, and a previously characterized ATF/CREB binding element (from −3738 to −3733), carrying the C-3737A variation (Rousset et al., 2002), were predicted. Furthermore, a progesterone responsive element (PRE)-like sequence (from −3817 to −3804), and an estrogen responsive element (ERE)- like sequence (from −3713 to −3701), were also predicted in the vicinity of the two SNPs. Subsequently, using a luciferase reporter gene assay we generated reporter constructs carrying the three haplotypes and then tested their transcriptional activity in transiently transfected MCF-7 and T47D cells, which specifically express the estradiol and progesterone receptors, respectively. Experiments were carried out both under basal conditions and after hormonal stimulation. As a first step we estimated the maximum effective concentration by quantitative dose–response experiments (data not shown). Fig. 4 shows that, under basal conditions, in both cell lines, the luciferase activity of the cells carrying either the A-C or the G-A construct was significantly higher than cells carrying the haplotype G- C, which did not show any transcriptional activity. Moreover, the activity of the A-C construct was higher than that of G-A.
+
+For these reasons, a number of nucleotide variants in the UCP1 gene have been described and analyzed in adult onset metabolic disorders (Mori et al., 2001; Herrmann et al., 2003; Kim et al., 2005, 2006). The A-3826G transition, which is in strong linkage disequilib- rium with the C-3737A polymorphism (Rousset et al., 2002), has been associated with the percentage of body fat gain over time, high weight gain during adult life, and increased BMI in obese subjects (see Jia et al., 2010 and references therein). Here we report a relationship between UCP1 variability and survival at very old age. In particular, we found that the frequency of the A-C/A-C diplotype increases, while the A-C/G-A frequency decreases as the population ages. By contrast, no variation in the A-C/G-C diplotype frequency was found. The A-3826G and the C-3737A polymorphisms are located at the 5′ region of the gene in proximity of a complex enhancer region (from position −3820 to −3470 upstream of the transcription start site) containing multiple and distinct cis-acting elements that mediate strong drug-dependent transcriptional activation of the UCP1 gene (del Mar Gonzales-Barroso et al., 2000). The results of our in vitro transfection experiments using luciferase reporter assays clearly point to an effect of these haplotypes on UCP1 gene expression. The A-C haplotype showed higher transcriptional activity compared to the G-A haplotype. No activity was observed for the GC haplotype. These results seem to indicate a major role for the A-3826G polymorphism in modulating the transcriptional activity of the UCP1 gene. In line with this, it has been shown that the -3826G allele is associated with reduced mRNA levels (Sramkova et al., 2007), while the C to A substitution at −3737, does not seem to substantially affect transcriptional activity (Rousset et al., 2002).
+
+With respect to basal conditions, a higher luciferase activity was observed for both the A-C (p=0.027) and G-A (p=0.046) constructs in MCF-7 cells treated with 9-cis retinoic acid (1 μM) for 24 h. In contrast, A-C demonstrated a significantly decreased luciferase activity (p=0.028) when the same cells were treated with 17β- estradiol (1 μM) for 48 h (Fig. 4A and B). Moreover, in presence of 17β-estradiol the G-A construct also showed a trend for reduced activity which was not statistically inferior to basal transcription. In contrast, the activity of the sole A-C construct increased when T47D cells were treated with progesterone (30 nM) for 36 h (p=0.014; Fig. 4C).
+
+It is worth noting that, although A-C and G-A haplotypes positively affect UCP1 transcriptional activity compared to the GC haplotype, they have opposite effects on longevity. This apparently contrasting result may be explained considering the haplotype-specific effect after hormonal stimuli. In fact, progesterone up-regulates whereas estradiol down-regulates the transcriptional activity of the AC haplotype, while neither changes the transcriptional activity of GA. Therefore, it is likely that the real in vivo effect of these haplotypes on complex phenotypes such as aging and longevity is mediated by the intricacy of the different cellular and physiological stimuli. Similarly, this may explain why the G-C haplotype, lacking any transcriptional activity, also did not show significant changes in its frequency during aging. It is evident that this observation calls for a better understand- ing of the different stimuli affecting UCP1 transcription. In this frame,
+
+4. Discussion
+
+Human aging is accompanied by changes in energy balance and body composition which are consequent to hormonal changes (Hughes et al., 2004). In this context, the role of BAT is particularly important, since it regulates energy expenditure in the elderly. In fact, although the amount of BAT in human adults is low, it is responsible for 1–2% of the energy expenditure, which is enough to prevent weight gain of about 2 kg per year (Lean, 1989). Consistently, an inverse relation between BAT and BMI, body fat, and visceral fat is observed in aging (Mattson, 2010; Vijgen et al., 2011). UCP1, which is expressed in BAT, has been observed to influence metabolism, fat
+
+the presence of consensus sex steroid responsive elements within the UCP1 sequence is very intriguing. Indeed, there are several reports considering sex steroid hormones as modulator of the thermogenic capacity and activity of BAT (Monjo et al., 2003; Valle et al., 2008). It follows that the different effects of the UCP1 haplotypes could be explained by considering changes in the regulation of metabolism with aging, possibly mediated by age-related variations in hormonal status. Moreover, as suggested by Fessele et al. (2002), the importance of the sequence context in determining the functionality of a regulatory region clearly emerges. In fact, although the two poly- morphisms did not alter either the binding site for progesterone or estradiol, a clear haplotype-specific effect on the transcriptional activity was observed following hormonal stimulation.
+
+222018161210Fold Induction4035302520Fold Induction= SS aFold Inductionxiv2.5@ basal conditionsRetinoic acid 1M (24h)  90.027p=0.03,p= 0.01670.046p=0.01 I| — apGL3 G-C G-A A-CReporter constructsBasal conditionsEstradiol 1M (48 h)p<o.00p<0.001 p-0.028;pros= —_pGL3 G-C G-A A-CReporter constructsBasal conditionsProgesterone 30nM (36h)p-0014p=0.021P0049p=0.026pGL3 G-C G-A A-C
+
+-3826G allele have a diminished resting energy expenditure, while carriers of the G/G genotype have reduced thermoregulatory sympathetic nervous system (SNS) activity. This finding suggests that the attenuation of UCP1-mediated thermogenesis may have a negative effect on energy balance regulation. The survival advantage exerted by the A-C haplotype could then be a consequence of protection towards age-related decline of energy expenditure. These results seem to be in line with those reported by Rizzo et al. (2005) showing that very old individuals have a higher metabolic rate than older individuals. Human cohort studies also support a relationship between advanced age and body temperature (Waalen and Buxbaum, 2011), suggesting that the individual's ability to maintain a lower steady state body temperature may affect longevity. Although skeletal muscles may play a role in non shivering thermogenesis (Wijers et al., 2008), the age-related diminished thermogenic activity of BAT might be the primary cause for the loss of thermoregulation (Son'Kin et al., 2010). It is evident that an analysis of the BMI would be crucial to better understand how the effect of UCP1 activity on longevity is exerted. Unfortunately, information on BMI was available only for a subgroup of our sample. Therefore, we cannot fully address the question whether or not the effect of UCP1 on longevity is mediated through BMI or not. Further studies are needed to clarify this point.
+
+On the other hand, since the preservation of mitochondrial function from oxidative stress represents one of the most important factors for achieving survival for the very old, the specific involvement of UCP1 in reducing ROS production (Oelkrug et al., 2010; Dlasková et al., 2010) may represent a further mechanism through which mitochondrial uncoupling in BAT can contribute to slow down aging. The hypothesis that UCP1 haplotypes affect ROS production is currently object of our investigation.
+
+The present results, together with previous reports on UCP1, -2 and -3 (Crocco et al., 2011; Mookerjee et al., 2010) suggest that the uncoupling process is very important to conferring metabolic efficiency and, consequently, successful aging.
+
+5. Conclusions
+
+In conclusion, our study shows that the haplotypic variants in the 5′-enhancer region of the UCP1 gene modulate survival, probably by affecting the protein levels. This is the first study reporting a significant association between UCP1 genetic variants and human survival, however additional data are needed. On the other hand, the soundness of our preliminary findings is supported by the consistency between our association and in vitro studies and previous studies in model organisms.
+
+Fig. 4. Luciferase activity of the reporter constructs at basal and after stimulation. A) MCF-7 cells treated with 1 μM of Retinoic Acid for 24 h; B) MCF-7 cells treated with 1 μM Estradiol for 48 h; C) T47D cells treated with 30 nM of Progesterone for 30 h. The values reported are the means±standard error mean of three independent experiments.
+
+Acknowledgments
+
+The work was supported by Fondi di Ateneo Unical (ex 60%) to GP and GR.
+
+References
+
+and senescence. J. Bioenerg. Biomembr.
+
+,
+
+–
+
+Monjo, M., Rodriguez, A.M., Palou, A., Roca, P.,
+
+Direct effects of testosterone,
+
+betaestradiol, and progesterone on adrenergic regulation in cultured brown adipocytes: potential mechanism for gender-dependent thermogenesis. Endocri- nology
+
+,
+
+–
+
+Mookerjee, S.A., Divakaruni, A.S., Jastroch, M., Brand, M.D.,
+
+Mitochondrial uncoupling and lifespan. Mech. Ageing Dev.
+
+,
+
+–
+
+Mori, H., Okazawa, H., Iwamoto, K., Maeda, E., Hashiramoto, M., Kasuga, M.,
+
+A polymorphism in the
+
+′ untranslated region and a Met
+
+→Leu variant in exon
+
+of the human UCP
+
+gene are associated with susceptibility to type II diabetes mellitus. Diabetologia
+
+,
+
+–
+
+Nagai, N., Sakane, N., Kotani, K., Hamada, T., Tsuzaki, K., Moritani, T.,
+
+Uncoupling protein
+
+gene -
+
+A/G polymorphism is associated with weight loss on a short- term, controlled-energy diet in young women. Nutr. Res.
+
+,
+
+–
+
+Nedergaard, J., Bengtsson, T., Cannon, B.,
+
+Unexpected evidence for active brown adipose tissue in adult humans. Am. J. Physiol. Endocrinol. Metab.
+
+, E
+
+–E
+
+Nedergaard, J., Bengtsson, T., Cannon, B.,
+
+Three years with adult human brown adipose tissue. Ann. N.Y. Acad. Sci.
+
+, E
+
+–E
+
+Oelkrug, R., Kutschke, M., Meyer, C.W., Heldmaier, G., Jastroch, M.,
+
+Uncoupling protein
+
+decreasessuperoxideproductioninbrownadiposetissuemitochondria.J. Biol. Chem.
+
+,
+
+–
+
+Oppert, J.M., Vohl, M.C., Chagnon, M., Dionne, F.T., Cassard-Doulcier, A.M., Ricquier, D., Pérusse,L.,Bouchard,C.,
+
+DNApolymorphismintheuncouplingprotein(UCP) gene and human body fat. Int. J. Obes. Relat. Metab. Disord.
+
+,
+
+–
+
+Passarino, G., Montesanto, A., Dato, S., Giordano, S., Domma, F., Mari, V., Feraco, E., De Benedictis, G.,
+
+Sex and age specificity of susceptibility genes modulating survival at old age. Hum. Hered.
+
+,
+
+–
+
+Rizzo, M.R., Mari, D., Barbieri, M., Ragno, E., Grella, R., Provenzano, R., Villa, I., Esposito, K., Giugliano, D., Paolisso, G.,
+
+Resting metabolic rate and respiratory quotient in human longevity. J. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+Roberts, S.B., Rosenberg, I.,
+
+Nutrition and aging: changes in the regulation of energy metabolism with aging. Physiol. Rev.
+
+,
+
+–
+
+Rousset, S., del Mar Gonzalez-Barroso, M., Gelly, C., Pecqueur, C., Bouillaud, F., Ricquier, D., Cassard-Doulcier, A.M.,
+
+A new polymorphic site located in the human UCP
+
+gene controls the in vitro binding of CREB-like factor. Int. J. Obes. Relat. Metab. Disord.
+
+,
+
+–
+
+Ruggiero, C., Metter, E.J., Melenovsky, V., Cherubini, A., Najjar, S.S., Ble, A., Senin, U., Longo,D.L.,Ferrucci,L.,
+
+Highbasalmetabolicrateisariskfactorformortality: the Baltimore Longitudinal Study of Aging. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Saito, M., Okamatsu-Ogura, Y., Matsushita, M., Watanabe, K., Yoneshiro, T., Nio- Kobayashi,J.,Iwanaga,T.,Miyagawa,M.,Kameya,T.,Nakada,K.,Kawai,Y.,Tsujisaki, M.,
+
+High incidence of metabolically active brown adipose tissue in healthy adult humans: effects of cold exposure and adiposity. Diabetes
+
+,
+
+–
+
+Sale,M.M.,Hsu,F.C.,Palmer,N.D.,Gordon,C.J.,Keene,K.L.,Borgerink,H.M.,Sharma,A.J., Bergman, R.N., Taylor, K.D., Saad, M.F., Norris, J.M.,
+
+The uncoupling protein
+
+gene,UCP
+
+,isexpressedinmammalian isletcellsandassociatedwithacuteinsulin response to glucose in African American families from the IRAS Family Study. BMC Endocr. Disord.
+
+,
+
+–
+
+Sell, H., Deshaies, Y., Richard, D.,
+
+The brown adipocyte: update on its metabolic role. Int. J. Biochem. Cell. Biol.
+
+,
+
+–
+
+Son'kin, V.D., Kirdin, A.A., Andreev, R.S., Akimov, E.B.,
+
+Homeostatic non-shivering thermogenesis in humans facts and hypotheses. Hum. Physiol.
+
+,
+
+–
+
+Sramkova, D., Krejbichova, S., Vcelak, J., Vankova, M., Samalikova, P., Hill, M., Kvasnickova, H., Dvorakova, K., Vondra, K., Hainer, V., Bendlova, B.,
+
+The UCP
+
+gene polymorphism A-
+
+G in relation to DM
+
+and body composition in Czech population. Exp. Clin. Endocrinol. Diab.
+
+,
+
+–
+
+St-Onge, M.P., Gallagher, D.,
+
+Body composition changes with aging: the cause or the result of alterations in metabolic rate and macronutrient oxidation? Nutrition
+
+,
+
+–
+
+Tan, Q., Yashin, A.I., De Benedictis, G., Cintolesi, F., Rose, G., Bonafe, M., Franceschi, C., Vach, W., Vaupel, J.W.,
+
+A logistic regression model for measuring gene– longevity associations. Clin. Genet.
+
+,
+
+–
+
+Tiraby,C.,Tavernier,G.,Lefort,C.,Larrouy,D.,Bouillaud,F.,Ricquier,D.,Langin,D.,
+
+Acquirement of brown fat cell features by human white adipocytes. J. Biol. Chem.
+
+,
+
+–
+
+Valle, A., Santandreu, F.M., Garcìa-Palmer, F.J., Roca, P., Oliver, J.,
+
+The serum levels of
+
+β-estradiol, progesterone and triiodothyronine correlate with brown adipose tissue thermogenic parameters during aging. Cell. Physiol. Biochem.
+
+,
+
+–
+
+van Marken Lichtenbelt, W.D., Vanhommerig, J.W., Smulders, N.M., Drossaerts, J.M., Kemerink, G.J., Bouvy, N.D., Schrauwen, P., Teule, G.J.,
+
+Cold activated brown adipose tissue in healthy men. N. Engl. J. Med.
+
+,
+
+–
+
+Vijgen, G.H., Bouvy, N.D., Teule, G.J., Brans, B., Schrauwen, P., van Marken Lichtenbelt, W.D.,
+
+Brown adipose tissue in morbidly obese subjects. PL
+
+ONE
+
+(
+
+), e
+
+Virtanen,K.A.,Lidell,M.E.,Orava,J.,Heglind,M.,Westergren,R.,Niemi,T.,Taittonen,M., Laine, J., Savisto, N.J., Enerbäck, S., Nuutila, P.,
+
+Functional brown adipose tissue in healthy adults. N. Engl. J. Med.
+
+,
+
+–
+
+Waalen, J., Buxbaum, J.N.,
+
+Is older colder or colder older? The association of age with body temperature in
+
+,
+
+individuals. J. Gerontol. A Biol. Sci. Med. Sci.
+
+(
+
+),
+
+–
+
+Images of mitochondrial UCP
+
+in mouse thymocytes using confocal microscopy. Biochim. Biophys. Acta
+
+,
+
+–
+
+Brand, M.D.,
+
+Uncoupling to survive? The role of mitochondrial inefficiency in ageing. Exp. Gerontol.
+
+,
+
+–
+
+Cannon, B., Nedergaard, J.,
+
+Brown adipose tissue: function and physiological significance. Physiol. Rev.
+
+,
+
+–
+
+Cannon, B., Nedergaard, J.,
+
+Metabolic consequences of the presence or absence of the thermogenic capacity of brown adipose tissue in mice (and probably in humans). Int. J. Obes. (Lond)
+
+(Suppl.
+
+), S
+
+–S
+
+Cannon, B., Shabalina, I.G., Kramarova, T.V., Petrovic, N., Nedergaard, J.,
+
+Uncoupling proteins: a role in protection against reactive oxygen species—or not? Biochim. Biophys. Acta
+
+,
+
+–
+
+Crocco,P.,Montesanto,A.,Passarino,G.,Rose,G.,
+
+Acommonpolymorphisminthe UCP
+
+promoter influences hand grip strength in elderly people. Biogerontology
+
+(
+
+),
+
+–
+
+Cypess,A.M.,Lehman,S.,Williams,G.,Tal,I.,Rodman,D.,Goldfine,A.B.,Kuo,F.C.,Palmer, E.L., Tseng, Y.H., Doria, A., Kolodny, G.M., Kahn, C.R.,
+
+Identification and importanceofbrownadiposetissueinadulthumans.N.Eng.J.Med.
+
+,
+
+–
+
+D
+
+ango,F.,Montesanto,A.,Berardelli,M.,Mazzei,B.,Mari,V.,Lattanzio,F.,Corsonello, A., Passarino, G.,
+
+To grow old in southern Italy: a comprehensive description of the old and oldest old subjects in Calabria. Gerontology
+
+,
+
+–
+
+del Mar Gonzales-Barroso, M., Pecqueur, C., Gelly, C., Sanchis, D., Alves-Guerra, M.C., Bouillaud, F., Ricquier, D., Cassard-Doulcier, A.M.,
+
+Transcriptional activation ofthehuma
+
+CP
+
+geneinarodentcellline.Synergismofretinoids,isoproterenolo and thiazolidinedione is mediated by a multipartite response element. J. Biol. Chem.
+
+,
+
+–
+
+Dlasková, A., Clarke, K.J., Porter, R.K.,
+
+The role of UCP
+
+in production of reactive oxygen species by mitochondria isolated from brown adipose tissue. Biochim. Biophys. Acta
+
+,
+
+–
+
+Excoffier,L.,Laval,G.,Schneider,S.,
+
+Arlequin(version
+
+):anintegratedsoftware package for population genetics data analysis. Evol. Bioinfor
+
+nline
+
+,
+
+–
+
+Fessele, S., Maler, H., Zischek, C., Nelson, P.J., Werner, T.,
+
+Regulatory context is a crucial part of gene function. Trends Genet.
+
+,
+
+–
+
+Frisard, M., Ravussin, E.,
+
+Energy metabolism and oxidative stress: impact on the metabolic syndrome and the aging process. Endocrine
+
+,
+
+–
+
+Frisard, M.I., Broussard, A., Davies, S.S., Roberts II, L.J., Rood, J., de Jonge, L., Fang, X., Jazwinski, S.M., Deutsch, W.A., Ravussin, E., for the Louisiana Healthy Aging Study,
+
+Aging, resting metabolic rate, and oxidative damage: results from the Louisiana Healthy Aging Study. J. Gerontol. A Biol. Sci. Med. Sci.
+
+,
+
+–
+
+Gates, A.C., Bernal-Mizrachi, C., Chinault, S.L., Feng, C., Schneider, J.G., Coleman, T., Malone, J.P., Townsend, R.R., Chakravarthy, M.V., Semenkovich, C.F.,
+
+Respiratory uncoupling inskeletal muscledelays death and diminishes age-related disease. Cell. Metab.
+
+,
+
+–
+
+Harper, M.E., Antoniou, A., Bevilacqua, L., Bezaire, V., Monemdjou, S.,
+
+Cellular energy expenditure and the importance of uncoupling. J. Anim. Sci.
+
+, E
+
+–E
+
+Herrmann, S.M., Wang, J.G., Staessen, J.A., Kertmen, E., Schmidt-Petersen, K., Zidek, W., Paul,M.,Brand,E.,
+
+Uncouplingprotein
+
+and
+
+polymorphisms areassociated with waist-to-hip ratio. J. Mol. Med.
+
+,
+
+–
+
+Hughes,V.A.,Roubenoff,R.,Wood,M.,Frontera,W.R.,Evans,W.J.,Fiataron
+
+ingh,M.A.,
+
+Anthropometric assessment of
+
+-y changes in body composition in the elderly. Am. J. Clin. Nutr.
+
+,
+
+–
+
+Jia, J.J., Tian, Y.B., Cao, Z.H., Tao, L.L., Zhang, X., Gao, S.Z., Ge, C.R., Lin, Q.Y., Jois, M.,
+
+The polymorphisms of UCP
+
+genes associated with fat metabolism, obesity and diabetes. Mol. Biol. Rep.
+
+,
+
+–
+
+Jumpertz, R., Hanson, R.L., Sievers, M.L., Bennett, P.H., Nelson, R.G., Krakoff, J.,
+
+Higher energy expenditure in humans predicts natural mortality. J. Clin. Endocrinol. Metab.
+
+, E
+
+–E
+
+Kim,K.S.,Cho,D.,Kim,Y.J.,Choi,S.M.,Kim,J.Y.,Shin,S.U.,Yoon,Y.S.,
+
+Thefindingof new genetic polymorphism of UCP-
+
+A-
+
+G and its effects on body fat accumulation. Biochim. Biophys. Acta
+
+,
+
+–
+
+Kim, S.M., Han, J.H., Park, H.S.,
+
+Prevalence of low HDL cholesterol levels and associated factors among Koreans. Circ. J.
+
+,
+
+–
+
+Kontani, Y., Wang, Y., Kimura, K., Inokuma, K.I., Saito, M., Suzuki-Miura, T., Wang, Z., Sato, Y., Mori, N., Yamashita, H.,
+
+UCP
+
+deficiency increases susceptibility to diet-induced obesity with age. Aging Cell
+
+,
+
+–
+
+Kozak, L.P., Koza, R.A., Anunciado-Koza, R.,
+
+Brown fat thermogenesis and body weight regulation in mice: relevance to humans. Int. J. Obes. (Lond)
+
+(Suppl.
+
+), S
+
+–S
+
+Krems, C., Luhrmann, P.M., Strassburg, A., Hartmann, B., Neuhauser-Berthold, M.,
+
+Lower resting metabolic rate in the elderly may not be entirely due to changes in body composition. Eur. J. Clin. Nutr.
+
+,
+
+–
+
+Lean, M.E.,
+
+Brown adipose tissue in humans. Proc. Nutr. Soc.
+
+,
+
+–
+
+Lowell, B.B., Spiegelman, B.M.,
+
+Towards a molecular understanding of adaptive thermogenesis. Nature
+
+,
+
+–
+
+Luhrmann, P.M., Edelmann-Schafer, B., Neuhauser-Berthold, M.,
+
+Changes in resting metabolic rate in an elderly German population: cross-sectional and longitudinal data. J. Nutr. Health Aging
+
+,
+
+–
+
+Manini, T.M.,
+
+Energy expenditure and aging. Ageing Res. Rev.
+
+,
+
+–
+
+Mattson, M.P.,
+
+Perspective: does brown fat protect against diseases of aging? Aging Res. Rev.
+
+,
+
+–
+
+Mattson, M.P., Wan, R.,
+
+Beneficial effects of intermittent fasting and caloric
+
+M.P., Wan, R., 2005. Beneficial effects of intermittent fasting and caloric restriction onthe cardiovascularandcerebrovascularsystems. J.Nutr. Biochem.16, 129–137.
+
+Wijers, S.L.J., Schrauwen, P., Saris, W.H.M., van Marken Lichtenbelt, W.D.,
+
+Human skeletal musclemitochondrial uncoupling isassociated withcoldinduced adaptive thermogenesis. PL
+
+ONE
+
+, e
+
+Yoneshiro, T., Aita, S., Matsushita, M., Kameya, T., Nakada, K., Kawai, Y., Saito, M.,
+
+Brown adipose tissue, whole-body energy expenditure, and thermogenesis in healthy adult men. Obesity
+
+,
+
+–
+
+Zingaretti,M.C.,Crosta,F.,Vitali,A.,Guerrieri,M.,Frontini,A.,Cannon,B.,Nedergaard,J., Cinti, S., 2009. The presence of UCP1 demonstrates that metabolically active adipose tissue in the neck of adult humans truly represents brown adipose tissue. FASEB J. 23, 3113–3120.
+
+Wijers, S.L.J., Schrauwen, P., Saris, W.H.M., van Marken Lichtenbelt, W.D., 2008. Human skeletal musclemitochondrial uncoupling isassociated withcoldinduced adaptive

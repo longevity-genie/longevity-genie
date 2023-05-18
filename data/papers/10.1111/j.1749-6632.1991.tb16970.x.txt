@@ -1,0 +1,401 @@
+PLOP: PDF Linearization, Optimization, Protection
+
+Page inserted by evaluation version www.pdflib.com – sales@pdflib.com
+
+Longevity and Heredity in Humans
+
+Association with the Human Leucocyte Antigen Phenotypea
+
+Association with the Human Leucocyte
+
+A. M. LAGAAY,b J. D’AMARO,‘ G. J. LIGTHART,’ G. M. Th. SCHREUDER,cJ . J. van ROOD,‘ AND W. HIJMANS’
+
+bSection of Gerontology und CDepurtrnento f Irnrnunohemutology University of Leiden
+
+2300 RC Leiden, The Nerherlands
+
+It is still not understood why some people live to be very old while others die at an earlier age from natural causes. There are several arguments supporting the hypothesis that genetic factors are important in this respect. Both average and maximum life span are fixed for each species. Between species and also between different strains within a species, average life span differs, as, for example, in different strains of mice reared under identical laboratory conditions. Smith and Walford’ have demonstrated that in mice the major histocompatibility complex (MHC) exerts a significant influence on life span. In mice, MHC is also associated with premature tumor incidence, a low immune response, less effective DNA- repair and autoimmune disease.24 These observations could be an indication of the existence of a “biological clock” which is governed by genetic factors.
+
+Common knowledge has it that in the human species familial differences in longevity do exist and that these are at least partially accounted for by genetic factors: “longevity runs in the family.” Scientifically this has been studied by Abbott et al.’ who compared the parental age at death of subjects who died at different ages. There was a weak but significant trend for survival to increase with increasing age at death of the parent. This trend was more marked for the mater- nal age at death and more evident for males than for females. Palmore in the Dukes longitudinal study6 partly confirmed these observations. He found an influ- ence of the father’s age at death and again this was more evident in males. The mother’s age at death had no influence.
+
+An important study from Sorensen et (I/. in Denmark7i ncludes 960 individuals who had been separated from their biologic parents in early childhood and had been reared by adoptive parents. In those who died prematurely, that is between 16 and 58 years of age, there was a significant correlation with the death of one of the biologic parents before the age of 50 (relative risk (RR) 1.71). There was no correlation with a premature death of one of the adoptive parents. The relative risk was higher regarding infectious (RR 5.8) or vascular (RR 4.5) causes of death. These findings may be interpreted as evidence for a genetic effect on the immune
+
+LAGAAY et af.: LONGEVITY & HEREDITY
+
+death from cancer of an adoptive parent before the age of 50 increased the rate of mortality among the adoptees fivefold. Death from cancer of a biologic parent had no detectable effect on the mortality of the adoptees.
+
+HLA region is located on the short arm of the sixth chromosome. It codes for immunological repertoire in its broadest sense. A characteristic property is extreme polymorphism. In man several associations between HLA antigens disease exist with a relative risk which varies from 1.3 to 358.s Therefore, studied the HLA system for genes associated with longevity.
+
+detect in the human species than in mice, since humans are an outbred population with an inherent genetic heterogeneity. In addition, there is no possibility to control other exogenous variables that may influence longevity. Even if ethnic and geographic matching between the study population and the control group is assured, a considerable genetic heterogeneity persists so that HLA types cannot be compared against a common background. For these reasons Walford et aL9 stated that it would be a more fruitful approach to do HLA typing in family studies or to determine the segregation of certain traits with haplotypes.
+
+age groups is limited and their results are not uniform. It is essential that the study population and the young control group share the same genetic and geographic background and that both groups consist of large enough numbers for statistical analysis. The age difference between the two groups must be adequate, or age- brackets should be provided. Only some of the previous studies fulfill these re- quirements. In the following we will briefly review the most important findings from the literature.
+
+Brief Literature Review
+
+Recently, the Japanese group of Takata et al.'O-reporting on the oriental population of Okinawa, Japan-mentioned an extremely low frequency of HLA-DRw9 in nona- and centenarians as compared to younger age groups, and also a frequency of HLA-DR1 of 10.0 and 6.1% in the nona- and centenarians, respectively, while DRl was absent in the younger age groups. Since HLA-B40 is linked to DRw9 in the Japanese population, its frequency was decreased as well. Macurova et al. in Prague," described a marked difference in many antigens: a
+
+In a well designed study, Yarnell et al. in Wales'*, also found a higher fre- quency of HLA-B40 in the old population. On the other hand, three studies in Caucasoid population^'^-'^ reported a slight decrease of HLA-B40 in the elderly. GreenbergI6 reported a decreased prevalence of HLA-B8 in women over 70 years of age as compared to men of the same age. He also found a decreased prevalence of the Al-B8 haplotype in this group as compared to both the young ages and men of the same age. Thompson et a1.l' noted an increase of the pheno- typic frequencies HLA-A29, B7 and B35 in 17 healthy centenarians in Kentucky, USA. One study20m entions a higher frequency of the A1 lCw7/B8/DR3 haplotype in highly aged males.
+
+An increase in heterozygosity, mostly at the HLA-B locus, in older age groups been reported, but other studies have not confirmed this observation. 11,1s~19
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+In the authoritative book HLA and Disease Associations,L’i n the chapter diseases” a paragraph is devoted to the subject of “age” in of association with HLA antigens. A meta-analysis on HLA-B40 with the combined data of eight independent studies. The result was significant increase in the frequency of B40. Thk increase in the was primarily a consequence of the data of Macurova” and remarks were made concerning some of the studies, and we quote: “The frequency of B40 in the old group may be an artifact of sample size, HLA serology, and typing techniques”.
+
+These discrepancies prompted us to reinvestigate the association of HLA antigens with survival. We performed a study of the HLA phenotypes of all available inhabitants, that is, 964 persons, aged 85 years and over of the commu- nity of Leiden, the Netherlands. The frequencies of HLA antigens were com- pared with a control group, consisting of 2444 blood donors, 20-35 years of age, with an identical ethnic (Dutch Caucasoid) and geographic background. Also, control groups of different age brackets were used from the same region.
+
+SUBJECTS AND METHODS
+
+On the entry date of December lst, 1986, the total cohort of inhabitants of Leiden, aged 85 years and over comprised 1259 subjects. From January 1987 until March 1989, 977 individuals of this age group were visited at their place of resi- dence. After appropriate informed consent was obtained, a medical history was taken and blood was drawn by venipuncture for HLA typing. A total of 222 persons had died before they could be visited and 60 persons did not cooperate. Blood samples for HLA typing were obtained from 964 persons.
+
+A large database was available with HLA typings of blood donors of different ages from the same geographical district. We chose the age group of 20-35 be- cause the mortality rate is lowest at these ages. These subjects have survived the diseases of childhood and have yet to encounter diseases of middle age: malignan- cies, cardiovascular disorders and autoimmune diseases. The database of HLA typings of the blood bank was also used to generate control groups of diffcrent age-brackets from identical ethnic and geographic background.
+
+To obtain an ethnically homogeneous sample, nine elderly subjects of non- Caucasoid parentage (data obtained during personal visit or from family) were excluded. Four of these excluded subjects were of Indonesian (oriental) parent-
+
+LAGAAY et al.: LONGEVITY & HEREDITY
+
+four of Surinamese (negroid, or mixed oriental/negroid) and one of Chinese
+
+These selection and exclusion procedures resulted in 964 HLA typings of subjects of 85 years and older, and 2444 of 20-35 years of age. The number of HLA typings of the different age groups are: newborns n = 476; 20-29 years n = 1311; 30-39 years n = 2143; 40-49 years n = 1477; 50-59 years n = 354; 60-84 =
+
+Methods
+
+Typing for the HLA-A, B and C (class I) antigens was performed with the standard lymphocytotoxicity test, and typing for HLA-DR and DQ (class 11) antigens with a two-color fluorescence test using a set of highly selected alloanti- sera to class I1 antigens.
+
+(pat. with AG) x (contr. without AG) RR = (pat. without AG) x (contr. with AG) = patient; contr. = control; AG = HLA antigen
+
+pat. = patient; contr. = control; AG = HLA antigen
+
+test for 2 x 2 contingency tables. The ages of the subjects for the analysis were taken as their ages at the time of collection of the blood sample for HLA typing.
+
+The results of HLA typing of 48 antigens are listed in TABLEI . The distribu- tion of HLA antigens in the study population was in good general agreement with that in the control group with two exceptions: the frequency of HLA-B40 was lower and that of HLA-DR5 was higher in the age group of 85 years and over. After correction for the number of antigens tested, these differences were statisti- cally significant in females only (TABLE2S a nd 3). The changes appeared gradually with age, as shown in FIGURE1. The percentages of homozygotes were not different between the young and old
+
+The percentages of homozygotes were not different between the young and old age groups (data not shown).
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+TABLE 1. Phenotype Frequency of HLA Antigens (%) + Age 20-35 85 Phenotype N = 2444 N = 964 RR X' p Value" Al 30.6 30.8 1.009 0.012 0.877 A2 52.7 49.5 0.890 2.359 0.121 A3 28.7 27.2 0.937 0.581 0.453 A9 19.3 21.8 1, I48 2.171 0.137 A10 6.9 9.2 1.382 5.627 0.017 All 11.5 10.4 0.877 1.132 0.287 A28 10.0 9.2 0.918 0.441 0.514 AW19 20.6 23.5 1.185 3.465 0.059 B5 11.9 12.9 1.091 0.585 0.451 B7 27.4 28.0 1.032 0.140 0.708 B8 22.8 22.5 0.989 0.016 0.869 B12 25.3 27.4 1.131 2.072 0.146 B13 4.4 4.8 1.116 0.383 0.544 B14 2.9 3.5 1.268 1.303 0.252 B15 15.8 15.7 0.968 0.096 0.751 B16 7.2 7.0 0.972 0.038 0.825 B17 6.6 8.0 1.236 2.176 0.136 B18 6.5 8.2 1.297 3.315 0.065 B21 2.2 2.8 1.242 0.828 0.366 BW22 5.8 4.5 0.800 1.644 0.197 B27 6.4 7.7 1.206 1.642 0.197 B35 17.5 16.0 0.908 0.891 0.348 B37 4.1 3.4 0.876 0.441 0.514 B40 17.8 13.2 0.703 10.5 0.002 - B W4 55.2 59.8 1.202 5.695 0.016 BW6 87.8 87.6 0.983 0.023 0.851 CWI 4.8 6.0 1.265 2.053 0.148 c w 2 9.9 9.3 0.921 0.398 0.535 c w 3 32.8 28.6 0.819 5.731 0.016 c w 4 21.0 20.6 0.986 0.022 0.854 c w 5 12.9 16.0 1.311 6.469 0.01 1 CW6 16.5 16.7 1.033 0.092 0.755 c w 7 49.3 51.4 1.078 0.939 0.334 DR 1 19.7 20.0 1.072 0.548 0.466 DR2 28.7 28.3 0.960 0.230 0.637 DR3 25.1 23.1 0.898 1.439 0.228 DR4 28.3 25.0 0.856 3.188 0.071 DR5 19.0 23.4 1.318 8.953 0.003 - DRW6 33.7 31.8 0.913 I .216 0.270 DR7 19.2 22.1 1.204 3.943 0.044 DRW8 5.3 7.5 1.457 6.118 0.013 DR9 2.4 2.7 1.127 0.257 0.619 DRWl0 4.3 2.5 0.588 5.493 0.018 DRW52 69.1 72.6 1.196 4.428 0.033 DRWS3 46.1 47 .O I ,049 0.379 0.546 DQWl 71.2 68.8 0.896 I .740 0.184 DQW2 37.5 36.7 0.965 0.202 0.658 DOW3 50.4 53.0 1.111 1S 89 0.205
+
+TABLE 1. Phenotype Frequency of HLA Antigens (%)
+
+p values uncorrected for number of antigens tested. a
+
+LAGAAY el al.: LONGEVITY & HEREDITY
+
+p values uncorrected for number of antigens tested. a
+
+TABLE 3. Phenotype Frequency of HLA-DR5 and its Splits: DRwll and DRwl2 (%)
+
+Age + Phenotype 20-35 85 RR X2 p Value" + Male female DR5 19.0 23.6 1.318 8.953 0.003 DRwll 14.4 18.4 1.349 8.694 0.004 DRwl2 4.6 4.9 1.067 0.131 0.72 n 2381 954 Males DR5 19.3 21.3 1.141 0.650 0.43 DRwl1 14.9 18.2 1.080 0.180 0.68 DRwl2 4.3 4.9 1.160 0.233 0.64 n 1261 273 Females DR5 18.7 24.5 1.416 8.814 0.003 DRwll 13.8 19.5 1.519 10.45 0.002 DRwl2 4.9 4.9 0.998 0.OOO 0.94 n 1120 681
+
+p values uncorrected for number of antigens tested. a
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+Ag frequency % - 40 1 L- 30 - .. . . .. . . .. . . .. .. .. . . . . . . . . . . . . . .. .. . . .. . . .. . , . . . .. .. . . . . .. . . .. . . . . . .. . . . . . .. . .. . . .. .. .. . . .. . . . .. .. A1 0 a + Newborns 20-29 30-39 40-49 50-59 6085 HLA-A1 --CHLA-B40 *HLA-DRS
+
+FIGURE 1. The distribution of HLA-B4O and HLA-DRS in the Dutch-Caucasoid population of Leiden, The Netherlands, in seven age groups, in females. HLA-A1 is shown as an example of an antigen that does not change in frequency with age.
+
+A difference was found in two HLA antigens: the frequency of HLA-B40 was lower and that of HLA-DRS was higher in the age group of 85 years and over. No major disease associations with HLA-B40 or with DRS have been reported. The possibility remains that either of these antigens is in linkage disequilibrium with gene systems, as yet obscure to us, which are involved in controlling life span or which may be associated with diseases or aging processes. Both Dawkins in Australia (personal communication) and Kramer et al. in Hungary** have men- tioned the possible association of HLA-B40 with gene duplication of the fourth component of complement. This could be relevant in the light of our results and it indicates the need for further studies on linkage of the different HLA classes.
+
+Concerning HLA-DRS, no data about age-related differences in class I1 anti- gens in Caucasoids have been reported. HLA-B40, on the other hand, has repeat- edly been found to differ between young and old age groups (FIG.2 ). Macurova et ul.I1 mentioned a marked increase with age, but this study should be regarded critically, as mentioned above. Since then, one study reported an increase'* and two studies found a decrease of HLA-B40 with age.'3.14r2W3 e have not yet suc- ceeded in finding a plausible explanation for this variance in direction of the difference in HLA-B40.
+
+and HLA-B40 is officially listed as being associated with Since in our study, the frequency of HLA-B40 is lower in subjects aged and over, especially in females, it is clear that our data do not support this
+
+LAGAAY et al.: LONGEVITY & HEREDITY
+
+tions (FIG.2). It is well known that within the same race, a considerable variation in HLA antigen frequencies can exist between different populations, for example, between neighboring countries. For the region of Leiden, we have checked this percentage in six other Dutch Caucasoid control groups of the same region and of the same age, containing 101 up to 5490 subjects. The percentage of HLA-B40- positive subjects in these control groups was of the same order of magnitude as in the present study, ranging from 16.8 to 18.0 percent.
+
+The general similarity of the pattern of HLA frequencies in the different age groups provides evidence that we are looking at two generations of the same population. Some of the previous studies reported differences in nearly all anti- gens tested at that time;" while in other studies'" the age-related differences appeared abruptly. This generates questions about the historic background and similarity of the study population and the control group, as Wainscoat el a1.25h ave pointed out. We have no indication that major demographic changes have oc- curred in our population during this century. This is illustrated by the gradual growth of the population and of the percentage of people over 85 years of age (FIG.3) . Neither did we find an abrupt or disproportionally large difference in HLA frequencies between different age groups (FIG.2 ).
+
+Gerkins et al. Macurova et al." and Converse and Williams" report a ,I8 increase in heterozygosity in the old age group. This was not confirmed studies,'2-'5,20,22,I2n6 our study the heterozygosity was not different in as compared to the young age group.
+
+The fact that the differences in HLA frequency both in B40 and in DR5 more evident in females is intriguing. Can we take this as a key to the ing of the difference in life expectancy between the sexes? It is clear that we cannot answer this question without further studies. This also brings us to
+
+B40 Frequency(%) 30 25 20 15 10 5 0 Lelden Wales Copenhagen Paris Framlngham Prague Los Angeles Young old
+
+FIGURE 2. The frequency (%) of HLA-B40 in the present study and in previously lished studies, in young and old age groups.
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+option of “longevity genes” being located outside the HLA region. With the association of the maternal age of death and the higher life expectancy for con- temporary women in mind, the sex chromosome and even mitochondria1 DNA could be proposed as a possible site. It has been postulated that the double X-chromosome is favorable for an extended length of life.27 This advantage can act through hormonal influence or by an overcapacity of the immune system, the latter provided by nature in order to ensure maximum reproductive success for the human female gender.
+
+Our study did not detect a significant decrease in the frequency of established disease-associated HLA antigens, e.g., B27, B8, DR4, in the oldest age group. The following arguments should be considered in this respect: Firstly, our control group consists of blood donors who are selected on the basis of health criteria. This selection can cause the frequency of disease-associ-
+
+100 80 60 1880 ‘90 1900 ‘10 ’20 ‘30 ‘40 ’50 ’60 ‘70 ‘80 ’83 ‘84 ‘85 ‘86 ’87 ‘88 Year = a &f88 Females Males 85+ Males 8 Females
+
+FIGURE 3. The growth of the population of Leiden during this century is gradual. For the total population the number of males and females are plotted separately. For the inhabitants of 85 years and over males and females are pooled.
+
+ated HLA antigens to be lower than in the total population. In other words our control group could be “too healthy.” The fact that in this particular age group the prevalence of disorders leading to rejection as blood donor will be low, and that relatives of diseased subjects can be expected to be especially motivated to enlist as blood donor, counters the argument that the control group may be too healthy. Moreover, we have checked the HLA frequencies of 134 cornea donors, 20-35 years of age, who can be considered a random sample of the population. The HLA pattern of the blood donors and the cornea donors did not differ (data
+
+LAGAAY el al.: LONGEVITY & HEREDITY
+
+example: insulin-dependent diabetes mellitus (IDDM) is associated HLA-DR3 or DR4. Individuals with those antigens, have a relative risk to IDDM which is 4 to 10 times higher than those lacking these antigens. The lence of IDDM in the population has been estimated to be approximately percent. A population-based study such as the present is not suitable to such minimal differences.
+
+Thirdly, these HLA associated disorders do not necessarily lead to an early death. In the present study this is exemplified by subjects with well documented rheumatoid arthritis, who apparently survived while, or because, the disease process was burnt out.
+
+On the other hand, this negative finding could emphasize the postulated ad- vantage of these disease-associated HLA antigens. After all, according to the principles of Darwin, these disease-associated HLA antigens would have become extinct, had they not been beneficial for the maintenance of the species.
+
+al.:l o their study both the adult controls and the nona- and centenarians were healthy. This is remarkable in the light of the first point mentioned above: one would not expect a difference in autoimmune disease-associated HLA antigens if both young and old age groups are selected on health criteria. The fact that the difference is casts a doubt on the significance of the Okinawa results, or alternatively, on the strictness of the health criteria employed. To illustrate this critical remark, it is noteworthy that in the present population 54 (5.5%) out of 977 persons aged years or over were considered healthy according to the criteria described in the SENIEUR-protocol.28
+
+It is not clear at what age the hypothetised differences in HLA frequencies would show. Is it at middle age, when diseases like cancer, cardiovascular disor- ders and rheumatoid arthritis take their toll? Or is it in the oldest age group, where the protecting, beneficial “longevity genes” would become manifest, as could be exemplified by the results of Takata et al.1° We are presently in the process of integrating the life expectancy curve into the data of HLA phenotype.
+
+The idea of the existence of longevity genes is difficult to understand in the light of Darwin’s theory of evolution. We can hardly expect an extension of life span after 85 years of age to be advantageous for the preservation of the species. H a y f l i ~ kh,o~w~e ver, has recently proposed an interesting theory on this topic:
+
+In order to insure maximum parental fitness for survival of slowly maturing human progeny, there would be a selective advantage for parents to maintain their physiolog- ical vigor after sexual maturation. The reserve capacity, present in virtually all or- gans, is the essential element in determining postdevelopmental longevity.
+
+CONCLUSION
+
+The age-related differences in HLA antigens should however never distract us from the importance of prevention, life style and other nongenetic factors which contribute to reach an active, healthy and independent old age.
+
+ANNALS NEW YORK ACADEMY OF SCIENCES
+
+SUMMARY
+
+both in experimental animals and in the human species. In mice, genes in the major histocompatibility complex (MHC) are associated with a significant effect on life span. Results of analogous studies in man are confusing and contradictory. We have therefore investigated the question of an association of the human leucocyte antigen (HLA) and longevity in a large and ethnically homogeneous population. Our study population consisted of all 964 available inhabitants aged 85
+
+on life span. Results of analogous studies in man are confusing and contradictory. We have therefore investigated the question of an association of the human leucocyte antigen (HLA) and longevity in a large and ethnically homogeneous population. Our study population consisted of all 964 available inhabitants aged 85 years and over in the Dutch community of Leiden (pop. 104,000). Our control group comprised 2444 young inhabitants, aged 20-35 years, with an identical ethnic and demographic background. In addition, control groups of different age- brackets from the same region were used.
+
+higher in the group of 85 years and over, as compared to the control group, aged 20-35 years. Both differences were more evident in females. No major disease associations with HLA-B40 or HLA-DRS have been reported. It is unlikely that these results are a chance observation: the overall similarity of the HLA pattern of the old and young age groups is a confirmation of their identical ethnic and demographic background and the changes as observed in the different age-groups were gradual. The biological meaning of these results is still unclear.
+
+ACKNOWLEDGMENTS
+
+We thank Professor J. Vandenbroucke for valuable and indispensable epide- miologic advice; Mrs. E. P. J. M. Mudde-Hoogveld for collecting the derno- data; Mr. Jipje Krebbers for correction of the English text; Mrs. M. den for the preparation of the manuscript; and all participants of 85-plus project in Leiden, both active and passive, who were, and will be, a source of inspiration.
+
+REFERENCES
+
+I . SMITH,G . S. & R. L. WALFORD
+
+Influence of the main histocompatibility com- plex on ageing in mice. Nature
+
+-
+
+SMITH,G . S. & R. L. WALFORD
+
+Influence of the H
+
+and H
+
+histocompatibility systems upon life span and spontaneous cancer incidence in congenic mice. In Genetic Effects on Ageing. D. Bergsmaand D. E. Harrison, Eds.
+
+-
+
+National Foundation-March of Dimes. Alan R. Liss. New York.
+
+MEREDITHP, . & R. L. WALFORD.
+
+Effect of age on response to T and B cell mitogens in mice congenic at the H-
+
+region. Immunogenetics
+
+:
+
+YUNIS,E . J., G. FERNANDESP,.
+
+TEAGIJE
+
+, . SUTMA&N R. A. Goon.
+
+The thymus, autoimmunity and the involution of the lymphoid system. Zn Tolerancc, Autoimmunity and Aging. M. M. Sigel, Ed.
+
+-
+
+Charles C. Thomas. Springfield.
+
+ABBOTT,M . H., E. A. MURPHYD,. R. BOLLING& H. ABBEY.
+
+The familial component of longevity, a study of offspring of nongenarians.
+
+Preliminary analy- sis of the completed study. Hopkins Med. J.
+
+:
+
+-
+
+PALMOREE, . B.
+
+Predictors of the longevity difference: a
+
+-year follow-up. Gerontologist
+
+:
+
+-
+
+SORENSENT, . I. A., G. G. NIELSEN,P . K. ANDERSEN& T. W. TEASDALE
+
+Genetic and environmental influences on premature death in adult adoptees. N. Engl. J. Med.
+
+:
+
+-
+
+YUNIS,E . J., G. FERNANDESP,. 0. TEAGIJE0, . SUTMA&N R. A. Goon. 1972. The thymus, autoimmunity and the involution of the lymphoid system. Zn Tolerancc, Autoimmunity and Aging. M. M. Sigel, Ed. 62-119. Charles C. Thomas. Springfield. ABBOTT,M . H., E. A. MURPHYD,. R. BOLLING& H. ABBEY.1 974. The familial component of longevity, a study of offspring of nongenarians. 11. Preliminary analy-
+
+LAGAAY et al.: LONGEVITY & HEREDITY
+
+TIWARI,J . L. & P. I. TERASAKIE, ds.
+
+In HLA and disease associations.
+
+-
+
+Springer-Verlag Inc. New York.
+
+WALFORDR, . L., G. S. SMITH,P . J. MEREDITH& K. E. CHENEY
+
+Immuno- genetics of Aging. In The Genetics of Aging. E. L. Schneider, Ed.
+
+-
+
+Plenum Publishing Corporation. New York.
+
+TAi
+
+A, H., M. SUZUKIT, . ISHI, S. SEKIGUCH&I H. IRI.
+
+Influence of major histocompatibility complex region genes on human longevity among Okinawan- Japanese centenarians and nonagenarians. Lancet ii:
+
+-
+
+MACUROVAH,. , P. IVANYIH, . SAJDLOVA& J. TROJAN
+
+HL-A antigens in aged persons. Tissue Antigens
+
+-
+
+YARNELLJ,. W. G., A. S. ST. LEGER,I . C. BALFOUR& R. B. RUSSELL
+
+The distribution, age effects and disease associations of HLA antigens and other blood group markers in a random sample of an elderly population. J. Chon. Dis.
+
+-
+
+HANSENH, . E., J. V. SPARCK& S.
+
+LARSEN
+
+An examination of HLAfrequen- cies in three age groups. Tissue Antigens
+
+:
+
+-
+
+BENDERK, .,A . MAYEROVAB,. KLOTZBUCHERK,. BURCKHARD&T C . H.
+
+No indication of postnatal selection at the HL-A loci. Tissue Antigens
+
+:
+
+-
+
+BLACKWELDEWR., C., K. K. MITTALP, . M. MCNAMAR&A F. J. PAYNE
+
+Lack of association between HLA and age in an aging population. Tissue Antigens
+
+-
+
+GREENBERGL,. J.
+
+Aging and immune function in man: influence of sex and genetic background. In Aging and Immunity. S. K. Singhal, M. R. Sinclair & C. R. Stiller, Eds.
+
+-
+
+Elsevier, North Holland Inc. Amsterdam.
+
+THOMPSONJ,. S., D. R. WEKSTEINJ,. L. RHOADESC, . KIRKPATRICKS., A. T. ROSZMANR, . STRAUS& N. TIETZ.
+
+The immune system of healthy centenar- ians. J. Americ. Geriatr. SOC.
+
+-
+
+GERKINSV, . R., A. TING,H . T. MENCKJ, . T. CASSAGRANDPE. ,I . TERASAK&I M. C. PIKE.
+
+HL-A heterozygozity as a genetic marker of long term survival. J. Natl. Cancer Inst.
+
+-
+
+CONVERSEP,. J. & D. R. R. WILLIAMS
+
+Increased HLA-B heterozygosity with age. Tissue Antigens U:
+
+-
+
+PROUSTJ, ., R. MOULIASF, . FUMEROFN. ,B EKKHOUCHMA,. BUSSONM, . SCHMID& J. HORS.
+
+HLA and longevity. Tissue Antigens
+
+:
+
+-
+
+TIWARJI. L. & P. I. TERASAKEI,d s.
+
+In HLA and disease associations:
+
+-
+
+Springer-Verlag New York, Inc.
+
+KRAMERJ,. , E. GYODI& G. FUST.
+
+Usefulness of densitometry in typing of human complement component C
+
+Immunogenetics
+
+:
+
+-
+
+PANDEYJ,. P., H. H. FUDENBE&R CG. B. LOADHOLT
+
+HLA antigens in differ- ent age groups. Ric. Clin. Lab.
+
+:
+
+-
+
+WALFORDR, . L.
+
+MHC Regulation of aging: an extension of the immunologic theory of aging. In Modem Biological Theories of Aging. H. R. Warner et al., Eds.
+
+-
+
+Raven Press. New York.
+
+WAINSCOATJ,. S., T. E. A. PETO & A. WASWO.
+
+HLA genes and longevity (letter). Lancet ii:
+
+, HODGE,S . E. & R. L. WALFORD
+
+HLA distribution in aged normals. In Histo- compatibility Testing P. I. Terasaki, Ed.
+
+-
+
+UCLA. Los Angeles.
+
+SMITHD, . W. E. & H. R. WARNER
+
+Does genotypic sex have a direct effect on longevity? Exp. Gerontol.
+
+:
+
+-
+
+LIGTHARTG, . J., J. X. CORBERANDC,. FOURNIERP,. GALANAUDW, . B. KENNESH, . K. MULLER-HERMELI&N KG . S. STEIMANN
+
+Mech. Ageing Dev.
+
+:
+
+-
+
+HAYFLICKL, .
+
+Antecedants of cell aging research. Exp. Gerontol.
+
+,
+
+-
+
+TAiuTA, H., M. SUZUKIT, . ISHI, S. SEKIGUCH&I H. IRI. 1987. Influence of major histocompatibility complex region genes on human longevity among Okinawan- Japanese centenarians and nonagenarians. Lancet ii: 824-826. MACUROVAH,. , P. IVANYIH, . SAJDLOVA& J. TROJAN1.9 75. HL-A antigens in aged

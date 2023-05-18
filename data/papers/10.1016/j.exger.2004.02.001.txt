@@ -1,0 +1,441 @@
+Experimental Gerontology 39 (2004) 801–805
+
+www.elsevier.com/locate/expgero
+
+Hypothetical soluble KIR2DS4 natural killer cell receptor molecule does not associate with successful ageing in the Irish
+
+Owen A. Ross , Lynn D. Maxwell , I. Maeve Rea , Martin D. Curran
+
+aSchool of Biology and Biochemistry, Queens University of Belfast, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL, Northern Ireland, UK bNorthern Ireland Regional Histocompatibility and Immunogenetics Laboratory, City Hospital, Belfast, Northern Ireland, UK cDepartment of Geriatric Medicine, Queens University of Belfast, Belfast, Northern Ireland, UK
+
+Received 27 November 2003; received in revised form 14 January 2004; accepted 6 February 2004
+
+Abstract
+
+The identification of immunogenetic longevity markers is a major area of molecular gerontological research. A number of genetic loci have been examined, e.g. the HLA and cytokine networks. This study investigated a genetic marker within the highly polymorphic KIR gene system with successful ageing in the Irish population. A 22 bp deletion was identified in the KIR2DS4 gene that predicts a truncated soluble KIR molecule with one intact Ig-like domain. The frequency of this variant was determined using a specific-primer PCR methodology. There was no observed association between this common polymorphic variation within this activatory KIR gene and the aged Irish population. This is the first study of KIR polymorphism in ageing and although no association was identified, the importance of the KIR network in the immune response and its polymorphic nature warrants more detailed analysis to ascertain its role in immunosenescence.
+
+Keywords: KIR; 2DS4 deletion; Polymorphism; Ageing
+
+1. Introduction
+
+elderly, an overall cytotoxic activity is maintained even though there are increased numbers of mature NK cells observed (Di Lorenzo et al., 1999; Solana et al., 1999; Miyaji et al., 2000). NK cells lyse abnormal cells that either lack the expression, or express diminished amounts, of human leukocyte antigen (HLA) class I molecules. The ability of NK cells to discriminate between normal and HLA class I-deficient cells is due to the expression of clonally distri- buted HLA class I inhibitory receptors (Biassoni et al., 2000).
+
+with optimal functioning of the immune system, suggesting that specific genetic determinants may reside in poly- morphic loci that regulate the immune response. Dysregula- tion of immune function accompanying ageing (immunosenescence) is postulated to contribute to morbid- ity and mortality in the aged via an increased risk of disease, infection, tumours, and autoimmune disorders (Franceschi et al., 1995, 2000; Solana and Pawelec, 1998; Malaguarnera et al., 2001).
+
+Human NK cells express two structurally distinct receptor families that mediate their interactions; the c-type lectin-like heterodimer receptors and the immunoglobulin- like (Ig-like) receptors (Lopez-Botet et al., 2000). In contrast to the relatively conserved CD94/NKG2 lectin- like receptors, the Ig-like receptors display considerable variation, particularly the killer cell immunoglobulin-like receptors (KIR). NK cells are known to clonally express KIR genes and whilst it is unclear how the repertoire of receptors expressed by NK cells is created, recent studies on the NK cell expression of KIR in different individuals imply that the repertoire is dependent on the presence of different genes in an individuals genome (Uhrberg et al., 1997;
+
+Natural killer (NK) cells play a crucial role in the innate immune response and a hypothesis was proposed that a well-preserved NK cell activity is important for successful ageing (Sansoni et al., 1993; Franceschi et al., 1995;
+
+* Corresponding author. Address: School of Biology and Biochemistry, Queens University of Belfast, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL, Northern Ireland, UK. Tel.: þ44-2890263979; fax: þ44- 2890263880.
+
+E-mail address: owenaross@hotmail.com (O.A. Ross). 1 Present address: Public Health and Clinical Microbiology Laboratory, Addenbrooke’s Hospital, Cambridge, England.
+
+O.A. Ross et al. / Experimental Gerontology 39 (2004) 801–805
+
+Shilling et al., 2002). The KIR gene family represents a highly polymorphic class of receptor-encoding genes, which to date have displayed considerable allelic diversity and it is postulated that KIR polymorphism arises from both the occurrence of random point mutations and recombination between homologous KIR genes (Shilling et al., 1998; Witt
+
+to ascertain whether this polymorphism within the KIR region was associated with successful ageing.
+
+2. Materials and methods
+
+2.1. Subjects
+
+Recently, our laboratory reported the presence of a common 22 bp deletion in the activatory KIR2DS4 gene that predicts a soluble KIR molecule (Maxwell et al., 2002). The deletion causes a frameshift predicting a truncated KIR2DS4 protein with a significantly altered D2 domain, which would be secreted due to the loss of the transmem- brane/cytoplasmic domains. A representative KIR2DS4 deletion allele sequence (KIR2DS4*003; available under accession number AJ417554) containing the 22 bp deletion in exon 5, is aligned against a non-deleted allele (KIR2DS4*00102) sequence in Fig. 1 (Dohring et al., 1996;
+
+One hundred and eighty control samples (68% female, 32% male with an age-range of 19–45 years; mean age 29 years) were chosen at random from an anonymous DNA bank of normal healthy Caucasian individuals from the Northern Ireland population. The study involved 180 aged samples (71% female, 29% male with an age-range of 80–97 years; mean age 89 years) from the Belfast Elderly Longitudinal Free-living Ageing Study (Rea et al., 2000). All samples were from healthy Caucasian individuals from the Northern Ireland population displaying no signs of age- related disorders, still living independently and approximate SENIEUR status (Ligthart et al., 1984, 1990). Ethical approval was obtained from the Queen’s University of Belfast ethics committee.
+
+In the present study, the frequency of the deleted from the KIR2DS4 gene was examined in a cohort of healthy aged Irish subjects in comparison to a younger control group
+
+2DS4*001022D84*0032D84*001022D84*0032DS4*001022D84*0032D84*001022D84*0032D84*001022D84*003FRAMESHIFT2D84*001022D84*0032D84*001022D84*0032D84*001022D84*0032D84*001022D84*0032D84*001022D84*0032D84*001022D84*003+1newa EXON4 (D1)CATGGCGTGTGTTGGGTTCTTCTTGCTGCAGGGGGCCTGGCCACAGGAGGGAGTCCACAGAAAACCTTCCTTCCTGGCCCTCCCAGGTCACCTGGTGAAA 220TCAGAAGAGACAGTCATCCTGCAATGTTGGTCGGATGTCATGTTTGAGCACTTCCTTCTGCACAGAGAGGGGAAGTTTAACAACACTTTGCACCTCATTG 320GAGAGCACCATGATGGGGTTTCCAAGGCCAACTTCTCCATTGGTCCCATGATGCCTGTCCTTGCAGGAACCTACAGATGCTACGGTTCTGTTCCTCACTC EXONS (D2) 420CCCCTATCAGTTGTCAGCTCCCAGTGACCCTCTGGACATGGTGATCATAGGTCTATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCAG 520GCAGGAGAGAATGTGACCTTGTCCTGCAGCTCCCGGAGCTCCTATGACATGTACCATCTATCCAGGGAGGGGGAGGCCCATGAACGTAGGCTCCCTGCAG 620 c AAS TEHS R PTFLWALPPTEGP TDA SAL SV TL PEXON6 EXON7CGAGTGGTCAAACTCGAGTGATCCACTGCTTGTTTCCGTCACAGGAAACCCTTCAAATAGTTGGCCTTCACCCACTGAACCAAGCTCCAAAACCGGTAACTSGQTRVIHCLUFPSQETLQIVGELHPLNQAPKPV TE 820  1020TCACTGTGTTTTCACACAGAGAAAAATCACTCGCCCTTCTGAGAGGCCCAAGACACCCCCAACAGATACCAGCATGTACATAGAACTTCCAAATGCTGAG 1110CCCAGATCCAAAGTTGTCTTCTGTCCACGAGCACCACAGTCAGGCCTTGAGGGGATCTTCTAGGGAGACAACAGCCCTGTCTCAAAACCG<<
+
+Fig. 1. Representative alignment of KIR2DS4 deletion variant sequence (KIR2DS4*003) with undeleted KIR2DS4*00102 sequence. Numbering initiates on the first nucleotide of the ATG initiation codon of the 2DS4 coding sequence—only the cDNA sequence from position 21–1110 of the coding sequence was targeted in our PCR design. Dashes indicate complete identity while an * indicates a nucleotide deletion. Arrows highlight the location and direction of the two PCR primers (2DS4f and 3UTNKex) used to amplify the KIR cDNA sequence, and spaces are left under the PCR primer sequences as these sequences were not determined. The amino acid sequence of the new open reading frame accessed by 2DS4del due to the 22 bp deletion is depicted under its nucleotide sequence and terminates at the first in frame stop codon (V). The exon start positions are also highlighted. The only other nucleotide difference found in this 2DS4 deletion variant sequence is the presence of the G-A (nt489) change just downstream of the 22 bp deletion site, which in this particular instance would no longer be silent due to the resulting frameshift at the deletion site and concomitant R-K change in the predicted protein coding sequence representing the carboxyl end of the 2DS4 deletion variant.
+
+Ross et al. / Experimental Gerontology 39 (2004) 801–805
+
+(FMC BioProducts, Maine, USA) for greater resolution, stained with ethidium bromide (0.5 mg/ml), at 200 v for 45 min. A representative gel image is shown in Fig. 2. Samples which failed to amplify were confirmed as 2DS4 negative (2ve) samples by employing a sequence specific oligonucleotide probe KIR gene typing system (Crum et al., 2000; Middleton et al., 2002).
+
+deletion product(199 base pairs)full length product(221 base pairs) 
+
+3. Results and discussion
+
+Fig. 2. Representative gel image for genotyping of the 2DS4 polymorph- ism. A representative Metaphor agarose gel image for the genotyping of the KIR2DS4 amplicons. Lane M contains a DNA size marker, f £ 174 RF Hae III digest; Lanes 1 and 5 display the results obtained for a heterozygous individual; Lanes 2 and 6, show the presence of the homozygous deleted 2DS4 form only; Lanes 3, 4 and 7, displays the results for homozygous individuals displaying the full length 2DS4 form only.
+
+The present study investigated the frequency of a common 22 bp deletion in the killer immunoglobulin-like receptor gene 2DS4 that predicts a soluble KIR molecule. A simple PCR methodology was employed to genotype 180 aged and 180 young control subjects from the Irish population. The observed frequencies of the deleted and full-length forms of the 2DS4 gene are displayed in Table 1.
+
+2.2. PCR amplification
+
+The 2DS4-specific oligonucleotide primers employed for the amplification of the 221/199 bp region of the 2DS4 gene were:
+
+No significant associations were observed for the 2DS4 deletion variant with either age group or with respect to gender. The 2DS4 gene was present in the vast majority of samples examined, with only approximately 5% of each sample group appearing negative for the gene. The deleted form of the 2DS4 gene was identified at a high frequency (70–80%) within the Irish population as previously reported (Maxwell et al., 2002), and this raises the question concerning the possible function of this KIR variant. We previously reported the presence of mRNA for this gene (Maxwell et al., 2002) and studies are presently underway in an attempt to identify the hypothetical protein product in blood plasma. If the presence of this soluble KIR can be confirmed, it will be important to elucidate its role in the immune response to infection/disease and autoimmunity, and its potential effects on ageing.
+
+PCR amplification was performed in 50 ml reaction volumes containing 67 mM Tris–HCl pH 8.8; 16 mM (NH ) SO ; 1.5 mM MgCl ; 0.01%(w/v) Tween; 200 mM 4 2 4 2 of each dNTP; 0.2 mM of each primer; 2 units Taq polymerase (Bioline UK Ltd, London, UK); 0.1–0.5 mg DNA. The following cycling conditions were employed: samples were held at 96 8C for 5 min, followed by 38 cycles of 96 8C for 1 min, 58 8C for 30 s, 72 8C for 1 min. After the final cycle, the samples were held at 72 8C for 5 min, and then at 15 8C until removed from the PCR machine (Perkin–Elmer 9600 Thermal Cycler).
+
+The function of activating receptors such as remains unresolved. It has been postulated that they act in unison with the inhibitory receptors to cytolytic action or may act in response (Biassoni et al., 2000). Intriguingly, some appear to contain the 2DS4 deletion variant as the activating KIR gene, which again highlights the tance of elucidation of its functional role. the samples that appeared negative for the 2DS4
+
+2.3. Genotyping of 2DS4 polymorphism
+
+Successful amplification and genotyping was deter- mined, using the molecular weight (size: 22 bp) difference between the deleted and non-deleted forms of the 2DS4 gene, via gel electrophoresis on a 2% Metaphor agarose gel
+
+The observed allele and genotype frequencies for the common polymorphic forms of the 2DS4 gene in the Irish population
+
+Controls n ¼ 180 Aged n ¼ 180 Male n ¼ 58 (%) Female n ¼ 122 (%) Total (%) Male n ¼ 53 (%) Female n ¼ 127 (%) Total (%) FL/FL 5 (9) 17 (14) 22 (12) 8 (15) 18 (14) 26 (14) FL/Del 14 (24) 33 (27) 47 (26) 14 (26) 37 (29) 51 (28) Del/Del 35 (60) 67 (55) 102 (57) 30 (57) 63 (50) 93 (52) 2ve 4 (7) 5 (4) 9 (5) 1 (2) 9 (7) 10 (6) Full-length 24 (22) 67 (29) 91 (27) 30 (29) 73 (31) 103 (30) Deleted 84 (78) 167 (71) 251 (73) 74 (71) 163 (69) 237 (70)
+
+FL, full-length; Del, deleted and 2ve, negative.
+
+O.A. Ross et al. / Experimental Gerontology 39 (2004) 801–805
+
+inhibitory receptor (KIR) gene sequence repertoires. Tissue Antigens
+
+,
+
+–
+
+Di Lorenzo, G., Balistreri, C.R., Candore, G., Cigna, D., Colombo, A., Colonna Romano, G., Colucci, A.T., Gervasi, F., Listi, F., Potestio, M., Caruso, C.,
+
+Granulocyte and natural killer activity in the elderly. Mech. Ageing Dev.
+
+,
+
+–
+
+Dohring, C., Samaridis, J., Colonna, M.,
+
+Alternatively spliced forms of human inhibitory receptors. Immunogenetics
+
+(
+
+),
+
+–
+
+Franceschi, C., Monti, D., Barbieri, D., Grassilli, E., Troiano, L., Salvioli, S., Negro, P., Capri, M., Guido, M., Azzi, R., Sansoni, P., Paganelli, R., Fagiolo, U., Baggio, G., Donazzan, S., Mariotti, S., D’Addato, S., Gaddi, A., Ortolani, C., Cossarizza, A.,
+
+Immunosenescence in humans: deterioration or remodelling? Int. Rev. Immunol.
+
+,
+
+–
+
+Franceschi, C., Bonafe, M., Valensin, S.,
+
+Human immunosenescence: the prevailing of innate immunity, the failing of clonotypic immunity, and the filling of immunological space. Vaccine
+
+,
+
+–
+
+Hsu, K.C., Chida, S., Geraghty, D.E., Dupont, B.,
+
+a. The killer immunoglobulin-like receptor (KIR) genomic region: gene-order, haplotypes and allelic polymorphism. Immunol. Rev.
+
+,
+
+–
+
+Hsu, K.C., Liu, X-R., Selvakumar, A., Mickleson, E., O’Reilly, R.J., Dupont, B.,
+
+b. The killer Ig-like receptor haplotype analysis by gene content: evidence for genomic diversity with a minimum of six basic framework haplotypes, each with multiple subsets. J. Immunol.
+
+,
+
+–
+
+Ligthart, G.J., Corberand, J.X., Fournier, C., Galanaud, P., Hijmans, W., Kennes, B., Muller-Hermelink, H.K., Steinmann, G.G.,
+
+Admis- sion criteria for immunogerontological studies in man: the SENIEUR protocol. Mech. Ageing Dev.
+
+,
+
+–
+
+Ligthart, G.J., Corberand, J.X., Goertzen, H.G.M., Minders, A.E., Knook, D.L., Hijmans, W.,
+
+Necessity of the assessment of health status in human immunogerontological studies: evaluation of the SENIEUR protocol. Mech. Ageing Dev.
+
+,
+
+–
+
+Lopez-Botet, M., Llano, M., Navarro, F., Bellon, T.,
+
+NK cell recognition of non-classical HLA class I molecules. Semin. Immunol.
+
+(
+
+),
+
+–
+
+Malaguarnera, L., Ferlito, L., Imbesi, R.M., Gulizia, G.S., Di Mauro, S., Maugeri, D., Malaguarnera, M., Messina, A.,
+
+Immunosenes- cence: a review. Arch. Gerontol. Geriatr.
+
+,
+
+–
+
+Maxwell, L.D., Wallace, A., Middleton, D., Curran, M.D.,
+
+A common KIR
+
+DS
+
+deletion variant in the human that predicts a soluble KIR molecule analogous to the KIR
+
+D molecule observed in the rhesus monkey. Tissue Antigens
+
+(
+
+),
+
+–
+
+Maxwell, L.D., Williams, F., Meenagh, A., Middleton, D.,
+
+Investigation of killer cell immunoglobulin-like receptor gene diversity II. KIR
+
+DS
+
+Hum. Immunol. (in press). Middleton, D., Curran, M., Maxwell, L.,
+
+Natural killer cells and their receptors. Transpl. Immunol.
+
+,
+
+–
+
+Miyaji, C., Watanabe, H., Toma, H., Akisaka, M., Tomiyama, K., Sato, Y., Abo, T.,
+
+Functional alteration of granulocytes, NK cells, and Natural Killer T cells in centenarians. Hum. Immunol.
+
+,
+
+–
+
+Norman, P.J., Stephens, H.A., Verity, D.H., Chandanayingyong, D., Vaughan, R.W.,
+
+Distribution of natural killer cell immunoglo- bulin-like receptor sequences in three ethnic groups. Immunogenetics
+
+,
+
+–
+
+Ogata, K., An, E., Shioi, Y., Nakamura, K., Luo, S., Yokose, N., Minami, S., Dan, K.,
+
+Association between natural killer cell activity and infection in immunologically normal elderly people. Clin. Exp. Immunol.
+
+,
+
+–
+
+Rea, I.M., M
+
+aster, D., Woodside, J.V., Young, I.S., Archbold, G.P., Linton, T., Lennox, S., M
+
+ulty, H., Harmon, D.L., Whitehead, A.S.,
+
+Community-living nonagenarians in Northern Ireland have lower plasma homocysteine but similar methylenetetrahydrofolate reductase thermolabile genotype prevalence compared to
+
+–
+
+-year-old sub- jects. Atherosclerosis
+
+,
+
+–
+
+Rea, I.M., Mc Dowell, I., M
+
+aster, D., Smye, M., Stout, R., Evans, A.,
+
+MONICA group (Belfast). Monitoring of Cardiovascular trends study group. Apolipoprotein E alleles in nonagenarian subjects in
+
+inhibitory receptor (KIR) gene sequence repertoires. Tissue Antigens
+
+,
+
+–
+
+Di Lorenzo, G., Balistreri, C.R., Candore, G., Cigna, D., Colombo, A., Colonna Romano, G., Colucci, A.T., Gervasi, F., Listi, F., Potestio, M., Caruso, C.,
+
+Granulocyte and natural killer activity in the elderly. Mech. Ageing Dev.
+
+,
+
+–
+
+Dohring, C., Samaridis, J., Colonna, M.,
+
+Alternatively spliced forms of human inhibitory receptors. Immunogenetics
+
+(
+
+),
+
+–
+
+were all identified as positive for the KIR2DS1 gene. A number of studies have suggested that the 2DS1 locus may in fact be an unconfirmed allele of the 2DS4 gene (Hsu et al., 2002a,b), while others report results that do not support this hypothesis indicating 2DS4 as a ‘distinct locus’ (Wilson et al., 2000; Norman et al., 2001). Until there is resolution of this issue and with respect to the present study, 2DS1 must be treated as an independent gene locus. Moreover, all studies to date have treated 2DS4 as an independent gene locus. This controversy highlights the work that still needs to be performed on the polygenic/polymorphic KIR loci to fully elucidate the genetic organisation and functionality of these NK cell receptors. Notably, when the frequency of the 2DS1 gene was examined in an aged and young control group no association was observed (unpublished data).
+
+The KIR loci is located in the leukocyte receptor cluster on chromosome 19q13, a region previously associated with successful ageing in the Irish at the Apo-E loci (Rea et al., 2001). Although, no association was demonstrated in this study the polygenic and polymorphic nature of the KIR loci, and primary role of NK cells in response to viral/bacterial infections and tumours warrants more detailed attention. Considering the pivotal role KIRs may play in the innate immune response, it would be of great interest to repeat this analysis in centenarians who are believed to retain optimal immune function, with this study examining the frequency only in a cohort of successfully aged octogenarians and nonagenarians.
+
+A study is presently underway to evaluate the role of genetic variation across the KIR gene network in immuno- senescence, and to elucidate the true influence of KIR polymorphism on longevity.
+
+Maxwell, L.D., Williams, F., Meenagh, A., Middleton, D.,
+
+Investigation of killer cell immunoglobulin-like receptor gene diversity II. KIR
+
+DS
+
+Hum. Immunol. (in press). Middleton, D., Curran, M., Maxwell, L.,
+
+Natural killer cells and their receptors. Transpl. Immunol.
+
+,
+
+–
+
+Miyaji, C., Watanabe, H., Toma, H., Akisaka, M., Tomiyama, K., Sato, Y., Abo, T.,
+
+Functional alteration of granulocytes, NK cells, and Natural Killer T cells in centenarians. Hum. Immunol.
+
+,
+
+–
+
+Norman, P.J., Stephens, H.A., Verity, D.H., Chandanayingyong, D., Vaughan, R.W.,
+
+Distribution of natural killer cell immunoglo- bulin-like receptor sequences in three ethnic groups. Immunogenetics
+
+,
+
+–
+
+Ogata, K., An, E., Shioi, Y., Nakamura, K., Luo, S., Yokose, N., Minami, S., Dan, K.,
+
+Association between natural killer cell activity and infection in immunologically normal elderly people. Clin. Exp. Immunol.
+
+,
+
+–
+
+Rea, I.M., M
+
+aster, D., Woodside, J.V., Young, I.S., Archbold, G.P., Linton, T., Lennox, S., M
+
+ulty, H., Harmon, D.L., Whitehead, A.S.,
+
+Community-living nonagenarians in Northern Ireland have lower plasma homocysteine but similar methylenetetrahydrofolate reductase thermolabile genotype prevalence compared to
+
+–
+
+-year-old sub- jects. Atherosclerosis
+
+,
+
+–
+
+Rea, I.M., Mc Dowell, I., M
+
+aster, D., Smye, M., Stout, R., Evans, A.,
+
+MONICA group (Belfast). Monitoring of Cardiovascular trends
+
+Acknowledgements
+
+We are grateful to the following organisations for their support of this work: The R&D Office of the Health and Personal Social Services (Northern Ireland) and the Depart- ment of Employment and Learning (Northern Ireland). L.D. Maxwell is a recipient of the Dunville Scholarship awarded by Queens University Belfast. We are grateful to all the participants of the study for there time and Patience.
+
+References
+
+Biassoni, R., Cantoni, C., Falco, M., Pende, D., Millo, R., Moretta, L., Bottino, C., Moretta, A.,
+
+Human natural killer cell activating receptors. Mol. Immunol.
+
+,
+
+–
+
+Bruunsgaard, H., Pedersen, A.N., Schroll, M., Skinhoj, P., Pedersen, B.K.,
+
+Decreased natural killer activity is associated with atherosclerosis in elderly humans. Exp. Geront.
+
+,
+
+–
+
+Crum, K.A., Logue, S.E., Curran, M.D., Middleton, D.,
+
+Development of a PCR-SSOP approach capable of defining the natural killer cell
+
+Biassoni, R., Cantoni, C., Falco, M., Pende, D., Millo, R., Moretta, L., Bottino, C., Moretta, A., 2000. Human natural killer cell activating
+
+Ross et al. / Experimental Gerontology 39 (2004) 801–805
+
+the Belfast Elderly Longitudinal Free-living Ageing Study (BEL- FAST). Mech. Ageing Dev.
+
+(
+
+),
+
+–
+
+Sansoni, P., Cossarizza, A., Brianti, V., Fagnoni, F., Snelli, G., Monti, D., Marcato, A., Passeri, G., Ortolani, C., Forti, E., Fagiolo, U., Passeri, M., Franceschi, C.,
+
+Lymphocytesubsets and natural killer cell activity in healthy old people and centenarians. Blood
+
+(
+
+),
+
+–
+
+Shilling, H.G., Lienert-Weidenbach, K., Valiante, N.M., Uhrberg, M., Parham, P.,
+
+Evidence for recombination as a mechanism for KIR diversification. Immunogenetics
+
+,
+
+–
+
+Shilling, H.G., Young, N., Guethlein, L.A., Cheng, N.W., Gardiner, C.M., Tyan, D., Parham, P.,
+
+Genetic control of human NK cell repertoire. J. Immunol.
+
+(
+
+),
+
+–
+
+Solana, R., Pawelec, G.,
+
+Molecular and cellular basis of
+
+Solana, R., Alonso, M.C., Pena, J., 1999. Natural Killer cells in healthy aging. Exp. Gerontol. 34, 435–443.
+
+aging. Exp. Gerontol.
+
+,
+
+–
+
+Uhrberg, M., Valiante, N.M., Shum, B.P., Shilling, H.G., Weidenbach, K., Corliss, B., Tyan, D., Lanier, L.L., Parham,
+
+Human diversity in killer cell inhibitory receptor Immunity
+
+,
+
+–
+
+Wilson, M.J., Torkar, M., Haude, A., Milne, S., Jones, T., Sheer, D., S., Trowsdale, J.,
+
+Plasticity in the organisation and sequences human KIR ILT gene families. Proc. Natl. Acad. Sci. USA
+
+–
+
+Witt, C.S., Dewing, C., Sayer, D.C., Uhrberg, M., Parham, P., F.T.,
+
+Population frequencies and putative haplotypes of the cell immunoglobulin-like receptor sequences and evidence recombination. Transplantation
+
+,
+
+–

@@ -1,0 +1,445 @@
+The allele (A) in the promoter region of the HSP70-1 gene is − 110 unfavorable to longevity in women
+
+K. , V. , D. M. S. F. S. 1 2 2 1 3 1,4 G. Rose , E. Feraco , V. Mari , G. Passarino , C. Franceschi & G. De Benedictis 1Department of Cell Biology, University of Calabria, 87030 Rende, Italy; 2Italian National Research Center on Aging (INRCA) 87100 Cosenza, Italy; 3Department of Molecular Pathology, University of Bologna, 40126 Bologna, Italy; 4Author for correspondence (e-mail: g.debenedictis@unical.it; fax: +39-0984-492911)
+
+Received 17 December 2002; accepted in revised form 10 March 2003
+
+Key words: aging, chaperones, genetic variation, HSP70, inflammation, longevity
+
+Abstract
+
+Heat shock proteins (HSPs) are crucial for maintenance of cell homeostasis and survival both during and after various stresses. The capability to cope with stress is believed to affect the chance of health and survival at organismal level. We have investigated whether the gene pool relevant to the (A/C)−110 polymorphism in the promoter region of the HSP70-1 gene changes as the population ages and survival selection occurs. A total of 591 southern Italian subjects were enrolled in the study (263 males and 328 females; age range 18–109 years), free of clinically manifest diseases and with normal haemato-chemical parameters. A significant age-related decrease of the frequency of allele (A)−110 was observed in females. The probability ratio of 0.403 (95% confidence interval [0.163, 0.910]) computed by considering female centenarians as cases and young women (18–49 years old) as controls showed that the (A)−110 allele is unfavorable to longevity in females.
+
+Abbreviations: HSP – heat shock protein; HSE – heat shock element; HSF – heat shock factor; O.R. – odds HLA-DR – major histocompatibility complex, class II, DR alpha; dNTP – deossinucleotide tri-phosphate; PCR polymerase chain reaction
+
+Introduction
+
+in the search for gene factors that affect the rate and quality of human aging. In a larger survey to check the above hypothesis, we are analyzing gene markers of the HSP gene super family in population samples of healthy subjects in the age range from 18 to 100+ years. This article presents data on HSP70-1, a gene encoding for the Hsp70 protein, one of the major inducible heat shock proteins (Milner and Campbell 1990; Leppa et al. 2001). HSP70-1 is a member of the HSP70 intronless gene family which also includes HSP70-2 and HSP70-HOM genes (the latter is not heat-inducible) and maps at 6p21.3, within the class III region of the Major Histocompatibility Complex (Gene Bank reference contig NT_007592). In euka- ryotes, HSP70 gene expression is regulated essentially through the activity of heat shock transcription factors
+
+There is increasing evidence that modulators of the rate of aging are conserved during evolution (Partridge and Gems 2002). Following hints given by studies of model organisms, the network theory of aging has proposed that human aging is also modulated by a variety of anti-stress responses (Franceschi et al. 2000a). Heat shock proteins (Hsp), due to their role in stress response as molecular chaperones (Feder and Hofmann 1999; Kregel 2002) – a role that is conserved during evolution – are likely to be closely involved in these mechanisms (Macario and Conway de Macario 2002), and HSP genes are therefore good candidates
+
+These authors contributed equally to this work.
+
+conditions: 5 min at 95 C, 35 cycles at 96 C for 45 s, ◦ ◦ ◦ 50 C for 30 s, 72 C for 30 s, 5 min at 72 C. The reaction was performed in a GeneAmp PCR System 9600 (PE applied Biosystems).
+
+(HSFs) which interact with heat shock elements (HSEs) present in HSP promoters, resulting in a modulation of the transcription rates (Morimoto 1998). Interestingly, an age-related decrease in the induction of hsp70 protein levels or hsp70 synthesis has been reported in lymphocytes from rats and rhesus monkeys (Pahlavani et al. 1995) as well as in cells derived from young and adult human sub- jects (Gutsmann-Conrad et al. 1998). An A/C poly- morphism lies in the HSE region of the HSP70-1 gene at –110nt from the transcription starting site (Abravayata et al. 1991). This polymorphism is the marker chosen for the present study.
+
+The (A/C)−110 variability was analyzed by auto- matic DNA sequencing. PCR-amplified fragments were purified by using a QIAquick PCR purification kit (Qiagen). DNA sequences were determined by a fluorescence-based automated direct sequencing tech- nique using a PE310 DNA sequencer with BigDye Terminator Cycle Sequencing Ready Reaction Kit (PE Applied Biosystems). The sequencing reaction mixture contained 4 µl of Terminator Ready Reaction mix, 150 ng of DNA template, 6.4 pmol of primer in a total volume of 20 µl. Cycle sequencing was carried out for 25 cycles at 96◦ C for 10 s, 50 ◦ C for 5 s, ◦ 60 C for 4 min in a GeneAmp PCR system 9600. The extension products were purified using Centri-SepTM template purification columns.
+
+Materials and methods
+
+Samples
+
+A total of 591 unrelated subjects were analysed (263 males and 328 females, median ages 57.0 and 56.5 years respectively, age-range 18–109 years). The sample included 120 subjects older than 100 years (36 males and 84 females). All the subjects, as well as their parents and grandparents, were born in Calabria, a southern Italian region which is charac- terised by the virtual absence of immigration and a high level of endogamy (Danubio et al. 1999). Routine blood analyses were performed on all the subjects and only those having haemato-chemical parameters in the normal sex- and age-specific range were enrolled in the study. All the subjects were free of clinically overt pathologies; in particular, centenarians were in a fairly healthy condition (categories A and B of the classifi- cation reported by Franceschi et al. 2000b). Details of the recruitment criteria are reported in Garasto et al. (2003). All the subjects had given informed consent for the present study.
+
+Statistical analyses
+
+The age-related trajectories of the frequencies of both allele (A)−110 and genotypes carrying the allele (A)−110 were analysed by the least squares method. The MATLAB function polyfit was used to fit a straight line y = β + β x to the relevant frequency 0 1 data observed in five age classes (18–29 years; 30– 49 years; 50–69 years; 70–89 years; 90–109 years), thus obtaining estimates b and b . The mean of 0 1 the ages of individuals belonging to each age class was taken as the ‘x’ value for that class. Ten thou- sand replicates of b and b were then generated by 0 1 the bootstrap method (MATLAB Statistics toolbox) from which the empirical distribution of β and β 0 1 was obtained, permitting statements to be made about the age-related frequency trajectory. It was assumed that the age-related frequency trajectory decreases (increases) if the estimated value b of the slope coef- 1 ficient is negative (positive) and the empirical 95% confidence interval (c.i.) of β does not include the 1 zero value.
+
+DNA analyses
+
+Total DNA was extracted from blood buffy-coats following standard procedures. DNA fragments of 288bp (from 5nt to 292nt of the gene sequence reported in Gene Bank accession no. M59828) were amplified by PCR. Amplification was performed on 150ng of total DNA in 50 µl of reaction mixture containing 200 µM each of dNTP, 0.4 µM of both 5! phat3’) forward (5 -ATG GAG ACC AAC ACC CTT-3 ) Ad5). 3’) and reverse (5 -TCC TCA GGC TAG CCG TTA-3 ) primer, 1.5 Units of Taq DNA polymerase and 1.5 mM MgCl , 1X polymerase buffer under the following 2
+
+The odds ratio (O.R.) relevant to allele (A)−110 was computed by taking as ‘cases’ the carriers of allele (A)−110 in the 90–109 years age class and as ‘controls’ those in 18–29 plus 30–49 years age class. The boot- strap method was used to estimate the 95% c.i. of O.R.
+
+However, two points are crucial to the reliability of such studies: i) the homogeneity of the population, in order to avoid confounding factors due to population stratification; ii) the selection of the candidate gene, which should be founded on strong biological hints (Tabor et al. 2002). The data presented here show that the (A/C)−110 variability in the promoter region of the HSP70-1 gene is associated, in women, with the probability of survival to oldest age (O.R. = 0.403, with 95% c.i. [0.163, 0.910]). This positive associa- tion seems to be reliable and not due to population stratification, taking into account data regarding the structure and the demographic history of the Calabrian population (Rose et al. 1996; Danubio et al. 1999; Baudi 2001). What is more, the biological role of Hsp70 proteins in stress response and the link between stress response and aging ascertained in model orga- nisms (Minois 2000) reinforce the choice of HSP70-1 gene as a candidate gene in human gene/longevity association studies.
+
+Results
+
+In order to verify whether the genotypic/allelic pool changed as the population aged and selection for health or survival occurred, both female and male samples were subdivided into five age classes (18– 29 years, 30–49 years, 50–69 years, 70–89 years, 90–109 years) and the (A/C)−110 genotypic/allelic frequencies were estimated in each age class. Data are reported in Table 1. In each age class, and in both the sexes, the observed genotypes were in agreement with those expected at Hardy-Weinberg equilibrium (P > 0.05).
+
+Linear regression analysis was then applied to allele frequency data. In females (Figure 1) a decreasing trend of the frequency of allele (A)−110 was observed with increasing age. The estimated value of the slope coefficient of the regression line, b = 1 –0.0018, was significantly lower than zero because the 95% empirical confidence interval (c.i.) of β 1 was [–0.0030, –0.0005]. Moreover, the frequency of the allele (A)−110 carriers (AA plus AC genotypes) showed a significant decrease with increasing age (b 1 = –0.0013, 95% c.i. of β 1 [–0.0027, –0.00013]). The age-related decrease of allele (A)−110 indicated that this allele is unfavorable to female longevity. To check this indication we estimated the O.R. relevant to allele (A)−110 by assuming as ‘cases’ the carriers of allele (A)−110 in the 90–109 years age class and as ‘controls’ those in the 18–29 plus 30–49 years age class (Table 1a). It should be noted that both allelic and genotypic frequency distributions were different between ‘cases’ and ‘controls’ (χ 12 = 7.76, P = 0.005 for alleles; χ 2 = 8.07, P = 0.018 for genotypes). The 2 O.R. of 0.403 (95% c.i. [0.163, 0.910]) confirmed that the (A)−110 allele is unfavorable for longevity in women.
+
+by the concordance of the present data with the analogous data reported for the HLA-DR locus, which is in linkage disequilibrium with the (A/C)−110 poly- morphism (Cascino et al. 1993a,b). Indeed, a female- specific association has been reported between some alleles of the HLA-DR locus and longevity (Ivanova et al. 1998). These results clearly indicate that the chromosomal region surrounding HLA-DR and HSP70-1 loci harbors variants which can affect human longevity. The (A/C)−110 polymorphism of HSP70- 1 may be one of the variants that play this role in the above chromosomal region. The (A/C)−110 marker lies in HSF1-HSE binding domain of HSP70-1 (Abravayata et al. 1991). Although this polymorphism was reported not to affect either HSE-HSF binding or hsp70 protein synthesis (Favatier et al. 1999), the possibility that allele (A)−110 and allele (C)−110 may have slightly different binding efficiency in very old organisms is a reasonable hypothesis. In fact, from a biological point of view, aging is a stressful condi- tion which implies a profound reshaping of most physiological functions (Franceschi et al. 2000c). Allele (A)−110 may have a lower efficiency than allele (C)−110 in coping with such a stressful condi- tion which is also accompanied by the physiological age-related decline of the HSE-HSF binding activity (Gutsmann-Conrad et al. 1998). This would explain the age-related frequency decrease of allele (A)−110 in the healthy aging population. In vitro experiments on (A/C)−110 allele-specific expression in cells from very
+
+As for males (Table 1b), no significant age-related modification of the (A/C)−110 genotypic/allele pool was observed. In fact the (A)−110 allele frequency was independent of the age of the sample group (b = 1 0.0003, 95% c.i. [–0.0018, 0.0023]). In agreement, no difference was present between ‘cases’ and ‘controls’ as defined above (χ 12 = 0.432, P = 0.511 for alleles; χ 22 = 0.547, P = 0.761 for genotypes).
+
+Discussion
+
+Association studies with candidate genes are powerful tools for dissecting the genetics of complex traits.
+
+Table 1. Genotypic and allelic counts of the (A/C)−110 polymorphism in females (a) and males (b) of different Relative frequencies (× 100 ± standard error) are given in parentheses.
+
+Age class (years) Genotypes Alleles AA AC CC A C 18–29 40 (46.0 ± 5.3) 39 (44.8 ± 5.3) 8 (9.2 ± 3.1) 119 (68.4 ± 3.5) 55 (31.6 ± 3.5) 30–49 29 (49.2 ± 6.5) 26 (44.1 ± 6.5) 4 (6.8 ± 3.3) 84 (71.2 ± 4.2) 34 (28.8 ± 4.2) 50–69 22 (36.7 ± 6.2) 30 (50.0 ± 6.5) 8 (13.3 ± 4.4) 74 (61.7 ± 4.4) 46 (38.3 ± 4.4) 70–89 12 (35.3 ± 8.2) 17 (50.0 ± 8.6) 5 (14.7 ± 6.1) 41 (60.3 ± 5.9) 27 (39.7 ± 5.9) 90–109 28 (31.8 ± 5.0) 44 (50.0 ± 5.3) 16 (18.2 ± 4.1) 100 (56.8 ± 3.7) 76 (43.2 ± 3.7) b) Males Age class (years) Genotypes Alleles AA AC CC A C 18–29 11 (45.8 ± 10.2) 9 (37.5 ± 9.9) 4 (16.7 ± 7.6) 31 (64.6 ± 6.9) 17 (35.4 ± 6.9) 30–49 24 (32.9 ± 5.5) 31 (42.5 ± 5.8) 18 (24.7 ± 5.0) 79 (54.1 ± 4.1) 67 (45.9 ± 4.1) 50–69 32 (40.0 ± 5.5) 39 (48.8 ± 5.6) 9 (11.2 ± 3.5) 103 (64.4 ± 3.8) 57 (35.6 ± 3.8)           
+
+AA AC CC A C 18–29 11 (45.8 ± 10.2) 9 (37.5 ± 9.9) 4 (16.7 ± 7.6) 31 (64.6 ± 6.9) 17 (35.4 ± 6.9) 30–49 24 (32.9 ± 5.5) 31 (42.5 ± 5.8) 18 (24.7 ± 5.0) 79 (54.1 ± 4.1) 67 (45.9 ± 4.1) 50–69 32 (40.0 ± 5.5) 39 (48.8 ± 5.6) 9 (11.2 ± 3.5) 103 (64.4 ± 3.8) 57 (35.6 ± 3.8) 70–89 20 (44.4 ± 7.4) 19 (42.2 ± 7.4) 6 (13.3 ± 5.1) 59 (65.6 ± 5.0) 31 (34.4 ± 5.0) 90–106 16 (39.0 ± 7.6) 18 (43.9 ± 7.8) 7 (17.1 ± 5.9) 50 (61.0 ± 5.4) 32 (39.0 ± 5.4)     
+
+rel. freq.oo200 400 @ obs. freqtrajectory+ + + + upper envelope———— lower envelope1200600 800age (years)
+
+Figure 1. Age-related frequency trajectory of the (A)−110 allele of the HSP70-1 gene analysed in females (subjects aged 18–29; 30–49; 50–69; 70–89; 90–109 years). The observed frequencies of the allele in the five age groups, the fitting straight line (least squares method) and the lower and upper envelopes of 10,000 simulated trajectories are shown.
+
+old subjects, which we are currently planning, could allow this hypothesis to be checked.
+
+Cascino L, Sorrentino R and Tosi R (
+
+a) Strong genetic associa- tion between HLA-DR
+
+and a polymorphic variation in regulatory region of the HSP
+
+-
+
+gene. Immunogenetics
+
+:
+
+–
+
+Cascino I, D’Alfonso S, Cappello N, Giordano M, Pugliese Awdeh Z, Alper CA and Richiardi PM (
+
+b) Gametic associa- tion of HSP
+
+-
+
+promoter region alleles and their inclusion extended HLA haplotypes. Tissue Antigens
+
+:
+
+–
+
+Danubio ME, Piro A and Tagarelli A (
+
+) Endogamy inbreeding since the
+
+th century in past malarial communities in the Province of Cosenza (Calabria, Southern Italy). Ann Biol
+
+:
+
+–
+
+De Benedictis G, Tan Q, Jeune B, Christensen K, Ukraintseva Bonafè M, Franceschi C, Vaupel JW and Yashin AI Recent advances in human gene-longevity association studies. Mech Ageing Dev
+
+:
+
+–
+
+De Luca M, Rose G, Bonafe M, Garasto S, Greco V, Weir Franceschi C and De Benedictis G (
+
+) Sex-specific longevity associations defined by Tyrosine Hydroxylase-Insulin-Insulin Growth Factor
+
+haplotypes on the
+
+p
+
+chromosomal region. Exp Gerontol
+
+:
+
+–
+
+[see also errata corrige in Gerontol
+
+,
+
+:
+
+–
+
+] Favatier F, Jacquier-Sarlin MR, Swierczewski E and Polla (
+
+) Polymorphism in the regulatory sequence of the human hsp
+
+-
+
+gene does not affect heat shock factor binding or shock protein synthesis. Cell Mol Life Sci
+
+:
+
+–
+
+Feder ME and Hofmann GE (
+
+) Heat-shock proteins, molecular chaperones, and the stress response: evolutionary and ecological physiology. Annu Rev Physiol
+
+:
+
+–
+
+Franceschi C, Valensin S, Bonafe M, Paolisso G, Yashin AI, Monti D and De Benedictis G (
+
+a) The network and the remodeling theories of aging: historical background and new perspective. Exp Gerontol
+
+:
+
+–
+
+Franceschi C, Motta L, Valensin S and the Italian Multicenter on Centenarians (
+
+b) Do men and women follow different trajectories to reach extreme longevity? Aging Clin Exp Res
+
+–
+
+Franceschi C, Bonafe M, Valensin S, Olivieri F, De Luca Ottaviani E and De Benedictis G (
+
+c) Inflamm-aging: evolutionary perspective on immunosenescence. Ann N Y Acad Sci USA
+
+:
+
+–
+
+Garasto S, Rose G, Derango F, Berardelli M, Corsonello A, Feraco E, Mari V, Maletta R, Bruni A, Franceschi C, Carotenuto L and De Benedictis G (
+
+) The study of APOA,APOC
+
+and variability in healthy ageing people reveals another paradox the oldest old subjects. Ann Hum Genet
+
+:
+
+–
+
+Gutsmann-Conrad A, Heydari AR, You S and Richardson A The expression of heat shock protein
+
+decreases with cellular senescence in vitro and in cells derived from young and old human subjects. Exp Cell Res
+
+:
+
+–
+
+Ivanova R, Fhenon N, Lepage V, Charron D, Vicaut E Schachter F (
+
+) HLA-DR alleles display sex-dependent effects on survival and discriminate between individual and familial longevity. Hum Mol Genet
+
+:
+
+–
+
+On the other hand, it is intriguing to note that HSF- 1 is under positive regulation by estrogen hormones (Yang et al. 1995; Knowlton and Sun 2001), and this is in line with the different effects of (A/C)−110 alleles in the two genders. It is worth noticing, however, that a variety of genes affecting longevity in a sex-specific way have been reported, both for humans (Ivanova et al. 1998; Tan et al. 2001; De Luca et al. 2001; Bonafè et al. 2001; Lio et al. 2002) and model organisms (Jackson et al. 2002; Leips and Mackay 2002).
+
+Since the present study is a cross-sectional one, mortality of genotypes may depend on the birth year of the cohort for oldest-old people (De Benedictis et al. 2001). If this were the case, the (A/C)−110 poly- morphism may affect survival in historical-specific environments, rather than longevity. In any case, the study, carried out in a well defined and homogen- eous population, has shown that the allele (A)−110 of the HSP70-1 gene, which is a strong candidate for affecting life span on the basis of studies in model organisms, is unfavorable to longevity in women.
+
+physiology. Annu Rev Physiol
+
+:
+
+–
+
+Franceschi C, Valensin S, Bonafe M, Paolisso G, Yashin AI, Monti D and De Benedictis G (
+
+a) The network and the remodeling theories of aging: historical background and new perspective. Exp Gerontol
+
+:
+
+–
+
+Franceschi C, Motta L, Valensin S and the Italian Multicenter Study on Centenarians (
+
+b) Do men and women follow different trajectories to reach extreme longevity? Aging Clin Exp Res
+
+:
+
+–
+
+Franceschi C, Bonafe M, Valensin S, Olivieri F, De Luca M, Ottaviani E and De Benedictis G (
+
+c) Inflamm-aging: an evolutionary perspective on immunosenescence. Ann N Y Acad Sci USA
+
+:
+
+–
+
+Garasto S, Rose G, Derango F, Berardelli M, Corsonello A, Feraco E, Mari V, Maletta R, Bruni A, Franceschi C, Carotenuto L and De Benedictis G (
+
+) The study of APOA,APOC
+
+and APOA
+
+variability in healthy ageing people reveals another paradox in the oldest old subjects. Ann Hum Genet
+
+:
+
+–
+
+Gutsmann-Conrad A, Heydari AR, You S and Richardson A (
+
+) The expression of heat shock protein
+
+decreases with cellular senescence in vitro and in cells derived from young and old human subjects. Exp Cell Res
+
+:
+
+–
+
+Ivanova R, Fhenon N, Lepage V, Charron D, Vicaut E and Schachter F (
+
+) HLA-DR alleles display sex-dependent effects on survival and discriminate between individual and familial longevity. Hum Mol Genet
+
+:
+
+–
+
+Jackson AU, Galecki AT, Burke DT and Miller RA (
+
+) Mouse loci associated with life span exhibit sex-specific and epistatic effects. J Gerontol A Biol Sci Med Sci
+
+: B
+
+–B
+
+Knowlton AA and Sun L (
+
+) Heat-shock factor-
+
+, steroid hormones, and regulation of heat-shock protein expression in the heart. Am J Physiol Heart Circ Physiol
+
+: H
+
+–
+
+Kregel KC (
+
+) Heat shock proteins: modifying factors in physiological stress responses and acquired thermotolerance. J Appl Physiol
+
+:
+
+–
+
+Acknowledgments
+
+This work is funded by the EU-ECHA project ‘European Challenge for Healthy Aging’ (no.: QLRT- 2001-00128, Call Identifier: QOL-2001-3. http:// biologia.unical.it/echa), by the Italian Ministry of Health (IRCCS 2000-2002, Marcatori genetici e biologici di invecchiamento normale e patologico), and by the Italian National Research Center on Aging (INRCA, Ancona & Cosenza, Italy).
+
+References
+
+Abravayata K, Philips B and Morimoto RI (
+
+) Heat shock induced interactions of heat shock transcription factors and the human Hsp
+
+promoter examined by in vivo footprinting. Mol Cell Biol
+
+:
+
+–
+
+Baudi F, Quaresima B, Grandinetti C, Cuda G, Faniello C, Tassone P, Barbieri V, Bisegna R, Ricevuto E, Conforti S, Viel A, Marchetti P, Ficorella C, Radice P, Costanzo F and Venuta S (
+
+) Evidence of a founder mutation of BRCA
+
+in a highly homogeneous population from southern Italy with breast/ovarian cancer. Hum Mutat
+
+:
+
+–
+
+Bonafe M, Olivieri F, Cavallone L, Giovagnetti S, Mayegiani F, Cardelli M, Pieri C, Marra M, Antonicelli R, Lisa R, Rizzo MR, Paolisso G, Monti D and Franceschi C (
+
+) A gender dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol
+
+:
+
+–
+
+Leips J and Mackay TF (
+
+) The complex genetic architecture of Drosophila life span. Exp Aging Res
+
+:
+
+–
+
+Leppa S, Kajanne R, Arminen L and Sistonen L (
+
+) Differen- tial induction of Hsp
+
+-encoding genes in human hematopoietic cells. J Biol Chem
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, Colonna-Romano G, Candore G, Bonafe M, Cavallone L, Franceschi C and Caruso C (
+
+) Gender-specific association between –
+
+IL-
+
+promoter polymorphism and longevity. Genes Immun
+
+:
+
+–
+
+Macario AJL and Conway de Macario E (
+
+) Sick chaperones and ageing: a perspective. Ageing Res Rev
+
+:
+
+–
+
+Milner CM and Campbell RD (
+
+) Structure and expression of the three MHC-linked HSP
+
+genes. Immunogenetics
+
+:
+
+–
+
+Minois N (
+
+) Longevity and aging: beneficial effects of exposure to mild stress. Biogerontology
+
+:
+
+–
+
+Morimoto RI (
+
+) Regulation of the heat shock transcriptional response: cross talk between a family of heat shock factors, molecular chaperones, and negative regulators. Genes Dev
+
+:
+
+–
+
+Pahlavani MA, Harris MD, Moore SA, Windruch R and Richardson A (
+
+) The expression of heat shock protein
+
+decreases with age in lymphocytes from rats and rhesus monkeys. Exp Cell Res
+
+:
+
+–
+
+Partridge L and Gems D (
+
+) Mechanisms of ageing: public private? Nat Rev Genet
+
+:
+
+–
+
+Rose G, De Luca M, Falcone E, Spadafora P, Carrieri G De Benedictis G (
+
+) Allele frequency distributions at DNA hypervariable loci in a population sample from (southern Italy). Gene Geogr
+
+:
+
+–
+
+Tabor HK, Risch NJ and Myers RM (
+
+) approaches for studying complex genetic traits: considerations. Nat Rev Genet
+
+:
+
+–
+
+Tan Q, De Benedictis G, Yashi AI, Bonafe M, D
+
+uca M, S, Vaupel JW and Franceschi C (
+
+) Measuring the influence in modulating the human life span: interaction and the sex-specific genetic effect. Biogerontology
+
+–
+
+Yang X, Dale EC, Diaz J and Shyamala G (
+
+) dependent expression of heat shock transcription factor: cations for uterine synthesis of heat shock proteins. J Biochem Mol Biol
+
+:
+
+–
+
+Partridge L and Gems D (2002) Mechanisms of ageing: public or private? Nat Rev Genet 3: 165–175

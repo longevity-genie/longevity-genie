@@ -1,0 +1,409 @@
+The Study of APOA1, APOC3 and APOA4 Variability in Healthy Ageing People Reveals Another Paradox in the Oldest Old Subjects
+
+Garasto1, G. Rose1, F. Derango1, M. Berardelli1, A. Corsonello2, E. Feraco2, V. Maletta 3, A. Bruni3, C. Franceschi4, L. Carotenuto5 and G. De Benedictis1,*
+
+1Department of Cell Biology, University of Calabria (Rende, Italy) 2Italian National Research Center on Aging, INRCA (Cosenza, Italy) 3Regional Center of Neurogenetics, (Lamezia, Italy) 4Department of Experimental Pathology, University of Bologna (Bologna, Italy) 5Department of Electronics, Computer and System Sciences, University of Calabria (Rende,
+
+of Cell Biology, University of Calabria (Rende, Italy) 2Italian National Research Center on Aging, INRCA (Cosenza, Italy)
+
+4Department of Experimental Pathology, University of Bologna (Bologna, Italy) 5Department of Electronics, Computer and System Sciences, University of Calabria (Rende, Italy)
+
+Summary
+
+genes coding for apolipoprotein A1 (APOA1 ), apolipoprotein C3 (APOC3 ) and apolipoprotein A4 (APOA4 ) tandemly organised within a short region on chromosome 11q23-q24. Polymorphisms of these genes have extensively investigated in lipoprotein disorders and cardiovascular diseases, but poorly investigated in healthy The aim of this study was to describe possible modifications of the APOA1, APOC3, and APOA4 gene by cross-sectional studies carried out in a healthy ageing population whose ages ranged from 18 to 109 years subjects, 327 males and 473 females, free of clinically manifested disease, and with emato-chemical parameters −   the norm). APOA1-MspI-RFLP ( 75 nt from the transcription starting site), APOC3-SstI-RFLP (3 UTR, nt), and APOA4-HincII-RFLP (Asp /Ser ) were analysed according to age and sex. A significant age- 127 127 variation of the APOA1 gene pool was observed in males. An analysis of the allele average effect exerted by A/P alleles (Absence/Presence of the restriction site) on lipidemic parameters in 46–80 year old showed that allele A decreased, while allele P significantly increased, serum LDL-cholesterol. Unexpectedly, P allele was over-represented in the group of the oldest old subjects, thus giving evidence of another “genetic
+
+Keywords: APOA1, APOC3, APOA4, human longevity
+
+of the APOE 4 allele (Schachter et al. 1994; Jian-Gang et al. 1998; Gerdes et al. 2000; Carrieri et al. 2001), the importance of the variability of other APO genes, in particular APOA1, APOC3 and APOA4, on healthy ageing and mortality has yet to be assessed, although epidemiological and clinical evidence has clearly shown the significance of these genes in lipid metabolism and cardiovascular diseases (Groenendijk et al. 2001).
+
+Introduction
+
+Because of the role played by lipoproteins in predispos- ing to, or protecting from, common age-related diseases (Genest, 2002; Hegele, 2001; Mahley & Rall, 2000; Vrablik et al. 2001) the effect of the inherited vari- ability of apolipoprotein (APO) genes on the rate and quality of human ageing is a matter of interest. How- ever, except for the well established detrimental effect
+
+The APOA1, APOC3 and APOA4 genes are tandemly organised in a cluster of 17 Kb DNA on the long arm of human chromosome 11 (11q23-q24). Shared regulatory elements for the expression of the three genes are interspersed throughout the cluster
+
+Corresponding Author: G. De Benedictis, Department of Cell Biology, University of Calabria, 87030 Rende, Italy. Tel: 39 0984 492932; Fax: 39 0984 492911. E-mail: g.debenedictis@unical.it
+
+46–80 years (median age 62 years), and 229 subjects aged 81–109 years (median age 101 years). The last age-class included 184 subjects older than 100 years (43 males and 141 females). These centenarians, classified in the categories A and B according to the criteria re- ported in Franceschi et al. 2000, were in fairly good health and did not suffer from major pathologies or disabilities.
+
+(Haase et al. 1990; Kan et al. 2000). All three genes contain several polymorphisms, whose role has mainly been analysed in common diseases. An aim of the present study was to discover possible variations of the APOA1, APOC3 and APOA4 genes which may oc- cur as the population ages and mortality selection oc- curs, attempting to escape confounding factors which could bias cross-sectional association studies. Therefore, particular attention was paid to the homogeneity of the sample population and to an exact definition of the phenotype under study. With regard to the first point, all the samples were recruited from Calabria, a well defined area of southern Italy whose population is characterised, from a historical-demographic point of view, by a consistent level of isolation due to the geographic nature of the region. For the phenotype, only subjects free of clinically manifested diseases, and with emato-chemical parameters in the norm, were en- rolled in the study. Furthermore, since sex-specific ef- fects on the ageing phenotype are known (Ivanova et al. 1998; De Benedictis et al. 1999; Tan et al. 2001; De Luca et al. 2001) the study was carried out according to sex.
+
+Two samples (40 subjects each) of 46–80 year old males affected by Cardiovascular Disease (CD), either with high levels of serum Low Density Lipoproteins (CDL group), or with low levels of serum High Den- sity Lipoproteins (CDH group), were also analysed. Di- agnostic criteria and lipidemic parameters of the two samples of CD patients are reported at the web site http://biologia.unical.it/labs/genetica.html. All the patients and their families were born and living in the same area as the healthy group.
+
+All the subjects included in the study had given their informed consent.
+
+Materials and Methods
+
+Lipidemic Parameters
+
+Samples
+
+Venous blood samples were collected in EDTA tubes after 12 h overnight fast. Serum concentration of to- tal cholesterol (TC), HDL cholesterol (HDL-C), and Tryglycerides (TG) were measured by enzymatic col- orimetry methods by commercial kits (Dade Behring) using an automated chemistry analyser (DimensionR Clinical Chemistry System). Log transformation of 10 Tryglyceride values was made before analysis, because of their skewed distribution. Serum LDL cholesterol con- centration (LDL-C) was calculated by the Friedewald’s − formula: LDL-C = TC HDL-C–TG/5 (Friedewald ± et al. 1972). Lipid values were expressed as mean SD, mg/dL. All the hematological analyses were carried out at the Italian National Research Centre on Ageing (INRCA, Cosenza).
+
+in Calabria (southern Italy) in 1999 for the present study, except for centenarians whose recruitment started in 1994. Subjects older than 18 years, born and living in Calabria, and whose parents and grandparents were na- tives of the area, were invited to take part in the study. For each subject who complied with the request, his/her origin in Calabria was verified in the birth-registers of the Municipality Office where the subject was born. Routine blood analyses were carried out and, in addi- tion, subjects older than 60 years underwent a complete clinical and geriatric assessment. A total of 800 unre- lated subjects (327 males and 473 females), none tak- ing regular medication, and all free of clinically overt pathologies, and having emato-chemical parameters in the normal sex- and age-specific range, were enrolled in the study. The sample comprised 304 subjects aged 18–45 years (median age 29 years), 267 subjects aged
+
+DNA Analyses
+
+DNA was extracted from blood buffy coats following − standard procedures. APOA1-MspI-RFLP ( 75nt from
+
+S. Garasto et al.
+
+the transcription starting site), APOC3-SstI-RFLP 31 (3 UTR, 3238nt), and APOA4-HincII-RFLP (Asp / 127 Ser ) were analysed by restriction analysis after PCR- 127 amplification of the DNA regions containing the restri- ction sites. Regions, primers and PCR experimental conditions are available on request from the e-mail address of the corresponding author ( g.debenedictis@ unical.it).
+
+locus on the lipidemic parameters were estimated ac- cording to Christiansen & Feldman (1986). The 95% α α confidence intervals of and were calculated A P by bootstrap (10,000 replications, MATLAB Statistic toolbox).
+
+Results
+
+Genotypic and allelic data of APOA1-MspI-RFLP, APOC3-SstI-RFLP, and APOA4-HincII-RFLP were analysed in three age classes (18–45 years; 46–80 years; 81–109 years) for each sex. All the sample groups were > in HWE (p 0.05).
+
+Statistical Analyses
+
+For single markers, allele frequencies were by counting genes from the observed genotypes χ2 tests were applied to verify Hardy-Weinberg librium (HWE) in each sample. Homogeneity of typic and allelic frequency distributions among the groups of different age (18–45 years; 46–80 years; 109 years) in each sex was tested by a chi-squared test.
+
+in males (Table 1a) among the age-related genotypic counts (χ2 = 9.63 with 4 df., p = 0.045 with Yates’ correction). Accordingly, allele counts were different among the three age-groups (χ2 = 8.29 with 2 df., p = 0.016). On inspecting the data, the P allele fre- quency showed a minimum (and the A allele frequency a maximum) in the intermediate age-class. To investi- gate this finding and outline the age-related frequency trajectory of the P (or A) allele, the group of 327 males was sub-divided into five age-classes (18–25 years; 26– 45 years; 46–65 years; 66–80 years; 81–109 years), and P allele frequency was estimated in each class. A concave frequency trajectory was observed, the significance of which was tested as described in the methods. The es- timated value of the leading coefficient b = 0.217 was 2 significantly larger than zero, because the central 95% β empirical confidence interval of was 0.112–0.495. 2 Out of the 10,000 trajectories simulated by bootstrap, 9,987 were concave, only 1 was convex, 10 were mono- tone increasing, and 2 monotone decreasing. By assum- ing that a trend in the data is significant if more than 95% of the simulated trajectories show that trend, the concave pattern of the P allele frequency fully satis- fied this requirement. Denoting age as x, and letting f (x) be the age-related frequency trajectory of the al- P lele P, the age-related frequency trajectory of the A allele (absence of the restriction site) was given by f (x) = A 1 – f (x) because only two alleles are present in the P population. Fig. 1 shows the relative frequency of the P allele in the five age-groups, the fitting curve, and the lower and upper envelopes of the 10,000 simulated
+
+The age-related frequency trajectory of the APOA1 allele P (Presence of the MspI restriction site) was anal- ysed by least squares method. MATLAB function poly- fit was used to fit a 2nd degree polynomial y = β + 0 β x/x¯ + β x2/x¯2 to the frequencies of allele P observed 1 2 in five classes of age (18–25 years; 26–45 years; 46–65 years; 66–80 years; 81–109 years), thus obtaining esti- mates b , b , b . The mean of the ages of individuals 0 1 2 belonging to each age-class was taken as the x¯ value for that class. Ten thousand replicates of b , b , b were then 0 1 2 generated by the bootstrap method (MATLAB Statistic β toolbox), from which the empirical distribution of , 0 β β , was obtained and confidence limits were calcu- 1 2 lated for the age-related frequency trajectory.
+
+sess linkage disequilibrium D, between pairs of markers at the three loci, and to test the null hypothesis, D = 0, in the whole sample. Maximum Likelihood Estimation (MLE) was used to estimate, in each age-class and for each sex, the frequencies of the haplotypes defined by markers in disequilibrium. The hypothesis of homo- geneity among haplotypic frequencies in sample groups of same sex and different age was tested by means of Arlequin 1.1 software (exact tests of population differ- entiation).
+
+Table 1 Genotypic and allelic frequencies of the APOA1- MspI-RFLP in samples of individuals (males, 1a; females, 1b) of different ± × ages. Relative frequencies standard errors ( 100) are given in parentheses. A/B denotes Absence/Presence of the restriction site. HWE denotes values expected at Hardy-Weinberg Equilibrium
+
+1a Males (n = 327) 18–45 years 46–80 years 81–109 years Genotypes Counts (120) HWE Counts (155) HWE Counts (52) HWE ± ± ± AA 7 (5.8 2.1) 8.5 13 (8.4 2.2) 16.4 3 (5.8 3.2) 1.7 ± ± ± AP 50 (41.7 4.5) 46.9 75 (48.4 4.0) 68.1 13 (25.0 6.0) 15.5 ± ± ± PP 63 (52.5 4.6) 64.5 67 (43.2 4.0) 70.5 36 (69.2 6.4) 34.7 Alleles Counts (240) Counts (310) Counts (104) A 64 (26.7) 101 (32.6) 19 (18.3) ± ± ± P 176 (73.3 2.9) 209 (67.4 2.7) 85 (81.7 3.8) 1b Females (n = 473) 18–45 years 46–80 years 81–109 years Genotypes Counts (184) HWE Counts (112) HWE Counts (177) HWE ± ± ± AA 7 (3.8 1.4) 8.3 11 (9.8 2.8) 8.3 8 (4.5 1.6) 11.4 ± ± ± AP 64 (34.8 3.5) 61.5 39 (34.8 4.5) 44.4 74 (41.8 3.7) 67.1 ± ± ± PP 113 (61.4 3.6) 114.3 62 (55.4 4.7) 59.3 95 (53.7 3.7) 98.4 Alleles Counts (368) Counts (224) Counts (354) A 78 (21.2) 61 (27.2) 90 (25.4) ± ± ± P 290 (78.8 2.1) 163 (72.8 3.0) 264 (74.6 2.3)
+
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 observed allele frequencies 0.3 frequency trajectory 0.2 upper envelope 0.1 lower envelope 0.0 0 10 20 30 40 50 60 70 80 90 100 110 age (years) ycneuqerf elella evitaler
+
+observed allele frequencies frequency trajectory upper envelope lower envelope 0 10 20 30 40 50 60 70 80 90 100 110 age (years)
+
+Figure 1 Age-related frequency trajectory of the APOA1 allele P analysed in males (18–25; 26–45; 46–65; 66–80; 81–109 year old subjects). The observed frequencies of the P allele in the five age-groups, the fitting curve (least squares method), and the lower and upper envelopes of 10,000 simulated trajectories are shown.
+
+S. Garasto et al.
+
+Table 2 Genotypic and allelic frequencies of the APOC3- SstI-RFLP in samples of individuals (males, 2a; females, 2b) of different ± × ages. Relative frequencies standard errors ( 100) are given in parentheses. A/B denotes Absence/Presence of the restriction site. HWE denotes values expected at Hardy-Weinberg Equilibrium
+
+2a Males (n = 327) 18–45 years 46–80 years 81–109 years Genotypes Counts (120) HWE Counts (155) HWE Counts (52) ± ± ± AA 98 (81.7 3.5) 98.1 124 (80.0 3.2) 123.8 41 (78.8 5.7) ± ± ± AP 21 (17.5 3.5) 20.8 29 (18.7 3.1) 29.5 10 (19.2 5.5) ± ± ± PP 1 (0.8 0.8) 1.1 2 (1.3 0.9) 1.8 1 (1.9 1.9) 0.7 Alleles Counts (240) Counts (310) Counts (104) A 23 (9.6) 33 (10.6) 12 (11.5) ± ± ± P 217 (90.4 1.9) 277 (89.4 1.8) 92 (88.5 3.1) 2b Females (n = 473) 18–45 years 46–80 years 81–109 years Genotypes Counts (184) HWE Counts (112) HWE Counts (177) ± ± ± AA 144 (78.3 3.0) 145.4 96 (85.7 3.3) 95.6 151 (85.3 2.7) ± ± ± AP 39 (21.2 3.0) 36.4 15 (13.4 3.2) 15.7 26 (14.7 2.7) ± ± PP 1 (0.5 0.5) 2.3 1 (0.9 0.9) 0.6 0 0.0 Alleles Counts (368) Counts (224) Counts (354) A 41 (11.1) 17 (7.6) 26 (7.3) ± ± ± P 327 (88.9 1.6) 207 (92.4 1.8) 328 (92.7 1.4)
+
+Exact tests applied to this data did not reveal age-related heterogeneity either in males or in females (A1-C3 haplotypes: p = 0.296 in males, p = 0.126 in females; C3-A4 haplotypes: p = 0.157 in males, p = 0.095 in females).
+
+The association between age and APOA1 variability was absent in females (Table 1b), where either genotypes (χ2 = 7.56 with 4 df., p = 0.109) or alleles (χ2 = 3.22 with 2 df., p = 0.200) did not discriminate among age- classes.
+
+As for APOC3 and APOA4 variability (Tables 2 and 3 respectively), no age-related variation in the gene pool was observed either in males or in females, as shown by > heterogeneity tests among age-classes (p 0.05 in all the cases).
+
+APOA1 variability was significantly associated with the age of the cohort, and in a sex specific way. In order α α to shed light on these findings, the and average A P effects exerted by the A and P alleles of APOA1 on lipidemic parameters were estimated in the sample of 46–80 year old males, where the A and P alleles reached maximum and minimum age-related frequency values respectively (see Table 1a). Due to the low value of the standard deviation (SD) of the BMI (25.62 average value with 2.87 SD), data were not corrected for this parame- ter. The α and α average effects are shown in Table 6a: A P the alleles A/P significantly decreased/increased serum average LDL-C, but had non-significant effects on TC, HDL-C, TG. Interestingly, when the same analysis was carried out in the corresponding group of females (26.08 average BMI with 3.49 SD), where no associa- tion was present between age and APOA1 variability, no
+
+In order to verify if haplotypes were more informa- tive than single markers, linkage disequilibrium (D) be- tween pairs of markers was analysed in the whole sam- ple of 800 subjects. The disequilibrium was significant between APOA1 and APOC3 markers (χ2 with 1 d.f. = 11.46; p = 0.0007; Drel. = 60.0%), as well as between APOC3 and APOA4 markers (χ2 with 1 d.f. = 339.14; p = 0.0000; Drel. = 82.7%), while it was non-significant between APOA1 and APOA4 markers (χ2 with 1 d.f. = 1.98; p = 0.159; Drel. = 7.5%). The frequencies of the haplotypes defined by APOA1- APOC3 and APOC3-APOA4 markers in males and fe- males of different age-classes are shown in Tables 4 and 5.
+
+Table 3 Genotypic and allelic frequencies of the APOA4- HincII-RFLP in samples of individuals (males, 3a; females, 3b) of different ± × ages. Relative frequencies standard errors ( 100) are given in parentheses. A/B denotes Absence/Presence of the restriction site. HWE denotes values expected at Hardy-Weinberg Equilibrium
+
+3a Males (n = 327) 18–45 years 46–80 years 81–109 years Genotypes Counts (120) HWE Counts (155) HWE Counts (52) ± ± ± AA 2 (1.7 1.2) 2.6 1 (0.6 0.6) 3.1 3 (5.8 3.2) 2.1 ± ± ± AP 31 (25.8 4.0) 29.9 42 (27.1 3.6) 37.8 15 (28.8 6.3) 16.8 ± ± ± PP 87 (72.5 4.1) 87.6 112 (72.3 3.6) 114.1 34 (65.4 6.6) 33.1 Alleles Counts (240) Counts (310) Counts (104) A 35 (14.6) 44 (14.2) 21 (20.2) ± ± ± P 205 (85.4 2.3) 266 (85.8 2.0) 83 (79.8 3.9) 3b Females (n = 473) 18–45 years 46–80 years 81–109 years Genotypes Counts (184) HWE Counts (112) HWE Counts (177) ± ± ± AA 2 (1.1 0.8) 4.1 1 (0.9 0.9) 1.2 1 (0.6 0.6) 3.2 ± ± ± AP 51 (27.7 3.3) 46.8 21 (18.8 3.7) 20.6 46 (26.0 3.3) 41.5 ± ± ± PP 131 (71.2 3.3) 133.1 90 (80.4 3.8) 90.2 130 (73.4 3.3) 132.3 Alleles Counts (368) Counts (224) Counts (354) A 55 (14.9) 23 (10.3) 48 (13.6) ± ± ± P 313 (85.1 1.9) 201 (89.7 2.0) 306 (86.4 1.8)
+
+ Table 4 Haplotypes of APOA1-MspI-RFLP (5 ) and APOC3- 3!) SstI-RFLP (3 ) in samples of individuals of different ages. A/P indicates Absence/Presence of the restriction site. Haplotypic fre- × quencies ( 100) are estimated by Maximum Likelihood method. Standard errors are in parentheses
+
+ Table 5 Haplotypes of APOC3-SstI-RFLP (5 ) and APOA4- ae3/) HincII-RFLP (3 ) in samples of individuals of different ages. A/P indicates Absence/Presence of the restriction site. Haplotypic fre- × quencies ( 100) are estimated by Maximum Likelihood method. Standard errors are in parentheses
+
+Males Haplotypes 18–45 years 46–80 years 81–109 years     ± ± ± 5 AA3 6.9 ( 1.7) 5.6 ( 1.3) 11.7 ( 3.2)    ± ± ± 5 AP3 83.5 ( 2.4) 83.7 ( 2.1) 76.8 ( 4.2)    ± ± ± 5 PA3 7.6 ( 1.7) 8.6 ( 1.6) 10.5 ( 3.1)    ± ± ± 5 PP3 2.0 ( 0.9) 2.1 ( 0.8) 1.1 ( 1.1) Females Haplotypes 18–45 years 46–80 years 81–109 years  3! ± ± ± 5 AA3 5.3 ( 1.2) 5.5 ( 1.6) 6.5 ( 1.3)    ± ± ± 5 AP3 83.7 ( 2.0) 86.9 ( 2.3) 86.1 ( 1.8)    ± ± ± 5 PA3 9.8 ( 1.6) 4.8 ( 1.5) 7.0 ( 1.4)    ± ± ± 5 PP3 1.2 ( 0.6) 2.8 ( 1.2) 0.3 ( 0.3)
+
+Males Haplotypes 18–45 years 46–80 years 81–109 years  3! ± ± ± 5 AA3 26.4 ( 3.1) 30.7( 2.8) 18.3 ( 3.8)   ± ± 5 AP3 1.3 ( 1.1) 1.9 ( 1.1) 0   ± ± ± 5 PA3 64.0 ( 3.3) 58.7 ( 2.9) 70.2 ( 4.6)   ± ± ± 5 PP3 8.3 ( 2.0) 8.7 ( 1.7) 11.5 ( 3.2) Females Haplotypes 18–45 years 46–80 years 81–109 years  3! ± ± ± 5 AA3 20.8 ( 2.1) 26.3 ( 3.0) 25.4 ( 2.3)   ± 5 AP3 0 0.9 ( 0.9) 0   ± ± ± 5 PA3 68.2 ( 2.5) 66.1 ( 3.2) 67.2 ( 2.6)   ± ± ± 5 PP3 11.0 ( 1.8) 6.7 ( 1.9) 7.3 ( 1.4)
+
+significant effect was found on any of the lipidemic pa- rameters (Table 6b).
+
+termediate age-class (allele A) had a specific LDL-C de- creasing effect. On the contrary, the allele which reached the lowest frequency in the intermediate age-class (allele P) had a specific LDL-C increasing effect. Since
+
+On the whole, this data showed that, in males the allele which reached the highest frequency in the in
+
+ C University College London 2003
+
+S. Garasto et al.
+
+α α Table 6 Allele average effects and estimated for APOA1 A and P alleles respectively in 45–80 year old subjects. Average effects A P are expressed in mg/dL. Confidence intervals (c.i.) are computed by bootstrap
+
+6a Males α α 95% c.i. 95% c.i. A P − − − Total Cholesterol 6.25 14.83 : +2.31 +3.74 1.31 : +8.73 − − − HDL-Cholesterol +0.74 1.77 : +0.75 0.42 1.82 : +1.03 − − − LDL-Cholesterol 8.19 15.99 : 0.26 +4.70 +0.14 : +9.23 − − − Triglycerides (Log ) +0.02 0.02 : + 0.07 0.01 0.04 : + 0.01 10 6b Females α α 95% c.i. 95% c.i. A P − − Total Cholesterol +0.09 10.70 : +10.21 +0.05 6.70 : +5.50 − − − HDL-Cholesterol +2.0 1.68 : +5.58 1.08 3.13 : +0.84 − − − LDL-Cholesterol 0.51 11.80 : +10.60 +0.28 5.60 : +6.10 − − Triglycerides (Log ) 0.07 0.05 : +0.06 +0.01 0.03 : +0.03 10
+
+the samples we were analysing had been selected for good health and normal lipidemic parameters, this finding was reasonable. In line with these results we found that the frequency of the P allele was significantly higher in 46–80 year old male patients affected by CD with high level of serum LDL-C (CDL patients, aver- age serum LDL-C = 206.53 mg/dL, with 29.66 mg/dL SD) than in sex- and age-matched healthy persons. In ± fact, the P allele frequency was 0.814 ( 0.047 standard ± error) in CDL patients versus 0.674 ( 0.027 standard error) in age-matched healthy males. As expected, a dif- ferent result was found in 46–80 year old male patients affected by CD with low levels of serum HDL-C (CDH patients, average serum HDL-C = 27.79 mg/dL, with 3.15 mg/dL SD), where the P allele frequency was 0.679 ± ( 0.051 standard error).
+
+protective at very old age, despite its effect on serum LDL-C at middle-age and its association with CDL. These apparently contradictory results give us another “paradox of centenarians” (Forette, 1999) and confirm that genetic risk factors acting at middle-age can be present, and also over-represented, in the centenarians’ gene pool (Mannucci et al. 1997; Baggio et al. 1998; Pepe et al. 1998; Thillet et al. 1998; Rose et al. 2001). On the other hand, it has been suggested that choles- terol metabolism may differ between younger and older populations (Schatz et al. 2001), as revealed by longitu- dinal studies showing that, in very old people, a high serum total cholesterol concentration is associated with increased survival (Weverling-Rijnburger et al. 1997). In line with recently developed mathematical models (Yashin et al. 1997; Yashin et al. 2001), the above find- ings confirm that a genotype can be risky in middle-age but protective at very advanced age, and suggests that the effect of a mutation may depend on the age-related physiological scenario in which the mutation acts. Fur- thermore, since ageing could be viewed as a side-effect of adaptive events that are controlled by genes causing damage (Partridge & Gems, 2002a,b), allele P may be beneficial at very old age by repressing some causes of age-related damage.
+
+Discussion
+
+The most striking result of the present study is that, in males, the APOA1 allele P, which increases serum LDL-C at middle-age and is over-represented in CDL patients, tends to increase its frequency as the cohort selected for best survival emerges from the population (Table 1a). In fact, the frequency of the P allele is al- most the same in CDL patients (0.814 ± 0.047 standard error) as in the oldest healthy subjects (0.817 ± 0.038 standard error). It should be noted that the centenar- ians included in the study belong, as for health status, to the A and B categories defined by Franceschi et al. (2000), and represent therefore a group of people age-
+
+As for the lack of association between the age of the population and APOC3 or APOA4 variability, the neg- ative results may depend on the lack of association be- tween these genes and longevity, or on the history of the population under study. In any case more markers
+
+De Luca, M., Rose, G., Bonafe`, M., Garasto, S., Greco, V., Weir, B.S., Franceschi, C. & De Benedictis, G. (
+
+) Sex-specific longevity associations defined by Tyrosine Hydroxylase-Insulin-Insulin Growth Factor
+
+haplotypes on the
+
+p
+
+chromosomal region. Exp. Gerontol.
+
+,
+
+–
+
+See also Errata Corrige in Exp. Gerontol. (
+
+)
+
+,
+
+–
+
+Forette, B. (
+
+) Are common risk factors relevant in the eldest old? In: The Paradoxes of Longevity (eds. J.M. Robine, B. Forette, C. Franceschi, M. Allard), pp.
+
+–
+
+Berlin: Springer Verlag. Franceschi, C., Motta, L., Valensin, S. and the Italian Multi- center Study on Centenarians. (
+
+) Do men and women follow different trajectories to reach extreme longevity? Ag- ing Clin Exp Res
+
+,
+
+–
+
+Friedewald, W.T., Levy, R.I. & Fredrickson, D.S. (
+
+) Es- timation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultra- centrifuge. Clin Chem
+
+,
+
+–
+
+Haase, A. & Stoffel, W. (
+
+) The
+
+-flanking region shared by the human apolipoprotein AI and CIII genes regulates   gene expression in cooperation with
+
+-flanking elements. Biol Chem Hoppe-Seyler
+
+,
+
+–
+
+Hegele, R.A. (
+
+) Monogenic dyslipidemias: window on determinants of plasma lipoprotein metabolism. Am J Hum Genet
+
+,
+
+–
+
+Ivanova, R., Fhenon, N., Lepage, V., Charron, D., Vicaut, E. & Schachter, F. (
+
+) HLA-DR alleles display sex- dependent effects on survival and discriminate between in- dividual and familial longevity. Hum Mol Genet
+
+,
+
+–
+
+Genest, J. Jr. (
+
+) Genetics and prevention: a new look at high-density lipoprotein cholesterol. Cardiol Rev
+
+,
+
+–
+
+Gerdes, L.U., Jeune, B., Ranberg, K.A., Nybo, H. & Vau- pel, J.W. (
+
+) Estimation of apolipoprotein E genotype- specific relative mortality risks from the distribution of genotypes in centenarians and middle-aged men: apolipoprotein E gene is a “frailty gene,” not a “longevity gene.” Genet Epidemiol
+
+,
+
+–
+
+Groenendijk, M., Cantor, RM., D
+
+ruin, T.W.A. & Dallinga-Thie, G.M. (
+
+) The ap
+
+I-CIII-AIV gene cluster. Atherosclerosis
+
+,
+
+–
+
+Jian-Gang, Z., Yong-Xing, M., Chuan-Fu, W., Pei-Fang, L., Song-Bai, Z., Nui-Fan, G., Guo-Yin, F. & Lin, H. (
+
+) Apolipoprotein E and longevity among Han Chinese pop- ulation. Mech Ageing Dev
+
+,
+
+–
+
+Kan, H.Y., Georgopoulos, S. & Zannis, V. (
+
+) A hor- mone response element in the human apolipoprotein CIII (Ap
+
+III) enhancer is essential for intestinal expression of the Ap
+
+-I and Ap
+
+III genes and contributes to the hep- atic expression of the two linked genes in transgenic mice. J Biol Chem
+
+,
+
+–
+
+are needed in order to exclude an association between
+
+From the present study two main conclusions can be drawn. Firstly, the APOA1 allele P, which increases serum LDL-C and is over-represented in CDL patients, is also over-represented in the oldest old people in fairly good health. Secondly, gene-sex interaction seems to be an important phenomenon in the genetic modulation of human lifespan, thus confirming that the effect of a gene on a multifactorial trait depends on the sex-specific physiological scenario in which the gene acts. This anal- ysis of the variability of the APOA1-APOC3-APOA4 gene cluster in a well defined population selected for healthy ageing reveals another paradox of centenarians and confirms the complexity of the human longevity phenotype.
+
+Acknowledgements
+
+Work supported by the Italian Ministry of Health (IRCCS 2000–2002, Marcatori genetici e biologici di invecchiamento nor- male e patologico ) and by the Italian Ministry of University and Scientific & Technological Research (COFIN 2000–2002, Genetic Determinants of Human Longevity ).
+
+References
+
+S., Gabelli, C., Della Vestra, M.L., Guido, M., Pigozzo, S., Cortella, I., Crepaldi, G. & Franceschi, C. (
+
+) Lipoprotein(a) and lipoprotein profile in healthy centenari- ans: a reappraisal of vascular risk factors. FASEB J
+
+,
+
+–
+
+Carrieri, G., Bonafe`, M., De Luca, M., Rose, G., Varcasia, O., Bruni, A., Maletta, R., Nacmias, B., Sorbi, S., Corson- ello, F., Feraco, E., Andreev, K.F., Yashin, A.I. Franceschi, C. & De Benedictis, G. (
+
+) Mitochondrial DNA hap- logroups and APOE
+
+allele are non-independent variables in sporadic Alzheimer’s disease. Hum Genet
+
+,
+
+–
+
+Christiansen, F. B. & Feldman, M.W. (
+
+) Population Ge- netics. Blackwell Sc. Publications, Palo Alto (CA) pp.
+
+–
+
+De Benedictis, G., Rose, G., Carrieri, G., De Luca, M., Fal- cone, E., Passarino, G., Bonafe`, M., Monti, D., Baggio, G., Bertolini, S., Mari, D., Mattace, R. & Franceschi, C. (
+
+) Mitochondrial DNA inherited variants are associ- ated with successful aging and longevity in humans. FASEB J
+
+,
+
+–
+
+ C University College London 2003
+
+S. Garasto et al.
+
+Tan, Q., De Benedictis, G., Yashin, A.I., Bonafe`, M., De Luca, M., Valensin, S., Vaupel, J.W. & Franceschi, C. (
+
+) Measuring the genetic influence in modulating the human life span: gene-environment interaction and the sex-specific genetic effect. Biogerontology
+
+,
+
+–
+
+Thillet, J., Doucet, C., Chapman, J., Herbeth, B., Cohen, D., & Faure-Delanef, L. (
+
+) Elevated lipoprotein(a) levels and small apo(a) isoforms are compatible with longevity: evidence from a large population of French centenarians. Atherosclerosis
+
+,
+
+–
+
+Vrablik, M., Ceska, R. & Horinek, A. (
+
+) Major apolipoprotein B-
+
+mutations in lipoprotein metabolism and atherosclerosis. Physiol Res
+
+,
+
+–
+
+Weverling-Rijnburger, A.W.E., Blauw, G.J., Lagaay, A.M., Knook, D.L., Meinders, A.E. & Westendorp, R.G.J. (
+
+) Total cholesterol and risk of mortality in the oldest old. The Lancet
+
+,
+
+–
+
+Yashin, A.I., Manton, K.G. & Lowrimore, G.R. (
+
+) Evalu- ating partially observed survival histories: retrospective pro- jection of covariate trajectories. Appl Stoch Mod and Data Anal
+
+,
+
+–
+
+Yashin, A.I., Ukraintseva, S.V., De Benedictis, G., Anisimov, V.N., Butov, A.A., Arbeev, K., Jdanov, D.A., Boiko, S.I., Begun, A.S., Bonafe`, M. & Franceschi, C. (
+
+) Have the oldest old adults been frail in the past? A hypothesis that explains modern trends in survival. J Gerontol Biol Sci Med Sci
+
+, B
+
+–
+
+high plasma levels of coagulation and fibrinolysis proteins. A study in centenarians. Arterioscler Thromb Vasc Biol
+
+,
+
+–
+
+Nei, M. (
+
+) Molecular Evolutionary Genetics. Columbia Uni- versity Press. New York, pp.
+
+–
+
+Partridge, L. & Gems, D. (
+
+a) Mechanisms of ageing: pub- lic or private? Nature Rev Genet
+
+,
+
+–
+
+Partridge, L. & Gems, D. (
+
+b) A lethal side-effect. Nature
+
+,
+
+Pepe, G., Di Perna, V., Resta, F., Lovecchio, M. Chimienti, G., Colacicco A.M. & Capurso A. (
+
+) In search of a biological pattern for human longevity: impact of apo A-IV genetic polymorphism on lipoproteins and the hyper-Lp(a) in centenarians. Atherosclerosis
+
+,
+
+–
+
+Rose, G., Passarino, G., Carrieri, G., Altomare, K., Greco, V., Bertolini, S., Bonafe`, M., Franceschi, C. & De Bene- dictis, G. (
+
+) Paradoxes in longevity: sequence analysis of m
+
+NA haplogroup J in centenarians. Eur J Hum Genet
+
+,
+
+–
+
+Schachter, F., Faure-Delaneff, L., Guenot, R., Rouger, H., Froguel, P., Lesuerur-Ginot, L. & Cohen, D. (
+
+) Ge- netic associations with human longevity at the APOE and ACE loci. Nat Genet
+
+,
+
+–
+
+Schatz, I.J., Masaki, K., Yano, K., Chen, R., Rodriguez, B.I. & Curb, J.D. (
+
+) Cholesterol and all-cause of mortal- ity in elderly people from the Honolulu Heart Program: a cohort study. The Lancet
+
+,
+
+–
+
+Accepted: 26 September 2002

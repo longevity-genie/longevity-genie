@@ -1,0 +1,463 @@
+Association of Interleukin-10 Promoter Single Nucleotide Polymorphisms (cid:1)819 T/C and (cid:1)592 A/C With Aging
+
+Okayama, Yuichiro Hamanaka, Yutaka Suehiro, Yoshinori Hasui, 2 1,2 Junji Nakamura, and Yuji Hinoda
+
+1Department of Clinical Laboratory Science, 2Division of Laboratory, Yamaguchi University Yamaguchi University School of Medicine, Japan. 3Department of Oral and Maxillofacial Surgery, Yamaguchi University School of Medicine, Japan.
+
+Increased inflammatory activity is known to accompany aging. Single nucleotide polymorphisms of inflammatory mediator genes might therefore affect the aging process. Relation of eight SNPs (tumor necrosis factor-a [TNF-a] (cid:1)1031 T/C, interleukin-10 [IL-10] (cid:1)819 T/C, IL-1b (cid:1)511 C/ T, IL-6 (cid:1)634 C/G, IL-18 (cid:1)607 A/C, transforming growth factor-b [TGF-b] þ869 C/ T, matrix metalloproteinase-1 [MMP-1] (cid:1)1607 1G/2G, and MMP-3 (cid:1)1171 5A/6A) with age or gender was evaluated in 500 Japanese persons (mean age: 56.7 years old, range: 19–100) by the chi-square test. There was a significant association of IL-10 (cid:1)819 T/C with age (p ¼ .0026). The association remained significant after multivariate logistic regression analysis (odds ratio for an age interval for 1 year, 1.009; 95% CI, 1.002–1.016). Furthermore, the genotype distribution of IL-10 (cid:1)819 T/C was completely consistent with that of (cid:1)592 A/C. These data suggest that IL-10 (cid:1)819 T/C and (cid:1)592 A/C may be a promising candidate for an aging-related gene in a Japanese population.
+
+also might be derived from a case–control design by which frequency of genotypes is compared between cases (elderly people) and controls (younger people). To reduce such statistical problems, Tan and colleagues (18,19) recently reported a logistic regression model for measuring gene– longevity associations that enables us to estimate the probability of observing one genotype as a function of age, assuming that frequency of the genotype that affects individual survival should change in the genotypic pool with advancing age (18). In the present study, we evaluated the relationship of cytokine and MMP gene SNPs with age in a randomly selected population by using a multivariate logistic regression analysis.
+
+unrelated individuals is one of the most popular study designs used to clarify the molecular basis of inherited components in human longevity (1). A variety of genes involved in DNA repair, drug or lipid metabolism, immune response, tumor suppression, and blood coagulation, have been investigated (1). Among these, inflammatory mediators have gained increasing attention because there is accumu- lating evidence that: (a) low-grade increases in plasma levels of tumor necrosis factor-a (TNF-a) and interleukin-6 (IL-6) are strong predictors of all-cause mortality risk independent of other known risk factors in elderly cohorts (2) and (b) anti-inflammatory drugs reduce the risk of vascular events, and possibly Alzheimer’s disease and cancer (3,4). Inflammatory mediators are also involved in glucose and lipid metabolism (5). TNF-a inhibits insulin- receptor signaling in adipocytes, hepatocytes, and skeletal muscle, and is implicated in the insulin resistance of aging. IL-6 stimulates hepatic glucose release, leading to hyper- glycemia. Of interest, caloric restriction strongly inhibits in- flammatory responses of aging (5).
+
+P ARTICIPANTS
+
+Peripheral blood samples were obtained from 500 unrelated Japanese individuals (252 males, 248 females; mean age, 56.7 years; range, 19–100 years) after obtaining written informed consents. Number and sex ratio (male/ female) of the 500 participants in each decade age were as follows: 5 (0/5) in 10s, 133 (70/63) in 20s, 39 (23/16) in 30s, 43 (22/21) in 40s, 30 (11/19) in 50s, 28 (22/6) in 60s, 79 (57/22) in 70s, 100 (35/65) in 80s, 42 (12/30) in 90s, and 1 (0/1) in 100s. Among these individuals, 337 were healthy volunteers including students, hospital staff members, and elderly people who visited the Yamaguchi University Hospital for regular physical examinations (187 males, 150 females; mean age, 44.3 years; range, 19–98 years), and 163 were patients treated in that hospital for a variety of chronic disorders including ischemic heart disease, essential hypertension, diabetes mellitus, peptic ulcer, and liver disease (65 males, 98 females; mean age, 82.3 years; range,
+
+Single nucleotide polymorphisms (SNPs) in the following inflammatory mediator genes have been reported to be associated with longevity or aging: IL-6 (2), TNF-a (6), IL- 1 (7), IL-10 (8,9), interferon-c (IFN-c) (10), transforming growth factor-b (TGF-b) (11), and matrix metalloproteinase (MMP)-3 (12). Although it is highly possible that these genes are important candidates, conflicting data have been obtained for IL-6 (2), TNF-a (13–15), IL-1 (14,16), IL-10 (14,15,17), and IFN-c (15,17). One possible explanation for these discrepancies is the complex interaction between lifestyle and genetic factors together with cultural and genetic differences across countries (2). The discrepancies
+
+(21). MMP-1 (cid:1)1607 1G/2G, IL-18 (cid:1)607 A/C, and IL-10 (cid:1)592 A/C were genotyped using a TaqMan assay, and TGF- b þ869 C/T and IL-10 (cid:1)1082 A/G were genotyped using PCR-RFLP. Primers, probes, and restriction enzymes used in this study are shown in Table 1.
+
+Table 1. Primers, Probes, and Restriction Enzymes
+
+Restriction Gene Variant Primer*,y Enzymez IL-10 (cid:1)1082 A/G F 59-acactactaaggcttccttggga-39 EcoNI R 59-gatggggtggaagaagttgaaat-39 (cid:1)819 T/C FO 59-acactactaaggcttccttggga-39 RO 59-tgcacttgctgaaagcttcttat-39 FI 59-tgtacccttgtacaggtgatgtcaT-39 RI 59-gagcaaactgaggcacagaggtG-39 TNF-a (cid:1)1031 T/C FO 59-gctgtggggagaacaaaaggataa-39 RO 59-ggtccccatactcgacttccata-39 FI 59-gaagcaaaggagaagctgagaacaT-39 RI 59-tccagaccctgacttttcctgcG-39 IL-1b (cid:1)511 C/T FO 59-atctggcattgatctggttcatcc-39 RO 59-cttaactttaggaatcttcccactt-39 FI 59-cctgcaattgacagagagctacC-39 RI 59-cttgggtgctgttctctgccgcA-39 IL-6 (cid:1)634 C/G FO 59-acctggagacgccttgaagtaact-39 RO 59-aaaccaaagatgttctgaactgagt-39 FI 59-gccaggcagtctacaacaggcC-39 RI 59-gtgttctggctctccctgtgtgC-39 IL-18 (cid:1)607 A/C F 59-tctccccaagcttactttctgttg-39 R 59-tgcaagccacacggatacc-39 FAM 59-atcattagaattttatTtaataat-39 VIC 59-atcattagaattttatCtaataat-39 TGF-b þ869 C/T F 59-ttccctcgaggccctcctacc-39 MspAII R 59-gccgcagcttggacaggatct-39 MMP-3 (cid:1)1171 5A/6A FO 59-ctcaaagtgctaggattacagacat-39 RO 59-attatctatcaggctttcctctaaact-39 FI 59-cctttgatggggggaaaaac-39 RI 59-aatcaggacaagacatggtttttt-39 MMP-1 (cid:1)1607 1G/2G F 59-acatgttatgccacttagatgaggaaa-39 R 59-gcgtcaagactgatatcttactcataaacaata-39 FAM 59-ttgagataagtcatatCtttcta-39 VIC 59-ttgagataagtcatatCCtttcta-39
+
+Each PCR was carried out in a total volume of 10 ll containing template DNA at 80 ng/ll, 10 pmol primers, 200 lM deoxyribonucleotide triphosphates (dNTPs), 20 mM MgCl , 20 mM Tris-HCl (pH 8), 100 mM KCl, and 1 U Taq 2 polymerase (TaKaRa Ex Taq; TAKARA, Tokyo, Japan). The solution was overlaid with 10 ll of mineral oil. Standard conditions of the RoboCycler (Gene Amp PCR System 9600; Perkin Elmer, Tokyo, Japan) used in this study were as follows: initial denaturation at 958C for 2 minutes, followed by 30 cycles of 30-second denatura- tion (958C), 20-second annealing (608C), and 30-second extension (728C). PCR products were separated by electro- phoresis on a 2% agarose gel, and subsequently stained with ethidium bromide.
+
+TaqMan assay of PCR products was performed according to the manufacturer’s protocol. Reaction components for a single 5-ll reaction (for each well of a 384-well plate) were: template DNA at 5 ng/ll, 2.5 ll of TaqMan universal PCR master mix, 0.125 ll of 40 X assay mix, and 2.375 ll of dH O. Specific forward/reverse PCR primers and Taq- 2 Man minor groove binding DNA oligonucleotide (MGB) probes for MMP-1 and IL-18 SNPs were designed with Primer Express version 1.5 software (Applied Biosystems, Foster City, CA), and were custom-synthesized by Applied Biosystems. Sequences of primers for IL-10 (cid:1)592 A/C are not shown in Table 1 because they were obtained as commercial Assays-on-Demand (Applied Biosystems). Re- action mixtures were loaded into 384-well plates and placed in an ABI Prism 7900HT Sequence Detection System (Applied Biosystems). PCR amplifications were performed as follows: initial denaturation at 958C for 10 minutes, followed by 40 cycles of PCR with a denaturation at 958C for 15 seconds and one step annealing and extension for 1 minute at 608C.
+
+Notes: *Primers for tetra-primer amplification refractory mutation system (ARM) polymerase chain reaction (PCR): FO ¼ forward outer primer; RO ¼ reverse outer primer; FI ¼ forward inner primer; RI ¼ reverse inner primer. Primers for Taqman assay: F ¼ forward primer; R ¼ reverse primer; FAM ¼ reporter1 probe; VIC¼reporter 2 probe. IL¼interleukin; TNF¼tumor necrosis factor; TGF ¼ transforming growth factor; MMP ¼ matrix metalloproteinase.
+
+zRestriction enzymes for PCR-restriction fragment length polymorphism (RFLP) analysis.
+
+Statistical Analysis
+
+64–100 years) from January 2001 through October 2004. Patients with malignancy or with severe organ failure were not enrolled in this study. Participants were drawn from Yamaguchi Prefecture and the surrounding prefectures (assuming similar environmental and social factors), and all were native Japanese. The experimental protocol was approved by the Institutional Ethics Committee of the Yamaguchi University School of Medicine.
+
+SNPs tested in this study did not show departure from Hardy–Weinberg equilibrium when samples used for this study (n ¼ 500) were examined before analysis (p . .05). Association of the genotypes with age and gender was evaluated by the chi-square test. Multivariate logistic regression analysis was then carried out to obtain odds ratios (OR) and 95% confidence intervals (CI). Presence or absence of a given SNP genotype was used as a dependent variable, and age and gender were used as independent variables. A p value of ,.05 was considered statistically significant. The StatView statistical software system (ver- sion 5; SAS Institute Inc., Cary, NC) was used for analyses.
+
+Genotyping
+
+Using a conventional NaI method, we extracted genomic DNA from peripheral blood anti-coagulated with EDTA- 2Na (20). For genotyping of IL-10 (cid:1)819 T/C, TNF-a (cid:1)1031 T/C, IL-1b (cid:1)511 C/T, IL-6 (cid:1)634 C/G, and MMP-3 (cid:1)1171 5A/6A, tetra-primer amplification refractory mutation sys- tem (ARMC) polymerase chain reaction (PCR) was performed with validation by PCR-restriction fragment length polymorphism (RFLP) as described previously
+
+R ESULTS
+
+We genotyped eight SNPs including IL-10 (cid:1)819 T/C, TNF-a (cid:1)1031 T/C, IL-1b (cid:1)511 C/T, IL-6 (cid:1)634 C/G, IL-18 (cid:1)607 A/C, TGF-b þ869 C/T, MMP-1 (cid:1)1607 1G/2G, and MMP-3 (cid:1)1171 5A/6A, and evaluated the relation of age or
+
+Table 2. Comparison of Genotype Distribution of Eight SNPs Between Higher and Lower Age Groups
+
+Distribution* Distribution* SNP Genotype ,57 years (cid:2)57 years p Male Female p IL-10 (cid:1)819 C/C 26 (10.6) 22 (8.6) 25 (9.9) 23 (9.3) T/C 125 (51.0) 101 (39.6) 112 (44.5) 114 (45.9) T/T 94 (38.4) 132 (51.8) .0026y 115 (45.6) 111 (44.8) .8438y TNF-a (cid:1)1031 C/C 11 (4.5) 6 (2.4) 7 (2.8) 10 (4.0) T/C 67 (27.3) 56 (21.9) 69 (27.4) 54 (21.8) T/T 167 (68.2) 193 (75.7) .0611 176 (69.8) 184 (74.2) .2785 IL-1b (cid:1)511 T/T 49 (20.0) 53 (20.8) 53 (21.0) 49 (19.8) C/T 131 (53.5) 121 (47.4) 126 (50.0) 126 (50.8) C/C 65 (26.5) 81 (31.8) .1982 73 (29.0) 73 (29.4) .9085 IL-6 (cid:1)634 G/G 17 (6.9) 12 (4.7) 16 (6.3) 13 (5.2) C/G 85 (34.7) 89 (34.9) 92 (36.5) 82 (33.1) C/C 143 (58.4) 154 (60.4) .6449 144 (57.2) 153 (61.7) .3002 IL-18 (cid:1)607 C/C 33 (13.5) 33 (13.0) 33 (13.1) 33 (13.3) A/C 126 (51.4) 125 (49.0) 116 (46.0) 135 (54.4) A/A 86 (35.1) 97 (38.0) .4955 103 (40.9) 80 (32.3) .0456 TGF-b þ869 T/T 51 (20.8) 65 (25.5) 53 (21.0) 63 (25.4) C/T 121 (49.4) 124 (48.6) 131 (52.0) 114 (46.0) C/C 73 (29.8) 66 (25.9) .3288 68 (27.0) 71 (28.6) .6815 MMP-1 (cid:1)1607 1G/1G 18 (7.4) 27 (10.6) 25 (9.9) 20 (8.1) 1G/2G 125 (51.0) 106 (41.6) 111 (44.1) 120 (48.4) 2G/2G 102 (41.6) 122 (47.8) .1627 116 (46.0) 108 (43.5) .5766 MMP-3 (cid:1)1171 5A/5A 6 (2.4) 3 (1.2) 4 (1.6) 5 (2.0) 5A/6A 67 (27.4) 70 (27.4) 59 (23.4) 78 (31.5) 6A/6A 172 (70.2) 182 (71.4) .7739 189 (75.0) 165 (66.5) .0373
+
+from http://biomedgerontology.oxfordjournals.org/ at McMaster University Library on March 25, 2015
+
+yThe frequency of T/T genotype was compared to that of T/C and C/C genotypes. SNP ¼ single nucleotide polymorphism; IL ¼ interleukin; TNF ¼ tumor necrosis factor; TGF ¼ transforming growth factor; MMP ¼ matrix metalloproteinase.
+
+The relation of the combination of IL-10 (cid:1)819 T/T and TNF-a (cid:1)1031 T/T with age was also evaluated by the chi- square test. A significant association of the combination of these two genotypes with age was observed ( p¼ .0145), but the association seemed to be weaker compared to the association of IL-10 (cid:1)819 T/T with age, suggesting that there was no additional advantage of the combination with TNF-a (cid:1)1031 T/T (data not shown).
+
+gender with the genotype distribution of each SNP by a conventional chi-square test. As shown in Table 2, IL-10 (cid:1)819 T/C showed a significant association with age (p ¼ .0026). In addition, there was a weak association between gender and IL-18 (cid:1)607 A/C (p ¼ .0456) or MMP-3 (cid:1)1171 5A/6A ( p ¼ .0373), and a tendency of association between age and TNF-a (cid:1)1031 T/C ( p ¼ .0611).
+
+The association of IL-10 (cid:1)819 T/T, IL-18 (cid:1)607 A/C, and MMP-3 (cid:1)1171 6A6A with age or gender remained significant after multivariate logistic regression analysis. The analysis also showed a significant association of TNF-a (cid:1)1031 T/T with age. OR and 95% CI are shown in Table 3. Consistent with the results in Table 2, the association of IL- 10 (cid:1)819 T/T with age showed the highest level of statistical significance (OR for an age interval for 1 year, 1.009; 95% CI, 1.002–1.016).
+
+D ISCUSSION
+
+In this study, we demonstrated that IL-10 (cid:1)819 T/C and (cid:1)592 A/C polymorphisms could be associated with aging in
+
+Table 3. Logistic Regression Analysis
+
+OR* 95% CI p IL-10 (cid:1)819 (T/T vs T/CþC/C) Age 1.009 1.002–1.016 .0099 Gender 1.161 0.814–1.657 .4105 TNF-a (cid:1)1031 (T/T vs T/CþC/C) Age 1.009 1.001–1.016 .0288 Gender 0.825 0.557–1.224 .3398 IL-18 (cid:1)607 (A/A vs A/CþC/C) Age 1.003 0.996–1.011 .3506 Gender 1.470 1.018–2.123 .0399 MMP-3 (cid:1)1171 (6A/6A vs 6A/5Aþ5A/5A) Age 1.002 0.995–1.010 .5935 Gender 1.520 1.030–2.243 .0351
+
+To further evaluate the association of IL-10(cid:1)819 T/T with age, we divided our population into four groups (two decades each) as follows: 19–40 years, 41–60 years, 61–80 years, and 81–100 years, and the frequency of IL-10(cid:1)819 T/ T was compared among these 4 groups. As shown in Table 4, it was apparently increased in higher age groups (61–80 and 81–100) compared to lower age groups (19–40 and 41–60).
+
+To investigate the relation of a previously reported IL-10 haplotype (22) consisting of (cid:1)1082 A/G, (cid:1)819 T/C, and (cid:1)592 A/C with age, we then genotyped IL-10 (cid:1)1082 A/G and (cid:1)592 A/C. As shown in Table 5, genotype distribution was completely consistent between IL-10 (cid:1)819 T/C and (cid:1)592 A/C, but (cid:1)1082 A/G showed a quite different distribution. There was no significant association of IL-10 (cid:1)1082 A/G with age (data not shown).
+
+Notes: *OR for age indicates OR for an age interval for 1 year. OR ¼ odds ratio; CI ¼ confidence interval; IL ¼ interleukin; TNF ¼ tumor necrosis factor; MMP ¼ matrix metalloproteinase.
+
+Table 4. Frequencies of Interleukin 10 (IL-10) (cid:1)819 T/T in Each Two Decades of 500 Participants Aged 19–100 Years
+
+Table 5. Comparison of Genotype Distribution of Interleukin 10 (IL-10) Promoter Single Nucleotide Polymorphisms
+
+Age (y) 19–40 41–60 61–80 81–100 IL-10 (cid:1)819 T/T 71/184 (38.6%) 26/66 (39.4%) 58/116 (50%) 71/134 (53%)
+
+Genotype Number (%) IL-10 (cid:1)819 C/C 48 (9.6) C/T 226 (45.2) T/T 226 (45.2) IL-10 (cid:1)592 C/C 48 (9.6) C/A 226 (45.2) A/A 226 (45.2) IL-10 (cid:1)1082 G/G 3 (0.6) G/A 41 (8.2) A/A 456 (91.2)
+
+a Japanese population. Our present data also suggested a possible association of TNF-a (cid:1)1031 T/C with age and of IL-18 (cid:1)607 A/C and MMP-3 (cid:1)1171 5A/6A with gender. However, multiple testing may cause a false-positive result. When our data in Table 2 were evaluated by Bonferroni correction, only an association of IL-10 (cid:1)819 T/T with age attained statistical significance. However, it may be possible that the Bonferroni correction overcorrects for the inflated false-positive rate and thereby throws away valid informa- tion in the sample (23). A weak association should be regarded as a borderline statistical association at the present time and subjected to further investigations. Although the association of TNF-a (cid:1)1031 T/C with age and that of IL-18 (cid:1)607 A/C with gender are our new findings, the association of MMP-3 (cid:1)1171 5A/6A with gender was previously pointed out in coronary heart disease (24,25).
+
+control participants 25–53 years old, indicating an increased or decreased frequency of the genotype GCC/GCC or ACC/ ATA, respectively, in an elderly group. These reports suggested the importance of the G allele of (cid:1)1082 A/G. However, no significant association of (cid:1)1082 A/G with longevity was observed in Finnish nonagenarians (14), an aged Irish population (15), or Sardinian centenarians (14). As one possible explanation for such discrepancies, Pes and colleagues (17) suggested that cytokine–longevity associa- tions have a population-specific component, being affected by the population-specific gene pool as well as by gene– environment interactions.
+
+people (mean age, 82.3 years; range, 64–100 years) with mild chronic disorders except for malignancy; these 163 people made up 65.7% of the 248 participants (cid:2)64 years old. However, when considering that 63.2% of Japanese people aged (cid:2)65 years are receiving regular outpatient treatment due to some disease (based on the data in the Official Web Site of Ministry of Health, Labour and Welfare in Japan, http://www.mhlw.go.jp/), this percentage of patients with chronic disorders in our population could correspond to that in the entire Japanese population. We also compared the genotype distribution of all the SNPs tested between 163 elderly patients from the hospital setting and healthy controls aged (cid:2)64 years (n ¼ 85; mean age, 77.9 years; range, 64–98 years). None of the SNPs showed a significant difference of genotype distribution between these 2 groups (data not shown). Furthermore, there was no significant difference of genotype distribution and allele frequency on IL-10 (cid:1)819 T/C between our population and other Japanese populations previously reported (26,27), suggesting the absence of remarkable genetic heterogeneity in our population.
+
+We showed that the genotype distribution of IL-10 (cid:1)1082 A/G is different from that of (cid:1)819 T/C or (cid:1)592 A/C in the Japanese population used in this study. This result was consistent with previous findings in a Japanese population (29), but differed from those in Caucasian populations (8,14), which revealed that these 3 polymorphisms were strongly linked, and only 3 of 8 possible haplotypes (GCC, ACC, ATA) segregated in Caucasian populations (8,22). In our population, IL-10 (cid:1)819 T/C was in perfect linkage disequilibrium with (cid:1)592 A/C, whereas it was not with (cid:1)1031 A/G [linkage disequilibrium was calculated as described previously (30); data not shown]. It was thus considered that there is little significance of this haplotype analysis in our population. The genotype distribution of these 3 polymorphisms was also quite different between our population and a Caucasian population (14). These findings clearly indicate a populational difference of the IL-10 promoter polymorphisms.
+
+The effect of (cid:1)1082 A/G on IL-10 gene transcription or protein production seems to be controversial at the present time (31). In contrast, Temple and colleagues (32) reported the (cid:1)819 TT/(cid:1)592 AA haplotype as a determinant of high IL-10 transcription when peripheral blood mononuclear cells were stimulated with lipopolysaccharide or heat-killed Streptococcus pneumoniae, and IL-10 messenger RNA was measured by reverse transcriptase–PCR, although it is still not clear whether the haplotype affects IL-10 production at the protein level. This finding might be supported by a recent association study showing that the IL-10 (cid:1)592 A/A genotype was associated with a decreased risk of grade III or IV acute graft-versus-host disease and death in remission in 933 recipients after hematopoietic cell transplantation (33). Further studies on different populations, and functional
+
+Association of IL-10 promoter polymorphisms with longevity was previously shown in two studies. Lio and colleagues (8) first reported that the frequency of the IL-10 (cid:1)1082 G/G genotype was increased in centenarian men, but not in centenarian women, compared with control partic- ipants ,60 years old. No difference was found between centenarians and controls for the (cid:1)819 T/C and (cid:1)592 A/C genotype distributions. As several functional studies suggested a relation between IL-10 (cid:1)1082 GG and AG genotypes with a higher production of IL-10 (28), the data indicated that IL-10, a major anti-inflammatory cytokine, could be involved in successful aging. In another study (9), haplotypes (GCC, ACC, ATA) were compared between elderly people in 10 families with longevity members and
+
+Further studies on different populations, and functional analyses of IL-10 (cid:1)819 and (cid:1)592 regions, are required to confirm the association of (cid:1)819 T/C and (cid:1)592 A/C with
+
+Cavallone L, Bonafe M, Olivieri F, et al. The role of IL-
+
+gene cluster in longevity: a study in Italian population. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Pes GM, Lio D, Carru C, et al. Association between longevity and cytokine gene polymorphisms. A study in Sardinian centenarians. Aging Clin Exp Res.
+
+;
+
+:
+
+–
+
+Tan Q, Yashin AI, De Benedictis G, et al. A logistic regression model for measuring gene-longevity associations. Clin Genet.
+
+;
+
+:
+
+–
+
+Tan Q, Yashin AI, Bladbjerg EM, et al. A case-only approach for assessing gene by sex interaction in human longevity. J Gerontol Biol Sci.
+
+;
+
+A:B
+
+–B
+
+Wan
+
+, Hirayasu K, Ishizawa M, Kobayashi Y. Purification of genomic DNA from human whole blood by isopropanol-fractionation with concentrated N
+
+and SDS. Nucleic Acids Res.
+
+;
+
+:
+
+–
+
+Okayam
+
+,Fujimur
+
+,Nakamur
+
+,Suehir
+
+,Hamanak
+
+,Hinod
+
+Evaluation of a new efficient procedure for single nucleotide poly- morphism genotyping, tetra-primer amplification refractory mutation system-polymerase chain reaction. Clin Chem Lab Med.
+
+;
+
+:
+
+–
+
+Reynard MP, Turner D, Navarrete CV. Allele frequencies of polymorphisms of the tumour necrosis factor-alpha, interleukin-
+
+, interferon-gamma and interleukin-
+
+genes in a North European Caucasoid group from the UK. Eur J Immunogenet.
+
+;
+
+:
+
+–
+
+Cardon LR, Bell JI. Association study designs for complex diseases. Nat Rev Genet.
+
+;
+
+:
+
+–
+
+Yamada Y, Izawa H, Ichihara S, et al. Prediction of the risk of myocardial infarction from polymorphisms in candidate genes. N Engl J Med.
+
+;
+
+:
+
+–
+
+Humphries SE, Martin S, Cooper J, Miller G. Interaction between smoking and the stromelysin-
+
+(MMP
+
+) gene
+
+A/
+
+A promoter polymorphism and risk of coronary heart disease in healthy men. Ann Hum Genet.
+
+;
+
+:
+
+–
+
+Hamajima N, Saito T, Matsuo K, et al. Genotype frequencies of
+
+polymorphisms for
+
+Japanese non-cancer patients. J Epidemiol.
+
+;
+
+:
+
+–
+
+Ide A, Kawasaki E, Abiru N, et al. Genetic association between interleukin-
+
+gene promoter region polymorphisms and type
+
+diabetes age-at-onset. Hum Immunol.
+
+;
+
+:
+
+–
+
+Turner DM, Williams DM, Sankaran D, Lazarus M, Sinnott PJ, Hutchinson IV. An investigation of polymorphism in the interleukin-
+
+gene promoter. Eur J Immunogenet.
+
+;
+
+:
+
+–
+
+Ito M, Takahashi H, Fuse K, et al. Polymorphisms of tumor necrosis factor-alpha and interleukin-
+
+genes in Japanese patients with idiopathic dilated cardiomyopathy. Jpn Heart J.
+
+;
+
+:
+
+–
+
+Hirata H, Okayama N, Naito K, et al. Association of a haplotype of matrix metalloproteinase (MMP)-
+
+and MMP-
+
+polymorphisms with renal cell carcinoma. Carcinogenesis.
+
+;
+
+:
+
+–
+
+Warle MC, Farhan A, Metselaar HJ, et al. Are cytokine gene polymorphisms related to in vitro cytokine production profiles? Liver Transpl.
+
+;
+
+:
+
+–
+
+Temple SE, Lim E, Cheong KY, et al. Alleles carried at positions(cid:
+
+)
+
+and (cid:
+
+)
+
+of the IL
+
+promoter affect transcription following stimula- tion of peripheral blood cells with Streptococcus pneumoniae. Immuno- genetics.
+
+;
+
+:
+
+–
+
+Lin MT, Storer B, Martin PJ, et al. Relation of an interleukin-
+
+promoter polymorphism to graft-versus-host disease and survival after hematopoietic-cell transplantation. N Engl J Med.
+
+;
+
+:
+
+–
+
+aging and to reveal whether the association is popula- tion specific.
+
+This work was supported by Grant-in-Aid for Scientific Research (Encouragement of Scientists) from the Ministry of Education, Culture, Sports, Science and Technology, Japan.
+
+Address correspondence to Yuji Hinoda, MD, PhD, Department of Clinical Laboratory Science, Yamaguchi University School of Medicine, 1- 1-1, Minami-Kogushi, Ube, Yamaguchi 755-8505, Japan. E-mail: hinoda@ yamaguchi-u.ac.jp
+
+from http://biomedgerontology.oxfordjournals.org/ at McMaster University Library on March 25, 2015
+
+REFERENCES
+
+De Benedictis G, Tan Q, Jeune B, et al. Recent advances in human gene- longevity association studies. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Krabbe KS, Pedersen M, Bruunsgaard H. Inflammatory mediators in the elderly. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Finch CE, Crimmins EM. Inflammatory exposure and historical changes in human life-spans. Science.
+
+;
+
+:
+
+–
+
+Jacobs EJ, Rodriguez C, Mondul AM, et al. A large cohort study of aspirin and other nonsteroidal anti-inflammatory drugs and prostate cancer incidence. J Natl Cancer Inst.
+
+;
+
+:
+
+–
+
+Longo VD, Finch CE. Evolutionary medicine: from dwarf model systems to healthy centenarians? Science.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-
+
+-
+
+promoter SNP and its interaction with TNF-a -
+
+promoter SNP. J Med Genet.
+
+;
+
+:
+
+–
+
+Combarros O, Llorca J, Sanchez-Guerra M, Infante J, Berciano J. Age- dependent association between interleukin-
+
+A ((cid:
+
+)
+
+) genetic polymor- phism and sporadic Alzheimer’s disease. A meta-analysis. J Neurol.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Gender specific association between (cid:
+
+)
+
+IL-
+
+promoter polymorphism and longevity. Genes Immun.
+
+;
+
+:
+
+–
+
+Naumova E, Mihaylova A, Ivanova M, Michailova S, Penkova K, Baltadjieva D. Immunological markers contributing to successful aging in Bulgarians. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Lio D, Scola L, Crivello A, et al. Allele frequencies ofþ
+
+Tf
+
+single nucleotide polymorphism at the first intron of interferon-gamma gene in a group of Italian centenarians. Exp Gerontol.
+
+;
+
+:
+
+–
+
+Carrieri G, Marzi E, Olivieri F, et al. The G/C
+
+polymorphism of transforming growth factor beta
+
+is associated with human longevity: a study in Italian centenarians. Aging Cell.
+
+;
+
+:
+
+–
+
+Medley TL, Kingwell BA, Gatzka CD, Pillay P, Cole TJ. Matrix metalloproteinase-
+
+genotype contributes to age-related aortic stiffening through modulation of gene and protein expression. Circ Res.
+
+;
+
+:
+
+–
+
+Ross OA, Curran MD, Rea IM, et al. HLA haplotypes and TNF polymorphism do not associate with longevity in the Irish. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Wang XY, Hurme M, Jylha M, Hervonen A. Lack of association between human longevity and polymorphisms of IL-
+
+cluster, IL-
+
+, IL-
+
+and TNF-alpha genes in Finnish nonagenarians. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+Ross OA, Curran MD, Meenagh A, et al. Study of age-association with cytokine gene polymorphisms in an aged Irish population. Mech Ageing Dev.
+
+;
+
+:
+
+–
+
+at McMaster University Library on March 25, 2015

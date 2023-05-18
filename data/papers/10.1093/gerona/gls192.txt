@@ -1,0 +1,479 @@
+Effects of the aPoe ε2 Allele on Mortality and Cognitive Function in the Oldest Old
+
+Rune Lindahl-Jacobsen,1 Qihua Tan,1 Jonas Mengel-From,1 Kaare Christensen,1,2 Almut Nebel,3 and Lene Christiansen1
+
+1Danish Aging Research Center, Epidemiology, University of Southern Denmark, J.B. Winsløws Vej 9B, DK-5000 Odense C, Denmark. 2Department of Clinical Genetics and Department of Clinical Biochemistry and Pharmacology, Odense University Hospital, Sdr Boulevard 29, DK-5000 Odense C, Denmark.
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Bibliotheque de l'Universite Laval on July 13, 2014
+
+Address correspondence to Rune Lindahl-Jacobsen, Associate professor, Cand. Scient., PhD., Danish Aging Research Center, Epidemiology, University of Southern Denmark, J.B. Winsløws Vej 9B, DK-5000 Odense C, Denmark. Email: rjacobsen@health.sdu.dk
+
+Some studies indicate that the aPoe ε2 allele may have a protective effect on mortality and mental health among the elderly adults. We investigated the effect of the aPoe ε2 allele on cognitive function and mortality in 1651 members of the virtually extinct Danish 1905 birth cohort. We found no protective effect of the aPoe ε2 allele on mortality compared with the aPoe ε3 allele. The point estimates indicated an increased protection against cognitive decline over time for persons with the aPoe ε2 allele. Cognitive score did not significantly modify the mortality risk of the various aPoe genotypes. We did not find a protective effect of the aPoe ε2 allele on mortality among the oldest old, but in agreement with our previous findings, we found a 22% increased mortality risk for aPoe ε4 carriers. The aPoe ε2 allele may be protective on cognitive decline among the oldest old.
+
+at Bibliotheque de l'Universite Laval on July 13, 2014
+
+Key Words: APOE—Cognitive function—Mortality—Aging—Oldest old.
+
+Received March 16, 2012; accepted august 22, 2012
+
+Decision editor: Rafael de cabo, PhD
+
+A recent large study of a Swedish cohort of persons aged more than 75 years found that dementia accounts for most of the increased mortality risk for carriers of the aPoe ε4 variant. The study also found a protective effect of the aPoe ε2 allele on mortality for women when adjusting for dementia (12). Previous cross-sectional findings in the Danish 1905 cohort suggested no significant protective effect of the aPoe ε2 allele on the level of cognitive func- tion (20).
+
+major question in human longevity research is how genetic variation influences our life span. Twin studies have found that genetic factors account for about a quarter of the variation in human life span in contemporary Nordic populations (1,2) and that the genetic factors may have a stronger influence at the highest ages (3,4). aPoe is the most well-documented gene found to influence life span. The aPoe ε4 allele is associated with an increased mortal- ity risk throughout adulthood (5), and the effect has been found to increase with age among the oldest old (3).
+
+Hence, overall there is still controversy whether the aPoe ε2 allele has a protective effect on mortality and mental health among the elderly adults.
+
+The aPoe allele has previously been associated with increased risk of various diseases including Alzheimer’s disease (6) and cardiovascular diseases (7–9). Most stud- ies have focused on the negative effect of carrying the aPoe ε4 allele, and fewer studies have examined the effects of the three aPoe alleles on mortality separately. In some studies, the presence of the aPoe ε2 allele in the oldest old has been associated with a reduced risk of dementia (10), decreased cholesterol levels (11), and an overall reduced mortality (12). Other studies suggest an increased risk of specific diseases such as Parkinson disease (10,13) among aPoe ε2 allele carriers, but most studies suggest a protective effect against Alzheimer’s disease (14–17).
+
+Here we investigated the effect of the aPoe ε2 allele on cognitive function and mortality in the Danish 1905 birth cohort from 1998 through 2010.
+
+Methods
+
+Study Population
+
+The Danish 1905 Cohort Survey is a nationwide longitudinal survey consisting of all individuals born in Denmark in 1905 identified through the Danish Civil Registration System. At baseline in 1998, a total of 3,600 persons aged 92–93 years were still alive in the cohort, and 2,262 of these persons participated in the intake survey (63%). DNA is available for 1,651 of the participants.
+
+In relation to cognitive function, the aPoe ε2 allele has previously been associated with a better memory (18,19).
+
+The baseline interview in 1998 and successive follow-ups (2000, 2003, and 2005) consisted of a personal interview in the respondent’s home and included information on sociodemographic variables, health measures, and self- reported activities of daily living. Trained interviewers from the Danish National Institute of Social Research carried out the survey. A nonresponse analysis showed no difference between responders and nonresponders with respect to sex (women, 84% vs. 89%, p = .16), median number of hospitalizations (p = .56), or median number of bed days (p = .71) during the years 2003 and 2004 (21).
+
+aPoe genotype and mortality rather than a possible con- founder, and separate Poisson regression models were done for each stratum of cognitive score. When analyzing mortal- ity, we used the most recently measured (eg, the last study wave where the person participated) to address cognitive score allowing participants to change group during follow- up, thus making it possible to include cognitive score as a time-dependent variable. All statistical analyses were done using SAS (version 9.2; SAS Institute Inc.).
+
+Results
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Bibliotheque de l'Universite Laval on July 13, 2014
+
+At baseline, 19% and 22% of the participants were carrying the aPoe ε2 allele and aPoe ε4 allele, respectively (Table 1). There was a similar distribution on the different aPoe subgroups by sex (Table 1). No significant differences in mean cognitive score and its components among aPoe subgroups were present at baseline or over study waves. When dichotomized into high or low cognitive score, the distribution on each aPoe subgroup followed that of the general distribution on each genotype (Table 1).
+
+Dna analysis
+
+Blood samples were taken from persons who were able to give informed consent. DNA was extracted using QIAamp DNA Mini kit (Qiagen, Hilden, Germany), and predesigned TaqMan SNP genotyping assays (Applied Biosystems, Foster City, CA) were used to genotype the two polymor- phisms, rs429358 and rs7412, allowing for grouping into the aPoe genotypes.
+
+The overall cumulative mortality rates of aPoe ε2 allele carriers were similar to the cumulative mortality rates for persons with the aPoe ε33 diplotype (Figure 1A). aPoe ε4 allele carriers had the highest cumulative mortality rates. When stratifying by sex, men had the highest cumulative mortality rates (Figure 1B). For men, the cumulative mor- tality rates of aPoe ε2 allele carriers and the aPoe ε33 diplotype were similar, whereas aPoe ε4 allele carriers had higher cumulative mortality rates until the age of around 100 years. For women, there was a slightly lower mortal- ity for aPoe ε2 allele carriers compared with the aPoe ε33 diplotype, and aPoe ε4 allele carriers had the high- est cumulative mortality rates. When stratified by high or low cognitive score, aPoe ε4 allele carriers had the highest cumulative mortality rates, and the aPoe ε2 allele carriers and the aPoe ε33 diplotype had approximately the same cumulative mortality rates (Figure 1C).
+
+interview content
+
+The participants were invited to a home-based 2-hour multidimensional interview, covering a wide range of ques- tions and tests (22). The cognitive function was measured using a cognitive composite score (23,24). The specific tasks included a fluency task, which involved the number of animals an individual could name in a 1-minute inter- val, forward and backward digit span, and immediate and delayed recall of a 12-item list. A cognitive composite score was found by summing the five components. A higher cog- nitive composite score indicates a better cognitive function (23,24). Cognitive score was further dichotomized into “high” cognitive score (cognitive score above 0) and “low” cognitive score (cognitive score at 0 or less). Analyses of dichotomized cognitive function and its components by aPoe haplotypes at each study wave were done using logistic regression analysis and odds ratios, and 95% confi- dence intervals were calculated.
+
+The relative risk of dying for the aPoe ε2 allele carriers was not significantly different from that of the aPoe ε33 diplotype. This was true for both the unadjusted estimate (RR: 0.94, 95% CI: 0.82–1.08) and when adjusting for sex and age (RR: 0.96, 95% CI: 0.83–1.10) although there were tendencies that aPoe ε2 allele carriers had a lower risk of dying. Carriers of the aPoe ε4 allele had an unadjusted (RR: 1.20, 95% CI: 1.05–1.36) and an adjusted (RR: 1.22, 95% CI: 1.07–1.39) significantly higher risk of dying when compared with the aPoe ε33 diplotype. When stratified by cognitive score, no significant protective effect on mortal- ity was found for the aPoe ε2 allele carriers when com- pared with the participants with the aPoe ε33 diplotype (Figure 2). Carriers of the aPoe ε4 allele had a signifi- cantly higher risk of dying when compared with the aPoe ε33 diplotype for both groups of cognitive score (Figure 2). When further stratified by sex, no major changes in risk pat- tern were found (Figure 2).
+
+Statistical analysis
+
+Information on date of death in the study populations up to the January 1, 2011 was retrieved from the Central Population Registry, which holds information about the total Danish population since 1968 (25) and was linked to the data using a unique identification number given to all Danish citizens. Therefore, a complete and accurate follow-up was done for all participants. In the initial descriptive analysis, we calculated age-specific, cumulated mortality rates and stratified by sex and cognitive score. Mortality rates were analyzed as a function of covariates using multiplicative Poisson regression models (26), and mortality rate ratios and 95% confidence intervals were thereby estimated. Cognitive function could be considered intermediate factors between
+
+Table 1. Characteristics of the Different aPoe Subgroups
+
+Variable aPoe ε22 + ε23n (%) aPoe ε34 + ε44n (%) aPoe ε33n (%) aPoe ε24n (%) Sex* Men 78 (17) 87 (19) 280 (61) 11 (3) Women 185 (16) 214 (18) 722 (63) 39 (3) Year 1998 263 (16) 301 (19) 1002 (62) 50 (3) 2000 150 (17) 150 (17) 550 (62) 34 (4) 2003 70 (18) 57 (16) 241 (63) 13 (3) 2005 38 (21) 26 (15) 113 (63) 2 (1) Fluency task (mean, standard deviation)* (12.7, 6.5) (12.4, 6.7) (12.7, 6.8) (11.6, 6.3) High 122 (16) 137 (18) 476 (63) 18 (3) Low 141 (16) 164 (19) 526 (61) 32 (4) Forward digit span (mean, standard deviation)* (4.7, 2.0) (4.4, 2.0) (4.6, 2.0) (4.3, 1.7) High 136 (17) 139 (18) 494 (63) 22 (3) Low 127 (15) 162 (20) 508 (62) 28 (3) Backward digit span (mean, standard deviation)* (3.1, 1.7) (3.1, 1.8) (3.1, 1.8) (2.9, 1.7) High 104 (15) 132 (19) 423 (62) 20 (3) Low 159 (17) 169 (18) 579 (62) 30 (3) Immediate recall (12 items) (mean, standard deviation)* (2.4, 1.8) (2.2, 1.7) (2.3, 1.8) (2.6, 1.8) High 124 (17) 126 (18) 436 (61) 29 (4) Low 139 (15) 175 (19) 566 (63) 21 (2) Delayed recall (12 items) (mean, standard deviation)* (1.0, 1.6) (0.9, 1.2) (1.0, 1.5) (0.9, 1.4) High 77 (17) 73 (16) 288 (64) 13 (3) Low 186 (16) 228 (20) 714 (61) 37 (3) Cognitive score High 122 (16) 140 (18) 484 (63) 22 (3) Low 141 (17) 161 (19) 518 (61) 28 (3) Cognitive score (mean, standard deviation) 1998 (0.2, 3.5) (−0.2, 3.3) (0.1, 3.6) (−0.2, 3.6) 2000 (−0.2, 4.2) (−0,5, 3.9) (0.2, 3.6) (−0.6, 4.4) 2003 (1.0, 3.2) (−0.6, 3.2) (0.1, 3.6) (−2.0, 2.7) 2005 (0.7, 39) (−0.4, 3.3) (0.5, 3.6) —
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Bibliotheque de l'Universite Laval on July 13, 2014
+
+from http://biomedgerontology.oxfordjournals.org/ at Bibliotheque de l'Universite Laval on July 13, 2014
+
+*Measured at baseline in 1998.
+
+The age and sex adjusted odds ratios for having a low cog- nitive score at study waves indicated a protective effect of carrying the aPoe ε2 allele compared with the aPoe ε33 diplotype, and the effect seemed to increase with study wave (Figure 3). In 2003, the difference between the aPoe ε2 allele compared with the aPoe ε33 diplotype reached sig- nificance with an odds ratio of 0.58 (95% CI: 0.34–0.98). The relative risk estimates for having a low cognitive function for aPoe ε4 allele carriers seemed to increase with study wave when compared with the aPoe ε33 diplotype (Figure 3A). This pattern was generally present for the dichotomized sub- components of the cognitive score even though none of these reached statistical significance (Figures 3B–3F).
+
+The increased risk of mortality for those carrying the aPoe ε4 allele has previously been demonstrated in lon- gitudinal studies over various age groups (3,12,20,27–29), but in some studies no effect was found (30–32). Other studies have failed to observe an association between the aPoe ε4 allele carriers and mortality among the oldest old (29,33,34), whereas others again have found an increased risk (3,12). This discrepancy in findings may be the results of small-scale study populations, age differences in the study populations, and length of follow-up time or different selection criteria of the study populations.
+
+A sex-specific effect of aPoe genotype on mortality has previously been studied (12,35,36). In a study based on the Kungsholmen Project (12) including 1,094 persons aged 75 years and older, the harmful effect of the aPoe ε4 allele was found to be stronger in men than in women, and the results suggested a protective effect of the aPoe ε2 allele on mortality in women. In our study, we did not find a stronger effect of the aPoe ε4 allele on mortality in men, and we found that the aPoe ε2 allele has no sig- nificant effect on mortality compared with persons with the aPoe ε33 diplotype. The present study population is much older at study start than the population studied in the Kungsholmen Project, and the differences in findings may
+
+Discussion
+
+In this study based on persons aged 93 and older, we found no significant protective effect of the aPoe ε2 allele on mortality compared with the aPoe ε3 allele. The car- riers of the aPoe ε2 allele were increasingly protected against cognitive decline over time (max at 39% at third study wave). The carriers of the aPoe ε4 allele had a 22% increased risk of dying compared with the aPoe ε33 diplo- type. Cognitive score did not significantly modify the mor- tality risk of the various aPoe genotypes.
+
+2 A) APOE ε22 + ε23 APOE ε33 APOE ε34 + ε44 1.6 1.2 0.8 0.4 0 93 95 97 99 101 103 105 Age 2 B) Men APOE ε22 + ε23 APOE ε33 1.6 APOE ε34 + ε44 Women APOE ε22 + ε23 APOE ε33 1.2 APOE ε34 + ε44 0.8 0.4 0 93 95 97 99 101 103 105 Age 3 C) Low cognitive score APOE ε22 + ε23 2.5 APOE ε33 APOE ε34 + ε44 High cognitive score 2 APOE ε22 + ε23 APOE ε33 APOE ε34 + ε44 1.5 1 0.5 0 93 95 97 99 101 103 105 Age etar ytilatrom evitalumuCetar ytilatrom evitalumuCetar ytilatrom evitalumuC
+
+be due to selection pressure through age, thus diminishing the effects of the aPoe ε2 allele at advanced ages. However, previously we found an increased effect for aPoe ε4 allele carriers with age in the 1905 cohort with approximately the same follow-up (3), and if genes have a stronger influence at the highest ages (3,4), it is more likely that other factors have influenced the observed discrepancy. Furthermore, there are a limited number of men alive in the present study, which makes chance an important agent in the findings.
+
+The protective effect found for the aPoe ε2 allele on the decrease in cognitive score in this study corresponds to previous findings of a protective effect on dementia (12) and reduced decline in memory among the elderly adults (10,18,19). A recent study suggests that the aPoe ε2 allele protects against brain atrophy (37) and that this may be related to a higher concentration of synaptic proteins in the cerebral cortex (38), which may play a central role in memory and cognitive function.
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Bibliotheque de l'Universite Laval on July 13, 2014
+
+The strengths of our research are the long follow-up period, the high participation rate, and the measure of cognitive function over time, which made it possible to include these as time-dependent covariates in the analysis. In the present study, we did not have information on causes of death. Considering that the major cause of death in Denmark is cardiovascular diseases, this could potentially explain the observed increased mortality in the aPoe ε4 allele carriers. Previous studies have found an association between carrying the aPoe ε4 allele and cardiovascular diseases. This may also have been the case in the present study. Our population was followed from age 92–93 years, thus making the result relevant for the oldest old but not for younger persons. Consequently, this complicates a comparison with other studies on this topic but also warrants studies among younger persons. The age groups studied here further raise the problem of survival selection, perhaps weakening the association between aPoe and mortality. However, in a previous study of the Danish 1905 cohort, we did not find any attenuation of the aPoe and mortality association with age (3), on the contrary, although those findings did not exclude the possibility that the association was even stronger at younger ages than the ones studied here. Cognitive function may be considered an intermediate factor in the causal chain between aPoe genotype and mortality. Still, in the present study, stratification of the analysis by cognitive function examining the separate effect of aPoe genotype within strata gave similar results. For the individual aPoe genotypes studied here, no significant differences in mortality risk were found for persons with low or high cognitive score.
+
+In conclusion, in this study, we did not find an overall protective effect of the aPoe ε2 allele on mortality among the oldest old, but we found a 22% increased mortality risk for aPoe ε4 allele carriers. The aPoe ε2 allele has a pro- tective effect on cognitive decline among the oldest old.
+
+Figure 1. Cumulative mortality rates over age for different aPoe genotypes.
+
+High cognitive score Low cognitive score All Men Women 1.8 1.8 1.8 1.4 1.4 1.4 1 1 1 0.6 0.6 0.6 0.2 0.2 0.2 APOE ε22 + ε23 APOE ε34 + ε44 APOE ε22 + ε23 APOE ε34 + ε44 APOE ε22 + ε23 APOE ε34 + ε44 ksir
+
+from http://biomedgerontology.oxfordjournals.org/ at Bibliotheque de l'Universite Laval on July 13, 2014
+
+Figure 2. Relative risk of dying when compared with the aPoe ε33 diplotype. Vertical lines on bars are 95% confidence intervals.
+
+APOE (cid:31)2 carriers APOE (cid:31)4 carriers A B C Cognitive function Fluency task Forward digit span 4 4 4 3 3 3 2 2 2 1 1 1 0 0 0 1998 2001 2003 2005 1998 2001 2003 2005 1998 2001 2003 2005 Study wave Study wave Study wave D E F Backward digit span Immediate recall of 12 items Delayed recall of 12 items 4 4 4 3 3 3 2 2 2 1 1 1 0 0 0 1998 2001 2003 2005 1998 2001 2003 2005 1998 2001 2003 2005 Study wave Study wave sddOoitar sddO       ‘002 Onn Onn? Onn  002 Onn Onn? 9onnE   00g 9nNN4 Onn ONNK  00g 9nNN4 Onn 9ONNE  49002 9n04 9nNn2 9nNNE 400  oa 9004 Nn? Onn  oa 9004 Nn? 9NnNE  49002 9nNN4 Onn 9NnNE  00g 9nNN4 Onn  00g 9nNN4 Onn          00g 9004 9Nn2 9ONNK  00g 9004 9Nn2 9ONNE
+
+at Bibliotheque de l'Universite Laval on July 13, 2014
+
+Figure 3. Odds ratio for low cognitive score and its components over study waves when compared with the aPoe ε33 diplotype. Vertical lines on bars are 95% confidence intervals.
+
+Bathum L, Christiansen L, Jeune B, Vaupel J, M
+
+ue M, Christensen K. Apolipoprotein e genotypes: relationship to cognitive functioning, cognitive decline, and survival in nonagenarians. J am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Engberg H, Christensen K, Andersen-Ranberg K, Jeune B. Cohort changes in cognitive function among Danish centenarians. A compar- ative study of
+
+birth cohorts born in
+
+and
+
+Dement Geriatr cogn Disord.
+
+;
+
+:
+
+–
+
+Nybo H, Gaist D, Jeune B, et al. The Danish
+
+cohort: a genetic- epidemiological nationwide survey. J aging health.
+
+;
+
+:
+
+–
+
+M
+
+ue M, Christensen K. The heritability of level and rate-of-change in cognitive functioning in Danish twins aged
+
+years and older. exp aging Res.
+
+;
+
+:
+
+–
+
+M
+
+ue M, Christensen K. The heritability of cognitive functioning in very old adults: evidence from Danish twins aged
+
+years and older. Psychol aging.
+
+;
+
+:
+
+–
+
+Pedersen CB, Gøtzsche H, Møller JO, Mortensen PB. The Danish Civil Registration System. A cohort of eight million persons. Dan Med Bull.
+
+;
+
+:
+
+–
+
+Breslow NE, Day NE. Statistical Methods in cancer Research. The Design and analysis of cohort Studies, Vol. II. Lyon, France: International Agency for Research on Cancer;
+
+Corder EH, Lannfelt L, Viitanen M, et al. Apolipoprotein E genotype determines survival in the oldest old (
+
+years or older) who have good cognition. arch neurol.
+
+;
+
+:
+
+–
+
+Hayden KM, Zandi PP, Lyketsos CG, et al. Apolipoprotein E genotype and mortality: findings from the Cache County Study. J am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Tilvis RS, Strandberg TE, Juva K. Apolipoprotein E phenotypes, dementia and mortality in a prospective population sample. J am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Frisoni GB, Louhija J, Geroldi C, Trabucchi M. Longevity and the ε
+
+allele of apolipoprotein E: the Finnish Centenarians Study. J Gerontol a Biol Sci Med Sci.
+
+;
+
+:M
+
+–M
+
+Koivisto AM, Lempiäinen P, Koivisto K, et al. Apolipoprotein E phenotype alone does not influence survival in Alzheimer’s dis- ease: a population-based longitudinal study. neuroepidemiology.
+
+;
+
+:
+
+–
+
+Slooter AJ, Cruts M, Van Broeckhoven C, Hofman A, van Duijin CM. Apolipoprotein E and longevity: the Rotterdam Study. J am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Feskens EJ, Havekes LM, Kalmijn S, de Knijff P, Launer LJ, Kromhout D. Apolipoprotein e
+
+allele and cognitive decline in elderly men. BMJ.
+
+;
+
+:
+
+–
+
+Skoog I, Hesse C, Aevarsson O, et al. A population study of ap
+
+genotype at the age of
+
+: relation to dementia, cerebrovascular dis- ease, and mortality. J neurol neurosurg Psychiatr.
+
+;
+
+:
+
+–
+
+Ewbank DC. Mortality differences by APOE genotype estimated from demographic synthesis. Genet epidemiol.
+
+;
+
+:
+
+–
+
+Louhija J, Viitanen M, Agüero-Torres H, Tilvis R. Survival in Finnish centenarians in relation to apolipoprotein E polymorphism. J am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Nicoll JA, Savva GM, Stewart J, et al. Association between APOE genotype, neuropathology and dementia in the older population of England and Wales. neuropathol appl neurobiol.
+
+;
+
+:
+
+–
+
+Love S, Siew LK, Dawbarn D, Wilcock GK, Ben-Shlomo Y, Allen SJ. Premorbid effects of APOE on synaptic proteins in human temporal neocortex. neurobiol aging.
+
+;
+
+:
+
+–
+
+Funding
+
+This work was supported by the INTERREG 4 A programme Syddanmark-Schleswig-K.E.R.N 19-1.5-08/16052. (by EU funds from the European Regional Development Fund).
+
+References
+
+Herskind AM, M
+
+ue M, Holm NV, Sørensen TI, Harvald B, Vaupel JW. The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+-
+
+hum Genet.
+
+;
+
+:
+
+–
+
+Skytthe A, Pedersen NL, Kaprio J, et al. Longevity studies in Geno
+
+Utwin. Twin Res.
+
+;
+
+:
+
+–
+
+Jacobsen R, Martinussen T, Christiansen L, et al. Increased effect of the Ap
+
+gene on survival at advanced age in healthy and long-lived Danes: two nationwide cohort studies. aging cell.
+
+;
+
+:
+
+–
+
+Hjelmborg J
+
+, Iachine I, Skytthe A, et al. Genetic influence on human lifespan and longevity. hum Genet.
+
+;
+
+:
+
+–
+
+Christensen K, Johnson TE, Vaupel JW. The quest for genetic deter- minants of human longevity: challenges and insights. nat Rev Genet.
+
+;
+
+:
+
+–
+
+Corder EH, Saunders AM, Strittmatter WJ, et al. Gene dose of apolipoprotein E type
+
+allele and the risk of Alzheimer’s disease in late onset families. Science.
+
+;
+
+:
+
+–
+
+Utermann G, Hardewig A, Zimmer F. Apolipoprotein E phenotypes in patients with myocardial infarction. hum Genet.
+
+;
+
+:
+
+–
+
+Vogt MT, Cauley JA, Kuller LH. Apolipoprotein E phenotype, arterial disease, and mortality among older women: the study of osteoporotic fractures. Genet epidemiol.
+
+;
+
+:
+
+–
+
+Wilson PW, Myers RH, Larson MG, Ordovas JM, Wolf PA, Schaefer EJ. Apolipoprotein E alleles, dyslipidemia, and coronary heart dis- ease. The Framingham Offspring Study. J
+
+a.
+
+;
+
+:
+
+–
+
+Berlau DJ, Corrada MM, Head E, Kawas CH. APOE ε
+
+is associated with intact cognition but increased Alzheimer pathology in the oldest old. neurology.
+
+;
+
+:
+
+–
+
+Eichner JE, Dunn ST, Perveen G, Thompson DM, Stewart KE, Stroehla BC. Apolipoprotein E polymorphism and cardiovascular dis- ease: a H
+
+E review. am J epidemiol.
+
+;
+
+:
+
+–
+
+Rosvall L, Rizzuto D, Wang HX, Winblad B, Graff C, Fratiglioni L. APOE-related mortality: effect of dementia, cardiovascular disease and gender. neurobiol aging.
+
+;
+
+:
+
+–
+
+Huang X, Chen PC, Poole C. APOE-ε
+
+allele associated with higher prevalence of sporadic Parkinson disease. neurology.
+
+;
+
+:
+
+–
+
+Benjamin R, Leake A, M
+
+rthur FK, et al. Protective effect of APOE ε
+
+in Alzheimer’s disease. lancet.
+
+;
+
+:
+
+Corder EH, Saunders AM, Risch NJ, et al. Protective effect of apoli- poprotein E type
+
+allele for late onset Alzheimer disease. nat Genet.
+
+;
+
+:
+
+–
+
+Lippa CF, Smith TW, Saunders AM, Hulette C, Pulaski-Salo D, Roses AD. Apolipoprotein ε
+
+and Alzheimer’s disease: genotype influences pathologic phenotype. neurology.
+
+;
+
+:
+
+–
+
+West HL, Rebeck GW, Hyman BT. Frequency of the apolipoprotein ε
+
+allele is diminished in sporadic Alzheimer disease. neurosci lett.
+
+;
+
+:
+
+–
+
+Helkala EL, Koivisto K, Hanninen T, et al. Memory functions in human subjects with different apolipoprotein E phenotypes during a
+
+-year population-based follow-up study. neurosci lett.
+
+;
+
+:
+
+–
+
+Wilson RS, Bienias JL, Berry-Kravis E, Evans DA, Bennett DA. The apolipoprotein ε
+
+allele and decline in episodic memory. J neurol neurosurg Psychiatr.
+
+;
+
+:
+
+–
+
+Downloaded from http://biomedgerontology.oxfordjournals.org/ at Bibliotheque de l'Universite Laval on July 13, 2014

@@ -1,0 +1,671 @@
+The Frequency of 4 Common Polymorphisms in Nonagenarians, Centenarians, and Average Life Span Individuals
+
+1 1,2 Kolovou, MD, PhD , Vana Kolovou, MSc , 1 1 Vasiliadis, MD, PhD , Vasiliki Giannakopoulou, MD , 3 4 Mihas, MSc, PhD , Helen Bilianou, MD , 5 1 Kollia, MSc , Evaggelia Papadopoulou, MSc, PhD 1 6 Marvaki, MD , Georgos Goumas, MD , 7 8 Kalogeropoulos, MD , Sotiria Limperi, MD, PHD , 9 1 Katsiki, MD, PhD , and Sophie Mavrogeni, MD, PhD
+
+1 1,2 Kolovou, MD, PhD , Vana Kolovou, MSc , 1 1 Vasiliadis, MD, PhD , Vasiliki Giannakopoulou, MD 3 4 Mihas, MSc, PhD , Helen Bilianou, MD , 5 Kollia, MSc , Evaggelia Papadopoulou, MSc, PhD 1 6 Marvaki, MD , Georgos Goumas, MD , 7 8 Kalogeropoulos, MD , Sotiria Limperi, MD, PHD , 9 1 Katsiki, MD, PhD , and Sophie Mavrogeni, MD, PhD
+
+Abstract
+
+Single nucleotide polymorphisms of angiotensin-converting enzyme (ACE) such as rs1799752, nuclear factor kappa B (NFkB) such as rs28362491 and cholesteryl ester transport protein (CETP) such as rs708272 (TaqB1) and rs5882 (I405V) were evaluated in nonagenarians, centenarians, and average life span individuals (controls). The study population (n ¼ 307; 190 nonagenarians, 12 centenarians and 105 middle-aged controls) was genotyped for ACE, NFkB, and CETP genetic variants. The age of nonagenarian and centenarian group ranged between 90 and 111 years; centenarians and controls age ranged from 99 to 111, and from 18 to 80 years, respectively. The I carriers of ACE I/D gene were fewer in nonagenarians compared to centenarians (37.6% vs 62.5%, P ¼ .016). The I carriers of ACE gene were more frequent in centenarians compared to controls (62% vs 41%, P ¼ .045). No differences in frequency of common NFkB and CETP genotypes between patients with exceptional longevity and middle-aged patients were observed.
+
+Keywords
+
+centenarians, single nucleotide polymorphisms, angiotensin-converting enzyme, nuclear factor kappa B, choles- ester transport protein
+
+Introduction
+
+During the last decades, the survival of elderly people improved significantly and thus the centenarians were becom- ing the fastest growing population group.1 Human life span is dependent on environmental, genetic, and accidental factors.2 Genetic factors contribute to the variation of human life span by around 25% which is believed to be more profound after 85 years of age.3 According to the genetic influence to longev- ity, the nonagenarians and centenarians may represent a partic- ularly informative study population in the search for traits of genes associated with longevity. Several research teams are working on genes involved in oxidative stress, lipid and glucose metabolism, inflammation, DNA damage and repair, axis of growth hormone and insulin-like growth factor, and others.4 The results are still conflicting and it may be suggested that the combination of numerous fixed genetic variants will be necessary for someone to achieve exceptional longevity.
+
+Department, Onassis Cardiac Surgery Center Athens, Greece Immunology Laboratory, Onassis Cardiac Surgery Center
+
+Corresponding Author:
+
+Genovefa Kolovou, Cardiology Department, Onassis Cardiac Surgery Center, 356 Sygrou Ave 176 74 Athens, Greece. Email: genovefa@kolovou.com
+
+association studies published by the National Cancer Institute- National Human Genome Research Institute (NCI-NHGRI) Working Group on Replication in Association Studies14 indicat- ing time period and location of participant recruitment, success rate for DNA acquisition, internal control samples (from the same DNA), and sample tracking methods.
+
+Numerous hypotheses have been proposed to explain the biological mechanisms of longevity.5 Today’s centenarians have survived nearly the double their life expectancy at birth (the life expectancy in 1912 was 51 years for men and 56 years for women) and have often been spared from age-related diseases, specifically cardiovascular disease, Alzheimer disease, diabetes mellitus, and cancer.6
+
+Written consent was obtained from each participant. The study protocol was approved by the institutional ethics commit- tee (Onassis Cardiac Surgery Center, Athens, Greece) and was in accordance with the Declaration of Helsinki for Human Research of 1974 (last modified in 2000). All study participants were of Caucasian origin and descent for (cid:2)3 generations.
+
+Because of the strong heritability of those survivals, we are investigating the gene variants that could explain the extended life of nonagenarians and centenarians compared to middle- aged individuals in the Hellenic population.
+
+The cholesteryl ester transport protein (CETP) may have pro- or antiatherogenic properties depending upon the lipid- metabolic setting.7 High-density lipoprotein (HDL) particles are influenced by CETP activity; CETP promotes the exchange of cholesteryl esters for triglycerides (TGs) between HDL par- ticles and TG-rich lipoproteins.8 Ordovas et al9 suggested that increased HDL cholesterol levels resulting from lower CETP activity seems to be associated with a lower risk of coronary heart disease in men.
+
+Control Group (n ¼ 105). The inclusion criteria for this group were (1) age 18 to <80 years, (2) no personal history of coronary artery disease, diabetes mellitus, thyroid and liver disease, high alcohol consumption, professional athleticism and any chronic disease, and (3) no family history of longevity ((cid:2)90 years).
+
+Nonagenarians and Centenarians (n ¼ 202). The inclusion criteria for these groups were the age (cid:2)90 to 98 years in Non- agenarians and (cid:2)99 years in centenarians. No other inclusion and exclusion criteria were applied.
+
+The renin-angiotensin-aldosterone system (RAAS) also plays a significant role in the maintenance of cardiovascular homeostasis. The angiotensin-converting enzyme (ACE) is an important gene of the RAAS that has been evaluated in the pathogenesis of hypertension, coronary artery disease, heart failure, and recently of longevity. Furthermore, the nuclear factor kappa B (NFkB) gene is a regulator of the genes that encode cytokines and cell-adhesion molecules and induce the expression of growth factors and other factors involved in stress responses, cell proliferation, and cell cycle progression.10 Lee et al11 reported increased levels of NFkB in senescent cells in association with increased oxidative stress. Furthermore, Leychenko et al12 demonstrated that NFkB activation plays a role in mediating vascular endothelial growth factor and coor- dinates the hypertrophic response of cardiomyocytes during pressure overload-induced hypertrophy (hypertension and heart disease are influencing aging). Potentially, the NFkB gene should be involved in longevity as well, since it is an essential integrator of stress response and cell survival.13
+
+Genotyping
+
+Genotyping was performed specifically for research purposes. Extraction of genomic DNA was performed on leukocytes separated from whole blood using a standard method with Flex- iGene DNA kit (Qiagen, GmbH, Germany). The polymorphism -94ins/delATTG (rs28362491) within the NFKB1 gene was genotyped using polymerase chain reaction (PCR) and restric- tion fragment length polymorphism (RFLP) analysis, as described by Glas et al.15 The results of restriction analyses are 3 possible genotypes analyzed by electrophoresis on a 4% agar- ose gel stained with ethidium bromide. The ins/ins (ATTGA2/ ATTGA2) genotype is characterized by fragment sizes 93 base pairs (bp) and 23 bp, the del/del (ATTGA1/ATTGA1) geno- type by fragment size 112 bp, whereas the heterozygous ins/del has all the fragments.
+
+The aim of the present study was to investigate any differ- ences in the frequency of common gene polymorphisms in non- agenarians, centenarians, and in middle-aged individuals (controls). Thus, we evaluated the single nucleotide poly- morphisms (SNPs) of CETP in chromosome 16 such as rs708272 (TaqB1) in position 56996288 (genotypes: B1B1, B1B2, B2B2) and rs5882 (I405 V) in position 57016092 (geno- types: II, IV, VV), ACE in chromosome 17 such as rs1799752 [Ins(I)/Del(D) polymorphism] in position 61565890 (geno- types: II, ID, DD), and NFkB in chromosome 4, such as rs28362491 [-94ins/delATTG (W/D)] in position 103422155 (genotypes: Ins/Ins, Ins/Del, Del/Del).
+
+The ACE I/D polymorphism within the ACE gene was performed as described by Rigat et al.16 The PCR product is a fragment of 190 bp when the insertion is absent and 490 bp when the insertion is present; these were analyzed by electro- phoresis on a 4% agarose gel stained with ethidium bromide.
+
+Statistical Analysis
+
+Age was not normally distributed according to the Shapiro-Wilk test, and thus it is described as median and interquartile range (75th-25th percentile). All categorical variables are reported as absolute (n) and relative (%) frequencies. The associations between the studied variables were evaluated using chi-square test. All tests were 2-sided and the level of significance was set
+
+Patients and Methods
+
+The current study was designed and performed in agreement with the recommendations of the human genotype–phenotype
+
+Table 2. CETP, ACE, and NFkB Genotype Frequencies of the Control and Nonagenarian Groups.
+
+Table 1. Study Participants’ Characteristics Including CETP, ACE, and NFkB Genotype Frequencies.
+
+n % Age (years) 18 to <80 105 34.2% (cid:2)90 to 98 190 61.9% (cid:2)99 to 111 12 3.9% Gender Men 122 39.0% Women 191 61.0% CETP TaqB1 B1B1 102 33.0% B1B2 147 47.6% B2B2 60 19.4% CETP I405V II 122 40.9% IV 144 48.3% VV 32 10.7% ACEI/D II 54 17.7% ID 134 43.9% DD 117 38.4% NFkB[-94ins/delATTG (W/D) ins/ins 106 47.7% ins/del 94 42.3% del/del 22 9.9%
+
+% <80 (cid:2)90 Age (years) N % N % P CETP TaqB1 B1B1 38 36.2 63 32.1 .439 3.9% B1B2 45 42.9 99 50.5 B2B2 22 21.0 34 17.3 CETP I405V II 43 44.3 75 38.5 .584 IV 45 46.4 97 49.7 VV 9 9.3 23 11.8 ACE I/D II 18 18.0 35 17.7 .841 ID 46 46.0 85 42.9 DD 36 36.0 78 39.4 NFkB[-94ins/delATTG (W/D) Ins/Ins 48 49.5 55 46.6 .912 Ins/Del 40 41.2 51 43.2 Del/Del 9 9.3 12 10.2 Alleles CETP TaqB1 B1 121 57.6 225 57.4 .958 B2 89 42.4 167 42.6 CETP I405V 9.9% I 131 67.5 247 63.3 .318 geno- V 63 32.5 143 36.7 VV); ACE, ACE I/D II, ID, DD]); I 82 41.0 155 39.1 .662 Ins/Ins, D 118 59.0 241 60.9 NFkB[-94ins/delATTG (W/D) Ins 136 70.1 161 68.2 .674 Del 58 29.9 75 31.8
+
+Abbreviations: CETP, cholesteryl ester transport protein (CETP TaqB1, geno- types: B1B1, B1B2, B2B2 and CETP I405 V, genotypes: II, IV, VV); ACE, angiotensin-converting enzyme (ACE I/D [Ins(I)/Del(D), genotypes: II, ID, DD]); NFkB, nuclear factor kappa B (NFkB[-94ins/delATTG (W/D), genotypes: Ins/Ins, Ins/Del, Del/Del]).
+
+at .05. Data were analyzed using STATA statistical software (Version 9.0, Stata Corporation, College Station, Texas).
+
+Abbreviations: CETP, cholesteryl ester transport protein (CETP TaqB1, geno- types: B1B1, B1B2, B2B2 and CETP I405 V, genotypes: II, IV, VV); ACE, angiotensin-converting enzyme (ACE I/D [Ins(I)/Del(D), genotypes: II, ID, DD]); NFkB, nuclear factor kappa B (NFkB[-94ins/delATTG (W/D), genotypes: Ins/Ins, Ins/Del, Del/Del]).
+
+Results
+
+There were no failures in sample collection, DNA acquisition, or genotyping procedures. Genotypic and allele frequencies did not differ by gender in any of the study groups (all P > .05). Table 1 shows the characteristics of the study participants including CETP, ACE, and NFkB genotype frequencies.
+
+Limitations
+
+No adjustment for inflation of type I error due to multiple comparisons was made as a result of their relatively low number.
+
+between 90 and 111 years (median + interquartile range: 93 + 4 years); 12 individuals were centenarians (from 100 to 111 years). The median age of the control group (18-80 years) was 60 + 21 years.
+
+Discussion
+
+We studied 3 SNPs in 4 candidate genes in pathways related to lipoprotein metabolism, hypertension, and stress response, as these are closely related to aging.18-20 We found that the I car- riers of ACE gene were fewer in nonagenarians compared to centenarians and more frequent in centenarians compared to controls.
+
+Nonagenarian and Centenarian groups
+
+The I carriers of ACE I/D gene were fewer in nonagenarians compared to centenarians (37.6% vs 62.5%, P ¼ .016; Tables 2 and 3).
+
+There are many controversial studies reporting that various CETP polymorphisms may be involved in longevity and ather- osclerosis.21 In the West of Scotland Coronary Prevention Study (WOSCOPS) the B2 homozygous had a 30% reduced risk of a cardiovascular event compared to B1 homozygotes.22 Few years ago, our group23 reported a positive association between B1 genotype and postprandial lipemia which normally
+
+Centenarian and Control groups
+
+The I carriers of ACE gene were more frequent in centenarians compared to controls (62% vs 41%, P ¼ .045; Tables 2 and 3).
+
+frequency of NFkB gene polymorphism between the groups. To our knowledge, until now, no other study had evaluated NFkB gene polymorphism and longevity.
+
+Table 3. ACE I/D Allele Frequency in Control, Nonagenarian, and Centenarian Groups.a
+
+ACE I/D Alleles I D Total Age <80 Count 82 118 200 % within age 41.0% 59.0% 100.0% % within ACE I/D allele 34.6% 32.9% 33.6% (cid:2)90 Count 140 232 372 % within age 37.6% 62.4% 100.0% % within ACE I/D allele 59.1% 64.6% 62.4% (cid:2)99 Count 15 9 24 % within age 62.5% 37.5% 100.0% % within ACE I/D allele 6.3% 2.5% 4.0% Total Count 237 359 596 % within age 39.8% 60.2% 100.0% % within ACE I/D allele 100.0% 100.0% 100.0%
+
+in some cohorts of European centenarians, including France,36 United Kingdom,37 and Italy38 compared to their younger ethnically matched referents. Recently, Petranovic´ et al39 reported that the DD genotype was twice as frequent in 80þ cohort compared to the general population of Croatia. However, Fiuza-Luces et al40 reported no differences in the allelic or genotypic frequencies between controls and centenarians in a Spanish population. This is in agreement with Han Chinese centenarians,41 a French population,42 and Asian centenarians.43
+
+more frequent in centenarians compared to nonagenarians and controls. The finding that D allele is correlated to longevity is paradoxical and difficult to explain especially as many studies reported that the D allele is associated with increased risk of myocardial infarction and coronary heart disease.44 In contrast, the I allele was found to correlate with a lower presence of heart failure (which normally increases with age) compared to the D allele.45 Also, Abchee et al46 reported a protective role of the ACE I allele in individuals who may be at risk of devel- oping coronary artery disease. However, Yang et al47 did not find any association of ACE gene polymorphism and longevity in a Han Chinese population. Similarly, Blanche´ et al48 in a French centenarian cohort did not confirm the ACE gene asso- ciation with longevity and discussed the risk of reporting false positive associations.
+
+Abbreviations: ACE, angiotensin-converting enzyme; ACE I/D, ACE Ins(I)/ Del(D) alleles. a P ¼ .045 centenarian versus control groups; P ¼ .016 nonagenarian versus centenarian groups.
+
+a P ¼ .045 centenarian versus control groups; P ¼ .016 nonagenarian versus centenarian groups.
+
+increases with age; the definition, assessment, and clinical implications of postprandial lipemia were recently discussed by an expert panel.24-26 Barzilai et al27 suggested that excep- tional longevity was associated with approximately a 3-fold increased frequency of homozygosityV of CETP I405 V gene. Also, Soerensen et al28 found that CETP gene polymorphism is associated with longevity in oldest-old (ages 92-93) Danes population.
+
+Females live longer than males. Vina et al49 reported that estrogens and phytoestrogens can upregulate the expression of antioxidant enzymes via the estrogen receptor and mitogen-activated protein kinases activation, which in turn activate the NFkB signaling pathway, resulting in the upregu- lation of the expression of longevity-related genes. When cate- gorized by gender, no significant associations between genotypic or allele frequencies and age groups were observed.
+
+In this study, we have not found any differences in geno- types/allele frequency of both (TaqB1 and I405 V) CETP gene polymorphisms between groups. Similarly, Cellini et al29 did not confirm the association between the CETPI405 V variation and the healthy aging phenotype described in the Ashkenazi Jewish population and suggested that other gene environment interactions contribute to longevity. Also, Novelli et al30 except for APOE gene did not find any association with longevity and gene polymorphisms (including CETP I405 V) in a large cohort of long-living individuals and their controls, pointing to the need of larger populations for case-control studies in extreme longevity.
+
+Nowadays, no single or fixed trait of genes has enough evidence for being involved in the aging process.50 In contrast, there is some evidence that several genes may influence long- evity in humans.50,51 Furthermore, the genetic studies of human life span have several advantages and disadvantages. Human genetic studies have various study designs such as linkage anal- ysis (genetic mapping in humans), candidate-gene association studies, and longitudinal studies. The difficulty with linkage analysis is that it requires large studies. Concerning the candidate-gene association studies, they usually compare the genotypes of patients with exceptional longevity with younger individuals and also have similar limitations, the most serious being the lack of replication. In the longitudinal studies, the study cohort is followed for years and thus these studies are less prone to biases than candidate-gene association studies.
+
+According to NFkB gene polymorphism, some studies have suggested that it is involved in aging. Helenius et al31 and Korhonen et al32 reported that NFkB DNA binding activity increases with age in rodent tissues. Also, Adler et al33 verified that NFkB DNA binding activity is induced with age in mouse skin, heart, kidney, liver, and spleen. Bernard et al34 induced senescence in primary human keratinocytes. The NFkB is play- ing a direct role in aging, in particular aging-induced gene expression and cellular senescence. Wang et al35 in their meta- analysis found that the Del/DelNFkB gene polymorphism might be associated with a decreased cancer risk, especially for Asian populations. This may have potential influence on human life span, since the risk of cancer increases with age. However, in our study, we did not find any difference in genotypes/allele
+
+The current study is a candidate-gene association study that compared nonagenarians and centenarians with younger individuals with no possible prediction of their future longev- ity. Also, the number of participants is relatively small but
+
+we should keep in mind that the nonagenarians and centenar- ians are usually not very enthusiastic to visit hospitals unless it is an urgent healthy problem.52 Finally, we did not have ACE and CETP levels measured in our cohorts. On the other hand, our study has some strength. We performed a second PCR to avoid a misclassification of heterozygotes as homozygotes. In addition, we studied a reasonably homogenous group of individuals according to geographical and ethnic origin (the majority of nonagenarians and centenarians were from Athens).
+
+hypertrophy activates NF
+
+-mediated VEGF secretion in adult cardiomyocytes. PL
+
+One.
+
+;
+
+(
+
+):e
+
+Pahl HL. Activators and target genes of Rel/NF-kapp
+
+transcrip- tion factors. Oncogene.
+
+;
+
+(
+
+):
+
+-
+
+Chanock SJ, Manolio T, Boehnke M, et al. Replicating genotype- phenotype associations. Nature.
+
+;
+
+(
+
+):
+
+-
+
+Glas J, To¨ro¨k HP, Tonenchi L, et al. Role of the NFKB
+
+-
+
+ins/ de
+
+TTG promoter polymorphism in IBD and potential interac- tions with polymorphisms in the CARD
+
+/NOD
+
+, IKBL, and IL-
+
+RN genes. Inflamm Bowel Dis.
+
+;
+
+(
+
+):
+
+-
+
+Rigat B, Hubert C, Corvol P, Soubrier F. PCR detection of the insertion/deletion polymorphism of the human angiotensin con- verting enzyme gene (DCP
+
+) (dipeptidylcarboxypeptidase
+
+). Nucleic Acids Res.
+
+;
+
+(
+
+):
+
+Gudnason V, Kakko S, Nicaud V, et al. Cholesteryl ester transfer protein gene effect on CETP activity and plasma high-density lipoprotein in European populations. The EARS Group. Eur J Clin Invest.
+
+;
+
+(
+
+):
+
+-
+
+Kolovou G, Kolovou V, Vasiliadis I, Wierzbicki AS, Mikhailidis DP. Ideal lipid profile and genes for an extended life span. Curr Opin Cardiol.
+
+;
+
+(
+
+):
+
+-
+
+Conti S, Cassis P, Benigni A. Aging and the renin-angiotensin system. Hypertension.
+
+;
+
+(
+
+):
+
+-
+
+Calabrese V, Cornelius C, Dinkova-Kostova AT, et al. Cellular stress responses, hermetic phytochemicals and vitagenes in aging and longevity. Biochim Biophys Acta.
+
+;
+
+(
+
+):
+
+-
+
+Kolovou G, Stamatelatou M, Anagnostopoulou K, et al. Choles- teryl ester transfer protein gene polymorphisms and longevity syndrome. Open Cardiovasc Med J.
+
+;
+
+:
+
+-
+
+Freeman DJ, Samani NJ, Wilson V, et al. A polymorphism of the cholesteryl ester transfer protein gene predicts cardiovascular events in non-smokers in the West of Scotland coronary preven- tion study. Eur Heart J.
+
+;
+
+(
+
+):
+
+-
+
+Kolovou GD, Anagnostopoulou KK, Salpea KD, et al. Postpran- dial lipemia in postmenopausal women with high fasting high- density lipoprotein cholesterol. Am J Med Sci.
+
+;
+
+(
+
+):
+
+-
+
+Kolovou GD, Mikhailidis DP, Nordestgaard BG, Bilianou H, Panotopoulos G. Definition of postprandial lipaemia. Curr Vasc Pharmacol.
+
+;
+
+(
+
+):
+
+-
+
+Kolovou GD, Mikhailidis DP, Kovar J, et al. Assessment and clin- ical relevance of non-fasting and postprandial triglycerides: an expert panel statement. Curr Vasc Pharmacol.
+
+;
+
+(
+
+):
+
+-
+
+Mihas C, Kolovou GD, Mikhailidis DP, et al. Diagnostic value of postprandial triglyceride testing in healthy subjects: a meta-anal- ysis. Curr Vasc Pharmacol.
+
+;
+
+(
+
+):
+
+-
+
+Barzilai N, Atzmon G, Schechter C, et al. Unique lipoprotein phenotype and genotype associated with exceptional longevity.
+
+Conclusions
+
+The present study reported that there are differences in the frequency of alleles in the oldest 2 decades (nonagenarians and centenarians) compared to middle-aged patients. Understand- ing aging at a molecular level could provide an option to slow this process and extend life span.
+
+Declaration of Conflicting Interests
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding
+
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+References
+
+Oeppen J, Vaupel JW. Demography. Broken limits to life expectancy. Science.
+
+;
+
+(
+
+):
+
+-
+
+Park SK. Genomic approaches for the understanding of aging in model organisms. BMB Rep.
+
+;
+
+(
+
+):
+
+-
+
+Hjelmborg J, Iachine I, Skytthe A, et al. Genetic influence on human lifespan and longevity. Hum Genet.
+
+;
+
+(
+
+):
+
+-
+
+Franceschi C, Olivieri F, Marchegiani F, et al. Genes involved in immune response/inflammation, IGF
+
+/insulin pathway and response to oxidative stress play a major role in the genetics of human longevity: the lesson of centenarians. Mech Ageing Dev.
+
+;
+
+(
+
+):
+
+-
+
+Kirkwood TB. A systematic look at an old problem. Nature.
+
+;
+
+(
+
+):
+
+-
+
+Barzilai N, Shuldiner AR. Searching for human longevity genes: The future history of gerontology in the post-genomic era. J Gerontol A Biol Sci Med Sci.
+
+;
+
+(
+
+):M
+
+-M
+
+Tsai MY, Li N, Sharrett AR, et al. Associations of genetic variants in ATP-binding cassette A
+
+and cholesteryl ester transfer protein and differences in lipoprotein subclasses in the multi-ethnic study of atherosclerosis. Clin Chem.
+
+;
+
+(
+
+):
+
+-
+
+Kolovou GD, Anagnostopoulou KK, Daskalopoulou SS, Mikhai- lidis DP, Cokkinos DV. Clinical relevance of postprandial lipemia. Curr Med Chem.
+
+;
+
+(
+
+):
+
+-
+
+Ordovas JM, Cupples LA, Corella D, et al. Association of choles- teryl ester transfer protein-Ta
+
+B polymorphism with variations in lipoprotein subclasses and coronary heart disease risk: the Framingham study. Arterioscler Thromb Vasc Biol.
+
+;
+
+(
+
+):
+
+-
+
+Spanish cohort. J Renin Angiotensin Aldosterone Syst.
+
+;
+
+(
+
+):
+
+-
+
+Yang JK, Gong YY, Xie L, et al. Lack of genetic association between the angiotensin-converting enzyme gene insertion/dele- tion polymorphism and longevity in a Han Chinese population. J Renin Angiotensin Aldosterone Syst.
+
+;
+
+(
+
+):
+
+-
+
+Blanche´ H, Cabanne L, Sahbatou M, Thomas G. A study of French centenarians: are ACE and APOE associated with longev- ity? C R Acad Sci III.
+
+;
+
+(
+
+):
+
+-
+
+Choi YH, Kim JH, Kim DK, et al. Distributions of ACE and APOE polymorphisms and their relations with dementia status in Korean centenarians. J Gerontol A Biol Sci Med Sci.
+
+;
+
+(
+
+):
+
+-
+
+Cambien F, Poirier O, Lecerf L, et al. Deletion polymorphism in the gene for angiotensin-converting enzyme is a potent risk factor for myocardial infarction. Nature.
+
+;
+
+(
+
+):
+
+-
+
+Chang SN, Lin JW, Juang JM, Tsai CT, Hwang JJ, Chiang FT. Association between genetic polymorphisms in the renin- angiotensin system and systolic heart failure revised by a propen- sity score-based analysis. Cardiology.
+
+;
+
+(
+
+):
+
+-
+
+Abchee A, El-Sibai M, Youhanna S, et al. The I allele of the angiotensin converting enzyme I/D polymorphism confers protec- tion against coronary artery disease. Coron Artery Dis.
+
+;
+
+(
+
+):
+
+-
+
+Yang JK, Gong YY, Xie L, et al. Lack of genetic association between the angiotensin-converting enzyme gene insertion/ deletion polymorphism and longevity in a Han Chinese popu- lation. J Renin Angiotensin Aldosterone Syst.
+
+;
+
+(
+
+):
+
+-
+
+Blanche´ H, Cabanne L, Sahbatou M, Thomas G. A study of French centenarians: are ACE and APOE associated with longev- ity? C R Acad Sci III.
+
+;
+
+(
+
+):
+
+-
+
+Vina J, Gambini J, Lopez-Grueso R, Abdelaziz KM, Jove M, Borras C. Females live longer than males: role of oxidative stress. Curr Pharm Des.
+
+;
+
+(
+
+):
+
+-
+
+Wheeler HE, Kim SK. Genetics and genomics of human ageing. Philos Trans R Soc Lond B Biol Sci.
+
+;
+
+(
+
+):
+
+-
+
+Slagboom PE, Beekman M, Passtoors WM, et al. Genomics of human longevity. Philos Trans R Soc Lond B Biol Sci.
+
+;
+
+(
+
+):
+
+-
+
+M
+
+ermott R, Gillespie SM, Nelson D, Newman C, Shah MN. Characteristics and acute care use patterns of patients in a senior living community medical practice. J Am Med Dir Assoc.
+
+;
+
+(
+
+):
+
+-
+
+Soerensen M, Dato S, Tan Q, et al. Evidence from case-control and longitudinal studies supports associations of genetic variation in APOE, CETP, and IL
+
+with human longevity[published online January
+
+,
+
+]. Age (Dordr).
+
+Cellini E, Nacmias B, Olivieri F, et al. Cholesteryl ester transfer protein (CETP) I
+
+V polymorphism and longevity in Italian centenarians. Mech Ageing Dev.
+
+;
+
+(
+
+-
+
+):
+
+-
+
+Novelli V, Viviani Anselmi C, Roncarati R, et al. Lack of replica- tion of genetic associations with human longevity. Biogerontol- ogy.
+
+;
+
+(
+
+):
+
+-
+
+Helenius M, Hanninen M, Lehtinen SK, Salminen A. Changes associated with aging and replicative senescence in the regulation of transcription factor nuclear factor-kappa B. Biochem J.
+
+;
+
+(Pt
+
+):
+
+-
+
+Korhonen P, Helenius M, Salminen A. Age-related changes in the regulation of transcription factor NFkappa B in rat brain. Neurosci Lett.
+
+;
+
+(
+
+):
+
+-
+
+Adler AS, Sinha S, Kawahara TL, Zhang JY, Segal E, Chang HY. Motif module map reveals enforcement of aging by continual NF
+
+activity. Genes Dev.
+
+;
+
+(
+
+):
+
+-
+
+Bernard D, Gosselin K, Monte D, et al. Involvement of Rel/ nuclear factor-kapp
+
+transcription factors in keratinocyte senes- cence. Cancer Res.
+
+;
+
+(
+
+):
+
+-
+
+Wang X, Lu P, Xu L, et al. Updated meta-analysis of NFkapp
+
+-
+
+ins/Delattg promoter polymorphism and cancer risk based on
+
+case-control studies. Asian Pac J Cancer Prev.
+
+;
+
+(
+
+):
+
+-
+
+Schachter F, Faure-Delanef L, Guenot F, et al. Genetic associa- tions with human longevity at the APOE and ACE loci. Nat Genet.
+
+;
+
+(
+
+):
+
+-
+
+Galinsky D, Tysoe C, Brayne CE, et al. Analysis of the apo E/apo C-I, angiotensin-converting enzyme and methylenetetrahydrofo- latereductase genes as candidates affecting human longevity. Atherosclerosis.
+
+;
+
+(
+
+):
+
+-
+
+Seripa D, Franceschi M, Matera MG, et al. Sex differences in the association of apolipoprotein E and angiotensin-converting enzyme gene polymorphisms with healthy aging and longevity: a population-based study from Southern Italy. J Gerontol A Bio
+
+ci Med Sci.
+
+;
+
+(
+
+):
+
+-
+
+Zaj
+
+etranovic´ M, Skaric´-Juric´ T, Smole
+
+arancˇic´ N, et al. Angiotensin-converting enzyme deletion allele is beneficial for the longevity of Europeans. Age (Dordr).
+
+;
+
+(
+
+):
+
+-
+
+Fiuza-Luces C, Ruiz JR, Rodr´ıguez-Romo G, et al. Is the ACE I/D polymorphism associated with extreme longevity? A study on a

@@ -1,0 +1,521 @@
+
+
+Insulin-like growth factor 1 receptor polymorphism rs2229765 and circulating interleukin-6 level affect male longevity in a population-based prospective study (Treviso Longeva− TRELONG)
+
+Diego albani1, Stefano Mazzuco2, Letizia Polito1,3, Sara Batelli1, Gloria Biella1, Fausta Ongaro2, Deborah r Gustafson4, Piero antuono5, Gianbattista Gajo6,7, elisabetta Durante6, Livio caberlotto8, andrea Zanardo8,7, Marinella Siculi8, Maurizio Gallucci9,7& Gianluigi Forloni1
+
+1Department of Neuroscience, “Mario Negri” Institute for Pharmacological Research, via La Masa, Milan, Italy, 2Department Statistics, University of Padova, Via Cesare Battisti, Padova, Italy, 3Golgi Cenci Research Center, P.zza Golgi, Abbiategrasso, 4Neuropsychiatric Epidemiology Unit, Sahlgrenska Academy, University of Gothenburg, Sweden, SUNY-Downstate Medical Center, Brooklyn, NY, USA, 5Dementia Research Center, The Medical College of Wisconsin, West Wisconsin Avenue, Milwaukee, WI, USA, 6Transfusional Department, General Hospital of Treviso, Piazza Ospedale, Treviso, Italy, 7FORGEI, Interdisciplinary Geriatric Research Foundation, Viale Trento Trieste, Treviso, Italy, 8Department of Pathology, and 9Cognitive Impairment General Hospital of Treviso, Piazza Ospedale, Treviso, Italy
+
+longevity is supported in twin-based studies where the individ- ual genome accounted for approximately 25% of lifespan [5,6].
+
+The biochemical basis of longevity has been explored in model organisms like Caenorhabditis elegans, Drosophila and the mouse, leading to the identification of key cell pathways (oxidative stress response, DNA repair, inflammation and energy metabolism) related to successful aging [7,8]. The insulin/insulin like-growth factor 1 (IGF-1) pathway and the pro-inflammatory cytokine network seem to have an impor- tant role in modulating longevity [9–11].
+
+Insulin/IGF-1 signaling (IIS) triggers intracellular down- stream transcription factors as a consequence of a cascade starting from the membrane receptors of insulin and IGF-1 [12]. Biochemical or genetic attenuation of IIS has been associated with increased lifespan, probably due to slow cell growth rate and metabolism [13–15]. In humans, circulating IGF-1 decreases with age and is also modified by sex hor- mones [16–18]. A synonymous polymorphism (rs2229765) on the IGF-1 receptor gene (IGF-1R) [GenBank:NM_000875] consisting of G to A transition at nucleotide 3174 leading to the amino acid change Glu->Glu at position 1043 (E1043E) [GenBank:NP_000876], has been positively associated with longevity in the Italian population [19].
+
+Keywords: IGF-1, IL-6, aging, longevity, inflammation, male genetics
+
+Introduction
+
+Inflammation has a significant and dual role in aging physiology, both as an acute inflammatory response that is beneficial for survival, but also as a chronic inflamma- tory state that often parallels neurodegenerative disorders,
+
+Genetics and the environment influence human longevity. Several works have addressed the role of genetics in excep- tional longevity [1–4], while the influence of genetics on
+
+Correspondence: Diego Albani, MSc, Department of Neuroscience, “Mario Negri” Institute for Pharmacological Research, via La Masa, Milan, Italy. Tel: +390239014594. Fax: +3902 3546277. E-mail: diego.albani@marionegri.it
+
+Plasma IGF-1 and IL-6 assays
+
+autoimmunity and cancer [20,21]. A key pro-inflammatory molecule is interleukin-6 (IL-6) whose circulating level in humans tends to rise over time [22]. IL-6 transcription rate is slowed by the single nucleotide polymorphism (SNP) rs1800795(C/T) located in the IL-6 gene promoter region [GenBank: NM_000600] [23]. The role of rs1800795 in lon- gevity has been explored in the Italian population, with con- troversial results [24–27]. However, a higher IL-6 circulating level is almost invariably a negative predictor of survival [22–28].
+
+Plasma IGF-1 was assayed by sandwich-type enzyme-linked immunosorbent assay (ELISA) (Diagnostic System Laborato- ries, Inc, Webster, TX, USA), according to the manufacturer’s instructions. The kit sensitivity was 10 ng/mL and intra- assay %CV was <10%. Plasma IL-6 was measured by another sandwich-type ELISA (Ultra Sensitive ELISA Kit, Biosource, Camarillo, CA, USA), according to the manufacturer’s instruc- tions. The kit sensitivity was 0.10 pg/mL and intra-assay %CV was between 5 and 10%. Each plasma sample was tested in duplicate.
+
+We assessed the influence of IGF-1R rs2229765, IL-6 rs1800795, circulating IGF-1 and IL-6 on survival curves in a sample of elderly people from Treviso (Italy) who were fol- lowed for seven years from baseline (TRELONG Study), with particular attention to sex-specific patterns.
+
+Statistics
+
+The curves reported in Figures 1 and 2 were plotted by the Kaplan-Meier method. Survival curves were plotted separately by sex and by IL-6 or IGF-1 level. Odds ratios and 95% confidence intervals (CI) were calculated using sex-stratified Cox proportional hazard models, adjusted for age. Multivariate regression analysis was done considering mortality as a dependent outcome. Participants who died within the first three years were excluded from the analyses to control for reverse causality bias. Statistics were obtained by using the “survival” package of R software. Results were considered significant at p < 0.05, using two-tailed tests of significance.
+
+Methods
+
+Population sample recruitment and ethics
+
+The TRELONG study has been described in detail elsewhere [29]. In brief, it started in 2003 in the municipality of Treviso. Participants were systematically sampled from the list of resi- dents at the Registry Office of Treviso, based on an initial plan to include 100 participants per sex and 10-year age group; selection criteria included 125 women and 125 men aged 70–79 years and everyone over 100 years old. Of the 670 eligi- ble, 668 participated (99.7% response rate): 311 men and 357 women, aged 70 years and older (mean age 84 ± 8 years). An interviewer-administered questionnaire and a blood sample were collected at participants’ homes. Baseline characteristics of this study population and methodological details have been published previously, and form the basis for these analyses. The elderly sample was followed for seven years beginning in 2003; the dates of death were collected. Those who survived were assessed at the age they were on June 20th, 2009. The participants were evaluated using biologic, clinical and socio- economic measures, with blood samples and a structured interview.
+
+Results
+
+Effects of rs2229765 and rs1800795 on survival
+
+The age and sex of the TRELONG study population are sum- marized in Table I. The sample included individuals from 70 years of age and older (six were ultracentenarians). The male- to-female ratio was 0.87. The survival curves were plotted by sex and stratifying for IGF1R rs2229765 genotype [Figure 1A and 1B]. No significant effect comes to light. For men, the odds ratio [and 95% confidence interval (CI)], corrected for age, and considering the A/A genotype as reference were: A/G 2.29 [0.54–9.59], p = 0.25; G/G 2.54 [0.57–11.27], p = 0.22. For women, the odds ratio [and 95% CI], corrected for age, and considering the A/A genotype as reference were: A/G 0.81 [0.38–1.73], p = 0.60; G/G 0.95 [0.43–2.10], p = 0.91. However, a multivariate regression analysis including several confound- ers (age, CVD, VC, total cholesterol, diabetes, cancer and smoking) (Table II) indicated that the rs2229765 G/G geno- type significantly increased the hazard ratio in comparison to the A/A genotype, suggesting a positive role of the latter on survival.
+
+The study protocol was approved by the Ethics Committee of the National Institute on Research and Care of the Elderly (INRCA, Italy). Written informed consent was obtained from each participant or from a legally responsible person.
+
+Blood sampling, rs2229765 and rs1800795 genotyping
+
+Blood samples (about 30 mL) were collected by veni- puncture. One part was centrifuged to isolate leukocytes to be used for genomic DNA (gDNA) extraction, using a semi-automated nucleic acid extractor (AB6100, Applied Biosystems, CA, USA). Another portion was centrifuged at 2000 rpm for 10 min at 4°C (with sodium EDTA as the anticoagulant) to separate the plasma, which was stored at−80°C until needed. Consent for blood collection was obtained from 590 of the 668 participants and 587 plasma
+
+For IL-6 rs1800795, we did not find any influence on sur- vival [Figure 1C–1D]. In fact, for men the odds ratio [and 95% CI], corrected for age, and considering the C/C genotype as reference were C/G 0.77 [0.29–2.03], p = 0.60; G/G 0.69 [0.25– 1.87], p = 0.47, while for women the odds ratio [and 95% CI], corrected for age, and considering the C/C genotype as refer- ence were C/G 2.3 [0.55–10.14], p = 0.24; G/G 2.2 [0.52–9.40], p = 0.28. A multivariate regression confirmed the lack of influ- ence on survival (data not shown).
+
+The rs2229765 and rs1800795 genotypes were assessed as previously described [30,31].
+
+Effects of circulating IGF-1 and IL-6 on survival
+
+interval (CI)] for the single curves, corrected for age and con- sidering the 1st quartile as reference, were the following: 2nd quartile: 2.3 [0.95–5.71], p = 0.06; 3rd quartile: 3.5 [1.5–8.1], p = 0.003, 4th quartile: 3.0 [1.2–7.1], p = 0.012. For women, the odds ratio [and 95% CI] for the single curves, corrected for age and considering the 1st quartile as reference were as follows: 2nd quartile, 0.98 [0.4–2.1], p = 0.96; 3rd quartile 0.8 [0.3–2.0], p = 0.65; 4th quartile 1.1 [0.5–2.4], p = 0.80.
+
+We have previously reported that circulating levels of IL-6 rise with age and correlate with disability and mortality [32]. We have now extended this observation, considering a possible sex-specific pattern [Figure 2A and 2B]. IL-6 had a more pro- nounced effect on survival in men than in women. In fact, in men IL-6 levels in the second quartile were already marginally significant in increasing mortality risk (p = 0.06) and became a clearly deleterious predictor of survival from the third quartile onwards. In men, the calculated odds ratio [and 95% confidence
+
+Multivariate analysis, reported in Table II, showed that IL-6 levels in the fourth quartile were associated with a significant
+
+Survival functionSurvival function     Men       T1500 2000Days since interviewMen2500          xa43— cic34 GIG     T T1500 2000Days since interview2500Survival function  Survival functionWomen       T1500 2000Days since interviewWomen2500      T1500 2000Days since interview2500  
+
+Figure 1. Survival analysis according to sex and genotype. (A) Survival for males according to IGF-1R rs2229765 (G/A) polymorphic site. (B) Survival for females according to IGF-1R rs2229765 (G/A) genotype. (C) Survival for males grouped according to IL-6 rs1800795 (C/G) polymorphic site. (D) Survival for females stratified for IL-6 rs1800795 (C/G) polymorphism.
+
+Survival functionSurvival function 1.008                                                       3 : B24{ 2} =i 3i zi £3 of ° 34“ ad— First Ibs quart — First IL6 quartile2nd IL6- quartile ~ 2nd IL6 quartile° 3rd IL quartile o 3rd IL8 quartileS 7) --+ 4th Le quartile 37 4th IL6 quartilet T T T , T1500 2000 2500 1500 2000 2500Days since interview B Days since interview27 sone gei 2i 3iL. 32x | ata J a3 $First IGF1 quartile —— First |GF1 quartile2nd IGF1 quartile <== 2nd IGF1 quartile° ‘3rd IGF1 quartile o ‘3rd IGF1 quartileSo 4th 1GFt quartile S 7) <o+ 4th 1GF1 quartileT T Yi T Y T1500 2000 2500 1500 2000 2500Days since interviewDays since interview  
+
+Figure 2. Survival curves on the basis of sex and circulating levels of IL-6 or IGF-1. (A) Survival in men stratified by IL-6 level in plasma (in quartiles). (B) Similar analysis in females. (C) Survival analysis according to sex and circulating levels of IGF-1 (in quartiles) in men only. No significant difference came to light considering the 1st quartile as reference and correcting for age. (D) The same analysis as in (C), for women. The individual functions showed no significant differences.
+
+increase in mortality, although the association was attenuated in women.
+
+Table I. Distribution by age of the elderly subjects in the TRELONG study. For a full study description see Gallucci et al. [29].
+
+Age (years) (no. of individuals) Sex (male:female) 70–74 (129) 61:68 75–79 (132) 72:60 80–84 (126) 64:62 85–89 (73) 29:44 90–94 (168) 74:94 95–99 (34) 10:24 100–106 (6) 1:5 Whole study (668) 311:357
+
+We have already shown an age-related decrease in IGF-1 levels that was more significant in males [30]. However, the survival curves of participants were similar when plotted according to IGF-1 level and sex [Figure 2C and 2D]. These data were confirmed in the multivariate regression analysis (data not shown).
+
+We also checked a possible combined effect of IL-6 and IGF-1 on survival. First, we divided our population accord- ing to combinations of IL-6 and IGF-1 (low or high level,
+
+to levels of IL-6 and IGF-1 [Figure 3A]. The statistical analy- sis demonstrated a global effect (log-rank test p < 0.001), even if the individual curves had no significant difference (data not shown). However, the group with reduced performance in survival was the opposite of the reference (high IL-6 and low IGF-1). We also tried to analyze survival according to a combination of IL-6 and IGF-1 level and sex [Figure 3C and 3D]. The situation was similar to the entire population, with a global significant effect (log-rank test p < 0.001 both for males and females); for men and women, the group with the appar- ent reduced longevity had a high level of IL-6 and a reduced level of IGF-1, even if the statistic analysis for the single curve did not evidence any significance.
+
+polymorphic site (a) and of circulating IL-6 (b). CVD: cardiovascular disease (including myocardial infarction, ischemic cardiopathy, periph- eral vasculopathy and chronic heart failure); VC: vascular cerebral disease (including stroke and cerebral vasculopathies). C: regression coefficient; HR:
+
+MEN C HR St. er t-Value Age 0.1 1.11 0.02 4.4 <0.01 CVD 1.14 3.14 0.37 3.06 <0.01 VC −0.01 0.99 0 -1.99 0.05 Cholesterol (total) 0.01 1.01 0.39 0.02 0.99 Diabetes 0.85 2.33 0.34 2.46 0.01 Cancer 0.01 1.01 0.32 0.04 0.97 Smoking 1.35 3.88 1.03 1.32 0.19 IGF1, A/G (ref: A/A) 1.42 4.14 1.04 1.37 0.17 IGF1, G/G (ref: A/A) 0.1 1.11 0.02 4.4 <0.01 WOMEN Age 0.11 1.12 0.02 4.58 <0.01 CVD 0.28 1.32 0.38 0.72 0.47 VC 0.08 1.08 0.42 0.19 0.85 Cholesterol (total) −0.01 0.99 0 −1.99 0.05 Diabetes −0.35 0.71 0.39 −0.88 0.38 Cancer 0.04 1.04 0.45 0.09 0.93 Smoking 0.06 1.07 0.38 0.17 0.87 IGF1, A/G (ref: A/A) 0.41 1.51 0.38 1.07 0.29 IGF1, G/G (ref: A/A) −0.36 0.7 0.45 −0.79 0.43 b. circulating IL-6 MEN C HR St. er t-Value p-Value Age 0.09 1.1 0.02 4.05 <0.01 CVD 0.35 1.42 0.33 1.06 0.29 VC 0.67 1.95 0.41 1.64 0.1 Cholesterol (total) −0.01 0.99 0 −1.49 0.14 Diabetes −0.18 0.83 0.38 −0.49 0.63 Cancer 0.64 1.9 0.36 1.8 0.07 Smoking −0.01 0.99 0.32 −0.03 0.98 IL-6, 2nd quartile (vs. 1st) 0.51 1.67 0.47 1.09 0.28 IL-6, 3rd quartile (vs.1st) 1.02 2.77 0.44 2.31 0.02 IL-6, 4th quartile (vs. 1st) 0.91 2.49 0.46 1.98 0.05 WOMEN Age 0.13 1.14 0.03 4.84 <0.01 CVD 0.05 1.05 0.41 0.12 0.9 VC 0.06 1.06 0.42 0.14 0.89 Cholesterol (total) 0 1 0 −0.92 0.36 Diabetes −0.49 0.61 0.41 −1.19 0.24 Cancer −0.16 0.85 0.54 −0.30 0.76 Smoking 0.25 1.28 0.39 0.64 0.52 IL-6, 2nd quartile (vs. 1st) −0.02 0.98 0.41 −0.06 0.96 IL-6, 3rd quartile (vs. 1st) −0.20 0.82 0.49 −0.40 0.69 IL-6, 4th quartile (vs. 1st) 0.13 1.14 0.03 4.84 <0.01
+
+Discussion
+
+According to the Italian National Institute of Statistics (ISTAT), the province of Treviso has one of the longest life spans in Italy, particularly for women (http://demo.istat.it/) [33]. Therefore, the TRELONG study is uniquely positioned to investigate genetic and environmental factors in longevity. We first considered the genetic variability due to rs2229765 poly- morphism of the IGF-1R gene. The survival curves suggested the homozygous A-allele genotype was a positive predictor of survival in men, in comparison to the genotype G/G; this was confirmed by multivariate regression analysis. We previously reported that in a cross-sectional analysis in the TRELONG population, there was a significantly (p = 0.04) higher A-allele frequency in males over 85 [30]. Another study in Italy by Bonafé et al. reported an increase of the same rs2229765 A-allele in men and women over 85 years of age [19]. To the best of our knowledge, our prospective study that supports the pro-surviving effect of the A/A homozygous genotype, at least in men, is the only one available in the literature.
+
+The drop in circulating IGF-1 with age did not correlate with survival in our analysis. However, the actual pro-survival sig- nificance of a low level of IGF-1 is debated [34,35]. While low IGF-1 reduction might counteract cancer, it correlates with an increased risk of all-cause mortality and cardiovascular disease [36,37]. Moreover, a low level alone might be inadequate as a predictor of survival, as reported by Maggio et al. in another Italian population of elderly men, where IGF-1 as well as also testosterone and dehydroepiandrosterone sulfate (DHEA-S) was evaluated; they found a cumulative negative effect on survival for these anabolic hormones [38]. Our data on IGF-1 may be inconclusive due to the lack of multiple hormone assessment.
+
+We also addressed the contribution of an inflammatory pathway to longevity. Since aging involves chronic increases in pro-inflammatory molecules, an aspect that is particularly evident for men and is partly under genetic control [39], we looked for a sex-specific pattern in biochemical or genetic elements related to IL-6. Our prospective approach found that the IL-6 plasma level influenced survival more in men, and no genetic contribution was found from the polymor- phism rs1800795, though we cannot exclude that a fuller genetic investigation of IL-6 promoter region might uncover additional genetic variability correlating with male or female
+
+expressed in quartiles). We obtained four groups whose main demographic and clinical features are summarized in Table III. A high level of IL-6 was associated with increased disability and co-morbidity, while high IGF-1 was associated with increased percentage of cancer in association to low IL-6 only. We con- sidered the group with low IL-6 and high IGF-1 (that had an apparent reduced rate of mortality) as reference and plotted a survival curve for the whole population classified according
+
+Table III. Classification of the TRELONG population according to circulating levels of IGF-1 and IL-6. p-value was calculated from Chi-square test for binary variables and ANOVA for continuous variables. CVD: cardiovascular disease (including myocardial infarction, ischemic cardiopathy, peripheral vasculopathy and chronic heart failure); VC: vascular cerebral disease (including stroke and cerebral vasculopathies); CCI: Charlson’s comorbidity index.
+
+High IGF-1 and Low IGF-1 and High IGF-1 and Low IGF-1 and low IL-6 low IL-6 high IL-6 high IL-6 Overall Age (mean) 82.68 86.13 85.81 88.48 84.13 0.000 Women (%) 52.30 55.67 48.04 71.88 53.44 0.116 BMI (mean) 25.14 24.09 24.76 24.23 24.77 0.127 VC(%) 14.80 20.62 18.63 9.38 15.57 0.339 CVD (%) 24.67 24.74 32.35 21.88 25.6 0.426 Cholesterol (total, mean) 223.50 210.70 206.30 180.50 213.8 0.000 Diabetes (%) 15.46 18.56 17.65 15.62 15.57 0.884 Cancer (%) 20.07 8.25 11.76 12.50 16.92 0.021 ADL (mean) 5.32 4.88 4.57 4.13 5.002 0.000 CCI (mean) 5.59 5.85 6.16 6.25 5.766 0.005 Smoking (%) 41.58 42.71 41.58 25.00 41.17 0.293
+
+noking (%)IL-6 (pg/mL) 41.58 42.71IGF-1 and IL-6 level scatterplot    41.58 25.00Total population41.17                             g3=o4P-value for Log-rank test<0.001Hh = aw iteLow IGF-1 and low IL6oo Hang akoSf an. Ula anaaniesIGF-1 (ng/mL) B5 _ 5: ia 3: :a azWoh GF ae ew ke High GF ant ow bs(EGE arabs towiGe ance| Rightcar | Hong sets|. HENCE angah ts 31 Ueto1500 2000 2500Days since interviewD Days since interview  
+
+Figure 3. Assessment of combined effect of IGF-1 and IL-6 on survival. (A) The TRELONG population was divided according to low or high levels of circulating IL-6 and IGF-1 (divided into quartiles). (B) Survival curve of the entire population classified according to high/low level of IL-6 and IGF-1 (C) Survival curve as in (B) for males only; (D) Survival curve for females classified according to IL-6 and IGF-1 assessed level. For the
+
+Our combined analysis, looking at the same time the effect of different levels of IL-6 and IGF-1, has confirmed that high levels of IL-6 are detrimental for survival, while in combina- tion with high IGF-1, low IL-6 seems to be associated with increased longevity. The power of this analysis is reduced by limited sample size, even if the conclusion is in good agree- ment with Cappola et al. [40], showing a deleterious synergis- tic effect of high IL-6 and low IGF-1 in survival and disability in older women.
+
+tion via AKT/IKK/NF-kapp
+
+signaling. Cell Signal
+
+;
+
+:
+
+–
+
+Hall K, Hilding A, Thorén M. Determinants of circulating insulin-like growth factor-I. J Endocrinol Invest
+
+;
+
+:
+
+–
+
+Münzer T, Rosen CJ, Harman SM, Pabst KM, St Clair C, Sorkin JD, Blackman MR. Effects of GH and/or sex steroids on circulating IGF-I and IGFBPs in healthy, aged women and men. Am J Physiol Endocrinol Metab
+
+;
+
+:E
+
+–E
+
+Lanfranco F, Gianotti L, Giordano R, Pellegrino M, Maccario M, Arvat E. Ageing, growth hormone and physical performance. J Endo- crinol Invest
+
+;
+
+:
+
+–
+
+Bonafè M, Barbieri M, Marchegiani F, Olivieri F, Ragno E, Giamp- ieri C, Mugianesi E, et al. Polymorphic variants of insulin-like growth factor I (IGF-I) receptor and phosphoinositide
+
+-kinase genes affect IGF-I plasma levels and human longevity: cues for an evolutionarily conserved mechanism of life span control. J Clin Endocrinol Metab
+
+;
+
+:
+
+–
+
+Ostan R, Bucci L, Capri M, Salvioli S, Scurti M, Pini E, Monti D, Fran- ceschi C. Immunosenescence and immunogenetics of human longev- ity. Neuroimmunomodulation
+
+;
+
+:
+
+–
+
+Van Bodegom D, May L, Meij HJ, Westendorp RG. Regulation of human life histories: the role of the inflammatory host response. Ann N Y Acad Sci
+
+;
+
+:
+
+–
+
+Jylhä M, Paavilainen P, Lehtimäki T, Goebeler S, Karhunen PJ, Her- vonen A, Hurme M. Interleukin-
+
+receptor antagonist, interleukin-
+
+, and C-reactive protein as predictors of mortality in nonagenar- ians: the vitality
+
++ study. J Gerontol A Biol Sci Med Sci
+
+;
+
+:
+
+–
+
+Fishman D, Faulds G, Jeffery R, Mohamed-Ali V, Yudkin JS, Humphries S, Woo P. The effect of novel polymorphisms in the inter- leukin-
+
+(IL-
+
+) gene on IL-
+
+transcription and plasma IL-
+
+levels, and an association with systemic-onset juvenile chronic arthritis. J Clin Invest
+
+;
+
+:
+
+–
+
+Bonafè M, Olivieri F, Cavallone L, Giovagnetti S, Mayegiani F, Cardelli M, Pieri C, et al. A gender–dependent genetic predisposition to produce high levels of IL-
+
+is detrimental for longevity. Eur J Immunol
+
+;
+
+:
+
+–
+
+Capurso C, Solfrizzi V, D’Introno A, Colacicco AM, Capurso SA, Semeraro C, Capurso A, Panza F. Interleukin
+
+-
+
+G/C promoter gene polymorphism in centenarians: no evidence of association with human longevity or interaction with apolipoprotein E alleles. Exp Gerontol
+
+;
+
+:
+
+–
+
+Christiansen L, Bathum L, Andersen-Ranberg K, Jeune B, Christensen K. Modest implication of interleukin-
+
+promoter polymorphisms in longevity. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+Hurme M, Lehtimäki T, Jylhä M, Karhunen PJ, Hervonen A. Interleu- kin-
+
+-
+
+G/C polymorphism and longevity: a follow-up study. Mech Ageing Dev
+
+;
+
+:
+
+–
+
+Gruenewald TL, Seeman TE, Ryff CD, Karlamangla AS, Singer BH. Combinations of biomarkers predictive of later life mortality. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Gallucci M, Ongaro F, Bresolin F, Bernardi U, Salvato C, Minello A, Amici GP, et al. The Treviso Longeva (Trelong) study: a biomedical, demographic, economic and social investigation on people
+
+years and over in a typical town of North-East of Italy. Arch Gerontol Geriatr
+
+;
+
+Suppl
+
+:
+
+–
+
+Albani D, Batelli S, Polito L, Vittori A, Pesaresi M, Gajo GB, De Angeli S, et al. A polymorphic variant of the insulin-like growth factor
+
+(IGF-
+
+) receptor correlates with male longevity in the Ital- ian population: a genetic study and evaluation of circulating IGF-
+
+from the “Treviso Longeva (TRELONG)” study. BMC Geriatr
+
+;
+
+:
+
+–
+
+Albani D, Batelli S, Polito L, Prato F, Pesaresi M, Gajo GB, De Angeli S, et al. Interleukin-
+
+plasma level increases with age in an Italian elderly population (“The Treviso Longeva”-Trelong-study) with a sex-specific contribution of rs
+
+polymorphism. Age (Dordr)
+
+;
+
+:
+
+–
+
+Gallucci M, Amici GP, Ongaro F, Gajo GB, De Angeli S, Forloni GL, Albani D, et al. Associations of the plasma interleukin
+
+(IL-
+
+) lev- els with disability and mortality in the elderly in the Treviso Longeva (Trelong) study. Arch Gerontol Geriatr
+
+;
+
+Suppl
+
+:
+
+–
+
+Marsili M, Marsiglia D. Tavole di mortalità della popolazione italiana per provincia e regione di residenza. Anno
+
+Istituto Nazionale di Statistica (Istat), ed. Roma; Servizio Popolazione Istruzione Cultura [Italian]
+
+In summary, our seven-year follow-up assessing survival in a general elderly population from the province of Treviso, Italy, confirmed that males and females do differ in genetic and bio- chemical parameters correlating with longevity and suggested a possible combined effect of these two factors on survival.
+
+Declaration of interest: This study was supported by grants from the Veneto Region, the Treviso Municipality, Treviso Province and Fondazione Veneto Banca. LP is recipient of a fellowship from “Golgi Cenci Foundation”, Abbiategrasso, Milan, Italy. We thank Judith Baggott for editing of the English language.
+
+References
+
+Boyden SE, Kunkel LM. High-density genomewide linkage analysis of exceptional human longevity identifies multiple novel loci. PL
+
+ONE
+
+;
+
+:e
+
+Jazwinski SM, Kim S, Dai J, Li L, Bi X, Jiang JC, Arnold J, et al.; Georgia Centenarian Study and the Louisiana Healthy Aging Study. HRAS
+
+and LASS
+
+with APOE are associated with human longevity and healthy aging. Aging Cell
+
+;
+
+:
+
+–
+
+Atzmon G, Barzilai N, Surks MI, Gabriely I. Genetic predisposition to elevated serum thyrotropin is associated with exceptional longevity. J Clin Endocrinol Metab
+
+;
+
+:
+
+–
+
+Barzilai N, Gabriely I, Atzmon G, Suh Y, Rothenberg D, Bergman A. Genetic studies reveal the role of the endocrine and metabolic systems in aging. J Clin Endocrinol Metab
+
+;
+
+:
+
+–
+
+M
+
+ue M, Vaupel JW, Holm N, Harvald B. Longevity is moderately heritable in a sample of Danish twins born
+
+-
+
+J Gerontol
+
+;
+
+:B
+
+–B
+
+Perls T. Genetic and environmental influences on exceptional longev- ity and the AGE nomogram. Ann N Y Acad Sci
+
+;
+
+:
+
+–
+
+Olsen A, Vantipalli MC, Lithgow GJ. Using Caenorhabditis elegans as a model for aging and age-related diseases. Ann N Y Acad Sci
+
+;
+
+:
+
+–
+
+Kim SK. Common aging pathways in worms, flies, mice and humans. J Exp Biol
+
+;
+
+:
+
+–
+
+Spanier B, Rubio-Aliaga I, Hu H, Daniel H. Altered signalling from germline to intestine pushes daf-
+
+;pept-
+
+Caenorhabditis elegans into extreme longevity. Aging Cell
+
+;
+
+:
+
+–
+
+Selman C, Lingard S, Choudhury AI, Batterham RL, Claret M, Cle- ments M, Ramadani F, et al. Evidence for lifespan extension and delayed age-related biomarkers in insulin receptor substrate
+
+null mice. FASEB J
+
+;
+
+:
+
+–
+
+Mastorakos G, Ilias I. Interleukin-
+
+: a cytokine and/or a major modula- tor of the response to somatic stress. Ann N Y Acad Sci
+
+;
+
+:
+
+–
+
+Cameron AR, Anton S, Melville L, Houston NP, Dayal S, M
+
+ougall GJ, Stewart D, Rena G. Black tea polyphenols mimic insulin/insulin- like growth factor-
+
+signalling to the longevity factor FOXO
+
+a. Aging Cell
+
+;
+
+:
+
+–
+
+Murphy CT, M
+
+arroll SA, Bargmann CI, Fraser A, Kamath RS, Ahringer J, Li H, Kenyon C. Genes that act downstream of DAF-
+
+to influence the lifespan of Caenorhabditis elegans. Nature
+
+;
+
+:
+
+–
+
+Pinkston-Gosse J, Kenyon C. DAF-
+
+/FOXO targets genes that reg- ulate tumor growth in Caenorhabditis elegans. Nat Genet
+
+;
+
+:
+
+–
+
+Niedernhofer LJ, Garinis GA, Raams A, Lalai AS, Robinson AR, Appeldoorn E, Odijk H, et al. A new progeroid syndrome reveals that genotoxic stress suppresses the somatotroph axis. Nature
+
+;
+
+:
+
+–
+
+Mariño G, Ugalde AP, Fernández AF, Osorio FG, Fueyo A, Freije JM, López-Otín C. Insulin-like growth factor
+
+treatment extends longevity in a mouse model of human premature aging by restoring somatotroph axis function. Proc Natl Acad Sci USA
+
+;
+
+:
+
+–
+
+Major JM, Laughlin GA, Kritz-Silverstein D, Wingard DL, Barrett- Connor E. Insulin-like growth factor-I and cancer mortality in older men. J Clin Endocrinol Metab
+
+;
+
+:
+
+–
+
+Andreassen M, Raymond I, Kistorp C, Hildebrandt P, Faber J, Kristensen LØ. IGF
+
+as predictor of all cause mortality and
+
+;
+
+:
+
+–
+
+Maggio M, Lauretani F, Ceda GP, Bandinelli S, Ling SM, Met- ter EJ, Artoni A, et al. Relationship between low levels of ana- bolic hormones and
+
+-year mortality in older men: the aging in the Chianti Area (I
+
+HIANTI) study. Arch Intern Med
+
+;
+
+:
+
+–
+
+Franceschi C, Bonafè M. Centenarians as a model for healthy aging. Biochem Soc Trans
+
+;
+
+:
+
+–
+
+Cappola AR, Xue QL, Ferrucci L, Guralnik JM, Volpato S, Fried LP. Insulin-like growth factor I and interleukin-
+
+contribute synergisti- cally to disability and mortality in older women. J Clin Endocrinol Metab
+
+;
+
+:
+
+–

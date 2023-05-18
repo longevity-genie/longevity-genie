@@ -1,0 +1,419 @@
+ www.elsevier.com/locate/mechagedev
+
+Modest implication of interleukin-6 promoter polymorphisms in longevity
+
+a b a b a a a L. Christiansen , L. Bathum , K. Andersen-Ranberg , B. Jeune , K. Christensen
+
+Department of Epidemiology, Institute of Public Health, University of Southern Denmark, Odense, Denmark b Department of Clinical Biochemistry and Clinical Genetics, Odense University Hospital, Odense, Denmark
+
+The multifunctional interleukin-6 has been suggested to contribute to a chronic low-grade inflammatory status, thereby conferring suscep- tibility to age-related pathological conditions as well as functional decline and increased mortality. Several polymorphisms have been identified in the interleukin-6 promoter, but investigation of the effect of these on interleukin-6 levels and disease susceptibility have led to contradictory results. This study investigates the significance of the three single-point polymorphisms (−597G/A, −572G/C and −174G/C) and the AT-stretch polymorphism (−373(A)n(T)m) in ageing, by comparison of the frequency of each single polymorphism separately as well as the entire promoter haplotype in a total of 1710 Danish subjects ranging in age from 47 to 100 years. We found a modest, but significant, increase in the frequency of interleukin-6 −174GG homozygotes with age suggesting that this genotype is advantageous for longevity.
+
+Interleukin-6; Polymorphisms; Haplotype; Ageing; Longevity
+
+1. Introduction
+
+Ageing has been suggested to be associated with a chronic low-grade inflammatory activity, that seem to be implicated in the pathology of several age-related diseases, conse- quently leading to an increased mortality (Bruunsgaard et al., 2001; Harris et al., 1999).
+
+Inter-individual variations in IL-6 expression may be a of base variations located in the promoter region of IL-6 gene. Hence, putative genetic variants could partly susceptibility to diseases accompanied by alterations IL-6 levels.
+
+The multifunctional cytokine interleukin-6 (IL-6; MIM# 147620) is one of the inflammatory markers that are sus- pected to play a role in this low-grade inflammation. IL-6 is over-expressed in many of the stress conditions that are char- acteristic features of the ageing process. Furthermore, IL-6 levels are generally believed to be highly correlated with age and increase considerably during life (Ershler and Keller, 2000; Bruunsgaard et al., 1999; Cohen et al., 1997). It has been proposed that this increase is a risk factor for develop- ment of age-related diseases, such as rheumatoid arthritis, osteoporosis, Alzheimer’s disease, cardiovascular diseases, and type 2 diabetes (Pradhan et al., 2001; Ershler and Keller, 2000; Licastro et al., 2000; Bonaccorso et al., 1998; Robak
+
+− − Three single-point polymorphisms ( 597G/A, 572G/C − − and 174G/C) and an AT-stretch polymorphism ( 373(A)n (T)m) have been identified in the IL-6 promoter (Georges et al., 2001; Terry et al., 2000; Fishman et al., 1998). The − potential significance of the 174G/C polymorphism for both the IL-6 level and disease susceptibility has been ex- tensively investigated in a large number of studies involving a variety of diseases. The results have, however, been re- markably conflicting (Nauck et al., 2002; Humphries et al., 2001; Rauramaa et al., 2000).
+
+One possible explanation for the inconsistent findings on − the association of the 174G/C polymorphism with disease phenotypes, is the constriction of looking at the polymor- phism in isolation. In support of this, Terry et al. (2000) have demonstrated that the IL-6 gene promoter polymorphisms are not independent, and that the differences in the haplo-
+
+0047-6374/$ – see front matter © 2004 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.mad.2004.03.004
+
+L. Christiansen et al./Mechanisms of Ageing and Development 125 (2004) 391–395
+
+type, rather than the 174G/C genotype, may be determi- native for the IL-6 expression level.
+
+aatttgaggat-3 , 572as: 5 -cagtcatctgagttcttctgtgttctg-3 , 572 ‘60  G: 5 -Fam-cagtctacaacagccgctcacagggaga-Tamra-3 , 572C: we ae3). 5 - Tet-cagtctacaacagcccctcacagggaga-Tamra-3 . Primers and probes for detection of the − 174G/C alleles were: 174s: ALIA5/- Ie  MN5/- 5 -tcaatgacgacctaagctgcact-3 , 174as: 5 -ttggaaaccttattaagat- AVE ene tgtgcaat-3 , 174G: 5 -Fam-tgacgtcctttagcatcgcaagacacaacta-    Tamra-3 and 174C: 5 -Tet-tgacgtcctttagcatggcaagacacaacta- a‘3/ Tamra-3 .
+
+genotypes as well as the IL-6 promoter haplotypes in a large sample of Danish subjects ranging in age from 47 to 100 years, in order to detect if a specific geno- type or haplotype was associated with either longevity or increased mortality. A total of 1710 subjects were geno- typed for the − 174G/C and − 572G/C polymorphisms and − 572GC/− 373(A)n(T)m/− 174GC haplotypes were fur- thermore assessed for 1147 of the subjects.
+
+DNA was amplified in a total volume of 10 l containing 5 ul l Taqman Universal Master Mix (Applied Biosystems), 900 nM of each primer (DNA Technology), 200 nM of each ∼ probe (MWG Biotech) and 10 ng template DNA.
+
+PCR was performed in the ABI Prism® 7700 using the conditions recommended by the manufacturer (Applied Biosystems) and analysed using the Sequence Detection System software.
+
+2. Materials and methods
+
+2.1. Subjects
+
+Detection of the 373(A)n(T)m run was performed by a modification of the PCR-RFLP method previously de- scribed by Tschentscher et al. (2000) using fluorescent la- belled primers for visualization instead of 32P labeling. As the template DNA was predominantly low concentration DNA due to isolation from finger pricks, a two-PCR am- plification method was applied; In PCR I DNA was ampli- 405/- 3/ fied using the sense primer: 5 -Fam-ttaactggaacgctatattcta-3 a 3 and the antisense primer: 5 -Tet-aagtcatgcacgaagttttac-3 in a total reaction volume of 6 D ul l containing 1 × PCR buffer, 200 ) wh M of each dNTP (Roche), 167 nM of each primer (DNA technology), 0.15 U Taq DNA polymerase (Roche) and 2  l template DNA.
+
+The subjects included in this study were randomly se- lected participants from the four large nation-wide surveys conducted at University of Southern Denmark, Odense, Den- mark; the Danish 1905 Cohort, which includes all Danes born in 1905 (Nybo et al., 2001); the longitudinal study of ageing Danish twins (LSADT), including all Danish twins age 70 or older (Christensen et al., 2002; Skytthe et al., 2002); the study of middle-aged Danish twins (MADT), including Danish twins born between 1931–1952 (Skytthe et al., 2002; Gaist et al., 2000); the Danish Centenarian Study, including all Danes who lived to be a 100 years old in a 14 month period of 1995–1996 (Andersen-Ranberg et al., 2001). All four surveys comprise multidimensional face-to-face interviews, assessment of functional and cogni- tive abilities and DNA sampling, either from full blood or by means of finger pricks or cheek swabs. In the case of including subject from the twin studies only one twin part- ner from each pair was selected. We have previously shown that twins and singletons have similar mortality from age six and throughout life (Christensen et al., 1995). Hence, the genetic study is population based with no exclusion criteria due to health status or residence. Furthermore, the minimal immigration into Denmark in the cohorts comprised by these surveys and the high response rate in all surveys minimize population stratification as well as selection bias within the population.
+
+PCR I conditions were: denaturation at 94 C for 5 min ◦ followed by 15 cycles of denaturation at 94 C for 30 s, ◦ ◦ annealing at 55 C for 1 min and extension at 72 C for 15 s. ◦ PCR was terminated by extension at 72 C for 7 min and ◦ cooled to 4 C.
+
+PCR II was then performed in a total volume of 10  l using the same primers and reaction conditions except that the primer concentration was lowered to 100 nM and Taq polymerase was replaced by Pfu polymerase (Stratagene) in order to obtain blunt-end products. 2 )pl l of a 1:5 dilution of PCR I product was used as template DNA. PCR II conditions were as for PCR I except that the number of cycles was increased to 20.
+
+Following PCR II, 6  l of the product was digested with Tsp509I (New England Biolabs) according to the manufac- turers instructions and the digested and undigested DNA mixed in a 1:1 ratio.
+
+2.2. Genotyping
+
+As restriction with Tsp509I leaves the products with a 3). 3 -overhang, the pooled product was denatured in order to separate the labeled strands from the unlabelled strands, and 2 Ps l was analyzed using the ABI 377 automatic sequencer (Applied Biosystems). Alleles were defined using the Genes- can and Genotyper software.
+
+− − 572G/C, and 174G/C, were detected by allelic ination using the Taqman technology. Primers and were designed using Primer Express® software Biosystems). Primers and probes used for − 5! - of the 597G/A alleles were: 597s: 5 3/   3/ et gtaact-3 , 597as: 5 -ctccctgtgagcggctgtt-3 , 597G: 5 3 ral5/- cctggccaccctcaaatttcg-Tamra-3 and 597A: 5 3. ggccatcctcaaatttcgt-Tamra-3 . Primers and probes for −  tion of the 572G/C alleles were: 572s: 5
+
+The sense primer used in both PCR reactions was de- signed so as to cover and eliminate an internal Tsp509I recognition site, resulting in an unrestricted PCR product that was 119–121 nucleotides depending on the length of
+
+L. Christiansen et al./Mechanisms of Ageing and Development 125 (2004) 391–395
+
+tion is in accordance with the predicted values assuming Hardy–Weinberg equilibrium overall as well as for all sub-groups. We found a significant, although modest, in- − crease in the proportion of 174GG homozygotes with age P = . ( 0 01), indicating that this genotype is associated trend with increased survival chance.
+
+the (A)n(T)m run. After digestion and denaturation the Fam-labelled restriction product containing the (A)n block was 52–54 nucleotides long and the Tet-labelled restriction product containing the (T)m block was 69–71 nucleotides long. As described by Tschentscher et al. (2000) exact al- lele determinations were possible at all times, as only one combination of the fragment containing the (A)n block and the fragment containing the (T)m block would be consistent with the length of the unrestricted fragment.
+
+− The 572G/C genotype was also assessed in all l710 individuals. The overall distribution as well as the distri- bution in subgroups was in Hardy–Weinberg equilibrium. − The 572C allele was rare in the Danish population (al- = lele frequency 0.04) and was in all cases found associ- − ated with the 174G allele. There was no difference in the − 572G/C genotype distribution between age-groups (results not shown).
+
+2.3. Statistics
+
+The 373(A)n(T)m polymorphism was investigated in < 568 individuals age 70 years and 579 individuals age = − 93 years. We detected 4 different 373(A)n(T)m alleles in the Danish population; (A) (T) , (A) (T) , (A) (T) 8 12 9 11 10 10 and (A) (T) . There was no overall difference in the geno- 10 11 type distribution between the younger individuals and the group of 93 years old people, however, the frequency of the (A) (T) allele decreased slightly with age from 47.8% 8 12 in the youngest group to 43.8% in the elderly (results not P > .
+
+Due to the conflicting reports on the implication of the 174G/C polymorphism in ageing and disease it was rele- − to investigate whether the 174C allele was only dis- when embedded in a specific haplotype.
+
+3. Results
+
+There are 16 possible haplotypes when considering the − − − polymorphisms 572G/C, 373(A)n(T)m and 174GC, but only 10 haplotypes were present in the Danish popula- tion. Table 2 summarizes the estimated frequencies of the six most common haplotypes (constituting more than 99% of the samples) identified in four of the seven age-groups. − The 373(A) (T) allele was almost exclusively found to- 8 12 gether with the − 174C allele, whereas the other − 373 alle- les were a little more diversely distributed, although mainly found together with the − 174G allele. There was no sta- tistically significant difference in the haplotype distribution
+
+Initially, haplotypes for the three single point substitu- tions were assessed for 365 randomly selected participants. These preliminary results showed that there was an almost complete allelic association between the − 597G allele and the − 174G allele (∆ = − 0. 95), as has also been reported previously for other populations (Georges et al., 2001; Brull et al., 2001). Consequently, the − 597G polymorphism was not studied further. Table 1 shows the genotype distribution of the − 174G/C
+
+Table 1 shows the genotype distribution of the − 174G/C polymorphisms in the different age-groups. The distribu-
+
+Genotype distribution of the interleukin-6 −174G/C polymorphism in different age-groups
+
+<50 years 50–59 years 60–69 years 70–79 years 80–89 years 90–95 years 100 −174GGa 45 (24.7) 71 (24.3) 24 (25.3) 83 (27.5) 24 (29.6) 177 (30.4) 57 (32) −174GC 98 (53.9) 158 (54.1) 47 (50) 151 (50) 43 (53.1) 284 (48.9) 84 −174CC 39 (21.4) 63 (21.7) 23 (24.5) 68 (22.5) 14 (17.3) 120 (20.7) 37
+
+Estimated frequencies of the six most common −572GC/−373(A)n(T)m/−174GC haplotypes in middle-aged subjects and 93-year-old subjects
+
+Age G/(A) (T) /C G/(A) (T) /G G/(A) (T) /G G/(A) (T) /G C/(A) (T) /G G/(A) (T) /C 8 12 9 11 10 11 10 10 10 10 9 11 (%) (%) (%) (%) (%) (%) <70 years (N = 568) 47.0 20.3 19.6 7.1 3.8 1.3 93 years (N = 579) 43.2 21.7 22.2 6.6 3.5 2.0
+
+L. Christiansen et al./Mechanisms of Ageing and Development 125 (2004) 391–395
+
+− − − − the 597A/ 572G/ 373(A) (T) / 174C haplotype con- 8 12 struct was significantly higher than the other haplotype con- − − − − structs including the 597A/ 572G/ 373(A) (T) / 174G 8 12 haplotype, although the absolute differences were rather
+
+between the two age-groups. The results, however, demon- strate a small decrease with age in the frequency of the − − − P = . 572G/ 373(A) (T) / 174C haplotype ( 0 07), com- 8 12 − parable with the decrease seen for both the 174C allele − and the 373(A) (T) allele. Hence, the haplotyping results 8 12 − clearly demonstrate that looking at the 174 polymorphism alone is as informative as looking at the entire haplotype in a survival analysis in this population.
+
+− According to our results, the 174C allele, however, nearly always specifies this exact haplotype, making it rea- sonable to only asses the former, although it should be kept − in mind that the data indicates that the 174C allele only changes with age when embedded in this haplotype. Hence, a more complete haplotyping may be necessary in other populations.
+
+4. Discussion
+
+The relatively little immigration in Denmark and the high genetic homogeneity in the Danish population makes this population ideal for studying the influence of genetic factors on longevity. In this paper we have investigated the impact of the four common polymorphisms in the interleukin-6 pro- moter on ageing, by comparison of the frequency of each single polymorphism separately as well as the entire pro- moter haplotype in Danish subjects ranging in age from 47 to 100 years.
+
+Previous studies focusing mainly on the role of the − 174G/C polymorphism in ageing as well as a variety of age-related diseases have lead to contradictory conclusions, ranging from demonstration of the G allele being a risk factor, over no significance of this polymorphism, to sug- gestions of the C allele as conferring disease susceptibility (e.g. Nauck et al., 2002; Humphries et al., 2001; Rauramaa et al., 2000).
+
+of the single polymorphisms does not provide the complete explanation for these conflicting results. It cannot be ruled out that the present study as well as the previous studies implying an association between the IL-6 gene and age- ing or age-related diseases all represents chance findings. Thus, a number of the previous studies, although not all, are limited by the use of relatively small sample-sizes, which may contribute to the heterogeneity of study results. Furthermore, the use of twins as well as population strati- fication in the present study could be a concern. However, the facts that Danish twins and singletons have similar mor- tality from age six and throughout life (Christensen et al., 1995), and that the twin studies include both complete pairs and non-complete pair twins as well as the well-known minimal immigration into Denmark in these cohorts sug- gest that the population is very well suited for studies of changing gene frequencies over age. Yet another expla- − nation could be that the effect of the 174G/C genotype (or the entire promoter haplotype) on disease susceptibility is mainly manifest in specific subgroups that are in addi- tion influenced by other risk factors. The importance of defining the relevant subgroup of susceptible individuals for a specific risk gene has previously been pointed out by Lehmann et al. (2001). Ageing and the age-related patho- logical conditions that have been associated with the IL-6 − 174G/C polymorphism are complex phenotypes likely to be influenced by several interacting genes and environ- mental factors. The contribution of any single susceptibility gene will thus be difficult to detect in a population as a whole.
+
+The main conclusion to be drawn from the part of the study dealing with haplotypes versus single genotypes is that all four polymorphisms exhibit allelic association to such − an extent that investigation of the 174G/C polymorphism only is sufficiently informative.
+
+In a sub-sample of the subjects included we thus found − − that the 174G/C and the 597G/A polymorphisms are in almost complete linkage disequilibrium, in accordance with results presented previously by others (Georges et al., 2001; Brull et al., 2001). Furthermore, our results confirm the − nearly constant association of the 373(A) (T) allele with 8 12 − the 174C allele previously reported by others, although in considerably smaller samples (Villuendas et al., 2002; Terry − et al., 2000). The 572C allele was found to be associated − with the 174G allele at all times. It has previously been − suggested that presence of the 572C allele modulates the − effect of the 174G allele on IL6 expression (Brull et al., − 2001). However, the frequency of the rare 572C allele did not change with age in the subjects included in this study − and the increase seen for the 174GG homozygotes with − − age was evident in both 572G and 572C allele carriers. Our results thus indicate that the effect of this allele is of minor importance, at least in the Danish population.
+
+− Overall, we find that the proportion of 174GG homozy- gotes increases modestly with age, indicating a weak protec- tive effect of this genotype. However, this increase is mainly followed by a concomitant decrease in GC heterozygotes rather than in CC homozygotes, as may be expected if the C allele is associated with decreased survival chance.
+
+Establishment of the entire promoter haplotype reveals − that the frequency of the 174C allele only decreases with − − age when this is inherited together with 572G/ 373(A) 8 (T) . In their work on the functional effect of the four IL-6 12 promoter polymorphisms using reporter gene expression studies Terry et al. (2000) demonstrated that expression of
+
+In summary, investigation of IL-6 promoter polymor- phisms in this very large group of 47–100 years old subjects indicates that a possible solitary role for IL-6 promoter variations in ageing and disease predisposition is probably fairly small although the modest increase in the frequency
+
+L. Christiansen et al./Mechanisms of Ageing and Development 125 (2004) 391–395
+
+of 174GG homozygotes with age indicates a weak pro- tective effect of this genotype.
+
+IL-
+
+levels, and an association with systemic-onset juvenile arthritis. J. Clin. Invest.
+
+,
+
+–
+
+Gaist, D., Bathum, L., Skytthe, A., Jensen, T.K., M
+
+ue, M., J.W., Christensen, K.,
+
+Strength and anthropometric in identical and fraternal twins: no evidence of masculinization females with male co-twins. Epidemiology
+
+,
+
+–
+
+Georges, J.L., Loukaci, V., Poirier, O., Evans, A., Luc, G., D., Ruidavets, J.B., Cambien, F., Tiret, L.,
+
+Interleukin-
+
+polymorphisms and susceptibility to myocardial infarction: the study. Etude Cas-Temoin de l’Infarctus du Myocarde. J. Mol.
+
+,
+
+–
+
+Harris, T.B., Ferrucci, L., Tracy, R.P., Corti, M.C., Wacholder, S., Jr, W.H., Heimovitz, H., Cohen, H.J., Wallace, R.,
+
+of elevated interleukin-
+
+and C-reactive protein levels with in the elderly. Am. J. Med.
+
+,
+
+–
+
+Humphries, S.E., Luong, L.A., Ogg, M.S., Hawe, E., Miller, G.J., The interleukin-
+
+−
+
+G/C promoter polymorphism is associated risk of coronary heart disease and systolic blood pressure in men. Eur. Heart J.
+
+,
+
+–
+
+Lehmann, D.J., Williams, J., M
+
+room, J., Smith, A.D.,
+
+meta-analysis to explain the diversity of results in genetic studies late-onset Alzheimer’s disease and to identify high-risk Neuroscience
+
+,
+
+–
+
+Licastro, F., Pedrini, S., Caputo, L., Annoni, G., Davis, L.J., C., Casadei, V., Grimaldi, L.M.,
+
+Increased plasma levels interleukin-
+
+, interleukin-
+
+and alpha-
+
+-antichymotrypsin in with Alzheimer’s disease: peripheral inflammation or signals from brain? J. Neuroimmunol.
+
+,
+
+–
+
+Nauck, M., Winkelmann, B.R., Hoffmann, M.M., Bohm, B.O., H., Marz, W.,
+
+The interleukin-
+
+G(−
+
+)C promoter phism in the LURIC cohort: no association with plasma coronary artery disease, and myocardial infarction. J. Mol. Med.
+
+–
+
+Nybo, H., Gaist, D., Jeune, B., Bathum, L., M
+
+ue, M., pel, J.W., Christensen, K.,
+
+The Danish
+
+cohort: genetic-epidemiological nationwide survey. J. Aging Health
+
+, Pradhan, A.D., Manson, J.E., Rifai, N., Buring, J.E., Ridker, P.M., C-reactive protein, interleukin-
+
+, and risk of developing type
+
+mellitus. JAMA
+
+,
+
+–
+
+Rauramaa, R., Vaisanen, S.B., Luong, L.A., Schmidt-Trucksass, Penttila, I.M., Bouchard, C., Toyry, J., Humphries, S.E., Stromelysin-
+
+and interleukin-
+
+gene promoter polymorphisms are terminants of asymptomatic carotid artery atherosclerosis. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Robak, T., Gladalska, A., Stepien, H., Robak, E.,
+
+Serum of interleukin-
+
+type cytokines and soluble interleukin-
+
+receptor patients with rheumatoid arthritis. Mediators Inflamm.
+
+,
+
+–
+
+Sham, P.C., Curtis, D.,
+
+Monte-Carlo tests for associations disease and alleles at highly polymorphic loci. Ann. Hum.
+
+(Pt
+
+),
+
+–
+
+Skytthe, A., Kyvik, K., Holm, N.V., Vaupel, J.W., Christensen, K., The Danish Twin Registry:
+
+birth cohorts of twins. Twin Res.
+
+–
+
+Terry, C.F., Loukaci, V., Green, F.R.,
+
+Cooperative influence genetic polymorphisms on interleukin-
+
+transcriptional regulation. Biol. Chem.
+
+,
+
+–
+
+Tschentscher, F., Kalt, A., Hoffmann, V., Epplen, J., Hardt, C., Identification and efficient genotyping of an (A)n/(T)m within the
+
+(cid:
+
+) untranslated region of the human IL-
+
+gene. Eur. Immunogenet.
+
+,
+
+–
+
+Villuendas, G., San Millan, J.L., Sancho, J., Escobar-Morreale,
+
+The −
+
+G → A and −
+
+G → C polymorphisms in promoter of the IL-
+
+gene are associated with hyperandrogenism. Clin. Endocrinol. Metab.
+
+,
+
+–
+
+
+
+We thank Shuxia Li and Alice Jensen for technical as- sistance. This work was supported by grants from the US National Institute on Aging (grant NIA-P01-AG08761) and the Danish Medical Research Council.
+
+References
+
+Andersen-Ranberg, K., Schroll, M., Jeune, B.,
+
+Healthy centenarians do not exist, but autonomous centenarians do a population-based study of morbidity among Danish centenarians. J. Am. Geriatr. Soc.
+
+,
+
+–
+
+Barbieri, M., Ferrucci, L., Ragno, E., Corsi, A., Bandinelli, S., Bonafe, M., Olivieri, F., Giovagnetti, S., Franceschi, C., Guralnik, J.M., Paolisso, G.,
+
+Chronic inflammation and the effect of IGF-I on muscle strength and power in older persons. Am. J. Physiol. Endocrinol. Metab.
+
+, E
+
+–E
+
+Bonaccorso, S., Lin, A., Song, C., Verkerk, R., Kenis, G., Bosmans, E., Scharpe, S., Vandewoude, M., Dossche, A., Maes, M.,
+
+Serotonin-immune interactions in elderly volunteers and in patients with Alzheimer’s disease (DAT): lower plasma tryptophan availability to the brain in the elderly and increased serum interleukin-
+
+in DAT. Aging (Milano)
+
+,
+
+–
+
+Brull, D.J., Montgomery, H.E., Sanders, J., Dhamrait, S., Luong, L., Rumley, A., Lowe, G.D., Humphries, S.E.,
+
+Interleukin-
+
+gene −
+
+g>c and −
+
+g>c promoter polymorphisms are strong predic- tors of plasma interleukin-
+
+levels after coronary artery bypass surgery. Arterioscler. Thromb. Vasc. Biol.
+
+,
+
+–
+
+Bruunsgaard, H., Andersen-Ranberg, K., Jeune, B., Pedersen, A.N., Skinhoj, P., Pedersen, B.K.,
+
+A high plasma concentration of TNF-alpha is associated with dementia in centenarians. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M
+
+Bruunsgaard, H., Pedersen, M., Pedersen, B.K.,
+
+Aging and proin- flammatory cytokines. Curr. Opin. Hematol.
+
+,
+
+–
+
+Chakravarti, A., Buetow, K.H., Antonarakis, S.E., Waber, P.G., Boehm, C.D., Kazazian, H.H.,
+
+Nonuniform recombination within the human beta-globin gene cluster. Am. J. Hum. Genet.
+
+,
+
+–
+
+Christensen, K., Gaist, D., Vaupel, J.W., M
+
+ue, M.,
+
+Genetic contribution to rate of change in functional abilities among Danish twins aged
+
+years or more. Am. J. Epidemiol.
+
+,
+
+–
+
+Christensen, K., Vaupel, J.W., Holm, N.V., Yashin, A.I.,
+
+Mortality among twins after age six: fetal origins hypothesis versus twin method. BMJ
+
+,
+
+–
+
+Cohen, H.J., Pieper, C.F., Harris, T., Rao, K.M., Currie, M.S.,
+
+The association of plasma IL-
+
+levels with functional disability in community-dwelling elderly. J. Gerontol. A Biol. Sci. Med. Sci.
+
+, M
+
+–M
+
+Ershler, W.B., Keller, E.T.,
+
+Age-associated increased interleukin-
+
+gene expression, late-life diseases, and frailty. Ann. Rev. Med.
+
+,
+
+–
+
+Ferrucci, L., Harris, T.B., Guralnik, J.M., Tracy, R.P., Corti, M.C., Cohen, H.J., Penninx, B., Pahor, M., Wallace, R., Havlik, R.J.,
+
+Serum IL-
+
+level and the development of disability in older persons. J. Am. Geriatr. Soc.
+
+,
+
+–
+
+Fishman, D., Faulds, G., Jeffery, R., Mohamed-Ali, V., Yudkin, J.S., Humphries, S., Woo, P.,
+
+The effect of novel polymorphisms

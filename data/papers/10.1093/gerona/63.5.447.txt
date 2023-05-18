@@ -1,0 +1,453 @@
+Adiponectin Levels and Genotype: A Potential Regulator of Life Span in Humans
+
+1 2 1 2 3 Gil Atzmon, Toni I. Pollin, Jill Crandall, Keith Tanner, Clyde B. Schechter, 4 5 1 1 Philipp E. Scherer, Marielisa Rincon, Glenn Siegel, Micol Katz, 6 2,7 1 Richard B. Lipton, Alan R. Shuldiner, and Nir Barzilai
+
+1Institute for Aging Research, Diabetes Research and Training Center Department of Medicine, Albert Einstein College of Medicine, New York.
+
+Departments of 3Family and Social Medicine, 4Cell Biology, 5Pediatrics, and 6Neurology, Albert Einstein College of Medicine, New 7Geriatrics Research and Education Clinical Center, Veterans Administration Medical Center, Baltimore.
+
+Although caloric restriction in numerous models extends life, longevity in humans is suggested to be limited by the increased prevalence of obesity. Adiponectin, a fat-derived peptide, has a protective role against age-related disease, and thus is an excellent candidate gene for longevity. We studied adiponectin levels in centenarians (n ¼ 118), their offspring (n ¼ 228), and unrelated participants ,95 (n ¼ 78). Adiponectin levels were significantly greater in participants older than 95 years (p ¼ .01), an effect that was independent of sex and body mass index (BMI). Adiponectin levels in the offspring were higher (following adjustment for age, sex, and BMI) compared to controls (p ¼ .02), suggesting that inherited factors play a role in determining adiponectin levels. Over-representation of two common variants in Adiponectin gene (ADIPOQ) in male long-lived individuals combined with their independent association with elevated plasma adiponectin levels (in men and women) suggests that their presence may promote increased life span through the regulation of adiponectin production and/or secretion.
+
+Key Words:
+
+states such as lipoatrophy (5) and type 2 diabetes (T2D) (12), as well as with coronary artery disease (5). Further support for the close relationship between insulin sensitivity and adiponectin comes from clinical studies in which treatment with the insulin-sensitizing thiazolidinediones increases adiponectin levels (13–15).
+
+diabetes, cardiovascular disease (CVD), Alzheimer’s disease, and cancer. However, exceptionally long-lived humans, that is, those older than 95 years, have survived to more than double their life expectancy at birth, and have often been spared these age-related diseases (1). Indeed, offspring of centenarians have 50% lower prevalence rates of these diseases than do the control groups, suggesting that they may inherit protection against these major causes of mortality (2). Insulin resistance is an independent risk factor for glucose intolerance and diabetes as well as CVD. Thus, one of the mechanisms underlying protection from these age-related diseases in exceptionally long-lived individuals and their offspring is that those who survive to extreme old age have preserved their insulin sensitivity (3).
+
+Several cross-sectional studies show that adiponectin increases with age (16–19). This finding appears paradox- ical because normal aging is associated with insulin resistance and increased risk of CVD and suggests that aging may be associated with some degree of adiponectin resistance or possibly that increased adiponectin levels extend life span, leading to a selection bias for survival of those with higher adiponectin levels. To elucidate whether exceptionally long-lived individuals are protected from the development of aging-associated disease as a result of increased adiponectin levels, we studied participants at least 95 years old. We also recruited the offspring of these individuals, reasoning that many of these individuals will also be enriched with phenotype(s) and genotype(s) that enable exceptional longevity, relative to controls of similar ages who do not have a family history of exceptional longevity. In these individuals, we investigated the relation- ship between adiponectin levels, ADIPOQ genotypes, relevant metabolic phenotypes, and longevity. Identification of genes and biological markers that are conducive to exceptional longevity may provide insights into mechanisms
+
+Adiponectin, a serum protein expressed and secreted exclusively by adipose tissue, plays a protective role against insulin resistance (4) and atherosclerosis (5–8) in humans, and protects the heart from ischemia-reperfusion injury in an animal model (9). Adiponectin exerts its favorable effects on insulin sensitivity in vivo through a decrease in hepatic glucose production (4). Adiponectin’s anti-atherosclerotic effects are mediated in part by its anti-inflammatory activity on endothelial cells (5,7,8). Plasma adiponectin concen- trations are reduced in obese individuals (10). Weight loss has been shown to increase adiponectin levels (11). Lower adiponectin levels are characteristic of insulin-resistant
+
+that protect from a number of common diseases and/or slow the biological processes of aging (20).
+
+for this group. However, it has not been validated in the centenarians, and because the test depends on distribution of water, it may misrepresent the exact percentage of fat and lean body mass. Low-density lipoprotein cholesterol (LDL) levels, high-density lipoprotein cholesterol (HDL) levels, and average particle sizes were determined by nuclear magnetic resonance (NMR) spectroscopy at LipoScience, Inc. (Raleigh, NC) as previously described (26,27). Large lipoprotein particle sizes were defined as .8.9 nm for HDL and .21.3 nm for LDL. Serum adiponectin levels were measured using a human adiponectin enzyme-linked immunosorbent assay (ELISA) kit (ALPCO Diagnostics, Windham, NH).
+
+Participants and Phenotyping
+
+was recruited as previously described (2,20–22). The Ashkenazi population is descended from a founder pop- ulation (estimated to be several thousands) originating in the 15th century. This ‘‘founder effect’’ resulted in a population both culturally and genetically homogeneous, from which several disease-related genes have been successfully identified (23). Most of our study group were born in the United States, or moved there prior to World War II. We report here on 118 Ashkenazi probands with exceptional longevity (defined as living independently at age 95 years or older) whose adiponectin and body mass index (BMI) were measured; birth certificates or dates of birth as stated on passports were used to verify the participants’ ages. DNA was available from an additional 54 probands for a total of 172 probands used in the genotype frequency analysis. Offspring of the long-lived probands consisted of 228 participants (with adiponectin levels and BMI measure- ments as well), half of whom were women, with a mean age of 68 years (range 50–92 years). DNA was available for an additional 55 offspring for a total of 283 offspring used in the frequency analysis. The control group consisted of spouses of the offspring (n ¼ 78) with adiponectin and BMI measurements and a mean age of 76 (range 59–94) years. An additional 48 spouses as well as a group of indepen- dently recruited Ashkenazi Jews from the Einstein Aging Study (n ¼ 167) (24), for a total of 293 control participants (mean age 77 [range 51–94] years), were included in the frequency analysis (neither phenotypic significant nor geno- typic significant differences were observed between the two control groups). Controls who had parents older than the usual survival age (.85 years) were excluded. The mean age of the entire control group was 77 years [range 51–94 years]; 59.9% were women. Thus a total of 424 individuals with adiponectin and BMI levels were available for quantitative/metabolic syndrome traits, and a total of 748 individuals were available for genotype frequency analysis. Written informed consent was obtained in accor- dance with the policy of the Committee on Clinical Inves- tigation of the Albert Einstein College of Medicine.
+
+Genotyping
+
+and contains three exons, one noncoding and two coding. From public databases and previous publications (3,16), we selected eight single nucleotide polymorphisms (SNPs) of ADIPOQ (rs17300539 [promoter], rs266729 [promoter], rs182052 [promoter], rs822396 [intron 1], rs2241766 [exon 2; synonymous], rs1501299 [intron 2], rs17366743 [exon 3; synonymous], and a single base pair insertion/deletion polymorphism 2019 bp downstream of the ATG start codon in the 39 untranslated region [hereafter denoted as SNP þ2019]). These polymorphisms were chosen because they were distributed throughout the gene, had been previously reported to be common, and in some studies had been found to be associated with diabetes and related phenotypes (28).
+
+Five SNPs (rs182052, rs822396, rs2241766, rs1501299, and rs17366743) were genotyped using Taqman (Applied Biosystems) according to the manufacturer’s instructions. The remaining three SNPs (rs17300539, rs266729, and SNP þ2019) were genotyped using the PSQ HS 96A Pyrose- quencer according to the manufacturer’s methods (Pyrose- quencing, Uppsala, Sweden; www.pyrosequencing.com). Primer sequences are available from the authors upon re- quest. All polymorphisms were found to be in Hardy– Weinberg equilibrium in the control group except rs1501299 (p ¼ .0005), which was excluded from further analysis.
+
+Statistical Analysis
+
+Data in Table 1 are expressed as mean (standard error [SE]). Crude means are shown. Triglycerides, which were not normally distributed, were ln-transformed for analysis and back-transformed for presentation. Three comparisons have been established: (i) between probands and controls where crude data were adjusted for BMI (except BMI, % fat, sex, and age) and sex (except sex and age); (ii) between offspring and controls unadjusted crude data; and (iii) between offspring and controls where crude data were adjusted for age (except age and sex), sex (except sex), and BMI (except age, sex, BMI, and % fat).
+
+examination were performed as previously described (2,20,21). The presence of metabolic syndrome was deter- mined using National Cholesterol Education Program (NCEP), Adult Treatment Panel III (ATP III) criteria (25). Percentage body fat was determined using bioelectric impedance analysis (BIA), performed with a Tanita BIA body fat analyzer (Body Fat Monitor Scale, BF-625; Tanita Corporation of America Inc., Arlington Heights, IL). BIA is used in many of the epidemiological studies including the age group of the offspring and controls, and has been shown to be better representative of risks associated with increased fat mass compared to BMI. Therefore, it should be helpful
+
+Associations of adiponectin levels with other variables were estimated using regression on an indicator variable for group, stratifying for age, sex, and BMI. In defining strata for age, cut points of 65, 70, 75, 80, and 85 years were used (Figure 1). Spearman correlations for BMI, % fat, and age were adjusted for age and sex (except age). Spearman
+
+Table 1. Characteristics of Study Populations
+
+p Value Offspring vs Control Probands Offspring Controls p Value N ¼ 118 N ¼ 228 N ¼ 78 Probands vs Controls* y z Female 74 50 63 .10 .06 .06 y 98.0 (0.3) 68.0 (0.5) 75.6 (1.2) ,.0001 ,.0001 ,.0001 range, y 95–106 50–92 51–94 lg/mL 17.0 (0.8) 12.8 (0.5) 12.5 (0.8) .01 .75 .02 kg/m2 22.4 (0.3) 26.3 (0.3) 25.3 (0.4) ,.0001 .11 .59 fat, % 25.2 (0.8) 29.2 (0.5) 30.8 (0.9) ,.0001 .13 .58 mg/dL 177 (3.0) 206 (2.8) 196 (4.4) .0007 .08 .14 mg/dL 116 (4.4) 154 (6.8) 119 (5.8) .39 .009 .005 mg/dL 114 (3.3) 116 (2.4) 114 (4.3) .97 .79 .75 mg/dL 56.7 (1.7) 61.1 (1.2) 61.3 (2.1) .02 .94 .66 LDL particle size, % of total 73.7 (2.1) 62.4 (2.0) 56.2 (3.6) .003 .13 .03 HDL particle size, % of total 61.6 (1.3) 51.3 (1.1) 51.9 (1.8) .009 .76 .99 circumference, inches 37.5 (0.3) 34.5 (0.2) 35.0 (0.2) ,.0001 .36 .06 diastolic, mmHg 139 (2), 74.3 (1) 135 (1.4), 79.3 (0.7) 138 (1.9), 77.6 (1) .85, .02 .4, .04 .17, .16 mg/dL 111 (3) 92.9 (2.2) 92.9 (3.1) ,.0001 .77 .99 syndrome, % of total 23 16 13 .017 .50 .25
+
+from http://biomedgerontology.oxfordjournals.org/ by guest on March 21, 2016
+
+Notes: Data are expressed as mean (standard error [SE]). Crude means are shown. Triglycerides, which were not normally distributed, were ln-transformed for analysis but presented as untransformed raw values for presentation. Metabolic syndrome was defined based on the National Cholesterol Education Program (NCEP), Adult Treatment Panel III (ATP III) criteria. *p values between probands and controls adjusted for BMI and sex (adiponectin, cholesterol [mg/dL], triglycerides [mg/dL], LDL [mg/dL], HDL [mg/dL], Large LDL particle size [% of total], Large HDL particle size [% of total]), waist circumference [inches], BP-systolic, diastolic [mmHg], Glucose [mg/dL], metabolic syndrome [% of total]).
+
+*p values between probands and controls adjusted for BMI and sex (adiponectin, cholesterol [mg/dL], triglycerides [mg/dL], LDL [mg/dL], HDL [mg/dL], Large LDL particle size [% of total], Large HDL particle size [% of total]), waist circumference [inches], BP-systolic, diastolic [mmHg], Glucose [mg/dL], metabolic
+
+zp values between offspring and controls adjusted for age, sex and BMI (adiponectin, cholesterol [mg/dL], triglycerides [mg/dL], LDL [mg/dL], HDL [mg/dL], large LDL particle size [% of total], large HDL particle size [% of total], waist circumference [inches], BP-systolic, diastolic [mmHg], glucose [mg/dL], metabolic
+
+BMI ¼ body mass index; LDL ¼ low-density lipoprotein; HDL ¼ high-density lipoprotein.
+
+correlations for metabolic syndrome-associated traits (i.e., blood pressure, HDL, LDL, triglycerides, glucose, waist circumference, and HDL and LDL particle sizes) were adjusted for age, sex, and BMI (Table 2).
+
+correlated, whereas waist circumference was negatively correlated with adiponectin levels (Table 2). Glucose, LDL levels, and blood pressure showed no significant correlation with adiponectin levels.
+
+Low adiponectin levels have been associated with meta- bolic syndrome (33); this relationship held in our control and offspring groups. The mean difference in adiponectin levels between persons with and without metabolic syn- drome was 3.18 lg/mL (p ¼ .011). This difference was observed in both offspring and in controls, and the effect size was similar in each group (p ¼ .56 for interaction effect), suggesting that the biological action of adiponectin to protect from metabolic syndrome is similar in offspring (with higher adjusted adiponectin levels) who are expected to be genetically enriched for longevity compared to con- trols. The relationship between adiponectin levels and meta- bolic syndrome was significant in both sexes but stronger among men (women: 13.5 6 1.2 vs 16.6 6 0.6, p ¼ .02; men: 7.7 6 1.2 vs 11.5 6 0.5, p ¼ .004).
+
+Before analysis, genotypes were checked for Mendelian consistency where possible by comparing probands–off- spring pairs. Mendelian errors were resolved or removed before analysis. Allele frequencies were calculated by gene counting. All SNPs conformed to Hardy–Weinberg expect- ations. We evaluated the association between SNP genotype and phenotype (adiponectin levels) under the additive and dominant genetic models using multiple regression. Statis- tical analyses were performed using Stata 9.2 (Stata Corp., College Station, TX) and SAS 9.1 (Cary, NC).
+
+R ESULTS
+
+The phenotypic characteristics of exceptionally long-lived probands, their offspring, and unrelated controls are shown in Table 1. Adiponectin levels are known to be associated with age and BMI (a surrogate for body fat), and these relationships held in our sample (Figure 1 and Table 2). As previously described (31,32), women had significantly higher adiponectin levels than did men in the combined sample (15.6 6 0.49 vs 11.6 6 0.58 lg/mL; p , .0001, adjusted for age at recruitment and BMI. Furthermore, adiponectin levels were correlated with some serum lipid levels (Table 2), for example, Spearman correlation coefficients for triglycerides and HDL with adiponectin levels were (cid:2)0.19 (p ¼ .0005) and 0.23 (p , .0001), respectively. Lipoprotein particle sizes were positively
+
+We hypothesized that if increased adiponectin levels are heritable and are related to genes that promote longevity, we would expect to find greater adiponectin levels in the offspring of long-lived probands than in controls. In unadjusted analysis, adiponectin did not differ between the offspring and control groups [mean 6 SE 12.8 6 0.5 vs 12.5 6 0.8 lg/mL (p ¼ .75)] (Table 1). However, after adjustment for BMI, age, and sex, adiponectin levels were significantly higher in the offspring group than in the control group (adjusted mean difference 2.28 lg/mL, p ¼ .02). To avoid concerns about mortality selection, we also analyzed
+
+Table 2. Univariate Correlations Between Adiponectin Levels and Other Metabolic Syndrome-Related Traits for All 424 Participants
+
+IbIc and BMI for BMI (ug/ml) in ad 33z2I7-anil20   67S F685 §5-95 96-105Age range (Years)       BFemale OMale 1. pO. 12r=0.43. p=0.005* #§<65 66-28 6-85 86-95 96-108Age range (Years)Biomale OMale yg 3150.26, p=0.027 ay         <65 66-75 16-85Age Range (Years)
+
+Trait Adiponectin p Value Age* 0.22 ,.0001 BMI* (cid:2)0.21 ,.0001 % of Fat* (cid:2)0.16 .0002 Triglyceridey (cid:2)0.19 .0005 HDLy 0.23 ,.0001 LDLy 0.02 .79 Systolicy 0.09 .0878 Diastolicy 0.10 .0497 Waist circumferencey (cid:2)0.11 .0292 Glucosey (cid:2)0.09 .0917 LDL particle sizey 0.27 ,.0001 HDL particle sizey 0.24 ,.0001
+
+Notes: *Adjusted for age and sex (except age). yAdjusted for age, sex, and BMI. BMI ¼ body mass index; HDL ¼ high-density lipoprotein; LDL ¼ low- density lipoprotein.
+
+levels between offspring and control was 2.68 lg/mL, p ¼ .009. HDL level remained an independent significant deter- minant of adiponectin (p ¼ .02). There was no significant interaction between sex and offspring status. However, the difference between controls and offspring among men was significant (mean difference ¼ 3.21 lg/mL; p ¼ .022) and was greater than in women, where the difference was not significant (mean difference ¼ 1.74 lg/mL; p ¼ .18) fol- lowing adjustment for age and BMI. Higher adjusted adiponectin levels in offspring of long-lived probands than in controls, particularly among men, is consistent with our hypothesis that high adiponectin levels pose a survival advantage.
+
+One possible explanation for increased adiponectin levels in offspring of long-lived probands is that some of these individuals may have inherited a genotype that leads to a favorable (increased) adiponectin level phenotype. To examine this possibility further, we genotyped common ADIPOQ variants, including some that were previously shown to influence adiponectin levels (28), and performed association analysis between adiponectin levels and these variants. When these SNPs were included separately as additional covariates in the regression models (Table 3), two SNPs were significantly associated with increased adipo- nectin levels: rs17300539 (p ¼ .02) and SNP þ2019 (p ¼ .02). Linkage disequilibrium between the two SNPs as estimated by r2 was low (r2 ¼ 0.05), suggesting two independent effects. The mean adiponectin difference associated with rs17300539 in a dominant model was significant and slightly higher in men (mean difference ¼ 2.22 6 1.11 lg/mL; p ¼ .047) than in women (mean difference ¼ 1.77 6 1.21 lg/mL; p ¼ .15). Similarly, in an additive model the effect of SNPþ2019 was significant and slightly higher in men (mean difference ¼ 1.45 6 0.71 lg/ mL; p ¼ .043) than in women (mean difference ¼ 1.18 6 0.82 lg/mL; p ¼ .15). No significant associations of adiponectin levels with adiponectin genotypes were seen within the proband group (data not shown).
+
+Figure 1. Adiponectin levels according to age. a, Adiponectin levels, adjusted for sex and body mass index (BMI) in long-lived probands and controls. This group represents a continuous age group of unrelated individuals from 51 to 106 years of age. b, Adiponectin levels, adjusted for BMI in long-lived probands and controls stratified by sex. c, Adiponectin levels, adjusted for BMI in offspring of long-lived probands stratified by sex. *p ¼ .05, **p ¼ .01 for comparison to the ,65-year-old group. #p , .05 for comparison to the 66- to 75-year-old group. zp , .05 for comparison to the 76- to 85-year-old group. §p , .01 for comparison to females within stratified group.
+
+control–offspring differences in adiponectin levels separately in individuals younger than 85 years versus 85 years old or older. Results were similar in the younger than 85 years group (mean difference ¼ 2.31 6 0.97 lg/mL, p ¼ .02). In the 85 years old or older group, which only contained 30 individuals, the difference was greater (3.47 6 3.85 lg/mL) but not significant (p ¼ .38). We also undertook a further analysis which, in addition to adjusting for age, sex, and BMI, included ln-triglycerides and HDL and LDL levels as covariates. In this analysis, the difference in adiponectin
+
+We also compared the frequency of the adiponectin SNP genotypes among probands, offspring, and controls in the
+
+Table 3. Association of ADIPOQ SNP Genotypes With Adiponectin Levels (Provided as Least Squared Means þ SE) in Offspring and Controls Combined Adjusted for Age, Sex, BMI, and Offspring Status
+
+p Value Frequency Additive Dominant SNP Allele 1 Allele 2 11 (No. of Participants) 12 (No. of Participants) 22 (No. of Participants) of Allele 2 (Bonferroni) rs17300539 G A 11.82 6 0.45 (195) 14.13 6 0.76 (69) 11.73 6 2.86 (5) 0.15 .02 (.14) .01 (.07) rs266729 C G 12.39 6 0.53 (148) 12.24 6 0.64 (102) 14.03 6 1.73 (14) 0.25 .67 .94 rs182052 G A 12.92 6 0.61 (110) 11.82 6 0.60 (117) 14.97 6 1.47 (19) 0.32 .22 .43 rs822396 A G 12.49 6 0.45 (205) 11.81 6 0.87 (55) 19.42 6 6.41 (1) 0.11 .70 .57 rs2241766 T G 12.75 6 0.51 (158) 11.78 6 0.80 (65) 11.54 6 1.95 (11) 0.18 .27 .26 rs17366743 T C 12.22 6 0.39 (258) 15.63 6 1.69 (14) 7.14 6 6.30 (1) 0.03 .18 .09 APM1þ2019 A deletion 11.22 6 0.75 (74) 12.90 6 0.51 (156) 13.41 6 0.74 (76) 0.50 .02 (.14) .03 (.21)
+
+Note: SNP ¼ single nucleotide polymorphism; SE ¼ standard error; BMI ¼ body mass index.
+
+lowing adjustment for age, sex, and BMI, we found that offspring of exceptionally long-lived individuals (defined in this case as 95 years old or older), some of whom will also live to exceptionally old age, have significantly higher serum adiponectin levels than do controls without a family history of exceptional longevity. A caveat is that modeling assumptions were necessary to detect this difference, but another way to state the observation is that unadjusted mean adiponectin levels were similar between offspring and controls (12.8 vs 12.5 lg/mL, respectively), whereas higher levels would have been expected in controls given their significantly higher mean age. Furthermore, exceptionally long-lived individuals have higher levels of serum adipo- nectin compared to younger persons. An association between higher adiponectin levels and age has been reported pre- viously (14), but we extend these findings to exceptional old age. Lacking an age-matched control group, it is not pos- sible to know if the extremely high levels seen in probands are purely a consequence or in part a cause of exceptional longevity, but the higher adjusted levels seen in their offspring lend support to the latter hypothesis.
+
+expanded set of 748 participants. Frequencies were not significantly different between probands and controls (Table 4). However, given sex differences in survival to excep- tional longevity (34) and the differences in sex ratios in cases versus controls, we stratified the sample by sex and found that the frequencies of two SNPs, rs17300539 and APM1þ2019, both associated with adiponectin levels, were significantly different in frequency in male probands versus controls but not female probands versus controls. For promoter SNP rs17300539, 31% of male probands versus 16% of male controls had at least one copy of the minor (A) allele (p ¼ .04). Male offspring had an intermediate A allele carrier frequency of 26% (p ¼ .04 vs controls). For SNP þ2019, 38% of male probands versus 19% of male controls had the del/del genotype (p ¼ .01) (offspring frequency ¼ 25%, p ¼ .25 vs controls; Table 4); an additive effect was also observed (p ¼ .03). The equivalent analyses in women revealed that 19% of probands versus 29% of controls carried the rs17300539 A allele (p ¼ .08) and 22% of probands versus 23% of controls had the þ2019 del/del genotype (p ¼ .89). The interaction between sex and genotype was significant in both probands versus control cases (p ¼ .007 for rs17300539 and p ¼ .03 for þ2019 by Breslow–Day test for homogeneity of the odds ratios). However, as shown in Table 3, raw significant differences were no longer statistically significant after adjustment for multiple comparisons.
+
+are major risk factors for cardiovascular morbidity and mortality, our findings support the hypothesis that the mechanism whereby higher adiponectin levels may contrib- ute to longevity is through its anti-atherogenic (5,6) and anti-inflammatory (5,7,8) effects. As in the case of HDL levels, adiponectin levels are consistently higher in women than in men, probably due to variations in fat distribution that contribute to adiponectin secretion (14,36). These sex differences in adiponectin levels are consistent with lower CVD incidence rates and greater life expectancy observed in women in our population.
+
+D ISCUSSION
+
+Living to 100 years is a rare phenotype, with prevalence in the general population of 1 in 10,000 individuals (35). Although we have recruited numerous participants at this age, they are rare survivors, and if genetics helps them attain such longevity they should be enriched for specific favor- able genotypes and their corresponding phenotypes. Fol-
+
+The observation that offspring of long-lived probands have higher BMI-, age-, and sex- adjusted adiponectin levels than do spouse controls is suggestive of a genetic mech-
+
+Table 4. Prevalence of Genotypes (%) Associated With High Adiponectin Levels in Probands, Offspring, and Controls
+
+All (N ¼ 653–748) Men (N ¼ 267–298) Women (N ¼ 386–450) Genotype Probands Offspring Controls Probands Offspring Controls Probands Offspring Controls rs17300539 G/A or A/A 22.3 25.2 23.5 30.8*,y 26.7*,y 15.7 19.0 23.9 28.9 APM1þ2019 A/– or –/– 80.8 74.9 80.6 86.7 75.8 81.8 78.7 74.2 79.7 APMþ2019 –/– only 26.2 24.4 21.5 37.8*,y 25.0 19.0 22.1 23.8 23.3
+
+Notes: *p , .05 vs controls. yp , .05 for homogeneity of the odds ratios vs women.
+
+group; offspring of centenarians had an intermediate (21%) frequency (20). Furthermore, lipoprotein particle size was found to be an independent heritable predictor of longevity and was also associated with the CETP VV genotype. We now find that lipoprotein particle size is related to levels of adiponectin (Tables 1 and 2), thus leading us to consider the relationship between adiponectin levels and polymorphisms of CETP. We found no association between the 405 CETP genotype and adiponectin levels, suggesting that the effect of the CETP VV genotype on lipoprotein particle size is not mediated via adiponectin levels (data not shown).
+
+of exceptional longevity. The offspring–control difference in adiponectin levels appears to be stronger in men than in women. In addition, two common ADIPOQ polymorphisms were associated with adiponectin levels, with stronger evidence in men. (This association was not seen in the probands, which may be due to the small sample size and other factors potentially controlling aging- and/or longevity- related increases in adiponectin levels.). To our knowledge, we further demonstrate for the first time that the high adiponectin alleles of these same ADIPOQ polymorphisms are over-represented in exceptionally long-lived men. The rs17300539 A allele and þ2019 del allele were significantly more prevalent in long-lived male probands versus male controls. Thus our data support the hypothesis that genetic variants in ADIPOQ that influence adiponectin levels may contribute to this rare phenotype of exceptional longevity. That this association was seen only in men suggests that polymorphism in ADIPOQ may be a greater determinant of longevity in men than in women. This may be due to the fact that women have higher adiponectin levels compared to men and are protected from cardiovascular morbidity and mortality independent of genotype. Given the drawback of association studies with insufficient statistical power, a recognized limitation of performing multiple comparisons is an inflation of type I error. Indeed, after statistical adjust- ment for multiple comparisons, our raw results were no longer significant. In any case, we are currently following both male and female offspring and controls longitudinally with regard to cardiovascular outcome to test the hypothesis that increased adiponectin levels, particular adiponectin genotypes and other factors inherited from long-lived pro- bands, provide protection from CVD through enhanced
+
+Our endeavor to study exceptional longevity in Ashkenazi Jews was based on the hypothesis that the phenotypic and genotypic characteristics of longevity may be less complex in this relatively genetically homogeneous population. At the same time, findings in this population will likely reflect biologically and genetically relevant pathways present in other populations as well. Indeed, the relationships we observed between adiponectin levels and BMI, sex, and lipoprotein profile are in complete agreement with findings of others in diverse populations (14). Because obesity is associated with low adiponectin, these findings also shed light on the biology behind the emerging evidence that human longevity is being threatened by the epidemic of obesity (10). Further mechanistic understanding of the role of adiponectin in the promotion of longevity may lead to development of strategies for the delay or prevention of age-related disease.
+
+ACKNOWLEDGMENTS
+
+This work has been supported by grants from the Paul Beeson Physician Faculty Scholar in Aging Award, the Ellison Medical Foundation Senior Scholar Award, the National Institutes of Health (R01 AG18728), the General Clinical Research Center (M01-RR12248), the Diabetes Research and Training Center (DK 20541) at the Albert Einstein College of Medicine, and the Baltimore VA Geriatric Research and Education Clinical Center.
+
+Because we have studied a relatively homogeneous cohort of Ashkenazi Jews residing on the East Coast of the United States, population stratification is an unlikely explanation for the observed associations. Furthermore, the same alleles enriched in male probands were associated with higher adiponectin levels, as previously reported in other populations (13,28). Theþ2019 single nucleotide deletion is present in the 39-untranslated region, and thus it is possible that it could affect protein expression by altering messenger RNA (mRNA) stability or translational efficiency. However, we cannot rule out the possibility that this and the promoter variant may not be causal, but rather in linkage disequilib- rium with functional variants. Functional studies will be required to further define the causal role of these variants on adiponectin levels and the longevity phenotype. Since several comparisons were made and the associations are at a modest level of significance, the replication of previous reports of association with adiponectin levels in the same direction (13,28) supports a true effect on adiponectin levels and enrichment in long-lived probands of the rs17300539 G/A-A/A and APM1þ2019 del/del.
+
+We are indebted to all participants and their families for their commit- ment and enthusiasm. We are also grateful to the following institutions that assisted in recruitment: The Hebrew Home for the Aging, Riverdale, NY; Kittay House, Bronx, NY; the Hebrew Home Hospital, West Hartford, CT; and the Jewish Home for the Aged, New Haven, CT, all under the aegis of the association for the Jewish Aging Services, Washington, DC. We also thank Sandy Ott for performing the genotype analysis.
+
+Drs. Atzmon and Pollin contributed equally to this work.
+
+CORRESPONDENCE
+
+Address correspondence to Nir Barzilai, MD, Institute for Aging Research, Belfer Bldg. #701, Albert Einstein College of Medicine, 1300 Morris Park Avenue, Bronx, NY 10461. E-mail: barzilai@aecom.yu.edu
+
+REFERENCES
+
+Perls T, Kunkel LM, Puca AA. The genetics of exceptional human longevity. J Mol Neurosci.
+
+;
+
+:
+
+–
+
+Atzmon G, Schechter C, Greiner W, et al. Clinical phenotype of families with longevity. J Am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Barbieri M, Rizzo MR, Manzella D, Paolisso G. Age-related insulin resistance: is it an obligatory finding? The lesson from healthy centenarians. Diabetes Metab Res Rev.
+
+;
+
+:
+
+–
+
+Combs TP, Berg AH, Obici S, Scherer PE, Rossetti L. Endogenous glucose production is inhibited by the adipose-derived protein Acrp
+
+J Clin Invest.
+
+;
+
+:
+
+–
+
+We previously reported (20) an increased frequency of the favorable V/V cholesterol ester transfer protein (CETP 405 VV) genotype with exceptional longevity. Whereas in the 70-year-old control group the frequency of the favorable VV genotype was 8%, it was 25% in the 100-year-old
+
+Shimada K, Miyazaki T, Daida H. Adiponectin and atherosclerotic disease. Clin Chim Acta.
+
+;
+
+:
+
+–
+
+Okamoto Y, Arita Y, Nishida M, et al. An adipocyte-derived plasma protein, adiponectin, adheres to injured vascular walls. Horm Metab Res.
+
+;
+
+:
+
+–
+
+Ouchi N, Kihara S, Arita Y, et al. Novel modulator for endothelial adhesion molecules: adipocyte-derived plasma protein adiponectin. Circulation.
+
+;
+
+:
+
+–
+
+Kubota N, Terauchi Y, Yamauchi T, et al. Disruption of adiponectin causes insulin resistance and neointimal formation. J Biol Chem.
+
+;
+
+:
+
+–
+
+Shibata R, Sato K, Pimentel DR, et al. Adiponectin protects against myocardial ischemia-reperfusion injury through AMPK- and COX-
+
+- dependent mechanisms. Nat Med.
+
+;
+
+:
+
+–
+
+Olshansky SJ, Passaro DJ, Hershow RC, et al. A potential decline in life expectancy in the United States in the
+
+st century. N Engl J Med.
+
+;
+
+:
+
+–
+
+Yang WS, Lee WJ, Funahashi T, et al. Weight reduction increases plasma levels of an adipose-derived anti-inflammatory protein, adiponectin. J Clin Endocrinol Metab.
+
+;
+
+:
+
+–
+
+Worda C, Leipold H, Gruber C, et al. Decreased plasma adiponectin concentrations in women with gestational diabetes mellitus. Am J Obstet Gynecol.
+
+;
+
+:
+
+–
+
+Vasseur F, Helbecque N, Dina C, et al. Single-nucleotide poly- morphism haplotypes in the both proximal promoter and exon
+
+of the APM
+
+gene modulate adipocyte-secreted adiponectin hormone levels and contribute to the genetic risk for type
+
+diabetes in French Caucasians. Hum Mol Genet.
+
+;
+
+:
+
+–
+
+Cnop M, Havel PJ, Utzschneider KM, et al. Relationship of adiponectin to body fat distribution, insulin sensitivity and plasma lipoproteins: evidence for independent roles of age and sex. Diabetologia.
+
+;
+
+:
+
+–
+
+Berg AH, Combs TP, Du X, Brownlee M, Scherer PE. The adipocyte- secreted protein Acrp
+
+enhances hepatic insulin action. Nat Med.
+
+;
+
+:
+
+–
+
+Daimon M, Oizumi T, Saitoh T, et al. Decreased serum levels of adiponectin are a risk factor for the progression to type
+
+diabetes in the Japanese population: the Funagata study. Diabetes Care.
+
+;
+
+:
+
+–
+
+Adamczak M, Rzepka E, Chudek J, Wiecek A. Ageing and plasma adiponectin concentration in apparently healthy males and females. Clin Endocrinol (Oxf).
+
+;
+
+:
+
+–
+
+Yamamoto Y, Hirose H, Saito I, et al. Correlation of the adipocyte- derived protein adiponectin with insulin resistance index and serum high-density lipoprotein-cholesterol, independent of body mass index, in the Japanese population. Clin Sci (Lond).
+
+;
+
+:
+
+–
+
+Bik W, Baranowska-Bik A, Wolinska-Witort E, et al. The relationship between adiponectin levels and metabolic status in centenarian, early elderly, young and obese women. Neuro Endocrinol Lett.
+
+;
+
+:
+
+–
+
+Barzilai N, Atzmon G, Schechter C, et al. Unique lipoprotein pheno- type and genotype associated with exceptional longevity. JAMA.
+
+;
+
+:
+
+–
+
+correlate with cognitive function in exceptional longevity. J Gerontol Med Sci.
+
+;
+
+A:M
+
+–M
+
+Atzmon G, Rincon M, Schechter CB, et al. Lipoprotein genotype and conserved pathway for exceptional longevity in humans. PL
+
+Biol.
+
+;
+
+:e
+
+Lancaster JM, Carney ME, Futreal PA. BRCA
+
+and
+
+–a genetic link to familial breast and ovarian cancer. Medscape Womens Health.
+
+;
+
+:
+
+Verghese J, Lipton RB, Hall CB, et al. Abnormality of gait as a predictor of non-Alzheimer’s dementia. N Engl J Med.
+
+;
+
+:
+
+–
+
+Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults. Executive Summary of The Third Report of The National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, And Treatment of High Blood Cholesterol In Adults (Adult Treatment Panel III). JAMA.
+
+;
+
+:
+
+–
+
+Otvos JD. Measurement of lipoprotein subclass profiles by nuclear magnetic resonance spectroscopy. Clin Lab.
+
+;
+
+:
+
+–
+
+Otvos JD, Jeyarajah EJ, Bennett DW, Krauss RM. Development of a proton nuclear magnetic resonance spectroscopic method for deter- mining plasma lipoprotein concentrations and subspecies distributions from a single, rapid measurement. Clin Chem.
+
+;
+
+:
+
+–
+
+Pollin TI, Tanner K, O’Connell JR, et al. Linkage of plasma adiponectin levels to
+
+q
+
+explained by association with variation in the APM
+
+gene. Diabetes.
+
+;
+
+:
+
+–
+
+Fraley C, Raftery AE. MCLUST: Software for model-based cluster analysis. J Classification.
+
+;
+
+:
+
+–
+
+Barrett JC, Fry B, Maller J, Daly MJ. Haploview: analysis and visuali- zation of LD and haplotype maps. Bioinformatics.
+
+;
+
+:
+
+–
+
+Xu A, Chan KW, Hoo RL, et al. Testosterone selectively reduces the high molecular weight form of adiponectin by inhibiting its secretion from adipocytes. J Biol Chem.
+
+;
+
+:
+
+–
+
+Nishizawa H, Shimomura I, Kishida K, et al. Androgens decrease plasma adiponectin, an insulin-sensitizing adipocyte-derived protein. Diabetes.
+
+;
+
+:
+
+–
+
+Xydakis AM, Case CC, Jones PH, et al. Adiponectin, inflammation, and the expression of the metabolic syndrome in obese individuals: the impact of rapid weight loss through caloric restriction. J Clin Endocrinol Metab.
+
+;
+
+:
+
+–
+
+Robine JM, Caselli G, Rasulo D, Cournil A. Differentials in the femininity ratio among centenarians: variations between northern and southern Italy from
+
+Popul Stud (Camb).
+
+;
+
+:
+
+–
+
+Perls T, Bochen K, Freeman M, Alpert L, Silver M. Validity of reported age and centenarian prevalence in New England. Age Ageing.
+
+;
+
+:
+
+–
+
+Zoico E, Di Francesco V, Mazzali G, et al. Adipocytokines, fat dis- tribution, and insulin resistance in elderly men and women. J Gerontol A Biol Sci Med Sci.
+
+;
+
+A:
+
+–
+
+from http://biomedgerontology.oxfordjournals.org/ by guest on March 21, 2016
+
+Decision Editor: Huber R. Warner, PhD

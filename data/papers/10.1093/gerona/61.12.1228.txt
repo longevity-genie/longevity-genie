@@ -1,0 +1,387 @@
+Lower Prevalence of Epsilon 4 Allele of Apolipoprotein E Gene in Healthy, Longer-Lived Individuals of Hellenic Origin
+
+1 2 1 1 1 Nikolaos Stakias, Panagiotis Liakos, Efthimia Tsiapali, Maria Goutou, and Georgios N. Koukoulis
+
+1Department of Internal Medicine, University Hospital, and 2Laboratory of School of Medicine, University of Thessaly, Larissa, Greece.
+
+Apolipoprotein E (ApoE), and especially its e4 isoform, is considered a risk factor predisposing to coronary heart disease. We hypothesized that the absence of e4 allele offers a better chance for longer life. So we compared the prevalence of ApoE genotypes in 80 healthy aged individuals (HAI) (.80 years) and 391 Greek adults (median age 43 years) with ApoE genotype distribution consistent with the Hardy–Weinberg equilibrium (v2¼5.93, p . .05). ApoE genotypes were comparable in both groups with the exception of E3/3 and E3/4, which were significantly higher (87.50% vs 75.99%, p¼ .025) and lower (5.00% vs 13.19%, p ¼ .036), respectively, in HAI. The e2 and e3 allele frequencies were not different between the groups. The e4 allele was significantly less frequent in HAI compared to controls (3.1% vs 8.58%, p¼.020). Our results indicate an unfavorable effect of e4 allele on longevity that may be attenuated by environmental and/or other genetic factors.
+
+frequency of e4 allele in healthy aged individuals would be expected to be lower compared to its distribution in the general population due to anticipated increased prevalence of CHD at an earlier age. This hypothesis was assessed in our study by examining the frequency of ApoE genotypes and alleles in a sample of healthy aged individuals and comparing it with the distribution of ApoE genotypes and alleles in a randomly selected population based sample of Greek adults.
+
+E (ApoE) (for protein) is a poly- morphic glycoprotein that mediates the binding of lipid particles to specific lipoprotein receptors. A 4-exon gene located on the long arm of chromosome 19 encodes ApoE. Three major isoforms of ApoE—E2, E3, and E4—result from different amino acid substitutions at positions 112 and 158 in the 299-amino-acid protein. ApoE isoforms are encoded from separate alleles denoted, respectively, as e2, e3, and e4, which form three homozygous genotypes (E4/4, E3/3, and E2/2) and three heterozygous genotypes (E4/3, E4/2, and E3/2) (1,2). ApoE is synthesized predominantly in the liver but is also expressed in significant amounts in the brain, being important for membrane maintenance and re- pair (3). ApoE has been one of the most thoroughly studied genetic polymorphisms, particularly for its effects on lipid profile and coronary heart disease (CHD) risk. In compar- isons made to determine risk, the homozygous E3/3 geno- type is used as the referent.
+
+M ETHODS
+
+Participants
+
+For the study of distribution of APOE genotypes and alleles in the population, a random sample of healthy adults was enlisted from a survey that was conducted in the region of Thessaly from 2001 through 2003. The goal of the survey was to gain insights into the prevalence of obesity and its metabolic consequences in adult Greeks. This group consisted of 391 individuals (194 men and 197 women; median age 43 years, range 19–60 years) and was used as a control group. Enrolling in the control group individuals younger than 60 years, we avoided a bias on the normal distribution frequency of ApoE genotypes due to increased CHD incidence and mortality rates in the Mediterranean area after the age of 60 years (12). A second group of healthy individuals older than 80 years was also recruited from the same region. This group consisted of 80 healthy persons (38 men and 42 women; median age 84 years, range 80–95 years) who were physically and mentally active. Individuals older than 80 years with diabetes mellitus (persons with fasting blood glucose . 7.0 mmol/L [125 mg/ dL], known cardiovascular disease, chronic renal failure, liver disease, or dementia were excluded from the study). Hypertension regulated satisfactorily with antihypertensive
+
+Cardiovascular disease is today the main cause of both premature death and incapacity. It is generally accepted that the main risk factors for atherosclerosis, such as dyslipid- emia, hypertension, and diabetes mellitus, are at least partially gene-controlled (4). Many studies have indicated that genes coding for different plasma apolipoproteins, including the allelic variants of the APOE gene, may be associated with an increased risk for cardiovascular disease (5–8). ApoE polymorphism has been considered a risk factor for predisposition to CHD. Although older studies had shown apparently conflicting results (9,10), a recent meta-analysis of 46 studies demonstrated that e4 allele is a significant risk factor for CHD, whereas e2 allele has no effect (11). The increased risk for CHD is attributed to higher total serum cholesterol and low-density lipoprotein cholesterol levels (2).
+
+Recent evidence indicates that the absence of e4 allele seems to be a favorable survival factor. If this is the case, the
+
+Table 2. Relative Frequencies of Apolipoprotein E (ApoE) Alleles in the Control Group and the Healthy Aged Individuals
+
+Table 1. Relative Frequencies of Apolipoprotein E (ApoE) Genotypes in the Control Group and the Healthy Aged Individuals
+
+Control Healthy Aged Group Individuals Characteristics (n ¼ 391) (n ¼ 80) Age Distribution 19–60 y 80–95 y Fisher’s Exact Test ApoE Genotypes N (%) N (%) p Value E 2/2 2 0.53 2 2.50 .143 E 2/3 30 7.92 3 3.75 .238 E 3/3 288 75.99 70 87.50 .025 E 2/4 3 0.79 1 1.25 .536 E 3/4 50 13.19 4 5.00 .036 E 4/4 6 1.58 0 0 .596
+
+Control Group Healthy Aged Fisher’s (n ¼ 391) Individuals (n ¼ 80) Exact Test ApoE Alleles (%) (%) p Value e2 4.88 5.00 1.000 e3 86.54 91.90 .066 e4 8.58 3.10 .020
+
+Statistical Analysis
+
+The genotypic distribution of the controls was tested for the Hardy–Weinberg equilibrium (HWE) using the chi- square test. The association between groups and genotypes or alleles was tested using the one-tailed Fisher’s exact test. Statistical significance was assumed for p , .05. GraphPad InStat statistical package (version 3) for Windows was used.
+
+Notes: The distribution of ApoE genotypes in the population sample was consistent with the Hardy–Weinberg equilibrium (v2 ¼ 5.93, p . .05). n ¼ Number of individuals genotyped; N ¼ number of individuals in each genotype; % ¼ relative frequency.
+
+from http://biomedgerontology.oxfordjournals.org/ by guest on April 12, 2016
+
+R ESULTS
+
+In the group selected randomly from the population, E3/3 was the most common genotype (relative frequency of 75.99%), followed by E3/4 (13.19%), E2/3 (7.92%), E4/4 (1.58%), E2/4 (0.79%), and E2/2 (0.53%). The distribution of ApoE genotypes in the controls was consistent with the HWE (v2 ¼ 5.93, p . .05), indicating the lack of structure.
+
+a thorough physical examination, and a detailed personal medical history was drawn up. Participants on regular medication were asked to bring all of their medications with them. From each individual a blood sample was obtained for DNA extraction and APOE genotyping. APOE genotyping was done blindly in the participants in both groups. Outcome was assessed without knowledge of individual APOE genotype or health status, and clinical and genetic tests were submitted independently for statistical analysis.
+
+In the group of 80 healthy aged individuals, the most common genotype was also E3/3 (87.5%), followed by E3/4 (5%), E2/3 (3.75), E2/2 (2.5%), and E2/4 (1.25%); the E4/4 genotype was not found. The frequency of genotypes in the healthy aged group was comparable to that in the control group.
+
+The relative frequencies of APOE alleles in the control group and the healthy aged individuals are shown in Table 2. The e4 allele was significantly less frequent in healthy aged individuals compared to the population-based sample (3.1% vs 8.58%, respectively; p ¼ .020). The frequency of e2 allele was not different between the groups, whereas in the healthy aged individuals, the higher frequency of e3 allele (compared to that in the control group) did not attain statistical significance (91.90% vs 86.54%, respectively; p ¼ .066).
+
+ApoE Genotyping
+
+For ApoE genotyping, one pair of primers was designed: sense primer sequence: 59 ACAGAATTCGCCCCGGCC TGGTACAC 39; antisense sequence: 59 TAAGCTTGGCA CGGCTGTCCAAGGA39 (13). This pair, of 26 and 25 bp primers, amplifies a 244 bp fragment in exon 4 of the ApoE gene on chromosome 9. Polymerase chain reaction (PCR) was carried out on 50–100 ng of genomic DNA with 0.2 U of Taq polymerase (Gibco, Invitrogen Gmbh, Karlsruhe, Germany) in a 50lL final volume containing 20 mM Tris- HCl (pH 8.4), 50 mM KCl, 3 mM MgCl, 10 pM each primer, 0.2 mM dNTPs, 10% (vol/vol) dimethyl sulfoxide (DMSO; Merck, Darmstadt, Germany) over 35 cycles at 948C for 1 minute, then 608C for 2 minute (two steps PCR) on a thermocycler (Hybaid, Ashford, UK). PCR product was visualized under UV light on 1.5% agarose NuSieve (FMC Bioproducts, Rockland, ME). Digestion of the 244 bp PCR product with restriction enzyme Hhal (overnight at 378C) produced fragments of 91, 83, 72, 48, and 35 bp, which were readily resolved by vertical electrophoresis on 8% acrylamide (Acryl/Bis 19:1) and visualized under UV light (312 nm) after staining with ethidium bromide. APOE alleles from individuals from both groups were determined. Participants were classified as e2, e3, and e4 carriers. Our Ethics Committee approved the study protocol, and written informed consent was obtained from all participants.
+
+D ISCUSSION
+
+Recent studies have demonstrated that the relative frequencies of the three alleles (e2, e3, and e4) of APOE are variable among different populations. The e3 allele seems to be equally distributed among different populations (between 77% and 88%), with the exception of Africans who have a lower frequency (66%–67%) (14,15). Genotype E3/3 is used as the referent for the risk estimation of the different ApoE isoforms. The frequency of e3 allele in our randomly selected control group (n ¼ 391, median age 43 years) was in the upper range of the frequencies found in non-African populations.
+
+In contrast to that of e3 allele, the distribution of e4 among different populations is not so uniform. European Caucasian populations tend to have a geographic cline from
+
+north to south (15). Studies in Italians and French pop- ulations have shown that the frequency of e4 allele ranges between 9% and 12% (15–17), whereas in Northern Europeans (Finns and Germans) it ranges between 14% and 19% (15). Our data showed that the e4 allele frequency was lower (8.58%) than that found in French and Italian persons, and the same was observed regarding e2 allele (4.88%). The frequency of e2 allele in French and Italian populations is between 7% and 8% (16,17).
+
+has not been proved in a recent population-based study (31). However, other recent data (32) are discrepant, suggesting a positive association.
+
+As previously has been stated, we have enrolled only healthy persons in the aged group. Our task was to see the e4 allele frequency specifically in aged healthy and active (physically and mentally) individuals. The fact that some aged e4-homozygous individuals ‘‘escape’’ the ‘‘e4 effect’’ (30) raises the possibility that other factors (genetic and environmental) may modify the ApoE-related risk. More- over, e4 allele as a risk factor seems to express its dele- terious effects on the cardiovascular system in early middle age, and significantly loses its importance in Caucasians after the age of 80 years (33). Similarly, the e4 effect in AD is age-specific, with its peak effect observed at around 70 years of age (30).
+
+The e2 and e3 allele frequencies were comparable to those previously reported in one group of 216 Greek blood donors (14), but not in another study of 240 Greek adults with a mean age of 23 years (18). However, the e4 allele frequency was different in our study, being in between the frequencies presented by the other studies.
+
+This discrepancy may be attributed to difference in age, bias in the sample selection, or genotyping. The authors of the earlier studies did not report if the distribution of ApoE genotypes was consistent with the HWE.
+
+In the healthy individuals older than 80 years, we found that e4 allele frequency was significantly lower compared to e4 allele frequency in healthy individuals younger than 60 years (3.1% vs 8.58%, respectively; p ¼ .020). The decrease of e4 allele frequency in the healthy aged individuals was reflected by an increase (though not a significant one) of e3 allele. The appreciably lower prevalence of e4 allele in the healthy aged participants may be attributed to better survival of individuals carrying the other alleles (e2 and e3). APOE e4 allele is associated with increased total cholesterol levels (2). It has been estimated that ApoE polymorphism may account for 2%–11% of the total variation in serum or plasma cholesterol levels in apparently healthy white per- sons (2). In contrast to e4 allele, it was found that e2 allele is associated with decreased total cholesterol levels (34), thereby exerting a protective effect on the cardiovascular system. The comparable frequencies of e2 allele in both groups of our study do not prove the above notion. More- over, in a recent meta-analysis (11), it was found that e2 allele has no effect on CHD development.
+
+The frequencies of e2, e3, and e4 alleles vary among individuals and are indicators for metabolic effects (19). The e3 allele is considered to be the normal allele, and its variation provided little information about traditional risk factors (20). Low total serum cholesterol is attributed to e2 allele (2) and is associated with a low risk of stroke in aged adults (10). Conversely, the increased frequency of e4 allele is a significant risk factor for CHD and Alzheimer’s disease (AD) and has also been associated with adverse effects in the lipid profile (18,21–23). Moreover, the allele e4 isoforms promote deposition of amyloid b-protein, which is known to damage cells by producing superoxide radicals (24). The deposition of amyloid in the brain is considered to be responsible for the brain damage in AD. The frequency of e4 allele in the population appeared to be affected by multiple factors, including those of age, ethnicity, and the region from which the sample was selected. Several studies have shown no evidence indicating that the predictive power of ApoE polymorphism is sex-related (8,25).
+
+The lower prevalence of e4 allele in healthy longer living individuals does not indicate that this allele is unique in determining individual life expectancy. Such factors as hypertension, obesity, and diabetes mellitus are additional determinants that may modulate the CHD risk. It has been suggested that a healthy lifestyle could decrease the un- desirable effects of e4 allele on the lipid profile (35) and hence alleviate its risk. Therefore, the APOE allele fre- quency analysis in different populations cannot be regarded as an accurate indicator of the exact relationship with the serious health risk without taking into account more regional characteristics. ‘‘Regional’’ studies seem to be of impor- tance in obtaining a clearer image of the relationship of apoE polymorphism with a patient’s diet and lifestyle as well as with other local environmental factors.
+
+Growing evidence indicates that ApoE is a strong in- dependent risk factor for macrovascular disease. A recent meta-analysis of 48 relevant studies has shown that the e4 allele is a significant risk factor for CHD (11), and the same was found in a recent large longitudinal study (26). ApoE4 carriers had an increased risk for cerebrovascular disease and stroke as compared to carriers of the e3 allele (27). Variation in the e4 allele frequency predicted approximately 75% of the interpopulation variation in CHD mortality rate and 40% of CHD mortality rate after adjustment for low- density lipoprotein cholesterol levels (20). Moreover, e4 allele has been associated with other pathologic conditions, including AD (23), carcinoma of the proximal colon (28), and breast cancer (29). Therefore, e4 allele seems to play an important role in successful aging due to its inverse association with decreased longevity.
+
+Conclusion
+
+The existence of a biologic link between CHD and AD has been suggested because both diseases share common risk factors, including genetic ones (30). CHD-induced low cardiac output, cerebral hypoperfusion, and microemboliza- tion may accelerate neurodegenerative disorders, which characterize AD. The clinical relevance of this plausible link
+
+The distribution of APOE alleles in Greek adults appears to be similar to that observed in other southern European populations. APOE e4 allele frequency was found signifi- cantly lower in healthy individuals older than 80 years, indicating that the absence of this allele is a factor that among others favors longevity. The interplay between genetic and
+
+Kolovou GD, Daskalova DCH, Hatzivassiliou M, et al. The epsilon
+
+and
+
+alleles of apolipoprotein E and ischemic vascular events in the Greek population – implications for the interpretation of similar studies. Angiology.
+
+;
+
+:
+
+–
+
+Hallman DM, Boerwinkle E, Saha N, et al. The apolipoprotein E polymorphism: a comparison of allele frequencies and effects of nine populations. Am J Hum Genet.
+
+;
+
+:
+
+–
+
+Stengard JH, Weiss KM, Sing CF. An ecological study of association between coronary heart disease mortality rates in men and the relative frequencies of common allelic variations in the gene coding for apolipoprotein E. Hum Genet.
+
+;
+
+:
+
+–
+
+Ordovas JM, Lopez MJ, Mata P. Gene-diet interaction in determining plasma lipid response to dietary intervention. Atherosclerosis.
+
+;
+
+:
+
+–
+
+Werle E, Fichn W, Hasslacher C, et al. Apolipoprotein E polymorphism and renal function in German type
+
+and type
+
+diabetic patients. Diabetes Care.
+
+;
+
+:
+
+–
+
+Mayeux R, Stern Y, Ottman R, et al. The apolipoprotein E
+
+allele in patients with Alzheimer’s disease. Ann Neurol.
+
+;
+
+:
+
+–
+
+Puttfarcken PS, Manelli AM, Falduto MT, et al. Effect of apolipopro- tein E on neurite outgrown and b-amyloid-induced toxicity in developing rat primary hippocampal cultures. J Neurol.
+
+;
+
+:
+
+–
+
+Wilson PW, Schaefer EJ, Larson MG, et al. Apolipoprotein E alleles and risk of coronary disease. A meta-analysis. Arterioscler Thromb Vas
+
+iol.
+
+;
+
+:
+
+–
+
+Lahoz C, Schaefer EJ, Cupples LA, et al. Apolipoprotein E genotype and cardiovascular disease in the Framingham heart study. Atheroscle- rosis.
+
+;
+
+:
+
+–
+
+M
+
+arron MO, Delong D, Alberts MJ. The ap
+
+genotype as a risk factor for ischemic cerebrovascular disease: a meta-analysis in process citation. Neurology.
+
+;
+
+:
+
+–
+
+Kervinen K, Sodervik H, Makelan J, et al. Is the development of adenoma and carcinoma in proximal colon related to apolipoprotein E phenotype? Gastroenterology.
+
+;
+
+:
+
+–
+
+Zunarelli E, Nicoll JA, Migaldi M, et al. Apolipoprotein E poly- morphism and breast carcinoma: correlation with cell proliferation indices and clinical outcome. Breast Cancer Res Treat.
+
+;
+
+:
+
+–
+
+Farrer LA, Cupples LA, Haines JL, et al. Effects of age, sex, and ethnicity on the association between apolipoprotein E genotype and Alzheimer disease. A meta-analysis. APOE and Alzheimer Disease Meta Analysis Con Consortium. JAMA.
+
+;
+
+:
+
+–
+
+Bursi F, Rocca WA, Killian JM, et al. Heart disease and dementia: a population-based study. Am J Epidemiol.
+
+;
+
+:
+
+–
+
+Newman AB, Fitzpatrick AL, Lopez O, et al. Dementia and Alzheimer’s disease incidence in relationship to cardiovascular disease in the Cardiovascular Health Study cohort. J Am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Ilveskoki E, Perola M, Lehtima¨ki T, et al. Age-dependent association of apolipoprotein E genotype with coronary and aortic arteriosclerosis in middle-aged men: an autopsy study. Circulation.
+
+;
+
+:
+
+–
+
+Hallman DM, Boerwinkle E, Saha N, et al. The apolipoprotein E polymorphism: a comparison of allele frequencies and effects of nine populations. Am J Hum Genet.
+
+;
+
+:
+
+–
+
+Aguitar CA, Talavera G, Ordovas J, et al. The apolipoprotein E
+
+allele is not associated with an abnormal lipid profile in a native American population following its traditional lifestyle. Atherosclerosis.
+
+;
+
+:
+
+–
+
+environmental factors may be responsible for the variation of unfavorable effect of e4 allele in aged populations.
+
+ACKNOWLEDGMENTS
+
+This study was supported by a grant from the Hellenic Endocrine Society.
+
+Drs. Stakias and Liakos contributed equally.
+
+Address correspondence to George N. Koukoulis, MD, Assistant Professor of Internal Medicine/Endocrinology, University Hospital, De- partment of Internal Medicine, Mezurlo Hill, 41110, Larissa, Greece. E-mail: gnkouk@med.uth.gr
+
+REFERENCES
+
+Utermann G, Hees M, Steinmetz A. Polymorphism of E and occurrence of dysbetalipoproteinemia in man. Nature.
+
+:
+
+Davignon J, Gregg RE, Sing CF. Apolipoprotein E polymorphism atherosclerosis. Atherosclerosis.
+
+;
+
+:
+
+–
+
+Poirier J. Apolipoprotein E in animal models of CNS injury and Alzheimer’s disease. Trends Neurosci.
+
+;
+
+:
+
+–
+
+Faber B, Cleutjens K, Niessen R, et al. Identification of genes tentially involved in rupture of human atherosclerotic plaques. Res.
+
+;
+
+:
+
+–
+
+Davignon J, Cohn JS, Mabile L, et al. Apolipoprotein E atherosclerosis: Insight from animal and human studies. Clin Acta.
+
+;
+
+:
+
+–
+
+Utermann G, Irardewig A, Zimmer F. Apolipoprotein E phenotypes patients with myocardial infarction. Hum Genet.
+
+;
+
+:
+
+–
+
+Wilson PWF, Myers RH, Larson MG, et al. Apolipoprotein E dyslipidemias and coronary heart disease: the Framingham Study. JAMA.
+
+;
+
+:
+
+–
+
+Kolovou G, Daskalova D, Mikhailidis DP. Apolipoprotein E morphism and atherosclerosis. Angiology.
+
+;
+
+:
+
+–
+
+Coudere R, Mahieux F, Bailleul S, et al. Prevalence of apolipoprotein phenotypes in ischemic cerebrovascular disease: a case-control Stroke.
+
+;
+
+:
+
+–
+
+Ferrucci L, Guralnik JM, Pahor M, et al. Apolipoprotein E e
+
+allele risk of stroke in the older population. Stroke.
+
+;
+
+:
+
+–
+
+Song Y, Stampfer M, Liu S, Meta-analysis: apolipoprotein E and risk for coronary heart disease. Ann Intern Med.
+
+–
+
+Marin A, Medrano MJ, Gonzalez J, et al. Risk of ischaemic disease and acute myocardial infarction in a Spanish population: servational prospective study in a primary-care setting. BMC Health.
+
+;
+
+:
+
+Kolovou G, Yiannakouris N, Hatzivassiliou M, et al. Association apolipoprotein E polymorphism with myocardial infarction in patients. Curr Med Res Opin.
+
+;
+
+:
+
+–
+
+Sklavounou E, Economou-Petersen E, Karadima G, et al. tein E polymorphism in the Greek population. Clin Genet.
+
+:
+
+–
+
+Eichner JE, Terence-Dunn S, Peveen G, et al. Apolipoprotein polymorphism and cardiovascular disease: a H
+
+E review. Am Epidemiol.
+
+;
+
+:
+
+–
+
+James RW, Boemi MG, Giansanti R, et al. Underexpression of apolipoprotein E
+
+isoform in an Italian population. Atheroscler
+
+;
+
+:
+
+–
+
+Bailleul S, Coudere R, Landais V, et al. Direct phenotyping of apolipoprotein E in plasma: application to population frequency tribution in Paris (France). Hum Hered.
+
+;
+
+:
+
+–
+
+from http://biomedgerontology.oxfordjournals.org/ by guest on April 12, 2016

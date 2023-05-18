@@ -1,0 +1,793 @@
+
+
+YiZeng,1,2,*LingguoCheng,2HuashuaiChen,3HuiqingCao,4ElizabethR.Hauser,5YuzhiLiu,2 ZhenyuXiao,2QihuaTan,6Xiao-LiTian,4,*andJamesW.Vaupel7,8
+
+2ChinaCenterforEconomicResearch,NationalSchoolofDevelopment,PekingUniversity,Beijing,China. 3DepartmentofInternationalTrade,BusinessSchoolofXiangtanUniversity,Xiangtan,China. 4DepartmentofHumanPopulationGenetics,InstituteofMolecularMedicine,PekingUniversity,Beijing,China. 5CenterforHumanGenetics,MedicalSchoolofDukeUniversity,Durham,NorthCarolina. 6InstituteofPublicHealth,UniversityofSouthernDenmark,Odense,Denmark. 7MaxPlanckInstituteforDemographicResearch,Rostock,Germany.
+
+*YiZengandXiaoLiTianshouldberegardedastheco-correspondingauthors.
+
+AddresscorrespondencetoYiZeng,PhD,CenterfortheStudyofAgingandHumanDevelopmentatMedicalSchoolofDukeUniversityandChina CenterforEconomicResearchatNationalSchoolofDevelopmentofPekingUniversity.Box3003,DukeUniversity,Durham,NC27710.Email:
+
+Basedondatafrom760centenariansand1060middle-agecontrols(allHanChinese),thisarticlecontributesbiodemo- independentandjointeffectsofthegenotypesofFOXO1AandFOXO3Agenesonlong-termsurvival,consideringcarry- genderdifferencesintheindependenteffects;positiveeffectsofFOXO3AandnegativeeffectsofFOXO1Alargelycom- FOXO3A-310orFOXO3A-292decreasesurvivallikelihoodby32%–36%(p FOXO1A-209andregularexerciseincreasesurvivallikelihoodby31%–32%(p <.05).
+
+Key Words: Biodemographicanalysis—FOXOgenes—G×GandG×Einteractions—Longevity—Mortality.
+
+Received April 7, 2010; Accepted August 11, 2010
+
+Decision Editor: Rafael de Cabo, PhD
+
+ofFOXO1A(rs2755209andrs2755213)werefoundtobe negativelyassociatedwithlongevityinwomen(OR=0.70 and0.71,p=.007and.015;dominantmodel),whereasin thedominantmodelformen,FOXO1A-rs2755213ismar- ginally and negatively associated with longevity (OR = 0.65,p =.025)andtheassociationofFOXO1A-rs2755209 is not significant (OR = 0.73, p = .093). One SNP (rs17630266)fromFOXO1Awasfoundnottobeassociated withlongevity.ThenegativeassociationofFOXO1Awith femalelongevitywasreplicatedin350centenariansand350 youngerindividualswhoweresampledinageographically distinctregion.FOXO1AandFOXO3Agenevariantshave alsobeenlinkedtolongevityintheFraminghamcohortinthe UnitedStates(7)andintheLeiden85-plusstudy(8).
+
+class O) subfamily of forkhead transcription factors associated with human longevity in fromHawaii(2),Italians(3),AshkenaziJews(4),Califor- nians(4),NewEnglanders(4),Germans(5),andHanChi- variantsweremorefrequentincentenariansthanin90- andcolleagues(6)onwhichourcurrent Chinesepopulation.Sixtaggingsingle-nucleotidepolymor-
+
+InhermostrecentNaturereviewarticle,Kenyonstated thatthereasonwhyFOXOvariantsaresoconsistentlyasso- ciatedwithlongevityisperhapsbecauseFOXOproteinsact inmanypathwaystoaffectlifespan(9).Invivo,FOXO1A andFOXO3Aregulateagroupofgene’sexpression,suchas TRAIL,ApoC3,angiopoietin-2,ENOS,Agrp,pomc,FasL,
+
+cytoplasm(10,11).AKT1-FOXO–mediatedsignalingpath- resistance, and metabolism (12,13). Early studies FOXOinCaenorhabditiselegansandDrosophila mela- nogaster significantly affects their maximum life process.
+
+ages?Ifyes,whatarethedirectionandsizeoftheeffects?
+
+Materials and Methods
+
+Data Sources
+
+578 female centenarians and 182 male centenarians survivedtoage100+whentheyparticipatedintheinter- examinationsinvolvingordinarypeople.These760cente- narians and the 1060 middle-age controls were all SouthernChina(Chinaistraditionallyandculturallycon- isnolegitimateorofficialadministrativemeaningtothisdivi- Among the 22 provinces where CLHLS was thisstudywereproducedbyanddescribedinthegeneticanal- FOXO1A gene and the three SNPs rs2253310, producingthegenotypicdatawerepresented our present more in-depth biodemographic analysis. withrecessiveandadditivemodels,andthelinkagedisequilib- and3A-936,respectively.
+
+previously)estimate thefrequenciesofgeneticvariantsbetweenlong-livedindi- vidualsandyoungeradults,usuallyfollowingtheconven- tional approach of logistic regression. If the ORs associatedwithlongevity.The ORsestimatedinthecon- probability of survival from younger ages to older otherwords,theydonotspecifythemagnitudeofthege- neticeffectsonthesurvivalprobability.Furthermore,previ- influencelongevityinoppositedirections,butnoinvestiga- joint(presenceofboth),andinteractiveeffectshasbeenre- interactionsbetweenthesegenotypes(G×G)andinterac- (G×E)onsurvivalatadvancedages.Buildinguponprevi- ousrelevantresearch(2–18),especiallybasedonthegeno- HanChinese,weaddressthefollowingpreviouslyunan- sweredquestions,byabiodemographicanalysisapproach:
+
+ofsurvivalfrommiddleagetoages
+
++?
+
+carrierofboth?Arethereanystatisticallysignificantef- onsurvivalfrommiddleagetoage
+
++?
+
+Does the carrying or not-carrying the genotypes them,andthei
+
+×Einteractionswithsocialandbehav-
+
+Todefinethegenotypestobeanalyzedinthisarticle,car- rying or not-carrying the minor allele of one of the
+
+Table1. FrequencyDistributionoftheGenotypesDefinedbyCarryingtheMinorAllelesofOneoftheTwoSNPsofFOXO1AorOneofthe Age100+MeasuringtheGeneralEffectsoftheGenotypes
+
+Women Men Genotypes Cent.%car. Contr%car. RS(95%CI) p Cent.%car. Contr%car. RS(95%CI) Carryingminoralleleof1A-209 42.3 51.3 0.70(0.53–0.91) 0.0073 41.8 49.5 0.73(0.51–1.05) Carryingminoralleleof1A-213 57.8 65.8 0.71(0.54–0.91) 0.0152 58.8 68.6 0.65(0.45–0.95) Carryingminoralleleof3A-310 51.9 39.3 1.67(1.27–2.18) 0.0002 55.5 43.0 1.65(1.19–2.30) Carryingminoralleleof3A-292 51.7 39.8 1.62(1.24–2.12) 0.0004 56.3 42.7 1.73(1.24–2.41) Carryingminoralleleof3A-936 49.5 37.1 1.66(1.26–2.18) 0.0003 51.9 40.2 1.61(1.16–2.24)
+
+Note:Samplesize—centenarians:578womenand182men;middle-agecontrols:378womenand682men,allHanChinesefromSouthernChina.CI= confidenceinterval.Cent.%car.=Percentageofcentenarianswhocarrytheminorallele;Contr%car.=Percentageofmiddle-agecontrolswhocarrytheminorallele; SNP=single-nucleotidepolymorphisms.
+
+from http://biomedgerontology.oxfordjournals.org/ at Northern Arizona University on May 23, 2015
+
+allelearecodedasNo(noncarrier)(ie,mm,Mm =1,MM thefrequencydistributionofthegenotypesdefinedbycar- oroneofthethreeSNPSofFOXO3Abasedonthedomi- nantmodel,forthemaleandfemalecentenariansandmid- dle-age controls. Tables 2 and 3 present the ofFOXO3Aandwhethercarryingtheminoralleleof1A- andfemalecentenariansandmiddle-agecontrols.
+
+The Extended Fixed Attribute Dynamics Method
+
+tothefamilyofmethodsofcase–controlpopulationas- Yashin and colleagues (21) required knowledge cohort age-specific mortality rates. The FAD extended by Zeng and Vaupel (22) does not these rates, which are not available in many applications.
+
+TheORofsurvivalfromagextox + n(RS)forthose withthefixedattribute(eg,agenotype)tothosewithoutthe attributecanbeestimatedas:
+
+To conduct a novel biodemographic analysis, we also combinethegenotypicdatawiththecorresponding10-year follow-upcohortphenotypicdatafrom760individualswho wereatleast92yearsoldintheCLHLS1998baselinesur- vey,whereas750ofthemdiedafter1998atages100+and 10stillsurvivedinthe2008wave.Thecohortfollow-up dataonsurvivalanddeath,socioeconomics,lifestyle,psycho- logicalcharacteristics,andheathstatus,etc.ofthepartici- pantsusedinthemultivariatestatisticalsurvivalanalysisin thisarticlearefromtheCLHLSconductedin1998,2000, 2002,2005,and2008usingquestionnairesthatfollowed theinternationalstandardsadaptedtotheChinesecultural context(19).Thecarefulevaluations(suchasreliability coefficientsandfactoranalysis)haveshownthatthedata qualityoftheCLHLSsurveyswasreasonablygood(19). Weusethecentenarians’ageatdeath(oragein2008forthe 10centenarianswhosurvivedinthe2008follow-upsurvey) inourcase-controlanalysis.Themeanageofthemaleand femalecentenarianssampleswere101.9and103.2,respec- tively.Themeanagesofthemaleandfemalecontrolswere 46.0and45.4,respectively.Similartothepreviouslypub- lishedstudiesonassociationbetweentheFOXOgenotypes and longevity (2–8), the centenarians and middle-age controlsofthisstudyareethnically(allHanChinese)and geographically(SouthernChina)compatible,andthusthe
+
+wherep(x)istheproportionofindividualswhoarex yearsoldandhavethefixedattribute.ZengandVaupel(22) derivedFormula(1)andempiricallyjustifiedit.
+
+NotethatFormula(1)providesestimatesofthegeneral impactsofonegeneticvariantonsurvivalfromagexto x + n,regardlessofcarryingornot-carryinganotherrele- vantgeneticvariant.WeextendtheFADmethodhereto provideformulastoestimatetheindependenteffectofa geneticvariantintheabsenceofanotherrelevantgenetic variant,thejointeffectswhenbotharepresentandtheef- fectsofinteractionsbetweenthem.
+
+Let i = 0, 1 represent not-carrying and carrying hereafter;andj as“not-exposed”and“exposed”hereafter.Letp 11 the proportion of x-year-old individuals who are define p (x), p (x),and p 10 01 00 are a carrier and not-exposed, noncarrier and and neither carrier nor exposed. Note that the sum p (x), p (x),p (x)andp 11 10 01 00
+
+ofFOXO3AandWhetherCarryingtheMinorAlleleof1A-209,andtheEstimatesoftheOddsRatiosofSurvivalProbability(RS ij/00 MiddleAgetoAges100+Measuringthe“IndependentandJointEffects”oftheGenotypes
+
+Carrierornoncarrierofthe Noncarrierofminoralleleof1A-209(i=0) Carrierofminoralleleof1A-209(i=1) minoralleleoftheSNPsof FOXO3A Cent.%genotype Contr%genotype RS (95%CI) p Cent.%genotype Contr%genotype RS (95%CI) p ij/00 ij/00 Women  3A-310,noncarrier(j=0) 27.8 26.6 1.00 20.2 34.0 0.57(0.39–0.83) 0.002  3A-310,carrier(j=1) 29.9 21.7 1.32(0.89–1.94) 0.148 22.1 17.7 1.19 (0.79–1.81) 0.389  3A-292,noncarrier(j=0) 27.7 26.6 1.00 20.5 33.6 0.58(0.40–0.85) 0.004  3A-292,carrier(j=1) 30.1 21.9 1.31(0.89–1.93) 0.148 21.7 17.9 1.16 (0.76–1.76) 0.462  3A-936,noncarrier(j=0) 28.8 28.2 1.00 21.6 34.6 0.61(0.42–0.88) 0.006  3A-936,carrier(j=1) 28.9 19.9 1.41(0.95–2.10) 0.073 20.7 17.3 1.17 (0.77–1.78) 0.451 Men  3A-310,noncarrier(j=0) 23.3 29.3 1.00 20.6 27.8 0.93(0.55–1.55) 0.755  3A-310,carrier(j=1) 35.0 22.3 1.96(1.23–3.15) 0.003 21.1 20.6 1.28 (0.76–2.16) 0.322  3A-292,noncarrier(j=0) 23.8 29.6 1.00 19.9 27.8 0.89(0.53–1.49) 0.636  3A-292,carrier(j=1) 34.8 22.0 1.96(1.23–3.15) 0.003 21.5 20.6 1.30 (0.77–2.17) 0.292  3A-936,noncarrier(j=0) 26.6 31.6 1.00 21.5 28.3 0.91(0.55–1.49) 0.686  3A-936,carrier(j=1) 32.0 19.9 1.92(1.20–3.06) 0.004 19.9 20.2 1.17 (0.70–1.96) 0.522
+
+Note:(1)ThesamplesizeisthesameasthatlistedinTable1.(2)Theoddsratio1.00referstothereferencegroupwithagenotypewithoutcarryingtheminor alleleofanyofthetwoSNPspairedfortheanalysis;thevaluesinitalicsinthistablepresenttheestimatesofthe“joint”effectsofcarryingtheminorallele ofSNP1A-209andcarryingtheminoralleleofoneofthethreeSNPsofFOXO3A;andtherestpresenttheestimatesofthe“independent”effectsofcarryingthe minoralleleofoneofthethreeSNPsofFOXO3Abutnot-carryingtheminoralleleoftheSNP1A-209,orcarryingtheminoralleleoftheSNP1A-209butnot- carryingtheminoralleleofoneofthethreeSNPsofFOXO3A.CI=confidenceinterval;SNP=single-nucleotidepolymorphisms.
+
+mathematicalanddemographicderivationispresentedin theAppendix1:
+
+pvaluesand95%confidenceintervals(CIs)(23)canbe performedtoassesswhethertheestimatesofanORofsur- vival(RSinFormula(1)andRS inFormula(2))issig- ij/00 nificantlydifferentfrom1.0,usingasimpleprocedurein standard statistical software (eg, STATA, SAS or SPSS). Note that RS  and RS  represent the independent 10/00 01/00 impactofthegeneticvariant(oranotherfixedexposure)on survivalfromagextox + n,intheabsenceofanotherfixed exposure(includinggeneticvariant)andthatRS repre- 11/00 sentsthejointimpactofthegeneticvariantandthefixed exposureonsurvivalfromagextox + nwhenbothofthem present.
+
+Ifthe ORofsurvivalRS ij/00 smaller)than1.0,thei–jcombinationofthegene-fixedex- posureispositively(ornegatively)associatedwithlongev-
+
+FrequencyDistributionoftheGenotypesDefinedbyCombinationsofWhetherCarryingtheMinorAlleleofOneoftheThreeSNPs ofFOXO3AandWhetherCarryingtheMinorAlleleof1A-213,andtheEstimatesoftheOddsRatiosofSurvivalProbability(RS )From ij/00 MiddleAgetoAges100+Measuringthe“independentandjointeffects”ofthegenotypes
+
+Carrierornoncarrierofthe Noncarrierofminoralleleof1A-213(i=0) Carrierofminoralleleof1A-213(i=1) minoralleleoftheSNPsof FOXO3A Cent.%genotype Contr%genotype RS (95%CI) p Cent.%genotype Contr%genotype RS (95%CI) p ij/00 ij/00 Women  3A-310,noncarrier(j=0) 19.2 18.8 1.00 28.7 41.7 0.68(0.45–1.00) 0.043  3A-310,carrier(j=1) 23.0 14.6 1.55(0.97–2.48) 0.052 29.1 24.9 1.15 (0.76–1.75) 0.489  3A-292,noncarrier(j=0) 19.0 18.8 1.00 29.1 41.3 0.70(0.47–1.03) 0.061  3A-292,carrier(j=1) 23.2 14.8 1.55(0.97–2.47) 0.052 28.7 25.1 1.14 (0.74–1.73) 0.534  3A-936,noncarrier(j=0) 20.1 19 1.00 30.3 43.7 0.66(0.45–0.97) 0.029  3A-936,carrier(j=1) 22.1 13.8 1.53(0.95–2.47) 0.066 27.5 23.5 1.12 (0.73–1.71) 0.595 Men  3A-310,noncarrier(j=0) 13.9 17.5 1.00 30.0 39.5 0.96(0.55–1.69) 0.867  3A-310,carrier(j=1) 27.2 14.7 2.34(1.30–4.25) 0.002 28.9 28.3 1.29 (0.74–2.29) 0.352  3A-292,noncarrier(j=0) 14.3 17.7 1.00 29.3 39.7 0.91(0.53–1.59) 0.712  3A-292,carrier(j=1) 27.1 14.5 2.29(1.28–4.14) 0.003 29.3 28.1 1.28 (0.74–2.26) 0.357  3A-936,noncarrier(j=0) 17.2 19.3 1.00 30.9 40.6 0.86(0.51–1.45) 0.538  3A-936,carrier(j=1) 24.3 12.8 2.14(1.21–3.81) 0.005 27.6 27.3 1.14 (0.67–1.96) 0.617
+
+Note:SeefootnotestoTable1andTable2,exceptreplacing1A-209by1A-213.CI=confidenceinterval;SNP=single-nucleotidepolymorphisms.
+
+ThebasicandextendedFADmethodsarebasedonthe fundamentaldemographicinsightthattheprevalenceofa fixed attribute (eg, genetic variant, birth weight, child- hoodconditions,andseriousdisease(s)sufferedearlierin life)andcombinationsoftwofixedattributesinapopula- tioncanchangewithageeventhoughnoindividualcan changehisorhervariant.Therefore,muchcanbelearned abouttheimpactofthefixedattribute(includinggenetic variant)andthecombinationsofthefixedattributeson survival.
+
+InFormula(2),individualsareidentifiedas“carriers”or “noncarriers,”andacarriercouldhave1or2copiesofthe minoralleleoftheSNPsintheapplicationofourpresent study.Henceweareimplicitlyassumingthattheminorallele isdominantratherthanrecessiveoradditive.Amodified versionoftheFADapproachandapplicationisrequiredto analyzerecessiveoradditivemodels.
+
+Gene–environmentinteraction(G×E)isdefinedas“a different effect of an environmental exposure on disease andhealthriskinpersonswithdifferentgenotypes,”or,al- ternatively,“adifferenteffectofagenotypeondiseaseand healthriskinpersonswithdifferentenvironmentalexpo- sures”(24,25).Similarly,gene–geneinteraction(G×G)is definedas“adifferenteffectofagenotypeondiseaseand healthriskinpersonswithandwithoutanothergenotype.” Applyingthestandarddefinitionandmethodforestimating theG×EorG×Ginteractions(25),wepresentinAppen- dix2theproceduresforestimatingtheeffectsofgene-fixed exposureinteractionsonsurvivalfromagextox + n,using theORsofsurvival(RS ,i = 0,1; j = 0,1)derivedby ij/00 Formula(2).
+
+casesandyoungercontrols,theestimatesofthe by the logistic regression not adjusted for mathematical proof and the empirical evidence, regression without controlling for covariates arenotpresentedhereduetospacelimitation,butavail- ableuponrequest.).Thisfactverifiesthestatisticalprop- muchtheprobabilityofsurvivalfromagextox + words, the FAD method provides clearer interpretations and presents meaningful synthesesofthecase–controlgeneticanalysisonlongev- ity.Asthetwoapproachesproduceexactlythesamenu- still uses the conventional approach of logistic regres- FAD method contributes an additional new insight demographic interpretation on the magnitude of approach of logistic regression in case–control analysisonlongevity.
+
+mulas(1)and(2)canbeusedtoanalyzecross-sectional datafromdifferentcohortsoflong-livedcasesandyounger controlsorfollow-updatafromthesamecohort.Inthecase ofanalyzingthecross-sectionaldata,weactuallyconnect theyoungercohortandthelong-livedcohortintowhatthe demographictextbookscall“ahypotheticalcohort,”and estimatetheORofsurvivalbasedonproportionsofthege- neticvariantandfixedexposureamongthelong-livedand youngercohorts(ie,atadvancedandyoungeragesinthe “hypotheticalcohorts”).
+
+Itisimportanttonotethat,ifoneusescross-sectional data,boththeFADmethodexpressedinFormulas(1)and (2)andtheconventionalcase–controlstatisticalgenetic approachassumethattheinitialdistributionsofthege- neticvariant,thefixedexposureandtheircombinations, andtheirassociationwithlongevitydonotdiffersubstan- tially between cohorts of long-lived individuals and youngercontrols,thatis,thereisnosubstantialproblem ofpopulationstratification(seemoredetaileddiscussions inAppendix1onpotentialbiasifthisbasicassumptionis violated).Ifcohortfollow-updataareused,oneneedsto assumethatthelosstofollow-upfromagextox + nis notcorrelatedwithrespondents’combinationofthege- neticvariantandthefixedexposureunderstudy.Serious attentionmustbepaidtothisissueinapplyingeitherthe conventional statistical genetic approach or the FAD methodforidentifyinggeneticcontributionstolongevity. TocontrolforpopulationstratificationintheFADanaly- sisinthisarticleusingthecross-sectionaldataofcente- nariansandmiddle-agecontrols,wehaverestrictedour analysistoasingleethnicgroup(HanChinese)residing inSouthernChina,andclassifiedthesamplesbygender aswell.
+
+The standard method of survival analysis using cohort follow-up data is limited because it requires prospective trackingofthemortalityofstudyparticipants,withafol- low-upperiodforestimatinglong-termsurvivalprobabil- itiesthatmaybeprohibitivelyexpensiveandtimeconsuming (26).TheFADmethodcircumventsthismajorlimitationof standardsurvivalanalysisbecauseitdoesnotrequireex- pensivefollow-upmortalitydataofstudyparticipantsandit canbeappliedtobothcohortandcross-sectionaldatasetsif thebasicassumptionofnoseriousproblemsofpopulation
+
+stratificationismet.However,theFADmethodhasamajor limitation:itpermitsananalysistoascertainthe“defacto” associationofafixedattribute(includinggenes)orthecom- binationofgene-fixedexposureonlongevitywhileusually controllingforageandsex.Intheory,wecanfurthercontrol forothercovariatesbyextendingtheFADmethodthrough cross-tabulationsofthestudyparticipantsbyconfounding factorsthatarealsofixedattributesandmeettheassump- tionofnosubstantialproblemsofpopulationstratification, butthismaycauseproblemswithsmallsamplesizesofthe subgroups.Thus,weappliedbothFADmethodsandmulti- variatestatisticalmodelingapproacheswheneverpossible tocomplementeachotherandtomaximizetheutilityofthe availabledatasources.
+
+Notethatthestatisticallysignificantestimatesofthein- proportionalhazardmodelsanalysisrepresentthesignifi- gene–environmentcorrelations(rGE)andgene–genecorre- significantgene–environmenteffectswithacontinuousen- vironmental variable discovered in the Cox fordifferencesinmeansofcontinuousenvironmentalfac- torsbetweenthegenecarriersandnoncarriers.Forallsig- nificant gene–environment synergistic effects with discreteenvironmentalvariableandforallsignificantgene hazardsmodelsanalysis,weusethechi-squaredtesttoas- sessthegenotypefrequencydifferenceacrosstheenviron- test,wewillneedtoconductpathanalysisemployingmul- tivariateregressionanalysisorstructuralequationmodel- ing, adjusted for various confounding factors, to significantgenotypeeffectsthatworkthroughenvironmen- andthesignificantgene–environmentinteractionorgene– geneinteractioneffectsonsurvivallikelihood.
+
+Multivariate Hazards Model for Survival Analysis
+
+The effects of the genotypes of the FOXO1A and FOXO3A,theirG×GandG×Einteractionsonsurvival likelihoodatveryadvancedages92–110areexaminedbased onCoxproportionalhazardmodelsusingtheavailable genotypicandlongitudinaldatafrom727interviewees(553 womenand174men;thesamplesizeusedinourCoxpro- portional hazards model analysis is slightly smaller than thatusedintheFADanalysisbecauseaverysmallnumber of cases who were interviewed and contributed DNA in 1998werelosttofollow-upandwehadtodropthemfrom theregression.Empiricaltestinghasshownthatdropping thesefewloss-to-follow-upcasesdoesnotaffecttheesti- mates)whowereaged92+andcontributedDNAintheCL- HLS1998baselinesurveyandsurvivedtoage100+either inthebaselineorinoneofthesubsequentfollow-upsur- veysconductedin2000,2002,2005,and2008,butalmost allofthemdiedbefore2008.Theassumptionofproportion- alityofthehazardswasassessedandmettherequirement forallofthemodelsanalyzed.Survivaltimeisenteredas daysbetweenthelastinterviewdateanddateofdeathfor thosewhodied(ordateat2008interviewforthe10indi- vidualswhostillsurvivedin2008follow-upsurvey),while usingtheexactageatlastinterviewasacovariate(survival analysisinpopulationagingstudiesusuallydoesnotuse ageatdeathorcensoringassurvivaltimebecauseitcould noteasilyidentifytheageeffectonthemortalityriskifthe ageisusedasthesurvivaltime).Demographiccharacteris- tics(includingexactageat1998baselinesurvey,gender andrural-urbanresidence,etc.),socialconnections,family support,healthpractices,theresiliencescore,andcurrent healthstatus(seeAppendix3)areincludedinthehazards modelsascovariatesinaforwardstepwiseanalysis.Results basedonthesequentialmodelsarepresentedtoshowhow theeffectsofgenotypesonsurvivalmaybemediatedby differentconfounders.Wealsotriedtoestimatetheeffects ofallpossiblegene–environmentinteraction(G×E)and gene–geneinteraction(G× G)termsintheCoxpropor- tionalhazardsmodels.
+
+Results
+
+General Effects of the Genotypes of FOXO1A and FOXO3A on Long-term Survival Probability From Middle Age to Age 100+
+
+probabilityfrommiddleagetoage100+,regardlessofcar- Dynamics Method subsection. The genotypes presented minor allele of any other four SNPs of FOXO1A FOXO3A.Theresultsshowthat,ascomparedwithnoncar- 1A-213are0.70(p=.0073)and0.71(p=.0152),respec-
+
+doneinthepreviouspublication(6).
+
+theprobabilityofsurvivalfrommiddleagetoage100+for womenwhoareacarrieroftheminorallelesofthe1A-209 and1A-213are30%and29%lowerthanthosewhoare noncarriers,andtheestimatesarestatisticallysignificant; thosemenwhocarrytheminorallelesof1A-209and1A- 213mayhave27%and35%lowerprobabilityofsurvival frommiddleagetoage100+,buttheestimatefor1A-209is notstatisticallysignificantandtheestimatefor1A-213is moderatelysignificant(p =.025)(Table1).Ascompared withnoncarriers,the ORofsurvivalforwomenandmen whocarrytheminorallelesof3A-310,3A-292,and3A-936 are 1.62–1.67 (p = .0002~–.0004) and 1.61–1.73 (p = .001~–.005),respectively.Theseestimatesofthegeneral effectsimplythat,onaverage,middle-agewomenandmen whocarrytheminoralleleofanyoneofthethreeSNPsof FOXO3Amayhave62%–67%and61%–73%higherprob- abilityofsurvivalfrommiddleagetoage100+,andallof theestimatesarehighlystatisticallysignificant.
+
+negativeandindependenteffectsofcarryingtheminoral- leleof1A-209onsurvivalinwomenareallhighlysignifi- cant(p andindependenteffectsof1A-213inwomenaremoder- ately(p =.029–.043)ormarginally(p andmagnitudeoftheORsbutwithlowerlevelofsignifi- and noncarriers of the minor allele of the 3A-292are notsignificant, 3A-936isonlymarginallysignificant(p = minoralleleofthe1A-213andnoncarriersoftheminoral- significant(p = .052–.066).Theseestimatesoftheindepen- the carrying or not-carrying the minor allele of the (Table1)andtheconventionalgeneticanalysis(2–7).
+
+The Independent and Joint Effects of the Genotypes of FOXO1A and FOXO3A on Long-term Survival From Middle Age to Age 100+
+
+TheanalysesconcerningFOXO1ApresentedinTable1 of the present study employing Formula (1) of the FAD methodandinpreviousrelevantstudiesfollowingthecon- ventionalgeneticandstatisticalapproach(6)arebasedon comparingthefrequenciesofcarryingtheminoralleleof theSNPsofFOXO1A(regardlessofwhethercarryingthe minoralleleoftheSNPsofFOXO3A)betweencentenari- ansandyoungercontrols.Soaretheanalysesconcerning FOXO3ApresentedinTable1andinthepreviousstudies (2–7).Althoughtheyareusefulinexploringthegeneralim- pactsofonegenotypeonlongevityregardlessofcarryingor not-carrying the other relevant genotype, these analyses cannotrevealtheindependent,joint,andinteractiveeffects ofthegenotypesofFOXO3AandFOXO1A,whichinflu- encesurvivalinoppositedirections.
+
+In men, the patterns of the independent effects FOXO1A and FOXO3A are substantially different thoseofwomen.Ascomparedwithmenwhoarenoncarri- FOXO1Ainmenareallnonsignificant(seethepanelsfor theminoralleleofoneofthetwoSNPsofFOXO1Aand FOXO3Aareallhighlysignificant(p = thegeneraleffects.
+
+ApplyingourextendedFADmethodexpressedinFor- survival(RS ij/00 allelesofoneofthethreeSNPsofFOXO3A,withtherefer- the independent effects (RS  and RS ), joint 10/00 01/00 (RS 11/00 withinthethreeSNPsofFOXO3Ageneandthecombina-
+
+Dual presence of the minor allele of one of the three SNPsofFOXO3Aandtheminoralleleofoneofthetwo SNPsofFOXO1Amayincreasethechanceofsurvivalfrom middleagetoage100+by12%–19% inwomenandby 14%–30% in men, as compared with those who neither carrytheminoralleleofthecorrespondingSNPofFOXO3A nor carry the minor allele of the corresponding SNP of FOXO1A,butalloftheestimatesassociatedwiththedual
+
+statisticallysignificant(seetheitalicandboldvaluesinTa- ofFOXO3AandthenegativeeffectsofFOXO1Asubstan- tially compensate each other, whereas the impacts FOXO3Aaresomewhatstronger.
+
+from.618to.643).Toavoidtheproblemsofmulticollinearity, weshouldnotincludemorethanoneSNPofFOXO1Aand morethanoneSNPofFOXO3Aineachregressionmodel. Instead,inModelsI,II,III,andIV,whichdonotinclude anyG×GandG×Einteractions,weincludeoneofthetwo SNPsofFOXO1AoroneofthethreeSNPsofFOXO3Aone byone.Inotherwords,eachofthesefourmodelshasfive submodels and each submodel includes one SNP only. ModelsI,II,III,andIValsosequentiallyintroducethepo- tentially confounding variables step by step. Model I in- cludes demographic and basic socioeconomic status: gender,singleyearofage,residence(urbanvsrural),edu- cationalattainmentandeconomicindependence.ModelII furtherincludesfamilyandsocialsupportvariables(suchas marital status, living arrangement, proximity to children, whetherhadfamilymembersascaregiver,andleisureac- tivitiesscore)andtheresiliencescore.ModelIIIaddshealth practice including regular exercise, smoking in recent 5 years,andheavyalcoholuse.ModelIVfurtherincludesthe deficitsindex(DI),asummaryindicatorofcumulativedefi- citsofdifferenthealthdimensionsofdailyactivities,physi- calperformance,cognitivefunction,depressivesymptoms, self-ratedhealth,chronicdisease,etc.,atoldages(seeAp- pendix3).ModelsV,VI,andVIIincludetheG×Ginterac- tions between 1A-209 and one of the three SNPs of FOXO3A,andModelsVIII,IX,andXincludetheG×G interactionsbetween1A-213andoneofthethreeSNPsof FOXO3A.ModelsV,VI,VII,VIII,IX,andXalsoinclude allpossibleG×EinteractionstermsamongtheSNPsand the social and behavior confounders in the Cox hazards models;weonlypresentthesignificantG×Eestimatesin Table4.
+
+The Effects of Interaction Between FOXO1A and FOXO3A on Survival From Middle Age to Age 100+
+
+Theabsolutevaluesofthecorrelationcoefficientsbe- <.01 and another half .01–.05). Moreover, FOXO1A on chromosome 13, FOXO3A on chromosome 6), theyarephysicallyindependentintermsoflinkagedis- equilibrium. Consequently, the assumption of indepen- CI are estimated by the bootstrap simulation the FOXO3A are not statistically significant (data shown).
+
+The Effects of SNPs of FOXO1A and FOXO3A and Their G × G and G × E Interactions on Survival at Very Advanced Ages, Based on Longitudinal Cohort Data From the Long-Lived Cases
+
+Four interesting findings appeared from the survivalfrommiddleagetoage100+discoveredinourcase previous studies (2–7) remain statistically significant veryadvancedages92–110.Asshownbytheestimatesof onlyveryslightlychangedtheestimatesofpreviouslyin- andtheconfounders.AftertheDIisaddedto likelihoodatveryadvancedages,werenolongersignifi- throughaffectinghealthstatus.However,thepositiveef-
+
+discussedinprevious subsectionsareallbasedoncross- sectionaldatafromlong-livedcasesandmiddle-agedcon- trols and the FAD approach. In this subsection, we presentthemultivariatesurvivalanalysisbasedonlongitu- 92–110, adjusted for 15 potentially confounding andhowweestimatedthese15potentiallyconfoundingfac- FOXO3Agenesarenotcorrelatedwitheachother.How- each other (with correlation coefficients ranging
+
+Table4. Relativehazardsofthegenotypes,theG×G(gene–gene),andthesignificantG×E(gene–environment)interactionsonsurvival likelihoodatveryadvancedages
+
+IncludingG×Gof1A-209and IncludingG×Gof1A-213and oneofthreeSNPsofFOXO3A, oneofthreeSNPsofFOXO3A, ExcludingG×GandG×E andsign.G×E andsign.G×E Models I II III IV V VI VII VIII IX X DemographicandbasicSES  Male(female) 1.15 1.21* 1.21 1.34** 1.33** 1.33** 1.33** 1.34** 1.34** 1.33**  Age 1.07*** 1.06*** 1.06*** 1.06*** 1.06*** 1.06*** 1.06*** 1.06*** 1.06*** 1.06***  Urban(rural) 1.05 1.08 1.09 1.02 1.02 1.03 1.02 1.02 1.02 1.02  1+yearofschooling(0) 0.97 1.05 1.05 1.05 1.06 1.06 1.07 1.05 1.05 1.06  Economicindependence(no) 0.71 0.77 0.81 0.74 0.73 0.73 0.71 0.72 0.73 0.71 Familyandsocialsupport  Currentlymarried(no) 0.87 0.88 0.89 0.92 0.92 0.94 0.93 0.92 0.94  Livingalone(no) 0.99 1.02 1.01 1.03 1.03 1.03 1.03 1.02 1.02  Closeproximitytochild(no) 0.95 0.94 0.97 0.97 0.97 0.97 0.97 0.97 0.97  Familymemberascaregiver(no) 0.97 0.96 1.04 1.00 1.01 0.99 1.02 1.02 1.00  Leisureactivitiesscore 0.91** 0.92** 0.99 0.99 0.99 0.99 0.99 0.99 0.98  Theresiliencescore 0.93*** 0.94*** 0.99 1.00 1.00 1.00 0.99 0.99 0.99 Healthpractice  Regularexercise(no) 0.82* 0.92 1.11 1.11 1.10 0.93 0.93 0.93  Smokinginrecent5years(no) 1.06 1.06 1.07 1.07 1.07 1.06 1.06 1.07  Currentheavyalcoholdrinker(no) 1.08 1.12 1.14 1.14 1.14 1.12 1.11 1.11  DI 19.47*** 20.56*** 20.71*** 20.08*** 18.75*** 18.43*** 18.26*** MaineffectsoftheSNPs  3A-310(noncarrieroftheminorallele) 0.84** 0.84** 0.85** 0.86** 0.76*** 0.83  3A-292(noncarrieroftheminorallele) 0.76*** 0.84  3A-936(noncarrieroftheminorallele) 0.77*** 0.83  1A-209(noncarrieroftheminorallele) 0.86 0.85 0.91  1A-213(noncarrieroftheminorallele) 0.95 0.94 0.99 G×Ginteractions  (1A-209)×(3A-310) 1.33*  (1A-209)×(3A-292) 1.36*  (1A-209)×(3A-936) 1.21  (1A-213)×(3A-310) 1.05  (1A-213)×(3A-292) 1.06  (1A-213)×(3A-936) 0.98 SignificantG×Einteractions  (1A-209)×(regularexercise) 0.68* 0.68* 0.69*  −2Loglikelihood 7866 7838 7833 7762 7752 7752 7751 7759 7759 7756  Numberofobservations 727 727 727 727 727 727 727 727 727 727
+
+Notes:Samplesize:553womenand174men,allwereaged92+in1998CLHLSbaselinesurveyandsurvivedtoage100+in1998orafollow-upwaveofthe CLHLSsurvey,allofthemwereHanChinesefromSouthernChina;therelativehazards(RH)=exp(B),whereBisthecoefficientofthecategoricalvariableestimated intheCoxproportionalhazardmodels.RHistheratioofthehazardofdeathwhenthevariable=1ascomparedtothereferencegroupindicatedintheparentheses. EachoftheModelsI,II,III,andIVhasfivesubmodels,andeachsubmodelincludesoneofthefiveSNPs(ie,twoSNPsofFOXO1AandthreeSNPsofFOXO3A). TheestimatesoftherelativehazardsofthepotentialconfoundersamongthefivesubmodelswithineachoftheModelsI,II,III,andIVarealmostidentical,withfew minordifferencesuptotheseconddecimalpoint.Inotherwords,theestimatesofthecoefficientsofthepotentialconfoundersinModelsI,II,III,andIVwerenot affectedbywhichSNPwasincludedintothemodel.Thus,wepresentonlyonesetoftheestimatesofthepotentialconfoundersintheModelsI,II,III,andIVcon- cerningtheSNP3A-310inTable4,andtheestimatesoftherelativehazardsofthemaineffectsoftheotherfourSNPs(1A-209,1A-213,3A-292,and3A-936)are listedinTable5.CLHLS=ChineseLongitudinalHealthyLongevitySurvey;DI,deficitsindex;SES,socioeconomicstatus;SNP=single-nucleotidepolymorphism.
+
+interactionterms between 1A-209 and the three SNPs of FOX3Aareaddedintothemodel(ModelsV,VI,andVII), thepositiveeffectsofthethreeSNPsofFOXO3Aevenbe- came stronger—increasing survival likelihood by 23%– 24%(p <.01).TheseestimatesconfirmthatFOXO3Ahas itsownsignificantandpositiveimpactsonsurvivalatad- vancedagesindependentoftheeffectsofotherpotential socialandbehavioralmediatorsorconfounders.Thisfind- ingisingeneralconsistentwiththeresultoftheGerman study(5)showingthattheFOXO3Avariantsweremore frequent in centenarians than in 90-year-olds based on
+
+threeSNPsofFOXO3Aareincluded.
+
+Second,thenegativeeffectsofcarryingtheminoral- lelesoftheSNPs1A-209and1A-213onlong-termsur- vival from middle age to age 100+ discovered by
+
+agesby31%–32%(p VII that included all potentially confounding anyofthethreeSNPsofFOXO3A.
+
+Table5. 1A-213,3A-292,and3A-936intheModelsI,II,III,andIV
+
+Discussion
+
+on the effects of FOXO genes on longevity, the studyhasmadeafewuniquecontributions.First,theex- demographic interpretation to the conventional case– thesameestimatesoftheORsofsurvivalandtheirassoci- by the conventional case–control population analysisonlongevityusingthelogisticregressioncontrol- lingforthesamecovariatesastheFADdoes.Thisfactver- ifies the statistical properties of our FAD method. ofsurvivalfromagextox + nwouldbeincreasedorre- presents ORs expressing the difference of ofsurvival.
+
+SNP=single-nucleotidepolymorphisms.*p<.10;**p<.05;***p<.01.
+
+are no longer statistically significant at very advanced ages,adjustedforthepotentiallyconfoundingfactors(see theestimatesof1A-209and1A-213inModelsItoXin Tables4and5).
+
+Third, the G × G interactions between 1A-209 3A-310 and between 1A-209 and 3A-292 decreasethesurvivallikelihoodby33%–36%(p someofthenonsignificantp
+
+Second,we provideduniqueestimatesoftheindepen- dent, joint, and interactive effects of the genotypes of FOXO1A and FOXO3A on probabilities of survival from middleagetoage100+.Inadditiontotheinterestingfind- ingsoftheindependenteffectsofFOXO1AandFOXO3A, wediscoveredthatthepositiveeffectsofFOXO3Aandneg- ative effects of FOXO1A substantially compensate each otherifonecarriesboth,althoughFOXO3Ahasastronger impact.Thisisasignificantstepforwardascomparedwith theconventionalgeneticanalysisreportedinpreviouspub- licationsontheassociationofFOXO3AorFOXO1Agenes withlongevity(2–7)thatdidnottakeintoaccountthe
+
+
+
+Table6. Chi-squareteststoassessrGEandrGGforthesignificantG×EandG×GsynergisticeffectsdiscoveredbytheCoxproportional hazardsmodelanalysis
+
+SignificantSynergisticEffects (1A-209)×(r.exercise) (1A-209)×(3A-310) (1A-209)×(3A-292) (1A-209)×(3A-936) Regularexercise 3A-310 3A-292 3A-936 Yes No Carrier Noncarrier Carrier Noncarrier Carrier %carrying1A-209 40.87 39.83 39.59 40.54 39.44 40.71 40.73 39.35 Pofchi-squaretestofrGEorrGG .917 .937 .917 .913 Conclusion rGEdoesnotexist rGGdoesnotexist rGGdoesnotexist rGGdoesnotexist
+
+Note:rGE=gene–environmentcorrelations;rGG=gene–genecorrelations.
+
+effectsofwhethercarryingtheminoralleleoftheSNPof anotherrelevantgene(FOXO1AorFOXO3A)thataffects longevityinoppositedirections.
+
+betweenFOXO1AandFOXO3Athatarethethemesofthis studybecausetheFOXO3AgenotypicdatafromtheNorth- ernChinasamplesarenotavailable.Wearesofarnotable toinvestigatetheimpactsoftheG×Ginteractionsbetween FOXO1AandFOXO3AaswellastheG×Einteractionon survivalatagesyoungerthan92yearsastheneededgeno- typic data matched with the follow-up survival-death observationsforparticipantsyoungerthanage92arenot available.Wearealsonotabletointerpretwhythenegative effectsofFOXO1Aonlong-termsurvivalfrommiddle-age toage100+foundinthecross-sectionalcase–controlanal- ysisdiminishedatveryadvancedages92–110inthecohort survivalanalysis;itisnotclearwhytherearesubstantial genderdifferencesintheindependenteffectsofthegeno- typesofFOXO1AandFOXO3Aonprobabilitiesofsurvival frommiddleagetoages100+discoveredbyus.Thebio- logical, epigenetic, and environmental mechanisms by whichFOXOgenes’G×Gcombinationsandinteractions andG×Einteractionsmayaffectthehumanlongevityat oldagesarenotinvestigatedinourpresentbiodemographic analysisbutarewarrantedinthefutureinterdisciplinary research(27–30).Forexample,afurtherstudyneedsto investigatehowG×Einteractionbetween1A-209and regular exercise is translated into physiological effects on cellular responses that may significantly increase survivallikelihood at advanced ages. More replication analyses and further biological functional study plus demographic–socialresearchusinggenotypicandlongi- tudinal phenotypic data may provide stronger scientific evidenceandexplanationsforthefindingspresentedin thisarticle.
+
+Third,wepresenteduniqueestimatesofthegeneticinflu- enceofFOXO1AandFOXO3AandtheirG×Ginteractions onsurvivalatveryadvancedages,adjustedforvarious potentially confounding factors, using prospective co- hortdata.WefoundthatthepositiveeffectsofFOXO3A onsurvivalfrommiddleagetoages100+remainstatisti- cally significant at very advanced ages, but the corre- spondingnegativeeffectsofFOXO1Adisappear.Wealso discovered that the interactions between 1A-209 and 3A-310andbetween1A-209and3A-292significantlyde- creasethesurvivallikelihoodatveryadvancedagesby 33%–36%.
+
+Fourth,thisisthefirststudythatinvestigatestheimpacts ofG×EinteractionsbetweentheFOXOgenesandsocial- behavioralfactorsonsurvivalatveryadvancedages.Our newfindingthatG×EinteractionbetweentheSNP1A-209 andregularexercisesignificantlyincreasethesurvivalby 31%–32%(p <.05)atveryadvancedagesmayhaveimpor- tantpolicyandpracticalrelevance.
+
+studyandunansweredquestionsthatneedtobeexplored further.Onelimitationisthat,aswestatedinTheExtended FixedAttribute Dynamics Method section and expressed mathematicallyinFormulasA4andA5intheAppendix1, boththeFADmethodemployedinthisarticletoproduce theestimatesofTables1–3andtheconventionalcase–control statisticalgeneticapproachassumethat(a)theinitialdistri- butionsofthegeneticvariantand(b)theirassociationwith longevitydonotdiffersubstantiallybetweencohortsof long-livedindividualsandyoungercontrols.However,al- thoughrestrictingouranalysistoasingleethnicgroup(Han Chinese) residing in Southern China and classifying the samplesbygenderaswellmayreduceandhopefullymini- mizethebias,weareawareofthattheremaystillbebias becauseofpotentialviolationoftheassumptions(a)and (b);andwedonotknowtowhatdegreetheseassumptions maybeviolatedintherealworld.Thisimpliesthatthere- sultsoftheORofsurvivalprobabilityfrommiddleageto age100+measuringthegeneral,independent,andjointef- fectsoftheFOXOgenotypesbasedondatafromthecases (centenarians)andcontrols(middle-agegroup),presented inTables1–3,maybesubjecttoabiasofunknownmagni- tudebecauseofconfoundingwithbirthcohortsofcentenar- iansandmiddle-ageindividuals.Similarcautionswerealso raised in previous studies following the case–control ap- proach(2–6),andthepotentialbiasneedstobeevaluatedin thefuturewhenmoresophisticatedcohortfollow-updata sourcesbecomeavailable.AlthoughLiandcolleagues(6) havedonethereplicationanalysisonthegeneraleffectsof FOXO1AonlongevityusingfemalesamplesfromSouthern andNorthernChina,wearenotabletoperformthereplica- tionfortheindependent,joint,andG×Ginteractioneffects
+
+Finally,itisworthnotingthat,althoughthegeneticef- fectsofFOXOgenesonlongevityestimatedinthisarticle andtheotherstudies(2–8)arefascinating,wearenotable toestimatetheproportionofvarianceinindividuals’proba- bilitiesofsurvivalfrommiddleagetoage100explainedby theFOXOgenes.Thisisbecausethecohortdataonout- comeofthatwho(amongthemembersofthemiddle-age controlgroup)willsurvivetoage100requiredforsuchvar- ianceanalysisarenotavailable.However,previousstudies onelderlytwinshaveshownthatonlyonefourthofthe differencesinindividuallifespanaredeterminedbyge- neticinherencethatinvolvesmultiplegenesandtheother threefourthsaredeterminedbysocial,behavioral,and environmentalfactors(31).Clearly,knowingwhichgen- otypesapersoncarriesdoesnottellwhetherheorshe maysurvivetoage100.Themostimportantissueisto promotebettersocialandenvironmentalconditionsand healthy behaviors that will affect health and longevity directlyandindirectlythroughinteractionswithgenet- ics.OurnewfindingthatG×Einteractionbetweenthe SNP1A-209andregularexercisesignificantlyincrease survival by 31%–32% at very advanced ages has pro- videdapieceofstrongempiricalevidencetosupportthis understanding.
+
+Funding
+
+Sundaresa
+
+R,Gupt
+
+,Ki
+
+,etal.Sirt
+
+blocksthecardiachy- pertrophic response by augmenting Foxo
+
+a-dependent antioxidant defensemechanismsinmice.J Clin Invest.
+
+;
+
+(
+
+):
+
+Evans-Anderso
+
+J,Alfier
+
+M,Yutze
+
+E.Regulationofcardio- myocyteproliferationandmyocardialgrowthduringdevelopmentby FOXOtranscriptionfactors.Circ Res.
+
+;
+
+(
+
+):
+
+–
+
+Li
+
+,Dorma
+
+B,Roda
+
+,Kenyo
+
+daf-
+
+:a
+
+NF-
+
+/forkhead familymemberthatcanfunctiontodoublethelife-spano
+
+aenorhab- ditiselegans.Science.
+
+;
+
+:
+
+–
+
+Og
+
+,Paradi
+
+,Gottlie
+
+,etal.Th
+
+orkheadtranscriptionfactor DAF-
+
+transducesinsulin-likemetabolicandlongevitysignalsi
+
+elegans.Nature.
+
+;
+
+:
+
+–
+
+Giannako
+
+E,Gos
+
+,Junge
+
+A,Hafe
+
+,Leever
+
+J,Partridge L. Long-lived Drosophila with overexpressed
+
+OXO in adult fat body.Science.
+
+;
+
+:
+
+Kennet
+
+W,Finc
+
+Between Zeus and the Salmon: The Biodemography of Longevity.Washington, DC: National Research Council,Nationa
+
+cadem
+
+ress.
+
+Ewban
+
+C.Mortalitydifferencesb
+
+POEgenotypeestimatedfrom demographicsynthesis.Genet Epidemiol.
+
+;
+
+:
+
+–
+
+Zen
+
+,Posto
+
+,Vlosk
+
+A,G
+
+,eds.Healthy Longevity in China: Demographic, Socioeconomic, and Psychological Dimensions;Dor- drecht,th
+
+etherlands:Springe
+
+ublisher;
+
+Vaupe
+
+W.Analysisofpopulationchangesanddifferences.Presented at:th
+
+nnua
+
+eetingofth
+
+opulatio
+
+ssociationo
+
+merica; April
+
+,Denver,CO.
+
+Yashi
+
+I,Benedicti
+
+D,Vaupe
+
+W,etal.Gene,demographyand lifespan:thecontributionofdemographicdataingeneticstudiesof agingandlongevity,Am J Hum Genet.
+
+;
+
+:
+
+–
+
+Zen
+
+,Vaupe
+
+W.Associationoflatechildbearingwithhealthy longevityamongtheoldest-oldi
+
+hina.Popul Stud,
+
+;
+
+(
+
+):
+
+–
+
+Newma
+
+C.Biostatistical Methods in Epidemiology. Wiley series in probability and statistics. Ne
+
+ork: John Wiley and Sons;
+
+Ottman R. Gene-environment interaction: definition and study de- signs.Prev Med.
+
+;
+
+:
+
+–
+
+IOM(Instituteo
+
+edicine,Nationa
+
+cademyo
+
+ciences)Commit- tee.Genes, Behavior, and the Social Environment: Moving Beyond the Nature/Nurture Debate.In:Hernande
+
+M,an
+
+laze
+
+G,eds Washington,DC:Nationa
+
+cademiao
+
+ciences;
+
+Hil
+
+E.Multivariatesurvivorshipanalysisusingtwocross-sectional samples.Demography.
+
+;
+
+:
+
+–
+
+Williamso
+
+L,Rau
+
+,Slivk
+
+R,Trapp
+
+Resistanceexercise, skeletalmuscl
+
+OXO
+
+A,and
+
+-year-oldwomen.J Gerontol A Biol Sci Med Sci.
+
+;
+
+(
+
+):
+
+–
+
+Kah
+
+J.Epigenetican
+
+itochondria
+
+echanismsi
+
+gingand Longevity:AReportof
+
+eetingofth
+
+ongevit
+
+onsortium,Napa, California,October
+
+–
+
+,
+
+J Gerontol: Biol Sci.
+
+;
+
+A(
+
+):
+
+–
+
+Bradsha
+
+M.Genetic Influences on Social Life: Evidence, Pathways, and Implications for Sociological Inquiry [P
+
+dissertation];Austin, TX:Th
+
+niversityo
+
+exasa
+
+ustin;
+
+Approvedbyth
+
+is- sertatio
+
+ommitteeco-chairedb
+
+hristophe
+
+Ellisonan
+
+ark D.Hayward.
+
+Weinstei
+
+,Hermali
+
+I,Stot
+
+A.Population Health and Aging: Strengthening the Dialogue between Epidemiology and Demography; Ne
+
+ork,NY:Ne
+
+or
+
+cademyo
+
+ciences;
+
+Herskin
+
+M,M
+
+u
+
+,Hol
+
+V,Sorense
+
+A,Harval
+
+,Vaupel JW.Theheritabilityofhumanlongevity,apopulation-basedstudyof
+
+Danish twin pairs born
+
+–
+
+Hum Genet.
+
+;
+
+:
+
+–
+
+Andersso
+
+,Alfredsso
+
+,Källber
+
+“Calculatin
+
+easuresof Biologica
+
+nteraction”.Eur J Epidemiol.
+
+;
+
+(
+
+):
+
+–
+
+Camero
+
+C,Trived
+
+K.Microeconometrics: Methods and Applica- tions.;Cambridge:Cambridg
+
+niversit
+
+ress;
+
+This study is part of the project funded by National Institute of the Chinese Ministry of Science and Technology (973 grant 2007CB512100toX.L.T.).
+
+Acknowledgments
+
+JianxinLifortheircontributionsintheChineseLongitudinalHealthyLon- gevitySurveyandtheDNAsamplescollection,andwethankallinter- FengyuZhang,QiushiFengandJessicaSautter.
+
+CompetingInterests:Theauthorshavedeclaredthatnocompetinginter- estsexist.
+
+HumanParticipationProtection:TheResearchEthicsCommitteesof DukeUniversityandPekingUniversitygrantedapprovalfortheProtection ofHumanSubjectsforeachwaveoftheChineseLongitudinalHealthy LongevitySurvey,whichisthedatasourceofthisstudy.Thesurveyre- spondentsgaveinformedconsentbeforeparticipating.
+
+collectionanddataanalysis,andwrotethepaper;L.C.andH.C.ana- lyzeddata;X.L.T.andH.Q.C.ledthelaboratoryworkofDNAextrac- tion and genotyping, Y.L. and Z.X. performed data and article.
+
+ofimmunehomeostasis:moleculestodiefor?J Immunol.
+
+;
+
+:
+
+–
+
+associatedwithhumanlongevity.Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+Anselmi CV, Malovini A, Roncarati R, et al. Association of FOXO
+
+Alocuswithextremelongevityinasouthernitaliancentenar- ianstudy.Rejuvenation Res.
+
+;
+
+:
+
+–
+
+longevity.Aging Cell.
+
+;
+
+:
+
+–
+
+Proc Natl Acad Sci U S A.
+
+;
+
+:
+
+–
+
+FOXO
+
+Awithlongevitytraiti
+
+a
+
+hinesepopulations.Hum Mol Genet.
+
+;
+
+:
+
+–
+
+longevityandselectedage-relatedphenotypes:agenome-wideassoci- ation study in the Framingham Study. BMC Med Genet.
+
+;
+
+(suppl
+
+):S
+
+Kuninga
+
+,Mäg
+
+,Westendor
+
+GJ,etal.Haplotypesinthehu- age.Eur J Hum Genet.
+
+;
+
+:
+
+–
+
+Kenyo
+
+J.Thegeneticsofaging.Nature.
+
+;
+
+:
+
+–
+
+Transcription Factor, FOXO
+
+a, accelerates cellular senescence humandermalfibroblasts.J Gerontol A Biol Sci Med Sci.
+
+;
+
+(
+
+):
+
+–
+
+Drög
+
+Oxidativeagingandinsulinreceptorsignaling.J Gerontol A Biol Sci Med Sci.
+
+;
+
+(
+
+):
+
+–
+
+Inthiscase,weconnecttheyoungercohortandthelong- thattheinitialdistributionsofthecombinationsofthege- oflong-livedindividuals(denotedas p1 ij controls(denotedasp2 ij thencomparetheobservedp2 (x+n)ofthelong-livedindi- ij viduals(cases)andtheobserved p2 ij ahypotheticalcohortandderivetheestimateofRS ij/00 long-lived individuals (as cases) and younger namely assuming that there is no substantial problem populationstratification.Wefurtherexploreinthefollow- adoptedinbothFADandtheconventionalcase–controlsta- assumptionisviolated.
+
+ofresilienceamongcommunity-dwellingolderwomen.J Psychiatr Res.
+
+;
+
+:
+
+–
+
+longevityi
+
+hina.Curr Gerontol Geriatr Res.I
+
+ress.
+
+todeathintheelderlythanphenotypicfrailty:Lessonsfromth
+
+ar- diovascula
+
+ealt
+
+tudy.J Am Geriatr Soc.
+
+;
+
+:
+
+–
+
+G
+
+,Dupr
+
+E,Sautte
+
+,Zh
+
+,Li
+
+,Zen
+
+Frailtyandmortal- ity among Chinese at advanced ages. J Gerontol Soc Sci.
+
+;
+
+B(
+
+);
+
+–
+
+The definition of pij(x) is given in the text of The ExtendedFixedAttributeDynamicsMethodsection.Let s (x), s (x), s (x), and s (x) denote the conditional 11 10 01 00 survivalprobabilityfromagextox + nforthosewhoare bothcarrierandexposed,carrierandnot-exposed,non- carrierandexposed,andneithercarriernorexposed,re- spectively (the terms “carrier, noncarrier, exposed and not-exposed”aredefinedinTheExtendedFixedAttribute Dynamics Method section in the text); N(x), the total numberofpersonsagedx; S(x),theoverallaveragecon- ditionalsurvivalprobabilityfromagextox + nforall personsagedx.
+
+ij ij birthamongtheindividualsbornx + ago,respectively;N1 (0)andN2(0),theinitialsize(num- ij ij berofbirths)ofthecohortsoftheindividualsbornx + yearsagoandxyearsago,respectively;S1(0→x)andS2 0toagexamongalloftheindividualsbornx + andxyearsago,respectively;C1 ij ij thei – age0toxforallofthecohortmembersbornx + ago and x years ago, respectively; p1 (x) and p2 (0), ij ij geneticvariantandthefixedexposureamongallindividu- alsagedxinthecohortsbornx +
+
+BecauseN(x) pij(x) s ij(x) = N(x) S(x) pij(x + that
+
+Wechoosethegroupofindividualswhoareneitheracar- riernorexposedasareferencegroup,anditsimilarlyfol- lowsthat
+
+survivalfromagextoagex + nofthosewiththei–jcombi- carriernorexposed:
+
+Notethattheabovemathematicalanddemographicderi- x + agextox + p ij
+
+appliedtothecross-sectionaldatafromthelong-livedindi- vidualsagedx + fact assumes that: p1 (x) = p2 (x) or p1 (0)C1 = p2 (0)C2 ij ij ij ij ij ij namelyassuming(a)theinitialdistributionsofthecombi- twocohortsbornx + same,thatis, p1 (0) = p2 ij ij
+
+Notethatassumingadditiveversusmultiplicativeinter- actionsisnotpurelyastatisticalquestionbutratheraone basedonwhatweknowaboutthesocialenvironment,be- havior,andbiology(25).Inotherwords,itiscontentbased, andweshoulddeterminewhetherweadoptanadditiveor multiplicativeassumptioncasebycasebasedonempirical dataorthroughlearningfromliterature.
+
+same,C1 =C2 .Iftheseassumptionsaremet,the ij ij survivalRS / ij 00 cross-sectional data adequately provides the estimate oftheORofsurvivalarenotdirectlyaffectedbythediffer- bornx + violatedbecauseofpopulationstratificationand/ortheun- knowninteractionsamongthegeneticvariant,fixedexpo- havebeennopreviouslypublishedstudiesabouttheinflu- ences of FOXO genes on mortality from birth to age)inthedifferentcohortsbornx + this study, we control for population stratification in andmiddle-agecontrolsbyrestrictingouranalysistoasin- cohortdatasourcesbecomeavailable.
+
+standardstatisticalsignificancetests(23)toassesswhetherthe interactioneffectsestimatedbyFormulas(A6)and(A7)are statisticallysignificantbecausethefunctionaldistributionsof Formulas(A6)and(A7)areunknown,atleasttoourknowl- edge.Intheory,wemayusemultivariateDeltamethodtodo thestatisticalsignificancetests.However,inthiscasetheDelta methodisnotfeasiblebecausewehaveeightvariables(ie, P (x)andP (x + n));thesamplesizemayusuallynotbelarge ij ij enoughtoestimatethe72parameters(8variancesplus64(=8 acarefulliteraturesearch,webelievethatabootstrapsimula- intervalsandPvaluesofISmandISa(32,33).
+
+Appendix 3. Potentially Confounding Factors Included in the Cox Hazards Regression Models
+
+Wechoosethefollowingvariablesasrelevantcovariates basedonreviewsofpreviousstudiesinthisfieldandour understandingoftheChinesesocialcontext.
+
+Demographic and socioeconomic variables.—Demographic andsocioeconomicvariablesincludeage,gender,residence (ruralvsurban),education(noschoolingvs≥1yearof schooling;notethattwo thirdsoftheChineseoldest old aged80+reported“noschooling”)andeconomicindepen- dence(havinghisorherownretirementwageand/orearnings vsnoincome).
+
+Appendix 2. Estimating the Effects of Interactions Between the Genetic Variant and the Fixed Exposure on Longevity Following the FAD Approach
+
+Social and family support and villageoronthesamestreet,vsthosewhohadneitherco- residentchildrennorchildrenlivingnearby).Wealsoexam- socialsupportwasmeasuredbyaquestionthataskedpartici- basedonfrequencyofparticipationinsevenactivities:per- and/orpets,playingcardsormah-jong,participatinginorga- andbooks,andwatchingTVandlisteningtotheradio.Re- sevenscores;theresultingscalehasarangefrom0to7.
+
+gene-fixedexposureinteractionsonsurvivalfromagextox + n,usingtheORsofsurvival(RS , i = 0,1; j = 0,1)de- ij/00 rivedbyFormula(2).
+
+Onamultiplicativescale,theInteractionIndexofSur- vival(ISm)isestimatedas:
+
+Onanadditivescale,theInteractionIndexofSurvival (ISa)isestimatedas:
+
+IfISmorISaissignificantlygreaterorlessthan1,the interactionbetweenthegeneticvariantandthefixedexpo- surepositivelyornegativelyaffectssurvivalfromagexto x + n.
+
+The resilience score.—The resilience score was con- structedbasedonthemorestraightforwardandsimplified definitionofresiliencespecifiedinLamondandcolleagues (34),namely,resilienceconnotestheabilitytoadaptposi- tivelytoadversity(i.e.abilityofcopingandadjustment). Weselectedsevenavailableandrelevantitemsinthedemo- graphic study CLHLS to construct the resilience score, whichisactuallyasimplifiedversion(focusingoncoping andadjustment)oftheresilienceindexusedinthein-depth psychologicalstudy(35).
+
+as a proxy for biological age; as a predictor of healthchange,andutilizationofhealthservicesandhasim- andispositedtocapturethecumulativedeficitsofthesam- basedon39variablesthatincludecognitivefunction,instru- mental activities of daily living, activities of daily physical performance functional limitations, interviewer-reported health, hearing loss and vision the past 2 years, and reports of specific chronic inthepastyearforwhichascoreof2wasgivenifthenum- usedtoconstructtheDIisavailableelsewhere(37).
+
+Health practices.—Cigarette smoking was assessed by thefollowingquestion:“Doyousmokeregularlyatthepres- enttime?”Responseoptionswere“no”(coded0)and“yes” (coded1).Basedonrelativelydetailedinformationconcern- ingthefrequency,quantitiesandtypesofalcoholconsumed, wecodedparticipantsas“heavyalcoholdrinker”(defined ashavingatleast200gofliquoror400gofbeerperday) (code=1)versus“notheavyalcoholdrinker”(code=0). Exercisewasassessedbythefollowingquestion:“Doyou exercise regularly at the present time?” Response options were“yes”and“no,”coded1and0,respectively.
+
+Thefrequencydistributionsofthe15covariatesincluded inourCoxproportionalhazardsregressionmodelsarenot presentedinthisarticleduetospacelimitation,andare availableuponrequest.
+
+Deficits index.—We constructed an index of

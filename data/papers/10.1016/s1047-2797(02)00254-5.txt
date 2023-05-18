@@ -1,0 +1,541 @@
+Angiotensin I-Converting Enzyme (ACE) Gene Polymorphism in Relation to Physical Performance, Cognition and Survival—A Follow-up Study of Elderly Danish Twins
+
+HENRIK FREDERIKSEN, MD, DAVID GAIST, MD, PHD, LISE BATHUM, MD, PHD, KJELD ANDERSEN, MD, PHD, MATT MCGUE, PHD, JAMES W. VAUPEL, PHD, AND KAARE CHRISTENSEN, MD, PHD
+
+PURPOSE: Studies of younger individuals have suggested an association between ACE genotype and physical and cognitive performance. Using a longitudinal study of elderly twins we studied the association between ACE genotype and physical and cognitive functioning and survival in old age.
+
+METHODS: Participants were
+
+twins aged
+
+(cid:
+
+) years from the
+
+and
+
+surveys of the Longitu- dinal Study of Aging Danish Twins. Cognitive skills were assessed by the MMSE, while physical abilities were determined through self-report in
+
+and through both self-report and measurement of perfor- mance in two physical tasks in
+
+Survival status was obtained through linkage with a national death register. RESULTS: Neither physical nor cognitive performance was associated with ACE genotype at baseline in
+
+, or at follow-up in
+
+For participants in both surveys longitudinal changes in these skills did not depend on ACE genotype. The relative risk of dying was increased in II compared with the DI and DD genotype with relative risks of
+
+(
+
+percent confidence intervals
+
+–
+
+) and
+
+(
+
+–
+
+), respec- tively. CONCLUSION: We found no substantial effects of ACE genotype on physical and cognitive perfor- mance, or rate of change among elderly. Persons with the D allele may have a lower mortality at older ages. Ann Epidemiol
+
+;
+
+:
+
+–
+
+©
+
+Elsevier Science Inc. All rights reserved.
+
+METHODS: Participants were 684 twins aged 73(cid:2) years from the 1997 and 1999 surveys of the Longitu- dinal Study of Aging Danish Twins. Cognitive skills were assessed by the MMSE, while physical abilities were determined through self-report in 1997 and through both self-report and measurement of perfor- mance in two physical tasks in 1999. Survival status was obtained through linkage with a national death register.
+
+RESULTS: Neither physical nor cognitive performance was associated with ACE genotype at baseline in 1997, or at follow-up in 1999. For participants in both surveys longitudinal changes in these skills did not depend on ACE genotype. The relative risk of dying was increased in II compared with the DI and DD genotype with relative risks of 1.6 (95 percent confidence intervals 1.1–2.5) and 1.3 (0.8–2.1), respec- tively.
+
+We found no substantial effects of ACE genotype on physical and cognitive or rate of change among elderly. Persons with the D allele may have a lower mortality at
+
+WORDS: Genetics, Epidemiology, Aging, Polymorphism (Genetics), Physical Fitness, Twins.
+
+INTRODUCTION
+
+DD and heterozygotes DI. The genotype accounts for ap- proximately half of the variance in the circulating ACE level and from the II to the DD genotype the presence of each D allele is associated with an additive effect on ACE activity (50% higher in the DD compared with the II geno- type) (1). The cleavage of angiotensin-I by ACE produces the octapeptide angiotensin-II, which is a potent vasocon- strictor. The relationship between ACE genotypes, in par- ticular DD, and the occurrence of cardiovascular and renal diseases has therefore been the focus of several studies in the past decade. The results from these association studies have not been consistent, and for ischemic heart disease publication bias has recently been shown to be a likely ex- planation for this discrepancy (2).
+
+A polymorphism in the gene coding for Angiotensin I-Converting Enzyme (ACE) was identified in 1990 (1). The polymorphism is due to a 287 bp fragment in the ACE gene in chromosome 17. The fragment is present in the in- sertion (I) variant and absent in the deletion (D) variant, which results in the three genotypes: Homozygotes II and
+
+From the Department of Epidemiology, Institute of Public Health, Uni- versity of Southern Denmark, Main Campus: Odense University (H.F., D.G., K.A., K.C.); Department of Clinical Biochemistry, Odense Univer- sity Hospital (L.B.); Department of Psychology, University of Minnesota, Minneapolis, (M.M.); Max Planck Institute for Demographic Research, Rostock, Germany (J.W.V.); and the Danish Center for Demographic Re- search, University of Southern Denmark, Main Campus: Odense Univer- sity (K.C.).
+
+In the past few years the ACE gene polymorphism has also been associated with the outcome of physical exercise, especially endurance performance. Presence of the II geno- type was associated with improved performance (3–6). However, the study subjects were mostly young healthy males from highly selected populations (e.g. elite athletes and military recruits) and the samples were small (3–6).
+
+Address correspondences to: Kaare Christensen, MD, PhD, Research Professor, Institute of Public Health, Epidemiology University of Southern Denmark, Sdr. Boulevard 23a, DK-5000, Odense C., Denmark. Tel.: (cid:2)45 65 50 30 49, Fax: (cid:2)45 65 90 69 38, E-mail: kchristensen@health. sdu.dk Received July 5, 2001; revised December 13, 2001; accepted December
+
+Received July 5, 2001; revised December 13, 2001; accepted December 27, 2001.
+
+relationship of ACE genotype to cognitive performance and survival. Due to the well-established association between the I/D genotype and the stepwise phenotypic expression of the ACE gene (1) it could further be hypothesized that any association with examined phenotypes would result in step- wise trends in the differences.
+
+MATERIAL AND METHODS
+
+Study Population
+
+The population in this study was drawn from the 1997 and 1999 surveys of the longitudinal study of aging Danish twins (LSADT) which has been described in detail else- where (18). In brief, the LSADT began in 1995 and is an ongoing longitudinal study of twins born before 1929 and identified in The Danish Twin Registry. The Danish Twin Registry includes all twins born in Denmark between 1870 and 1910, and same-sex pairs born between 1911 and 1930. The LSADT participants are interviewed every second year in their homes by lay interviewers from the Danish Na- tional Institute of Social Research who have substantial ex- perience in interviewing the elderly. The 1997 survey comprised 2172 individuals corresponding to a participa- tion rate of 78.7 percent. We subsequently asked individu- als from pairs where both twins participated in the  interview study (n 974) to allow a trained technician to visit them in their homes and draw a sample of blood. Blood was sampled from 689 individuals (Fig. 1) and ACE genotype was determined in 554. For 130 monozygotic (MZ) twins, the ACE genotype was determined for one twin in the pair and was then assigned to the co-twin. Genotyping failed due to technical problems in 5 cases. The study population from the 1997 survey therefore con- sisted of 684 individuals of whom 547 were reassessed in 1999 (Fig. 1).
+
+Physical performance is important for younger people but even more so among the elderly where physical perfor- mance together with cognitive function determine whether life can be lived independently. Cognitive impairment and dementia have also been reported to be associated with ACE genotype, although recent studies have come to oppo- site conclusions regarding ACE genotype and risk for Alzheimer’s disease (AD) (7, 8). An increased risk of AD was associated with the I allele in one study (7), but the D allele in another (8).
+
+enced by ACE genotype since a German study found an in- creased frequency of the DD genotype in octogenarians (9). This finding could not, however, be confirmed in two large studies of centenarians (10, 11). Studies of elderly twins have found evidence of substantial genetic influence on both physical (14) and cognitive functioning (15, 16) as well as a moderate genetic influence on life span (17). Twin studies have mostly been used for determining the relative contribution of genes and environment to the variation of a phenotype but less so for identifying specific genetic vari- ants of importance. Based on the previous association stud- ies and the fact that the renin-angiotensin system is involved in cardiovascular and renal homeostasis and that ACE activity and angiotensin receptors can be demon- strated in various peripheral tissues including skeletal mus- cle (12) and brain (13) it seems conceivable that the I/D polymorphism that is associated with the circulating ACE activity could be associated with physical and cognitive function and survival at older ages. We therefore found it relevant to investigate the possible relations of ACE geno- type to physical and cognitive abilities in a large sample of older Danish twins who are being followed longitudinally. This twin cohort provided the evidence for a substantial ge- netic component to the phenotypes we study. Here we use the twin cohort as a longitudinal study of individuals, al- though we take advantage of and pay attention to the de- pendency between the two twins within a pair. Based on the previous literature, it could be hypothesised that the II ACE genotype is associated with better physical perfor- mance in the elderly. Previous studies were not consistent
+
+As twin zygosity was determined through a self-report questionnaire, a method that has been shown to result in less than 5 percent misclassification (19), the number of misclassified MZ twins was very small.
+
+Genotyping
+
+The ACE genotyping was done according to Rigat et al (20). To avoid the earlier reported mistyping of ACE het- erozygotes (ID genotypes misclassified as DD) (21, 22), all samples typed as DD were reamplified as described by Shan- mugam et al (21) with another set of primers in the pres- ence of a positive control (ID/II).
+
+Physical and Cognitive
+
+Physical ability was assessed through self-report in 1997, and through both self-report and the measurement of per- formance in two physical tasks in 1999. The questions re-
+
+'1 died before and 79 declinedarticipation in 1999 surve:  $$Longitudinal Study of AgingDanish Twins - 1997 survey2172 participating twins1198 singles and487 pairs (974 individuals)280 declined, Asked to give DNA samplesampling failed in 5Sufficient DNA sample obtainedfrom 689*ACE genotypedDirect: 554 / Indirect’: 130 Study population 1997N = 684      Reassessment population 1999N = 547   Interview including:Self-reported physicalabilities, health, life-style and cognitivetesting       Same instrument as in1997+physical tests                
+
+FIGURE 1. Flow chart of 684 ACE genotyped twins from the Longitudinal Study of Aging Danish Twins - the 1997 and 1999 surveys.
+
+ferred to the ability on the day of the interview. Research has shown that physical abilities can be reliably and val- idly assessed through self-report (23). The self-reported physical abilities were determined from 26 items including items from Katz’ index of activities of daily living (ADL) (24) as well as questions about demanding activities like running. This instrument has been validated in Denmark and shown to discriminate different levels of functional abilities among community dwelling elderly (25). All items were rated on a 4 to 1 scale with the response op- tions ranging from “can do without fatigue” (4) to “cannot do” (1). To identify a quantitative subscale the items were factor analyzed in the total twin sample from the 1995 sur- vey (14). This identified two factors where the first factor loaded highest on items dealing with ability to walk, run, climb stairs and carry weights and was interpreted to re- flect a dimension of strength. The second factor loaded highest on items dealing with ability to wash, dress, and get in and out of bed and was interpreted to reflect a di- mension of agility. Only the strength factor was used in this analysis due to little variability on the agility scale.
+
+The strength scores from the 1997 and 1999 surveys were calculated by taking the average response of the 11 items identified to be relevant for this score. The factor has pre- viously been found highly reliable for functional abilities (26). In the 1999 survey three additional items dealing with endurance performance (self-reported walking, run- ning and cycling distance) were included. A composite score was calculated taking the average response from these items.
+
+In the 1999 survey the participants were also invited to perform two tests of physical abilities—maximum handgrip pressure and the repeated chair stand test. The grip strength was measured by a hand dynamometer (Smedley’s dyna- mometer TTM, Tokyo). The maximum value of three mea- sures with each hand was used in the analyses. In the repeated chair stand test the participants were asked to rise and sit five times from a chair as quickly as possible with their arms folded over their chest. The pulse was recorded immediately before and after the test. The test, which was timed, was stopped if five attempts were not successfully performed within 60 seconds.
+
+age was 78.2 with a standard deviation (SD) of 4.4 (females: 78.4 (4.6), males: 77.8 (4.0)). Sixteen (2.3 percent) partici- pated in the interview through a proxy responder.
+
+The cognitive functioning of the participants was as- sessed using the mini mental state examination (MMSE), which was integrated in the interview.
+
+Data Analyses
+
+ACE Genotype
+
+In all, 169 (24.7 percent) twins had the II genotype, 344 (50.3 percent) the DI, and 171 (25.0 percent) the DD gen- otype. The genotype frequencies in men and women, and in the age groups shown in Table 1, were in Hardy-Wein- berg equilibrium (p > | 0.3), and were highly comparable to proportions found in Danish populations in two previous studies (10, 28). The distribution of the ACE genotype in the MZ twins who were assigned to their co-twin’s geno- type did not differ from that of the other study subjects (re- sults not shown).
+
+Allele frequencies were computed from the genotype frequen- cies and Hardy-Weinberg equilibrium was tested by a (cid:4)2 test with one degree of freedom. We compared the three ACE- genotypes with regard to physical and cognitive abilities and other characteristics at baseline (1997 interview wave) and in 1999 at the second interview wave. Longitudinal changes in cognitive skills and physical abilities were examined for twins participating in both interview waves. Finally, we examined the influence of ACE-genotype on survival through linkage with mortality data for the entire cohort.
+
+Continuous variables were compared using multivariate linear regression models and categorical data were com- pared using logistic regression models controlling for the age of the participants. To account for the non-indepen- dence of the observations on twins, twins from pairs where both participated (intact pairs) were analyzed as clusters of two in the multivariate models (27). Data were sex-strati- fied due to a tendency to a larger proportion of women among the DI and DD genotypes.
+
+Baseline Characteristics
+
+Characteristics of the study population, which could poten- tially confound the association between ACE genotype and measures of physical and cognitive abilities and survival, are listed in Table 1. The distribution of most of these po- tential confounders between the ACE genotypes was highly comparable and the differences showed no stepwise trends across genotypes. However, the number with more than eight years of education was significantly higher in DD  than in DI and II males, p 0.02 (Table 1). In addition, the proportion with poor or very poor self-rated health was me)  lower in ID than DD males, p 0.02 (Table 1).
+
+sampling and until emigration, death, or end of study pe- riod (January 1, 2001), whichever event came first. Infor- mation on emigration and death was retrieved from the Danish Central Population Register, which is continuously updated. We used the Kaplan-Meier method, and the influ- ence of ACE genotype on survival was ascertained using the log-rank test. Subsequently, a Cox proportional-hazards regression analysis was undertaken to determine ACE gen- otype as an independent risk factor controlling for the ef- fects of sex, age, cognitive function (MMSE score), and self-rated health. These parameters were included in the analysis because they were associated with ACE genotype and survival. Education, which also differed by ACE geno- type, was omitted from the final model, as it did not contrib- ute significantly in explaining survival. The proportionality assumption was confirmed with a log minus log survival function plot.
+
+Physical Abilities
+
+Self-reported data about physical abilities were obtained from 683 individuals. The median strength scores from the two surveys as well as their mean relative difference did not vary substantially by ACE genotype (Table 2). The com- posite endurance score of self-reported walking, running, and cycling from the 1999 survey did not differ by ACE genotype (Table 2). The maximum handgrip pressure was measured in 488 individuals with a mean-grip strength (SD) of 24.4 kg (8.6). Grip strength was highly dependent on sex, age, height and weight, but since height and weight were comparable in the three ACE genotypes (Table 1) this measure was analyzed age-adjusted and sex-stratified as other physical performance measures. Mean grip strength did not vary by ACE genotype (Table 2). The chair stand test was successfully completed by 426 individuals. The mean time (SD) used was 12.5 seconds (4.5) and the mean increase in pulse after five chair stands was 7.8 (4.8) heart- beats per minute. Both the time used to complete the test and the increase in pulse were highly comparable in the ACE genotypes (Table 2). The proportion of twins unable to perform the grip-strength and chair stand test did not vary by genotype (results not shown).
+
+The physical and cognitive functioning and survival among individuals from intact dizygotic (DZ) twin pairs that were discordant for ACE genotype were finally com- pared using the Sign test.
+
+Study Population
+
+The population comprised 684 individuals (Fig. 1), 450 (65.8 percent) females and 234 (34.2 percent) males. The mean
+
+TABLE 1. Baseline characteristics of 684 twins participating in the longitudinal study of aging danish twins (LSADT) 1997 survey
+
+Females Males ACE Genotypes II ID DD II ID DD N (percent) 101 (59.8) 231 (67.2) 118 (69.0) 68 (40.2) 113 (32.8) 53 (31.0) Age, mean  SD 78.5 I+ 4.6 78.5 te 4.6 77.0 Je 4.6 76.8   3.3 78.4 + 4.3 77.9 ye 3.9 BMI, mean   SD 24.5 I+ 4.1 23.5 I+ 3.8 23.4 f+ 4.1 26.0   3.3 25.2 1 +1 2.8 24.8   3.3 Education, ,> 8 yrsa 14 (13.9) 44 (19.2) 28 (23.9) 9 (13.4) 19 (17.0) 18 (34.0) Smokers, ever 57 (56.4) 121 (52.4) 56 (47.9) 56 (83.6) 91 (81.3) 42 (80.8) Alcohol, ,>] 10 units/week 8 (8.7) 29 (13.6) 16 (15.0) 24 (40.0) 39 (37.9) 18 (38.3) b Self-reported diseases Diabetes 6 (5.9) 10 (4.3) 5 (4.2) 2 (2.9) 11 (9.7) 6 (11.3) Hypertension 33 (32.7) 66 (28.6) 33 (28.0) 11 (16.2) 26 (23.2) 14 (26.4) c Other cardiovascular 13 (12.9) 31 (13.4) 17 (14.4) 10 (14.7) 22 (19.5) 7 (13.2) Stroke 3 (3.0) 12 (5.2) 5 (4.2) 7 (10.3) 5 (4.4) 6 (11.3) d Respiratory 9 (8.9) 27 (11.7) 12 (10.2) 17 (25.0) 17 (15.0) 14 (26.4) Poor/very poor self-rated healthe 7 (7.1) 17 (7.5) 11 (9.3) 3 (4.8) 3 (2.8) 6 (11.3)
+
+No statistically significant differences among genotypes if not otherwise stated. Differences were tested with Logistic regression for categorical data and with multivariate linear regression for continuous data with the DD genotype as reference, controlling for age of the participants. Twins from intact pairs were analyzed as clusters of two in the multivariate models. aMales, DI: p  0.02, II: p  0.02 bParticipants were asked if a physician had ever told them that they suffered from any of the mentioned diseases. cAngina, myocardial infarction or heart failure dChronic bronchitis or asthma
+
+Cognitive Abilities
+
+surveys were comparable in the three ACE genotypes (Ta- ble 3). Although not statistically significant the proportion of individuals with a score below 24 was approximately seven percent higher in participants with the II genotype of
+
+The MMSE-test was completed by 674 persons with a me- dian score of 27.0 (quartiles 24.0–28.0). The median test scores and the mean difference in scores between the two
+
+TABLE 2. Physical abilities and ACE genotype
+
+Females Males ACE genotype II ID DD II ID DD Self reported physical abilities in 1997 Median strength score (quartiles) 3.4 (2.5, 3.7) 3.5 (2.6, 3.7) 3.3 (2.5, 3.7) 3.5 (2.5, 3.7) 3.5 (3.2, 3.8) 3.5 (2.9, 3.7) N 101 231 117 68 113 53 Self reported physical abilities in 1999a Median strength score (quartiles) 3.3 (2.5, 3.6) 3.4 (2.7, 3.5) 3.4 (2.5, 3.5) 3.5 (2.7, 3.6) 3.4 (2.6, 3.6) 3.5 (2.7, 3.7) Mean endurance score (SD)b 4.7 (1.1) 4.7 (1.1) 4.8 (1.0) 4.2 (1.2) 4.4 (1.2) 4.4 (1.4) N 73 173 89 54 91 42 Relative difference in self reported abilities 1997 to 1999 Mean relative strength score difference (SD) 0.05 (0.2) 0.05 (0.2) 0.02 (0.2) 0.07 (0.2) 0.07 (0.2) 0.05 (0.2) Measured physical performance in 1999 Mean grip strength (SD), kg 20.1 (4.6) 19.6 (4.7) 19.5 (5.0) 34.2 (7.2) 32.3 (6.9) 31.7 (8.8) N 65 161 86 51 85 40 Mean time to complete five chair stands (SD), 12.1 (4.2) 12.9 (4.8) 12.9 (5.5) 12.4 (3.7) 11.7 (3.3) 12.4 (5.1) seconds Pulse increase after five chair stands (SD), bpmc 7.4 (4.6) 7.4 (4.4) 7.7 (4.7) 8.5 (4.6) 8.9 (5.9) 7.9 (4.7) N 60 146 75 39 73 33
+
+No statistically significant differences among genotypes. Differences were tested with multivariate linear regression for continuous data with the DD genotype as reference, controlling for age of the participants. Twins from intact pairs were analyzed as clusters of two in the multivariate models. aParticipants in 1999 follow-up were approximately 2 years younger at baseline than twins who only participated in 1997 survey (p »<( 0.001). bMean composite measure of walking, running, and cycling distance I+s standard deviation. cBeats per minute
+
+TABLE 3. Mini Mental State Examination (MMSE) scores and ACE genotype
+
+Females Males ACE genotype II DI DD II DI DD Median MMSE score 1997 (quartiles) 26.0 (23.0, 28.0) 27.0 (24.0, 28.0) 27.0 (25.0, 29.0) 27.0 (23.0, 29.0) 27.0 (24.0, 29.0) 27.0 (25.0, 28.0) Number with test score (cid:7)24 (percent) 25 (25.3) 42 (18.4) 21 (17.9) 18 (27.3) 22 (19.8) 10 (18.9) Median MMSE score 1999 (quartiles)a 26.0 (23.0, 28.0) 27.0 (24.0, 28.0) 26.5 (24.0, 29.0) 28.0 (25.0, 29.0) 27.0 (24.0, 28.5) 27.0 (24.0, 29.0) Number with test score (cid:7)24 (percent) 19 (26.4) 34 (19.5) 15 (16.7) 8 (15.4) 18 (20.2) 7 (17.1) Mean relative MMSE score differences 1997 to 1999 (SD) 0.02 (0.1) 0.01 (0.1) 0.0 (0.1) (cid:8)0.01 (0.1) 0.02 (0.1) 0.04 (0.1)
+
+No statistically significant differences among genotypes. Differences were tested with Logistic regression for categorical data and with multivariate linear regression for continuous data with the DD genotype as reference, controlling for age of the participants. Twins from intact pairs were analyzed as clusters of two in the multivariate models. aParticipants in 1999 follow-up were approximately 2 years younger at baseline than their non-participating counter-parts (p  < 0.001).
+
+in 1999 follow-up were approximately 2 years younger at baseline than their non-participating counter-parts (p 0.001).
+
+130 participants died. The participants with the II genotype peee*= |  had marginally poorer survival, p 0.02 (Fig. 2). Control- ling for sex, age at baseline, self-rated health and MMSE score in a Cox regression analysis indicated that the II geno- type may be an independent risk factor for death, the hazard rates (HR) (95 percent confidence intervals) for the II com- pared with the ID and DD genotype being 1.6 (1.1–2.5), and 1.3 (0.8–2.1) respectively. The survival was not signifi-
+
+both sexes in the 1997 survey. The proportion not partici- pating in cognitive testing did not vary by genotype (results not shown).
+
+Survival
+
+The mean follow-up time (SD) was 39.5 (10.3) months and none were lost to follow-up. During the follow-up period
+
+ersons at risk1DoT[Proportional survival171344169163331155156316147144298135 Months142118
+
+FIGURE 2. Survival curves of 684 ACE genotyped twins from the Longitudinal Study of Aging Danish Twins - the 1997 and 1999
+
+cantly different in DD and DI persons (Fig. 2). Using the D as the dominant allele resulted in hazard rates of 1.5 (1.0– 2.2) for II compared with DI/DD persons.
+
+body anaerobic response (31) after physical training in II persons exceeding that of the D allele persons. The associa- tion studies have determined ACE genotype prevalence in élite athletes compared with controls. Some have found in- creased prevalence of the II genotype in mountaineers who ascended beyond 7,000 m without supplementary oxygen (3) or in Olympic competitors (5, 6), whereas others found no difference in ACE genotype prevalence (32). All the in- tervention studies have as expected found comparable physical performance at baseline between different ACE genotypes since the range of physical abilities is narrow in young persons especially when using selected groups e.g. military recruits for the intervention. In old age, however, the variation of physical abilities is large, therefore differ- ences in a cross-sectional study should occur if the ACE genotype was important for physical performance in this age group. Furthermore, ACE genotype was not associated with rate of change in self-reported physical abilities. The cause of the discrepancy between this and the previous studies is unknown. A possible explanation could be the highly selected populations used in the previous studies of ACE genotype and physical performance.
+
+Subgroup Analyses
+
+Seventy-nine intact DZ twin pairs were discordant for ACE genotype. Physical and cognitive abilities as well as survival did not differ significantly between the individuals in these pairs (results not shown). Although statistics were not sig- nificant here, the proportion of self-reported diseases dif- fered by genotype (Table 1). We therefore repeated the analyses restricted to those not suffering from any of the mentioned diseases but the results were virtually unaltered by this (results not shown).
+
+DISCUSSION
+
+In this study, we have focused on the possible association of the ACE genotypes with physical and cognitive perfor- mance and survival among the elderly. The study design provided both cross-sectional and longitudinal data. In our study, the ACE genotype was not associated with self-reported or measured physical performance or cognitive function. Having the D allele, however, improved chances of survival even after controlling for the effect of sex, age, cognitive function, and self-rated health. None of the analyses re- vealed any stepwise trends of the examined phenotypes with regard to ACE genotype.
+
+We found no association between ACE genotype and cognitive function with the cross-sectional and the longitu- dinal approach. The previous studies have focused on the re- lation between ACE genotype and dementia and have come to quite different conclusions. The risk of dementia (all types) or AD have thus been reported to be increased with the I allele (7), and the D allele, but confined to the age group 66 to 71 years (8), or to the male sex (33), and to have no association with ACE genotype (34, 35). We studied as- sociations between ACE genotype and cognitive function on a continuous scale. Only one other cross-sectional study has examined the association between ACE genotype and MMSE score and failed as in the present study to show any relation between genotype and cognition (36).
+
+twins were alive at baseline, which could introduce selec- tion bias. However, physical abilities in old twin pairs where both twins were alive have previously been shown only marginally better than in twins with a deceased co- twin (14). The instrument to determine physical perfor- mance in this study was self-report and measurements of upper and lower extremity function. This gives information from several functions each important for physical perfor- mance, none of which showed an association with ACE genotype. The assessment of physical abilities through self- report was done with a questionnaire that has been vali- dated in a Danish population on several occasions. Further, the reliability of self-reported physical functioning in the elderly is reported to be high (23). Both physical perfor- mance measures (grip strength and repeated chair stands) have been used in other studies among the elderly and have been shown to discriminate different levels of physical functioning (29, 30). All the previous association studies comparing physical performance with ACE genotype have studied young healthy individuals. Two different types of studies have been used: intervention and association stud- ies. Among male military recruits the intervention studies have found improved muscular function (3, 4) and whole
+
+One study found a significantly larger proportion of DD’s among octogenarians (9), whereas in a study of 9203 persons from the Copenhagen City heart study (28) and in two stud- ies of centenarians (10, 11) the DD proportion was similar in the age groups compared. We studied mortality longitudi- nally and found an increased mortality among II’s in old age. To our knowledge, only one longitudinal study has investi- gated survival in relation to ACE genotype in 61 patients with renovascular disease where the DD patients had a poorer survival than the ID patients (37). The small differ- ence in the survival curves in the present study indicates that the ACE genotype does not have a major impact on survival and that the poorer II survival may reflect random variation. In conclusion, we found no substantial effects of ACE
+
+In conclusion, we found no substantial effects of ACE genotype on physical and cognitive performance in neither the cross-sectional nor the follow-up study. Persons with
+
+Herskind AM, M
+
+ue M, Holm N, Sørensen TIA, Harvald B, Vaupel JW. The heritability of human longevity: a population-based study of
+
+Danish twin pairs born
+
+–
+
+Hum Genet.
+
+;
+
+:
+
+–
+
+Christensen K, Holm NV, M
+
+ue M, Corder L, Vaupel JW. A Dan- ish population-based twin study on general health in the elderly. J Ag- ing Health.
+
+;
+
+:
+
+–
+
+Hauge M. The Danish Twin Register; In: Mednick S A, Baert A E, Bachmann B P, eds. Prospective longitudinal research: An empirical basis for the primary prevention of phychosocial disorders London: Oxford University Press;
+
+:
+
+–
+
+Rigat B, Hubert C, Corvol P, Soubrier F. PCR detection of the inser- tion/deletion polymorphism of the human angiotensin converting en- zyme gene (DCP
+
+) (dipeptidyl carboxypeptidase
+
+). Nucleic Acids Res.
+
+;
+
+:
+
+Shanmugan V, Sell KW, Sha BK. Mistyping ACE heterozygotes. PCR Methods Appl.
+
+;Oct:
+
+–
+
+Ueda S, Heeley RP, Lees KR, Elliott HL, Connell JM. Mistyping of the human angiotensin-converting enzyme gene polymorphism: fre- quency, causes and possible methods to avoid errors in typing. J Mol Endocrinol.
+
+;
+
+:
+
+–
+
+Jette AM. The Functional Status Index: reliability and validity of a self-report functional disability measure. J Rheumatol.
+
+;
+
+(Suppl
+
+):
+
+–
+
+Katz S, Ford AB, Moskowitz RW, Jackson BA, Jaffe MW. Studies of illness in the aged. The index of ADL: A standardized measure of bio- logical and Psychological function. JAMA.
+
+;
+
+:
+
+–
+
+Schultz-Larsen K, Avlund K, Kreiner S. Functional ability of commu- nity dwelling elderly. Criterion-related validity of a new measure of functional ability. J Clin Epidemiol.
+
+;
+
+:
+
+–
+
+Nybo H, Gaist D, Jeune B, M
+
+ue M, Vaupel JW, Christensen K. Functional status and self-rated health in
+
+,
+
+nonagenarians: the Danish
+
+Cohort Survey. J Am Geriatr Soc.
+
+;
+
+:
+
+–
+
+Stat
+
+orp. Stata Statistical Software: Release
+
+College Station, TX: Stata Corporation
+
+Agerholm LB, Nordestgaard BG, Steffensen R, Sorensen TI, Jensen G, Tybjaerg HA. ACE gene polymorphism: ischemic heart disease and longevity in
+
+,
+
+individuals. A case-referent and retrospective cohort study based on the Copenhagen City Heart Study. Circulation.
+
+;
+
+:
+
+–
+
+Giampaoli S, Ferrucci L, Cecchi F, Lo NC, Poce A, Dima F, et al. Hand-grip strength predicts incident disability in non-disabled older men. Age Ageing.
+
+;
+
+:
+
+–
+
+Guralnik JM, Simonsick EM, Ferrucci L, Glynn RJ, Berkman LF, Blazer DG, et al. A short physical performance battery assessing lower extremity function: association with self-reported disability and pre- diction of mortality and nursing home admission. J Gerontol.
+
+;
+
+:M
+
+–M
+
+Montgomery H, Clarkson P, Barnard M, Bell J, Brynes A, Dollery C, et al. Angiotensin-converting-enzyme gene insertion/deletion poly- morphism and response to physical training. Lancet.
+
+;
+
+:
+
+–
+
+Taylor RR, Mamotte CD, Fallon K, van Bockxmeer FM. Elite athletes and the gene for angiotensin-converting enzyme. J Appl Physiol.
+
+;
+
+:
+
+–
+
+Amouyel P, Richard F, Cottel D, Amant C, Codron V, Helbecque N. The deletion allele of the angiotensin I converting enzyme gene as a genetic susceptibility factor for cognitive impairment. Neurosci Lett.
+
+;
+
+:
+
+–
+
+Chapman J, Wang N, Treves TA, Korczyn AD, Bornstein NM. ACE, MTHFR, factor V Leiden, and APOE polymorphisms in patients with vascular and Alzheimer’s dementia. Stroke.
+
+;
+
+:
+
+–
+
+Scacchi R, De Bernardini L, Mantuano E, Vilardo T, Donini LM, Ruggeri M, et al. DNA polymorphisms of apolipoprotein B and angio-
+
+the D allele may have better survival chances than other persons have.
+
+Supported by the US National Institute on Aging research grant NIA- PO1-AG08761, and the Danish National Research Foundation.
+
+insertion/deletion polymorphism in the angiotensin I-converting en- zyme gene accounting for half the variance of serum enzyme levels. J Clin Invest.
+
+;
+
+:
+
+–
+
+Keavney B, M
+
+enzie C, Parish S, Palmer A, Clark S, Youngman L, et al. Large-scale test of hypothesised associations between the an- giotensin- converting-enzyme insertion/deletion polymorphism and myocardial infarction in about
+
+cases and
+
+controls. Inter- national Studies of Infarct Survival (ISIS) Collaborators. Lancet.
+
+;
+
+:
+
+–
+
+Montgomery HE, Marshall R, Hemingway H, Myerson S, Clarkson P, Dollery C, et al. Human gene for physical performance. Nature.
+
+;
+
+:
+
+Williams AG, Rayson MP, Jubb M, World M, Woods DR, Hayward M, et al. The ACE gene and muscle performance. Nature.
+
+;
+
+:
+
+Gayagay G, Yu B, Hambly B, Boston T, Hahn A, Celermajer DS, et al. Elite endurance athletes and the ACE I allele - the role of genes in athletic performance. Hum Genet.
+
+;
+
+:
+
+–
+
+Myerson S, Hemingway H, Budget R, Martin J, Humphries S, Mont- gomery H. Human angiotensin I-converting enzyme gene and endur- ance performance. J Appl Physiol.
+
+;
+
+:
+
+–
+
+Kehoe PG, Russ C, M
+
+lory S, Williams H, Holmans P, Holmes C, et al. Variation in DCP
+
+, encoding ACE, is associated with susceptibil- ity to Alzheimer disease. Nat Genet.
+
+;
+
+:
+
+–
+
+Farrer LA, Sherbatich T, Keryanov SA, Korovaitseva GI, Rogaeva EA, Petruk S, et al. Association between angiotensin-converting en- zyme and Alzheimers disease. Arch Neurol.
+
+;
+
+:
+
+–
+
+Luft FC. Bad genes, good people, association, linkage, longevity and the prevention of cardiovascular disease. Clin Exp Pharmacol Physiol.
+
+;
+
+:
+
+–
+
+Bladbjerg EM, Andersen-Ranberg K, de Maat MP, Kristensen SR, Jeune B, Gram J, et al. Longevity is independent of common varia- tions in genes associated with cardiovascular risk. Thromb Haemost.
+
+;
+
+:
+
+–
+
+Blanche H, Cabanne L, Sahbatou M, Thomas G. A study of French centenarians: are ACE and APOE associated with longevity? C R Acad Sci III.
+
+;
+
+:
+
+–
+
+Dragovic T, Minshall R, Jackman HL, Wang LX, Erdos EG. Kininase II-type enzymes. Their putative role in muscle energy metabolism. Di- abetes.
+
+;
+
+(Suppl
+
+):S
+
+–S
+
+Wright JW, Harding JW. Brain angiotensin receptor subtypes in the control of physiological and behavioral responses. Neurosci Biobehav Rev.
+
+;
+
+:
+
+–
+
+Christensen K, M
+
+ue M, Yashin A, Iachine I, Holm NV, Vaupel JW. Genetic and environmental influences on functional abilities in Danish twins aged
+
+years and older. J Gerontol A Biol Sci Med Sci.
+
+;
+
+:M
+
+–M
+
+M
+
+ue M, Christensen K. The heritability of cognitive functioning in the very old: Evidence from Danish twins aged
+
+and older. Psy- chol Aging.
+
+;
+
+:
+
+–
+
+M
+
+learn GE, Johansson B, Berg S, Pedersen NL, Ahern F, Petrill SA, et al. Substantial genetic influence on cognitive abilities in twins
+
+or more years old. Science.
+
+;
+
+:
+
+–
+
+tensin-converting enzyme, and methylenetetrahydrofolate reductase loci as candidates for dementia. Am J Med Genet.
+
+;
+
+:
+
+–
+
+Losito A, Parente B, Cao PG, Jeffery S, Afzal AR. ACE gene polymor- phism and survival in atherosclerotic renovascular disease. Am J Kid- ney Dis.
+
+;
+
+:
+
+–
+
+tensin I-converting enzyme genes and relationships with lipid levels in Italian patients with vascular dementia or Alzheimer’s disease. De- ment Geriatr Cogn Disord.
+
+;
+
+:
+
+–
+
+Tysoe C, Galinsky D, Robinson D, Brayne CE, Easton DF, Huppert FA, et al. Analysis of alpha-
+
+antichymotrypsin, presenilin-
+
+, angio-
+
+Tysoe C, Galinsky D, Robinson D, Brayne CE, Easton DF, Huppert FA, et al. Analysis of alpha-1 antichymotrypsin, presenilin-1, angio-
