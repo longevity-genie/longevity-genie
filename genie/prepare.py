@@ -83,7 +83,7 @@ def prepare_coronary(locations: Locations):
                 pl.lit(" with ")+ pl.col("Genotype ") + pl.lit("genotype ") +
                 pl.lit("in ") + pl.col("Population") + pl.lit(" population") +
                 pl.lit("with the following design ") + pl.col("GWAS_study_design") + pl.lit(". The study concluded:") + pl.col("Conclusion")
-                + pl.lit("The study was published with pubmed id ") + pl.col("gwas_source") +
+                + pl.lit("Links for mentioned studies: ") + pl.col("gwas_source") +
                 pl.lit(". Other related articles: ") + pl.col("pmid_source")
     ).alias("text")
     for_index = df.select([
