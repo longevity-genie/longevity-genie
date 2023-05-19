@@ -60,6 +60,44 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
     print("written to locations.longevity_map_text")
     return for_index
 
+def prepare_coronary(locations: Locations):
+    query= "SELECT * FROM coronary_disease;"
+    df = get_query_df(locations.just_coronary, query)
+    df = df.with_columns(
+        [pl.col("PMID")
+                .str.replace_all("PMID ", "https://www.ncbi.nlm.nih.gov/snp/")
+                .str.replace_all("PMID: ", "https://www.ncbi.nlm.nih.gov/snp/")
+                .str.replace_all(";", "")
+                .alias("pmid_source"),
+        pl.col("GWAS_study_design")
+                .str.extract_all(r'\[([^]]+)\]')
+                .arr.join("")
+                .str.replace_all('\[PMID ', "https://www.ncbi.nlm.nih.gov/snp/")
+                .str.replace_all('\[PMID: ', "https://www.ncbi.nlm.nih.gov/snp/")
+                .str.replace_all('\]', " ")
+                .alias("gwas_source")
+                ]
+        )
+    text_col: pl.Expr = (
+                pl.col("rsID") + pl.lit(" in gene ") + pl.col("Gene") +
+                pl.lit(" with ")+ pl.col("Genotype ") + pl.lit("genotype ") +
+                pl.lit("in ") + pl.col("Population") + pl.lit(" population") +
+                pl.lit("with the following design ") + pl.col("GWAS_study_design") + pl.lit(". The study concluded:") + pl.col("Conclusion")
+                + pl.lit("The study was published with pubmed id ") + pl.col("gwas_source") +
+                pl.lit(". Other related articles: ") + pl.col("pmid_source")
+    ).alias("text")
+    for_index = df.select([
+                            pl.col("rsID"),
+                            pl.col("Gene"),
+                            pl.col("Genotype"),
+                            pl.col("Population"),
+                            pl.col("PMID").cast(pl.Utf8),
+                            pl.col("pmid_source"),
+                            pl.col("gwas_source"),
+                            text_col])
+    for_index.write_csv(locations.coronary_text, sep="\t")
+    print("written to locations.coronary_text")
+    return for_index
 
 def with_papers_incremental(folder: Optional[Path] = None, skip_existing: bool = True):
     papers: list[Path] = traverse(folder, lambda p: "pdf" in p.suffix)
