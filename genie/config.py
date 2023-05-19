@@ -36,6 +36,9 @@ class Locations:
 
     def postaggregator_db(self, name: str):
         data = self.postaggregators / name / "data"
+        if not data.exists():
+            print(f"cannot find sqlite database")
+            return data
         dbs = with_ext(self.postaggregators / name / "data", "sqlite").to_list()
         if len(dbs) == 0:
             print(f"cannot find sqlite database")
