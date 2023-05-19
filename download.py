@@ -3,25 +3,15 @@ import click
 from genie.downloads import download_papers
 from genie.indexing import *
 from genie.prepare import with_papers_incremental
-
+from click.core import Context
 
 @click.group(invoke_without_command=True)
 @click.pass_context
-def app(ctx):
+def app(ctx: Context):
     if ctx.invoked_subcommand is None:
         click.echo('Running the default command...')
         download_papers()
 
-
-@app.command()
-@click.option('--base', default='.', help='base folder')
-def index(base: str):
-    locations = Locations(Path(base))
-    index = Index(locations)
-    index.with_modules(locations.modules_data)
-    index.with_papers_incremental()
-    index.persist()
-    index
 
 
 @app.command("download_papers")

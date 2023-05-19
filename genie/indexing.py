@@ -12,6 +12,27 @@ from genie.config import Locations
 from genie.sqlite import *
 from chromadb.config import Settings
 from langchain.chat_models import ChatOpenAI
+import copy
+
+class RecursiveSplitterWithSource(RecursiveCharacterTextSplitter):
+    def create_documents(
+            self, texts: List[str], metadatas: Optional[List[dict]] = None
+    ) -> List[Document]:
+        """Create documents from a list of texts."""
+        _metadatas = metadatas or [{}] * len(texts)
+        documents = []
+        for i, text in enumerate(texts):
+            meta = _metadatas[i]
+            source: Optional[str] = meta["source"] if "source" in meta else None
+            for j, chunk in enumerate(self.split_text(text)):
+                new_meta = copy.deepcopy(meta)
+                if source is not None:
+                    new_meta["source"] = source + "#" + str(j)
+                new_doc = Document(
+                    page_content=chunk, metadata=new_meta
+                )
+                documents.append(new_doc)
+        return documents
 
 class Index:
 
@@ -25,7 +46,7 @@ class Index:
     model_name: str
 
     def __init__(self, locations: Locations,
-                 model_name: str = "gpt-3.5-turbo", chunk_size: int = 2000): #, chroma_server: str = "0.0.0.0", chroma_port: str = "6000"
+                 model_name: str = "gpt-3.5-turbo", chunk_size: int = 1000): #, chroma_server: str = "0.0.0.0", chroma_port: str = "6000"
         self.locations = locations
         self.persist_directory = self.locations.paper_index
         self.embedding = OpenAIEmbeddings()
@@ -34,7 +55,7 @@ class Index:
                          embedding_function=self.embedding #,client_settings=settings
                          )
         self.model_name = model_name
-        self.splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=0)
+        self.splitter = RecursiveSplitterWithSource(chunk_size=chunk_size, chunk_overlap=500)
         self.chain = self.make_chain()
 
     def update_chain(self):
@@ -69,15 +90,19 @@ class Index:
     def dataframe_to_document(df: pl.DataFrame) -> List[Document]:
         return DataFrameLoader(df.to_pandas(), page_content_column="text").load()
 
-    def with_documents(self, documents: list[Document], debug: bool = False):
+
+    def with_documents(self, documents: list[Document],
+                       debug: bool = False,
+                       id_field: Optional[str] = None):
         docs = self.splitter.split_documents(documents)
         texts = [doc.page_content for doc in docs]
         metadatas = [doc.metadata for doc in docs]
+        ids = [doc.metadata[id_field] for doc in docs] if id_field is not None else None
         if debug:
             for doc in documents:
                 print(f"ADD TEXT: {doc.page_content}")
-                print(f"f ADD METADATA {doc.metadata}")
-        self.db.add_texts(texts=texts, metadatas=metadatas)
+                print(f"ADD METADATA {doc.metadata}")
+        self.db.add_texts(texts=texts, metadatas=metadatas, ids = ids)
         return self
 
     def with_modules(self, folder: Optional[Path] = None):
@@ -104,7 +129,7 @@ class Index:
                         metadata={"source": doi}
                     )
                     docs.append(doc)
-        return self.with_documents(docs)
+        return self.with_documents(docs, id_field="source")
 
     def with_paper(self, paper: Path):
         loader = UnstructuredPDFLoader(str(paper))

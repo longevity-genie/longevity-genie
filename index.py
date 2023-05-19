@@ -2,6 +2,7 @@ import os
 
 import click
 import dotenv
+from click import Context
 from dotenv import load_dotenv
 
 from genie.indexing import *
@@ -12,14 +13,15 @@ has_env: bool = load_dotenv(e, verbose=True)
 if not has_env:
     print("Did not found environment file, using system OpenAI key (if exists)")
 openai_key = os.getenv('OPENAI_API_KEY')
-print(f"OPENAI key is {openai_key}")
+#print(f"OPENAI key is {openai_key}")
 
-@click.group(invoke_without_command=True)
+@click.group(invoke_without_command=False)
 @click.pass_context
-def app(ctx):
-    if ctx.invoked_subcommand is None:
-        click.echo('Running the default command...')
-        #test_index()
+def app(ctx: Context):
+    #if ctx.invoked_subcommand is None:
+    #    click.echo('Running the default command...')
+    #    test_index()
+    pass
 
 @app.command("write")
 @click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')

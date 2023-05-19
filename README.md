@@ -12,7 +12,7 @@ micromamba activate longevity-genie
 
 ## Indexing genetic data
 
-So far we assume that we have oakvar installed with default path: ~/.oakvar
+In Locations we have some oakvar-specific paths, but so far it is optional.
 
 ## Running the files
 

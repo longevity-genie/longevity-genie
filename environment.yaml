@@ -22,6 +22,7 @@ dependencies:
   - dash-html-components
   - dash-bootstrap-components
   - uvicorn
+  - dvc
   - pip:
       - pyfunctional
       - chromadb

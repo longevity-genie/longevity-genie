@@ -61,13 +61,12 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
     return for_index
 
 
-def with_papers_incremental(folder: Optional[Path] = None):
+def with_papers_incremental(folder: Optional[Path] = None, skip_existing: bool = True):
     papers: list[Path] = traverse(folder, lambda p: "pdf" in p.suffix)
     print(f"indexing {len(papers)} papers")
     i = 1
     max = len(papers)
     for p in papers:
-        doi = f"{p.parent.name}/{p.stem}"
         loader = UnstructuredPDFLoader(str(p))
         print(f"adding paper {i} out of {max}")
         docs: list[Document] = loader.load()
