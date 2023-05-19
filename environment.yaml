@@ -28,6 +28,7 @@ dependencies:
       - chromadb
       - pynction
       - polars
+      - dvc_gdrive
       - unstructured
       - pdfminer.six
       - chromadb
