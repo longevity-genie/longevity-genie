@@ -1,24 +1,23 @@
-from pathlib import Path
+import uvicorn
 
+from pathlib import Path
 from dotenv import load_dotenv
 from fastapi import FastAPI
+from typing import List
+from pydantic import BaseModel
 
 from genie.config import Locations
 from genie.indexing import Index
-import uvicorn
 
 load_dotenv()
 base = Path(".")
 locations = Locations(base)
 index = Index(locations, "gpt-4")
 
-from typing import List
-from pydantic import BaseModel
-
-
 class Dialog(BaseModel):
     message: str
     dialog_messages: List[str]
+
 
 class ResponseModel(BaseModel):
     answer: str
@@ -27,14 +26,26 @@ class ResponseModel(BaseModel):
     n_first_dialog_messages_removed: int
     error: bool
 
+
 app = FastAPI()
+
+
+@app.get("/test")
+async def test_api():
+    return {"message": "API works!"}
+
+
+if __name__ == "__main__":
+    uvicorn.run("app:app", host="0.0.0.0", port=8008, log_level="info")
+
 
 @app.post("/message", response_model=ResponseModel)
 async def receive_dialog(dialog: Dialog):
+    prev_dialog = list(dialog.dialog_messages)
     message = str(dialog.message)
     n_input_tokens = len(message.split())
-    n_first_dialog_messages_removed = len(message)
-    result = index.query_with_sources(message)
+    n_first_dialog_messages_removed = 0
+    result = index.query_with_sources(message, prev_dialog)
     answer = result["answer"] + "\n SOURCES: " + str(result["sources"])
     response = ResponseModel(
         answer=answer,
@@ -44,11 +55,3 @@ async def receive_dialog(dialog: Dialog):
         error=False
     )
     return response
-
-@app.get("/test")
-async def test_api():
-    return {"message": "API works!"}
-
-
-if __name__ == "__main__":
-    uvicorn.run("app:app", host="0.0.0.0", port=8008, log_level="info")

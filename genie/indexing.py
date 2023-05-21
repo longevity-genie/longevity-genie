@@ -73,7 +73,8 @@ class Index:
         return chain
 
 
-    def query_with_sources(self, question: str):
+    def query_with_sources(self, question: str, previous_dialog: List(str)):
+        #TODO process previous dialog
         return self.chain({self.chain.question_key: question})
 
     #def query_without_sources(self, question: str):

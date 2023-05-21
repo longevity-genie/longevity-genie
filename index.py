@@ -1,9 +1,7 @@
-import json
 import os
-
 import click
 import dotenv
-import requests
+
 from click import Context
 from dotenv import load_dotenv
 
