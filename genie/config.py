@@ -66,6 +66,7 @@ class Locations:
         self.paper_index = self.data / "index"
         assert self.data.exists(), "data subfolder should exist!"
         self.papers = self.data / "papers"
+        self.trials = self.data / "index" / "trials"
         self.dois = self.modules_data / "dois.tsv"
         assert self.papers.exists(), "papers subfolder should exist"
         self.modules = self.base / "modules"
