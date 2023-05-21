@@ -52,6 +52,14 @@ To test the index with a test query
 python index.py test
 ```
 
+### agent.py ###
+
+To test the CSV agent with prompts (currently for trials statistics)
+CSV is stored in /index/trials folder
+```
+python agent.py calculate_trials_statistics --prompt_number=1
+```
+
 ### chat.py ###
 
 To run webinterface of the chat (temporaly broken, because weavite integration did not work well):
