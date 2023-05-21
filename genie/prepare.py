@@ -104,16 +104,16 @@ def prepare_clinvar(locations: Locations):
     df = get_query_df(locations.clinvar, query)
     source = (pl.lit("https://www.ncbi.nlm.nih.gov/clinvar/variation/") + pl.col("clinvar_id")).alias("source")
     text_col: pl.Expr = (
-                pl.col("rsid") + pl.lit(" is located in ") +  pl.col("chrom") +
-                pl.lit(" with position ")  + pl.col("pos") +
-                pl.lit(" which is in the gene ") + pl.col("symbol") +
-                pl.lit(". This gene has the following description: ")+ pl.col("gene_description") +
-                pl.lit(" This SNP can be associated with ") +pl.col("disease_names")+
-                pl.lit(" with \"") + pl.col("sig") + pl.lit("\" clinical significance") +
-                pl.lit(" and with the review status: ") + pl.col("rev_stat") +
-                pl.lit(". ") + pl.col("rsid") + pl.lit("has the following disease_refs: ") +
-                pl.col("disease_refs") +
-                pl.lit(". Source: ") + source
+                    pl.col("rsid") + pl.lit(" is located in ") +  pl.col("chrom") +
+                    pl.lit(" with position ")  + pl.col("pos") +
+                    pl.lit(" which is in the gene ") + pl.col("symbol") +
+                    pl.lit(". This gene has the following description: ")+ pl.col("gene_description") +
+                    pl.lit(" This SNP can be associated with ") +pl.col("disease_names")+
+                    pl.lit(". Those associations  have ") + pl.col("sig") + pl.lit(" clinical significance") +
+                    pl.lit(" and have review status: ") + pl.col("rev_stat") +
+                    pl.lit(". ") + pl.col("rsid") + pl.lit("has the following disease_refs: ") +
+                    pl.col("disease_refs") +
+                    pl.lit(". Source: ") + source
     ).alias("text")
     for_index = df.select([
                             pl.col("rsid"),
