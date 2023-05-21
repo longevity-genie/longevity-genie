@@ -1,10 +1,13 @@
+import json
 import os
 
 import click
 import dotenv
+import requests
 from click import Context
 from dotenv import load_dotenv
 
+from genie.calls import longevity_gpt
 from genie.indexing import *
 
 e = dotenv.find_dotenv()
@@ -33,6 +36,10 @@ def write(model: str, base: str):
     print("saving modules and papers")
     index.with_modules().with_papers().persist()
 
+@app.command("longevity_gpt")
+@click.option('--question', default='What is aging?', help='Question to be asked')
+def longevity_gpt_command(question: str):
+    return longevity_gpt(question, [])
 
 @app.command("test")
 @click.option('--base', default='.', help='base folder')
