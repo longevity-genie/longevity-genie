@@ -111,7 +111,7 @@ def prepare_clinvar(locations: Locations):
                     pl.lit(" This SNP can be associated with ") +pl.col("disease_names")+
                     pl.lit(". Those associations  have ") + pl.col("sig") + pl.lit(" clinical significance") +
                     pl.lit(" and have review status: ") + pl.col("rev_stat") +
-                    pl.lit(". ") + pl.col("rsid") + pl.lit("has the following disease_refs: ") +
+                    pl.lit(". ") + pl.col("rsid") + pl.lit("has the following disease references: ") +
                     pl.col("disease_refs") +
                     pl.lit(". Source: ") + source
     ).alias("text")
