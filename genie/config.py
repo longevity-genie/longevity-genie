@@ -27,6 +27,7 @@ class Locations:
     longevity_map_text: Path
     cancer_text: Path
     lipidmetabolism_text: Path
+    clinvar_text: Path
 
     clinvar_db: Path
     clinpred_db: Path
@@ -74,6 +75,7 @@ class Locations:
         self.set_up_outputs()
 
     def set_up_modules(self):
+        self.clinvar = self.data / "clinvar" / "ncbi_clinvar_only.sqlite3"
         self.just_drugs = self.postaggregator_db("just_drugs")
         self.just_prs = self.postaggregator_db("just_prs")
         self.just_coronary = self.postaggregator_db("just_coronary")
@@ -85,6 +87,7 @@ class Locations:
         self.just_thrombophilia = self.postaggregator_db("just_thrombophilia")
 
     def set_up_outputs(self):
+        self.clinvar_text = self.modules_text_data / "ncbi_clinvar_text.tsv"
         self.longevity_map_text = self.modules_text_data / "longevity_map_text.tsv"
 
 
