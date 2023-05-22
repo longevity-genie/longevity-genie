@@ -9,9 +9,12 @@ from dash import dcc
 import openai
 from dash import html
 from dash.dependencies import Input, Output, State
+
+from genie.config import Locations
 from genie.chats import ChatIndex
 
 base = Path(".").absolute().resolve()
+locations = Locations(base)
 
 def Header(name: str, app: dash.Dash) -> dbc.Row:
     title = html.H1(name, style={"margin-top": 5})
@@ -63,7 +66,7 @@ app: dash.Dash = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP]
 server = app.server
 
 # define chat client
-chat_index = ChatIndex()
+chat_index = ChatIndex(locations.paper_index)
 
 # Load images
 IMAGES: dict = {"Longevity Genie": app.get_asset_url("Longevity Genie.jpg")}
@@ -89,7 +92,7 @@ controls: dbc.InputGroup = dbc.InputGroup(
 app.layout = dbc.Container(
     fluid=False,
     children=[
-        Header("Dash GPT-3 Chatbot", app),
+        Header("Longevity Genie chatbot", app),
         html.Hr(),
         dcc.Store(id="store-conversation", data=""),
         conversation,
@@ -98,13 +101,14 @@ app.layout = dbc.Container(
     ],
 )
 
+
 @app.callback(
     Output("display-conversation", "children"), [Input("store-conversation", "data")]
 )
 def update_display(chat_history: list[str]) -> List[Union[dbc.Card, html.Div]]:
     return [
         textbox(x, box="user") if i % 2 == 0 else textbox(x, box="AI")
-        for i, x in enumerate(chat_history[:-1])
+        for i, x in enumerate(chat_history)
     ]
 
 @app.callback(
@@ -126,19 +130,9 @@ def run_chatbot(n_clicks: int, n_submit: int, user_input: str, chat_history: str
     if user_input is None or user_input == "":
         return chat_history, None
 
-    """
-    response = openai.Completion.create(
-        engine="davinci",
-        prompt=model_input,
-        max_tokens=250,
-        stop=["You:"],
-        temperature=0.9,
-    )
-    """
     answer = chat_index.answer(user_input)
     updated_history = chat_index.messages
     print(f"UPDATED HISTORY: {updated_history}")
-    
     return updated_history, None
 
 

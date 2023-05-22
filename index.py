@@ -5,6 +5,7 @@ import dotenv
 from click import Context
 from dotenv import load_dotenv
 
+from genie.config import Locations
 from genie.calls import longevity_gpt
 from genie.indexing import *
 
@@ -39,16 +40,20 @@ def write(model: str, base: str):
 def longevity_gpt_command(question: str):
     return longevity_gpt(question, [])
 
+
 @app.command("test")
+@click.option('--chain', default="map_reduce", type=click.Choice([ "stuff", "map_reduce", "refine", "map_rerank"], case_sensitive=True), help="chain type")
+@click.option('--process', default="split", help="preprocessing type")
+@click.option('--search', default='similarity', help='search type')
 @click.option('--base', default='.', help='base folder')
-def test_index(base: str):
+def test_index(chain: str, process: str,  search: str, base: str):
     locations = Locations(Path(base))
-    index = Index(locations, "gpt-3.5-turbo") #Index(locations, "gpt-4")
-    #index.with_modules()
-    question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 in FOXO gene, explain their connection with aging and longevity"
+    index = Index(locations.paper_index, "gpt-3.5-turbo", chain_type=chain, search_type=search) #Index(locations, "gpt-4")
+    question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic variants in FOXO gene, explain their connection with aging and longevity"
     print(f"Q1: {question1}")
-    answer1 = index.query_with_sources(question1)
+    answer1 = index.query_with_sources(question1, [])
     print(f"A1: {answer1}")
 
+#prompt=PromptTemplate.from_template('tell us a joke about {topic}')
 if __name__ == '__main__':
     app()
