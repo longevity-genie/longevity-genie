@@ -8,3 +8,9 @@ def init_csv_agent(verbose: bool = True, base: str = '.', trial_file_name: str =
     locations = Locations(Path(base))
     agent = create_csv_agent(OpenAI(temperature=0), locations.trials / trial_file_name, verbose=verbose)
     return agent
+
+
+def init_simple_llm_agent():
+    llm = OpenAI(temperature=0)
+    return llm
+
