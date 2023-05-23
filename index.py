@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from genie.config import Locations
 from genie.calls import longevity_gpt
 from genie.indexing import *
+from genie.prepare import prepare_clinvar
 
 e = dotenv.find_dotenv()
 print(f"environment found at {e}")
@@ -31,9 +32,19 @@ def app(ctx: Context):
 def write(model: str, base: str):
     load_dotenv()
     locations = Locations(Path(base))
-    index = Index(locations, model)
+    index = Index(locations.paper_index, model)
     print("saving modules and papers")
-    index.with_modules().with_papers().persist()
+    index.with_modules(locations.modules_text_data).with_papers().persist()
+
+@app.command("prepare_clinvar")
+@click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
+@click.option('--base', default='.', help='base folder')
+def write(model: str, base: str):
+    load_dotenv()
+    locations = Locations(Path(base))
+    index = Index(locations.paper_index, model)
+    print("saving modules and papers")
+    index.with_modules(locations.modules_text_data).with_papers(locations.papers).persist()
 
 @app.command("longevity_gpt")
 @click.option('--question', default='What is aging?', help='Question to be asked')
@@ -41,10 +52,16 @@ def longevity_gpt_command(question: str):
     return longevity_gpt(question, [])
 
 
+#@app.command("clinvar")
+#@click.option('--base', default='.', help='base folder')
+#def clinvar(base: str):
+    #locations = Locations(Path(base))
+    #return longevity_gpt(question, [])
+
 @app.command("test")
-@click.option('--chain', default="map_reduce", type=click.Choice([ "stuff", "map_reduce", "refine", "map_rerank"], case_sensitive=True), help="chain type")
+@click.option('--chain', default="map_reduce", type=click.Choice(["stuff", "map_reduce", "refine", "map_rerank"], case_sensitive=True), help="chain type")
 @click.option('--process', default="split", help="preprocessing type")
-@click.option('--search', default='similarity', help='search type')
+@click.option('--search', default='similarity', type=click.Choice(["similarity", "mma"], case_sensitive=True), help='search type')
 @click.option('--base', default='.', help='base folder')
 def test_index(chain: str, process: str,  search: str, base: str):
     locations = Locations(Path(base))

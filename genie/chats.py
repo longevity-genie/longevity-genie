@@ -1,19 +1,28 @@
 import os
+from enum import Enum
 from pathlib import Path
-from typing import Dict
 
 import dotenv
-import weaviate
 from dotenv import load_dotenv
-from langchain import OpenAI, BasePromptTemplate
-from langchain.chains import ChatVectorDBChain
+from langchain import BasePromptTemplate
+from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.chains.base import Chain
-from langchain.chains.conversational_retrieval.base import BaseConversationalRetrievalChain, \
-    ConversationalRetrievalChain
-from langchain.chains.conversational_retrieval.prompts import CONDENSE_QUESTION_PROMPT
+from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
+from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import Weaviate, Chroma
+from langchain.vectorstores import Chroma
 
+
+class GenieChain(Enum):
+    IndexSource = 'IndexSource'
+    Chat = 'Chat'
+    Advanced = 'Advanced'
+
+class ChainType(Enum):
+    Stuff = "stuff"
+    MapReduce = "map_reduce"
+    Refine = "refine"
+    MapRerank = "map_rerank"
 
 class ChatIndex:
 
@@ -21,19 +30,23 @@ class ChatIndex:
     vector_store: Chroma
     persist_directory: Path
     model_name: str
+    genie_chain: GenieChain
     chat_chain: Chain #BaseConversationalRetrievalChain #ConversationalRetrievalChain
+    chain_type: ChainType.MapReduce
+    search_type: str
     chat_history: list[(str, str)]
     messages: list[str]
+    llm: ChatOpenAI
+    question_prompt: BasePromptTemplate
 
     def __init__(self,
                  persist_directory: Path,
                  username: str = "Zuzalu user",
                  model_name: str = "gpt-3.5-turbo",
-                 chain_type: str = "map_reduce",
-                 search_type: str = "mmr"
-                 #host: str = "0.0.0.0", port: str = "8006"
+                 genie_chain: GenieChain = GenieChain.IndexSource,
+                 chain_type: ChainType = ChainType.MapReduce,
+                 search_type: str = "similarity"
                  ):
-        question_prompt: BasePromptTemplate = CONDENSE_QUESTION_PROMPT
         e = dotenv.find_dotenv()
         has_env: bool = load_dotenv(e, verbose=True)
         if not has_env:
@@ -45,22 +58,58 @@ class ChatIndex:
         self.embedding = OpenAIEmbeddings()
         self.persist_directory = persist_directory
         self.vector_store = Chroma(persist_directory=str(self.persist_directory),
-                         embedding_function=self.embedding #,client_settings=settings
-                         )
-        self.llm = OpenAI(model_name=self.model_name)
-        self.chat_chain = ConversationalRetrievalChain.from_llm(
-            self.llm,
-            self.vector_store.as_retriever(search_type = search_type),
-            condense_question_prompt=question_prompt,
-            chain_type=chain_type
-        )
+                         embedding_function=self.embedding)
+        self.llm = ChatOpenAI(model_name=self.model_name)
         self.chat_history = []
         self.messages = []
+        self.search_type = search_type
+        self.genie_chain = genie_chain
+        self.chain_type = chain_type
+
+        self.chat_chain = self.make_chain(genie_chain, chain_type, search_type)
+
+    def _make_conversation_chain(self, chain_type: ChainType, search_type: str):
+        return ConversationalRetrievalChain.from_llm(
+            self.llm,
+            self.vector_store.as_retriever(search_type = search_type),
+            chain_type=chain_type.value
+        )
+
+    def _index_make_chain(self, chain_type: ChainType, search_type: str):
+        self.llm = ChatOpenAI(model_name=self.model_name)
+        chain = RetrievalQAWithSourcesChain.from_chain_type(
+            self.llm,
+            retriever=self.vector_store.as_retriever(search_type = search_type),
+            chain_type=chain_type.value
+        )
+        if self.model_name == "gpt-4":
+            chain.max_tokens_limit = chain.max_tokens_limit * 2
+        chain.reduce_k_below_max_tokens = False #True
+        return chain
+
+    def make_chain(self,
+                   genie_chain: GenieChain = GenieChain.IndexSource,
+                   chain_type: ChainType = ChainType.MapReduce,
+                   search_type: str = "similarity"):
+        if genie_chain == GenieChain.IndexSource:
+            print("initializing index chain")
+            return self._index_make_chain(chain_type, search_type)
+        elif genie_chain == GenieChain.Chat:
+            print("initializing conversation chain")
+            return self._make_conversation_chain(chain_type, search_type)
+        else:
+            print("initializing index chain")
+            return self._index_make_chain(chain_type, search_type)
+
+    def with_updated_chain(self, genie_chain: GenieChain, chain_type: ChainType, search_type: str):
+        self.chat_chain = self.make_chain(genie_chain, chain_type, search_type)
+        return self
 
     def answer(self, question: str):
         result = self.chat_chain({"question": question, "chat_history": self.chat_history})
         print(f"RESULT OUTPUT is {result}")
         self.chat_history = [(question, result["answer"])]
-        self.messages = self.messages + [question, result["answer"]]
+        full_answer = f"""{result["answer"]}\nSOURCES: "{result["sources"]}"""
+        self.messages = self.messages + [question, full_answer]
         return result["answer"]
 

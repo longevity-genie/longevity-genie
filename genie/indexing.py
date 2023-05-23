@@ -1,4 +1,5 @@
 import copy
+from enum import Enum
 
 from langchain import OpenAI
 from langchain.chains import RetrievalQAWithSourcesChain
@@ -12,7 +13,6 @@ from langchain.vectorstores import Chroma
 from pycomfort.files import *
 
 from genie.sqlite import *
-
 
 class RecursiveSplitterWithSource(RecursiveCharacterTextSplitter):
     def create_documents(
@@ -40,7 +40,7 @@ class Index:
     persist_directory: Path
     embedding: OpenAIEmbeddings
     db: Chroma
-    llm: OpenAI
+    llm: ChatOpenAI
     chain: RetrievalQAWithSourcesChain
     splitter: TextSplitter
     model_name: str
@@ -62,9 +62,6 @@ class Index:
         self.splitter = RecursiveSplitterWithSource(chunk_size=chunk_size, chunk_overlap=500)
         self.chain_type = chain_type
         self.chain = self.make_chain(self.chain_type, search_type=search_type)
-
-    def update_chain(self):
-        self.chain = self.make_chain()
 
 
     def make_chain(self, chain_type: str, search_type: str):

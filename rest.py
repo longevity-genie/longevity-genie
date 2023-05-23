@@ -13,6 +13,7 @@ from genie.config import Locations
 load_dotenv()
 base = Path(".")
 locations = Locations(base)
+chat = ChatIndex(locations.paper_index)
 #index = Index(locations, "gpt-4")
 
 chatIndex = ChatIndex(locations.paper_index)
@@ -48,6 +49,7 @@ async def receive_dialog(dialog: Dialog):
     message = str(dialog.message)
     n_input_tokens = len(message.split())
     n_first_dialog_messages_removed = 0
+
     result = index.query_with_sources(message, prev_dialog)
     answer = result["answer"] + "\n SOURCES: " + str(result["sources"])
     response = ResponseModel(
