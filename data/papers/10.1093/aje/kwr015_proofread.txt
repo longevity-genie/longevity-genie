@@ -1,0 +1,104 @@
+Systematic Reviews and Meta- and Pooled Analyses of Apolipoprotein E Frequency with Age in a Pooled Analysis of a Large Group of Older People by J. McKay*, Giuliana Silvestri, Usha Chakravarthy, Shilpa Dasari, Lars G. Fritsche, Bernhard Weber, Claudia N. Keilhauer, Michael L. Klein, Peter J. Francis, Caroline C. Klaver, Johannes Vingerling, Lintje Ho, Paulus T. D. V. De Jong, Michael Dean, Julie Sawitzke, Paul N. Baird, H. Guymer, Dwight Stambolian, Anton Orlin, Johanna M. Seddon, Inga Peter, Alan F. Wright, Hayward, Andrew J. Lotery, Sarah Ennis, Michael B. Gorin, Daniel E. Weeks, Kuo, Aroon D. Hingorani, Reecha Sofat, Valentina Cipriani, Anand Swaroop, Mohammad Atsuhiro Kanda, Wei Chen, Goncalo R. Abecasis, John R. Yates Andrew R. Webster T. Moore Johan H. Seland Mati Rahu Gisele Soubrane Laura Tomazzoli Topouzis Jesus Vioque Ian S. Young Astrid E. Fletcher and Chris C. Patterson.
+* Correspondence to Dr. Gareth J. McKay at the Centre for Public Health at Queens University Belfast Royal Victoria Hospital Belfast BT12 6BA Northern Ireland (email: g.j.mckay@qub.ac.uk). Initially submitted on August 24th 2010; accepted for publication on January 14th 2011.
+Variation in the apolipoprotein E gene (APOE) has been reported to be associated with longevity in humans. The authors assessed the allelic distribution of APOE isoforms 2, 3, and 4 among 10,623 participants from 15 case-control and cohort studies of age-related macular degeneration (AMD) in populations of European ancestry (study dates ranged from 1990 to 2009). The authors included only the 10,623 control subjects from these studies who were classified as having no evidence of AMD since variation within the APOE gene has previously been associated with AMD. In an analysis stratified by study center, gender, and smoking status, there was a decreasing frequency of the APOE 4 isoform with increasing age (v2 for trend = 14.9 (1 df); P = 0.0001), with a concomitant increase in the 3 isoform (v2 for trend = 11.3 (1 df); P = 0.001). The association with age was strongest in 4 homozygotes; the frequency of 4 homozygosity decreased from 2.7% for participants aged 60 years or less to 0.8% for those over age 85 years, while the proportion of participants with the 3/4 genotype decreased from 26.8% to 17.5% across the same age range. Gender had no significant effect on the isoform frequencies. This study provides strong support for an association of the APOE gene with human longevity.
+Keywords: aged; apolipoprotein E2; apolipoprotein E3; apolipoprotein E4; apolipoproteins E; longevity; meta-analysis; multicenter study.
+Abbreviations: AMD, age-related macular degeneration; APOE, apolipoprotein E gene; Arg, arginine; Cys, cysteine; LDL, low-density lipoprotein; SNP, single-nucleotide polymorphism.
+The human apolipoprotein E gene (APOE; OMIM 107741), located on chromosome 19q13.2, is central to the metabolism of low-density lipoprotein (LDL) cholesterol and triglycerides and has been associated with an increased risk of a variety of complex and age-related disorders (1). These include coronary heart disease events (2), atherosclerosis (3), age-related macular degeneration (AMD) (4), Alzheimer's disease (5), and other dementias (6). The small, multifunctional apolipoprotein E lipid transport protein acts as a ligand for the LDL receptor and is also involved in the maintenance and repair of neuronal cell membranes in the central and peripheral nervous systems. Variation in two single-nucleotide polymorphisms (SNPs) within the APOE gene, rs429358 and rs7412, results in different isoforms reported to exert opposite effects in relation to the metabolism of coronary heart disease-related blood products such as LDL cholesterol and triglycerides (3, 7, 8). The allelic variants derived from theseAssociated with the E2/E3 genotype (11, 12), furthermore, a gender-specific survival effect associated with E2 has been reported. However, it is still unclear whether this is specific to males or females, with opposing associations being reported for both genders (13, 14). The analyses carried out in this study were subsidiary to a pooled data analysis assessing APOE variation in the context of AMD. The authors examined the association of APOE with age as a marker for longevity and assessed the potential for a gender-specific effect.
+
+RESULTS
+
+APOE allele frequency with age
+
+MATERIALS AND METHODS
+
+No significant differences were detected for either SNP by center or within the entire dataset. APOE allele frequencies varied between studies (data not shown), with ranges of 6.7%-10.0% (APOE E2), 75.3%-82.8% (APOE E3), and 7.5%-15.6% (APOE E4). APOE genotype frequencies for the 10,623 controls are shown in Table 2. The frequency of the E4 allele decreased from 17.6% to 8.3% (9.3%) with increasing age, while the frequency of the E3 allele increased from 73.3% to 83.3% (10.0%) (Table 3, Figure 1). Following adjustment for center and smoking status to limit potential confounding, we observed a significant decrease in the frequency of E4 with increasing age (χ2 =14.9; P=0.0001), representing a 5% decrease in odds per 5-year increase in age (odds ratio=0.95, 95% confidence interval: 0.92, 0.97), as well as a significantly increased frequency of E3 (χ2=11.3; P=0.001), representing a 4% increase in odds per 5-year increase in age (odds ratio=1.04, 95% confidence interval: 1.02, 1.07). The frequency of the E2 allele showed little variation with age. The relations between allele frequency and age in males and females were compared by including an age x gender interaction in the logistic regression analysis, but none of the interactions were significant (likelihood ratio χ2 test: E2, P=0.13; E3, P=0.25; E4, P=0.80). Tests of age x center interactions were also conducted and showed no evidence of heterogeneity in age effects by center (likelihood ratio χ2 test: E2, P=0.21; E3, P=0.88; E4, P=0.38).
+
+Although the number of persons who were homozygous for the E4 isoform was low at 1.9% (Table 2), the age-related effect observed was most prominent in E4 homozygotes, with a 70% reduction in frequency from 2.7% in persons aged 60 years or less to 0.8% in those over age 85 years (Table 2). A decreased frequency of 35% was also observed in E3/E4 heterozygotes, with a reduction from 26.8% to 17.5% recorded over the same age range (Table 2). Persons who were heterozygous for the E2/E4 genotype showed a non-significant change of 0.7% in frequency within this age range, from 3.1% to 2.4% (Table 2).
+
+DISCUSSION
+
+In previous studies, investigators have reported increased mortality associated with the E4 allele of the APOE gene, and this has been partly attributed to the increased risk this gene confers for Alzheimer's disease. The present study suggests that the frequency of E4 decreases with age, while the frequency of E3 increases, a finding that may partially explain the decreased mortality associated with E4. The observed decrease in E4 frequency with age was most prominent in E4 homozygotes. Although the number of homozygotes in our study was small, this result is consistent with previous studies that have reported a reduced prevalence of E4 homozygosity in centenarians (15-17).Genders Genders Genders No. % No. % No. % No. % No. % No. % No. % No. % No. % 
+
+Age group, years 
+<60 1,038 18.9 116 9.5 72 8.4 1,522 73.3 891 73.2 631 73.5 366 17.6 211 17.3 155 18.1 
+61-65 1,178 19.4 194 8.2 124 9.4 70 6.8 1,801 76.4 1,004 75.7 797 77.4 361 15.3 198 14.9 163 15.8 
+66-70 2,485 37.6 376 7.6 246 8.3 130 6.5 3,882 78.1 2,3037 ,74   .1   ,579   .1    ,483   .9    ,287   .4 
+71-75   ,627   .3       ,382   .3      ,238   .1      ,144   .7    ,154   .2    ,483   .2    ,465   .8      ,253   .3 
+76-80   ,993   .0      ,330   .3      ,219   .2      ,111   .4    ,125   .4    ,085   .4     ,354   .9     ,177   .2 
+81-85     ,925   .0      ,162   .8       ,111   .2       ,51     .9     ,457    .8     ,949    .0     ,508    .8      ,231  1.2 
+86-90     ,311   .3        ,41    .6         ,24    .1         ,17   .5       ,511    .2     ,323    .6     ,188   1.3       ,70   1.0 
+>90        ,066   .1        ,11    .8          ,7    .8           ,4   .7       ,110    .8       ,73    .9      ,37   1.3        ,11   1.6 
+Total 10,623 100 1,684 100 1,085 100 599 100 16,562 100 10,299 100 6,263 100 3,000 100 1,850 100 1,150 100 
+
+Trend testa v2 
+0.03 
+0.20 
+0.06 
+11.3 
+8.84 
+3.29 
+14.9 
+10.2 
+5.43 
+
+P value 
+0.86 
+0.65 
+0.80 
+0.001 
+0.003 
+0.07 
+1.13 
+10^4 
+
+Change per 5-year increaseb 
+
+Odds ratio  
+1.00  
+0.99  
+1.01  
+1.04  
+1.05  
+1.04  
+0.95  
+0.94  
+0.95  
+
+95% confidence interval  
+0.96, 1.03  
+0.95, 1.04   
+0.95, 1.07   
+1.02, 1.07   
+1.02, 1.08   
+1.00, 1.08   
+0.92, 0.97   
+0..91, 0..98   
+0.90, 0.99   
+
+Abbreviation: APOE, apolipoprotein E gene. 
+a v2 tests for trend (1 df) in APOE allele frequency with age, with adjustment for confounding by study, gender, and smoking status, were generated by means of logistic regression performed separately for each allele. 
+b Change in the odds of having the allele per 5-year increase in age. 
+
+Figure 1. Allele frequency distribution of apolipoprotein E gene (APOE) e2, e3, and e4 isoforms by age group in 10,623 subjects with European ancestry, 1990-2009.
+
+Other studies with smaller sample sizes have found lower rates of mortality associated with e2 relative to e3 with age (12, 30), but our data did not support these findings. We observed a small but nonsignificant variation in the relation of e2 with age. However, this study had only 66 participants over the age of 90 years, which may explain why previous findings of an increased e2 allele frequency in the elderly were not confirmed inGenetics, Harvard Medical School, Boston, Massachusetts (Chen Yao, Soumya Raychaudhuri); Department of Ophthalmology, Harvard Medical School, Massachusetts Eye and Ear Infirmary, Boston, Massachusetts (Chen Yao, Soumya Raychaudhuri); Department of Ophthalmology and Visual Sciences, University of Iowa Carver College of Medicine, Iowa City, Iowa (Edwin M. Stone); Department of Biostatistics and Epidemiology, University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania (Wei Chen); Department of Epidemiology and Biostatistics, Case Western Reserve University School of Medicine, Cleveland, Ohio (Jonathan L. Haines); Institute for Computational Biology, Case Western Reserve University School of Medicine, Cleveland, Ohio (Jonathan L. Haines); Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden (Paul Lichtenstein); Department of Epidemiology and Biostatistics and Institute for Human Genetics, University of California San Francisco School of Medicine, San Francisco, California (Neil Risch); Institute for Translational Genomics and Population Sciences and Departments of Pediatrics and Medicine (Cardiology), Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center Torrance California (Jerome I. Rotter). This work was supported by the National Eye Institute/National Institutes of Health grants EY015872 and EY019126; the European Union 7th Framework Programme grant HEALTH-F2-2010- 246539; the Macular Disease Foundation Australia; the Australian National Health and Medical Research Council; the Wellcome Trust; the Royal Society; Fight for Sight UK; the Health Research Board Ireland; the Medical Research Council UK; the National Institute for Health Research UK; the NIHR Biomedical Research Centre for Ophthalmology at Moorfields Eye Hospital NHS Foundation Trust and UCL Institute of Ophthalmology; and the Foundation Fighting Blindness USA. The authors thank the study participants and staff of all participating centers for their contributions. We are grateful to the International AMD Genomics Consortium for providing access to the summary statistics data from their recent genome-wide association study of advanced age-related macular degeneration. The authors acknowledge the use of DNA from the UK Blood Services collection of Common Controls (UKBS-CC collection), which is funded by Wellcome Trust grant 076113/C/04/Z and by grants from the National Eye Institute/National Institutes of Health (EY018246, EY01919, and EY015473). The collection was established as part of the Wellcome Trust Case Control Consortium. We acknowledge the use of DNA from the National Eye Institute Age-Related Eye Disease Study (AREDS) repository.Ophthalmology:
+Uni- Ward H, Mitrou PN, Bowman R, et al. APOE genotype, lipids, and coronary heart disease risk: a prospective population study. Arch Intern Med. ; (): 
+Davignon J, Gregg RE, Sing CF. Apolipoprotein E polymorphism and atherosclerosis. Arteriosclerosis. ; (): 
+Klaver CC, Kliffen M, van Duijn CM, et al. Genetic association of apolipoprotein E with age-related macular degeneration. Am J Hum Genet. ; (): (Erratum: Am J Hum Genet ; (): )
+Saunders AM, Schmader K, Breitner JC, et al. Apolipoprotein E epsilon allele distributions in late-onset Alzheimer's disease and in other amyloid-forming diseases. Lancet. ; (): 
+Azad NA, Al Bugami M, Loy-English I. Gender differences in dementia risk factors. Gender Med. ; (): 
+Schaefer EJ, Lamon-Fava S, Johnson S, et al. Effects of gender and menopausal status on the association of apolipoprotein E phenotype with plasma lipoprotein levels. Results from the Framingham Offspring Study. Arterioscler Thromb. ; (): 
+Sing CF, Davignon J. Role of the apolipoprotein E polymorphism in determining normal plasma lipid and lipoprotein variation. Am J Hum Genet. ; (): 
+Oeppen J, Vaupel JW. Demography. Broken limits to life expectancy. Science. ; (): 
+Panza F, d'Introno A, Capurso C, et al. Lipoproteins, vascular-related genetic factors, and human longevity. Rejuvenation Res. ; (): 
+Ewbank DC. Mortality differences by APOE genotype estimated from demographic synthesis. Genet Epidemiol. ; (): 
+Ewbank DC. Differences in the association between apolipoprotein E genotype and mortality across populations. J Gerontol A Biol Sci Med Sci. ; (): 
+Seripa D, Franceschi M, Matera MG, et al. Sex differences in the association of apolipoprotein E and angiotensin-converting enzyme gene polymorphisms with healthy aging and longevity: a population-based study from Southern Italy. J Gerontol A Biol Sci Med Sci. ; (): 
+Rosvall L, Rizzuto D, Wang HX, et al. APOE-related mortality: effect of dementia, cardiovascular disease and gender. Neurobiol Aging. ; (): 
+Fritsche LG, Freitag-Wolf S, Bettecken T, et al. Age-related macular degeneration and functional promoter and coding variants of the apolipoprotein E gene. Hum Mutat. ; (): 
+Bergeron-Sawitzke J, Gold B, Olsh A, et al. Multilocus analysis of age-related macular degeneration. Eur J Hum Genet. ; (): 
+Francis PJ, Hamon SC, Ott J, et al. Polymorphisms in C2, CFB and C3 are associated with progression to advanced age-related macular degeneration associated with visual loss. J Med Genet. ; (): 
+Baird PN, Richardson AJ, Robman LD, et al. Apolipoprotein (APOE) gene is associated with progression of age-related macular degeneration (AMD). Hum Mutat. ; (): 
+Zareparsi S, Reddick AC, Branham KE, et al. Association of apolipoprotein E alleles with susceptibility to age-related macular degeneration in a large cohort from a single center. Invest Ophthalmol Vis Sci. ; (): 
+van Leeuwen R, Klaver CC, Vingerling JR, et al. Cholesterol and age-related macular degeneration: is there a link? Am J Ophthalmol. ; (): 
+Conley YP, Thalamuthu A, Jakobsdottir J, et al. Candidate gene analysis suggests a role for fatty acid biosynthesis and for Health Development, Tallinn, Estonia (Mati Rahu); Clinique Ophthalmologique, Universitaire de Creteil, Paris, France (Gisele Soubrane); Clinica Oculistica, Universita degli Studi di Verona, Verona, Italy (Laura Tomazzoli); Department of Ophthalmology, School of Medicine, Aristotle University of Thessaloniki, Thessaloniki, Greece (Fotis Topouzis); Departamento Salud Publica, University Miguel Hernandez, Alicante, Spain (Jesus Vioque); Consorcio de Investigacion Biomedica en Red Especializado en Epidemiologia y Salud Publica (CIBERESP), Alicante, Spain (Dissecting complex disease traits. Hum Mol Genet. ; (Spec No.):R Sebastiani P, Solovieff N, Puca A, et al. Genetic signatures of exceptional longevity in humans [published online ahead of print July , ]. Science. (DOI:/science.). Yu CE, Seltman H, Peskind ER, et al. Comprehensive analysis of APOE and selected proximate markers for late-onset Alzheimer's disease: patterns of linkage disequilibrium and disease/marker association. Genomics. ; ( ): Payami H, Zhu M, Montimurro J, et al. One step closer to fixing association studies: evidence for age- and gender-specific allele frequency variations and deviations from Hardy-Weinberg expectations in controls. Hum Genet. ; ( - ): Gerdes LU. The common polymorphism of apolipoprotein E: geographical aspects and new pathophysiological relations. Clin Chem Lab Med. ; ( ): Corbo RM, Scacchi R. Apolipoprotein E (APOE) allele distribution in the world. Is APOE* a thrifty allele? Ann Hum Genet. ; ( ): Singh PP, Singh M, Mastana SS. APOE distribution in world populations with new data from India and the UK. Ann Hum Biol. ; ( ): related maculopathy. Hum Mol Genet. ; ( ): May GJ, Silvestri G, Patterson CC, et al. Further assessment of the complement component and factor B region associated with age-related macular degeneration. Invest Ophthalmol Vis Sci. ; ( ): Yates JR, Sepp T, Matharu BK, et al. Complement C variant and the risk of age-related macular degeneration. N Engl J Med. ; ( ): Hadley D, Orlin A, Brown G, et al. Analysis of six genetic risk factors highly associated with AMD in the region surrounding ARMS and HTRA on chromosome, region q Invest Ophthalmol Vis Sci. ; ( ): Ennis S, Jomary C, Mullins R, et al. Association between the SERPING gene and age-related macular degeneration: a two-stage case-control study. Lancet. ; ( ): Dandekar SS, Jenkins SA, Peto T, et al. Does smoking influence the type of age-related macular degeneration causing visual impairment? Br J Ophthalmol. ; ( ): Augood C, Fletcher A, Bentham G, et al. Methods for a population-based study of the prevalence of and risk factors for age-related maculopathy and macular degeneration in elderly European populations: the EUREYE study. Ophthalmic Epidemiol. ; ( ): Haan MN, Klein R, Klein BE, et al. Hormone therapy and age-related macular degeneration: the Women's Health Initiative Sight Exam Study. Arch Ophthalmol. ; ( ): Smith JD. Apolipoproteins and aging: emerging mechanisms.

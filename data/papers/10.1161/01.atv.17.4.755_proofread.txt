@@ -1,0 +1,105 @@
+Gene Polymorphisms Predicting High Plasma: A Study in Centenarians
+
+P.M. Mannucci, D. Mari, G. Merati, F. Peyvandi, L. Tagliabue, E. Sacchi, E. Taioli, P. Sansoni, S. Bertolini, C. Franceschi
+
+Abstract:
+Gene polymorphisms associated with the plasma levels of fibrinogen, factor VII, and plasminogen activator inhibitor 1 (PAI-1), hemostasis proteins that help to predict the risk of atherothrombotic disease, were compared in 124 healthy individuals > 100 years old and 130 young, healthy individuals to identify genetic influences on extreme longevity. We investigated the restriction fragment length polymorphism G/A "455 located in the promoter of the p-fibrinogen gene, the guanine insertion/deletion polymorphism 4G/5G in the promoter of the PAI-1 gene, and the R353Q substitution polymorphism in exon 8 of the factor VII gene. Alleles and genotypes associated with elevated plasma levels of fibrinogen and factor VII were found with similar frequencies in centenarians and in the comparison group. However, in centenarians, there was a significantly higher frequency of the 4G allele and of the homozygous 4G4G genotype associated with high PAI-1 levels. Since high PAI-1 is considered a predictor of recurrent myocardial infarction in young men, it is intriguing that the corresponding genetic marker is more frequent in centenarians who have escaped major age-related atherothrombotic disease and reached the extreme limits of human life. Homozygosity for the 4G allele, despite its association with impaired fibrinolysis, is compatible with successful aging. (Arterioscler Thromb Vase Biol. 1997;17:755-759.)
+
+Keywords: 
+centenarians, fibrinogen, factor VII, plasminogen activator inhibitor 1, gene polymorphisms
+
+The purpose of this study was to evaluate the allele and genotype frequencies of polymorphisms influencing plasma levels of fibrinogen, factor VII, and PAI-1 in a cohort of Italian healthy centenarians, who are considered a natural model of extreme longevity and positive selection. Results obtained in these exceptional individuals, who have escaped age-related atherothrombotic disease and reached the extreme limits of life, were compared with those obtained in healthy individuals who were young enough that none of them would be lost from the study sample because of symptomatic atherothrombotic disease. We surmised that the study of genetic markers of hypercoagulability and hypofibrinolysis should establish whether or not successful aging is associated with the predominance of genotypes predicting lower plasma levels of hemostasis proteins.
+
+From http://ahajournals.org by on March 13, 2020
+
+Common biallelic polymorphisms of the genes encoding for fibrinogen, factor VII, and PAI-1 influence the plasma levels of these proteins. The polymorphic genotypes associated with elevated plasma levels of these hemostasis components might prove more reliable as predictors of the thrombotic risk than the plasma levels. In the general population, plasma levels have a continuous distribution, and so it is difficult to establish cutoff values that can identify the individuals at risk. In addition, variation of plasma levels determined by environmental factors may further complicate risk assignment. To assess the value of genetic markers as risk predictors, studies have been carried out in relatively small groups of individuals with or without atherothrombotic disease, but the results have been conflicting.
+
+Methods:
+Subjects
+In Italy, there is currently a multicenter project on centenarians; it is coordinated by one of the authors (C.F.). The aim of this project is to study the mechanisms of successful aging. Centenarians identified from the General Registry Offices are studied in special units, generally established in university departments. Approximately 2000 centenarians have been identified. Several biological systems of these individuals are being investigated by biochemical and molecular methods.
+
+Received April 16, 1995; revision accepted July 31, 1996. From the Angelo Bianchi Bonomi Hemophilia and Center, Epidemiology Unit, IRCCS Maggiore Hospital and Unit, Institute of Internal Medicine, University of Milano D.M., G.M., F.P., L.T., E.S., E.T.); the Institute of Clinical Medicine, University of Parma (P.S.); the Department of Medicine, University of Genoa (S.B.); and the Department of Biochemical Sciences, University of Modena (C.F.), Italy.
+
+Received April , ; revision accepted July , From the Angelo Bianchi Bonomi Hemophilia and Thrombosis CenterSolution (0.1% Ficoll 400, 0.1% polyvinylpyrrolidone, 0.1% BSA), 100 ng/mL salmon sperm DNA, and 0.5% SDS were combined. Then, the labeled probes were added separately to each solution at a final concentration of 105 cpm/mL for at least 1 hour. Membranes were washed in 5x SSC and 0.1% SDS for several minutes to remove background hybridization. Prehybridization, hybridization, and washing were carried out at 55°C for the oligonucleotide complementary to the 4G allele and at 58°C for the oligonucleotide complementary to the 5G allele. Autoradiograms were obtained by exposing films to membranes intensifying screens for 16 to 20 hours at -70°C. Samples from individuals with known genotypes, determined by allele-specific oligonucleotide melting14 and kindly supplied by S. (London, UK), were used as controls. The young individuals (82 women and 48 men) were all under 31 years old (mean age, 25.3 ± 7 years; range, 14 to 30 years) and were randomly selected from the same metropolitan communities (hospital staff, high-school students). Arterial or venous thrombotic disease was excluded based on clinical history and physical examination results. None of them were current or recent smokers. Blood samples for DNA analysis were drawn directly into vacuum containers containing sodium citrate as anticoagulant. Genomic DNA was prepared from whole blood using a salting-out procedure." from http://ahajournals.org on March 13, 2020.
+
+Fibrinogen Polymorphism: The biallelic polymorphism is located in the promoter region of the β-fibrinogen gene. The allele containing a polymorphic cutting site for the restriction enzyme HaeIII identified as G-455, and the allele without the cutting site is identified as A-455. Carriers of the less frequent allele A-455 (=0.20 in the general population) have higher fibrinogen levels (=20% to 30%) than carriers of the G-455 allele.12 The method used was described by Thomas et al. with some modifications. Briefly, a portion of the β-fibrinogen gene, -551 to -109 bp from the start of transcription, was amplified by polymerase chain reaction (PCR) using the primers 5'-ATAGAATAGGGTATGAATTTG-3' and 5'-GAACCATTTTATCATTTAAGC-3' in a 50-μL mixture containing 200 to 500 ng DNA, 0.1 mg/mL BSA, 200 μmol/L of each nucleotide triphosphate, 100 pmol of each primer, 2 mmol/L MgCl2, 10 Tris, 50 mmol/L KCl (pH 8.3), and 2.5 U Taq. Amplification involved 33 cycles of 93°C (20 seconds), 50°C (10 seconds), and 70°C (45 seconds). Subsequently, the PCR product was digested with the restriction enzyme HaeIII (Boehringer Mannheim). Finally, the digestion products were separated by electrophoresis on a 3% agarose gel and stained with ethidium bromide. The fragments of the G-455 allele contained 346 and 96 bp, and the fragment of the A-455 allele contained 442 bp.
+
+Statistical Analysis: The allele and genotype frequencies of the two study groups were compared by χ2 analysis using a method designed for small or even zero populations.15 The odds ratio and 95% confidence intervals were calculated to measure the association between each genotype and being a centenarian. The data were adjusted for sex by multiple logistic regression analysis. The association between triglycerides and genotypes was evaluated by ANOVA. For circumstantial technical reasons, not all the results could be obtained for all the samples, so in some instances, the numbers of centenarians and control subjects studied are less than 124 and 130, respectively (see Tables).
+
+Results: Table 1 shows that for the fibrinogen and factor VII polymorphisms, there was no significant difference between centenarians and control subjects in the allele frequencies or in the frequencies of the six possible genotypes. However, there was a difference for the PAI-1 polymorphism: the 4G allele and the homozygous 4G4G genotype, associated with elevated plasma levels of the fibrinolysis inhibitor, were significantly more frequent in centenarians than in young individuals (P=.021 and P≤.049, respectively) (Table 112 (9.4) 5G 5G 1 (0.8) 2 (1.6) 353QQ 4G 4G 0 2 (1.6) 4G 5G 2 (1.7) 3 (2.3) 5G 5G 2 (1.7) 2 (1.6) -455GA 353RR 4G 4G 13 (10.9) 6 (4.7) 4G 5G 16 (13.5) 22 (17.1) 5G 5G 2 (1.7) 5 (3.9) 353RQ 4G 4G 
+
+3 (2.5) 
+
+3 (2.3)
+
+4G
+
+5G
+
+10(8.4)
+
+4(3.1)
+
+5G
+
+1(0.8)
+
+5(3.9)
+
+AA-455
+
+353RR
+
+4G
+
+4G
+
+1(0.8)
+
+0
+
+4G
+
+5G
+
+0
+
+2(1.6)
+
+5G
+
+1(0.8)
+
+0
+
+353RQ
+
+4G
+
+4G
+
+0
+
+1(0.8)
+
+4G
+
+3(2.5)
+
+0 
+
+X2=26.88; P=.076.
+
+The results of this study on centenarians regarding gene polymorphisms associated with cardiovascular risk factors are compatible with the belief that the basis of successful aging is complex and multifactorial. It is likely that unidentified factors compensate for potentially unfavorable genotypes in centenarians, such as the association of the genotype "4G" with longevity, which may arise due to a locus counteracting the putative unfavorable effect of elevated PAI-1 levels, offsetting the risk conferred by hypofibrinolysis and creating favorable long-term effects. Additionally, we should consider the possibility of a cohort effect when comparing centenarians with individuals under 30 years old because young individuals may not have been exposed to the same environmental factors as centenarians. It is also possible that among elderly people who escaped atherothrombotic disease, it is actually beneficial to have reduced fibrinolytic activity. 
+
+The general conclusion that can be drawn from the study is that there is no evidence that possession of genotypes associated with circulating levels of fibrinogen, factor VII, and PAI-1 reduces the chance of survival to the age of 100 years without evident atherothrombotic disease. 
+
+From http://ahajournals.org on March 13, 2020, association between triglycerides and the factor VII genotype 353RR was found. Hence, the interaction between triglycerides and PAI-1 genotypes found in patients with non-insulin dependent diabetes mellitus was also present in centenarians. The relatively small sample size is perhaps an explanation for the lack of association between triglyceride levels and the 4G4G genotype in young, healthy individuals.
+
+Acknowledgments: This work was supported in part by CNR grants, Progetto Finalizzato Invecchiamento and MURST grants (60%). We thank Dr. Kathryn Boyd for reading the manuscript critically.
+
+On the whole, our findings in centenarians indicate that during the process of selection that allows a few individuals to reach the extreme limits of human life, one is not disadvantaged by the polymorphic genotypes associated with high levels of coagulation factors and high responses to environmental triggers. The "4G" allele and "4G4G" genotype associated with elevated levels of PAI-1, which predict recurrence of myocardial infarction in young men, were even more frequent in centenarians than in young individuals. It is intriguing that genotypes associated with "high-risk" phenotypes are at least as frequent or even more frequent in centenarians than in young individuals who carry a lifelong risk of atherothrombotic disease. This paradoxical finding is not isolated because other genotypes with potentially unfavorable cardiovascular effects have been found more frequently in centenarians. Schachter et al., for instance, found that the homozygous genotype for the deletion polymorphism of the angiotensin-converting enzyme, which predisposes to coronary heart disease, is more frequent in French centenarians than in adults 20 to 70 years old (39.6% versus 25.6%). On the other hand, the "e4" allele of the gene encoding apolipoprotein E, which has been associated with ischemic heart disease, was not found to be associated with an increased risk of arterial thrombosis.
+
+References:
+- Balliere's Clin Hematol. 1993; 6(1): 125-139.
+- ArteriosThere is no text to process. Please provide the text enclosed in ```.```

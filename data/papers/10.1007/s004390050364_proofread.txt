@@ -1,0 +1,110 @@
+corrected spelling and grammar:
+
+ORIGINAL INVESTIGATION: De Benedictis, E. Falcone, G. Rose, R. Ruffolo, Spadafora, G. Baggio, S. Bertolini, D. Mari, Mattace, D. Monti, M. Morellini, P. Sansoni, and Franceschi.
+
+DNA multiallelic systems reveal gene/longevity associations not detected by diallelic systems: The APOB locus.
+
+Received: 27 November 1995 / Revised: 24 July 1996
+
+Abstract:
+To identify possible genetic factors affecting human longevity, we compared allele pools at two candidate loci for longevity between a sample of 143 centenarians (S) and a control sample of 158 individuals (C). The candidate loci were APOB and TPO, which code for apolipoprotein B and thyroid peroxidase, respectively. Both restriction fragment length (RFL) (XbaI and EcoRI) 2488 4154 and variable number of tandem repeat (VNTR) (3 APOB-VNTR) polymorphisms were analyzed at the APOB locus; the TPO-VNTR polymorphism (intron 10) was analyzed at the TPO locus. The main result of the investigation was that there is an association between the APOB locus and longevity that is revealed only when multiallelic polymorphisms are considered. In particular: (i) the frequency of 3 APOB-VNTR alleles with fewer than 35 repeats is significantly lower in cases than in controls; (ii) the linkage disequilibrium between the XbaI-RFLP and the EcoRI-RFLP is significantly different from 0 in cases but not in controls; (iii) the EcoRI-RFLP and XbaI-RFLP allele frequencies do not discriminate between cases and controls. The differences observed between case and control allele pools are specific to the APOB locus, since no significant difference was observed at the TPO locus.
+
+Introduction:
+Longevity can be regarded as a multifactorial trait, resulting from the interaction between environmental factors and sets of epistatic alleles having pleiotropic age-dependent effects (Kirkwood and Franceschi 1992). A possible approach to the identification of these longevity alleles is the comparative analysis of polymorphic markers at candidate loci between a long-lived group and a control group (Schachter et al. 1993). Indeed, it is expected that if a certain gene affects lifespan, there will be a difference between the allele pools of the long-lived and the control groups. So far, significant longevity/allele associations have been found at the HLA (Proust et al. 1982; Takata et al. 1987), ACE (Schachter et al. 1994), APOB (Kervinen et al. 1994), APOE (Kervinen et al. 1994; Louhija et al. 1994; Schachter et al. 1994), and APOC (Louhija et al. 1994) loci.
+
+P. Spadafora: Department of Cell Biology, University of Calabria, Rende, Italy. G. Baggio: Institute of Internal Medicine, University of Padua, Padua, Italy. S. Bertolini: Atherosclerosis Prevention Centre, Department of Internal Medicine, University of Genoa, Genoa, Italy. D. Mari: Hemophilia and Thrombosis Centre, University of Milan, Milan, Italy. R. Mattace: Chair of Geriatrics, University of Reggio Calabria, Catanzaro, Italy. D. Monti: Department of Biomedical Sciences, University of Modena, Modena, Italy. M. Morellini: Department of Experimental Medicine and Pathology, University La Sapienza, Rome, Italy. P. Sansoni: Institute of Clinical Medical Genetics and Medical Therapy, University of Parma, Parma, Italy.
+
+The information content of a genetic marker is a function of the number and the relative frequencies of different alleles found at that locus in a population (Botstein et al. 1980). DNA markers resulting from a variable number of tandem repeats (VNTR) are highly informative multiallelic systems (Harding 1992) that can be analyzed by polymerase chain reaction (PCR) amplification of the variable region. Because of their high information content, VNTR markers at candidate loci could be more efficient than single diallelic polymorphisms in revealing gene/longevity associations.
+
+On the basis of these considerations, we decided to verify whether VNTR markers at candidate loci were able to reveal significant differences between gene pools from centenarians and controls. The first loci chosen for analysisContinuity correction was used to verify whether there were significant differences between allele frequencies in cases and controls. A possible association between APOB alleles and longevity has been investigated in French samples (the restriction fragment length polymorphism XbaI-RFLP 2488 and an insertion/deletion polymorphism in the signal peptide region, Schachter et al. 1994) and in Finnish samples (XbaI-RFLP and EcoRI-RFLP, Kervinen et al. 1994; XbaI-RFLP, Louhija et al. 1994). However, a significant association between longevity and the APOB locus was observed for only one marker (EcoRI-RFLP) in one sample group (Kervinen et al. 1994). The methods described in Nei (1987) were used to estimate haplotypic frequencies, linkage disequilibrium D, and to test the null hypothesis D = 0. They were applied directly to diallelic polymorphisms while the multiallelic VNTR polymorphism was previously recoded as diallelic by grouping VNTR alleles into two classes. The classes were defined as follows: firstly, the estimates of the frequencies of all haplotypes were computed by maximizing the likelihood of phenotypic data (De Benedictis et al. 1996); then the linkage disequilibrium of each haplotype was evaluated; finally, two APOB-VNTR allele classes were defined, one including the alleles for which the linkage disequilibrium was positive, the other those for which the linkage disequilibrium was negative. The TPO gene codes for thyroid peroxidase, the key enzyme in thyroid metabolism. This gene was included in our analysis because of the unusual thyroid functions observed in centenarians (Mariotti et al. 1992). The TPO-VNTR polymorphism (Bikker et al. 1992; Rose et al. 1993) is caused by a variable number of 50-bp repeats in intron 10 of the TPO gene (2pterp24). More than 20 alleles (from 4 to 34 repeats; nomenclature according to Rose et al. 1993) are known, with the highest frequency peak at 15 repeats. The polymorphic information content (PIC) is higher than 80%. Linkage disequilibrium was found between the TPO-VNTR polymorphism and the AcyI-RFLP (212 bp upstream of exon 10 of the same gene), but the TPO-VNTR (2pterp24) and APOB-VNTR (2p24p23) polymorphisms are in equilibrium (De Benedictis et al. 1996).
+
+Results
+The APOB locus
+The XbaI-RFLP, EcoRI-RFLP and APOB-VNTR genotype and allele frequencies in centenarians (S) and controls (C) are reported in Tables 1 and 2, respectively. In both samples and for each polymorphism, the observed genotypes were in agreement (P > 0.05) with those expected at Hardy-Weinberg equilibrium.
+
+Samples
+The PIC values for the VNTR polymorphism were 0.731 in sample S and 0.762 in sample C, with 11 and 15 alleles, respectively. The observed heterozygosity was not statistically different between cases and controls (0.713 ±0.038 and 0.785 ±0.033 in S and C, respectively; P = 0.19). The intragroup homogeneity, computed as the proportion of mismatches between genotypes within each group, was 0.09 and 0.07 in cases and controls, respectively.
+
+The sample of centenarians was composed of 143 healthy unrelated subjects from northern and southern Italy (80 and 63 subjects, respectively). Fifty-one were men and 92 were women. The criterion for inclusion in the study was to be at least 100 years old on the day of blood collection. The oldest subject was 110 years old. The average age was 102 years, with a standard deviation of 1.8 years.
+
+The control group was composed of 158 healthy unrelated subjects randomly collected from northern and southern Italy (68 and 90 individuals, respectively).
+
+Table 2: XbaI-RFLP, EcoRI-RFLP and APOB-VNTR allele numbers and frequencies (per 1000) in centenarians (S) and controls (C). Standard errors in parentheses [X+/X and R+/R presence/absence of XbaI and EcoRI restriction sites; VNTR allele designations in numbers of repeats (Boerwinkle et al. 1989)]
+
+Table 1: XbaI-RFLP (0.83: In order to verify the significance of the observed difference, VNTR alleles were pooled into two classes, one of which contained the alleles having a repeat number lower than or equal to 33 (alleles 23, 29, 31, 33). The data were then analyzed according to sex (Table 3a) or to geographic area (northern and southern Italy, N.I. and S.I., respectively) (Table 3b) of centenarians (S) and controls (C). The data in Table 3a show that there is no significant difference within S (P = 0.41) or C (P = 0.23), while the frequency of alleles with low repeat number was lower in the whole sample S than in the whole sample C (χ2 = 8.54 with 1 df, P = 0.003). The difference between the S and C allele pools was chiefly due to centenarian females. Neither the XbaI-RFLP (P = 0.28) nor the EcoRI-RFLP (P = 0.64) were able to discriminate between the S and C gene pools. On the contrary, the frequency of VNTR alleles with fewer than 35 repeats appeared to be lower in cases than in controls.
+
+Table 3: The APOB-VNTR absolute allele frequencies in centenarians (S) and controls (C) subdivided according to sex (a) and origin (northern and southern Italy, N.I., and S.I., respectively) (b). VNTR alleles are pooled into two classes according to the number of repeats.
+
+a Subdivision by sex 
+Allele S (286 alleles) C (316 alleles) 
+Males Females Males Females 
+(102) (184) (154) (162) 
+33 14 18 36 28 
+> 33 88 166 118 134 
+
+b Subdivision by origin 
+Allele N.I. (160) S.I. (126) N.I. (136) S.I. (180) 
+33 20 12 30 34 
+> 33 140 114 106 146 
+
+By applying the above procedure to the analysis of linkage disequilibrium between the Xba-RFLP and APOB-VNTR, the data shown in Table 6 were obtained. The same allelic associations were favored in the two samples (X+ with VNTR alleles 37 and 39, pooled in class W; X with the remaining alleles, pooled in class Z), and in both samples, the disequilibrium between the polymorphic systems was significantly different from 0 (χ2 = 34.45 with 1 df; P < 0.001 in sample S; χ2 = 21.87 with 1 df; P <0.001 in sample C). In this case too, the associations X+W and XZ were greater in S than in C (D/Dmin =79% in sample S; D/Dmin =67% in sample C).
+
+In case and control gene pools, let us consider firstly the analysis of linkage disequilibrium between the XbaI-RFLP and EcoRI-RFLP (Table 4). In sample S, the linkage disequilibrium value (D) is significantly different from 0 (χ2 =22.54 with 1 df; P <0.001). On the contrary, in sample C, the value of D does not reach statistical significance (χ2 =3.58 with 1 df; P >0.05). Furthermore, the haplotype X+R, although at low frequency, is present in C but absent from the S allele pool.
+
+Now let us consider the analysis of linkage disequilibrium between the EcoRI-RFLP and APOB-VNTR. A preliminary evaluation of haplotypic frequencies was carried out by the maximum-likelihood method. It enabled us to group the VNTR alleles into two classes: the A class consisting of VNTR alleles with a repeat number lower than 41 (preferentially associated with the R+ allele in both S and C samples), and the B class consisting of the remaining VNTR alleles (preferentially associated with the R allele). In this way, the multiallelic VNTR system was recoded as diallelic (Table 5), and the statistical significance of D was then tested. In both S and C samples, D was different from 0 (χ2 =101.4 with 1 df; P <0.001 in S; χ2 =70.15 with 1 df; P <0.001 in C); however, the associations R+A and RB were greater in S than in C (D/Dmax =90% in sample SItaly). The study aimed to investigate the association between gene alleles and longevity in centenarians compared to controls. The study analyzed two multiallelic loci, APOB and TPO, and found that the frequency of VNTR alleles with fewer than 35 repeats was lower in centenarians than in controls. This trend was more pronounced in female centenarians. The loss of specific alleles from the centenarian gene pool suggests the elimination of unfavorable alleles that could contribute to disease and death. The study found significant linkage disequilibrium between the APOB gene polymorphisms and the 3 APOB-VNTR alleles, indicating that the loss of specific VNTR alleles could be a consequence of selection against APOB gene alleles that predispose to disease and death. However, it is possible that the copy number of the 3 APOB-VNTR array itself has some kind of function that affects longevity. Ethnic or geographical differences did not explain the observed differences between centenarians and controls, suggesting that recombinant chromosomes are preferentially lost in the aging population. The study concludes that VNTR alleles with low repeat numbers are unfavorable to long life expectancy due to their association with coronary heart disease.The following text presents research on the genetic differences between long-lived individuals and control groups in Italy. 
+
+In: Rittner C, Schneider PM (eds) Advances in forensic hemogenetics. Springer, Berlin Heidelberg New York, pp. 
+
+De Benedictis G, Leone O, Falcone E, Rose G, Brancati C, Carotenuto L. (Year unavailable) RFLPs of the APOB gene: comparative study between Greeks and southern Italian peoples. Hum Biol: 
+
+De Benedictis G, Rose G, Falcone E, Semino O, De Luca M, Spadafora P, Brancati C, Carotenuto L, Santachiara-Benerecetti AS. (Year unavailable) Population genetics of VNTR markers (TPO and APOB loci) in the Mediterranean area (Albania, Greece and Italy). In: Bar W, Fiori A, Rossi U (eds) Advances in forensic haemogenetics. Springer, Berlin Heidelberg New York, pp. 
+
+De Benedictis G, Falcone E, Ruffolo R, Spadafora P, Carotenuto L. (Year unavailable) Linkage disequilibrium studies in the thyroid peroxidase and apolipoprotein B genes. Hum Biol: 
+
+Domenici R, Fornaciari S, Nardone M, Ricciardi MF, Spinetti I, Venturi M, Bargagna M. (Year unavailable) Study of the APOB polymorphism in Tuscany (Italy). In: Bar W, Fiori A, Rossi U (eds) Advances in forensic haemogenetics. Springer, Berlin Heidelberg New York pp. 
+
+Elisworth DL, Shriver DM, Boerwinkle E. (1995) Nucleotide sequence analysis of the apolipoprotein B 3 VNTR. Hum Mol Genet: 
+
+Ferns GA, Robinson D, Galton DJ. (Year unavailable) DNA haplotypes of the human apolipoprotein B gene in coronary atherosclerosis. Hum Genet: 
+
+Hallman DM, Visvikis S, Steinmatz J, Boerwinkle E. (Year unavailable) The effect of variation in the apolipoprotein B gene on plasma lipid and apolipoprotein B levels. Ann Hum Genet: 
+
+Harding RM. (1992) VNTRs in review. Evol Anthropol 1: 62-71. 
+
+Hegele RA, Huang LS, Herbert RN, Blum CB, Buring JE, Hennkens CH, Breslow JL. (1986) Apolipoprotein B-gene DNA polymorphisms associated with myocardial infarction. New Engl J Med: 
+
+Hodges P, Scott J. (Year unavailable) Apolipoprotein B NA editing: a new tier for the control of gene expression. Trends Biochem Sci: 
+
+Kervinen K, Savolainen MJ, Salokannen J, Hynninen A, Heikkinen J, Ehnholm C, Koistinen MJ, Kesaniemi YA. (Year unavailable) Apolipoprotein E and B polymorphisms longevity factors assessed in nonagenarians. Atherosclerosis: 
+
+Kirkwood TBL, Franceschi C. (Year unavailable) Is ageing as complex as it would appear? New perspectives in gerontological research. Ann N Y Acad Sci USA: 
+
+Louhija J, Miettinen HE, Kontula K, Tikkanen MJ, Miettinen TA, Tilvis RS. (Year unavailable) Ageing and genetic variation of plasma apolipoproteins. Relative loss of the apolipoprotein E phenotype in centenarians. Arterioscler Thromb Vasc Biol: 
+
+Ludwig EH, Friedl W, McCarthy BJ. (Year unavailable) High resolution analysis of a hypervariable region in the human apolipoprotein B gene. Am J Hum Genet: 
+
+Mariotti S, Sansoni P, Barbesino G, Caturegli P, Monti D, Cossarizza A, Giacomelli T, Passeri G, Fagiolo U, Pinchera A, Franceschi C. (Year unavailable) Thyroid and other organ-specific autoantibodies in healthy centenarians. Lancet: 
+
+Motta L, Receputo G, Franceschi C, et al. (Year unavailable) Italian Multicentric Study on Centenarians. Atti Congresso Societ Italiana Medicina Interna (Rome September). Edizioni L. Pozzi, Rome, pp. 
+
+Nei M. (Year unavailable) Molecular evolutionary genetics. Columbia University Press, New York, pp. 
+
+Pelotti S, Degli Esposti P,(Italy). In: Bar W, Fiori A, Rossi U (eds) Advances in Forensic Haemogenetics. Springer, Berlin Heidelberg New York, pp.
+
+Proust J, Oulias R, Fumeron F, Bekkhoucha F, Busson M, Schmid M, Hors J () HLA and longevity. Tissue Antigens:
+
+Renges HH, Peacock R, Dunning AM, Talmud P, Humphries SE () Genetic relationship between the VNTR and diallelic apolipoprotein B gene polymorphisms: haplotype analysis in individuals of European and South Asian origin. Ann Hum Genet:
+
+Rose G, De Luca M, Falcone E, Giacchetto C, De Benedictis G () Rapid identification of VNTR alleles of the human thyroid peroxidase gene by PCR: a study in a population sample from south Italy. Genomics:
+
+Schachter F, Cohen D, Kirkwood T () Prospects for the genetics of human longevity. Hum Genet:
+
+Schachter F, Faure-Delanef L, Guenot F, Rouger H, Froguel T, Lesueur-Ginot L, Cohen D (1994) Genetic associations with human longevity at the APOE and ACE loci. Nat Genet 6:
+
+Schachter F, Faure-Delanef L, Guenot F, Rouger H, Froguel T, Lesueur-Ginot L, Cohen D () Genetic associations with human longevity at the APOE and ACE loci. Nat Genet.
+
+Takata H, Suzuki M, Ishii T, Sekiguchi S, Iri H () Influence of major histocompatibility complex region genes on longevity among Okinawan-Japanese centenarians and nonagenarians. Lancet ii:
+
+Yang CY, Chen SH, Gianturco SH, Bradley WA, Sparrow Tanimura M, Li WH, Sparrow DA, De Loof H, Rosseneu Lee FS, Gu ZW, Gotto AM Jr, Chan L () Sequence, structure, receptor binding domains and internal repeats of apolipoprotein B-100. Nature:
+
+Young SG () Recent progress in understanding apolipoprotein B. Circulation:

@@ -1,0 +1,47 @@
+www.elsevier.com/locate/mechagedev
+
+Polymorphisms in the human homologue of the Drosophila Indy (I'm not dead yet) gene
+
+Pauline Lee*, Ngoc Ho, Terri Gelbart, Ernest Beutler
+
+Division of Hematology, Department of Molecular and Experimental Medicine, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA
+
+Received 10 April 2003; received in revised form 30 May 2003; accepted 11 June 2003
+
+Abstract
+
+Insertion of a P element in one copy of the Drosophila Indy gene results in a significant increase in Drosophila lifespan. In order to examine whether mutations or polymorphisms in the human Indy gene promoted human longevity, the Indy gene was sequenced in 13 subjects aged 90-99, 12 subjects between the age of 38-49 and 18 subjects below the age of 23. Three coding region polymorphisms resulting in an amino acid change (F62L, V80L and I550V), two silent coding region polymorphisms (A99A and I551I), and three intron polymorphisms (IVS2-10 C deletion, IVS9-40T/A and IVS10-38C/T) were identified. The I550V polymorphism occurred in whites, Hispanics, Asians and African-Americans at allele frequencies of 0.3514, 0.5104, 0.4274 and 0.5375 respectively. The I550V polymorphism was genotyped in 2366 subjects and examined for its association with age and weight.
+
+#2003 Elsevier Ireland Ltd. All rights reserved.
+
+Keywords: Aging; Indy; NADC; SLC13A2; Polymorphism; Sodium dependent dicarboxylate transporter
+
+Span by interference with normal metabolism resulting in caloric restriction, because the expression of this gene in flies was limited to the fat body, midgut, and oenocytes, organs that are primary sites of intermediate metabolism, absorption, and metabolic storage.
+
+1. Introduction
+
+Polymorphisms in genes of model organisms such as D. melanogaster and C. elegans have been associated with increased lifespan. While aging in humans is clearly a complex phenomenon with a strong environmental component, there seems to be a genetic component as well (Cournil and Kirkwood, 2001). Accordingly, it seemed worthwhile to examine the gene that appears to have the most profound effect in D. melanogaster, viz. Indy (an acronym for I'm not dead yet) (Rogina et al., 2000), to determine whether it has an effect on human lifespan, or any other aspect of human health. In Drosophila interruption of Indy by a P element results in doubling of the lifespan in heterozygotes and a more modest increase in homozygotes. It was suggested (Rogina et al., 2000) that interruption of the Indy gene in D. melanogaster exerts its effect on lifespan by interference with normal metabolism resulting in caloric restriction because the expression of this gene in flies was limited to the fat body, midgut, and oenocytes - organs that are primary sites of intermediate metabolism, absorption, and metabolic storage.
+
+The Indy gene encodes a sodium dicarboxylate transporter protein (NADC). There are two Indy homologues in Drosophila - Indy and Indy 2. There are four Indy homologues in humans - NADC1, NADC2, NADC3 and NADC4 - and two homologues in rats - SDCT1 and SDCT2. The closest human homologue of Indy is the sodium-dependent dicarboxylate transporter, member 2 (also called NADC2 or SLC13A2) (cDNA Genbank NM_003984, gene AC005726). It seemed possible that polymorphisms in the human analogue of the Indy gene might affect lifespan. We have therefore sequenced the Indy gene in 13 subjects aged 90-99 and 30 subjects aged 49 to identify potential longevity-promoting mutations and genotyped 2366 normal subjects for the common I550V polymorphism to determine whether it has any effect on aging or on body weight.
+
+* Corresponding author. Tel.: - - -; fax: - - -
+
+Table 2
+
+Oligomers used for allele-specific oligomer hybridization of the F62L (186C>G), V80L (238G>C) and I550V (1648A>G) polymorphisms in the Indy gene
+
+Anonymized DNA samples for this study were obtained from consenting subjects who had participated in a large epidemiological study (Beutler et alIVS9 and IVS10 polymorphisms may be in linkage disequilibrium since they occurred in a single individual, a 45-year-old Hispanic female. These intronic mutations were not examined further. 
+
+Table 4 shows the number of subjects and gene frequencies of the Indy nt 1648 A0G mutation in different ethnic groups. Seven haplotypes could be identified from the single nucleotide polymorphisms found by direct sequencing of the 43 subjects (Table 3). The first four haplotypes were observed in the homozygous state, and the latter three haplotypes were inferred from heterozygous subjects.
+
+The V80L polymorphism occurs in the African American population at an allele frequency of 0.0083 (600 alleles) and was absent in the white (1522 alleles) and Asian (66 alleles) populations examined. Since the age range of the five African American subjects heterozygous for the V80L polymorphism ranged from 40 to 57 years, an association between the V80L polymorphism and aging could not be made.
+
+The I550V polymorphism was common in the four ethnic groups examined. These data demonstrate that women of age 80 had a slightly higher frequency of the G allele (0.3764) than women under 80 (0.3427), a difference that was not quite statistically significant on a x2-test (P=0.0762). The frequency of the 1648 G allele in women of age 90 was also not quite statistically significant from women of age under 90 (P=0.0551).
+
+The F62L polymorphism is a rare polymorphism or a sporadic mutation since it was not observed in 1390 additional alleles that were examined. Another mutation V80L seemed to be limited to African Americans, and in the sample of 600 African American alleles examined no relationship to aging was apparent. One polymorphism, the 1648 A0G (I550V), which initial studies suggested were in excess in the older population, was considered more extensively for its association with lifespan and body weight. An examination of 1338 female and 684 male white subjects demonstrated that the 1648 A0G (I550V) mutation was not associated with an increase in lifespan and not related to lower body weight, suggesting an effect on caloric restriction.
+
+Because of the proposed catabolic effects of Indy mutations, we calculated the average heights and weights of white subjects with different genotypes. The results did not demonstrate an association of genotype with height and weight.
+
+We have identified three mutations in the human Indy gene that result in an amino acid change. None of the mutations were observed to be associated with longevity or body weight. Our study involved a small number of elderly subjects (age 90-99), and thus only the presence of a high-frequency longevity-promoting mutation would have been observed. The examination of a larger elderly population would be necessary to identify less common longevity-promoting haplotypes or polymorphisms in the Indy gene. Furthermore, since our study involved only unrelated subjects in a normal population, it remains possible that mutations in the Indy gene might play a role in the increased longevity seen in familial centenarians.
+
+The authors would like to acknowledge Dr Jill Waalen and Carol Halloran for their expert assistance. This is manuscript number 14417-MEM from The Scripps Research Institute. Supported by grant DK53505-04 and funds from the Stein Fund.I'm sorry, but there is no text enclosed in ``` ``` for me to proofread and edit. Could you please provide me with the text you want me to process?

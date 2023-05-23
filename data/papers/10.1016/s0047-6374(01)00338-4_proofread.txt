@@ -1,0 +1,96 @@
+reaction (PCR) amplification of the region containing the polymorphism. The PCR products were purified and sequenced using an ABI Prism 310 Genetic Analyzer (Perkin-Elmer, Foster City, CA, USA). The polymorphisms of IL-10 at positions 819 and 592 were determined by PCR amplification followed by restriction enzyme digestion as described previously (Eskdale et al., 1997).
+
+2.3. Statistical analysis
+Genotype distributions, allelic frequencies, and A2+ carrier status were compared between nonagenarians and controls using the chi-square test or Fishers exact test when appropriate. Odds ratios (OR) and their 95% confidence intervals (CI) were calculated to estimate the relative risk of different genotypes or alleles for longevity. Haplotype frequencies and their standard errors (SE) were estimated by the expectation-maximization algorithm implemented in the EH program (Xie and Ott, 1993). The haplotype distributions were compared between nonagenarians and controls using the chi-square test. 
+
+3. Results
+The genotype distributions, allelic frequencies and A2+ carrier status of IL-1 complex, IL-6, IL-10, and TNF- genes in nonagenarians and controls are shown in Table 1. No statistically significant differences were found in any of these parameters between nonagenarians and controls or between male and female nonagenarians. Similarly, no significant differences were observed when comparing different IL-1 gene cluster haplotypes between nonagenarians and controls (data not shown). 
+
+4. Discussion
+In this study, we investigated the association between gene polymorphisms of cytokines (IL-1 cluster, IL-6, IL-10, and TNF-) and human longevity by comparing the genotype distributions, allelic frequencies and A2+ carrier status of these genes between Finnish nonagenarians and younger controls. Our results did not reveal any significant differences between the two groups, suggesting that these gene polymorphisms are not associated with longevity. 
+
+Cytokines play an important role in the pathogenesis of many age-related diseases, and their dysregulation has been suggested to be partly responsible for the increased morbidity and mortality rates in the elderly. IL-6, in particular, has been implicated in many of these diseases and has been called the cytokine for gerontologists. Increased IL-6 concentration has been found in healthy elderly people, and enhanced production of other pro-inflammatory cytokines, IL-1 and TNF-, from mononuclear cells after mitogen stimulation has also been reported. 
+
+Cytokine gene polymorphisms have been demonstrated to be associated with cytokine production both in vivo and in vitro, and with some diseases. Therefore, it was hypothesized that gene polymorphisms of cytokines may play a role in longevity by modulating an individuals responses to life-threatening disorders. However, our study did not provide any evidence for this hypothesis. 
+
+In conclusion, our results suggest that gene polymorphisms of cytokines (IL-1 cluster, IL-6, IL-10, and TNF-) are not associated with human longevity. Further studies are needed to explore other genetic factors that may contribute to longevity.Reaction (PCR) was performed for the IL-10 gene promoter region (between 1115 and 528). The conditions used were: a denaturing step of 95°C for 3 min, 30 cycles at 95°C for 30 s, 56°C for 30 s, 72°C for 1 min, and a final incubation at 72°C for 3 min. The PCR products were then purified with a PCR purification kit (QIAquick; Qiagen, Hilden, Germany). After purification, polymorphism of the IL-10 gene promoter at 1082 was established by a cycling PCR using the oligonucleotide 5'-ACACCATCTCCAGC-ACATAG-3' as the primer, and a cycle sequencing ready reaction kit (BigDye Terminator RR Mix, PE Applied Biosystems). Next, cycling PCR products were precipitated with 3 M sodium acetate and 95% ethanol and then re-suspended in Template Suppression Reagent (ABI PRISM). Finally, the samples were denatured at 95°C for 2 min before they were sequenced by ABI PRISM 310 genetic analyzer (PerkinElmer, Foster City, CA).
+
+The genotype distributions, frequencies of alleles, allele 2 carrier status of studied gene polymorphisms, and carriage of haplotypes of IL-1 complex were compared between nonagenarians and control groups by chi-square test. The threshold for the level of statistical significance was P <0.05. All statistical calculations were performed using STATISTICA software (StatSoft Inc., Tulsa, OK).
+
+The genotype distributions, frequencies of alleles, and A2+ carriage of IL1A889, IL1B511, IL1B+3953, IL1RN VNTR, IL6174, IL101082, and TNFA308 are shown in Table 1. No statistically significant differences were observed between nonagenarians and younger controls within the Finnish population, nor between male and female nonagenarians (data not shown), although the male and female ratio in this group is 1:4. No difference was found between the subjects who were hospitalized and those who were home-dwelling (data not shown).
+
+It has been known that the interleukin-1 (IL-1) gene cluster, located on the long arm of chromosome 2 (2q13), contains the genes which encode the cytokines IL-1 (IL1A), IL-1 (IL1B), and the IL-1 receptor antagonist (IL1RN). It has been shown that there is moderate linkage disequilibrium across the region (Cox et al., 1998). When the distributions of the first haplotype carriage (IL1A889 A1+, IL1B+3953 A1+, IL1B511 A2+, IL1RN VNTR A2+) (38.8 vs. 37%) and the second haplotype carriage (IL1A889 A2+, IL1B+3953 A2+, IL1B511 A1+, IL1RN VNTR A1+) (40 vs. 42%) were compared, no differences emerged between nonagenarians and younger controls.
+
+The prevalence of different genotypes, frequencies of alleles, allele 2 carrier status of studied cytokine gene polymorphisms and carriage of haplotypes of IL-1 complex were compared between nonagenarians and the control group using Fisher's exact test for 22 tables. Prevalences of each genotype and gene frequencies were compared between nonagenarians and controls using dichotomized variables (e.g. IL1RN genotype A1/A2: 122/250 vs. 199/400). All statistical analyses were conducted with STATISTICA software (StatSoft Inc., Tulsa, OK). The tests were conducted using Fisher's exact test for 22 tables.
+
+There have been some reports of gene variants either being or not associated with longevity. This study is the first to attempt to search for the association between cytokine gene variants and longevity. As hematopoiesis, the cytokines participating in the regulation of the inflammatory response are functionally divided into pro-inflammatory (IL-1, IL-6, TNF) and anti-inflammatory (IL-1RA, IL-10) molecules. Polymorphisms of these cytokine genes have an effect on cytokine profile induced and thus may have an important role in the genetic regulation of inflammatory response and of resistance and susceptibility to infectious and autoimmune diseases.
+
+Aging is associated with immune deterioration and dysregulation of cytokines, which are deeply involved in the pathogenesis of most age-related diseases. A number of independent studies have demonstrated that some cytokine gene polymorphisms are associated with diabetic nephropathy (Blakemore et al., 1996; Loughrey et al., 1998), Alzheimer'sX.-Y. Wang et al. / Mechanisms of Ageing and Development
+
+References:
+
+Abbott, M.H., Murphy, E.A., Bolling, D.R., Abbey, H., 1974. The familial component in longevity: a study of offspring of nonagenarians. II. Preliminary analysis of the completed study. Johns Hopkins Med. J.
+
+Agerholm-Larsen, B., Nordestgaard, B.G., Steffensen, R., Sorensen, T.I.A., Jensen, G., Tybjarg-Hansen, A., ACE gene polymorphism: ischemic heart disease and longevity in individuals. Circulation.
+
+Akisaka, M., Suzuki, M., Inoko, H., Molecular genetic studies on DNA polymorphism of the HLA class II genes associated with human longevity. Tissue Antigens.
+
+Andersen-Ranberg, K., Christensen, K., Jeune, B., Skytthe, A., Vasegaard, L., Vaupel, J.W., Declining physical abilities with age: a cross-sectional study of older twins and centenarians in Denmark. Age Ageing.
+
+Bader, G., Zuliani, G., Kostner, G.M., Fellin, R., Apolipoprotein E polymorphism is not associated with longevity or disability in a sample of Italian octa- and nonagenarians. Gerontology.
+
+Blakemore, A.I., Cox, A., Gonzalez, A.M., et al., Interleukin-6 receptor antagonist allele (IL6RN*) associated with nephropathy in diabetes mellitus. Hum. Genet.
+
+Born, J., Uthgenannt, D., Dodt, C., et al., Cytokine production and lymphocyte subpopulations in aged humans: an assessment during nocturnal sleep. Mech. Ageing Dev.
+
+Bowcock, A.M., Ray, A., Erlich, H., Sehgal, P.B., Rapid detection and sequencing of allele in the 5’ flanking region of the interleukin-6 gene. Nucl. Acids Res.
+
+Cantagrel, A., Navaux, F., Loubet-Lescoulie, P., et al., Interleukin-1 beta, interleukin-1 receptor antagonist, interleukin-4, and interleukin-10 gene polymorphisms: relationship to occurrence and severity of rheumatoid arthritis. Arthritis Rheum.
+
+Castro, E., Ogburn, C.E., Hunt, K.E., et al., Polymorphisms at the Werner locus: I. Newly identified polymorphisms, ethnic variability of Cys/Arg, and its stability in a population of Finnish centenarians. Am. J. Med. Genet.
+
+Cox, A., Camp, N.J., Nicklin, M.J.H., di Giovine, F.S., Duff, G.W., An analysis of linkage disequilibrium in the interleukin-1 gene cluster using a novel grouping method for multiallelic markers. Am. J. Hum. Genet.
+
+D'Alfonso, S., Richiardi, P.M., A polymorphic variation in a putative regulation box of the TNFA promoter region. Immunogenetics.
+
+Danis, V.A., Millington, M., Hyland, V.J., Grennan, D., Cytokine production by normal human monocytes: inter-subject variation and relationship to an IL-1 receptor antagonist (IL-1Ra) gene polymorphism. Clin. Exp. Immunol.
+
+De Benedictis G., Genes and longevity. Aging Clin. Exp. Res.
+
+De Benedictis G., Falcone E., Rose, G., et al., DNA multiallelic systems reveal gene/longevity associations not detected by diallelic systems: the APOB locus. Hum. Genet.
+
+Deiana, L., Ferrucci, L., Pes, G.M., et al., AKEnnnos. The Sardinia study of extreme longevity. Aging (Milano).
+
+Ershler, W.B., Interleukin-6: a cytokine for gerontologists. J. Am. Geriatr. Soc.
+
+Eskdale, J., Kube, D., Tesch, H., Gallagher, G., Mapping of the human IL10 gene and further characterization of the 5' flanking sequence. Immunogenetics.
+
+Fagiolo, U., Cossarizza, A., Scala, E., et al., Increased cytokine production in mononuclear cells of healthy elderly people. Eur. J. Immunol.
+
+Faure-Delanef, L., Baudin, B., Beneteau-Burnat, B., Beaudoin, J.C., Giboudeau, J.,Human Longevity: Impact of Apo A-IV Genetic Polymorphisms on Lipoproteins and Hyper-Lp(a) in Centenarians. 
+
+Pociot, F., Molvig, J., Wogensen, L., Worsaae, H., Nerup, J. (1992). A TaqI polymorphism in the human interleukin-1 (IL-1) gene correlates with IL-1 secretion in vitro. European Journal of Clinical Investigation, 22(6), 396-402.
+
+Proust, J., Moulias, R., Fumeron, F., et al. (1982). HLA and longevity. Tissue Antigens, 19(3), 168-173.
+
+Rea, I.M., Stewart, M., Campbell, P., Alexander, H.D., Crockard, A.D., Morris, T.C.M. (1996). Changes in lymphocyte subsets, interleukin 2, and soluble interleukin 2 receptor in old and very old age.
+
+Santtila, S., Savinainen, K., Hurme, M. (1998). Presence of the IL-RN* allele is associated with enhanced IL production in vitro. Scandinavian Journal of Immunology.
+
+Schachter, F. (1994). Human Genetics: Causes, Effects and Constraints in the Genetics of Longevity. American Journal of Human Genetics.
+
+Schachter, F., Faure-Delanef, L., Guenot, F., et al. (1994). Genetic associations with human longevity: the APOE and ACE loci. Nature Genetics.
+
+Tarlow, J.K., Blakemore A.I.F., Lennard A., et al. (1993). Polymorphism in human IL-10 promoter region. Human Genetics.
+
+Turner D.M., Williams D.M., Sankaran D., Lazarus M., Sinnott P.J., Hutchinson I.V. (1997). An investigation of polymorphism in the interleukin-10 gene promoter. European Journal of Immunogenetics, 24(1), 1-8.
+
+Venkatraman, J.T., Fernandes, G. (1997). Exercise, immunity and aging. Aging Clinical and Experimental Research, 9(1-2), 42-56.
+
+Wei, J., Xu, H., Davies, J.L., Hemmings, G.P. (1992). Increase of plasma IL-6 concentration with age in healthy subjects. Life Sciences.
+
+Wilson A.G., di Giovine F.S., Blakemore A.I.F., Duff G.W. (1992). Single base polymorphism in human tumour necrosis factor alpha (TNF) gene detectable by NcoI restriction of PCR. Human Molecular Genetics.
+
+Yashin, A.I., De Benidictis, G., Vaupel, J.W., et al. (1999). Genes, demography and life span: contribution of demographic data in genetic studies on aging and longevity. American Journal of Human Genetics.
+
+Zhang, J.G., Ma, Y.X., Wang, C.F., et al. (1998). Apolipoprotein E and longevity among Han Chinese population. Mechanisms of Ageing and Development, 104(2), 159-167.

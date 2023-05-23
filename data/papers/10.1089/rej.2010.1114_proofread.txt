@@ -1,0 +1,111 @@
+Association Study on Long-Living Individuals from Southern Italy Identifies rs10491334 in the Gene That Regulates Survival Proteins 
+
+Alberto Malovini,1,2 Maddalena Illario,3 Guido Iaccarino,3 Francesco Villa,2 Anna Ferrario,2 Roberta Roncarati,2 Chiara Viviani Anselmi,2 Valeria Novelli,2 Ersilia Cipolletta,3 Eleonora Leggiero,4 Alessandro Orro,5 Maria Rosaria Rusciano,3 Luciano Milanesi,5 Angela Serena Maione,3 Gianluigi Condorelli,2,5 Riccardo Bellazzi,1 and Annibale A. Puca2,5 
+
+Abstract 
+
+Long-living individuals (LLIs) are used to study exceptional longevity. A number of genetic variants have been found to be associated with LLIs to date but further identification of variants would improve knowledge on the mechanisms regulating the rate of aging. Therefore, we performed a genome-wide association study on 410 LLIs and 553 young control individuals with a 317K single-nucleotide polymorphism (SNP) chip to identify novel traits associated with aging. Among the top (p < 1x10^4) SNPs initially identified, we found rs10491334 (CAMKIV) (odds ratio [OR] 0.55; 95% confidence interval [CI] 0.42-0.73; p=2.88x10^5), a variant previously reported to be associated with diastolic blood pressure. It was also associated in a replication set of 116 LLIs and 160 controls (OR=0.54; 95% CI 0.32-0.90; p=9x10^3). Furthermore, in vitro analysis established that calcium/calmodulin-dependent protein kinase IV (CAMKIV) activates the survival proteins AKT, SIRT1, and FOXO3A. We found that homozygous carriers of rs10491334 have a significant reduction in CAMKIV expression. This, together with the observed reduction in minor-allele carriers among centenarians, points to a detrimental role for the SNP. In conclusion, prolongevity genes are activated by CAMKIV, the levels of which are influenced by rs10491334, a SNP associated with human longevity.
+
+Introduction 
+
+APOE is involved in lipid transport to the lymphatic system; its gene was the first to be successfully replicated as one important in exceptional longevity.12 FOXO3A mediates a prosurvival activity by regulating the cellular response to stimuli ranging from radical stress to growth factors (insulin-like growth factor-1 [IGF-1]) and by acting on the transcription of genes involved in radical stress response, cell cycle arrest, proliferation, and apoptosis.13,14 Protein kinase B (AKT)-dependent phosphorylation and sirtuin 1 (SIRT1)-dependent deacetylation of FOXO3A induce prosurvival activity by activating genes linked to the stress response and to cell cycle arrest and by inhibiting proapoptotic genes.15 In humans, genetic alterations of the IGF-1 receptor that alter the IGF signaling pathway confer an increase in propensity for longevity.16 Single-nucleotide polymorphisms (SNPs) of AKT have also been associated with human longevity.11 
+
+Long-living individuals (LLIs), that is, those that approach 100 years of age, are a model of successful aging. Most of them have a compression of disability and morbidity toward the end of their life and tend not to show changes normally observed during aging, such as decreases in insulin sensitivity and in heart rate variability (HRV).13 The exceptional longevity of LLIs is to some extent genetically driven, as underlined by the familial clustering effect for extreme longevity and the reduced mortality of centenarian siblings compared to those of noncentenarians.4,5 To date, the most remarkable genetic findings for exceptional longevity observed in the genome of centenarians are the decreased frequency of detrimental alleles of apolipoprotein E (APOE) and the increase of protective alleles of forkhead box 1. 
+
+Dipartimento di Informatica e Sistemistica, Universita` degli Studi di Pavia, Pavia, Italy. 2IRCCS Multimedica, Milano, Italy. 3Dipartimento di Biologia e Patologia Cellulare e Molecolare, and Dipartimento di Medicina Clinica e Scienze Cardiovascolari ed Immunologiche, Universita` di Napoli Federico II, Napoli, Italy. 4CEINGE-Biotecnologie Avanzate, Napoli, Italy. 5Istituto di Tecnologie BiomedicheConsiglio Nazionale delle R(Supplementary Data can be accessed at) SICS subjects were enrolled by Associazione Longevita.9,19 All subjects donated blood samples for DNA study and gave written informed consent for the study, which was approved by the Ethical Committee. The study was conducted following the ethical principles originating from the Declaration of Helsinki. The significance threshold was chosen by estimating the false-positive fraction for various significance thresholds P on simulated datasets. Data simulation involved generating 100 independent datasets comprising 317K SNPs, with MAF distribution ranging from 0.05 to 0.50, and 963 control samples to which 410 case and 553 control labels were randomly assigned. We then tested for association between each marker and the case/control status by assuming allelic, dominant, and recessive genetic models and selecting the most significant marker as the most informative for each SNP. For each significance threshold (from p-value 0.05 to p<1x10^-7), we estimated the mean fraction of false positive associations (a false positive association was defined as a SNP with p lower than the selected significance threshold P) over 100 simulated datasets for each P.
+
+Determination of genotypes: Genotyping was performed with the Infinium II Assay-HumanHap BeadChip 317K duo system (Illumina, San Diego, California) using standard protocols of the Illumina HumanHap 317 Duo workflow (Illumina, San Diego, CA). All genotypes were evaluated using a quantitative quality score called GenCall (GC) score. The GC score ranges from 0 to 1 and reflects the proximity within a cluster plot of the intensities of that genotype to the centroid of the nearest cluster.
+
+Testing for association: Association between the set of SNPs passing QC criteria and longevity phenotype was tested by means of one degree of freedom (df) Pearson chi-squared allelic association test (a [minor allele] vs. A [major allele]) and assuming a dominant (aa/aA vs. AA, 1 df) and recessive genetic effect (aa vs. aA/AA, 1 df). Logistic regression assuming additive, dominant, and recessive genetic models was applied to estimate odd ratio (OR) and 95% confidence interval (CI) for each of the different genetic models, to test for association in the replication set, and to evaluate potentially confounding gender-specific effects. Adjustment for potential confounding effects due to residual genetic stratification was done with the genomic control approach.24
+
+Quality control analyses: Samples and SNPs with a Call Rate lower than 93% and 95%, respectively, as well as SNPs deviating from Hardy Weinberg Equilibrium (HWE) (p<1.72x10^-7) or with a minor allele frequency (MAF) lower than 0.05 were removed. Principal component analysis (PCA) was applied on a reduced set of autosomal markers showing r2 estimates <0.2, using the default outliers removal threshold (sigma 6) as implemented in Eigenstrat software.20 All statistical procedures were performed using PLINK,25 except when specified.
+
+In vitro evaluation of CAMKIV: Imputation of unobserved genotypes: Cell cultures. Human colon adenocarcinoma grade II HT29 cells were maintained in Dulbecco modified Eagle medium (DMEM) with 10% fetal bovine serum. All media were supplemented with 100 units/mL penicillin and 100 mg/mL streptomycin. The cells were seeded at 2x10^6 cells/mL and infected with the appropriate lentivirus. Expression of CAMKIV-WT was confirmed by western blot using a specific antibody against CAMKIV. SNPs that were not represented on the Illumina Infinium II Assay-HumanHap BeadChip 317K were imputed by the Impute v2.1.2 software,21 using the 1,000 Genomes files from CEU (Centre d'Etude du Polymorphisme Humain [CEPH] [Utah residents with ancestry from northern and western Europe]) genotypes data (release March 2010) as reference panel.
+
+Linkage disequilibrium analyses: Mononuclear cells. Blood was collected and anticoagulated with EDTA. Mononuclear cells were isolated by Ficoll gradient using HISTOPAQUE-1077 (Sigma, USA). Linkage disequilibrium (LD) analyses were performed using Haploview v4.2 software.22 Haplotype blocks were frozen and stored at -80°C until the day of the assay. All procedures were performed in compliance with institutional guidelines for human research.26 Mononuclear cells were chosen based on previous knowledge that CAMKIV is expressed in these cells and on the assumption that a genotype/expression correlation is not tissue-specific, thus reflecting expression modification in allBy pseudotyping with vesicular stomatitis virus glycoprotein (VSV-G) using a quadruple transfection protocol in 293T cells, approximately 2x106 HT29 cells were infected with the appropriate lentivirus: CAMKIV-WT (CAMKIV), or empty lentivirus (mock) as a control. The initial screening dataset was composed of 466 LLIs, 624 controls, and 318,237 SNPs. After a preliminary phase of QC, as described in the Methods section, we looked for evidence of genetic population stratification on a subset of 454 LLIs and 591 young controls by applying PCA20. A graphical inspection of the first two principal components revealed genetic homogeneity between LLIs and controls (Fig. 1). 
+
+After outliers were removed (n=82), the final GWAS dataset was composed of 963 samples, of which 410 were cases (age range, 90-109 years; male/female ratio, 1.47; see Supplementary Table 1 for a detailed demographic and clinical characterization of SICS LLIs9) and 553 were controls (age range, 18-48 years; male/female ratio, 1.56). A total of 298,715 SNPs passed the overall QC criteria.
+
+For western blot analysis, mouse and rabbit monoclonal antibodies to SIRT1 and anti-phospho-SIRT1 were purchased from Abcam (Cambridge, UK). Polyclonal antibodies to FOXO3A, phospho-FOXO3A (Ser253), AKT, and phospho-AKT (Ser473) were purchased from Cell Signaling technology. Monoclonal CAMKIV antibody was purchased from BD Biosciences (San Diego, CA). One-way analysis of variance (ANOVA) was performed to compare different groups using Bonferroni post hoc analysis. A significance level of p < 0.05 was assumed for all statistical evaluations. Statistics were computed with GraphPad Prism Software (San Diego, California). Each value in the figures represents mean ± standard error of the mean (SEM) of at least three independent experiments.
+
+We then tested for association between each of the identified SNPs and longevity phenotype. Inspection of the quantile-quantile plots (Supplementary Fig. 1) and the estimated genomic inflation factor (λ)24 for the different genetic models revealed a moderate residual effect of population stratification on the association results (allelic λ, 1.09; dominant λ, 1.07; recessive λ, 1.00). Therefore, we decided to remove this potential confounding factor by genomic control adjustment24.
+
+Simulation results (see Methods) showed that the rate of false-positive findings was a function of the significance inclusion cutoff, suggesting that the choice of p < 1x10^-4 for at least one of the evaluated genetic models as the significance would guarantee a false-positive rate of approximately 2 in 10,000 independent tests (Supplementary Fig. 2).
+
+Association study: Although GWAS does not rely on choosing the right gene beforehand, they do require a large sample size to support with adequate power the hundreds of thousands of SNPs.
+
+Table Associated with Longevity in SNPs SICS LLIs SNP CHR Gene Assoc Model a/A MAF p Value OR (95% CI) rs2495513 1 TMEM61 AM G/A 0.2 3.98E-05 0.60 (0.47-0.77) rs4291539 1 DM C/T 0.42 2.37E-05 1.81 (1.37-2.39) rs10923806 1 RM G/A 0.38 7.24E-06 2.30 (1.59-3.33) rs1538287 1 KCNH1 DM A/G 0.18 2.64E-05 0.55 (0.42-0.73) rs6540664 1 AM A/G 0.5 4.45E-05 1.46 (1.22-1.75) rs6701445 1 TAF5L DM T/C 0.15 2.24E-05 1.84 (1.39-2.45) rs12088486 1 DM A/C 0.28 8.83E-06 0.56 (0.43-0.72) rs10514626 1 AM A/G 0.06 4.65E-06 0.38 (0.24-0.58) rs7583529 2 CFLAR RM A/G 0.21 6.45E-05 3.15 (1.75-5.68) rs4505466 2 SH3BP4rs10956502 8 FAM49B DM G/T 0.31 2.25E-05 0.57 (0.44-0.74) 
+rs2905476 9 RM T/C 0.28 6.35E-05 0.29 (0.15-0.55) 
+rs7873259 9 ANKRD19 RM G/A 0.27 1.18E-05 3.14 (1.84-5.37) 
+rs4740391 9 AM G/A 0.11 3.99E-05 0.52 (0.38-0.71) 
+rs12413082 10 MSRB2 DM T/C 0.32 1.50E-06 0.53 (0.41-0.69) 
+rs7915479 10 CDH23 DM T/C 0.47 1.47E-05 1.92 (1.43-2.59) 
+rs1556758 10 SORCS1 RM C/T 0.45 3.47E-05 0.50 (0.36-0.70)
+rs2073586 11 ABCC8 RM T/C 0.4 8.15E-05 0.48 (0.33-0.69) 
+rs11237644 11 AM A/G 0.4 9.24E-06 1.52 (1.26-1,83) 
+rs870959 11 AM T/C 0.40 1,27E-05,1,51 (1,25–1,81) 
+rs6592810,11 AM C/T,33,1,10E−05,1,54,(1,27–1,86) 
+rs4938180 11 IGSF4 RM T/C 0.49 2.16E-05 1.91 (1.41-2.58) 
+rs2111173 12 PTPRO DM C/T 0.39 5.22E-05 1.74 (1.33-2.28) 
+rs969845 12 RM A/G 0.18 7.22E-05 5.87 (2.19-15.70) 
+rs9315385 13 DCAMKL1 AM G/T 0.14 3.98E-05 1.74 (1.33-2.26) 
+rs2147556 13 AM T/C 0.29 9.59E-06,0,63,(0,52–0,78) 
+rs731287 13 RM T/C 0.28,9,88E-05,2,51,(1,56–4,05) 
+rs285097,13 RNF113B AM G/T,0,08,3,79E-05,0,47,(0,33–0,68) 
+rs1584547 14 RM T/C 0.24 8.52E-05 2.96 (1.69-5.21) 
+rs4594173 14 MADMC1 AM G/A 0.08 4.88E-05 1.94 (1.40-2.69) 
+rs2277472 14 MAMDC1 AM T/C 0.09,3,88E-05,1,95,(1,41–2,70) 
+rs10134056 14 RM A/G 0.39 5.61E-05 0.46 (0.31-0.68) 
+rs4777170 15 RM C/T 0.43 4.52E-05 2.00 (1.43-2.80) 
+rs81647 16 DM G/A 0.4 5.53E-05,0,58,(0,44–0,76) 
+rs1582594 16 DM A/C 0.32 3.00E-06,1,87,(1,44–2,43) 
+rs2967137 16 DM C/T 0.37 8.00E-06,1,83,(1,40–2,38) 
+rs6504441 17 PRKCA AM T/C 0.3 1.06E-06,0,60,(0,49–0,74) 
+rs2070325 20 LPLUNC4 RM G/A 0.3 5.98E-05,2,42,(1,56–3,77) 
+rs130329 22 RMCAMKIV and longevity in Southern Italian Centenarians. Our findings suggest that the CAMKIV gene plays a prosurvival role by inducing the phosphorylation of SIRT1, AKT, and FOXO3A. This mechanism promotes cell cycle arrest and oxidative stress resistance, which are key factors in aging and longevity. 
+
+To investigate the effect of rs10491334 on CAMKIV protein expression, we compared mononuclear cells from homozygous carriers to those from individuals carrying the wild-type gene. We found that the protein level of CAMKIV is significantly lower in homozygous carriers. Additionally, our study revealed a higher frequency of wild-type CAMKIV genotypes among LLIs, supporting a prosurvival role for CAMKIV.
+
+Our results suggest that CAMKIV could represent a potential target for fighting aging-associated illness. Further studies are needed to fully understand the molecular mechanisms underlying the association between CAMKIV and longevity.genome-wide association studies. Nat Genet 2006;38:904-909.
+
+2. Sebastiani P, Solovieff N, Dewan AT, Walsh KM, Puca A, Hartley SW, Melista E, Andersen S, Dworkis DA, Wilk JB, Myers RH, Steinberg MH, Montano M, Baldwin CT, Hoh J, Perls TT. Genetic signatures of exceptional longevity in humans. PLoS ONE 2012;7:e29848.
+
+3. Puca AA, Daly MJ, Brewster SJ, Matise TC, Barrett J, Shea-Drinkwater M, Kang S, Joyce E, Nicoli J, Benson E, Kunkel LM. A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome 4. Proc Natl Acad Sci USA 2001;98:10505-10508.
+
+4. De Benedictis G, Tan Q, Jeune B, Christensen K. Impact of genetic interactions on human longevity. Hum Genet 2001;109:87-98.
+
+5. Rose G. The new biology of ageing. New York: Scientific American Library; 1997.
+
+6. Kenyon C. The plasticity of aging: insights from long-lived mutants. Cell 2005;120:449-460.
+
+7. Guarente L. Calorie restriction and SIR2 genes—towards a mechanism. Mech Ageing Dev 2005;126:923-928.
+
+8. Fontana L, Partridge L, Longo VD. Extending healthy life span—from yeast to humans. Science 2010;328:321-326.
+
+9. Martin GM. Epigenetic drift in aging identical twins. Proc Natl Acad Sci USA 2005;102:10413-10414.
+
+10. Perls TT, Alpert L, Fretts RC. Middle-aged mothers live longer. Nature 1997;389:133.
+
+11. Perls T. The different paths to 100. Am J Clin Nutr 2006;83:484S-487S.
+
+12. Sebastiani P, Bae H, Sun FX, Andersen SL, Daw EW, Malovini A, Kojima T, Hirose N, Schupf N, Puca A, Perls TT. Meta-analysis of genetic variants associated with human exceptional longevity. Aging (Albany NY) 2013;5:653-661.
+
+13. Flachsbart F, Caliebe A, Kleindorp R, Blanche H, von Eller-Eberstein H, Nikolaus S, Schreiber S, Nebel A. Association of FOXO3A variation with human longevity confirmed in German centenarians. Proc Natl Acad Sci USA 2009;106:2700-2705.
+
+14. Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, Yano K, Masaki KH, Willcox DC, Rodriguez B, Curb JD. FOXO3A genotype is strongly associated with human longevity. Proc Natl Acad Sci USA 2008;105:13987-13992.
+
+15. Valenzano DR, Terzibasi E, Genade T, Cattaneo A, Domenici L, Cellerino A. Resveratrol prolongs lifespan and retards the onset of age-related markers in a short-lived vertebrate. Curr Biol 2006;16:296-300.
+
+16. Kenyon CJ. The genetics of ageing. Nature 2010;464:504-512.
+
+17. Partridge L. Some highlights of research on aging with invertebrates, popular models for the study of aging. Aging Cell 2010;9:7-12.
+
+18. De Rango F, Montesanto A, Berardelli M, Mazzei B, Mari V, Lattanzio F, Passarino G. A novel sampling design to explore gene-longevity associations: the ECHA study. Eur J Hum Genet 2011;19:820-826.
+
+19. Johnson TE. The Nematode Caenorhabditis elegans as a Model for Aging Research. Exp Gerontol 1988;23:323-334.
+
+20. Kenyon C, Chang J, Gensch E, Rudner A, Tabtiang R. A C. elegans mutant that lives twice as long as wild type. Nature 1993;366:461-464.
+
+21. Guarente L, Kenyon C. Genetic pathways that regulate ageing in model organisms. Nature 2000;408:255-262.
+
+22. Bishop NA, Guarente L. Genetic links between diet and lifespan: shared mechanisms from yeast to humans. Nat Rev Genet 2007;8human lifespan: Metabolic and genetic factors. J Gerontol A Biol Sci Med Sci  ;  :    Kenyon CJ. The genetics of ageing. Nature  ;  :    Tissenbaum HA, Guarente L. Model organisms as a guide to mammalian aging. Dev Cell  ;  :    Austad SN. Diverse aging rates in metazoans: Targets for functional genomics. Mech Ageing Dev  ;  :    Bartke A. Minireview: Role of the growth hormone/insulin-like growth factor system in mammalian aging. Endocrinology  ;  :    Hekimi S, Guarente L. Genetics and the specificity of the aging process. Science  ;  :    Sharpless NE, DePinho RA. How stem cells age and why this makes us grow old. Nat Rev Mol Cell Biol  ;  :    Rando TA, Chang HY. Aging, rejuvenation, and epigenetic reprogramming: Resetting the aging clock in cells. Cell  ;  :Healthy life span from yeast to humans. Science; vascular smooth muscle hypertrophy. Am J Physiol Heart Circ Physiol; Benigni A, Corna D, Zoja C, Sonzogni A, Latini R, Salio M, Conti S, Rottoli D, Longaretti L, Cassis P, Morigi M, Coffman TM, Remuzzi G. Disruption of the Ang II type receptor promotes longevity in mice. J Clin Invest; Zong H, Ren JM, Young LH, Pypaert M, Mu J, Birnbaum MJ, Shulman GI. AMP kinase is required for mitochondrial biogenesis in skeletal muscle in response to chronic energy deprivation. Proc Natl Acad Sci USA; Ho N, Liauw JA, Blaeser F, Wei F, Hanissian S, Muglia LM, Wozniak DF, Nardi A, Arvin KL, Holtzman DM, Linden DJ, Zhuo M, Muglia LJ, Chatila TA. Impaired synaptic plasticity and MP response element-binding protein activation in Ca/calmodulin-dependent protein kinase type IV/Gr-deficient mice. J Neurosci; Riccio A, Ahn S, Davenport CM, Blendy JA, Ginty DD. Mediation by a CREB family transcription factor of NGF-dependent survival of sympathetic neurons. Science; Illario M, Giardino-Torchia ML, Sankar U, Ribar TJ, Galgani M,Vitiello L,Masci AM,Bertani FR,Ciaglia E,Astone D,Maulucci G,Cavallo A,Vitale M,Cimini V,Pastore L ,Means AR,Rossi G,Racioppi L.Calmodulin-dependent kinase IV links Toll-like receptor signaling with survival pathway of activated dendritic cells.Blood; Loerch PM, Lu T, Dakin KA, Vann JM, Isaacs A, Geula C, Wang J, Pan Y, Gabuzda DH, Li C, Prolla TA, Yankner BA. Evolution of the aging brain transcriptome and synaptic regulation. PLoS One; Sato K, Suematsu A, Nakashima T, Takemoto-Kimura S, Aoki K,Morishita Y,Asahara H,Ohya K,Yamaguchi A,Takai T,Kodama T,Chatila TA,Bito H,Takayanagi H. Regulation of osteoclast differentiation and function by the CK-CREB pathway. Nat Med; Fukushima H,Maeda R,Suzuki R,Suzuki A,Nomoto M,Toyoda H,Wu LJ,Xu H,Zhao MG,Ueda K,Kitamoto A,Mamiya N,Yoshida T,Homma S,Masushige S,Zhuo M,Kida S. Upregulation of calcium/calmodulin-dependent protein kinase IV improves memory formation and rescues memory loss with aging. J Neurosci; den Bussche H, Heuser I,Kornhuber J,Wiltfang J,Dichgans M,Frolich L,Hampel H,Hull M,Rujescu D,Goate AM,Kauwe JS,Cruchaga C,Nowotny P,Morris JC,Mayo K,Sleegers K,Bettens K,Engelborghs S,De Deyn PP,Van Broeckhoven C,Livingston G,Bass NJ,Gurling H,Mullin A,Gwilliam R ,Deloukas P ,Al-Chalabi A ,Shaw CE ,Tsolaki M ,Singleton AB,Guerreiro R,Muhleisen TW,Nothen MM,Moebus S,Jockel KH,Klopp N,Wichmann HE,Carrasquillo MM,Pankratz VS,Younkin SG,Holmans PA,ODonovan M,Owen MJ,Williams J. Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimers disease. Nat Genet; Haddy N, De Bacquer D, Chemaly MM, Maurice M,Ehnholm C,Evans A,Sans S,Do Carmo Martins M,De Backer G,Siest G,Visvikis S. The importance of plasma apolipoprotein E concentration in addition to its common polymorphism on inter-individual variation in lipid levels: Results from Apo Europe. Eur J Hum Genet; Brunet A,Bonni A,Zigmond MJ,Lin MZ,Juo P,Hu LS,Anderson MJ,Arden KC,Blenis J,Greenberg ME. Akt promotes cell survival by phosphorylating and inhibiting a Forkhead transcription factor. Cell; Brunet A,Sweeney LB,Sturgill JF,Chua KF

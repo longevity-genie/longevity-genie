@@ -1,0 +1,125 @@
+Mechanisms of Ageing and Development 126 (2005) 333-339 www.elsevier.com/locate/mechagedev genes associated with aging and life expectancy in the Jerusalem longitudinal study Jochanan Stessman, Yoram Maaravi, Robert Hammerman-Rozenberg, Aaron Cohen, Lubov Nemanov, Inga Gritsenko, Nelly Gruberman, Richard P. Ebstein a Department of Geriatric Rehabilitation, Hadassah Hospital, Hebrew University Medical Center, Mt. Scopus, Jerusalem b Department of Psychology, Scheinfeld Center of Human Genetics for the Social Sciences, Mount Scopus, Hebrew University, Jerusalem 91905, Israel Available online 22 October 2004 Abstract In an exploratory study, 11 common polymorphisms were examined for contributing to longevity including: apolipoprotein E (apoE), methylenetetrahydrofolate reductase (MTHFR), cathepsin D (CAD), superoxide dismutase 2 (SOD2), angiotensinogen (AGT), and insulin-like growth factor 2 (IGF2), Leiden factor 7, p53 oncogene, dopamine D4 receptor (DRD4), and the serotonin transporter (SERT). Genotype and allele frequencies of these genes were compared in 224 older (75 years) Jewish Jerusalem residents of Ashkenazi ethnicity to a group of 441 younger subjects (22 years). Nominally significant results provide suggestive evidence in the Ashkenazi group that apoE, MHTFR, SOD2, IGF2 ApaI and factor VII are risk factors for a single outcome, survival to 75. Overall, the more genetically homogenous Ashkenazi ethnic group showed evidence for association in five genes examined suggesting that future studies in this population would gainfully focus on this ethnic group. Keywords: Longevity; Polymorphisms; IGF2; Methylenetetrahydrofolate reductase; Apolipoprotein E; Superoxide dismutase; Angiotensinogen; D; Leiden factors V and VII; Dopamine D4 receptor; Serotonin transporter 1. Introduction The mechanisms contributing to human longevity are only now slowly being elucidated. 1.1. Genes and aging in humans Twin and adoption studies confirm a significant genetic component to human longevity (Carmelli, 1982). An oft-quoted Danish twin study (Herskind et al., 1996) estimated the heritability of lifespan to be 0.23 for males and 0.20 for females but a more recent Swedish study attributes perhaps as much as 50% of the variation in susceptibility to mortality to genetic factors (Yashin et al., 1999). Most researchers agree that heritability of lifespan in humans is modest, <50%. Moreover, the role of specific genes in The current case-control genetic study is based on the ongoing Jerusalem Longitudinal Cohort Study (JLCS) of 70-year-old (born in 1920/21) Jewish residents of Jerusalem initiated in 1990 (Bursztyn et al., 1999; Bursztyn et al., 1996; Cohen et al., 1995; Dresner-Pollak et al., 1996; Eliakim et al., 1996; Ginsberg et al., 1999; Maaravi et al., 1996; Stessman et al., 1995; Stessman et al., 1996; Stessman et al., 2000). The younger cohort was recruited from a non-clinical population in ongoing studies of normal personality (Ebstein et al., 2000; Zohar et al., 2003) and eating behavior (Bachner-Melman et al., 2004). * Corresponding author. Tel.: +/ ; fax: + E-mail address: ebstein@mscc.huji.ac.il (R.P. Ebstein). 0047-6374/$see front matter # 2004 Elsevier Ireland Ltd. All rights doi:10.1016/j.mad.2004.08.025 1.3. Candidate genes studied 2.3. Genotyping The SERT promoter region polymorphism was characterized as previously described by our laboratory (Ebstein et al., 1997). PCR amplification was carried out using the primers: SIL 1 50-ggC gTT gCC gCT CTg AAT gC-30 and SIL 2 50-gAg ggA CTg AgC Tgg AC A ACC AC-30. The reaction mixture was electrophoresed on a 2% metaphor gel (FMC) with ethidium bromide to screen for genotypes. ForThe following text has been processed:
+
+HWE was calculated using a convenient website: (http://www.kursus.kvl.dk/shares/vet-gen/Popgen/genetik/applets/kitest.htm). Considering that 11 alleles were studied and that we compared controls versus an older cohort, a conservative stand would be to conclude that a difference is significant for P-values < 0.05/11 = 0.0045. Nevertheless, the P-values reported in the results were uncorrected for multiple testing. The only significant result was a decrease in the percentage (30.6% versus 19.2%) of the A allele in older Ashkenazi male subjects (chi-square = 4.027, P = 0.045, 1d.f.) and a corresponding marked decrease (9.7-21%) in the percentage of AA homozygotes (chi-square = 5.790, P = 0.055). 
+
+3.5. Insulin-like growth factor 2 (IGF2) ApaI  
+
+An increase in the A allele was observed in older Ashkenazi females (chi-square = 3.455, P = 0.063) and a highly significant increase (3.8-15.7%) was observed in AA genotype in these subjects (chi-square = 10.972, P = 0.004, 2d.f.). 
+
+3. Results  
+
+We examined allele and genotype frequency for each of these candidate genes using chi-square and logistic regression analysis, stratifying results by sex due to gender-specific associations between common polymorphisms and longevity (Bonafe et al., 2001; Ivanova et al., 1998; Lio et al., 2002a, 2002b, 2002c). Only significant findings are presented below.
+
+As summarized in Table 1, we examined 11 polymorphisms for association with survival to 75 years by comparing a young Ashkenazi group to an older cohort. Although nominally significant associations were observed, it should be noted that only one is robust. Ashkenazi older subjects were characterized by a decreased percentage of the apoE 2 allele and a decreased percentage of the A allele in male subjects. 
+
+Table 1 Summary of findings in the Ashkenazi ethnic group  
+
+Gene Polymorphism Ethnic group Sex Allele Change with ageing P 
+
+ApoE Alleles 2,3,4 Ashkenazi M 2 (considered protective in AD) " 0.025 
+M 4 (risk allele in AD) # 
+Ashkenazi F 2 $ 0.065 
+F 4 # 
+MHTFR C677T Ashkenazi F C " 0.029 
+CC (note that TT = elevated homocysteine) " 0.045 
+SOD2 C9T Ashkenazi M T " 0.009 
+Ala (GCT) ! val(G TT) TT (Ala wt is risk for breast cancer) " 0.038 
+Leiden factor VII Arg/Gln R353Q Ashkenazi M A # 0.045 
+AA (QQ protective MI??) # 0.055 
+IGF2 ApaI A/G Ashkenazi F A " 0.063 
+AA " 0.004 
+
+Effects are already observed at a considerably younger age than 100, both in the children of centenarians as well as in our 75-year-old cohort when corrected for multiple testing (IGF2 ApaI). Therefore, these results should be considered only suggestive. Nevertheless, since some of the observed associations are both consistent with previous investigations (for example, ApoE) and moreover, make biological sense, we believe that overall the current investigation may serve as a useful roadmap towards unraveling the complex genetic architecture of human longevity. 
+
+4.2. Apolipoprotein E  
+
+The finding that there is an increase in the apoE2 allele and a decrease in the apoE4 allele in older Ashkenazi male subjects is consistent with a large literature demonstrating the protective effect of e2 and the deleterious role of e4 in conferring risk for Alzheimer's disease (AD) (Blanche et al., 2001; Rea et al., 2001; Slooter et al., 2001; Smith, 2002; Wang et al., 2001b). 
+
+4.3. ApoE and aging-a robust finding  
+
+The finding that e4 allele becomes markedly less frequent with advancing age is one of the most robust single gene findings in the human genetic studies of aging (Schachter et al., 1994). It is of interest that the report of Schachter et al. (1994) compared centenarians to subjects aged 20-70 years old whereas inThe combined RQ (arg/gln) and RR (arg/arg) genotypes of Factor VII R353Q were correlated with a reduced risk for CVD in 2574 patients, whereas the QQ (gln/gln) genotype was not. The potential link between aging and insulin/insulin-like growth factor-I (IGF-I) signaling has attracted substantial attention based on several pieces of evidence showing that disruption of the insulin/IGF-I signaling cascade can significantly extend lifespan in diverse species, including yeast, worms, fruit flies, and rodents (Barbieri et al., 2003). Intriguingly, long-lived mutants ranging from yeast to mice share some important phenotypic characteristics, including reduced insulin signaling, enhanced sensitivity to insulin, and reduced IGF-I plasma levels. Reduced oxidative damage of macromolecules and increased stress resistance are likely the final common pathways of these effects. Such genetic homologies and phenotypic similarities of insulin/IGF-I pathway mutants raise the possibility that the fundamental mechanism of aging may be evolutionarily conserved from yeast to mammals.
+
+Although initial findings for genetic studies are difficult to replicate, especially across cultural and ethnic groups, some of the polymorphisms associated with longevity in other studies or age-associated diseases likely to contribute to longevity were confirmed in the present study for a single outcome - survival to 75 years. These include apolipoprotein E, insulin-like growth factor 2, methylenetetrahydrofolate reductase, superoxide dismutase 2 and Leiden factor VII. However, none of the observed associations were uniform across different ethnic and gender categories. Additionally, while we examined the IGF2 receptor in this study, it should be noted that IGF2 and IGF1 display similar physiological properties and are both components within a family of insulin-like growth factors (Le Roith).
+
+In this cohort consisting of two ethnic groups, one homogenous and the second characterized by heterogeneity, a more consistent pattern of association was observed in the Ashkenazi cohort. We genotyped approximately 400 DNA samples in our older cohort; however, stratifying this sample by ethnicity as well as gender resulted in considerable power loss. Future studies in this population would gainfully focus solely on the more homogenous Ashkenazi ethnic group. Moreover, a substantially larger population sample should be targeted to compare simultaneously the risk for all examined polymorphisms of considerable interest.
+
+Acknowledgement: This research was partially supported by the Israel Science Foundation founded by the Israel Academy of Sciences and Humanities (RPE).
+
+References:
+
+Bachner-Melman, R., Zohar, A.H., Elizur, Y., Nemanov, L., Gritsenko, I., Konis, D. et al., Association between a vasopressin receptor AVPR1a promoter region microsatellite and eating behavior measured by a self-report questionnaire (Eating Attitudes Test) in a family-based study of a non-clinical population. Int. J. Eat. Disord., in press.
+
+Barbieri, M., Bonafe, M., Franceschi, C., Paolisso, G., Insulin/IGF-I-signaling pathway: an evolutionarily conserved mechanism of longevity from yeast to humans. Am. J. Physiol. Endocrinol. Metab., E 833-839.
+
+Bi, X., Head, E., Cotman, C.W., Lynch, G., Spatial patterns of mammalian brain aging: distribution of cathepsin D-immunoreactive cell bodies and dystrophic dendrites in aging dogs resembles that in Alzheimer's disease. J. Comp. Neurol., 391-408.
+
+Blanche, H., Cabanne, L., Sahbatou, M., Thomas, G., A study of French centenarians: are ACE and APOE associated with longevity? C. R. Acad. Sci. III, 183-188.
+
+Bonafe, M., Olivieri, F., Cavallone, L., Giovagnetti, S., Mayegiani, F., Cardelli, M., Pieri, C., Marra, M., Antonicelli, R., Lisa, R., Rizzo, M.R., Paolisso, G., Monti, D., Franceschi, C., A gender-dependent genetic predisposition to produce high levels of IL-6 is detrimental for longevity. Eur. J. Immunol., 2357-2361.
+
+Bonafe, M., Olivieri, F., Mari, D., Baggio, G., Mattace, R., Berardelli, M., Sansoni,P., De Benedictis, G., Duca,Marchegiani,F., Cavallone,Lisa,Rizzo,M.R.Paolisso,G.Monti,D.Ferrucci,L.Amadio,L.Tucci,M.G.Troiano,L.Pini,G.GuerCohen, A., The effects of physical activity on mortality in the Jerusalem Olds Longitudinal Study. J. Am. Geriatr. Soc., Stoehlmacher, J., Ingles, S.A., Park, D.J., Zhang, W., Lenz, H.J., The Ala/Val polymorphism in the mitochondrial targeting sequence of the manganese superoxide dismutase gene (MnSOD) is associated with age among Hispanics with colorectal carcinoma. Oncol. Rep., Tan, Q., Yashin, A.I., Bladbjerg, E.M., de Maat, M.P., K Jeune, B., Christensen, K., Vaupel, J.W., Variations in cardiovascular disease-associated genes exhibit sex-dependent effects on human longevity. Exp. Gerontol., Terry, D.F., Wilcox, M., McCormick, M.A., Lawler, E., Perls, T.T., Cardiovascular advantages among the offspring of centenarians. Gerontol. A Biol. Sci. Med. Sci., M&M and IGF-binding protein (IGFBP) gene variants are associated with overfeeding-induced metabolic changes. Diabetologia, Vafiadis, P., Bennett, S.T., Todd, J.A., Grabs, R., Polychronakos, C., Divergence between genetic determinants of IGF transcription Clin. Endocrinol. Metab., Visscher, P.M., Tynan, M., Whiteman, M.C., Pattie, A., White I.C.,
+Wright, A.F.,
+Starr,
+J.M.,
+Whalley,
+L.J.,
+Deary,
+I.J.,
+Lack of association between polymorphisms in and methylenetetrahydrofolate reductase genes and normal ageing in humans. Neurosci. Lett.,
+Wang, X., Wang, G., Yang, C., Li, X., Apolipoprotein E polymorphism and its association with human longevity in the nationality in Xinjiang. Chin. Med. J. (Engl),
+Wang, L.I., Miller, D.P., Sai, Y., Liu, G., Su, L., Wain, J.C., Lynch, Christiani, D.C.,
+Manganese superoxide dismutase valine polymorphism at codon 16 and lung cancer risk. J. Natl. Inst.,
+Woodson, K., Tangrea, J.A., Lehman, T.A., Modali, R., Taylor Snyder, K., Taylor, P.R., Virtamo, J., Albanes, D.,
+Superoxide dismutase (MnSOD) polymorphism, alpha-tocopherol supplementation and prostate cancer risk in the alpha-tocopherol, carotene cancer prevention study (Finland). Cancer Causes Control,
+Wu, A.H., Tsongalis, G.J.,
+Correlation of polymorphisms to tion and biochemical risk factors for cardiovascular diseases. Am. Cardiol.,
+Xia, Y., Gueguen,
+R.,
+Vincent-Viry,
+M.,
+Siest,
+G.,
+Visvikis,
+S.,
+Association of six candidate genes on early aging in a French population. Clin. Exp. Res.,
+Yashin,
+A.I.,
+Iachine,
+I.A.,
+Harris,
+J.R.,
+Half of the variation susceptibility to mortality is genetic: findings from Swedish survival data. Behav. Genet.,
+Zohar, A.H., Dina, C., Rosolio, N., Osher,Y .,
+Gritsenko,
+I.,
+Melman,
+R.,
+Benjamin,
+J.,
+Belmaker,
+R.H.,
+Ebstein,
+R.P.,
+The harm avoidance proneness trait of the dimensional personality questionnaire is linked to a locus on chromosome 8. Am. J. Genet. B,
+Zuliani, G., Cherubini, A., Volpato, S., Palmieri, E., Mecocci, De Rango, P., Cao, P., Costantini, F., Mezzetti, A., Mascoli, F., U.,
+Fellin,
+R.,
+Genetic factors associated with the absence of atherosclerosis in octogenarians. J. Gerontol. A Biol. Sci. Med. Sci.,
+Mattson, M.P., Kruman, I.I., Duan, W.,
+Folic acid and homocysteine in age-related disease. Ageing Res. Rev.,
+Mitrunen,
+K.,
+Hirvonen,
+A.,
+Molecular epidemiology of sporadic breast cancer: The role of polymorphic genes involved in estrogen biosynthesis and metabolism. Mutat. Res.,
+Mitrunen,
+K.,
+Sillanpaa,
+P.,
+Kataja,
+V.,
+Eskelinen,
+M.,
+Kosma,
+V.M.,
+Benhamou,

@@ -1,0 +1,55 @@
+Mechanisms of Ageing and Development 127 (2006) 597-599 www.elsevier.com/locate/mechagedev
+
+A longitudinal study of the effect of GSTT1 and GSTM1 gene copy number on survival, C. Brasch-Andersen, L. Bathum, T.A. Kruse, K. Christensen
+
+Department of Epidemiology, Institute of Public Health, University of Southern Denmark, Denmark; Department of Biochemistry, Pharmacology and Genetics, Odense University Hospital, Sdr. Boulevard 29, 5000 Odense C, Denmark
+
+Received 21 December 2005; received in revised form 10 February 2006; accepted 23 February 2006
+
+Abstract
+
+Deletions of the glutathione S-transferase superfamily genes GSTT1 and GSTM1 have been associated with oxidative stress-related diseases and recently explored as factors implicated in longevity as well. Reported results have been conflicting, which may partially be caused by the traditional use of assays unable to discriminate between carriers of one or two functional genes.
+
+Using a quantitative real-time PCR method facilitating quantification of gene copy number, we evaluated the influence of GSTT1 and GSTM1 gene deletions on longevity in a longitudinal study of 681 elderly Danish twins. The mean follow-up time was 7.6 years and during this time a total of 294 deaths occurred.
+
+The results demonstrated a non-significant trend for carriage of two copies of the functional GSTM1 gene to be a protective factor, whereas both heterozygosity and homozygosity for the functional GSTT1 gene were associated with a moderate but significant increased mortality in women (hazard rate 2.46 (CI: 1.43-4.23) and 2.22 (CI: 1.25-3.94) for one and two alleles, respectively). To our knowledge, this is the first longitudinal study exploring the influence of GST gene polymorphisms on longevity, and these data imply that GST gene copy numbers do affect mortality risk in the elderly.
+
+Keywords: Glutathione S-transferase; Polymorphisms; Quantitative PCR; Ageing; Longevity
+
+The GSTT1 and GSTM1 genes are members of the glutathione S-transferase (GST) superfamily, comprising genes that encode a variety of enzymes involved in protection against harmful exogenous substances, such as carcinogens and other xenobiotics, as well as endogenously produced reactive oxygen species (Hayes et al., 2005). Common polymorphisms consisting of deletion of the entire gene have been described for both GSTT1 and GSTM1, leading to a complete lack of activity. The deletion of one or two alleles (null genotype) has been associated with an increased risk of various types of cancer (Alexandrie et al., 2004; Ates et al., 2005; Rajagopal et al., 2005), asthma, and other respiratory diseases (Brasch-Andersen et al., 2004; Tamer et al., 2004).
+
+Muiras et al. (1998) found no association between homozygosity for GSTM1 deletions and longevity when comparing 565 French centenarians and 229 younger controls. In a later study using Italian centenarians compared to control subjects of younger age, this lack of association was confirmed by Taioli et al. (2001), who on the other hand found a significant increase in the prevalence of GSTT1 deletions in the centenarians.
+
+Soon after, Yamamura et al. (2001) found a decreased frequency of the GSTM1 null genotype in Japanese centenarians compared to a younger control group, whereas there was no difference in the prevalence of the GSTT1 null genotype. Conversely, Pesch et al. (2004) recently reported a non-significant trend of GSTT1 deletions being slightly less frequent, and GSTM1 deletions marginally more frequent in 205 German octogenarians compared to a reference group of 294 persons aged less than 80 years old.
+
+As mediators of protection against oxidative stress, the GSTT1 and GSTM1 genes serve as excellent candidates for studies of successful ageing and longevity. Accordingly, several recent studies have investigated the influence of the presence/absence of these genes on longevity, with conflicting results.
+
+Two obvious explanations may in part account for these discrepancies. First, all four studies use a cross-sectional design, an approach that could potentially pose a problem since cohort-specific characteristics may confound the comparison between the centenarians and younger cohorts. Second, none of these studies discriminated between genotypes with one and two copies of GSTM1 and GSTT1, which probably reduces the power to observe an effect of the polymorphisms and furthermore precludes distinction between the various genetic models.
+
+Theexposure on lung cancer risk in a Swedish population. Cancer Epidemiol. Biomarkers Prev., 13(5), 908-914.
+
+Bellizzi, D., Rose, G., Cavalcante, P., Covello, G., Dato, S., De Rango, F., et al. (2005). A novel VNTR enhancer within the SIRT3 gene, a human homologue of SIR2 longevity gene. Aging Cell, 4(4), 235-242.
+
+Christiansen, L., Frederiksen, H., Schousboe, K., Skytthe, A., von Wurmb-Schwark, N., Christensen, K. (2003). Age- and sex-differences in the validity of questionnaire-based zygosity in twins. Twin Res., 6(4), 275-278.
+
+Lio, D., Scola, L., Crivello, A., Colonna-Romano, G., Candore, G., Bonafè, M., et al. (2002). Gender-specific association between the -1082 IL-10 promoter polymorphism and longevity. Genes Immun., 3(1), 30-33.
+
+Muiras, M.L., Verasdonck, P., Cottet, F., Schachter, F. (1997). Lack of association between human longevity and genetic polymorphisms in drug-metabolizing enzymes at the NAT2, GSTM1 and CYP1A2 loci. Hum. Genet., 99(3), 319-323.
+
+Pesch, B., Dusing, R., Rabstein, S., Harth, V., Grentrup, D., Bruning, T., Landt, O., Vetter, H., Ko Y.D. (2000). Polymorphic metabolic susceptibility genes and longevity: a study in octogenarians. Toxicol. Lett., 114-115, 269-276.
+
+Rajagopal, R., Deakin, M., Fawole, A.S., Elder, J.B., Elder, J., Smith, V., Strange, R.C., Fryer, A.A. (1999). Glutathione S-transferase T1 polymorphisms are associated with outcome in colorectal cancer. Carcinogenesis, 20(11), 2117-2121.
+
+Sherratt, P.J., Pulford, D.J., Harrison, D.J., Green, T., Hayes, J.D. (1997). Evidence that human class Theta glutathione S-transferase T1-1 can catalyse the activation of dichloromethane, a liver and lung carcinogen in the mouse. Comparison of the tissue distribution of GST T1-1 with that of classes Alpha, Mu and Pi GST in human. Biochem. J. (Pt 3), 328(Pt 3), 837-841.
+
+Shokeer, A., Larsson, A.K., Mannervik, B. (2010). Residue M107 in glutathione transferase T1-1 plays a pivotal role in the catalytic activity and the selectivity against alternative substrates. Biochem. J., 432(3), 325-332.
+
+Skytthe, A., Kyvik, K.O., Holm, N.V., Vaupel, J.W., Christensen K. (2002). The Danish Twin Registry: 127 birth cohorts of twins. Twin Res., 5(5), 352-357.
+
+Taioli, E., Mari D., Franceschi C., Bonafè M., Monti D., Bertolini S., Marinelli D., Garte S. (2001). Polymorphisms of drug-metabolizing enzymes in healthy nonagenarians and centenarians: difference at GSTT1 locus. Biochem. Biophys. Res. Commun., 281(2), 456-460.
+
+Tamer, L., Calikoglu, M., Ates, N.A., Yildirim, H., Ercan, B., Saritas, E., Unlu, A., Atik, U. (2004). Glutathione-S-transferase gene polymorphisms (GSTT1, GSTM1, GSTP1) as increased risk factors for asthma. Respirology, 9(4), 493-498.
+
+van Bladeren, P.J. (2000). Glutathione conjugation as a bioactivation reaction. Chem. Biol. Interact., 129(1-2), 61-76.
+
+Yamamura, K., Hirose, N., Arai, Y. (1998). Contribution of glutathione S-transferase M1 to longevity. J. Am. Ger

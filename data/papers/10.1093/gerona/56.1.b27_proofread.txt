@@ -1,0 +1,73 @@
+Age-Associated Accumulation of the Apolipoprotein C-III Gene T-455C Polymorphism C Allele in a Russian Population
+
+Sergey V. Anisimov, Maria V. Volkova, Lilia V. Lenskaya, Vladimir K. Khavinson, Dina V. Solovieva, and Eugene I. Schwartz
+
+Department of Cardiology, I.P. Pavlov St. Petersburg State Medical University, Russia.
+Laboratory of Human Molecular Genetics, St. Petersburg Institute of Nuclear Physics RAS, Gatchina, Russia.
+City Geriatric Center, St. Petersburg, Russia.
+St. Petersburg Institute of Bioregulation and Gerontology
+
+Apolipoprotein C-III (apoC-III) is the major component of triglyceride-rich lipoproteins. One of six identified polymorphisms in the apoC-III 59-untranslated region (T-455C) is located within a functional insulin-response element. In a group of 137 elderly individuals (70-106 years old), the allele distribution was analyzed using restriction fragment length polymorphisms. Statistical analysis of allele frequencies was performed on subgroups selected by age and in elderly patients with arterial hypertension or ischemic heart disease. A greater frequency of the apoC-III 2455C allele was demonstrated with aging (p < 0.005). No statistically significant difference in allele distributions was detected between healthy subjects and groups of elderly patients of the same age with either ischemic heart disease or arterial hypertension. The increased incidence of the C allele with advanced age indicates that this variant promoter is associated with longevity. The greater incidence of this allele is detectable only in adults older than 80 years of age.
+
+Human apolipoprotein C-III (apoC-III) is a major component of very low-density lipoproteins and plasma chylomicrons and a minor component of high-density lipoproteins (HDLs). It plays an important role in modulating the hydrolysis of triglycerides and cholesterol through inhibition of lipoprotein lipase (14); therefore, the plasma levels of triglycerides correlate directly with the quantity of apoC-III (4,5). Six polymorphisms have been identified in the promoter region of the apoC-III gene at positions -935, -641, -630, -625, -482 and -455 (6,7). The promoter region containing these polymorphic sites is essential for maximal expression of apoC-III in cultured cells (8). The most proximal polymorphism, T-455C, is located within a 10-base-pair (bp) region whose sequence is similar to that of the rat phosphoenolpyruvate carboxykinase (PEPCK) insulin/phorbol ester response element (9). This region allows insulin to influence the metabolism of apoC-III through the regulation of the gene's transcriptional activity (10). Interestingly, the apoC-III variant (-455C) allele increases the sequence identity of the -454 to -462 element to the corresponding area in the PEPCK gene. A functional insulin-response element (IRE) in the human apoC-III promoter (C3IRE) has been mapped to the -490 to -449 region (11,12). This 42 nucleotide region contains two sequence variants at -455 and -482 positions, which strongly affect apoC-III gene expression following insulin treatment (12). It has been shown that a single bp change of T-455C partially inhibits the ability of the variant apoC-III promoter to respond to insulin in vitro (12). The location of this polymorphism in the IRE and its ability to influence the expression of apoC-III suggest a link between two major components of syndrome X: abnormal glucose metabolism and hypertriglyceridemia (13,14). Elevated plasma levels of insulin are highly associated with increased blood pressure through activation of the sympathoadrenal system, and a strong correlation between these two indices occurs in states of insulin resistance (15-17). Thus, hypertension, as a constituent part of syndrome X, could result from an altered response of the apoC-III promoter to insulin.
+
+Among the polymorphisms in the apoC-III promoter region, the T-455C polymorphism has been studied in several populations (Table 1). Although no statistically significant differences were detected in the distribution of T/C alleles in a group of white Americans (18) and among Italian children (7), the increased incidence of the C allele was, however, associated with elevated triglycerides and depressed HDL cholesterol, as well as higher total cholesterol to HDL ratio and apolipoprotein B (apoB) to apolipoprotein A-I (apoA-I) ratio in a group of young Sandy Lake Canadian Indians (19). Moreover, among two recentThe text has been processed below:
+
+Divided into several age-differentiated subgroups: group 1 (43 subjects, 70-79 years old; mean age, 74.4 years), group 2 (52 subjects, 80-89 years old; mean age, 84.4 years), and group 3 (42 subjects, 90-106 years old; mean age, 94.5 years). Information about AH and IHD was obtained based on long-standing clinical observations. The control group included 110 schoolchildren aged 6 to 17 years old (group 4; mean age, 11.0 years) from three secondary schools in St. Petersburg. The ethnic composition in both the elderly and control groups was controlled via the analysis of last names and was found to be identical, with a major preponderance of Russian names and a minor presence.
+
+RESULTS AND DISCUSSION
+
+We analyzed DNA samples from the following groups of St. Petersburg citizens: group 1 (43 subjects, 70-79 years old), group 2 (52 subjects, 80-89 years old), group 3 (42 subjects, 90-106 years old), and group 4 (110 subjects, 6-17 years old). The frequencies of T and C alleles in the control group (group 4) were 0.550 and 0.450, respectively. This distribution is comparable with 0.700/0.300 in a healthy adult white American population (18), and 0.690/0.310 (21) or 0.655/0.345 (20) in healthy Dutch populations (p<0.05).
+
+AT cAGCCAGIGATGCCCGGTCT TCTGTGCCTITACTCCAAACATCCCCCAGCCCAA.. ~449B c#@ ... CCAAACATCCCC... Genomic DNACc*Gi) k .. .CCAAAGATCCCC... 1 PCR Product-480 -327455Mbol |iy .. -CCAAALGATCCCC...23 131Digested-455 PCR Products. ...CCAAAGACCCCC...ag S_154< 154 bp+131 bp
+
+Figure 1. A, Region in the apoC-III promoter containing a functional insulin response element. Dotted line represents functional insulin-element (C3IRE) from positions -490 to -449 (11,12). Solid line indicates the position of the sequence similar to the rat phospho-carboxykinase (PEPCK) insulin/phorbol ester response element (9,10), mapped to positions -463 to -454. Asterisks show two proximal polymorphic sites located inside the C3IRE. T/C polymorphism at position -455 is located inside the rat PEPCK insulin/phorbol ester response element-like region. Sequence of the entire area can be found in the GenBank: access number X13367. B, Amplification of the mismatch chain reaction (PCR) product with the formation of the MboI recognition site. Genomic DNA (i) is used for PCR, which generates -457G rather than -457C nucleotide via site-directed mutagenesis (ii). PCR product was digested with MboI restriction endonuclease. Thymine at the -455 position (T allele) forms the authentic recognition site for MboI (fl GATC) (iii); in the case of cytosine at position -455 (C allele), the restriction site is absent (iv). C, An example of ethidium bromide-stained polyacrylamide gel from which allele determinations were made. 3, 4, and 5 are samples after digestion with MboI (lane 3, heterozygous -455T/C; lane 4, homozygous -455C; lane 5, homozygous -455T); 2, PCR product; lanes 1 and 6, the marker pBR322/AluI. bp 5 base pair.
+
+Interestingly, the observed distribution of alleles in young (6-17 years) St. Petersburg citizens closely matched those in the group of Italian schoolchildren (11-13 years; 0.596/0.404) (7) and young (9-17 years) Canadian Indians (0.556/0.444) (19), suggesting that the initial allele distribution is similar in different populations (Table 1).
+
+0.619, respectively, suggesting that a gradual loss of the T-allele proportion, with a relative accumulation of the C-allele proportion occurs with age (p<0.05 and p<0.02, respectively, and p<0.002 for pooled groups 2 & 3 vs group 4). The reliability of subject group size was confirmed with aThere are several corrections to be made in the given text:
+
+1. "dif- ference" should be corrected to "difference".
+2. "tution" should be corrected to "distribution".
+3. "childrens" should be corrected to "children's".
+4. "poly- morphism" should be corrected to "polymorphism".
+5. "NA" should be corrected to "mRNA".
+6. "abnormalitiesthe" should be corrected to "abnormalities, the".
+7. "two- Fisher" should be corrected to "two-tailed Fisher".
+
+Processed Text:
+
+There was a statistically significant difference in the distribution of alleles for group 3 (90-106 years old; mean age, 94.5 years) versus group 4 (control; p, .02). Table 3 shows the allele distribution as a function of age and arterial hypertension. The close distribution of allele frequencies in the group and those of subjects aged 70 to 79 years old (youngest group of elderly subjects studied) make the distribution of cross-sectionally studied groups reliable.
+
+Geriatric populations allow assessment of polymorphic sites for longevity and survival. Control groups consisting of children provide valuable information regarding the original distribution of alleles of interest in a particular population. The use of young and older age groups in our study gave us the ability to detect the effect of relative accumulation with age of the apoC-III gene T-455C polymorphism C allele.
+
+Although we show that in this population none of the polymorphism alleles is associated with IHD or AH, the question of the possible mechanisms involved is still open and should stimulate further investigations.
+
+St. Petersburg has one of the most advanced systems of geriatric help in Russia, which, together with the size of its population, made our study possible. However, longitudinal cohort studies covering these wide age ranges are quite hard to perform.
+
+We have to admit that the initial frequencies of respective alleles and genotypes could differ slightly in the elderly and children's groups, as there is no way to ensure genetic solidarity of these groups when taking into account the losses the St. Petersburg population suffered during the Siege of 1941 to 1944 and the resulting changes in population structure.
+
+The proposed method of -455 apoC-III polymorphism identification based on the mismatch PCR-mediated site-directed mutagenesis and restriction fragment length polymorphism seems to be time- and cost-reducing compared with other nonradioactive methods, such as allele-specific amplification and allele-specific oligonucleotide hybridization, described previously.
+
+Table 4 shows the allele distribution as a function of age and ischemic heart disease.
+
+The role of insulin resistance and the sympathoadrenal system in metabolic abnormalities. N Engl J Med.; : 
+
+References:
+
+1. Krauss RM, Herbert PN, Levy RI, Fredrickson DS. Further observations on the activation and inhibition of lipoprotein lipase by apolipoproteins. Circ Res.; : 
+2. Wang C-S, M onathy WJ, Kloer HU, Alaupovic P. Modulation of lipoprotein lipase activity by apolipoproteins. Effect of apolipoprotein C-III. J Clin Invest.; : 
+3. Shimada M, Shimano H, Gotoda T, et al. Overexpression of human lipoprotein lipase in transgenic mice. Resistance to diet-induced hypertriglyceridemia and hypercholesterolemia. J Biol Chem.; : 
+4. Maeda N, Li H, Lee D, Oliver P, Quarfordt SH, Osada J. Targeted disruption of the apolipoprotein C-III gene in mice results in hypotriglyceridemia and protection from postprandial hypertriglyceridemia. J Biol Chem.; : 
+5. Ito Y, Azrolan N, OConnell A, Walsh A, Breslow JL. Hypertriglyceridemia as a result of human apo CIII gene expression in transgenic mice. Science.; : 
+6. Dammerman M, Sandkuijl LA, Halaas JL, Ghung W, Breslow JL. An apolipoprotein CIII haplotype protective against hypertriglyceridemia is specified by promoter and untranslated region polymorphisms. Proc Natl Acad Sci USA.; : 
+7. Shoulders CC, Grantham TT, North JD, et al. Hypertriglyceridemia and the apolipoprotein CIII gene locus: lack of association with the variant insulin response element in Italian schoolchildren. Hum Genet.; : 
+8. Ogami K, Hadzopoulou-Cladaras M, Cladaras C, Zannis VI. Promoter elements and factors required for hepatic and intestinal transcription of the human ApoC-III gene. J Biol Chem.; : 
+metabolic abnormalities— the role of insulin resistance and the sympathoadrenal system. N Engl J Med.  ;  : 
+
+Processed Text:
+JL, Leff T. Common genetic variation in the promoter of the human apo CIII gene abolishes regulation by insulin and may contribute to hypertriglyceridemia. J Clin Invest. ; : 
+Haffner SM, Valdez RA, Hazuda HP, Mitchell B, Morales PA, Stern MP. Prospective analysis of the insulin-resistance syndrome (syndrome X). Diabetes. ; : 
+Dammerman M, Breslow JL. Genetic basis of lipoprotein disorders. Circulation. ; : 
+Baron AD. Hemodynamic actions of insulin. Am J Physiol. ; : E E 
+Reaven GM, Lithell H, Landsberg L. Hypertension and associated metabolic abnormalities—the role of insulin resistance and the sympathoadrenal system. N Engl J Med. ; :

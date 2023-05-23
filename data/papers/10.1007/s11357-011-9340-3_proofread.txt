@@ -1,0 +1,189 @@
+Gene set analysis of GWAS data for human longevity highlights the relevance of the insulin/IGF-1 signaling and telomere maintenance pathways. Joris Deelen, Hae-Won Uh, Ramin Monajemi, Diana van Heemst, Peter E. Thijssen, Stefan Bhringer, Erik B. van den Akker, Anton J. M. de Craen, Fernando Rivadeneira, Andr G. Uitterlinden, Rudi G. J. Westendorp, Jelle J. Goeman, P. Eline Slagboom and Jeanine J. Houwing-Duistermaat conducted a study using genotyped GWAS data of 403 unrelated nonagenarians from long-lived sibships collected in the Leiden Longevity Study and 1,670 younger population controls. They analyzed 1,021 SNPs in 68 IIS pathway genes and 88 SNPs in 13 TM pathway genes using four self-contained pathway tests (PLINK set-based test, Global test, GRASS and SNP ratio test). Although they observed small differences between the results of the different pathway tests, they showed consistent significant association of the IIS and TM pathway SNP sets with longevity.
+
+Analysis of gene SNP sets from these pathways indicates that the association of the IIS pathway is scattered over several genes (AKT1, AKT3, FOXO4, IGF2, INS, PIK3CA, SGK, SGK2 and YWHAG), while the association of the TM pathway seems to be mainly determined by one gene (POT1). In conclusion, this study shows that genetic variation in genes involved in the IIS and TM pathways is associated with human longevity.
+
+In genome-wide association studies (GWAS) of complex traits like human longevity, single SNP analysis is still the most applied approach. However, the identified SNPs have small effects and provide limited biological insight. A more appropriate approach to interpret GWAS data of complex traits is to analyze the combined effect of a SNP set grouped per pathway or gene region. There are two main types of methods: the competitive and the self-contained tests. The competitive tests compare the association between a SNP set and trait to a standard defined by the genotyped SNPs outside the SNP set (complement), while the self-contained tests compare the SNP set to a fixed standard that does not depend on the complement.
+
+Human longevity is a complex trait that is assumed to be determined by variation in many genes with small effects. Previous GWAS studies, in which single SNP analyses were performed, have identified only one genome-wide significant locus contributing to survival into old age: APOE. However, the genetic contribution to human lifespan variation, determined in twin studies, is estimated at 25-30%. Although the effect of genetic variation in APOE is relatively large, the heritability of longevity is only partially explained by this variation. Part of the remaining heritability might be explained by functionally related SNPs with small effects, of which the joint effect could not be detected in a single SNP analysis. Testing of SNP sets of candidate pathways for association with longevity would therefore be valuable.
+
+Single SNP analysis has been successful in identifying loci for various quantitative traits and diseases. It became apparent that complex traits are usually determined by many genes with small effects and that results from single SNP analysis provide limited biological insight and only partly explain the genotypic variation of the studied trait. Instead of analyzing single SNPs, the combined effect of a SNP set, grouped per pathway or gene region, can be tested for association with the trait of interest. Such SNP set analysis could be used as an alternative approach for GWAS analysis and should be able to provide additional biological insight into the studied trait.
+
+The insulin/insulin-like growth factor (IGF-1) signaling (IIS) pathway is considered as a candidate pathway for studying human longevity. It is involved in the adaptation of the organism to its changing environment. When experimentally induced in model organisms like worms, flies, and mice, mutations in genes that play a role in IIS (e.g., homologues of human IGF1R, INSR, IRS1, PI3K, and FOXO) were shown to have a considerable effect on lifespan. Although the IIS pathway is evolutionarily conserved, the complexity of the human IIS pathway is much larger compared to that of model organisms.
+
+Since the amount of tests in SNP set analysis is low compared to single SNP analysis, it requires a lower penalty for multiple testing. Therefore, SNP set analysis is also very suitable in studies with low power for GWAS analysis.considered to be within the window if it was located between 5 kb upstream and 5 kb downstream of the gene boundaries. SNPs were selected based on their location within the window and their minor allele frequency (MAF), which had to be at least 0.01 in the Rotterdam Study (RS) controls. Quality control was performed on the selected SNPs, and only those passing all criteria were included in subsequent analyses.
+
+In this study, we examined the joint effect of genetic variation in the IIS and TM pathways on human longevity using data from the Leiden Longevity Study (LLS) and younger population controls from the Rotterdam Study (RS). We used several self-contained and competitive tests to analyze associations between SNPs in genes from these pathways and human longevity. Our results provide insights into the complex genetic networks that regulate aging and longevity, and may have implications for future research on interventions to extend healthy lifespan.Defined as an NCBI Entrez Gene (mRNA or RNA) cluster, corresponding to a set of transcripts (RefSeq) for which the alignments can be obtained from the UCSC genome browser (http://genome.ucsc.edu/), in which all transcripts within a cluster agree on strand and overlap. Due to an overlap of the 10-kb windows, the RS is a prospective population-based study of people aged 55 years and older, which was designed to study neurological, cardiovascular, and locomotor functions. Around IGF2 and INS, two SNPs, rs4320932 and rs7924316, were assigned to both genes. The Global test (http://www.bioconductor.org/help/bioc-views/release/bioc/html/globaltest.html; Goeman et al. 2004), which is capable and powerful for analyzing GWAS data (Chapman and Whittaker 2008; Pan 2009), is used in this study. This test is based on a multiple logistic regression model that uses the phenotype as the response variable and the SNPs in the SNP set as covariates while automatically taking the correlations between SNPs into account. The null hypothesis is tested that none of the SNPs in the SNP set are associated with the phenotype. P values are calculated using a permutation test based on 10,000 permutations.
+
+Statistical Analysis
+PLINK set-based test:
+In the PLINK set-based test (set-test, http://pngu.mgh.harvard.edu/purcell/plink; Purcell et al. 2007), a single SNP analysis (in our case, a trend test) of the original pathway or gene SNP set is performed. For each SNP set, a mean SNP statistic is calculated from the single SNP statistics of a maximum amount (set-max) of independent SNPs below a certain P value threshold (set-p). If SNPs are not independent, i.e., in case linkage disequilibrium (r2) is above a certain threshold (set-r2), the SNP with the lowest P value in the single SNP analysis is selected. The same analysis is performed with a certain amount (mperm) of simulated SNP sets in which the phenotype status of the individuals is permuted. An empirical P value for the SNP set is computed by calculating the number of times the test statistic of the simulated SNP sets exceeds that of the original SNP set. For the analysis in this study, the parameters were set to set-p 0.05, set-r2 0.5, set-max 99999, and mperm 10,000.
+
+For the comparative approach, 10,000 random SNP sets per pathway SNP set were generated and tested to determine the chance to find a similar-sized SNP set with a comparable or lower P value as compared to the original pathway SNP set.
+
+SNP ratio test:
+snpratiotest/; O'Dushlaine et al. 2009) performs a single SNP analysis (in our case, a trend test) of the original pathway or gene SNP set and of similar-sized SNP sets in which the phenotype status of the individuals is permuted. An empirical P value of the SNP set is computed by calculating the ratio between the proportion of SNPs that show an association below a certain P value threshold (p) in the original GWAS dataset and in the simulated GWAS datasets. The amount of significant SNPs in the simulated GWAS datasets is defined as the top n SNPs with the lowest P values, where n is the amount of SNPs with an association below p in the original GWAS dataset. For the analysis in this study, we used the scripts described in SRT_documentation_090310.pdf (http://sourceforge.net/projects/snpratiotest/). For the analysis in this study, p was set to 0.05, and the amount of simulated datasets used was 10,000.
+
+GRASS (http://linchen.fhcrc.org/grass.html; Chen et al. 2010) calculates eigenSNPs for each gene in the pathway SNP set by summarizing the variation of a gene using principal component analysis. Subsequently, one or more of these eigenSNPs per gene are selected using regularized logistic regression to calculate a test statistic for each pathway SNP set. The same analysis is performed with simulated SNP sets in which the phenotype status of the individuals is permuted. The P value per pathway SNP set is calculated by comparing the test statistic of the original pathway SNP set with that of the combined simulated pathway SNP sets. For the analysis in this study, the amount of simulated pathway SNP sets was 10,000.
+
+Global test:
+To adjust for multiple testing, the significance level was set at the Bonferroni-corrected nominal P value (which is 0.05/(number of pathway or gene SNP sets tested)). In this study, we used a modified version of127,509,334 269.84 26 64.00% mLST8 (mTORC2) MLST8 64223 16 2,195,451 2,199,419 3.97 4 80.00% mTOR (mTORC2) MTOR 2475 1 11,089,176 11,245,195 156.02 11 50.00% PEPCK PCK1 5105 20 55,569,543 55,574,919 5.38 10 33.33% PDK1 PDPK1 5170 16 2,527,971 2,593,190 65.22 0 0.00% PHLPP1 PHLPP1 23239 18 58,533,714 58,798,646 264.93 41 64.29% PHLPP2 PHLPP2 23035 16
+70,236,353
+70,306,205
+69.85
+4
+15.38% PI3K PIK3CA
+5290
+3
+180,349,005
+180,435,191
+86.19
+10
+44.44%
+PIK3CB
+5291
+3
+139,856,921
+139,960,875
+103.95
+8
+42.86%
+PIK3CD
+5293
+1
+9,634,377
+9,711,759
+77.38
+8
+42.11%
+PIK3R1
+5295
+5
+67,558,218
+67,633,405
+75.19
+31
+65.12%
+
+Characteristics of the insulin/IGF-1 signaling pathway proteins:
+Protein Gene Entrez gene ID Chr Start (bp) End (bp) Size (kb) SNPs Coverage
+PIK3R2 5296 19 18,125,016 18,142,343 17.33 5 66.67%
+PIK3R3 8503 1 46,278,399 46,371,295 92.90 10 60.00%
+PP2A PPP2R5B 5526 11 64,448,756 64,458,523 9.77 3 37.50%
+Protor-1 (mTORC2) PRR5 55615 22
+43,443,091
+43,512,225
+69.13
+32
+50.00%
+PTEN PTEN 5728 10
+89,613,175
+89,718,512
+105.34
+8
+47.06%
+PTP1B PTPN1 5770 20
+48,560,298
+48,634,493
+74.20
+17
+44.44%
+p130Rb2 RBL2 5934 16
+52,025,852
+52,083,061
+57.21
+3
+33.33%
+RICTOR (mTORC2) RICTOR 253260 5
+38,973,780
+39,110,258
+136.48
+9
+30.77%
+SCP2 SCP2 6342 1
+53,165,536
+53,289,870
+124.33
+18
+50.00%
+SGK1 SGK1 6446 6
+134,532,077 
+134,680,889 
+148.81 
+38 
+46.75%
+SGK2 SGK2 10110 20
+41,621,100 
+41,647,687 
+26.59 
+9 
+34.62%
+SIRT1 SIRT1 23411 10
+69,314,433 
+69,348,152 
+33.72 
+4 
+33.33%
+SIRT2 SIRT2 22933 19
+44,061,040 
+44,082,201 
+21.16 
+7 
+38.89%
+SIRT3 SIRT3 23410 11
+205,030 
+226,362 
+21.33 
+17 
+60.00%
+SKP2 SKP2 6502 5
+36,187,946 
+36,219,904 
+31.96 
+15 
+51.72%
+SOCS1 SOCS1 8651 16
+11,255,775
+11,257,540
+1.77
+4
+50.00%
+SOCS3 SOCS3 9021 17
+73,864,457
+73,867,753
+3.30
+4
+50.00%
+MnSOD SOD2 664SNPs Coverage TPP1 (shelterin) ACD 65057 16 66,248,916 66,252,219 3.30 2 50.00% Dyskerin (telomerase) DKC1 1736 X 153,644,225 153,659,158 14.93 1 NA GAR1 (telomerase) GAR1 54433 4 110,956,115 110,965,342 9.23 1 14.29% NHP2 (telomerase) NHP2 55651 5 177,509,072 177,513,567 4.50 2 33.33% NOP10 (telomerase) NOP10 55505 15 32,421,209 32,422,654 1.45 7 45.45% POT1 (shelterin) POT1 25913 7 124,249,676-124,357,273-107.60-25-55.56% TP1 (telomerase) TEP1 -7011-14-19903666-19951419-47.75-21-40.00% TERC (telomerase) TERC -7012-3-170965092-170965542-0.45-1-25.00% TRF1 (shelterin) TERF1 -7013-8-74083651-74122541-38.89-10-60.00% TRF2 (shelterin) TERF2 -7014-16-67946965-67977375-30.41-6-57.14% RAP1 (shelterin) TERF2IP -54386 -16 -74239136 -74248842 -9.71 -4 -50.00% TERT (telomerase) TERT -7015-5-1306287-1348162-41.88-7-41.18% TIN2 (shelterin) TINF2 26277 14 23,778,691 23,781,720 3.03 1 14.29% Total 88 Chr Chromosome position of the gene according to NCBI Build 36, Start (bp) start position of the gene according to NCBI Build 36, End (bp) end position of the gene according to NCBI Build 36, Coverage coverage of genes based on Phased data HapMap II release 22 CEU, NA not available.
+ 
+Characteristics of the eye and hair color pathway proteins: Protein Gene Entrez gene ID Chr Start (bp) End (bp) Size (kb) SNPs Coverage ASIP ASIP 434 20 32,311,832 32,320,809 8.98 5 50.00% HERC2 HERC2 8924 15 26,029,783 26,240,890 211.11 9 41.67% IRF4 IRF4 3662 6 336,739-356443-19.70-14-65.00% MC1R MC1R 4157 16 88,511,788-88,514,886-3.10-3-33.33% OCA2 OCA2 4948 15 25,673,616-26,018,053-344.44-82-58.00% SLC24A4 SLC24A4 123041 14 91,858,678 -92,037,578 -178.90-62-53.68% SLC45A2 SLC45A2 51151 5 33,980,478-34,020,537-40.06-15-44.83% TYR TYR 7299 11 88,550,688 -88,668,575 -117.89-22-56.00% TYRP1 TYRP1 7306 9 12,683,386 -12,700,266 -16.88-11-50.00% Total 223 Chr Chromosome position of the gene according to NCBI Build 36, Start (bp) start position of the gene according to NCBI Build 36, End (bp) end position of the gene according to NCBI Build 36, Coverage coverage of genes based on Phased data HapMap II release 22 CEU would explain the scattered association in the IIS pathway. Abnormalities in growth and/or increased mortality (www.informatics.jax.org; Blake et al., 2011), indicate that these genes are indeed responsible for the growth andthat the pathway as a whole is associated with the trait, rather than relying on a single SNP. This makes SNP set analysis a valuable tool for identifying complex genetic associations. However, it is important to carefully select the pathways and methods used in such analyses, as different approaches can yield contradictory results. In this study, we focused on the IIS and TM pathways and used several different pathway tests to ensure robustness of our findings. We also chose a fixed window of 10 kb for SNP set analysis to take into account regulatory regions surrounding the genes, while acknowledging that this approach may miss some functional SNPs. Our study highlights the potential of SNP set analysis as a complementary approach to single SNP analysis in GWAS, particularly for identifying associations with complex genetic pathways.The combined effect of SNPs within a gene can overcome this problem. Therefore, replication of SNP set analysis is assumed to be more reproducible between genotyping platforms and populations (Luo et al., 2010; Wang et al., 2010). To support these assumptions, our findings should be replicated in other cohorts.
+
+References:
+Allsopp RC. Models of initiation of replicative senescence by loss of telomeric DNA. Exp Gerontol.
+Anselmi CV, Malovini A, Roncarati R, Novelli V, Villa F, Condorelli G, Bellazzi R, Puca AA. Association of the FOXO A locus with extreme longevity in a southern Italian centenarian study. Rejuvenation Res.
+Ashburner M, Ball CA, Blake JA, Botstein D, Butler H, Cherry JM, Davis AP, Dolinski K, Dwight SS, Eppig JT, Harris MA, Hill DP, Issel-Tarver L, Kasarskis A, Lewis S, Matese JC, Richardson JE, Ringwald M, Rubin GM, Sherlock G. Gene ontology: tool for the unification of biology. The Gene Ontology Consortium. Nat Genet.
+Atzmon G et al. Evolution in health and medicine Sackler colloquium: genetic variation in human telomerase is associated with telomere length in Ashkenazi centenarians. Proc Natl Acad Sci USA.
+Bakaysa SL et al. Telomere length predicts survival independent of genetic influences. Aging Cell.
+Beekman M et al. Chromosome 4q25, microsomal transfer protein gene, and human longevity: novel data and a meta-analysis of association studies. J Gerontol A Biol.
+Bischoff C et al. No association between telomere length and survival among the elderly and oldest old. Epidemiology.
+Blackburn EH. Structure and function of telomeres. Nature.
+
+In conclusion, we have shown that genetic variation in genes involved in the IIS and TM pathways is associated with human longevity. In addition, we provide evidence that different self-contained tests show similar results when applied to candidate-based pathway analysis.
+
+Acknowledgments:
+We thank all participants of the Leiden Longevity Study and Rotterdam Study. The research leading to these results has received funding from the European Union's Seventh Framework Programme (FP7/2007-2011) under grant agreement no. 259679. This study was supported by a grant from the Innovation-Oriented Research Program on Genomics (SenterNovem IGE05007), the Centre for Medical Systems Biology, and the Netherlands Consortium for Healthy Ageing (grant 050-060-810), all in the framework of the Netherlands Genomics Initiative, Netherlands Organization for Scientific Research (NWO), and by Unilever Colworth. The generation of Blake JA, Bult CJ, Kadin JA, Richardson JE, Eppig JT. The Mouse Genome Database (MGD): premier model organism resource for mammalian genomics and genetics. Nucleic Acids Res.
+Bluher M, Kahn BB, Kahn CR. Extended longevity in mice lacking the insulin receptor in adipose tissue. Science.
+Cawthon RM et al. Association between telomere length in blood and mortality in people aged 60 years or older. Lancet.
+Chapman J, Whittaker J. Analysis of multiple SNPs in a candidate gene or region. Genet Epidemiol.
+Chen LS et al. Insights into colon cancer etiology via a regularized approach to gene set analysis of GWAS data. Am J Hum Genet.
+Clancy DJ et al. Extension of lifespan by loss of CHICO, a Drosophila insulin receptor substrate protein. Science.
+Codd V et al. Common variants near TERC are associated with mean telomere length. Nat Genet.
+Collins K, Mitchell JR. Telomerase in the human organism. Oncogene.
+De Lange T. Shelterin: the protein complex that shapes and safeguards human telomeres. Genes Dev.
+Deelen J et al. Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell.
+Eriksson N et al. Web-based, participant-driven studies yield novel genetic associations for common traits. PLoS Genet.
+Flachsbart F et al. Association of FOXO A variation with human longevity confirmed in German centenarians. Proc Natl Acad Sci USA.
+Fridley BL, Biernacka JM. Gene set analysis of SNP data: benefits, challenges, and future directions. Eur J Hum Genet.
+Friedman DB, Johnson TE. A mutation in the age gene in Caenorhabditis elegans lengthens life and reduces hermaphrodite fertility. Genetics.
+GiHarrington L, Mihalek T, Mar V, Zhou W, Oulton R, Bass MB, Arruda I, Robinson MO () A mammalian telomerase-associated protein. Science: He H, Wang Y, Guo X, Ramchandani S, Ma J, Shen MF, Garcia DA, Deng Y, Multani AS, You MJ, Chang S () Potb deletion and telomerase haploinsufficiency in mice initiate an ATR-dependent DNA damage response and elicit phenotypes resembling dyskeratosis congenita. Mol Cell Biol: Hjelmborg JV, Iachine I, Skytthe A, Vaupel JW, Mueller M, Koskenvuo M, Kaprio J, Pedersen NL, Christensen K () Genetic influence on human lifespan and longevity. Hum Genet: Hockemeyer D, Palm W, Wang RC, Couto SS, de Lange T () Engineered telomere degradation models dyskeratosis congenita. Genes Dev: Holmans P () Statistical methods for pathway analysis of genome-wide data for association with complex genetic traits. Adv Genet: Holzenberger M, Dupont J, Ducos B, Leneuve P, Geloen A, Even PC, Cervera P, Le BY () IGF-receptor regulates lifespan and resistance to oxidative stress in mice. Nature: Hwangbo DS, Gershman B, Tu MP, Palmer M, Tatar M () Drosophila OXO controls lifespan and regulates insulin signalling in brain and fat body. Nature: Kanehisa M, Goto S () KEGG: kyoto encyclopedia of genes and genomes. Nucleic Acids Res: Kenyon C, Chang J,Gensch E,Rudner A ,Tabtiang R () A C. elegans mutant that lives twice as long as wild type. Nature: Kimura KD, Tissenbaum HA, Liu Y, Ruvkun G () Daf-2, an insulin receptor-like gene that regulates longevity and diapause in Caenorhabditis elegans. Science: Kimura M, Hjelmborg JV, Gardner JP, Bathum L, Brimacombe M, Lu X, Christiansen L, Vaupel JW, Aviv A, Christensen K () Telomere length and mortality: a study of leukocytes in elderly Danish twins. Am J Epidemiol: Levy D, Neuhausen SL, Hunt SC, Kimura M, Hwang SJ, Chen W, Bis JC, Fitzpatrick AL, Smith E, Johnson AD,Gardner JP,Srinivasan SR,Schork N,Rotter JI,Herbig U,Psaty BM,Sastrasinh M,Murray SS,Vasan RS,Province MA,Glazer NL,Lu X,Cao X,Kronmal R,Mangino M,Soranzo N,Spector TD,Berenson GS , Aviv A () Genome-wide association identifies OBFC as a locus involved in human leukocyte telomere length. Proc Natl Acad Sci USA: Giannakou ME,Goss M ,Junger MA,Hafen E,Leevers SJ ,Partridge L () Long-lived Drosophila with overexpressed OXO in adult fat body. Science: Goeman JJ,Buhlmann P () Analyzing gene expression data in terms of gene sets: methodological issues. Bioinformatics: Goeman JJ,van de Geer SA ,de Kort F,van Houwelingen HC () A global test for groups of genes: testing association with a clinical outcome. Bioinformatics: Gudmundsson H,Gudbjartsson DF,Frigge M,Gulcher JR ,Stefansson K () Inheritance of human longevity in Iceland. Eur J Hum Genet: Harley CB,Futcher AB,Greider CW () Telomeres shorten during ageing of human fibroblasts. Nature: Harrington L,Mihalek T,Mar V,Zhou W,Oulton R,Bass MB,Arruda I,Robinson MO () A mammalian telomerase-associated protein. Science: He H,Wang Y,Guo X,Ramchandani S,Ma J,Shen MF,Garcia DA,Deng Y,Multani AS,You MJ,Chang S () Potb deletion and telomerase haploinsufficiency in mice initiate an ATR-dependent DNA damage response and elicit phenotypes resembling dyskeratosis congenita. Mol Cell Biol: Hjelmborg JV,Iachine I,Skytthe A,Vaupel JW,Mueller M,Koskenvuo M,Kaprio J,Pedersen NL,Christensen K () Genetic influence on human lifespan and longevity. Hum Genet: Hockemeyer D,Palm W,Wang RC,Couto SS,de LangeBiology. Proc Natl Acad Sci USA: Li Y, Wang WJ, Cao H, Lu J, Wu C, Hu FY, Guo J, Zhao L, Yang F, Zhang YX, Li W, Zheng GY, Cui H, Chen X, Zhu Z, He H, Dong B, Mo X, Zeng Y, Tian XL () Genetic association of FOXO A and FOXO A with longevity traits in Han Chinese populations. Hum Mol Genet: Lin K, Dorman JB, Rodan A, Kenyon C () Daf- : A member of the HNF- /forkhead family that can function to double the lifespan of Caenorhabditis elegans. Science: Luo L, Peng G, Zhu Y, Dong H, Amos CI, Xiong M () Genome-wide gene and pathway analysis. Eur J Hum Genet: Manolio TA, Brooks LD, Collins FS () A harvest of insights into the genetics of common disease. J Clin Invest: Martin-Ruiz CM, Gussekloo J, van Heemst D, von Zglinicki T, Westendorp RG () Telomere length in white blood cells is not associated with morbidity or mortality in the oldest old: a population-based study. Aging Cell: Mirabello L, Yu K, Kraft P, De Vivo I, Hunter DJ, Prescott J, Wong JY, Chatterjee N, Hayes RB, Savage SA () The association of telomere length and genetic variation in telomere biology genes. Hum Mutat: Morris JZ,Tissenbaum HA,Ruvkun G () A phosphatidylinositol- -OH kinase family member regulating longevity and diapause in Caenorhabditis elegans. Nature: Moyzis RK,Buckingham JM,Cram LS,Dani M,D eaven LL, Jones MD,Meyne J,Ratliff RL,Wu JR () A highly conserved repetitive DNA sequence,(TTAGGG)n, present at the telomeres of human chromosomes. Proc Natl Acad Sci USA: Newman AB, Walter S, Lunetta KL,Garcia ME,Slagboom PE, Christensen K, Arnold AM,Aspelund T,Aulchenko YS,Benjamin EJ,Christiansen L,D'Agostino RB Sr,Fitzpatrick AL,Franceschini N,Glazer NL,Gudnason V,Hofman A,Kaplan R,Karasik D,Kelly-Hayes M,Kiel DP,Launer LJ,Marciante KD,Massaro JM,Miljkovic I,Nalls MA,Hernandez D,Psaty BM,Rivadeneira F,Rotter J,Seshadri S,Smith AV,Taylor KD,Tiemeier H,Uh HW,Uitterlinden AG,Vaupel JW,Walston J,Westendorp RG,Harris TB,Lumley T,van Duijn CM,Murabito JM () A meta-analysis of four genome-wide association studies of survival to age years or older: the cohorts for heart and aging research in genomic epidemiology consortium. J Gerontol A-Biol: O'Dushlaine C,Kenny E,Heron EA,Segurado R,Gill M,Morris DW,Corvin A () The SNP ratio test: pathway analysis of genome-wide association datasets. Bioinformatics: Ogg S,Paradis S,Gottlieb S,Patterson GI,Lee L,Tissenbaum HA,Ruvkun G () The Forkhead transcription factor DAF- transduces insulin-like metabolic and longevity signals in C. elegans. Nature: Pan W () Asymptotic tests of association with SNPs in linkage disequilibrium. Genet Epidemiol. Pawlikowska L,Hu D,Huntsman S,Sung A,Chu C,Chen Joyner AH,Schork NJ,Hsueh WC,Reiner AP,PsatyAtzmon G,Barzilai N,Cummings SR,Browner Kwok PY,Ziv E () Association of common variation in the insulin/IGF signaling pathway with human longevity. Aging Cell: Perls T,Kunkel LM,Puca AA () The genetics of exceptional human longevity. J Mol Neurosci: Purcell S,Neale B,Todd-Brown K,Thomas L,Ferreira Bender D,Maller J,Sklar P,de Bakker PI,Daly MJ,PC () PLINK: a toolset for whole-genome and population-based linkage analyses. Am J Hum: Rafnar T,Sulem P,Stacey SN,Geller F,Gudmundsson Sigurdsson A,Jakobsdottir M,Helgadottir H,Sigurgeirsson B,Aben KK,Blondal T,Thorgeirsson TE,ThLongevity studies in Geno Utwin. 
+
+Twin Res: Sorensen M, Dato S, Christensen K, Mue M, Stevnsner T, Bohr VA, Christiansen L () Replication of an association of variation in the FOXO A gene with human longevity using both case-control and longitudinal data. Aging Cell: Taniguchi CM, Emanuelli B, Kahn CR () Critical nodes in signaling pathways: insights into insulin action. Nat Rev Mol Cell Biol: Tatar M, Kopelman A, Epstein D, Tu MP, Yin CM, Garofalo RS () A mutant Drosophila insulin receptor homolog that extends lifespan and impairs neuroendocrine function. Science: longevity and diapause in Caenorhabditis elegans. Nature: Moyzis RK, Buckingham JM, Cram LS, Dani M, Deaven LL, Jones MD, Meyne J, Ratliff RL, Wu JR () A highly conserved repetitive DNA sequence,(TTAGGG)n , present at the telomeres of human chromosomes. Proc Natl Acad Sci USA: Newman AB, Walter S, Lunetta KL, Garcia ME, Slagboom PE, Christensen K, Arnold AM, Aspelund T, Aulchenko YS, Benjamin EJ, Christiansen L,D'Agostino RB Sr., Fitzpatrick AL, Franceschini N, Glazer NL,Gudnason V,Hofman A,Kaplan R,Karasik D,Kelly-Hayes M,Kiel DP ,Launer LJ ,Marciante KD,Massaro JM,Miljkovic I,Nalls MA,Hernandez D ,Psaty BM,Rivadeneira F,Rotter J,Seshadri S ,Smith AV,Taylor KD,Tiemeier H,Uh HW,Uitterlinden AG,Vaupel JW,Walston J,Westendorp RG,Harris TB,Lumley T,van Duijn CM,Murabito JM () A meta-analysis of four genome-wide association studies of survival to age years or older: the cohorts for heart and aging research in genomic epidemiology consortium. J Gerontol A-Biol: O'Dushlaine C, Kenny E, Heron EA, Segurado R, Gill M, Morris DW, Corvin A () The SNP ratio test: pathway analysis of genome-wide association datasets. Bioinformatics: Ogg S, Paradis S, Gottlieb S, Patterson GI, Lee L, Tissenbaum HA, Ruvkun G () The Fork head transcription factor DAF-transduces insulin-like metabolic and longevity signals in C. elegans. Nature: Tatar M, Bartke A, Antebi A () The endocrine regulation of aging by insulin-like signals. Science: Teichert M, Eijgelsheim M, Rivadeneira F,Uitterlinden AG,van Schaik RH,Hofman A,De Smet PA,van Gelder T,Visser LE,Stricker BH () A genome-wide association study of acenocoumarol maintenance dosage. Hum Mol Genet: Torkamani A, Topol EJ,Schork NJ () Pathway analysis of seven common diseases assessed by genome-wide association. Genomics: van der Horst A,Burgering BM () Stressing the role of Fo proteins in lifespan and disease. Nat Rev Mol Cell Biol: Vulliamy,Beswick,Kirwan,Marron,Digweed,Walne A,Dokal I () Mutations in the telomerase component NHP cause the premature ageing syndrome dyskeratosis congenita. Proc Natl Acad Sci USA: Wang K,Li M,Hakonarson H () Analyzing biological pathways in genome-wide association studies. Nat Rev Genet: Willcox BJ,Donlon TA,He Q,Chen R,Grove JS,Yano K,Masaki KH,Willcox DC,Rodriguez B,Curb JD () FOXO A genotype is strongly associated with human longevity. Proc Natl Acad Sci USA: Yang Q,Zheng YL,Harris CC () POT and TRF cooperate to maintain telomeric integrity. Mol Cell Biol:

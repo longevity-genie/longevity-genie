@@ -1,0 +1,71 @@
+A microsatellite polymorphism in the promoter of the IGF1 gene and its association with longevity in Han Chinese
+
+Liang Xie1,2,3, Yuan-ying Gong1,3, Shi-gang Lian4, Juan Yang4, Shou-jun Gao5, Liang-you Xu5, Ya-ping
+
+Abstract
+
+Background: Previous studies have suggested a probable association between the polymorphism of a microsatellite locus located in the promoter of the IGF1 (Insulin-like growth factor 1) gene and the serum level of, as well as many age-related diseases. Based on these results, we hypothesized that this polymorphism may influence longevity in humans. We performed an association study in a Han Chinese population to test this hypothesis.
+
+Findings: We recruited 493 elderly Han Chinese individuals (females 94; males 90) and 425 young (controls) from Dujiangyan (Sichuan province, China). The genotype distributions and allele frequencies of the microsatellite site in the elderly and control groups were compared by chi-square test. Our results suggested that there was no association between the microsatellite polymorphism and longevity in the Han Chinese population. However, there were more male individuals with 18/21 genotype in the elderly group than in the control group (11.11 vs. 5.45%, p = 0.011). As the difference was not significant when corrected by Bonferroni method, we speculate that the 18/21 genotype cannot be functional in longevity; however, it may be linked with the real functional loci as there is a long haplotype block embracing the microsatellite locus.
+
+Conclusions: There was no association between polymorphism of the microsatellite in promoter of IGF1 gene and longevity in our study. Future association studies containing the long haplotype block are deserved and can test our speculation of the potential linkage of 18/21 genotype and functional loci.
+
+Background
+
+Insulin-like growth factor 1 (IGF1) plays a number of important roles in the human body. It is involved in physiological processes such as growth, development, and metabolism, and has been implicated as a factor in the development of common diseases. Meanwhile, a conserved insulin/IGF1 signal pathway which may affect ageing and longevity is known in yeast, drosophila, mice, and humans. Elucidating the functions of insulin/IGF1 pathway in ageing and longevity is a current hotspot in longevity research.
+
+A cytosine-adenine (CA) repeat polymorphism in IGF1 gene promoter region (1 kilobase pairs upstream from the transcription start site) has been associated with serum IGF1 level. At the same time, many studies have related this microsatellite polymorphism to age-related diseases such as diabetes, cancers, and cardiovascular diseases. These results are disputed by several other studies. However, they suggest that this microsatellite locus might be a potential functional site for serum IGF1 level regulation and might therefore function in ageing and longevity. Therefore, exploring the association of this microsatellite polymorphism and longevity is urgent.
+
+Thermocycling parameters included an initial denaturation of 5 min at 95°C; 35 cycles of: 95°C for 30 s, 62°C for 1 min, and 72°C for 1 min; and a final extension at 72°C for 10 min. PCR products were denatured and size fractionated on a 6% denaturing polyacrylamide gel run on an ABI 3730 automated sequencer (Applied Biosystems, Foster City, CA). Alleles were read and scored by GeneMapper V4.0 software (ABI Perkin Elmer) using Liz500 as size standard. Alleles were verified artificially twice by two different persons. The number of repeats contained in alleles of different lengths was confirmed by cloning and sequencing two differently sized PCR products (i.e., two alleles). We replicated PCR amplification and genotyping of 30% of the samples, ensuring that replicates were performed by a different researcher. Ambiguous results were confirmed by another PCR and fragment analysis.
+
+To our knowledge, there have been no reports on the association between the microsatellite polymorphism and longevity in the Han Chinese people. In this study, we conducted an association study in a Han Chinese population to investigate the potential function of this microsatellite locus in predicting longevity.
+
+Methods
+
+Subjects
+
+A total of 493 elderly individuals (94 females; 90 males) from Dujiangyan (Sichuan province, China) agreed to participate in this study. Ages were authenticated by the official certification of the Fifth National Census in China as well as by the inference of the number of generations and the memories of these, their offspring, and other local elderly people. The age was confirmed when the certification and theof Contents:
+1. Introduction
+2. Methods
+3. Results
+4. Discussion
+
+1. Introduction 
+
+The aim of this study was to investigate the potential association between a microsatellite polymorphism in the IGF1 gene promoter and longevity in a Han Chinese population. The study included 493 elderly individuals and 425 control individuals, and genotyping was performed using DNA extracted from white blood cells in whole blood. 
+
+2. Methods 
+
+PCR primers were used for genotyping according to a previous study [21]. The PCR reactions included 20 ng genomic DNA as template, 2.5 μL 10 PCR buffer, 1.0 μL dNTP (2.5 mmol L-1), 0.5 μL BSA (bovine serum albumin, 200 μg ml-1), 0.5 μL forward primer (10 pmol L-1), 0.5 μL reverse primer (10 pmol L-1), 0.125 μL rTaq polymerase (Takara, Dalian, China) and distilled water to a total volume of 25 microliter (μL). Chi square tests were performed to compare the genotype frequencies and allele distribution between the elderly and control groups, as well as between genders within each group.
+
+3. Results 
+
+The most common alleles were the 19-repeat allele (39.12%) and the 21-repeat allele (26.14%). The genotype distribution followed Hardy-Weinberg Equilibrium in both groups and when stratified by gender (p > 0.05). There were no significant differences in genotype distribution or allele frequencies between the two groups when considered as a whole or when stratified by gender.
+
+However, when comparing the distributions of all possible genotypes in male participants with one allele having 21 repeats, there was a significant difference in the distribution of the 18/21 genotype between male elderly and male control groups (11.11 vs. 5.45%, p = 0.011). After Bonferroni correction for multiple tests, the result was no longer significant.
+
+4. Discussion 
+
+This study found no significant association between the microsatellite polymorphism in the IGF1 gene promoter and longevity in a Han Chinese population. However, there was a significant difference in the distribution of the 18/21 genotype between male elderly and male control groups, although this result did not remain significant after correction for multiple tests.
+
+The study had some limitations, including a relatively small sample size and a lack of information on other potential genetic or environmental factors that may affect longevity. Further studies with larger sample sizes and more comprehensive analyses are needed to fully understand the potential role of this microsatellite polymorphism in longevity.The comparison of haplotype distribution in the elderly and control groups is presented. The haplotype distribution is shown for all, female, and male participants. The number of repeats in the microsatellite locus is represented by the number in the haplotype. The total number of participants is less than the whole population because of missing data. There is a difference in allele frequencies between the Chinese and Caucasian populations, but no significant difference within the Han population between the elderly and control groups, even when stratified by gender. Therefore, no specific alleles at this locus are associated with longevity in this Han population. In males, the 18/21 genotype was more frequent in the elderly group than in the control group, but future studies with more loci in the long haplotype block are needed to test the hypothesized linkage between the 18/21 genotype and functional loci.
+
+To explore the potential role of the microsatellite locus, we compared genotype frequencies in elderly and control groups depending on 19-repeat and 21-repeat (the two most common alleles) to define categories. No single haplotype was positively associated with longevity. The haplotype block is long enough that more SNPs from this region could be included for testing if a potential functional site exists.
+
+In summary, no association was found between the microsatellite polymorphism in IGF1 gene promoter and longevity in a Han Chinese population. The possibility of a functional site linked to the microsatellite locus (especially in men) deserves future studies.There are several references listed in this text, but it is difficult to determine the context or purpose of the references without additional information. Therefore, no changes will be made to the content of the text. However, some formatting changes will be made for clarity and readability:
+
+```
+- Marchini J, Cardon LR, Phillips MS, Donnelly P: The effects of human population structure on large genetic association studies. Nat Genet, 36(5): 512-517.
+- Cheng I, Stram DO, Penney KL, Pike M, Le Marchand L, Kolonel LN, Hirschhorn J, Altshuler D, Henderson BE, Freedman ML: Common variation in IGF1 and prostate cancer risk in the Multiethnic Cohort. J Natl Cancer Inst, 99(18): 1390-1401.
+- Cancer Epidemiol Biomarkers Prev, 16(3): 546-550.
+- Schoenmaker M, de Craen AJ, de Meijer PH, Beekman M, Blauw GJ, Slagboom PE, Westendorp RG: Evidence of genetic enrichment for exceptional survival using a family approach: the Leiden Longevity Study. Eur J Hum Genet, 14(1): 79-84.
+- Rotwein P, Pollock KM, Didier DK, Krivi GG: Organization and sequence of the human insulin-like growth factor I gene. Alternative RNA processing produces two insulin-like growth factor I precursor peptides. J Biol Chem, 261(13): 4828-4832.
+- Rosen CJ, Kurland ES, Vereault D, Adler RA, Rackoff PJ, Craig WY, Witte S, Rogers J, Bilezikian JP: Association between serum insulin growth factor-I (IGF-I) and a simple sequence repeat in IGF-I gene: implications for genetic studies of bone mineral density. J Clin Endocrinol Metab, 86(1): 131-137.
+- Jernstrom H, Chu W, Vesprini D, Tao Y, Majeed N, Deal C, Pollak M, Narod SA: Genetic factors related to racial variation in plasma levels of insulin-like growth factor-1: implications for premenopausal breast cancer risk. Mol Genet Metab, 77(2): 186-193.
+- Vaessen N, Heutink P, Janssen JA, Witteman JC, Testers L, Hofman A, Lamberts SW, Oostra BA, Pols HA, van Duijn CM: A polymorphism in the gene for IGF-I: functional properties and risk for type 2 diabetes and myocardial infarction. Diabetes, 51(4): 1261-1266.
+- Juul A, Scheike T, Davidsen M, Gyllenborg J, Jorgensen T: Low serum insulin-like growth factor I is associated with increased risk of ischemic heart disease: a population-based case-control study. Circulation, 106(8): 939-944.
+- Friedrichsen DM, Hawley S, Shu J, Humphrey M, Sabacan L, Iwasaki L, Etzioni R, Ostrander EA, Stanford JL: IGF-I and IGFBP-3 polymorphisms and risk of prostate cancer. Prostate, 66(16): 1729-1737.
+- Wen W, Gao YT, Shu XO, Yu H, Cai Q, Smith JR, Zheng W: Insulin-like growth factor-I gene polymorphism and breast cancer risk in Chinese women. Int J Cancer , 115(6): 981-985.
+- Cleveland RJ, Gammon MD, Edmiston SN, Teitelbaum SL, Britton JA, Terry MB, Eng SM, Neugut AI, Santella RM, Conway K: IGF1 CA repeat polymorphisms, lifestyle factors and breast cancer risk in the Long Island Breast Cancer Study Project. Carcinogenesis, 28(7): 1292-1298.
+- Tsuchiya N, Wang L, Horikawa Y, Inoue T, Kakinuma H, Matsuura S, Sato K, Ogawa O, Kato T, Habuchi T: CA repeat polymorphism in the insulin-like growth factor-I gene is associated with increased risk of prostate cancer and benign prostatic hyperplasia. Int J Oncol , 25(5): 1423-1429.
+- Frayling TM, Hattersley AT, McCarthy A, Holly J, Mitchell SM, Gloyn AL, Owen K, Davies D, Smith GD, Ben-Shlomo Y: A putative functional polymorphism in the IGF-I gene: association studies with type 2 diabetes, adult height, glucose

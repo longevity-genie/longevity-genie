@@ -1,0 +1,200 @@
+Contents lists are available at the Mechanisms of Ageing and Development journal homepage: www.elsevier.com/locate/mechagedev. 
+
+A genome-wide association study conducted by Almut Nebel et al. confirmed that APOE is the major gene influencing survival in long-lived individuals. The study compared autosomal SNPs in 763 long-lived individuals (LLI; mean age: 99.7 years) and 1085 controls (age: 60.2 years) from Germany. Only one association, namely that of SNP rs4420638 near the gene, achieved genome-wide significance (allele-based P = 1.8 x 10^-10). However, logistic analysis revealed that this association, which was replicated in an independent German population, is fully explicable by linkage disequilibrium with the APOE allele e4, which has been identified as the only major genetic determinant of survival into old age.
+
+Their GWAS failed to identify any autosomal susceptibility genes. One explanation for this lack of success in their study would be limited statistical power for a polygenic phenotype with loci of small effect such as human longevity. A recent GWAS in Dutch LLI independently confirmed the APOE-longevity association, thus strengthening the conclusion that this locus is a very, if not the most, important genetic influence on longevity.
+
+Introduction: The APOE e4 variant has been identified as a major genetic determinant for both Alzheimer's and cardiovascular diseases (Corder et al., 1993; Panza et al., 2004). It is also reportedly associated with a large adverse effect upon survival at advanced age (Schachter et al., 1994), and this association has been replicated in several populations (Christensen et al., 2006). In contrast, variation in the human forkhead box O3A gene (FOXO3A) has been found to be associated with the ability to live long, an effect corroborated by studies in Japanese, German, Italian, US-American, Jewish, Chinese and Danish populations (Anselmi et al., 2009; Flachsbart et al., 2009; Li et al., 2009; Pawlikowska et al., 2009; Soerensen et al., 2010; Willcox et al., 2008). More recently, the exonuclease 1 (EXO1) has been identified as a potential novel longevity gene (Nebel et al., 2009). All rights reserved. (2011 Elsevier Ireland Ltd.)Three genes were detected through candidate-gene approaches. Approximately 25-30% of the variation in adult lifespan is attributable to genetic factors that become more important with increasing age and exert their strongest effects in nonagenarians and centenarians (Gogele et al., 2010; Hjelmborg et al., 2006). However, only a few genetic variants have been found consistently to influence longevity. The first to be discovered was the e4 allele of the apolipoprotein E (APOE) gene, a mortality factor. A few genome-wide association studies (GWAS) for the longevity phenotype have been reported so far. In 2007, a genome-wide screening for longevity-related traits in a community-based population was published, but independent replication of its results is still pending (Lunetta et al., 2007). A meta-analysis of four prospective cohort studies of individuals reaching 90 years and older observed an association of SNP rs9664222 near the gene MINPP1, which did not reach genome-wide significance but was replicated independently (Newman et al., 2010). A case-control GWAS, including a large sample of US-American centenarians, reported 33 replicated genome-wide significant SNPs (Sebastiani et al., in press), but the validity of the results is still critically discussed (Editorial Expression of Concern; http://www.science-mag.org/content/330/6006/912.2.full). More recently, a GWAS in Dutch nonagenarians from the Leiden Longevity Study identified a SNP that tagged the deleterious effects of the APOE e4 allele (Deelen et al., in press).
+
+TaqMan SNP Genotyping Assays and the SNPlex Genotyping System Biosystems, Foster City, USA) on an automated platform (Hampe et al., 2001). Data storage, quality control, and association analysis were performed using a customized database, R v2.7.1 (R Development Team, 2008) (http://www.R-project.org) and PLINK v1.04 (Purcell et al., 2007). Only autosomal SNPs with high-quality genotypes were included in subsequent analyses: SNPs were included if they had (a) a call rate ≥95% in cases and controls and (b) a minor allele frequency (MAF) ≥0.02 in controls or if jMAF(controls) - MAF(cases)j > 0.02 (see Fig. 2 for Manhattan-plot and Supplementary Fig. 1 for QQ-plot) and (c) P value of Hardy Weinberg equilibrium (HWE) in controls >0.01. A total of 664,472 SNPs passed quality control. To reduce the rate of false-positive results, the genotyping quality of the 1600 most significantly associated SNPs (with P values of up to 9.6 x 10^-6) was investigated by visual inspection of the corresponding cluster plots (Supplementary Figs. 2 and 3). More detailed quality control for GWAS and follow-up is described in detail in Supplementary methods.
+
+Genotype-phenotype associations were assessed for statistical significance using a Cochran-Armitage trend (CAT) test and Fisher's exact test, with the latter applied to both an allele- (CCA) and a genotype-based (CCG) case-control comparison. Population stratification was low (genomic inflation (GC) factor (Devlin and Roeder, 1999) for stage 1: 1.064 and stage 2: 1.06). GC-adjusted P values were calculated according to Devlin and Roeder (1999). Logistic regression analysis of rs4420638 and APOE e4 status as influence variables was conducted with and without interaction using R v2.7.1 (R Development Team, 2008). To this end, genotypes were encoded by the number of the major allele of rs4420638 or the e4 allele (APOE), respectively. All tests were two-sided.
+
+Here, we report upon a GWAS using a case-control study design in which we compared more than 760 centenarians and nonagenarians, who represent an exceptional longevity phenotype, with more than 1000 younger controls. We replicated and confirmed APOE as the major genetic determinant of survival into old age. In addition, when we tested the 33 SNPs of Sebastiani et al. in our samples, only the APOE-related marker was significant.rs2075650 showed a significant association. 
+
+2. Materials and Methods 
+
+2.4. Haplotype Analysis 
+
+In stage 1, data underwent haplotype-based association analysis using a two-marker sliding window. Maximum-likelihood estimates of haplotype frequencies were obtained, and posterior probabilities of haplotypic genotypes were calculated for each individual. A score test for association with a binary phenotype was conducted, assuming an additive risk model for haplotypes. SNPs involved in the 5000 most significantly associated haplotypes underwent visual inspection of the corresponding cluster plots (see Supplementary methods). Haplotypes for which both SNPs passed the inspection were genotyped and analyzed in stage 2. The analysis was carried out in R v2.7.1 (R Development Team, 2008), using the haplo.score function of R package haplo.stats v1.3.8 (Schaid et al., 2002), which takes phase uncertainty into account.
+
+In stage 1, we conducted a GWAS study on a total of 763 unrelated German long-lived individuals (LLI) between 94 and 110 years of age (mean age: 99.7 years; Table 1). The control group consisted of 1085 German individuals in stage 1 (age range: 45-77 years; mean age: 60.2 years) obtained from the Popgen (Krawczak et al., 2006) and KORA (Wichmann et al., 2005) biobanks. The regional genetic differences between northern and southern Germany are not significant (Lao et al., 2008; Steffens et al., 2006), so the two populations were pooled. The sex ratio was approximately 1:1. For validation in stage 2, we used a sample of 754 LLI with an age range of 95-108 years and a mean age of 96.9 years. The stage 2 control sample of 860 individuals (age range: 60-75 years; mean age: 67.3 years) was matched to the LLI as closely as possible in terms of ancestry, gender, and geographical origin. The sex ratio in this sample was 12:1 in favor of females. The lack of men in stage 2 implies that any male-specific effects observed in the initial screening may not be detectable in the follow-up sample. The description for the stage 1 samples is given in detail elsewhere (Krawczak et al., 2006; Nebel et al.,2005; Wichmann et al.,2005). For stage 2, it is published in Nebel et al.(2005). There are no mortality data available for the controls. However, based on current predictions, only a negligible proportion of younger controls will become long-lived. The probability for males is even lower (Human Mortality Database: www.demogr.mpg.de). 
+
+The French sample used to investigate rs12741354 in ASTN1 comprised 536 centenarians (mean age: 103.7 years) and 508 younger controls (mean age: 50.8 years). Cases and controls were matched for gender and geographic origin (Blanche et al., 2001). The sex ratio was 5:1 in favor of females.
+
+2.5. Testing for Association of 33 SNPs from Sebastiani et al. in German Samples 
+
+To test the association findings of the study by Sebastiani et al., which were obtained from Illumina 370 CNV chips and Illumina 610 arrays, the German Affymetrix GWAS data had to be imputed since different genotyping technologies had been used. Genotype imputation was carried out using a hidden Markov model algorithm implemented in the software program BEAGLE v3.1.1 (Browning and Browning, 2009) and the HapMap 3 samples from the CEU, TSI, MEX, and GIH populations to infer missing autosomal genotypes in silico. To take imputation uncertainty into account, association analysis between the phenotype and the dosage data (expected allele counts) was performed using PLINK's logistic regression framework for dosage data (with flag-dosage).
+
+3. Results 
+
+DNA was isolated from blood samples of all participants using standard methods. All subjects gave written informed consent prior to participation. The protocols were approved by the respective institutional ethics review boards. The study workflow is given in Fig. 1.
+
+3.1. Stage 1 Analyses 
+
+We ranked the SNPs according to their minimum (P) of min P, P, and P. A total of 58,903 markers (8.9%) showed a significant association.et al., 2009) is located within 100 kb of SNP rs4420638. Therefore, we investigated the association between longevity and three common FOXO3A SNPs (rs2802292, rs2764264 and rs13220810). None of these SNPs showed significant association with longevity in our sample (Supplementary Table 2). We also genotyped SNP rs7514229 in EXO1, a gene that has been associated with DNA repair and cell cycle regulation (Matera et al., 2009), but found no significant association with longevity (Supplementary Table 2). These results suggest that the association between APOC1 and longevity is not mediated by FOXO3A or EXO1. 
+
+PROCESSED TEXT:
+Nominal P value <0.05. To reduce the rate of false-positive minimum results, cluster plots of the 1600 most significantly associated SNPs (all with P values <9.6 x 10^-6) were subjected to post-hoc visual inspection. Genotyping was done using the Affymetrix Genome-Wide Human SNP Array 6.0 (San Francisco, CA, USA) for individuals in stage 1 (see Supplementary methods for details). For validation, markers were genotyped in individuals from stage 2 along with controls. See Table 1 for a description of LLI and controls genotyped in the two stages of the study. 
+
+Stage Sample No. Mean age (years) Median age (years) Age range (years) 
+
+1 LLI 763 99.7 101 94-110 
+1 Controls 1085 60.2 60 45-77 
+2 LLI 754 96.9 97 95-108 
+2 Controls 860 67.3 66.5 60-75 
+
+LLI: long-lived individuals. 
+
+Fig. 1 shows a workflow diagram summarizing the different stages of the study. The association did not withstand Bonferroni correction (Bonferroni-adjusted P = 0.091 assuming 13 tests; see Supplementary CCA methods). As SNP rs12741354 had the second lowest P value, it was also investigated in an independent collection of 536 French centenarians (mean age: 103.7 years) and 508 younger controls (mean age: 50.8 years) (power: 65.5%) where it failed to show any association with longevity (P = 0.86; Supplementary CCA Table 1). 
+
+Sixteen SNPs were selected for follow-up and genotyped in stage 2 (Table 2). Their nominal P values ranged from 1.8 x 10^-10 to 9.5 x 10^-6. Due to multiple testing in GWAS, usually low initial P values in stage 1 are required to be able to replicate the association. Our follow-up study did not have sufficient power to detect SNP-effects in stage 2 with higher P values (>10^-5). Therefore, additional SNPs were not included in our follow-up. Only the association between longevity and SNP rs4420638 near the APOC1 gene achieved genome-wide significance (Bonferroni-adjusted P = 1.2 x 10^-4, based upon 664,472 tests and assuming no CCA correlation between SNPs; see Fig. 2 and Supplementary Fig. 4). The significance of the other 15 SNPs did not withstand Bonferroni correction, thereby highlighting the need for independent validation.
+
+The array-based genotypes of SNP rs4420638 were confirmed by a TaqMan SNP Genotyping Assay (99.4% concordance). SNP rs4420638 is located 14 kb downstream of the APOE locus (Corder et al., 1993) and has previously been shown to be in strong linkage disequilibrium (LD) with it (Coon et al., 2007). Defining APOE e4 by intragenic SNP rs429358, we were able to confirm this LD in the German control sample of stage 2 (r^2 = 0.72, D' = 0.97). Logistic regression analysis including both rs4420638 genotype and APOE e4 status showed that the longevity association of rs4420638 was explicable by its LD with APOE (P = 0.57 for the association between longevity and rs4420638, after adjustment for e4 status). SNP rs4420638 was not further analyzed in the French sample as this is the sample in which the APOE-longevity association was originally detected (Schachter et al., 1994).
+
+The 16 SNPs selected for follow-up were next genotyped in an additional sample of 754 German LLIet al., 2009; Flachsbart et al., 2009; Li et al., 2009; Pawlikowska et al., 2009; Soerensen et al., 2010; Willcox et al., 2008) and the longevity candidate EXO1 (Nebel et al., 2009) yielded comparatively high P values of 0.007 and 0.035, respectively, and were therefore far too large to qualify for follow-up in stage 2. Another SNP, rs12741354 in the astrotactin 1 (ASTN1) gene, yielded a nominally significant P value of 0.007, but this was too large to qualify for follow-up in stage 2. 
+
+```
+Chr1 me 
+Chr2 emm 
+Chr3 cee 
+Chr4 meme 
+Chr5 meme 
+Chr6 mem 
+Chr7 eee 
+Chr8 eee 
+Chr9 meme 
+Chri0 eee 
+Chri1 sme 
+Chri2 emm 
+Chri3 meme
+Chri4 mmm
+Chri5 Ga a nena re ae
+```
+
+Figure 2. Manhattan plot. Calculated for all SNPs that passed quality criteria and showed good cluster plots (cluster plots were only inspected up to a P value of 9.6 x 10^-6). Marker positions are in NCBI's build 36. Marker rs4420638 is the only SNP with genome-wide significance (red line). The large peak of significant SNPs on chromosome 6 could not be replicated in stage 2. The plot was created using Haploview4.2 and allelic P values. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of the article.)
+
+Table 2. Summary statistics for the 16 SNPs most significantly associated with longevity in the GWAS (stage 1).
+
+```
+Chr. Position B36 ID MAF (LLI) AF P P OR 95% C.I. Bonferroni GC CAT CCA CCG (controls) adjusted P CCA
+1 175309154 rs12741354 0.451 0.527 7.4x10^-6 8.0x10^-6 4.3x10^-5 0.74 0.65-0.84 1
+2 28515768 rs2338013 0.194 0.264 7.4x10^-7 8.9x10^-7 3.4x10^-6 0.67 0.58-0.79 0.591
+5 52022995 rs350450 0.219 0.287 4.2x10^-6 3.2x10^-6 2.2x10^-5 0.69 0.59-0.80 1
+6 29731718 rs29228    0.176   0.238   4.7x10^-6   4.5x10^-6   2.5x10^-5   0.68   0.58-0.80   1
+6    29753592    rs3129063    0.175    0.240    2.2x10^-6    2.1x10^-6   .1x10^-5    .67     .57-.79     l
+6    '29778631    rs3129046    .200     .276      l.lx10^~7      a.OxlO^S      eAxlO^~7      .66     .56-.77     .053
+6    29785931    rs1610742    .200     .276      1.6x10^-7      1.2x10^-7      8.7x10^-7      .66     .56-.77     .079
+6    29808162    rs1610601    .200     .270      1.1x10^-6      l.OxlO^S      6.0x10^-6      .68     .58-.79     .664
+6    29834025    rs1633063    .202     .270      2.3x10^-6      l.SxlO^S      l.lx10^-5     .68     .58-.80     l
+9 10715294 rs11790055   0.375   0.305   7.1x10^-6   9.4x10^-6   2.1x10^-5   1.38   10.93, 0.78, 1.11, 1, 0.425, 6, 29753592, rs3129063, 0.202, 0.216, 0.353, 0.367, 0.528, 0.92, 0.77,
+1.10, 1, 0.354, 6, 29778631, rs3129046, 0.237, 0.247, 0.523, 0.525, 0.744, 0.95, 0.80,
+1.12, 1, 0.432, 6, 29785931, rs1610742, 0.234, 0.246, 0.454, 0.470, 0.742, 0.94, 0.79,
+1.11, 1, 0.378, 6, 29808162, rs1610601, 0.225, 0.234, 0.548, 0.575 ,0 .734 ,095 ,080
+1 .13 ,1 ,0549 ,6 ,29834025 ,rs1633063 ,0224 ,0240 ,0289 ,0303 ,0464 ,091 ,077
+1 .08 ,1 ,0255 ,9 ,10715294 ,rs11790055 ,0328 ,0327 ,0942 ,0969 ,0876 ,101 ,086
+1 .17 ,1 ,0929 ,9 ,10726580 ,rs10959258 ,0331 ,0329 ,0897 ,0895 ,0831 ,101 .087
+1 .17 ,1 .0897 .13 .46905819 rs9595687 .053 .048 .470 .507 .957 1.13 .81
+1 .56 ,1 .0488 .13 .47001519 rs1575892 .055 .049 .442 .461 .75 1.13 .82
+1 .56 ,1 .0504 ,16 ,73418057 rs16947526 0077 ,0.087 ,0314 ,0354 ,0.628 ,088 ,068
+1.14, 1, 0.338, 18, 54052953, rs158869, 0.450, 0.425, 0.169, 0.175, 0.308, 1.11, 0.96,
+1.28, 1, 0.226, 19, 50114786, rs4420638, 0.104, 0.174, 1.9e10^08, 1.1e10^08, 8.8e10^08,
+0.55, 0.44-0.68, 1.3e07
+
+P P P OR 95% C.I., Bonferroni adjusted P GC P value SNP call rate (LLI) SNP call rate (controls) CAT CCA CCG CCA 
+0.006 0.007 0.021 
+0.82 0.71 
+0.94 
+0.084 
+0.02 
+0.95 
+0.98 
+0.496 
+0.527 
+0.469 
+1.06 
+0.90-1-25 
+1 
+032-2(cid:3)10(cid:3)07 
+0209-2(cid:3)10(cid:3)05 
+044-2(cid:3)10(cid:3)07 
+0205-4(cid:3)10(cid:3)07 
+0411-1(cid:3)10(cid:3)11 
+0233-7(cid:3)10(cid:3)08 
+0922-2(cid:3)10(cid:3)06 
+1 
+0.98 
+0.185 
+0.621 
+0382-1(cid:3)10(cid:3)07 
+0280-7(cid:3)10(cid:3)12 
+0910-2(cid:3)10(cid:3)06 
+
+Bonferroni adjustment was made for 13 tests (see Supplementary methods). For details see legend to Table 2. Table 4 for SNPs included in the 5000 most significantly associated haplotypes yielded only 19 marker pairs with high-quality genotypes for both SNPs. Of these, two haplotypes including the APOE locus and four redundant haplotypes from a region of strong LD on chromosome 6 were not considered for follow-up. Thus, 13 haplotype pairs were chosen for validation in the stage 2 samples. However, none of them showed aConsidered, 51,912 (7.7%) showed a nominally significant association with longevity in a score test assuming an additive risk model for haplotypes (P < 0.05). Visual inspection of the scatter plots scores. 
+
+Discussion: Our study confirmed the known association between APOE and survival at advanced age but failed to identify any additional susceptibility loci for longevity. This result is in marked contrast to other complex phenotypes for which GWAS have successfully uncovered multiple genetic risk factors at unprecedented speed and with high levels of reproducibility (Esparza-Gordillo et al., 2009; Franke et al., 2008; Hofmann et al., 2008). One explanation for this lack of success in our study would be that GWAS provides only limited statistical power for a polygenic phenotype with loci of small effect such as human longevity. GWAS is more suitable for the detection of genetic variants with large effects, which presumably explain only a small fraction of the total variation (Barrett et al., 2008). It is assumed that many causal gene variants, each with a weak to moderate contribution, influence our ability to become long-lived (Christensen et al., 2006). A recent study supports this notion and concludes that the alleles with small individual effects may jointly influence lifespan so that the resulting impact can be both substantial and significant (Yashin et al., 2010).
+
+Table 5: Association results of SNPs identified in the GWAS of Sebastiani et al. in the German GWAS dataset. Markers not genotyped on the Affymetrix 6.0 Chip were:
+
+Chr. Position B36 ID MAF (controls) AF (LLI) P value INFO score 
+
+1 243871287 rs10924270 0.461 0.467 0.738 0.795 
+1 246927264 rs4916176 0.125 0.122 0.820 
+2 5210976 rs1377638 0.132 0.123 0.380 0.979 
+2 171530712 rs4668356 0.054 0.065 0.185 0.991 
+2 173328711 rs6433379 0.123 0.131 0.527 0.914 
+2 234432806 rs579327 0.177 0.159 0.152 
+2 235521853 rs2042831 0.076 0.080 0.488 0.940 
+3 14874782 rs294636 0.183 0.189 0.566 0.963 
+3 97267562 rs4393926 0.341 0.330 0.543 (in LD with rs4390941, a r2=0.99) 
+4 80183611 rs1455311 0.177 0.172 0.767 0.991 
+5 55450713 rs415407 0.467 0.471 0.834 (in LD with rs9899404, a r2=0.99) 
+5 65819465 rs10069397 0.484, [space here] [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]    [remove comma]    [add space after comma]    [add space after semicolon] 0.055 0.993 
+5 83892667 rs7717527 0.182 0.196 0.443 0.967 
+6 31237686 rs2073724 0.086 0.085 0.861 
+6 33198814 rs4713607 0.495 0.519 0.197 1.000 
+8 58468572 rs954295 0.212 0.207 0.764 0.992 
+8 58940672 rs1436013 0.214 0.219 0.714 0.885 
+8 79864431 rs2717536 NA NA NA 
+8 110758554 rs3133926 0.215, [space here] [remove comma]   [remove space after comma]   [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]   [space here]   [remove hyphen]   [space here]  One point to note is the detection of the longevity gene FOXO3A (Anselmi et al., 2009; Flachsbart et al., 2009; Li et al., 2009; Pawlikowska et al., 2009; Soerensen et al., 2010; Willcox et al., 2008) and the candidate EXO1 (Nebel et al., 2009) in our GWAS. The P values obtained were 0.007 and CCA 0.035, respectively. However, these P values were too large to qualify the corresponding SNPs for follow-up in stage 2, suggesting that our study was likely to miss most genetic factors of similarly small effect (i.e. OR   1.4). Furthermore, we could not detect male-specific effects due to the small number of men in the replication study. The German and French centenarian/LLI samples used in this study were among the largest to-date, but they may not have been powerful enough to detect small-effect variants in a longevity GWAS. For example, the German sample used in stage 1 had a power of only 3.2% to detect an association of an OR of 1.4 (minor allele frequency of 50% and applying a significance level of 7.5 x 10^8 (Supplementary Fig. 5)).
+
+Acknowledgements
+We would like to acknowledge the excellent technical support provided by all laboratory staff at the Institute of Clinical Molecular Biology, the Popgen biobank, and the Biological Resource Center of the Fondation Jean Dausset-CEPH. This study was supported by the German Federal Ministry of Education and Research (BMBF) through the German National Genome Research Network (NGFN-2 and NGFN-plus), the DFG Excellence Cluster Inflammation at Interfaces, the Helmholtz Center Munich German Research Center for Environmental Health, the Munich Center of Health Sciences (MC Health) as part of LMUinnovativ, and the French Ministère de l'Enseignement Supérieur et de la Recherche.
+
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found in the online version at doi:10.1016/j.mad.2011.06.008.
+
+References
+Anselmi, C.V., Malovini, A., Roncarati, R., Novelli, V., Villa, F., Condorelli, G., Southern Italian Centenarian Study. Rejuvenation Res. 12(3), 201-206 (2009).
+Barrett, J.C., Hansoul, S., Nicolae, D.L., Cho, J.H., Duerr, R.H., Rioux, J.D., Brant, Silverberg, M.S., Taylor, K.D., Barmada, M.M., Bitton, A., Dassopoulos, T., Lathrop, M., Belaiche, J., Dewit, O., Gut, I., Heath, S., Laukens, D., Mni Rutgeerts, P., Van Gossum, A., Zelenika, D., Franchimont, D., Hugot, J.P., Vos M., Vermeire S., Louis E.. Cardon L.R.. Anderson C.A.. Drummond H.. Nimmo E.. Ahmad T.. Prescott N.J.. Onnie C.M.. Fisher S.A.. Marchini J.. Ghori J. ..Bumpstead S..Gwilliam R..Tremelling M..Deloukas P..Mansfield J..Satsangi J..Mathew C.G.. Parkes M.. Georges M.. Daly M.J.. Genome-wide association study of ulcerative colitis identifies three new susceptibility loci, including the HNF4A region. Nat. Genet. 41(12), 1330-1334 (2009).
+Blanche, H., Cabanne, L., Sahbatou, M., Thomas, G.. A study of centenarians: are ACE and APOE associated with longevity? CR Acad. Sci. 318(1), 23-29 (1995).
+Browning, B.L., Browning, S.R.. A unified approach to genotype and haplotype-phase inference for large data sets of trios and unrelated individuals. Am. J. Hum. Genet. 84(2), 210-223 (2009).
+Chen, Y., Xiong, D.H., Guo, Y.F., Pan, F., Zhou, Q., Zhang, F., Deng, H.W.. Pathway-based genome-wide association analysis identified the importance of the Ephrin-Ep pathway for femoral neck bone geometry. Bone 48(4), 964-971 (2011).
+de CraA.J., Rivadeneira, F., Geus, E.J., Perola, M., van der Ouderaa, F.J., Gunn, D.A., Boomsma, D.I., Linden, A.G., Christensen, K., van Duijn, C.M., Heijmans, B.T., Termaat, J.J., Westendorp, R.G., Slagboom, P.E. Genome-wide association identifies a single major locus contributing to survival into old age: the locus revisited. Aging Cell (in press). 
+
+Devlin, B. and Roeder, K. Genomic control for association studies. Biometrics. 
+
+Esparza-Gordillo, J., Weidinger, S., Folster-Holst, R., Bauerfeind, A., Ruschendorf, F., Schreiber, S., Franke, A., Vogler, R., Heath, S., Baurecht, H., Novak, N., Illig, T., Lee-Kirsch, M.A., Ciechanowicz, A., Kurek, M. and Piskackova T.M. A common variant on chromosome q associated with atopic dermatitis. Nat. Genet.
+
+Nebel A., Anselmi C.V., Malovini A., Roncarati R., Novelli V., Villa F., Condorelli G.,
+Bellazzi R. and Puca A.A. (2009) Association of the FOXO3A locus with extreme longevity in a southern Italian centenarian study.
+
+A previous meta-analysis of four prospective cohort studies revealed a statistically significant and replicated association of rs9664222 with longevity (defined as reaching 90 years and older) (Newman et al. 2010). This SNP did not show any association in our large case-control samples (P = 0.611). This CCA result could be due to the different designs and/or levels of statistical power of the two studies. Moreover, we also tested the 33 polymorphisms from Sebastiani et al. (in press) in our imputed GWAS dataset, of which SNP rs2075650 that is in LD with the known APOE alleles (Sebastiani et al., in press) showed a significant association in our German sample. Also, the Dutch GWAS identified an APOE-related SNP as the most relevant marker with a deleterious effect on survival into old age. No other major longevity locus was found (Deelen et al., in press). Thus, our study and the independent Dutch study (Deelen et al., in press) both strengthen the conclusion that APOE is a very important genetic factor, and it may very well be the most relevant one influencing human longevity.
+
+In summary, the GWAS carried out in our study revealed apart from APOE no novel candidate genes for longevity in humans. Larger samples, a more specific and genetically enriched longevity phenotype (so-called super-centenarians), or a meta-analysis involving several thousands of participants may be required to successfully and reliably identify additional genes through a GWAS. In addition, some genetic factors involved in longevity could not be detected in the present study on principal grounds, including low-frequency polymorphisms, copy-number variations, or epigenetic changes. Furthermore, it is noteworthy that although individual-specific mechanisms may be important for longevity, our study only considers probabilities on a population level. In the future, a genome-wide pathway-based approach (Chen et al., 2009; Luo et al., 2010) could be a useful means to explore the vascular genetic factors and human longevity.
+
+Marciante K.D., Massaro J.M., Miljkovic I., Nalls M.A., Hernandez D., Uh H.W., Uitterlinden A.G., Vaupel J.W., Walston J., Westendorp R.G., Lumley T., van Duijn C.M., and Murabito J.M. A meta-analysis of genome-wide association studies of survival to age 90 years or older: Cohorts for Heart and Aging Research in Genomic Epidemiology J. Gerontol. A Biol. Sci. Med. Sci.
+
+Pawlikowska L., Hu D., Huntsman S., Sung A., Chu C., Chen J., Joyner N.J., Hsueh W.C., Reiner A.P., Psaty B.M., Atzmon G., Barzilai N., Ziv E. and Browner W.S. Association of common variation in the insulin/IGF signaling pathway with human longevity. Cell.
+
+Sklar P., de Bakker P.I.W., Daly M.J. and Sham P.C. PLINK: a tool set for genome association and population-based linkage analyses. Am. J. Hum.
+
+R Development Core Team (2011) R: A language and Environment forSorry, but there is no text enclosed in ``` ```. Please provide the text for me to proofread and improve.Karasik, D., Benjamin, E.J., Guo, C.Y., Govindaraju, R., Kiel, D.P., Kelly-Hayes, M., Massaro, J.M., Pencina, M.J., Seshadri, S., Murabito, J.M. Genetic correlates of longevity and selected age-related phenotypes: a genome-wide association study in the Framingham Study. BMC Med. Genet. (Suppl.), S.
+
+Luo, L., Peng, G., Zhu, Y., Dong, H., Amos, C.I., Xiong, M. Genome-wide gene and pathway analysis. Eur. J. Hum. Genet.
+
+Nebel, A., Croucher, P.J., Stiegeler, R., Nikolaus, S., Krawczak, M., Schreiber, S. No association between microsomal triglyceride transfer protein (MTP) haplotype and longevity in humans. Proc. Natl. Acad. Sci. U.S.A.
+
+Nebel, A., Flachsbart, F., Till, A., Caliebe, A., Blanche, H., Arlt, A., Hasler, R., Jacobs, G., Kleindorp, R., Franke, A., Shen, B., Nikolaus,S.Krawczak,M.Rosenstiel,P.Schreiber,S.A functional EXO promoter variant is associated with prolonged life expectancy in centenarians. Mech. Ageing Dev.
+
+Newman,A.B.Walter,S.Lunetta,K.L.Garcia,M.E.Slagboom,P.E.Christensen,K.Arnold,A.M.Aspelund,T.Aulchenko,Y.S.Benjamin,E.J.Christiansen,L.DAgostino Sr,R.B.Fitzpatrick,A.L.Franceschini,N.Glazer,N.L.Gudnason,V.Hofman,A.Kaplan,R.Karasik,D.Kelly-Hayes,M.Kiel,D.P.Launer,L.J.Marciante,K.D.Massaro,J.M.Miljkovic,I.Nalls,M.A.Hernandez,D.Psaty,B.M.Rivadeneira,F.Rotter,J.Seshadri,S.Smith,A.V.Taylor,K.D.Tiemeier,H.Uh,H.W.Uitterlinden,A.G.Vaupel,J.W.Walston,J.Westendorp,R.G.Harris,T.B.Lumley,T.van Duijn,C.M.Murabito,J.M. 2010. A meta-analysis of four genome-wide association studies of survival to age 90 years or older: the Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium.

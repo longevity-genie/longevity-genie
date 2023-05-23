@@ -1,0 +1,67 @@
+effect on human longevity, possibly by modulating the risk of age-related disorders.
+
+Background:
+
+There is increasing evidence suggesting that genetics plays a significant role in human longevity. One or more genetic variants located on chromosome 9p21.3 and tagged by the single-nucleotide polymorphism (SNP) rs1333049 (G=C) are major risk factors for age-related disorders, such as acute myocardial infarction (AMI), stroke, and dementia. We hypothesized that this locus may have widespread effects on aging phenotypes and, as such, influences the ability to achieve a long and healthy life. 
+
+Aim:
+
+The aim of this study was to assess whether the rs1333049 polymorphism is associated with human longevity. 
+
+Methods:
+
+We tested the rs1333049 polymorphism in a sample of 80 healthy centenarians (39 men and 41 women aged 100-104), 218 patients younger than 40 who experienced an AMI, and a control group of 258 healthy individuals matched to AMI patients for age and sex. The frequency of the C allele of rs1333049 was significantly lower in centenarians compared to young controls, whereas AMI patients showed a higher frequency. After adjustment for gender and traditional factors, the C allele of rs1333049 remained significantly associated with a reduced likelihood to reach longevity: Odds ratio (OR) 0.64, 95% confidence interval (CI) 0.39-0.89, p < 0.01. Our data suggest that the rs1333049 polymorphism at 9p21.3 may influence successful human longevity possibly by modulating the risk of age-related disorders.
+
+Results:
+
+The frequency of the C allele of rs1333049 was significantly lower in centenarians compared to young controls, whereas AMI patients showed a higher frequency. After adjustment for gender and traditional vascular risk factors, the C allele of rs1333049 remained significantly associated with a reduced likelihood to reach longevity: Odds ratio (OR) 0.64, 95% confidence interval (CI) 0.39-0.89, p < 0.01.
+
+Conclusions:
+
+Our data suggest that the rs1333049 polymorphism at 9p21.3 may influence successful human longevity, possibly by modulating the risk of age-related disorders. Commercial DNA tests for this locus are already available and directly marketed to the general public. 
+
+Background:
+
+Successful aging is characterized by a marked delay or absence from major age-related diseases and disabilities, including acute myocardial infarction (AMI), stroke, and dementia, which respectively are the first, third, and fourth largest causes of mortality in Western countries. Genetic influences account for about a quarter of the variance in adult human life span, and it is likely that longevity-predisposing genetic polymorphisms may allow carriers to escape from these leading causes of mortality.
+
+Discussion:
+
+The interrelationships between successful aging and escape from age-associated illnesses, including atherothrombosis and dementia, have prompted growing research efforts in centenarian subjects aiming at entangling the biological and genetic pathways of human longevity. In the present work, we provide evidence that Caucasian centenarians have a lower prevalence of the risk allele of rs1333049 at the 9p21.3 locus. This finding, coupled with the high prevalence of this allele observed in patients with precocious AMI, further strengthens the concept that this variant rs1333049 is strongly associated with age-related disorders. The association of the C allele of rs1333049 remained significant after multiple adjustment for potential confounders. Therefore, this polymorphism appears to exert an independent effect on human longevity possibly by modulating the risk of age-related disorders. 
+
+Methods:
+
+Study participants:
+
+We tested the rs1333049 polymorphism in a sample of 80 centenarians (39 men and 41 women aged 100-104; body mass index [BMI], 21.8±3.5kg/m2), 218 patients younger than 40 who experienced precocious AMI (165 men and 53 women, aged 24-39; BMI, 26.2±3.1kg/m2), and a control group of 258 healthy young volunteers (128 men and 120 women, aged 22-39; BMI, 22.7±3.8kg/m2). Part of the sample has been described previously. Centenarians did not have major age-related diseases (i.e., type 2 diabetes mellitus, severe cognitive impairment, clinically evident cancer, ischemic heart disease, liver or renal insufficiency, severe physical impairment), but some of them showed decreased visual or auditory acuity. Subjects with precocious AMI were nondiabetic patients younger than 40 who were consecutively recruited at the cardiology departments of Alessandro Manzoni Hospital, Lecco, Italy.Effect on Human Longevity. Data Analysis The study power was calculated using the StatMate software, version 2.0 (GraphPad Inc., San Diego, CA). A test for deviation from the Hardy-Weinberg equilibrium was performed. Table: Distribution of rs Genotype and Allele Frequency for Centenarians 1.133304 and Healthy Young Controls. Genotype Allele Study group n GG GC CC G C Centenarians 80 22 (25.0%) 42 (52.5%) 16 (22.5%) 86 (53.7%) 74 (46.3%) Healthy young controls 258 47 (18.2%) 132 (51.2%) 79 (30.6%) 226 (43.8%) 290 (56.2%). Longevity emerged from studies in humans. Mech Ageing Dev; : Gonos ES. Genetics of aging: Lessons from centenarians. Exp Gerontol; : Atzmon G, Rincon M, Rabizadeh P, Barzilai N. Biological evidence for inheritance of exceptional longevity. Mech Ageing Dev; : Heijmans BT, Westendorp RG, Slagboom PE. Common gene variants, mortality and extreme longevity in humans. Exp Gerontol; : Helgadottir A, Thorleifsson G, Manolescu A, Gretarsdottir S, Blondal T, Jonasdottir A, Jonasdottir A, Sigurdsson A, Baker A, Palsson A, Masson G, Gudbjartsson DF, Magnusson KP, Andersen K, Levey AI, Backman VM, Matthiasdottir S, Jonsdottir T, Palsson S, Einarsdottir H, Gunnarsdottir S, Gylfason A, Vaccarino V, Hooper WC, Reilly MP, Granger CB, Austin H, Rader DJ, Shah SH, Quyyumi AA, Gulcher JR, Thorgeirsson G, Thorsteinsdottir U, Kong A, Stefansson K. A common variant on chromosome p affects the risk of myocardial infarction. Science; : Abdullah KG, Li L, Shen GQ, Hu Y, Yang Y, Ma inlay KG, Topol EJ, Wang QK. Four SNPs on chromosome p confer risk to premature, familial CAD and MI in an American Caucasian population (GenQuest). Ann Hum Genet; : Shen GQ, Li L, Rao S, Abdullah KG, Ban JM, Lee BS, Park JE, Wang QK. Four SNPs on chromosome p in a South Korean population implicate a genetic locus that confers high cross-race risk for development of coronary artery disease. Arterioscler Thromb Vasc Biol; : Chen Z, Qian Q, Ma G, Wang J, Zhang X, Feng Y, Shen C, Yao Y. A common variant on chromosome p affects the risk of early-onset coronary artery disease. Mol Biol Rep; : Shen GQ, Rao S, Martinelli N, Li L, Olivieri O, Corrocher R, Abdullah KG, Hazen SL, Smith J, Barnard J,
+Plow EF, Girelli D and Wang QK. Association between four SNPs on chromosome p and myocardial infarction is replicated in an Italian population. J Hum Genet; : Helgadottir A,
+Thorleifsson G,
+Magnusson KP,
+Gretarsdottir S,
+Steinthorsdottir V,
+Manolescu A,
+Jones GT,
+Rinkel GJ,
+Blankensteijn JD,
+Ronkainen A,
+Jaaskelainen JE,
+Kyo Y,
+Lenk GM,
+Sakalihasan N,
+Kostulas K,
+Gottsater A,
+Flex A,
+Stefansson H,
+Hansen T,
+Andersen G,
+Weinsheimer S,
+Borch-Johnsen K,
+Jorgensen T,
+Shah SH,
+Quyyumi AA,
+Granger CB,
+Reilly MP,
+Austin H,
+Levey AI,
+Vaccarino V,
+Palsdottir E,
+Walters GB, Jonsdottir T, Snorradottir S, Magnusdottir D, Gudmundsson G, Ferrell RE, Sveinbjornsdottir S, Hernesniemi J, Niemela M, Limet R, Andersen K, Sigurdsson G, Benediktsson R, Verhoeven EL, Teijink JA, Grobbee DE, Rader DJ, Collier DA, Pedersen O, Pola R, Hillert J, Lindblad B, Valdimarsson EM, Magnadottir HB, WijmTomoike H, Goto Y, Nonogi H, Takahashi R, Iwai N. Validation of the association of genetic variants on chromosomes p and q with myocardial infarction in a Japanese population. Circ J; :. Hunter DJ, Khoury MJ, Drazen JM. Letting the genome out of the bottle - will we get our wish? N Engl J Med; :. Farzaneh-Far R, Na B, Schiller NB, Whooley MA. Lack of association of chromosome p genotype with cardiovascular structure and function in persons with stable coronary artery disease: The Heart and Soul Study. Atherosclerosis; :. Geroldi D, Falcone C, Minoretti P, Emanuele E, Arra M, D'Angelo A. High levels of soluble receptor for advanced glycation end products may be a marker of extreme longevity in humans. J Am Geriatr Soc; :. Bostock CV, Soiza RL, Whalley LJ. Genetic determinants of ageing processes and diseases in later life. Maturitas; :. Karvanen J, Silander K, Kee F, Tiret L, Salomaa V, Kuulasmaa K, Wiklund PG, Virtamo J, Saarela O, Perret C, Perola M, Peltonen L, Cambien F, Erdmann J, Samani NJ, Schunkert H, Evans A; MORGAM Project. The impact of newly identified loci on coronary heart disease, stroke and total mortality in the MORGAM prospective cohorts. Genet Epidemiol; :. Liu Y, Sanoff HK, Cho H, Burd CE, Torrice C, Mohlke KL, Ibrahim JG, Thomas NE and Sharpless NE. INK4a/ARF transcript expression is associated with chromosome p variants linked to atherosclerosis. PLoS One; :e.

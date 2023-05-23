@@ -1,0 +1,51 @@
+A gender-dependent genetic predisposition to produce high levels of IL-6 is detrimental for longevity. Massimiliano Bonafè, Fabiola Olivieri, Luca Cavallone, Simona Giovagnetti, Francesca Marchegiani, Maurizio Cardelli, Carlo Pieri, Maurizio Marra, Roberto Antonicelli, Rosmarie Lisa, Maria Rosaria Rizzo, Giuseppe Paolisso, Daniela Monti and Claudio Franceschi conducted a study on the IL-6 promoter genetic variability at 174 C/G locus and its effect on IL-6 serum levels in a total of 700 people from 60 to 110 years of age, including 323 centenarians. The study found that the proportion of homozygotes for the G allele at 174 locus decreases in centenarian males but not in centenarian females. Moreover, only among males, homozygotes for the G allele at 174 locus have higher IL-6 serum levels compared to carriers of the C allele. Overall, their data suggest that individuals who are genetically predisposed to produce high levels of IL-6 during aging, i.e. 174 locus GG homozygous men, are disadvantaged for longevity.
+
+Keywords: IL-6 / Aging / Centenarians / Polymorphism
+
+Introduction
+
+Recent literature indicates that elevated IL-6 serum levels are associated with diseases, disability and mortality in the elderly. In this study, researchers examined the IL-6 promoter genetic variability at 174 C/G locus and its effect on IL-6 serum levels in a total of 700 people ranging from 60 to 110 years of age including 323 centenarians. An age-related increase of IL-6 concentration has been found in serum, plasma, and supernatants of mononuclear blood cell cultures from elderly people and centenarians. IL-6 is a pleiotropic cytokine that regulates proliferation, differentiation, and activity of a variety of cell types. It plays a pivotal role in neuroendocrine and immune system homeostasis, particularly in the balancing of the pro-inflammatory/anti-inflammatory pathways. IL-6 dysregulation has been thought to be involved in the pathogenesis of a variety of age-related diseases, such as diabetes and atherosclerosis, which have a substantial inflammatory pathogenesis.
+
+Results
+
+A total of 700 individuals (482 women and 218 men), ranging from 60 to 110 years of age, was subdivided into three age-groups (60-80, 81-99, and ≥99 years of age) and was assessed for 174 C/G locus variability. CC and CG genotypes were grouped and indicated as C+, and GG genotype was named as C. Gender analysis revealed that elderly and long-lived men had similar C allele frequency (24% in both groups), while the frequency of the C allele was increased in centenarian men (35%). Accordingly, C individuals were significantly under-represented among centenarian men (38%), while no difference was found between elderly and long-lived men (58% in both groups). No difference was found when the frequency of the C allele and the percentage of C+ / C individuals were analyzed in the three age groups of women.
+
+The impact of 174 C/G locus on IL-6 serum levels was evaluated in a subgroup of 269 individuals. Data showed that in all three age groups, C men had higher IL-6 serum levels than C+ men. Statistical analysis revealed that among elderly people, C men had the highest IL-6 serum levels, and that C+ men had the lowest IL-6 serum levels in centenarians. In women, the impact of 174 C/G in each age group on IL-6 was not significant.
+
+Discussion
+
+The study's main finding is that those individuals who are genetically predisposed to produce high levels of IL-6 during aging, i.e. C men at IL-6 174 C/G locus, have a reduced capacity to reach the extreme limits of human life-span. On the other hand, the capability of producing low levels of IL-6 throughout life-span (C+ individuals) appears to be beneficial for longevity, at least in men. A great deal of data indicates that aging is characterized by an imbalance of pro-inflammatory status, and that inflammatory markers, IL-6 in particular, are associated with age-related diseases and predict disability and mortality in the elderly. Accordingly, the data presented here suggest that in an aging population, those people who have the tendency to produce elevated IL-6 quantities are less likely to live longer.Individuals who are frail are less likely to reach the goal of longevity, and this is possibly due to their increased susceptibility to developing age-related inflammatory diseases. In this context, the 174 C/G marker could be useful in identifying these individuals even before the onset of any clinical or biochemical features. This investigation also found that women experience high IL-6 serum levels later in life than men, and that the age-related increase of IL-6 serum levels in women is quite independent of the 174 C/G locus activity. The inhibitory effect of estrogens on IL-6 gene expression could explain such a gender difference [15], but only if we assume that its long-term effects last until the extreme limits of human lifespan. Intriguingly, this investigation is not the first report of a gender difference in the impact of a genetic factor on human longevity. Indeed, a similar male-specific difference between young people and centenarians has been previously observed when the distribution of other germ-line variants of stress response genes (Mitochondrial DNA and Tyrosine Hydroxylase) were studied [16, 17]. Accordingly, it has been proposed that men depend more on genetics than women to achieve longevity [18]. Conversely, it can be hypothesized that female longevity depends more on environmental factors or that genetic factors become important later in life for women.
+
+4 Materials and Methods
+
+Blood cell DNA was collected from 700 randomly selected individuals (482 women and 218 men), including 323 centenarians born and residing in Italy. All subjects were of Italian origin. Three age groups were considered: 194 randomly selected elderly people (age range 60-80 years, median age = 71, 93 men and 101 women), 183 randomly selected long-lived people (age range 81-99 years, median age = 91 years, 57 men and 126 women), and 323 centenarians (median age = 101, 68 men and 255 women). Serum was obtained from a subset of 269 individuals (181 women and 88 men): a group of elderly people (age range 60-80 years, median age = 73 years, 42 men and 47 women), a group of long-lived people (age range 81-99 years, median age = 94 years, 28 males and 82 females), and a group of 70 centenarians (age range 100-110, median age = 101, 18 men and 52 women). No acute pathological condition was present in the subjects at the time of blood collection. All subjects gave their informed consent.
+
+4.2 Genotyping
+
+DNA was extracted from blood lymphocytes by phenol-chloroform according to standard procedures. Amplification of the 174 C/G locus was performed as previously described [24].
+
+4.3 Immunoassay for IL-6
+
+Sera were frozen and kept at -80°C. IL-6 serum levels were quantified with an immunoassay kit (BioSource Cytoscreen human IL-6 UltraSensitive kit). The minimum detectable amount was 0.10 pg/ml.
+
+4.4 Statistical Analysis
+
+Non-normally distributed IL-6 serum levels were ln-transformed, as previously suggested [8]. General Linear Models (GLM) were employed to test hypotheses regarding the age-adjusted effects of binary factors (174 C/G locus). When necessary, Bonferroni adjustment for multiple comparisons was applied and indicated by p < .05. Allelic and adjusted genotypic frequencies were compared by Monte-Carlo Chi-Square test implemented in SPSS package (SPSS, Chicago, IL). Hardy-Weinberg equilibrium was calculated by Monte Carlo Markov Chain [25].
+
+Acknowledgements:
+
+This work was financed in part by a grant from AIRC (Italian Association for Cancer Research) and by the Ministry of Health Progetto finalizzato 1997: la prevenzione della morbilità per malattie croniche nell'età avanzata. Il modello dei centenari and Progetto finalizzato 1998: interazioni tra fattori di rischio cardiovascolari e fattori genetici dell'aterosclerosi e delle trombosi: un approccio integrato genetico-funzionale in casistiche selezionate.
+
+References:
+
+Fagiolo, U., Cossarizza, A., Scala, E., Fanales-Belasio, Ortolani, C., Cozzi.E., Monti, D., Franceschi, C. and Nelli, R., Increased cytokine production in mononuclear cells of healthy elderly people. Eur. J. Immunol.
+Baggio, G., Donazzan, S., Monti, D., Mari, D., Martini, Gabelli, C., Dalla Vestra, M., Previato, L., Guido, M., S., Cortella, I., Crepaldi, G. and Franceschi, C., Lipoprotein profile in healthy centenarians: a reappraisal of vascular risk factors. FASEB J.
+Ershler, W.B. and Keller, E.T., Age-associated interleukin-gene expression, late-life diseases and Volpato, S., Guralnik, J. M., Ferrucci, L., Balfour, J., Chaves, P., Fried, L. P. and Harris, T. B., Cardiovascular disease, interleukin-, and risk of mortality in older women: The Women's Health and Aging study. Circulation
+Olomolaiye, O., Wood, N.A. and Bidwell, J.L., A novel Nl II polymorphism in the human IL-promoter. Eur. J. Immunogenet.
+Guo, S.W. and Thompson E.A., A Monte Carlo method for combined segregation and linkage analysis. Am. J. Hum. Genet.
+Studies at four autosomal loci (REN, THO, PARP, SOD). Eur. J. Hum. Genet.
+Franceschi C., Bonafe`, M., Valensin S., Olivieri F., De Luca M., Ottaviani E. and De Benedictis G., Inflamm-aging: an evolutionary perspective on immunosenescence. Ann. N.Y. Acad. Sci.
+Fernandez-Real, J. M., Broch, M., Vendrell, J., Richart, C. and Ricart, W., Interleukin-gene polymorphism and lipid abnormalities in healthy subjects. J. Clin. Endocrinol. Metab.
+Fernandez-Real, J. M., Broch, M., Vendrell, J., Gutierrez, C., Casamitjana, R., Pugeat, M., Richart, C. and Ricart, W., Interleukin-gene polymorphism and insulin sensitivity. Diabetes
+Yudkin, J. S., Kumari, M., Humphries, S. E. and Mohamed-Ali, V., Inflammation, obesity, stress and coronary heart disease: Is interleukin-the link? Atherosclerosis
+Rauramaa R., Vaisanen S.B., Luong L.A., Schmidt-Trucksass A., Penttila I.M., Bouchard C., Toyry J. and Humphries S.E., Stromelysin-and interleukin-gene promoter polymorphisms are determinants of asymptomatic carotid artery atherosclerosis Arterioscler. Thromb. Vasc. Biol.

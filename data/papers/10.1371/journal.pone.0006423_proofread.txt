@@ -1,0 +1,85 @@
+Association of Mitochondrial DNA Haplogroups with Exceptional Longevity in a Chinese Population
+
+Cai, Xiao-feng Wang, Shi-lin Li, Ji Qian, De-gui Qian, Fei Chen, Ya-jun Yang, Zi-yu Jun Xu, Yidong Bai, Shun-zhang Yu, and Li Jin*
+
+State Key Laboratory of Genetic Engineering and MOE Key Laboratory of Contemporary Anthropology, School of Life Sciences and Institutes of Biomedical Sciences, Fudan University, Shanghai, China; Longevity Research Institute of Rugao, Jiangsu, China; Department of Cellular and Structural Biology, University of Texas Health Science Center at San Antonio, San Antonio, Texas, United States of America; School of Public Health, Fudan University, Shanghai, China
+
+Abstract:
+
+To explore the effects of mtDNA haplogroups on the prevalence of extreme longevity (EL), a population-based case-control study was conducted in Rugao - a prefecture city in Jiangsu, China. Case subjects include 463 individuals aged 95 years or older (EL group). Control subjects include 926 individuals aged 60-69 years (elderly group) and 463 individuals aged 40-49 years (middle-aged group) randomly recruited from Rugao. We observed a significant reduction of M9 haplogroups in longevity subjects (0.2%) when compared with both elderly subjects (2.2%) and middle-aged subjects (1.7%). Linear-by-linear association test revealed a significant decreasing trend of N9 frequency from middle-aged subjects (8.6%), elderly subjects (7.2%), and longevity subjects (4.8%) (p=0.018). In subsequent analysis stratified by gender, linear-by-linear association test revealed a significant increasing trend of D4 frequency from middle-aged subjects (15.8%), elderly subjects (16.4%), and longevity subjects (21.7%) in females (p=0.025). Conversely, a significant decreasing trend of B4a frequency was observed from middle-aged subjects (4.2%), elderly subjects (3.8%), and longevity subjects.
+
+Conclusions:
+
+Our observations support the association of mitochondrial DNA haplogroups with exceptional longevity in a Chinese population. These authors contributed equally to this work.
+
+Introduction:
+
+Mutations [10] have been linked to age-associated accumulations of mtDNA mutations [2,3]. In particular, haplogroup D4a, D5, and D4b2b were observed to be enriched in centenarians in Japan [11,12]. Haplogroup J was detected as overrepresented in male long-living subjects and centenarians in northern Italy [13], an observation that was replicated in Irish and Finnish populations [14,15], although contradicted in southern Italy [16]. These data suggest that the association between mtDNA variants and longevity could be highly geographically or population dependent, as seen from other genetic studies on longevity [17].
+
+Individuals vary widely in their health status over their life course and in age at death. Longevity is thought to be a complex puzzle of interplay of environmental, behavioral, genetic, and stochastic factors. There is increasing evidence that exceptional longevity is a familial trait that is at least partially genetic. However, the magnitude of the genetic contribution is still controversial [13], and the inherited biological factors that promote longevity in humans remain undetermined.
+
+Mitochondrial DNA (mtDNA) is a maternally inherited genome [4]. Human populations carry several mtDNA haplogroups defined by unique sets of mtDNA polymorphisms, reflecting mutations accumulated by a discrete maternal lineage [5,6]. Thus, haplogroup association studies have been used to assess the effect of mtDNA variants on various complex diseases such as diabetes, cancer, and Alzheimer's disease [7-9]. Decades of evolution of the mitochondrial theory of aging have not yet clarified the possible contribution of mtDNA haplogroup-specific mutations to the prevalence of longevity. Therefore, we performed a population-based case-control study in a Chinese Han population residing in Rugao, Jiangsu Province. It is worth noting that Rugao has long been claimed as a longevity town in China since ancient times.
+
+Materials and Methods:
+
+We selected 33 mtSNPs to define 28 major mitochondrial haplogroups (D*, D4, D4a, D4b, D4b2, D4b2b, D5, M12,G*, G2, M7*, M7b, M8*, M8a, C, M9, M10, N9, N9a, A, F*, F1, B*, B5, B5a, B5b, B4a and B4b) found in the Chinese population as shown in Table 1 [20]. These SNPs allow allocating common mitochondrial East Asian haplotypes and following the suggestion of association of Histories and cognitive function appraisals were conducted, along with physical examinations. Fasting blood specimens were drawn for laboratory examination, including lipid, glucose, and liver function. To ensure quality control, all field staff involved in data collection and handling were trained. All interviews were recorded, and 5 percent of these interviews were evaluated for quality. Approximately 35 percent of subjects were re-contacted by phone to evaluate the interviewers' work. Written informed consent was obtained from each participant or a member of their immediate family. The Human Ethics Committee of Fudan University School of Life Sciences approved the research.
+
+Experimental procedures: Genomic DNA was extracted using a method described by Boom et al., with minor modifications [19]. In order to examine the correlations between haplogroups and longevity, we observed a decreasing trend of N9 haplogroups from middle-aged subjects (8.6%), elderly (7.1%), and EL subjects (5.3%) in female samples; however, the statistical significance originally observed in all subjects diminished, which may be due to a lack of statistical power (Table 3).
+
+The PCR amplification was carried out using the following program: 95°C for 4 minutes - [94°C for 30 seconds - 60°C (-0.5°C/cycle) for 50 seconds - 72°C for 90 seconds] *11 cycles [94°C for 30 seconds - 55°C for 50 seconds - 72°C for 90 seconds]*24 cycles - 72°C for 10 minutes - 4°C. The final concentrations of each forward and reverse primer for mtDNA SNPs are as follows: For Multiplex 1, 12705 and 12811 are 0.33 mM; 12406 and 12358 are 0.35 mM; 7600 and 10400 are 0.53 mM; 8281 is 0.6 mM; 14569 is 0.67 mM; 9296 is 0.7 mM. For Multiplex 2, 4491, 8020, 8584, and 8684 are 0.2 mM; 5417 and 5465 are 0.25 mM; 1107 is 0.27 mM; 3010, 3970, 4833, 5178, 7196, 9824, 10646, 10873, and 15662 are 0.3 mM; 15235 is 0.37 mM; 3705, 8964, 13263, and 13590 are 0.4 mM; and 14979 is 0.47 mM; while1736 is 0.5 mM.
+
+After the PCR amplification, the amplification products from both multiplexes were mixed and incubated with Exonuclease I (New England Biolabs, Ipswich, MA) and shrimp alkaline phosphatase (SAP) (Promega, Madison, WI) for eighty minutes at37°C followed by fifteen minutes at75°C for enzyme inactivation. Then multiplex primer extension reactions were carried out by SNaPshot Multiplex Ready reaction mix (Applied Biosystems, Foster City, CA), Sequencing Buffer5X (Applied Biosystems), and primers extension mix with the multiplex primer extension cycling conditions:96°C for one minute - [96°C for ten seconds -52°C for five seconds-60°C for thirty seconds] *28 cycles -4°C; the final concentrations of each extension primer are also given:1107,1736,3010,3705,3970,4491,4833,5178,7196,7600,8020,8584,8684,8964,9824,10646,10873,12811,13263,13590,15235, and 15662 are 0.16 mM; 5417 is 0.33 mM; 12406 is 0.37 mM; 5465, 12358, 12705, and 14979 are 0.41 mM; 14569 is 0.45 mM; and 8281, 9296, and 10400 are 0.49 mM. After the SNaPshot reaction, the excess ddNTPs were inactivated by treating the reaction with shrimp alkaline phosphatase (Promega) for one unit followed by electrophoresis of final minisequencing products on the ABI3130xl Genetic Analyzer (Applied Biosystems). Genemapper ver.4.0 software was used to analyze the data.
+
+Discussion: In this study, we conducted a population-based case-control study to explore the effects of mtDNA haplogroups on the phenomenon of extremely long life in a Chinese population. Crucial to our approach is theThe text appears to be a table and its description. There are no spelling or grammatical errors to correct. However, some of the words are split across two lines, and there are unnecessary hyphens that need to be removed. Here's the processed text: 
+
+0.779 1.000 0.949 G2 13 (2.8%) 18 (1.9%) 7 (1.5%) 0.304 0.175 0.153 M7 35 (7.6%) 67 (7.2%) 36 (7.8%) 0.827 0.902 0.955 M7b 18 (3.9%) 35 (3.8%) 22 (4.8%) 0.921 0.518 0.587 M8 47 (10.2%) 112 (12.1%) 42 (9.1%) 0.283 0.577 0.847 M8a 10 (2.2%) 37 (4.0%) 12 (2.6%) 0.074 0.666 0.457 C 22 (4.8%) 43 (4.6%) 17 (3.7%) 0.928 0.413 0.485 M9 1 (0.2%) 20 (2.2%) 8 (1.7%) 0.005 0.019 0.027 M10 9 (1.9%) 15 (1.6%) 8 (1.7%) 0.662 0.807 0.753 N9 
+22(4 .8% )67(7 .2% )40(8 .6% )   .075   .018   .018 N9a 
+18(3 .9% )51(5 .5% )31(6 .7% )   .190   .056   .058 A 
+35(7 .6% )66(7 .1% )26(5 .6% )   .770   .233   .288 F 
+77(16.6%) 138 (14.9%) 61 (13.2%) 0.401 0.140 0.147 F1 45 (9.7%) 81 (8.7%) 36 (7.8%) 0.552 0.295 0.304 B 
+77 (16.8%) 152 (16.5%) 91 (19.7%) 0.898 0.251 0.311 B5 
+29 (6.3%) 39 (4.2%) 20 (4.3%) 0.097 0.186 0.117 B5a 
+16 (3.5%) 22 (2.4%) 8 (1.7%) 0.245 0.098 0.086 B5b 
+13 (2 .8% )16(1 .7% )12(2 .6% )   .186   .839   .357 B4a 
+9 (1 .9% )31(3 .4% )17(3 .7% )   .139   .112   .105 B4b 
+8(1 .7% )24(2 .6% )11(2 .4% )   .310   .487   .430 
+
+It has never been reported elsewhere that B4a is negatively correlated with ages in Rugao population. The correlation between mtDNA haplogroups and longevity is consistent with the hypothesis that mtDNA variations have a higher impact on male than on female longevity [37]. This gender difference could be one of the consequences of the maternal inheritance of mtDNA, which in turn implies a higher relaxation and less purging of male-specific mitochondrial phenotype, being males evolutionary dead ends for mtDNA. Interestingly, the haplogroup D4 was not enriched in male Rugao subjects, but only in female subjects. Coincidentally, longevity also shows maternal inheritance [38], and the female-to-male ratio is 3.5:1 in Rugao long-lived subjects. The fundamental mechanism of this phenomenon and the female correlation warrants further exploring.
+
+The population was relatively homogeneous related to environmental exposures, which decreased the selection biases for case-control matching. Finally, although our study included 463 cases and two control groups, interpreting the results is also limited by the relatively insufficient sample size. For example, our sample size had the power of 0.91 and 0.65 to detect the differences between longevity subjects and elderly subjects, between longevity subjects and middle-aged subjects, respectively, given the significant level of 0.05. However, when applying a conservative Bonferroni correction for multiple testing, theCity, Jiangsu Province, Boom R, Sol CJ, Salimans MM, Jansen CL, Wertheim-van Dillen PM et al. (1990) Rapid simple method for purification of nucleic acids. J Clin Microbiol 28(3): 495-503.
+
+Kim W, Yoo TK, Shin DJ, Rho HW, Jin HJ et al. (2012) Mitochondrial DNA haplogroup analysis reveals no association between the common genetic lineages and prostate cancer in the Korean population. PLoS ONE 7(10): e46750.
+
+Tanaka M, Gong JS, Zhang J, Yoneda M, Yagi K (1998) Mitochondrial genotype associated with longevity. Lancet 351(9099): 185-186.
+
+Tanaka M, Gong J, Zhang J, Yamada Y, Borgeld HJ et al. (2000) Mitochondrial genotype associated with longevity and its inhibitory effect on mutagenesis. Mech Ageing Dev 116(2-3): 65-76.
+
+Yao YG, Kong QP, Zhang YP (2003) Mitochondrial DNA A polymorphism and longevity. Hum Genet 113(4): 357-362.
+
+Salas A, Quintans B, Alvarez-Iglesias V (2006) SNP typing of mitochondrial DNA coding region variants. Methods Mol Biol 297: 197-235.
+
+Toomas Kivisild, Mait Metspalu, Hans-Jurgen Bandelt, Martin Richards, Richard Villems (2006) The world mtDNA phylogeny. In: Nucleic Acids and Molecular Biology. Vol. 18. Hans-Jurgen Bandelt, Vincent Macaulay and Martin Richards (Eds.). Human mitochondrial DNA and the evolution of Homo sapiens. Springer-Verlag Berlin Heidelberg.
+
+Wen B, Li H, Lu D, Song X, Zhang F et al. (2004) Genetic evidence supports demic diffusion of Han culture. Nature 431(7006): 302-305.
+
+Su B, Xiao J, Underhill P, Deka R, Zhang W et al. (1999) Y-chromosome evidence for a northward migration of modern humans into eastern Asia during the last ice age. Am J Hum Genet 65(6): 1718-1724.
+
+Jin L, Su B (2000) Natives or immigrants: modern human origin in East Asia. Nat Rev Genet 1(2): 126-133.
+
+Kayser M, Brauer S, Cordaux R, Casto A, Lao O et al. (2006) Melanesian and Asian origins of Polynesians: mtDNA and Y chromosome gradients across the Pacific. Mol Biol Evol 23(11): 2234-2244.
+
+Trejaut JA, Kivisild T, Loo JH, Lee CL, He CL et al. (2005) Traces of archaic mitochondrial lineages persist in Austronesian-speaking Formosan populations. PLoS Biol 3(8): e247.
+
+Santoro A, Salvioli S, Raule N, Capri M, Sevini F et al. (2006) Mitochondrial DNA involvement in human longevity. Biochim Biophys Acta 1757(9-10): 1388-1399.
+
+Rand DM (2001) Mitochondrial genetics of aging: intergenomic conflict resolution. Sci Aging Knowledge Environ 2001(2): re13.
+
+Brand FN, Kiely DK, Kannel WB, Myers RH (1987) Family patterns of coronary heart disease mortality: The Framingham Longevity Study. J Clin Epidemiol 40(8): 781-788.
+
+Guan MX, Fischel-Ghodsian N, Attardi G (2000) Biochemical evidence for nuclear gene involvement in phenotype of non-syndromic deafness associated with mitochondrial DNA mutation. Hum Mol Genet 9(5): 645-651.
+
+Wong LJ, Yim D, Bai RK, Kwon H, Vacek MM et al. (2006) A novel mutation in the mitochondrial tRNA(Ser(AGY)) gene associated with mitochondrial myopathy, encephalopathy, and complex I deficiency. J Med Genet 43(4): e21.
+
+Ikebe S, Tanaka M, Ozawa T (2000) Point mutations of mitochondrial genome in Parkinson's disease. Brain Res Mol Brain Res 78(1-2): 43-48.
+
+Fuku N, Park KS, Yamada Y, Nishigaki Y, Cho YM et al. (2007) Mitochondrial haplogroup N a conf

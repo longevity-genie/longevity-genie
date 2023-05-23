@@ -1,0 +1,45 @@
+Analysis of Candidate Genes in Celiac Disease: A Tool to Identify Life-Threatening Associated Genes? 
+
+DOMENICO NUZZO, FRANCESCO CATALDO, LETIZIA SCOLA, GIUSI IRMA FORTE, ANTONIO CRIVELLO, ANTONIO GIACALONE, SALVATORE ACCOMANDO, RAINER BARBIERI, GIUSEPPINA CANDORE, CALOGERO CARUSO 
+
+The authors have recently reported that celiac patients show a proinflammatory cytokine genetic profile characterized by the contemporaneous presence of both the tumor necrosis factor-308A and the interferon-874T allele-positive genotypes. The same alleles are considered risk factors for aging-associated disease, whereas an anti-inflammatory cytokine genotype profile might be associated with an extended life expectancy. This paper reports data on the 1249-1250 InsACAA/Non-Ins transforming growth factor (TGF)-2, a multifunctional anti-inflammatory cytokine polymorphism distribution in 88 celiac disease (CD) patients, 99 age- and sex-matched controls, and 28 95-year-old healthy subjects living in western Sicily. These data demonstrate that genotype frequencies of CD patients are not different from those of age-matched and 95-year-old healthy control subjects. These data might suggest that TGF-2 polymorphism is not involved in the complex genotypes associated with successful or unsuccessful aging. In addition, one can speculate that the genotype profile associated with CD susceptibility might be detrimental to longevity, and studies of this CD genetic asset might point to a candidate gene for anti-aging strategies.
+
+Because CD is a multisystem disorder, these patients are at risk of chronic ill health, permanent stunted growth, infertility, skeletal disorders, and malignancy. Moreover, the mortality rate at every age is twofold greater in untreated CD patients. As is well known, CD has a strong genetic component, with a sibling relative risk of about 10% to 15%. The major susceptibility locus is in the major histocompatibility complex (MHC), encompassing the human leukocyte antigen (HLA), and the HLA C (CD) is an inflammatory condition of the small intestine precipitated by the ingestion of wheat in individuals with a certain genetic makeup. CD can begin at any time in life. In susceptible individuals, the wheat protein gluten triggers an inflammatory reaction in the small bowel, which results in a decrease in the amount of surface area available for nutrient, fluid, and electrolyte absorption.
+
+Immunosenescence Unit, Department of Pathobiology and Biomedical Methodology, University of Palermo, Clinic, Maternity and Child Department, University of Palermo, Palermo, Italy. and Development Biology Department, University of Palermo, Palermo, Italy.
+
+This study investigated the role of TGF-2 gene polymorphism in CD susceptibility. Different SNP or insertion/deletion have been found in TGF-2 sequence. In particular, a four-nucleotide polymorphism between 1249 and 1250 nucleotides (1249-1250 InsACAA) from the transcription start site (GenBank: M87843), is able to influence cytokine production levels and functions. Herein are reported on the evaluation of the frequencies of the genotypes and alleles in CD patients and healthy subjects.
+
+MATERIALS AND METHODS 
+
+Subjects 
+
+The 1249-1250 InsACAA/Non-Ins genotype distribution was typed on DNA samples from blood of three groups of subjects living in western Sicily: 88 CD patients (37 men and 51 women; mean age 25.8); 99 age- and sex-matched controls (39 men and 60 women; mean age 26.9) and 28 95-year-old healthy subjects (9 men and 19 women). Informed consent was obtained for all the subjects according to Italian law.
+
+TGF-2 typing 
+
+The sequences of PCR primer were: Non-Ins: TCG CAT CAA AAA CAA CAA CAA C; Ins: CAAA AGT TTC GCA TCA AAA AAC AAA CAA; Gen: TCA GGA TAG TCT TCT GGG GG. Polymerase chain reaction (PCR) was carried out in a total volume of 25 L, 5 pmol each primer, 200 M each dNTP, 20 mM Tris-MgCl and IU Taq polymerase. The mixes were incubated for 5 min at 95C, followed by 35 cycles of 40 sec at 95C, 40 sec at 64C, 40 sec at 42C, and an additional 5 min extension at 72C at the end of the 35 cycles. A 10-L aliquot of PCR products was mixed with 2 L of loading bufferGenotype frequencies were compared between control and 95-year-old healthy subject groups using 3x2 contingency tables and a chi-squared test. No significant differences were observed. The authors previously reported that celiac patients have a proinflammatory cytokine genetic profile characterized by the simultaneous presence of both the tumor necrosis factor-308A and the interferon-(cid:4) =_+6 874T allele-positive genotypes, which are associated with increased production of proinflammatory cytokines. A high proinflammatory profile is detrimental to life expectancy and can lead to age-associated diseases such as neurologic diseases, osteoporosis, and malignancy, which are major late celiac disease complications. An anti-inflammatory cytokine genotype profile may be associated with extended life expectancy. The lack of difference in genetic frequencies of ACAA Ins/Non-Ins alleles between CD patients and 95-year-old healthy control groups suggests that the TGF-2 polymorphism is not involved in the complex genotypes associated with successful or unsuccessful aging. Additionally, studies of CD genetic assets might suggest candidate genes for anti-aging strategies. Allele frequencies were evaluated by gene count, and the data were tested for the goodness of fit between the observed and expected genotype values (Hardy-Weinberg equilibrium). Chi-squared tests were performed to calculate significant different genotype distribution among the three groups of subjects using Graphpad Instat package by Graphpad Software Inc., San Diego, CA. Bonferroni's correction was applied because multiple comparisons were made by multiplying obtained p-values for the number of genotypes detected.
+
+As reported, TGF-2 is involved in controlling inflammatory responses, activating tissue remodeling, and inducing IgA isotope switching in B cells. The authors speculated that a TGF-2 genetic background capable of influencing TGF-2 production might be involved in CD susceptibility. Actually, the lack of TGF activation induced by antitransglutaminase antibodies is one of the central pathogenetic mechanisms in CD, as suggested by Lionetti et al. The authors' data demonstrate that, despite the functional role of the cytokine, genotype frequencies in CD patients are not different from those observed in age-matched and 95-year-old healthy controls (Table 1).
+
+The most important modification of the immune system in senescence is the filling of the immunologic space with memory and effector cells as a consequence of exposure to a variety of antigens. The continuous attrition caused by clinical and subclinical infections, as well as the continuous exposure to other types of antigens (food, allergens), is likely responsible for chronic immune system activation and inflammation. Immunosenescence and probably morbidity and mortality are accelerated in those subjects who are exposed to an extra burden of antigenic load. Celiac disease is characterized by a sustained inflammatory response leading to intestinal mucosal atrophy and increased exposure of the CD patient to food antigens.
+
+This work was supported by grants from the Ministry of Education, University and Research, ex60% to G.C., C.C., and D.L. D.N. and A.C. are Ph.D. students of the Pathobiology Ph.D. course directed by C.C., of Palermo University. This work is in partial fulfillment of the requirement for the Ph.D.
+
+REFERENCES
+
+1. Kontakou M, Przemioslo RT, Sturgess RP, et al. Cytokine NA expression in the mucosa of treated celiac patients after wheat peptide challenge. Gut ; : 
+
+2. King AL, Ciclitira PJ. Celiac disease: strongly heritable, oligogenic, but genetically complex. Mol Genet Metab ; : 
+
+3. Sollid LM. Molecular basis of celiac disease. Annu Rev Immunol ; : 
+
+4. Fa, Lio D, Scola L, Forte GI, Accomando S, et al. TNF, ce y. IFN and IL-gene polymorphisms in a sample of Sicilian patients with Celiac Disease. Dig Liver Dis ; : 
+
+5. Robson MC, Dubay DA, Wang X, et al. Effect of cytokine growth factors on the prevention of acute wound failure. Wound Repair Regen ; : 
+
+6. Kalliomaki M, Ouwehand A, Arvilommi H, et al. Transforming growth factor-beta in breast milk: a potential regulator of atopic disease at an early age. J Allergy Clin Immunol ; : 
+
+7. Lionetti P, Pazzaglia A, Moriondo M, et al. Differing patterns of transforming growth factor-beta expression in normal intestinal mucosa and in active celiac disease. J Pediatr Gastroenterol Nutr ; : 
+
+8. Alansari A, Hajeer AH, Bayat A, et al. Two novel polymorphisms in the human transforming growth factorThere are no errors or improvements needed for this text. It appears to be an email address.

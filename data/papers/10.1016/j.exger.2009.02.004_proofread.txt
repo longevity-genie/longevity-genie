@@ -1,0 +1,117 @@
+Contents lists are available at the Experimental Gerontology journal homepage: www.elsevier.com/locate/expgero.
+
+Inflammation and stress-related candidate genes, plasma interleukin-6 levels, and longevity in older adults.
+
+Jeremy D. Walston, Amy M. Matteini, Caroline Nievergelt, Leslie A. Lange, Dani M. Fallin, Nir Barzilai, Elad Ziv, Ludmila Pawlikowska, Pui Kwok, Steve R. Cummings, Charles Andrea LaCroix, Russell P. Tracy, Gil Atzmon, Ethan M. Lange, and Alex P. Reiner.
+
+Hopkins Medical Institutions, Johns Hopkins University, John R Burton Pavilion, 5505 Hopkins Bayview Circle of California at San Diego, San Diego, CA, USA of North Carolina, Chapel Hill, NC, USA of Vermont, Colchester VT., USA of Medicine Albert Einstein College of Medicine Bronx NY., USA of California at San Francisco San Francisco CA., USA Hutchinson Cancer Research Center Seattle WA., USA of Epidemiology University of Washington Box 357236 Seattle WA 98195 USA.
+
+Abstract: 
+
+Interleukin-6 (IL-6) is an inflammatory cytokine that influences the development of inflammatory and aging-related disorders and ultimately longevity. In order to study the influence of variants in genes that regulate inflammatory response on IL-6 levels and longevity, we screened a panel of 477 tag SNPs across 87 candidate genes in >5000 older participants from the population-based Cardiovascular Health Study (CHS). Baseline plasma IL-6 concentration was first confirmed as a strong predictor of all-cause mortality. Functional alleles of the IL6R and PARP1 genes were significantly associated with 15%-20% higher baseline IL-6 concentration per copy among CHS European-American (EA) participants (all p < 10^-4). In a case/control analysis nested within this EA cohort, the minor allele of PARP1 rs1805415 was nominally associated with decreased longevity (p = 0.001), but there was no evidence of association between IL6R genotype and longevity. The PARP1 rs1805415 longevity association was subsequently replicated in one of two independent case/control studies. In a pooled analysis of all three studies, the risk of longevity associated with the minor allele of PARP1 rs1805415 was 0.79 (95%CI 0.62-1.02; p = 0.07). These findings warrant further study of the potential role of PARP1 genotype in inflammatory and aging-related phenotypes.
+
+2009 Elsevier Inc. All rights reserved.
+
+Introduction:
+
+Aging is associated with low-grade elevation of circulating inflammatory markers (Franceschi et al., 2007; Vasto et al., 2007). Interleukin-6 (IL-6) is a multi-functional inflammatory cytokine that plays an important role in the response to environmental stress and has been implicated in the pathogenesis of many chronic diseases associated with aging (Ershler and Keller, 2000). Increased circulating levels of IL-6 have been associated with the subsequent occurrence of coronary heart disease (Danesh et al., 2008) as well as with physical disability, frailty, increased all-cause and disease-specific mortality and decreased longevity in older adults (Harris et al., 1999; Ferrucci et al., 1999; Volpato et al., 2001; Reuben et al., 2002; Roubenoff et al., 2003; Cohen et al., 2003; Penninx et al., 2004; Strk et al., 2006; Heikkil et al., 2007). While increased IL-6 levels may signal the occurrence of underlying pathological mechanisms, IL-6 may also contribute directly to a wide variety of chronic degenerative processes, including atherosclerosis (Huber et al., 1999; Ershler and Keller, 2000). 
+
+Circulating IL-6 levels (de Maat et al., 2004; de Craen et al., 2005; Dupuis et al., 2005; Su et al., 2008; Wrns et al., 2006) and lifespan (vB Hjelmborg et al., 2006) are likely heritable traits in older adults, although specific genetic factors responsible for inter-individual differences in IL-6 levels and human longevity are largely unknown. Determination of specific contributing variants to IL-6 and longevity is difficult, in part because of the complexity of inflammatory signaling, and because populations studied to date were not recruited for the study of longevity or inflammatory phenotypes. A common promoter variant of the IL6 gene, (174 G/C) (rs1800795), was found to be weakly associated with plasmaFollow-up data for the CHS cohort were available through June 2005. Fatal events due to all causes were defined and adjudicated by physician review, according to medical records and death certificates. The National Death Index provided complete mortality follow-up. The cause of death was adjudicated using published criteria: cardiovascular disease (CVD) death was defined as death due to atherosclerotic coronary heart disease, cerebrovascular disease, atherosclerotic disease, or other CVD (Ives et al., 1995). For our candidate gene longevity phenotype association analysis, we defined long-lived cases as subjects who lived to at least 92 years of age (n = 479; 61% female) and shorter-lived controls as subjects who died before the age of 79 years (n = 900; 46% female).
+
+Candidate genes were genotyped by the Center for Inherited Disease Research (CIDR) using the Illumina GoldenGate 1536 SNP platform. The overall genotype missing rate was <0.1%; the genotyping failure rate did not exceed 4.2% for any of the SNPs under study. Concordance rates for blind duplicate samples were >99.5% for all SNP assays across both genotyping platforms. We excluded SNPs from analysis with minor allele frequency less than 5%. Using this procedure, we identified 477 and 727 tagSNP bins among EAs and AAs, respectively, across 87 candidate genes. Of the total number of tagSNPs analyzed (n = 791), 413 or 52% were common to both EA and AA, while 64 and 314 were unique to EA and AA, respectively.
+
+2.2. Centenarian case-control study of Ashkenazi Jews
+
+In order to validate significant results identified in the CHS population, we utilized previously collected DNA and phenotypic data from a study of 388 Ashkenazi Jewish cases with exceptional longevity [289 females and 99 males, average age 97.7 (0.2) years (mean SE), age range 95-108 years; 20% over the age of 100] and Ashkenazi Jewish control subjects [n = 364, mean age 79.5 (0.4) years (mean SE), 58% female] without a family. For the Ashkenazi Jewish validation study, genotyping was performed at the Albert Einstein College of Medicine using Sequenom MASSarray System (Sequenom Inc., San Diego, CA) according to the manufacturer's instructions. SOF validation genotyping was performed using the SNPstream 48plex genotyping platform (Beckman Coulter, Fullerton CA) according to the manufacturer's instructions.
+
+3. Results
+
+2.5. Statistical analysis
+
+CHS participant baseline characteristics by race are summarized in Table 1. In univariate and multivariable-adjusted regression analyses, older age, male sex, current smoking, higher BMI, alcohol consumption, and prevalent CVD were significantly associated with higher IL-6 (all p < 0.001). When analyzed by quartiles and adjusted for other risk factors, baseline IL-6 levels were strongly and independently associated with a linear increase in all-cause mortality, as well as mortality due to cardiovascular and non-cardiovascular causes (Table 2).
+
+To assess the association of baseline plasma IL-6 concentration with mortality during follow-up, we used Cox proportional hazards to model quartiles of IL-6 level. Results were reported as hazard ratios with 95% confidence intervals (95%CI). Hazard ratios were adjusted for baseline age, sex, race, body mass index, total cholesterol, diabetes, systolic blood pressure, smoking, race, clinic site, and clinical CVD at baseline.
+
+Each SNP and logarithmically transformed IL-6 concentration levels were analyzed using multiple linear regression that included covariate terms for age, sex, clinic, body mass index, and smoking. Analyses were performed separately in CHS EA and AA participants. SNP genotype was coded 0/1/2 for the number of copies of the minor allele assuming an additive genetic model. Logistic regression was used to assess associations between each SNP genotype and longevity case/control status. Cox regression was used to model associations between SNP genotype and total mortality or cause-specific mortality (cardiovascular or non-cardiovascular). Covariates for the initial case-control longevity analysis included sex and recruitment site. The Cox models were also adjusted for baseline age. We also performed more fully adjusted multivariable models that included baseline hypertension, diabetes, smoking status, clinical CVD, and diagnosis of cancer. Clinical CVD, used for adjusting multivariable models, was defined as self-reported myocardial infarction, stroke, angina, transient ischemic attack, claudication, or revascularization procedure.
+
+3.2. Candidate gene SNP associations with IL-0.101 0.013 3 3x1 10^(18) rs8192284 IL6R 1 152693594 Ala358Asp 0.35 HapMap SNP 0.96 rs4553185 IL6R 1 152677579 Intron 0.43 Tag SNP 0.082 0.013 3 3x1 10^(10) rs4845618 IL6R 1 152666639 Intron 0.43 Typed SNP 0.96 0.078 0.013 3 3x1 10^(10) rs4072391 IL6R 1 152705504 3' UTR 0.19 Tag SNP 0.076 0.0175x10^(6) rs2229238 IL6R 1 152704520 3' UTR 0.19 Typed SNP 0.98   (p-value <10^(15)). 
+Notably, IL6R rs4537545 tags another IL6R SNP rs8192284, which encodes a functional Ala358Asp polymorphism (Table 3). 
+The minor allele of PARP1 rs1805415 (which encodes a synonymous coding SNP) was associated with an increase of approximately18% in mean log IL-6 levels.
+PARP1 rs1805415 is in strong linkage disequilibrium with rs1136410, which encodes a non-synonymous Val762Ala amino acid substitution.
+Overall, the IL6R genotype explained2% of the inter-individual variation in the IL-6 phenotype among European American individuals, while the PARP1 genotype explained only0.2%. 
+By comparison, age, sex, clinic, BMI, and smoking explained12% of the IL-6 phenotypic variance.
+The odds ratio for the minor allele of PARP1 rs1805415 was0.75 (95%CI 0.56-0.99; p = 0.04) in CHS European American individuals. In contrast, there was no association between PARP1 rs1805415 among SOF longevity cases and controls (odds ratio = 1.02; 95%CI 0.77-1.36; p = 0.88).
+There was no evidence that the association between PARP1 rs1805415 and longevity differed by gender in either CHS or the Ashkenazi Jews (data not shown).
+In the pooled analysis of all three studies, the risk of longevity associated with the minor allele of PARP1 rs1805415 was 0.79 (95%CI 0.67-0.92; p = 0.003) under a fixed-effect model.
+Under a random-effect model, the pooled odds ratio was 0.79 (95%CI 0.62-1.02; p = 0.07), with an estimate of between-study variance of 0.03.
+Seven other SNPs nominally associated with longevity in CHS (p < 0.02) showed little evidence of association with longevity in either SOF or the Ashkenazi Jewish centenarian study (Supplemental Table 4).
+In European American individuals, tagSNPs within several genes encoding components of the nuclear factor kappa B (NF-kB) transcription factor complex (IKBKE, IKBKB, and RELA) or the IL-6 signal transducer and activator of transcription-3 gene (STAT3) showed weaker evidence of association with IL-6 phenotype (Supplemental Table 2).
+Among the smaller CHS African American cohort, an intronic SNP within the Toll-like receptor 4 gene (TLR4) had a borderline association with higher IL-6 levels (q-value = 0.07).
+Several additional tagSNPs of IL6R, STAT3, or IL6ST (which encodes the IL-6 signal transducer component of the IL-6 receptor complex) showed weaker evidence of association with IL-6 phenotype among African Americans (Supplemental Table 3).
+Our results confirm that higher circulating IL-6 levels strongly predict future mortality in a large community-based sample of older European American and African American adults from CHS.
+By screening a panel of inflammation and stress-response candidate genes, we demonstrate that SNPs tagging common functional polymorphisms of IL6R and PARP1 are associated with circulating IL-6 levels among European American CHS participants.
+Though no SNPs contained within our candidate gene panel reached the experiment-wide significance threshold of association with longevity in our screening analysis, it is noteworthy that the minor allele of PARP1 rs1805415, which was significantly associated with higher baseline IL-6 levels (an important longevity endo-phenotype), was nominally associated with decreased longevityThe National Institute on Aging Claude D. Pepper Older Americans Independence Centers provided support for this study, along with grants R01 AG027236 (Dr. Walston), R01 HL-071862 (Dr. Reiner), R01 HL077449 (Dr. Tracy), P01 AG027734 (Dr. Atzmon) and U01 HL080295 from the NHLBI, and additional funding from the National Institute of Neurological Disorders and Stroke. A complete list of participating CHS investigators and institutions can be found at http://www.chs-nhlbi.org. Genotyping services for CHS were provided by the Center for Inherited Disease Research (CIDR), which is fully funded through a federal contract from the National Institutes of Health to The Johns Hopkins University, Contract Number N01-HG-65403. Genotyping services for CHS were also provided by the Johns Hopkins University under federal contract number (N01-HV-48195) from the National Heart, Lung, and Blood Institute. We used public re-sequencing data from the SeattleSNPs program, supported by NIH U01 HL66682 (http://www.pga.gs.washington.edu/). This work was also supported by grants from the Paul Beeson Physician Faculty Scholar in Aging Award, the Ellison Medical Foundation Senior Scholar Award, NIH RO1 (AG-18728).
+
+Despite strong evidence for an association between IL-6 and sIL-6R phenotypes, there was no evidence for an association between IL6R genotype and longevity in CHS or with other systemic markers of inflammation in InCHIANTI (Rafiq et al., 2007). In fact, the IL6R rs8192284 variant allele was recently reported in a genome-wide association study from WHS (Ridker et al., 2008) to be associated with lower CRP levels, which is opposite to its reported effect on IL-6 and sIL-6R levels. Unlike other soluble receptors, sIL-6R is generally thought to act as an agonist of IL-6, thus allowing gp130-mediated IL-6 signaling to occur on cells without a membrane-bound IL-6R (so-called trans-signaling) (Jones et al., 2001; Knpfer and Preiss, 2008). However, the biology of IL-6 signaling is complex and can have both pro- and anti-inflammatory effects (Gabay, 2006; Knpfer and Preiss, 2008). These observations suggest a different mechanism of action of PARP-1 versus soluble IL-6 receptor gene variants on the expression of distinct inflammatory and aging-related phenotypes. Therefore, the association of PARP1 genotype with higher plasma levels of both CRP and IL-6 (two important inflammation/stress-response proteins, each of which predict mortality), as well as the probable influence of PARP-1 as a more global regulator of transcription and other genes related to aging, may account for the apparent association between PARP1 genotype and the more complex clinical outcome of longevity.
+
+Appendix A. Supplementary data
+
+Supplementary data associated with this article can be found in the online version at doi:10.1016/j.exger.2009.02.004.
+
+References
+
+Atzmon, G., Pollin, T.I., Crandall, J., Tanner, K., Schechter, C.B., Scherer, P.E., Rincon, M., Siegel, G., Katz, M., Lipton, R.B., Shuldiner, A.R., Barzilai, N., Adiponectin levels and genotype: a potential regulator of life span in humans. J. Gerontol. A Biol. Sci. Med. Sci. (), 
+
+Atzmon, G., Rincon, M., Schechter, C.B., Shuldiner, A.R., Lipton, R.B., Bergman, A., Barzilai, N., Lipoprotein genotype and conserved pathway for exceptional longevity in humans. PL Biol. (), e
+
+Barzilai, N., Atzmon, G., Schechter, C., Schaefer, E.J., Cupples, A.L., Lipton, R., Cheng, S., Shuldiner, A.R., Unique lipoprotein phenotype and genotype associated with exceptional longevity. JAMA (), 
+
+Beneke, S., Brkle, A., Poly(ADP-ribosyl)ation in mammalian aging. Nucleic Acids Res. (), 
+
+Carlson, C.S., Eberle, M.A., Rieder, M.J., Yi, Q., Kruglyak, L., Nickerson, D.A., Selecting a maximally informative set of single-nucleotide polymorphisms for association analyses using linkage disequilibrium. Am. J. Hum. GenetZiv, E., Nievergelt, C., Cummings, S.R., Newman, A.B., Tracy, R.P., Psaty, B.M., Reiner, A.P., Common variants in the CRP gene in relation to longevity and cause-specific mortality in older adults: the Cardiovascular Health Study. Atherosclerosis (), Huber, S.A., Sakkinen, P., Conze, D., Hardin, N., Tracy, R., Interleukin-exacerbates early atherosclerosis in mice. Arterioscler. Thromb. Vasc. Biol. (), Ives, D.G., Fitzpatrick, A.L., Bild, D.E., Psaty, B.M., Kuller, L.H., Crowley, P.M., Cruise, R.G., Theroux,S., Surveillance and ascertainment of cardiovascular events. The Cardiovascular Health Study. Ann. Epidemiol. (), Jenny,N.S., Tracy,R.P., Ogg,M.S.,Luongle,A.,Kuller,L.H.,Arnold,A.M.,Sharrett,A.R., Humphries,S.E., In the elderly, interleukin-plasma levels and the G>C polymorphism are associated with the development of cardiovascular disease. Arterioscler. Thromb. Vasc. Biol. (), Jones, S.A., Horiuchi,S., Topley,N., Yamamoto,N., Fuller,G.M., The soluble interleukin receptor: mechanisms of production and implications in disease. FASEB J. (), Knöpfer,H., Preiss,R., L-R: more than an agonist? Immunol. Cell Biol. (), Lockett,K.L., Hall,M.C., Xu,J., Zheng,S.L., Berwick,M., Chuang,S.C.,
+Clark,P.E.,
+Cramer,S.D.,
+Lohman,K.,
+Hu,J.J.,
+The ADPRT V762A genetic variant contributes to prostate cancer susceptibility and deficient enzyme function. Cancer Res. (), Muiras,M.L., Müller,M., Schächter,F., Bräkle,A., Increased poly(ADP-ribose) polymerase activity in lymphoblastoid cell lines from centenarians. J. Mol. Med. (), Nievergelt,C.M., Libiger,O., Schork,N.J., Generalized analysis of molecular variance. PLOS Genet. (), Penninx,B.W., Kritchevsky,S.B., Newman,A.B., Nicklas,B.J., Simonsick,E.M., Rubin,S., Nevitt,M., Visser,M., Harris,T., Pahor,M., Inflammatory markers and incident mobility limitation in the elderly. J. Am. Geriatr. Soc. (), Qi,L., Rifai,N., Hu,F.B., Interleukin-receptor gene variations, plasma interleukin-levels, and type diabetes in U.S. Women. Diabetes (), Rafiq,S., Frayling,T.M., Murray,A., Hurst,A.,
+Stevens,K.,
+Weedon,M.N.,
+Henley,W.,
+Ferrucci,L.,
+Bandinelli,S.,
+Corsi,A.M.,
+Guralnik,J.M.,
+Melzer,D.,
+A common variant of the interleukin receptor (IL-r) gene increases IL-r and IL-levels, without other inflammatory effects. Genes Immun. (), Reich,D., Patterson,N., Ramesh,V., Dager,P.L.,
+McDonald,G.J.,
+Tandon,A.,
+Choy,E.,
+Hu,D.,
+Tamraz,B.,
+Pawlikowska,L.,
+Wassel-Fyr,C.,
+Huntsman,S.,
+Waliszewska,A.,
+Rossin,E.,
+Li,R.,
+Garcia,M.,
+Reiner,A.,
+Ferrell,R.,
+Cummings,S.,
+Kwok,P.Y.,
+Harris,T.,
+Zmuda,J.M.,
+Ziv,E.,
+Health, Aging and Body Composition (Health ABC) Study. Admixture mapping of an allele affecting interleukin soluble receptor and interleukin levels. Am. J. Hum. Genet. (), Reiner,A.P., Ziv,E., Lind,D.L., Nievergelt,C.M., Schork,N.J., Cummings,S.R., Phong,A., Gonzalez,B., Harris,T.B., Psaty,B.M., Kwok,P.-Y., Population structure, admixture, and aging-related phenotypes in African American adults: the Cardiovascular Health Study. Am. J. Hum. Genet. (), Reiner,A.P., Barber,M.J., Guan,Y., Ridker,P.M., Lange,L.A., Chasman,D.I.,
+Walston,J.D.,
+Cooper,G.M.,
+Jenny,N.S.,
+Rieder,M.J.,
+Durda,J.P.,
+Smith,J.D.,
+Novembre,J.,
+Tracy,R.P.,
+Rotter,J.I.,
+Stephens,M.,
+Nickerson,D.A.,
+Krauss,R.M., Polymorphisms

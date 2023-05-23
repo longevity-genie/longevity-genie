@@ -1,0 +1,87 @@
+authors: Anna-Kaisa Niemi, Antti Hervonen, Mikko Hurme, Pekka J. Karhunen, Marja Jylhä, Kari Majamaa
+
+Title: Mitochondrial DNA polymorphisms associated with longevity in a Finnish population
+
+Abstract:
+
+The study aimed to determine the role of mitochondrial DNA (mtDNA) in longevity by analyzing mtDNA haplogroups and haplogroup clusters among elderly subjects and controls in a Finnish population. The results showed significant differences in haplogroup frequencies between Vitality 90+ cases and both middle-aged controls and infants. The frequency of haplogroup H was lower in the Vitality 90+ group than in the controls and infants, while haplogroups U and J were more frequent. Haplogroup clusters also differed between Vitality 90+ and both middle-aged subjects and infants, with the frequency of haplogroup cluster HV being lower in the former and that of UK and WIX being higher. These data suggest an association between certain mtDNA haplogroups or haplogroup clusters and longevity.
+
+Introduction:
+
+The study aimed to investigate the role of mtDNA in longevity, as it has been suggested that sequence variation in mtDNA may cause slight differences in the functioning of the respiratory chain and free radical production. As mtDNA is maternally inherited, it has been proposed that mtDNA plays a role in the process of aging. Polymorphisms in mtDNA may cause subtle differences in OXPHOS activity and free radical production, predisposing individuals or groups to an earlier onset of degenerative cellular processes involved in aging.
+
+Methods:
+
+Samples were obtained from 225 persons aged 90 or 91 years (Vitality 90+), 400 middle-aged controls, and 257 infants from a defined geographical region in Finland. MtDNA haplogroups were determined by restriction fragment length polymorphism. The frequency of mtDNA haplogroups was evaluated by the exact test of population differentiation or the 2 test or Fisher's exact test.
+
+Results:
+
+The haplogroup frequencies of the Vitality 90+ group differed significantly from those of both the middle-aged controls and infants. Haplogroup H was less frequent in the Vitality 90+ group than in the controls and infants, while haplogroups U and J were more frequent. Haplogroup clusters also differed between Vitality 90+ and both middle-aged subjects and infants, with the frequency of haplogroup cluster HV being lower in the former and that of UK and WIX being higher. These data suggest an association between certain mtDNA haplogroups or haplogroup clusters and longevity.
+
+Conclusion:
+
+The study suggests an association between certain mtDNA haplogroups or haplogroup clusters and longevity, supporting previous findings on the role of mtDNA in aging. The study also supports the presence of advantageous polymorphisms and a role for mitochondria and mtDNA in the degenerative processes involved in aging.Controls, whereas that of sub-cluster J2 was 4.4% in Vitality 90+ and 1.8% in the controls, suggesting that the higher frequency of haplogroup J in Vitality 90+ is attributable to an increase in subcluster J2.
+
+Discussion:
+
+We found significant differences in mtDNA haplogroup frequencies between the Vitality 90+ subjects and the controls. Haplogroup H was less frequent among the Vitality 90+ cases than among the middle-aged controls or the infants, whereas haplogroups J, U, and K were more frequent. The differences in haplogroup frequencies between the three age groups were similar to the age-related trend in haplogroup frequencies detected in a series of approximately 800 Italians (De Benedictis et al. 2000). Furthermore, we found that the frequencies of related haplogroups had similar tendencies to increase or decrease in most cases and, consequently, the haplogroup cluster HV was significantly lower among the Vitality 90+ subjects than among the controls, whereas those of clusters UK and TJ were higher. These data suggest an association between certain mtDNA haplogroups or haplogroup clusters and longevity.
+
+Frequencies of mtDNA haplogroup clusters among Vitality 90+ cases and controls:
+
+We then analyzed the frequencies of the clusters of phylogenetically related haplogroups HV, UK, TJ, and WIX. Again, the Vitality 90+ group and the controls differed (P=0.002; Table 2), the frequency of cluster HV being lower among the Vitality 90+ cases (P=0.001), whereas that of cluster UK was higher (P=0.014). The number of samples belonging to cluster WIX was almost twice as high in the Vitality 90+ group as in the controls (P=0.078).
+
+The Vitality 90+ cases also differed from the infants in this respect (P=0.00001), their frequency of cluster HV being significantly lower (P=0.001), whereas those of clusters WIX (P=0.048) and UK (P=0.05) were higher, and that of cluster TJ significantly higher (P=0.004). The controls and the infants did not differ significantly from each other (Table 2).
+
+The maternal lineage of the Vitality 90+ group and the two anonymous control groups was not known, introducing a possible confounding effect. However, the Finnish population is ethnically homogeneous, and immigration from other countries has been negligible (Korkiasaari and Söderling 1994). Migration within Finland remained at approximately 4% in the 20th century, increasing only to 5.5% between 1946-1950 (Koskinen et al. 1994). The settlement of Finns from southeastern Karelia after World War II has probably not affected the mtDNA gene pool, as there is no difference in haplogroup frequencies between the present Karelians and Finns (Simoni et al. 2000). Homogeneity among the three groups is further suggested by the observations that an mtDNA lineage introduced by earlier founders will make a larger contribution to the contemporary population than lineages introduced later (Heyer 1995). Therefore, we believe that the differences detected between Vitality 90+ and the two control groups represent true differences.
+
+Association between mtDNA haplogroups and clinical phenotypes:
+
+The genotype-phenotype association was studied in the Vitality 90+ group after stratification according to the Table 2 Frequencies of mtDNA haplogroup clusters among the Vitality 90+ subjects, controls, and infants Cluster Cluster frequencies Vitality 90+ Controls Infants n % n % n % HV 88 39.1 220 55.0 154 59.9 WIX 21 9.3 22 5.5 12 4.7 TJ 30 13.3 47 11.8 14 5.4 UK 81 36.0 106 26.5 71 27.6 Other 5 2.2 5 1.3 6 2.3 Total 225 99.9 400 100.1 257 99.9 
+
+Like our finding that the frequency of haplogroup J increases with the age of the population, an association between this European-specific mtDNA haplogroup and longevity has also been reported among Italian centenarians (De Benedictis et al.1999). Interestingly, we have found that the frequency of subcluster J2 is higher among the Vitality 90+ subjects than among the controls. Differences in the frequencies of haplogroup J subclusters have also been reported in Irish centenarians and controls (Ross et al.2001), butJ Hum Genet. 
+
+Abbott HM, Abbey H, Bolling DR, Murphy EA (1981) The familial component in longevity: a study of offspring of nonagenarians. III. Intra-familial studies. Am J Med Genet.
+
+Brand FN, Kiely DK, Kannel WB, Myers RH (1988) Family patterns of coronary heart disease mortality: the Framingham Longevity Study. J Clin Epidemiol.
+
+Brown MD, Sun F, Wallace DC (1997) Clustering of Caucasian Leber hereditary optic neuropathy patients containing the 11778 or 14484 mutations on an mtDNA lineage. Am J Hum Genet.
+
+De Benedictis G, Rose G, Carrieri G, De Luca M, Falcone E, Passarino G, Bonafè M, Monti D, Baggio G, Bertolini S, Mari D, Mattace R, Franceschi C (1999) Mitochondrial DNA inherited variants are associated with successful aging and longevity in humans. FASEB J.
+
+De Benedictis G, Carrieri G, Varcasia O, Bonafe M, Franceschi C (2000) Inherited variability of the mitochondrial genome and successful aging in humans. Ann N Y Acad Sci.
+
+Finnil S, Hassinen IE, Ala-Kokko L, Majamaa K (2001) Phylogenetic network of the mtDNA haplogroup U in Northern Finland based on sequence analysis of the complete coding region by conformation-sensitive gel electrophoresis. Am J Hum Genet.
+
+Finnil S, Lehtonen M, Majamaa K (2001) Phylogenetic network for European mtDNA. Am J Hum Genet.
+
+Gerber AS, Loggins R, Kumar S, Dowling TE (2001) Does non-neutral evolution shape observed patterns of DNA variation in animal mitochondrial genomes? Annu Rev Genet.
+
+Golden TR, Melov S (2001) Mitochondrial DNA mutations, oxidative stress and aging. Mech Ageing Dev.
+
+Herrnstadt C, Elson JL, Fahy E, Preston G, Turnbull DM, Anderson C, Ghosh SG, Olefsky JM, Beal MF, Davis RE, Howell N (2002) Reduced-median-network analysis of complete mitochondrial DNA coding-region sequences for the major African, Asian and European haplogroups. Am J Hum Genet.
+
+Heyer E (1997) Mitochondrial and nuclear genetic contribution of female founders to a contemporary population in northeast Quebec. Am J Hum Genet.
+
+Ingman M, Kaessmann H, Pääbo S, Gyllensten U (2000) Mitochondrial genome variation and the origin of modern humans. Nature.
+
+Ivanova R, LePage V, Charron D, Schächter F (1998) Mitochondrial genotype associated with French Caucasian centenarians. Gerontology.
+
+Korkiasaari J, Söderling I (1996) Muuttoliike. In: Koskinen S, Martelin T, Notkola IL, Notkola V, Pitkänen K (eds) Suomen vest. Gaudeamus, Hämeenlinna, pp 19–51
+
+Korpelainen H (2001) Genetic maternal effects on human life span through the inheritance of mitochondrial DNA. Hum Hered.
+
+Koskinen S, Martelin T, Notkola IL, Notkola V, Pitkänen K (1998) Suomen vest. Gaudeamus, Hämeenlinna
+
+Lahiri DK, Nurnberger JI Jr (1991) A rapid non-enzymatic method for the preparation of HMW DNA from blood for RFLP studies. Nucleic Acids Res.
+
+Lamminen T, Huoponen K, Sistonen P, Juvonen V, Lahermo P, Aula P, Nikoskelainen E, Savontaus ML (1996) mtDNA haplotype analysis in Finnish families with Leber hereditary optic neuroretinopathy. Eur J Hum Genet.
+
+McDonald JH, Kreitman M (1991) Adaptive protein evolution at the Adh locus in Drosophila. Nature.
+
+Meinilä M, Finnilä S, Majamaa K (2001) Evidence for mtDNA admixture between the Finns and the Saami. Hum Hered.
+
+Rand DM, Kann LM (1996) Mutation and selection at silent and replacement sites in the evolution of animal mitochondrial DNA. Genetics.
+
+Richards MB, Macaulay VA, Bandelt H-J, Sykes BJ (1998) Phylogeography of mitochondrial DNA in Western Europe. Ann Hum Genet.
+
+Rose G, Passarino G, Carrieri G, Altomare

@@ -1,0 +1,67 @@
+Contents lists are available at the Neurobiology of Aging journal homepage: www.elsevier.com/locate/neuaging. 
+
+Apolipoprotein E and familial longevity
+
+Schupf et al. conducted a study to investigate the association between apolipoprotein E (APOE) and exceptional longevity. The APOE gene has three common alleles, 2, 3, and 4. The 4 allele has been associated with early mortality and a decreased frequency of the allele in the oldest old. However, the association of the 4 allele with mortality risk is inconsistent and varies by population. Recent studies have identified a variant in TOMM40, marked by the single nucleotide polymorphism rs2075650, which is associated with longevity but is close to and in linkage disequilibrium with rs429358, the marker for the APOE 4 allele.
+
+The study recruited offspring from long-lived families and spouse controls at three sites in the United States and Denmark. The likelihood of carrying an APOE 4 allele or a G allele in rs2075650 was lower among family members in the offspring generation than among their spouse controls, while the likelihood of carrying an APOE 2 allele was higher among family members than among their spouse controls.
+
+The findings support the hypothesis that both a reduction in the frequency of the 4 allele and an increase in the frequency of the 2 allele contribute to longevity. Because longevity is heritable, a family-based study design might serve well to address the question of the relation of APOE to longevity. 
+
+Mortality associated with the presence of a risk allele might lead to reduced frequencies of risk alleles in the parental generation. Thus, it might be more informative to examine if there is a reduced frequency of risk alleles in offspring of people achieving exceptional longevity, where mortality is unlikely to confound the association between genetic risk factors and longevity.
+
+The study recruited long-lived individuals, their siblings, and their offspring for an examination that characterized key intermediate phenotypes of longevity. A referent group consisting of the spouses, primarily of the offspring generation, was also recruited and examined. For this study, the analysis was restricted to the offspring generation and the examined sons, daughters, nieces, and nephews and their spouses.
+
+Genotyping of APOE polymorphisms was based on SNPs rs7412 and rs429358 and was performed at the Biomedical Genomics Center at the University of Minnesota. Genotyping of the TOMM40 SNP rs2075650 was performed as part of the LLFS genome-wide association study and was typed via the Illumina HumanOmni 2.5 at the Center for Inherited Disease Research at Johns Hopkins University.
+
+Overall, the study indicates that both a reduction in the frequency of the APOE 4 allele and an increase in the frequency of the APOE 2 allele contribute to familial longevity.Current information on names, including past names such as maiden names for women, addresses, place of birth, marriages, and vital status (Pedersen et al., 2006). Second, using information on the place of birth and the names, parish registers available in regional archives were searched to locate the parents of the elderly individuals to identify sibships. Based on the above information, potentially eligible families were identified, and contact was made with potential probands to further assess the family's eligibility for and willingness to participate in the LLFS using criteria parallel to that used in the United States. Recruitment, informed consent, and study procedures were approved by the Institutional Review Boards of all participating sites.
+
+2.4. Statistical analysis
+
+We checked Weinberg Equilibrium using the Haploview program (Barrett, 2009; Barrett et al., 2005) and did not find deviations of genotype frequencies from Hardy-Weinberg Equilibrium for any of the SNPs. To minimize population stratification, analysis was restricted to subjects of white ethnicity, resulting in the loss of 8 spouses (1%) and 5 relatives (0.2%) from the analysis. We used logistic regression procedures in generalized estimating equations to estimate the likelihood of carrying one or more APOE 4 alleles, one or more APOE 2 alleles, or one or more rs2075650 G alleles in TOMM40. Generalized estimating equations adjust for the relatedness of the LLFS offspring and controls and for the possibility that the characteristics of family members are correlated by both shared genetics and shared environment by treating family membership as a cluster. LLFS offspring were compared with spouse controls, adjusting for age, sex, level of education, and family membership (model A) and then adjusting for age, sex, level of education, family membership and a history myocardial infarction, hypertension, stroke, diabetes, and Parkinson's disease (model B). In the offspring generation, only 2 people were reported as suffering from dementia, so we did not include dementia as a covariate for these analyses. SNPs in TOMM40 have been shown to be in linkage disequilibrium with the APOE 4 allele, and it has been suggested that rs2075650 might not have an independent effect on longevity (Deelen et al., 2011; Nebel et al., 2011; Sebastiani et al., 2012). To examine this possibility, we repeated the analysis for TOMM40 including APOE in the model as a covariate and also among those with the APOE 3/3 genotype.
+
+2.2. Eligibility and enrollment
+
+The Family Longevity Selection Score (FLoSS) was developed by the LLFS study to rank longevity among families based on birth-year cohort survival probabilities of the proband and siblings (Sebastiani et al., 2009). On screening, an FLoSS of 7 or more was required for a family to be eligible. If a proband's family was FLoSS-eligible, they also had to meet the following criteria: the proband N. Schupf et al./Neurobiology of Aging 34 (2013) 1287e1291 Table 2 independent effect on longevity (Deelen et al., 2011; Nebel et al., 2011; Sebastiani et al., 2012). To examine this possibility, we repeated the analysis for TOMM40 including APOE in the model as a covariate and also among those with the APOE 3/3 genotype.
+
+Likelihood of carrying the APOE 4 allele and APOE 2 allele by relative group
+
+Participants At risk, 4 Allele Odds ratio, Odds ratio, n (n, %) model Aa model Bb Likelihood of the APOE 4 allele Offspring generation 2307 471 (20.4) 0.75 (0.6-0.9) 0.75 (0.6-0.9) Spouse controls 764 198 (25.9) 1.0 (reference) 1.0 (reference) Participants At risk, 2 Allele Odds ratio, Odds ratio, n (n, %) model Aa model Bb Likelihood of the APOE 2 allele Offspring generation 2307 415 (18.0) 1.5 (1.1-2.0) 1.5 (1.1-1.9) Spouse controls 764 101 (13.2) 1.0 (reference) 1.0 (reference)
+
+3. Results
+
+LLFS offspring and their spouse controls did not differ in mean age at assessment (60.5 vs. 60.9, respectively). The average number of years of education was slightly but significantlyLower APOE 4 allele frequency was observed in a relatively young cohort of offspring of long-lived individuals before substantial mortality occurred. This suggests that the reduced frequency of the 4 allele in the oldest old might not be due to early mortality but to a heritable lower frequency of the risk allele, which reduces the risk for APOE-related disease. Previous studies have suggested that the APOE 2 allele is associated with longevity, although inconsistently (Hirose et al., 1997; Louhija et al., 1994; Schachter et al., 1994). We also observed a significantly higher frequency of the 2 allele in offspring of long-lived individuals, consistent with an association of the 2 allele and longevity in the parental generation. In some studies of older cohorts, however, including studies of Canadian, British, and Italian elders and a randomly chosen Han Chinese population, the frequency of the 2 allele was similar in the older and younger cohorts, and the frequency of the 4 allele was not consistently lower in the older cohort (Bader et al., 1998; Davignon et al.,1988; Galinsky et al.,1997; Jian-Gang et al.,1998).
+
+In the multiethnic Washington Heights Inwood Columbia Aging Project (WHICAP) cohort, mortality risks associated with APOE genotype differed significantly by ethnic group (Lee et al., 2001). These differences underscore the importance of taking ethnicity into account when interpreting associations of genetic data with specific phenotypes and suggest that the effect of APOE risk alleles is likely to be influenced by other genetic and environmental factors. 
+
+We also found that the frequency and likelihood of carrying a G allele in rs2075650 of TOMM40 was lower among offspring in the Long Life Family Study (LLFS), compared with married-in controls. Recent genome-wide association studies in German, Dutch, Danish, and U.S. Caucasian cohorts of long-lived individuals identified rs2075650 in TOMM40 as associated with longevity (Deelen et al., 2011; Nebel et al., 2011; Sebastiani et al., 2012), but also close to and in linkage disequilibrium with the rs429358, the APOE 4 allele. The investigators suggested that rs2075650 might not have an independent effect on longevity. Consistent with these analyses, we found that the addition of the 4 allele to our models attenuated the association between offspring and the likelihood of carrying the G allele. When the analysis was restricted to those with the APOE 3/3 genotype, the association of offspring with the likelihood of carrying the G allele was not attenuated but failed to reach statistical significance.
+
+The limitations of this study include relatively small sample sizes and restriction of the analysis to Caucasians. It would be interesting to replicate this association in other long-lived cohorts. 
+
+Disclosure statement: All procedures were done in accordance with the ethical standards of the Committee on Human Experimentation and were approved by the Institutional Review Boards of Columbia University Medical Center and all participating sites.
+
+Acknowledgments: The work is supported by the National Institute on Aging (NIA cooperative agreements U01-AG023712, U01-AG23744, U01- AG023746, U01-AG023749, and U01-AG023755). The Danish 1905-cohort is funded by NIH/NIA, P01 AG08761. The Danish Aging Research Center is funded by the VELUX Foundation.
+
+References:
+Bader, G., Zuliani, G., Kostner, G.M., Fellin, R. (1998). Apolipoprotein E is not associated with longevity or disability in a sample of Italian octogenarians and nonagenarians. Gerontology, 44, 349–354.
+De Benedictis, G., Tan, Q., Jeune, B., Christensen, K., Ukraintseva, S.V., Bonafe, M., Franceschi, C., Vaupel, J.W., Yashin, A.I. (2001). Recent advances in human gene-longevity association studies. Mech. Ageing Dev., 122, 909–920.
+Ewbank, D.C. (2002). Mortality differences by APOE genotype estimated from demographic synthesis. Genet. Epidemiol., 22, 146–155.
+Ewbank, D.C. (2003). Differences in the association between apolipoprotein E genotype and mortality across populations. J. Gerontol. A Biol. Sci. Med. Sci., 58, 741–750.
+Finch, C.E., Tanzi, R.E. (1997). Genetics of aging. Science, 278, 407–411.
+Galinsky, D., Tysoe, C., Brayne, C.E., Easton,gene locus in a French population. Biochem. Biophys. Res. Commun.,  e 
+
+Kerber, R.A., O'Brien, E., Smith, K.R., Cawthon, R.M.,  Familial longevity excess in Utah genealogies. J. Gerontol. A Biol. Sci. Med. Sci.,  e 
+
+Kervinen, K., Savolainen, M.J., Salokannel, J., Hynninen, A., Heikkinen, J., Ehnholm, C., Koistinen, M.J., Kesaniemi, Y.A.,  Apolipoprotein E and B polymorphisms - longevity factors assessed in nonagenarians. Atherosclerosis,  e 
+
+Lee, J.H., Tang, M.X., Schupf, N., Stern, Y., Jacobs, D.M., Tycko, B., Mayeux, R.,  Mortality and apolipoprotein E in Hispanic, African-American and Caucasian elders. Am. J. Med. Genet.,  e 
+
+Louhija, J., Miettinen, H.E., Kontula, K., Tikkanen, M.J., Miettinen, T.A., Tilvis, R.S.,  Aging and genetic variation of plasma apolipoproteins: relative loss of the apolipoprotein E phenotype in centenarians. Arterioscler. Thromb.,  e 
+
+Mueez-Muelauezhueler,M.Vaupel,J.W.Holm,N.andHarvald,B.(1998).Longevityismoderatelyheritablein asampleofDanishtwinsborn1870-1910.J.Gerontol.BPsychol.Sci.Soc.Sci.
+
+May,G.J.Silvestri,G.Chakravarthy,U.Dasari,S.Fritsche,L.G.Weber,B.H.Keilhauer,C.N.Klein,M.L.Francis,P.J.Klaver,C.C.Vingerling,J.R.Ho,L.DeJong,P.T.Dean,M.Sawitzke,J.Baird,P.N.Guymer,R.H.Stambolian,D.Orlin,A.Seddon,J.M.Peter,I.Wright,A.F.Hayward,C.Lotery,A.J.Ennis,S.Gorin,M.B.Weeks,D.E.Kuo,C.L.Hingorani,A.D.Sofat,R.Cipriani,V.Swaroop,A.Othman,M.Kanda,A.Chen,W.Abecasis,G.R.Yates,J.R.Webster,A.R.Moore,A.T.Seland,J.H.Rahu,M.Soubrane,G.Tomazzoli,L.Topouzis,F.Vioque,J.Young,I.S.Fletcher,A.E.Patterson,C.C.(2011).VariationsinapolipoproteinEfrequencywithageinapooledanalysisofalargegroupofolderpeople.Am.J.Epidemiol.,  e 
+
+Mitchell,B.D., Hsueh,W.C., King,T.M., Pollin,T.I., Sorkin,J., Agarwala,R., Schaffer,A.A., Shuldiner,A.R.(2001).HeritabilityoflifespanintheOldOrderAmish.Am.J.Med.Genet.102,346-352.
+
+Schachter,F., Faure-Delanef,L., Guenot,F., Rouger,H., Froguel,P., Lesueur-Ginot,L., Cohen,D.(1994).GeneticassociationswithhumanlongevityattheAPOEgenelocusinaFrenchpopulation.Biochem.Biophys.Res.Commun.,  e

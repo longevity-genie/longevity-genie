@@ -1,0 +1,118 @@
+RNA Editing Genes Associated with Extreme Old Age Humans and Lifespan in C.elegans
+
+Sebastiani1*, Monty Montano2*, Annibale Puca3, Nadia Solovieff1, Toshio Kojima4, Meng C. Efthymia Melista6, Micah Meltzer2, Sylvia E. J. Fischer5, Stacy Andersen7, Stephen H. Sedgewick8, Yasumichi Arai9, Aviv Bergman10, Nir Barzilai11, Dellara F. Terry7, Alberto Viviani Anselmi3, Alberto Malovini3, Aya Kitamoto4, Motoji Sawabe13, Tomio Arai13, Martin H. Steinberg6, Nobuyoshi Hirose9, Gil Atzmon11, Gary Ruvkun5, Clinton T. T. Perls7"
+
+1Department of Biostatistics, Boston University School of Public Health, Boston, Massachusetts, United States of America
+2Department of Medicine Sections of Infectious Diseases, Boston University School of Medicine, Boston, Massachusetts, United States of America
+3Department of Genetics, IRCCS Multimedica, Milan, Italy
+4Computational Systems Biology Research Group, Advanced Science Institute, RIKEN, Yokohama, Kanagawa, Japan
+5Department of Genetics, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts,
+United States of America
+6Center for Human Genetics,Boston University School of Medicine,Boston,
+Massachusetts,
+United States of America
+7Geriatrics Section,
+Department of Medicine,Boston University School of Medicine,Boston,
+Massachusetts,
+United States of America
+8Department of Bioengineering,Boston University School of Engineering,Boston,
+Massachusetts,
+United States of America
+9Division of Geriatric Medicine,
+Department of Internal Medicine,
+Keio University School of Medicine,Tokyo,
+Japan
+10Department of Systems & Computational Biology, Albert Einstein College of Medicine, Bronx, New York, United States of America
+11Institute of Aging Research and Diabetes Research Center, Departments of Medicine and Genetics, Albert Einstein College of Medicine,
+Bronx, New York,
+United States of America
+12Department of Molecular Genetics and Microbiology, University of Florida at Gainesville, Florida, United States of America
+13Department of Pathology,
+Tokyo Metropolitan Geriatric Hospital,Tokyo,
+Japan
+14Clinical Thanatology and Geriatric Behavioral Science, Graduate School of Human Sciences, Osaka University,Suita, Osaka,
+Japan
+
+Abstract:
+
+In this study, we investigate two genes in the A to I RNA editing pathway associated with extreme old age in humans and lifespan in C.elegans. We demonstrate that 18 single nucleotide polymorphisms (SNPs) in the RNA editing genes ADARB1 and ADARB2 are associated with extreme old age in a U.S. based study of centenarians. Replications of these findings in three independently conducted centenarian studies with different genetic backgrounds (Italian, Ashkenazi Jewish and Japanese) support an association of ADARB1 and ADARB2 with longevity. Some SNPs in ADARB2 replicate consistently across the four populations suggesting a strong effect independent of different genetic backgrounds and environments. We also show that inactivation of the orthologues adr-1 and adr-2 in C. elegans reduces median survival by 50%. Further demonstrating that inactivation of the argonaute gene rde-1 restores lifespan to normal levels in the context of adr-1 and adr-2 loss-of-function. Our results suggest that RNA editors may be an important regulator of aging in humans and that this pathway may interact with the RNA interference machinery to regulate lifespan.
+
+Funding:
+
+This work was supported by National Institutes of Health grants: R01HL087681 (to M.H.S), K24AG025727 (to T.T.P), R01AR055115 (to M.M.), RO1AG027216 (to C.B.), the Italian Ministry of Research and University (to A.P. and A.M), and the following grants to G.A, A.B. and N.B.: AG-027734, AG-18728, RR-12248, DK-20541, and M01-RR12248 and a grant from the Glenn Foundation. M.C.W. is supported by a Life Sciences Research Foundation fellowship. S.E.J.F. is supported by the MGH ECOR Fund for Medical Discovery.
+
+Competing Interests:
+
+The authors have declared that no competing interests exist.
+
+Introduction:
+
+Exceptional longevity (EL) in humans, defined as living to extreme old ages such as 100 years and older, is strongly familial [18]. The factors that facilitate such exceptional survival have broad public health significance including a marked delay in age-related disability [9-11] and certain age-related diseases [12-14]. Genetically, exceptional longevity is presumed to beValidated with birth certificates (in the case of the JCS, the Basic Resident Registration Card), we further evaluated the functional significance of RNA editing candidate genes in C. elegans lifespan studies. We showed that silencing orthologs of these genes reduces median survival by 50%. Additionally, we demonstrated that lifespan is fully restored by additional knockdown of an RNA interference gene, supporting the functional role of these genes in determining lifespan and implicating a novel axis for future aging studies. Table 1 summarizes the characteristics of study subjects. 
+
+Selection of candidate genes was based on multiple factors. Firstly, in a preliminary genome-wide screening using pooled DNA samples from approximately 130 male centenarians and 130 younger male controls from the NECS [27], we identified several single nucleotide polymorphisms (SNPs) in the RNA-editing genes ADARB1 (21q22.3) and ADARB2 (10p15.3) that were associated with extreme old age. ADARB1 exhibited the strongest evidence for genetic association with 5 SNPs that met genome-wide significance, with the posterior odds of allelic association being greater than 1500 [27]. The probability of these 5 SNPs simultaneously associated under the null hypothesis of no association was 10^−213 based upon a hypergeometric distribution. 
+
+Secondly, this gene lies on chromosome 21q21, and trisomy 21 (Down syndrome) resembles accelerated aging, with premature age-related changes including in the skin and hair, increased frequency of premature cataracts, hearing loss, menopause, and Alzheimer's disease [28], suggesting that genes in chromosome 21 could affect lifespan. 
+
+Thirdly, among the top genes identified from the preliminary genetic screen, RNA editing represents a general cellular process that might be expected to improve cellular health; and RNA editing activity has been associated with innate immune response [29,30] and age-related syndromes that include dementia and amyotrophic lateral sclerosis (ALS) [31]. 
+
+Reported are summaries of the last contact ages. All subjects were enrolled by studies with Institutional Review Board approval and oversight. 
+
+To further test the generalizability of these results to other independent groups, we evaluated these associations in the AJCS and the JCS using a combination of proxy SNPs typed with Affymetrix platforms and SNPs in Table 3 typed with more traditional techniques (See methods). Table 4 summarizes the results of the replication study of 4 of the 5 SNPs, and one additional proxy SNP is in Table 5. None of these SNPs in ADARB1 replicate the results in the NECS and SICS samples, although the significant association of the SNP rs17004734, which is within 2Kb from rs414743, is consistent with the presence of longevity-associated variants in the region. Because the SNPs used in the NECS and SICS are chosen to best capture the genetic variations of Caucasians from the HapMap, they may not be the correct choice for this founder population. Indeed, Figure 1 shows a different pattern of LD in ADARB1 in the AJCS subjects. All ADARB1 SNPs in Table 3 and two additional proxy SNPs were genotyped in the JCS subjects, and Tables 6 and 7 summarize the results. The last three SNPs in Table 6 show effects that are consistent with those observed in NECS and SICS subjects but do not reach statistical significance, even when data from all three studies are aggregated. Figure 3 shows the posterior densities of ORs for three rare SNPs that are suggestive of association but would require much larger sample sizes to reach statistical significance. The association of two proxy SNPs for rs2838816 in Table 7 is again consistent with the presence of longevity.
+
+We examined the associations of 31 SNPs in ADARB1 in the NECS and SICS samples using recessive and dominant models with Bayesian logistic regression [32]. The details of the statistical analysis are in the Methods, and significant results are summarized in Table 2, which provides the physical positions and allele frequencies derived from the HapMap for these SNPs, and Table 3 (rows 14-15). Five SNPs in ADARB1 are strongly associated with extreme old age in the NECS, and the association of SNP rs414743 remains significant even after imposing stringent corrections for multiple comparisons (Bayesian significance < 0.00035 where 145 is the overall number of SNPs included in this analysis). The five SNPs tag one region of strong linkage disequilibrium (LD) of the gene (Figure 1). None of the SNPs reached statistical significance in the SICS, although the three SNPs rs2838809, rs2838810, and rs2838816 exhibited consistent associations in terms of odds ratios and allele frequencies. When data from both NECS andthe frequency of alleles negatively associated with EL decreases. However, for other SNPs, the pattern was not monotonic, suggesting a more complex relationship between the SNP and EL. Further studies are needed to elucidate the underlying mechanisms. Overall, our findings suggest that ADARB1 and ADARB2 are important candidates for further investigation into the genetic basis of exceptional longevity.Alleles that are negatively associated with EL become less frequent. This pattern has also been observed for ApoE alleles [33] and is consistent with the phenomenon of demographic selection [34]. These increases in allele frequencies with age also illustrate the increasing gain of power conferred by studying centenarians and even more so, subjects aged 105+ years, in genetic studies of exceptional survival. In a previous study, mutations in both adr-1 and adr-2 resulted in increased GFP reporter transgene silencing, suggesting that declines in ADAR function are associated with an increase in RNA interference (RNAi), which would account for the GFP silencing in those experiments. When the argonaute gene rde-1, which is essential for RNA-induced silencing complex (RISC) formation, was introduced into adr-1;adr-2 worms containing the transgenes, the increased GFP silencing due to ADAR knockdown was suppressed [44]. This suggests cross-regulation between RNA editors and RNA interference that is further supported by results from Tonkin et al [45], wherein they demonstrated that a mild chemotaxis defect of the adr-1;adr-2 double mutant could be rescued by an rde-1 mutant. Therefore, to evaluate the potential for cross-regulation between RNA editing and RNA interference in the context of lifespan, we evaluated adr-1;adr-2 mediated declines in lifespan in the presence of the RNAi defective strain, rde-1(ne-219). Remarkably, and consistent with previous results, the loss of rde-1 completely restored lifespan declines associated with adr-1;adr-2 loss-of-function (Figure 6b). We interpret these data as expanding the interaction between these two RNA regulatory pathways to include lifespan determination.
+
+To go beyond statistical association, we chose to investigate the possible functional role of these genes in regulating lifespan by evaluating their influence on lifespan in the nematode, C. elegans, a robust model organism for candidate lifespan gene discovery. The A-to-I RNA editing gene family and their enzymatic editing activity have been well-conserved in a broad array of species including humans, mice, flies, zebrafish, xenopus and notably, C. elegans. Our analysis provides strong evidence for association of ADARB1 and ADARB2 with extreme old age. Our findings of strongest association in the NECS sample are consistent with that sample being both the largest and oldest of the four studies. The lack of reproducibility for some SNPs may have been due to differences in overall genetic background (ethnicity), size and younger ages of the oldest old samples. Nonetheless, associations were noted across four different study populations suggesting that the associations between ADARB1 and ADARB2 and EL are robust to different genetic backgrounds and environmental exposures.
+
+ADARB2 is a very large gene spanning more than 500Kb in chromosome 10, but our analysis narrows the association to a region of approximately 100Kb that could be followed-up by fine mapping or sequencing for discovering functional variants and to provide a better understanding of the function of these genes in human aging. The precise role for A-to-I RNA editing gene activity in human aging, which remains unknown, warrants validation in other species, particularly humans, and provides a novel regulatory axis for future studies on regulatory pathways that influence the aging process. We speculate that as-of-yet unidentified ADAR variants delay age-associated declines in ADAR activity. We note that a reduction in ADAR enzymatic activity is associated with Dementia, ALS and Alzheimer's disease in normal aging individuals [46]. Consistent with this interpretation, analysis of published transcriptional profiles of aging in C. elegans indicate that adr-1 and adr-2 expression peak in early adulthood and decline with age rather precipitously. The declines observed in that study are compatible with a protective role for ADAR alleles in aging.
+
+Although the impact upon lifespan that we observed in C. elegans appears to be independent of insulin signaling (Figure 6a), the interaction between RNA editing and RNA interference is likely to be complex since decreased insulin signaling in C. elegans can also affect RNA interference [47] and may suggest threshold effects associated with declining levels of insulin signaling. Future studies will be needed to identify and characterize targets of RNA editing and their potential role(s) in modulating RNA interference activity, in the context of aging and age-related diseases.
+
+Materials and Methods
+
+Ethics Statement
+
+Subjects included in the NECS, SICS, AJCS, and JCS provided written informed consent, and all research involving human subjects was approved by the Institutional Review Boards of Boston University, Boston, USA (NECS), the Istituto di Ricovero e Cura a Carattere Scientifico Multimedica, Milano, Italy (SICS), Albert Einstein College of Medicine, Bronx, USA (AJCS), Keio.
+
+Table 6. Replication in the JCSStatistical significance was observed in this set, specifically in rows 1, 5, and 10. However, one of them had an opposite effect compared to the NECS and SICS in row 1. We did not attempt to merge the results from different populations due to substantial differences in allele frequencies. The study was conducted anonymously at the University of Tokyo, Japan (JCS). Control data from the Illumina iControlDB database was anonymized. It was found that both the NECS and the Illumina controls were comprised of three major clusters corresponding to northwest, northeast, and southwest Europeans. However, in the Illumina controls sample, there were also subjects with different levels of admixture between the three clusters (Figure S3). Therefore, we randomly sampled 1,538 subjects from the three major clusters to create a control set that matched the genetic background of the NECS extreme old sample set as suggested in [49]. We used the same procedure to identify 81 female and 16 male subjects to be added to the set of SICS controls. The random-selection procedure was repeated twice and led to the same results.
+
+SNP genotyping was performed on the Illumina 370 CNV chip (Illumina, San Diego, CA) for the NECS and SICS samples. Only samples with at least a 93% call rate were used for analysis. For AJCS and JCS, genotyping was originally performed with Affymetrix 6.0 chip and 5.0 chips, respectively with required call rates of 99% or greater. Affymetrix Birdseed algorithm and Illumina Beadstudio were used for genotype calling. Non-overlapping SNPs that were not approximated by SNPs with substantial LD (D9.0.8) were genotyped with Sequenom (AJCS) and BigDye Terminator cycle sequencing kit and an ABI Prism 3730xl DNA analyzer (Applied Biosystems, CA, USA). The sequence data was analyzed with ABI PRISM SeqScape Software version 2.6 (Applied Biosystems).
+
+In creating a genetically matched control set, a referent cohort sample for the NECS subjects was constructed utilizing genotype data from the Illumina iControlDB database. Principal components analysis was used to match cases and controls by genetic background. To reduce chances of stratification, we identified 2,077 Caucasian referent subjects from the Illumina iControlDB, all genotyped with Illumina arrays, with known age at enrollment between 30 and 75 years. We used the principal component analysis implemented in the program EIGENSTRAT [48] to examine the structure of this referent group compared to the NECS and SICS subjects. The analysis showed that both the NECS and the Illumina controls are comprised of three major clusters that correspond to northwest, northeast, and southwest Europeans.
+
+The genotype data of the 31 SNPs in the genes ADARB1 and 114 SNPs in ADARB2 were individually analyzed using Bayesian logistic regression [32] to fit dominant and recessive models of inheritance adjusted by gender. The marginal posterior distributions of the ORs were estimated using the implementation of Gibbs sampling in WinBugs 1.4 [50]. The 2.5th and 97.5th percentile were used to estimate 95% credible intervals (CI) for the ORs. The Gibbs sampler was run for at least 10,000 iterations and the last 10,000 simulated values were used to estimate these parameters.
+
+18 significant SNPs were identified (Table 3), which is more than twice the number expected by chance in 145 independent tests, and two SNPs remained significant even after correcting for the threshold for the number of tests. An association that was significant in the aggregated NECS and SICS data was deemed replicated in either the AJCS or JCS studies if the same SNP was significant (Bayes significance, 0.05) with the same genetic model and consistent effects. The results are in Tables 4, 5, 6, and 7.
+
+We conducted a similar analysis stratified by gender, but the limited sample sizes did not produce strongly significant results.
+
+HaploView 4.1 was used to create the LD heatmaps, and LD displays were generated using the D9 color scheme where white represents D9=0, red represents D9=1, and different shades of red represent 0<D9<1 (Figures 1 and 4).
+
+To synchronize worms for lifespan measurements in C. elegans, eggs were isolated (N2, adr-1, adr-2, adr-1;adr-2, rde-1, rde-4, adr-1;adr-2;rde-1) and synchronized by hatching overnight in the absence of food at 20C. Synchronized L1 larvae were counted and platedcomponents in controls of the SICS, which also display a SW European genetic background. The principal component analysis suggests that the NECS and SICS centenarians are genetically distinct from each other and from the Illumina controls, while sharing genetic ancestry with their respective controls. The population substructure observed in the controls should be taken into account in association studies of exceptional longevity in these cohorts. doi:10.1371/journal.pone.0008210.g005The text appears to be a mix of different sections, and it is unclear what the overall context is. As such, it is difficult to make meaningful corrections without additional information. Please provide more context or specify which section(s) require proofreading and improvement.Al. (2013) Genes, aging, and longevity in humans: problems, advantages, and perspectives. Free Radic Res 47(10): 749-64.
+
+Sorkin J, Post W, Pollin TI, O'Connell JR, Mitchell BD, et al. (2014) Exploring the genetics of longevity in the Old Order Amish. Mech Ageing Dev 141-142: 33-7.
+
+Perls T (2014) Genetic and phenotypic markers among centenarians. J Gerontol A Biol Sci Med Sci 69 Suppl 1: S31-7.
+
+Perls T, Kunkel L, Puca A (2015) The genetics of aging. Curr Opin Genet Dev 33: 46-56.
+
+Barzilai N, Atzmon G, Schechter C, Schaefer EJ, Cupples AL, et al. (2003) Unique lipoprotein phenotype and genotype associated with exceptional longevity. JAMA 290(15): 2030-40.
+
+Atzmon G, Rincon M, Schechter CB, Shuldiner AR, Lipton RB, et al. (2006) Lipoprotein genotype and conserved pathway for exceptional longevity in humans. PLoS Biol 4(4): e113.
+
+Atzmon G, Pollin TI, Crandall J, Tanner K, Schechter CB, et al. (2008) Adiponectin levels and genotype: a potential regulator of life span in humans. J Gerontol A Biol Sci Med Sci 63(5): 447-53.
+
+Willcox BJ, Donlon TA, He Q, Chen R, Grove JS, et al. (2008) FOXO3A genotype is strongly associated with human longevity. Proc Natl Acad Sci U S A 105(37): 13987-92.
+
+Flachsbart F, Caliebe A, Kleindorp R, Blanche H, von Eller-Eberstein H, et al. (2009) Association of FOXO3A variation with human longevity confirmed in German centenarians. Proc Natl Acad Sci U S A 106(8): 2700-5.
+
+Vijg J, Campisi J (2008) Puzzles, promises and a cure for aging. Nature 454(7208): 1065-71.
+
+Kojima T, Kamei H, Aizu T, Arai Y, Takayama M, et al. (2004) Association analysis between longevity in the Japanese population and polymorphic variants of genes involved in insulin and insulin-like growth factor signaling. Exp Gerontol 39(11-12): 1595-8.
+
+Sebastiani P, Zhao Z, Abad-Grau MM, Riva A, Hartley SW, et al. (2017) A hierarchical and modular approach to the discovery of robust associations in genome-wide association studies from pooled DNA samples. BMC Genet 18(1): 52.
+
+Yang Q, Rasmussen SA, Friedman JM (2002) Mortality associated with Down's syndrome in the USA from 1983 to 1997: a population-based study. Lancet 359(9311): 1019-25.
+
+Yang JH, Luo X, Nie Y, Su Y, Zhao Q, et al. (2015) Widespread inosine-containing RNA in lymphocytes regulated by ADAR1 in response to inflammation. Immunology 145(4): 485-97.
+
+Finch CE, Morgan TE (2007) Systemic inflammation, infection, ApoE alleles, and Alzheimer disease: a position paper. Curr Alzheimer Res 4(2): 185-9.

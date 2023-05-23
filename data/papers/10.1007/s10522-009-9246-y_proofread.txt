@@ -1,0 +1,57 @@
+old) and 413 young subjects (Y, 22-37 years old, mean age 27.1 years old). The XPD gene, which encodes a DNA helicase involved in nucleotide excision repair and transcription, was analyzed for common polymorphisms that affect DNA repair efficiency and increase the risk of developing various cancers. The analysis was performed on blood mononuclear cells from people divided into three age groups (mean ages 28.7, 65.8 and 92.7 years old). The results showed that extreme longevity is associated with decreased expression of the XPD gene, and that the differences between young or middle-aged vs. extremely old group were significant. In addition, the methylation pattern of the XPD promoter was analyzed in 30 people divided into three age groups (29.5, 65.9, and 101.4 years old), and it was found that aging is associated with an increase in methylation level upstream of the transcription start site. The Lys751Gln genetic variant of the XPD gene was found to be associated with extreme longevity, while the Arg156Arg and Asp312Asn polymorphisms showed no such association in the Polish population. Genotyping of selected polymorphisms in the XPD gene was done by PCR amplification followed by digestion with an appropriate restriction enzyme.text were found (0.87%), in the M group the number increased to 6 (2.6%), and in the C group to 10 (4.3%). The difference between the Y and C groups was significant (P = 0.016), while the difference between the Y and M groups, as well as between the M and C groups, was not significant (P = 0.098, P = 0.202, respectively). No correlation was found between the level of XPD promoter methylation and age, sex, or smoking status.
+
+Bisulfite treatment of DNA and DNA methylation analysis
+
+Bisulfite modification of the genomic DNA was performed using EZ DNA Methylation-Gold Kit (Zymo Research Corporation, Orange, CA, USA). Five hundred nanograms of each genomic DNA was bisulfite-modified following the manufacturer's protocol with the only modification being the PCR incubation conditions; the samples were subjected to Table 1 PCR-RFLP conditions used for the analysis of the Arg156Arg, Asp312Asn, and Lys751Gln polymorphisms in the XPD gene. 
+
+Primers T MgCl PCR Restriction Alleles m 2 ((cid:3)C) (mM) product (bp) enzyme F: 50CAAACATCCTGTCCCTACTGG30 62 1.5 309 HinfI C: 217 bp, 92 bp R: 50CTCCTGCGATTAAAGGCTGT30 A: 221 bp 
+
+F: 50GCCCCTGTCTGACTTGTCC30 56.7 1.5 204 Eco103I G: 204 bp R: 50GCTCACCCTGCAGCACTTCCT30a (StyI) A: 181 bp, 23 bp 
+
+F: 50GAGGTTCAAGTTGTCCAAAACC30 61 1.5 346 PstI A: 237 bp, 109 bp R: 50ACAAGAGTGCCAGGGGTCAG30 C: 174 bp, 109 bp, 93 bp 
+
+a Underlined nucleotide is a mismatch introduced to create Eco103I (StyI) restriction T Melting temperature, F Forward, R Reverse, bp Base pairs m of a Arg156Arg b Asp312Asn c Lys751Gln
+
+RNA isolation, reverse transcription, and real-time PCR
+
+Bisulfite-treated DNA was purified and resuspended in 10 μl of the M-elution buffer supplied by the manufacturer. Fifty nanograms (1 μl) of this DNA was used as a template in a 12.5 μl PCR reaction performed with hot-start Platinum Taq polymerase (Invitrogen, Carlsbad, CA, USA) and with sense XPDsl 50GAGGATTAAATTTTAGTGAATGAGAT30 and antisense XPDasl 50ATAACCCCATCTTCAAAACCCCC30 primers. The PCR conditions were: initial denaturation at 94°C for 3 min, 40 cycles of 94°C for 30 s, 58°C for 30 s, 72°C for 1 min, final elongation at 72°C for 10 min. The PCR product of 377 bp, corresponding to the XPD promoter fragment located on both sides of the transcription start site, was gel-purified and cloned into the pGEM-T vector (Promega, Madison, WI, USA). Three clones from each person were sequenced.
+
+Total RNA was extracted from BMCs with TRIzol Reagent (Invitrogen, Carlsbad, CA, USA) according to the procedure supplied by the manufacturer. One hundred nanograms of each RNA was used for reverse transcription that was performed with RevertAid First Strand cDNA Synthesis Kit (Fermentas, Lithuania) according to the manufacturer's protocol. The resulting cDNA was diluted in DNase, RNase-free dH2O (Invitrogen, Carlsbad, CA, USA). Next, 1 μl of cDNA corresponding to 0.5 ng of total RNA was used as a template in real-time PCR. The reaction was performed in LightCycler 480 Instrument II (Roche, Mannheim, Germany) with LightCycler 480 Sybr Green I Master kit (Roche, Mannheim, Germany) and with XPD 50CATTTCCTGGGCTTCCTGAG30 sense and 50GCTCTCCTGCACCACATGCT30 antisense primers, as well as with sense 50CAGCCTGGATAGCAACGTACA30 and 50TTCTACAATGAGCTGCGDNA repair capacity is associated with longevity. Our findings support the notion that DNA repair capacity decreases with age and that XPD plays an important role in maintaining genomic stability. The decreased amount of XPD mRNA and changes in the methylation pattern of the XPD promoter may contribute to the decreased DNA repair capacity in older individuals. Our study has some limitations, including a small sample size for promoter methylation analysis and the absence of an intermediate age group for polymorphism analysis. However, our results are consistent with in vitro and clinical findings and suggest that the decreased frequencies of function-impairing AA and cancer-prone CC genotypes of the XPD Lys751Gln polymorphism promote longevity thanks to efficient DNA repair and lower risk of developing life-threatening diseases. Further studies are needed to confirm these findings and to explore other regulatory mechanisms that may control XPD mRNA levels.Protein function is associated with aging. Such XPD-related changes support the notion that aging is associated with altered DNA repair and transcription. However, studies have shown that XPD polymorphisms have no effect on the DNA repair efficiency of XPD (Lunn et al. 2000; Hemminki et al. 2001; Laine et al. 2007). In addition, results regarding the role of this polymorphism in carcinogenesis are quite inconsistent, showing an association between the A variant genotype (encoding Asn) with either decreased (Lovatt et al. 2005; He et al. 2008) or, more commonly, increased (Hu et al. 2004; Wang et al. 2008; Gangwar et al. 2009) risk of cancer development. Data regarding the Arg156Arg polymorphism are sparse and also inconsistent: the presence of the A allele was correlated with both increased (Harth et al. 2008) and decreased (Lovatt et al. 2005) cancer risk. It is likely that these polymorphisms do not play a universal role in cancer pathogenesis. Our results show that... 
+
+Acknowledgments: This work was supported by the Polish Ministry of Education and Science grant PBZ-MEiN-9/2/2006 (K143/P01/2007/1).
+
+References:
+
+Afanasev I (2009) Superoxide and nitric oxide in senescence and aging. Front Biosci 14:3899-3912.
+
+Andreassi MG () DNA damage, vascular senescence and atherosclerosis. J Mol Med .
+
+Andressoo JO, Hoeijmakers JH () Transcription-coupled repair and premature ageing. Mutat Res .
+
+Andressoo JO, Weeda G, de Wit J, Mitchell JR, Beems RB, van Steeg H, van der Horst GT, Hoeijmakers JH () An Xpb mouse model for combined xeroderma pigmentosum and cockayne syndrome reveals progeroid features upon further attenuation of DNA repair. Mol Cell Biol .
+
+Arking DE, Krebsova A, Macek M Sr, Macek M Jr, Arking A, Mian IS, Fried L, Hamosh A, Dey S, McIntosh I, Dietz HC () Association of human aging with a functional variant of klotho. Proc Natl Acad Sci USA .
+
+Blagosklonny MV () Aging: ROS or TOR. Cell Cycle .
+
+Blander G, de Oliveira RM, Conboy CM, Haigis M, Guarente L () Superoxide dismutase knock-down induces senescence in human fibroblasts. J Biol Chem .
+
+Bonafè M, Olivieri F () Genetic polymorphism in long-lived people: cues for the presence of an insulin/IGF-pathway-dependent network affecting human longevity. Mol Cell Endocrinol .
+
+Brewster AM, Alberg AJ, Strickland PT, Hoffman SC, Helzlsouer K () XPD polymorphism and risk of subsequent cancer in individuals with nonmelanoma skin cancer. Cancer Epidemiol Biomarkers Prev .
+
+Burhans WC, Weinberger M () DNA replication stress, genome instability and aging. Nucleic Acids Res .
+
+Coin F, Marinoni JC, Rodolfo C, Fribourg S, Pedrini AM, Egly JM () Mutations in the XPD helicase gene result in XP and TTD phenotypes, preventing interaction between XPD and the p subunit of TFIIH. Nat Genet .
+
+Crews DE () Senescence, aging and disease. J Physiol Anthropol .
+
+Cullinane C, Weber CA, Dianov G, Bohr VA () Restoration of preferential and strand-specific gene repair in group Chinese hamster ovary mutants (UV ) by the XPD (ERCC ) gene. Carcinogenesis .
+
+De Boer J, Andressoo JO, De Wit J, Huijmans J, Beems RB, Van Steeg H, Weeda G, Van Der Horst GT, Van Leeuwen W, Themmen AP, Meradji M, Hoeijmakers JH () Premature aging in mice deficient in DNA repair and transcription. Science .
+
+Di Massimo C, Scarpelli P, Di Lorenzo N, Caimi G, Di Orio F, Ciancarelli MG () Impaired plasma nitric oxide availability and extracellular superoxide dismutase activity in healthy humans with advancing age. Life Sci .
+
+D'Stefano PS, Curtis R, Geddes BJ () Insulin resistance, glycemic control and adiposity: key determinants of healthy lifespan. Curr Alzheimer Res .
+
+Ehrlich R, Harris A, Kheradiya NS, Winston DM,This text appears to be a list of references in various scientific journals. As such, it does not require any proofreading or editing.Adenocarcinoma risk. Causes Control: Vina J, Borras C, Miquel J () Theories of aging. Life: Vodicka P, Kumar R, Stetina R, Sanyal S, Soucek P, V, Dusinska M, Kuricova M, Zamecnikova M, Musak Buchancova J, Norppa H, Hirvonen A, Vodickova Naccarati A, Matous Z, Hemminki K () Polymorphisms in DNA repair genes and their possible association with DNA repair rates, chromosomal aberrations and single-strand breaks in DNA. Carcinogenesis. Vogel U, Hedayati M, Dybdahl M, Grossman L, Nex () Polymorphisms of the DNA repair gene and their correlations with the risk of basal cell carcinoma. Carcinogenesis: Wang XW, Vermeulen W, Coursen JD, Gibson M, Lupold Forrester K, Xu G, Elmore L, Yeh H, Hoeijmakers Harris CC () The XPB and XPD DNA helicases are components of the p-mediated apoptosis. Genes Dev: Wang F, Chang D, Hu FL, Sui H, Han B, Li DD, Zhao () DNA repair gene XPD polymorphisms and risk: a meta-analysis based on case-control studies. Cancer Epidemiol Biomarkers Prev: Winkler GS, Araujo SJ, Fiedler U, Vermeulen W, Coin FJM, Hoeijmakers JHJ, Wood RD, Timmers HTM, Weeda () TFIIH with inactive XPD helicase functions in transcription initiation but is defective in DNA repair. Biol Chem: Wood JG, Rogina B Lavu S Howitz K Helfand SL Tatar Sinclair D () Sirtuin activators mimic restriction and delay aging in metazoans. Yankner BA, Lu T, Loerch P () The aging brain. Rev Pathol: Ye W, Kumar R, Bacova G, Lagergren J, Hemminki K, O () The XPD Gln allele is associated with an increased risk for esophageal adenocarcinoma: a population-based case-control study in Sweden. Zhao H, Wang LE, Li D, Chamberlain RM, Sturgis EM, Wei () Genotypes and haplotypes of ERCC and XPD genes predict levels of benzo[a]pyrene diol-induced DNA adducts in cultured primary cells from healthy individuals: a genotype-phenotype correlation analysis. Carcinogenesis.

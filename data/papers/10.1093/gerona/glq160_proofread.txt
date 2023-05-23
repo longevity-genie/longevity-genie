@@ -1,0 +1,42 @@
+Association of CYP19 and ESR1 Pleiotropic Genes with Human Longevity
+
+Rosa Maria Corbo, Laura Ulizzi, Lidia Positano, and Renato Scacchi
+
+CNR Institute of Molecular Biology and Pathology, Rome, Italy. CORISA Consortium, Salerno, Italy.
+
+Email: rosamaria.corbo@uniroma1.it
+
+Aromatase (CYP19) and estrogen receptor-alpha (ESR1) are involved in the metabolism of estrogens, which have a relevant role in female and male aging. Moreover, due to their influence on fertility, both genes may be part of the longevity-fertility trade-off mechanism. In the same sample, we may infer that ESR1 genotypes could exert an antagonistic pleiotropic effect on longevity and fertility.
+
+Key Words: ESR1, CYP19, Polymorphism, Longevity, Longevity-fertility trade-off.
+
+Received June 24, 2010; Accepted August 16, 2010
+
+Decision Editor: Rafael de Cabo, PhD
+
+
+Research on the longevity-fertility trade-off in humans has nearly always been done using a historic demographic approach (11-12). Despite certain discrepancies in findings, there is evidence for a genetic basis for the longevity-fertility trade-off. Studies on pleiotropic genes have shown that some longevity candidate genes can influence reproductive function as well, thus exerting an action in different periods of life. 
+
+Great efforts have been expended by researchers in the attempt to identify the genes involved in life-span determination (14). Variation in sex hormone (estrogens and androgens) level is a typical feature of aging but the possible impact on the human lifespan of genetic variation of the genes regulating sex hormone production and action has never been investigated before. As a starting point, we examined genes involved in estrogen metabolism. 
+
+Estrogens play a critical role in physiology, bone and lipid metabolism, and maintenance and protection of the cardiovascular and nervous systems (5-7). More recently, similar estrogen functions have been identified in men as well (8). The drastic reduction in estrogen level at menopause marks the beginning of aging for women as it affects the multiple metabolic processes influenced by estrogen early in life. Although not so abrupt, the decline in estrogen is responsible for numerous signs of aging also in men (8). A further point of interest in examining estrogen metabolism genes is that, being involved in the determination of fertility, they could be part of the longevity-fertility trade-off mechanism.
+
+It has been postulated that a trade-off between resources available for reproduction occurs on the one hand and a trade-off between maintenance and lifespan on the other. Because natural selection tends to favor an individual's reproductive ability over longevity, it is plausible that an antagonistic relationship exists between these two mechanisms.
+
+CYP19 is expressed in the ovary and the placenta as well as in a number of extra-gonadal tissues (17). This suggests that CYP19, as it is involved in the production of estrogen, also participates with a regulatory role (17). Recently, CYP19 polymorphisms have been associated with various conditions such as breast cancer and Alzheimer's disease (18-23).
+
+The ESR1 gene encodes for estrogen receptor-alpha (ER-alpha) which is found in all human reproductive tissues. It is expressed primarily with ER-beta encoded by the ESR2 gene on chromosome 14q23-24. ER-beta, co-expressed in a number of tissues including nervous tissue (17). This suggests that ESR1 may have a broader range of actions than previously thought.
+
+Fertility rates were derived from responses to a questionnaire item asking about the number of children the participants reported they had had. The protocol for collection of biologic material for the scientific studies was approved by the institutional ethics committees. Informed consent was obtained from all participants.
+
+Venous blood was drawn in ethylenediaminetetraacetic acid from all participants. Genomic DNA was extracted from whole blood according to the procedure described by Miller and colleagues (30). Two ESR1 polymorphisms (PvuII, or 401T/C, or rs2234693 and XbaI, or 354A/G, or rs9340799) were examined. Both polymorphisms are located in intron 1 of the ESR1 gene in the region of the transcription factor binding site and are closely linked (8). It has been speculated that they change the gene's enhancer activity. There are indications that support this hypothesis, especially for rs2234693 (31-32), although slight differences in enhancer activity were reported for rs9340799 as well (33). Both polymorphisms were genotyped according to the technique of Yaich and colleagues (34) with slight modifications. Specifically, a different primer couple was designed: 5'-AGGGTTATGTGGCA1.023.56, p=.039). ESR1 XX genotypes seem to have less influence on survival (adjusted OR=1.84, 95% confidence interval: 0.88-3.81, p=.10). No significant interaction of ESR1 and CYP19 genotypes with gender was observed. A comparison of the number of children associated with different CYP19 genotypes was performed using a nonparametric test (Kruskal-Wallis). Statistical analyses were performed using Statistix 8.0 analytical software.
+
+Results: To evaluate the involvement of the ESR1 and CYP19 polymorphisms in longevity, ESR1 and CYP19 genotype frequencies observed in the long-lived participants were compared with those observed in the participants who had died before the age of 90 years (controls). The results are reported in Table 1. In both the control and the long-lived groups, the genotype frequencies of ESR1 PvuII and XbaI polymorphisms agreed with those expected according to Hardy-Weinberg equilibrium. The ESR1*Pall allele frequencies in the controls and the long-lived were 0.488 and 0.528, respectively. The ESR1*X allele frequencies in the controls and in the long-lived were 0.488 and 0.543, respectively. Because of the proximity of the two ESR1 RFLPs, the linkage disequilibrium between them was analyzed. They were in strong linkage disequilibrium in both samples (p<.0001), with a tendency of the ESR1*P allele to be associated with ESR1*X and ESR1*p to be associated with ESR1*x. Consequently, as shown by the combined distribution of ESR1 genotypes (Table 1), more than 90% of ESR1 PP homozygotes of both groups were XX homozygotes as well. A comparison of genotype distributions between the long-lived and the controls (Table 1) shows that there was an excess of PP (29.6% vs. 18.8%, p=.08) and XX (27.7% vs. 20.0%, p=.22) genotypes in the long-lived versus the controls, although the comparisons (Pearson's goodness-of-fit chi-square) did not reach statistical significance.
+
+To investigate the involvement of the two genes in polymorphisms on past fertility of the same sample population, ppxx genotypes were found to be associated with an above-average number of children among the men, whereas among the women, the difference in the number of children among the three genotypes was insignificant. The data on spontaneous abortions were not reported (Table 3).
+
+Discussion: The aim was to avoid the cohort effect observed in studies on human longevity when the control sample is composed of younger participants belonging to birth cohorts that may have experienced different environmental effects from those experienced by older participants. Furthermore, using younger controls whose lifespan is unknown may introduce some bias. The present study shows that genes (and estrogen) are involved not only in reproduction but also in aging and that they may exert a pleiotropic action across the whole course of human life. The possible importance of these studies is that they may help to elucidate the aging process and to identify the proper strategies for slowing and/or mitigating its effects.
+
+The ESR1 PvuII polymorphism seems to have a greater impact than XbaI on estrogen action, although the real impact of ESR1 polymorphisms on longevity is still unclear. It is surprising as estrogen influences various different physiological processes and is involved in the pathogenesis of many diseases of advanced age which, in turn, influence the lifespan of both men and women. In agreement with this observation, ESR1 and CYP19 genetic polymorphisms in relation to cardiovascular disease, Alzheimer's disease (5, 18-23, 25-27) have been reported.
+
+Funding: This work was supported by the Italian National Research Council and La Sapienza University grants.This is not a complete sentence or text. Please provide the full text you want me to proofread and improve.

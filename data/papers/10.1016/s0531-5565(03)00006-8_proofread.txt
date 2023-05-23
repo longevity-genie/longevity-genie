@@ -1,0 +1,54 @@
+www.elsevier.com/locate/expgero
+
+Increased frequency of the 2437T allele of the heat shock protein 70-Hom gene in an aged Irish population
+
+a,b,* a,c a d Owen A. Ross, Martin D. Curran, Karen A. Crum, I. Maeve Rea, Yvonne A. Barnett
+
+a,b,c Derek Middleton
+
+a Northern Ireland Regional Histocompatibility and Immunogenetics Laboratory, Blood Transfusion Building, City Hospital, Belfast,
+
+b School of Biomedical Sciences, University of Ulster, Coleraine, Northern Ireland, UK
+
+c School of Biology and Biochemistry, Queen's University of Belfast, Belfast, Northern Ireland, UK
+
+d Department of Geriatric Medicine, Queen's University of Belfast, Belfast, Northern Ireland, UK
+
+Received 16 August 2002; received in revised form 28 November 2002; accepted 9 January 2003
+
+Abstract
+
+The frequency of the functional polymorphism, T2437C transversion (Met!Thr), in the HSP70-Hom gene was investigated within a healthy aged Irish population using oligonucleotide probes. The 2437T polymorphic nucleotide was observed to increase in the elderly, although not attaining statistical significance. The TT genotype was observed to be significantly increased within the Irish aged population p < 0.03; while conversely the TC genotype was significantly decreased in the aged subjects p < 0.01: These findings would support the theory that the change from a Met (non-polar and hydrophobic) residue to a Thr (polar and neutral) residue may disrupt the peptide-binding specificity of HSP70-Hom and have an effect on its functional efficiency. One postulates that the highly significant p-value obtained for the TC genotype may infer that the presence of both the T and C allele (heterozygosity) resulting in the generation of two different HSP70-Hom protein species may negatively influence longevity. q 2003 Elsevier Science Inc. All rights reserved.
+
+Keywords: Heat shock protein; HSP70-Hom; Polymorphism and ageing
+
+1. Introduction
+
+DNA and proteins have all been thought to be protected by HSPs. It has also been postulated that heat shock may increase the expression or the activity of antioxidant enzymes, catalase or superoxide dismutase (Polla et al., 1996). Members of the 70 kDa heat shock protein family (HSP70) are consistently associated with defences against conditions involving oxidative stress such as ischemia, inflammation, and the ageing process (Jac- quier-Sarlin et al., 1994; Plumier et al., 1995; Wheeler et al., 1995).
+
+Heat shock proteins (HSPs) are a group of conserved proteins that are induced in both prokaryotes and eukaryotes by elevated temperatures or a variety of cellular stresses. The cells reduce their overall rates of gene transcription and translation, and for a short period of time produce HSPs. HSPs act as molecular chaperones by binding to unfolded or misfolded proteins, promoting either correct refolding or proteolytic degradation (Jindal, 1996; Mathew and Morimoto, 1998; Soti and Csermely, 2000; Verbeke et al., 2001).
+
+Different model systems have demonstrated that the induction of HSPs, particularly HSP70, declines in response to heat shock with ageing, therefore rendering the organism more vulnerable to stress damage (Favatier et al., 1997; Rea et al., 2001). Transgenic studies in Drosophila melanogaster have demonstrated an extension in normal lifespan when HSP70 is overexpressed (Tatar et al., 1997; Silbermann and Tatar, 2000). Thus any polymorphism that results in the alteration of qualitative or quantitative HSP70 expression could cause a differential sensitivity to stresses and affect longevity.
+
+2. Materials and methods
+
+2.1. Subjects
+
+One hundred control samples (59% female, 41% male with an age-range of 19-45 years) were chosen at random from the archival DNA bank of normal healthy Caucasian individuals from the Northern Ireland population. These samples were stored within the Northern Ireland Histocompatibility and Immunogenetics Laboratory (NIHIL) of Belfast City Hospital. The study involved 129 aged consecutive samples (70% female, 30% male with an age-range of 80-97 years) from the Belfast Elderly Longitudinal Free-living Ageing Study (Rea et al., 2000). All samples were from healthy Caucasian individuals from the Northern Ireland population displaying no signs of age-related disorders, still living independently and approximate SENIEUR status (Ligthart et al., found to be more frequent in the aged population compared to the control group. The frequency of the heterozygote TC genotype was significantly decreased in the aged group, and the TT genotype was significantly increased. These differences were observed independent of gender. The results suggest that increased expression or functionality of the HSP 70-Hom protein may provide better protection against oxidative stress and prevent accumulation of abnormal proteins within cells, thus potentially affecting lifespan. The distribution of T and C alleles in the normal population is highly skewed towards T, suggesting that homozygous CC is almost incompatible with life. The presence of the Met residue may result in individuals who are less susceptible to disease and more resistant to cellular stresses and aging. The study investigated a polymorphism of the HSP 70-Hom gene located in the class III region of the HLA complex, which displays strong linkage disequilibrium with HLA class I and II genes. Any polymorphic association with aging observed within the HSP genes may be a result of closely linked polymorphism elsewhere within the HLA region.The frequency of a variant HSP 70-Hom gene/protein was observed to be decreased by 77% in the control group and 83% in the cohort of aged subjects, although the difference was not significant. This suggests that an increase in the frequency of this variant is associated with the aged population, supporting the theory that the Thr residue (C allele) may affect the efficiency of the HSP 70-Hom protein by lowering the strength of hydrophobic interactions between the chaperone and target protein. In a proposed structural model of the peptide-binding, based on that of the HLA class I molecule, the altered amino acid at position 493 (Met to Thr) is on one of the β-sheets, which forms the floor of the peptide-binding groove affecting specificity (Pociot et al., 1993). 
+
+Polymorphism of the HLA complex and immune system has been extensively studied in aging associations (Reviewed by Caruso et al., 2000; Caruso et al., 2001). However, one limitation in most studies is a lack of aged individuals available from both genders and complete background histories on health or ethnicity for study participants. This is especially important considering that it is postulated that both sexes follow different pathways to longevity (Franceschi et al., 2000). The relatively low numbers used in this study may be one possible factor in the lack of significant differences in allele frequencies between aged and control populations, although there is a recognizable tendency for an increase in T allele frequency in Irish aged populations.
+
+Our results suggest that further examination of polymorphism within HSPs and other HLA-linked genes may provide interesting and informative data. 
+
+Acknowledgments: 
+The authors wish to acknowledge: The European Union for support under the aegis of European Union Concerted Action on the Molecular Biology of Immunosenescence (EUCAMBIS; Biomed 1 contract CT94-1209); and Immunology and Ageing in Europe (IMAGINE; QLK6-CT-1999-O2031). OA Ross was a recipient of a CAST Award jointly funded by the Department of Education and Learning (Northern Ireland) and the Northern Ireland Histocompatibility and Immunogenetics Charitable Trust Fund. For Josie O'Malley (1919-2002)
+
+References:
+Anderson, K.M., Srivastava, P.K., Heat, heat shock, heat shock proteins and death: a central link in innate and adaptive immune responses. Immunol. Lett. 72 (2000) 1–5.
+Arnold, D., Faath, S., Rammensee, H.-G., Schild, H., Cross-priming of minor histocompatibility antigen-specific cytotoxic T-cells upon immunization with the heat shock protein gp96. J. Exp. Med. 185 (1997) 1101–1107.
+Caruso, C., Candore, G., Colonna Romano, G., Lio, D., Bonafe, M., Valensin, S., Franceschi, C., HLA, aging, and longevity: a critical reappraisal. Hum. Immunol. 62 (2001) 1239–1249.
+Caruso, C., Candore, G., Colonna Romano, G., Lio, D., Bonafe, M., Valensin, S., Franceschi, C., Immunogenetics of longevity. Is major histocompatibility complex polymorphism relevant to the control of human longevity? A review of literature data. Mech. Ageing Dev. 121 (2000) 3–17.
+Curran, M.D., Williams, F., Earle, J.A.P., Rima, B.K., van Dam, M.G., Bunce, M., Middleton, D., Long-Range PCR amplification as an alternative strategy for characterizing novel HLA-B alleles. Eur. J. Immunogenet. 26 (1999) 353–359.
+Favatier, F., Bornman, L., Hightower, L.E., Eberhand, G., Polla, B.S., Variation in hsp gene expression and HSP polymorphism: do they contribute to differential disease susceptibility and stress tolerance? Cell Stress Chaperones 3 (1998) 71–84.
+Feige, U., Polla, B.S., HSP70: a multi-gene, multi-structure, multi-function family with potential clinical applications. Experientia 50 (1994) 1051–1068.
+Franceschi, C., Motta, L., Valensin, S., Rapisarda, R., Franzone, A., Berardelli, M., Motta, M., Monti, D., Bonafe, M., Ferrucci, L., Deiana, L., Pes,Antigens,

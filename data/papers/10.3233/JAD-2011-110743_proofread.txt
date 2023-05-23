@@ -1,0 +1,17 @@
+TOMM40 rs10524523 Polymorphism's Role in Late-Onset Alzheimer's Disease and in Longevity
+
+Aleksandra, Beata, Krzysztof, Magorzata, Chodakowska-Zebrowska, Maria Barcikowska, and Cezary Zekanowski worked on this project. They are affiliated with the Department of Neurodegenerative Disorders at the Mossakowski Medical Research Centre, Polish Academy of Sciences, in Warszawa, Poland. Beata and Cezary are also affiliated with the Department of Biochemistry and Medical Chemistry at the Pomeranian Medical University in Szczecin, Poland. Magorzata is affiliated with the Neurology Clinic at the Warsaw Central Clinic Hospital CSK MSWiA in Warszawa, Poland.
+
+Abstract:
+
+Recently, researchers reported that TOMM40 variable-length poly-T sequence polymorphism (rs10524523) in combination with APOE alleles (E2, E3, E4) significantly influences late-onset Alzheimer's disease (LOAD) age of onset. In a group of 414 LOAD patients, 173 centenarians, and 305 neurologically healthy individuals, we investigated the impact of TOMM40 poly-T tracts on LOAD incidence, age of onset, and longevity. TOMM40 allelic variants were classified into four categories: short (S; 1416T), long a (La; 2022T), long b (Lb; 2630T), and very long (VL; 3139T). Our results demonstrate that La and Lb share similar characteristics in affecting LOAD risk; thus for some analyses, they were combined into the L category. We observed a significantly lower frequency of VL allele (p<0.0001) and a significantly higher frequency of L alleles in the LOAD patients compared to the control individuals (p<0.0001). S/S, S/VL, and VL/VL genotypes, and VL-E2, S-E3, VL-E3 haplotypes are significantly associated with lower LOAD risk. VL-E3 haplotype carriers more frequently developed LOAD when they were 79 years old. Additionally, S/L genotype is associated with a significantly increased LOAD risk (p<0.0001). We conclude that in the carriers of TOMM40-APOE haplotypes comprising E4 allele, the TOMM40 rs10524523 allele does not play a substantial role in establishing LOAD risk. Nevertheless, TOMM40 L allele increases the risk when E4 is absent. Finally, L allele as well as genotypes (S/L, V/L), and haplotypes (L-E3, L-E4) comprising L significantly reduce the likelihood of living up to 100 years.
+
+Keywords: Alzheimer's disease, APOE, association study, haplotype, late-onset Alzheimer's disease, longevity, TOMM40
+
+Data available online: http://dx.doi.org/10.3233/JAD-2011-110743
+
+Introduction:
+
+Late-onset Alzheimer's disease (LOAD) is a genetic disease; approximately 60-80% of the risk is attributable to genetic factors [1]. The APOE4 (E4) allele of the APOE gene is the most significant genetic risk factor for LOAD [2][3]. However, inheritance of E4 is neither necessary nor sufficient for LOAD development. Recently, researchers reported that a variable-length poly-T sequence polymorphism (rs10524523) in the gene encoding translocase of the outer mitochondrial membrane 40 homolog (TOM40), in combination with APOE alleles, significantly influences LOAD age of onset (AOO) [4]. TOMM40 is adjacent to, and in linkage disequilibrium with, APOE on chromosome 19. TOM40 is a mitochondrial import channel protein.
+
+ISSN 1387-2877/12/$27.50 2012 IOS Press and the authors. All rights reserved.

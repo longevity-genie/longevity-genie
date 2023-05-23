@@ -1,0 +1,35 @@
+frequencies per group are reported in parentheses). 
+
+Allele Centenarians (n=168) Controls (n=214) 
+T 212 (63.1%) 248 (57.9%) 
+G 124 (36.9%) 180 (42.1%) 
+
+The statistical analysis did not show a significant difference in allelic frequencies at -330 IL-2 T/G SNP among centenarians and controls. The absence of statistical difference among centenarians and controls was also confirmed by studying allele frequencies stratified according to gender.
+
+Discussion
+
+The immune response in the elderly is characterized by a progressive loss of the ability to cope with environmental stressors, which leads to a characteristic remodeling of the cytokine network. One of the most commonly reported data in the literature is the decrease in IL-2 production. IL-2 plays a central role in the reconstitution of T cell function in vitro and studies on a T/G polymorphism at 330 nt of IL-2 gene promoter region have demonstrated that T lymphocytes from 330GG homozygous subjects are able to produce higher amounts of IL-2 than 330TG heterozygous or 330TT homozygous subjects.
+
+As a genetic background conditioning the maintaining of an efficient immune response would exert positive effects on healthy aging, this study aimed to investigate the association between 330T/G IL-2 single nucleotide polymorphism (SNP) and longevity in a population of centenarians and controls matched for age and ancestry from Centre and South Italy.
+
+The statistical analysis did not show a significant difference in genotypic and allelic frequencies at -330 IL-2 T/G SNP among centenarians and controls, except for a marginally significant trend for an increased -330TT genotype frequency observed through extended Mantel Haenszel procedure. These findings seem paradoxical considering the role attributed to well-conserved T cell function in successful aging, but a similar distribution of 330T/G genotype was also observed in a recent study on a sample of Irish octogenarians. These data suggest that a genetic background favoring an increased IL-2 production might be detrimental for longevity.
+
+In addition, an increase in IL-2 and other pro-inflammatory cytokine production characterizes the Alzheimer's disease serum profile. All in all, these data suggest that a reduction of 330G allele frequency might be protective for healthy aging, limiting cell-mediated inflammation implied in age-associated diseases.
+
+Conclusion
+
+This study investigated the association between 330T/G IL-2 SNP and longevity in a population of centenarians and controls matched for age and ancestry from Centre and South Italy. The statistical analysis did not show a significant difference in genotypic and allelic frequencies at -330 IL-2 T/G SNP among centenarians and controls, except for a marginally significant trend for an increased -330TT genotype frequency observed through extended Mantel Haenszel procedure. These findings suggest that a genetic background favoring an increased IL-2 production might be detrimental for longevity.Frequencies per group are reported in parentheses. Ageing data are accumulating on the role that high IL-2 production might play in immune-inflammatory mediated diseases. In humans, as reported by Solerte et al. (2000), high IL-2, as well as interferon-c and tumor necrosis factor-a, serum levels characterize subjects affected by Alzheimer's disease. Furthermore, IL-2 increase has been associated with evolving atherosclerosis and coronary events in stable and unstable angina patients (Elkind et al. 2005; Methe et al. 2005). So the role of IL-2 in ageing might be more complex than that postulated as adaptive response rescue factor in immunosenescence (Lio et al. 2000; Candore et al. 2002; Pawelec et al. 2002). Immunosenescence may actually be considered an attempt to adapt response to the stressors of an aged immune system (Franceschi et al. 2005). A beneficial mechanism (i.e., genetically determined IL-2 high production), devoted to the neutralization of dangerous/harmful agents early in life and in adulthood, turns out to be detrimental late in life, in a period largely not foreseen by evolutionary strengths, and the reduction of IL-2 production, at least in part favored by genetic background, or modification of cellular machinery of signal transduction might be a protective adaptation against age-related diseases that are the price we pay for a lifelong active immune system (Caruso et al. 2005; Licastro et al. 2005).
+
+IL-2 )330 Alleles Centenarians Controls 336 (%) 428 (%) T 212 (63.1) 248 (57.9) G 124 (36.9) 180 (42.1)
+
+No significant different distributions of IL-2 )330T/G alleles were observed among control and centenarian subjects.
+
+Discussion mediated immune response and defects in IL-2-mediated activation (e.g., for a deficit of c chain of Il-2 receptor) induce severe immune deficiency (Demoulin and Renauld 1998). An age-related decline in IL-2 production with associated effects on intracellular activation of nuclear transcription pathways involving a reduction of ERK2 activity (Douziech et al. 2002) is considered a marker for immune senescence (Candore et al. 1992; Caruso et al. 1996; Rea et al. 1996; Pawelec et al. 2002). Recently, a polymorphism (T/G), reported in the promoter region of IL-2 at the nucleotide position 330, (John et al. 1998), has been shown to influence IL-2 production and in vitro cytokine production in anti-D3/CD28-stimulated peripheral blood lymphocytes (Hoffman et al. 2001). G allele frequencies of IL-2 330 polymorphism in smaller samples of Caucasian populations across Europe have been documented as 30-40% in Germany, in Ireland, and in North Italy (John et al. 1998; Reynard et al. 2000; Ross et al. 2003; Uboldi de Capei et al. 2003), and about 35% was observed in our control population.
+
+Acknowledgments: This work was supported by grants from the Italian Ministry of Education, University and Research to GC, DL, GCR, CC. Funds from the Italian Ministry of Health (Genetic and non-genetic factors of health in elderly) to CF, GP, and GCR are also acknowledged. AC is a PhD student at Pathobiology PhD course (directed by C.C.) of Palermo University, and this work is in partial fulfillment of the requirement for the PhD.
+
+To date, there is only another study on IL-2 )330 G/T polymorphism frequency in aged people (but not in centenarians). The data, obtained comparing young and elderly Irish subjects (Ross et al. 2003), were in agreement with our present findings, showing a not significant increase of T allele frequencies in elderly. So present and previous reports seem to suggest that IL-2 low producer genotype is marginally but not significantly associated with longevity.
+
+References: Bidwell J, Keen L, Gallagher G, Kimberly R, Huizinga T, McDermott MF, Oksenberg J, McNicholl J, Pociot F, Hardt C and DAlfonso S (1999) Cytokine gene polymorphism in human disease: online databases. Genes Immun 1: 319.
+
+On the other hand, our data prompts some consideration on the role that IL-2 plays in John S, Turner D, Donn R, Sinnott P, Worthington J, Oll

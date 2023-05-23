@@ -1,0 +1,51 @@
+The Frequency of 4 Common Polymorphisms in Nonagenarians, Centenarians, and Average Life Span Individuals
+
+1,2 Genovefa Kolovou, MD, PhD, Vana Kolovou, MSc, 1,2 Vasiliadis, MD, PhD, Vasiliki Giannakopoulou, MD, 3,4 Mihas, MSc, PhD, Helen Bilianou, MD, 5 Kollia, MSc, Evaggelia Papadopoulou, MSc, PhD 6 Marvaki, MD , Georgos Goumas, MD , 7 8 Kalogeropoulos, MD , Sotiria Limperi, MD, PhD , 9 Katsiki, MD, PhD , and Sophie Mavrogeni, MD, PhD
+
+Abstract
+
+Single nucleotide polymorphisms of angiotensin-converting enzyme (ACE) such as rs1799752; nuclear factor kappa B (NFkB) such as rs28362491; and cholesteryl ester transport protein (CETP) such as rs708272 (TaqB1) and rs5882 (I405V) were evaluated in nonagenarians; centenarians; and average life span individuals (controls). The study population (n = 307; 190 nonagenarians; 12 centenarians and 105 middle-aged controls) was genotyped for ACE; NFkB; and CETP genetic variants. The age of the nonagenarian and centenarian group ranged between 90 and 111 years; centenarians and controls age ranged from 99 to 111; and from 18 to 80 years respectively. The I carriers of ACE I/D gene were fewer in nonagenarians compared to centenarians (37.6% vs. 62.5%, P = 0.016). The I carriers of ACE gene were more frequent in centenarians compared to controls (62% vs. 41%, P = 0.045). No differences in frequency of common NFkB and CETP genotypes between patients with exceptional longevity and middle-aged patients were observed.
+
+Keywords
+
+Centenarians, single nucleotide polymorphisms, angiotensin-converting enzyme, nuclear factor kappa B, cholesteryl ester transport protein
+
+Introduction
+
+During the last decades, the survival of elderly people has improved significantly, and thus the centenarians have become the fastest growing population group.1 Human life span depends on environmental, genetic, and accidental factors.2 Genetic factors contribute to the variation of human life span by around 25%, which is believed to be more profound after 85 years of age.3 According to the genetic influence on longevity, nonagenarians and centenarians may represent a particularly informative study population in the search for traits of genes associated with longevity. Several research teams are working on genes involved in oxidative stress, lipid and glucose metabolism, inflammation, DNA damage and repair, axis of growth hormone and insulin-like growth factor, and others.4 The results are still conflicting, and it may be suggested that the combination of numerous fixed genetic variants will be necessary for someone to achieve exceptional longevity.
+
+The cholesteryl ester transport protein (CETP) may have pro- or antiatherogenic properties depending upon the lipid-metabolic setting.7 High-density lipoprotein (HDL) particles are influenced by CETP activity; CETP promotes the exchange of cholesteryl esters for triglycerides (TGs) between HDL particles and TG-rich lipoproteins.8 Ordovas et al9 suggested that increased HDL cholesterol levels resulting from lower CETP activity seems to be associated with a lower risk of coronary heart disease in men.
+
+Control Group (n = 105). The inclusion criteria for this group were (1) age 18 to <80 years, (2) no personal history of coronary artery disease, diabetes mellitus, thyroid and liver disease, high alcohol consumption, professional athleticism and any chronic disease, and (3) no family history of longevity ((cid:2)90 years).
+
+Nonagenarians and Centenarians (n = 202). The inclusion criteria for these groups were the age (cid:2)90 to 98 years in Nonagenarians and (cid:2)99 years in centenarians. No other inclusion and exclusion criteria were applied.
+
+The renin-angiotensin-aldosterone system (RAAS) also plays a significant role in the maintenance of cardiovascular homeostasis. The angiotensin-converting enzyme (ACE) is an important gene of the RAAS that has been evaluated in the pathogenesis of hypertension, coronary artery disease, heart failure, and recently of longevity. Furthermore, the nuclear factor kappa B (NFkB) gene is a regulator of the genes that encode cytokines and cell-ad43.9% had DD; 117 had 38.4% NFkB[-94ins/delATTG (W/D)], with ins/ins at 106 (47.7%), ins/del at 94 (42.3%), and del/del at 22 (9.9%). The percentage of participants aged below 80 was <80%. The age range was between 90 and 111 years, with a median of 93 + 4 years, while the control group had a median age of 60 + 21 years. The study analyzed three SNPs in four candidate genes in pathways related to lipoprotein metabolism, hypertension, and stress response, all closely related to aging. The I carriers of ACE gene were fewer in nonagenarians compared to centenarians and more frequent in centenarians compared to controls. Genotypic and allele frequencies did not differ by gender in any of the study groups. No adjustment for inflation of type I error due to multiple comparisons was made as a result of their relatively low number.
+
+The I carriers of ACE I/D gene were fewer in nonagenarians compared to centenarians (37.6% vs 62.5%, P .016). Similarly, the I carriers of ACE gene were more frequent in centenarians compared to controls (62% vs 41%, P .045). There were no significant differences in genotypes/allele frequency of both CETP gene polymorphisms between groups.
+
+According to NFkB gene polymorphism, our study did not find any difference in genotypes/allele frequency between groups. Some studies have suggested that NFkB gene polymorphism is involved in aging.
+
+The current study is a candidate-gene association study that compared nonagenarians and centenarians with younger individuals with no possible prediction of their future longevity. Also, the number of participants is relatively small, but we should keep in mind that nonagenarians and centenarians are usually not very enthusiastic to visit hospitals unless it is an urgent health problem. Finally, our study did not have ACE and CETP levels measured in our cohorts.variety of polymorphisms and their relation to human longevity was conducted. To avoid misclassifying heterozygotes as homozygotes, a second PCR was performed. The study focused on individuals from Athens, who were reasonably homogenous in terms of geographical and ethnic origin, with the majority being nonagenarians and centenarians. The study found that there were differences in the frequency of alleles in the oldest two decades compared to middle-aged patients. Understanding aging at a molecular level could provide an option to slow this process and extend lifespan. The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. The authors received no financial support for the research, authorship, and/or publication of this article.
+
+References:
+1. Oeppen J, Vaupel JW. Demography. Broken limits to life expectancy. Science.
+2. Park SK. Genomic approaches for the understanding of aging in model organisms. BMB Rep.
+3. Hjelmborg J, Iachine I, Skytthe A, et al. Genetic influence on human lifespan and longevity. Hum Genet.
+4. Franceschi C, Olivieri F, Marchegiani F, et al. Genes involved in immune response/inflammation, IGF/insulin pathway and response to oxidative stress play a major role in the genetics of human longevity: the lesson of centenarians. Mech Ageing Dev.
+5. Kirkwood TB. A systematic look at an old problem. Nature.
+6. Barzilai N, Shuldiner AR. Searching for human longevity genes: The future history of gerontology in the post-genomic era. J Gerontol A Biol Sci Med Sci.
+7. Tsai MY, Li N, Sharrett AR, et al. Associations of genetic variants in ATP-binding cassette A and cholesteryl ester transfer protein and differences in lipoprotein subclasses in the multi-ethnic study of atherosclerosis. Clin Chem.
+8. Kolovou GD, Anagnostopoulou KK, Daskalopoulou SS, Mikhailidis DP, Cokkinos DV. Clinical relevance of postprandial lipemia. Curr Med Chem.
+9. Ordovas JM, Cupples LA, Corella D, et al. Association of cholesteryl ester transfer protein-TaqIB polymorphism with variations in lipoprotein subclasses and coronary heart disease risk: the Framingham study. Arterioscler Thromb Vasc Biol.
+10. Yang JK, Gong YY, Xie L, et al. Lack of genetic association between the angiotensin-converting enzyme gene insertion/deletion polymorphism and longevity in a Han Chinese population. J Renin Angiotensin Aldosterone Syst.
+11. Blanche H, Cabanne L, Sahbatou M, Thomas G. A study of French centenarians: are ACE and APOE associated with longevity? C R Acad Sci III.
+12. Choi YH, Kim JH, Kim DK, et al. Distributions of ACE and APOE polymorphisms and their relations with dementia status in Korean centenarians. J Gerontol A Biol Sci Med Sci.
+13. Cambien F, Poirier O, Lecerf L, et al. Deletion polymorphism in the gene for angiotensin-converting enzyme is a potent risk factor for myocardial infarction. Nature.
+14. Chang SN, Lin JW, Juang JM, Tsai CT, Hwang JJ, Chiang FT. Association between genetic polymorphisms in the renin-angiotensin system and systolic heart failure revised by a propensity score-based analysis. Cardiology.
+15. Abchee A, El-Sibai M, Youhanna S, et al. The I allele of the angiotensin converting enzyme I/D polymorphism confers protection against coronary artery disease. Coron Artery Dis.
+16. Vina J, Gambini J, Lopez-Grueso R, Abdelaziz KM, Jove M, Borras C. Females live longer than males: role of oxidative stress. Curr Pharm Des.
+17. Wheeler HE, Kim SK. Genetics and genomics of human aging. Philos Trans R Soc Lond B Biol Sci.
+18. Slagboom PE, Beekman M, Passtoors WM, et al. Genomics of human longevity. Philos Trans R Soc Lond B Biol Sci.
+19. McDermott R, Gillespie SM, Nelson D, Newman C, Shah MN. Characteristics and acute care use patterns of patients in a senior living community medical practice. J Am Med Dir Assoc.
+20. Soerensen M, Dato S, Tan Q, et al. Evidence from case-control and longitudinal studies supports associations of genetic variation in APOE

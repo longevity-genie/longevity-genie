@@ -1,0 +1,139 @@
+acids (Sohal and Weindruch, 1996). However, physical function is also a crucial component of healthy aging and longevity (Newman et al., 2001) and it is strongly related to the oxidative stress pathway (Sastre et al., 2003). In fact, physical performance has been reported to be associated with specific genetic variants related to oxidative stress in middle-aged people (Hadjigeorgiou et al., 2012; Gomez-Cabrera et al., 2008) and in elderly people (Dato et al., 2012a; Soerensen et al., 2012). Therefore, investigating the association between genetic variability in the proantioxidant pathways and functional status in very old age may be a promising strategy to identify new molecular markers of longevity, as well as potential targets for intervention to promote healthy aging. In this paper, we analyzed the association of 38 genes (311 SNPs) belonging to the proantioxidant pathways with physical and cognitive performances, by analyzing single SNP and gene-based associations with Hand Grip strength (HG), Activities of Daily Living (ADL), Walking Speed (WS), Mini Mental State Examination (MMSE) and Composite Cognitive Score (CCS) in a Cohort of 1089 Danish nonagenarians. Moreover, for each gene analyzed in the proantioxidant pathway, we tested the influence on longitudinal survival. Our results suggest that genetic variability in the proantioxidant pathway is able to modulate physical and cognitive performance after the ninth decade of life, finally influencing extreme survival.Acids, which are susceptible to lipid peroxidation (Halliwell, 2006), play a role in cognitive ability in older individuals. Studies have found that apolipoprotein E (APOE), catechol-O-methyl transferase (COMT), brain-derived neurotrophic factor (BDNF), and dystrobrevin binding protein 1 (DTNBP1) genes are involved in cognitive ability in older individuals, but these studies did not consider very old subjects. The sample population analyzed was aged around 85 years as a maximum (De Blasi et al., 2009; Lindenberger et al., 2008). ADL refers to Activity Daily Living, HG to Hand Grip, BMI to Body Mass Index, MMSE to Mini Mental State Examination, and CCS to Composite Cognitive Score. Survival data were calculated from a 12-year follow-up period. Participants were defined as not disabled if they were independent in all items and disabled if they were dependent in at least one item. Briefly, this population-based survey started in 1998 when 2,262 of the participants were 92-93.82 years of age (mean age 93.2). Survivors were subsequently re-assessed in 2000, 2003, and 2005 (Christensen et al., 2008; Nybo et al., 2001, 2003). Home-based questionnaires were submitted for the collection of socio-demographic information, assessment of physical, cognitive, depressive status, sensory impairments, medications, self-reported health status. DNA was sampled for each subject participating in the survey. Vital status was followed until death or January 1st, 2013, whichever came first. The mean follow-up time for survivors was 13.4 years (range: 13.2-13.6). Information on survival status was retrieved from the Danish Central Population Register (Pedersen et al., 2006). Preservation of functional ability, together with cognitive performance, is a well-recognized marker of longevity (Schupf et al., 2004). Consistently, predictors of functional status such as HG and disability are key components of frailty definition in old age (Dato et al., 2012a). Furthermore, analyses of longitudinal cohorts of Danish nonagenarians demonstrated that exceptional longevity does not result in excessive levels of disability (Christensen et al., 2008), suggesting a relationship between the general increase of life expectancy with good maintenance of individual activities of daily living. This evidence supports the hypothesis that factors influencing increased survival can also influence disability levels in older cohorts (Engberg et al., 2008), and so longevity and lower disability levels may have common causes at the organismal level. Permission to collect blood samples and usage of register-based information was granted by The Danish National Committee on Biomedical Research Ethics for both initial and follow-up study. In this study, we investigated the association between 311 single nucleotide polymorphisms (SNPs) at 38 genes belonging to the oxidative stress pathway with functional status at very old age through a gene-based approach. To this purpose, we analyzed 1,089 Danish nonagenarians drawn from the longitudinal 1905 Cohort Study, a well-characterized (Christensen et al., 2009; Nybo et al., 2001, 2003) and very suitable sample for genotype-phenotype association studies (Dato et al., 2010; Soerensen et al., 2010, 2012a,b, 2013) for the associations with physical and cognitive parameters. Physical parameters were represented by HG strength, ADL, WS, and cognitive parameters by MMSE and CCS. 
+
+2.2 Genetic data
+Genetic data analyzed in this work were collected in the frame of a project on the study of genetic determinants of human longevity, described in Soerensen et al. (2012b), where 148 genes (1,273 SNPs) belonging to three candidate pathways (GH/IGF-1/Insulin signaling, DNA damage signaling and repair, and pro-anti-oxidant pathways) were investigated in two cohorts of middle-aged and oldest old Danes. Briefly, candidate genes were chosen by integrating a comprehensive analysis of literature and database search. SNP selection was carried out through a dedicated protocol that takes into account both candidate SNPs for aging and age-related diseases in each analyzed pathway and coding or potentially functional SNPs (non-synonymous SNPs, SNPs located in potential splice sites or transcription factor binding sites, and SNPs potentially inducing frame shifts or nonsense-mediated mRNA decay). Finally, HAPMAP tagging SNPs were added to reasonably cover the genetic variability in the gene region. Supplementary Table 1S reports the complete list of the 311 SNPs relative to 38 genes belonging to the pro-anti-oxidant pathway analyzed1.356 0.543 rs4784701 NDUFS1 OXPHOS 5 2 1.260 0.588 rs11695633 0.204 0.998 rs6435326 2.236 0.242 rs6435324 NDUFV1 OXPHOS 1 11 9.613 0.005 rs12793832 4.422 0.079 rs12793832 0.178 0.893 rs12793832 PRDX3 ANTI 6 10 4.068 0.049 rs1553850 3.718 0.065 rs3740562 0.742 0.811 rs3377 SOD2 ANTI 5 6 1.264 0.615 rs5746136 0.812 0.840 rs5746151 4.553 0.012 rs2758331 TXNRD1 ANTI 15 
+12 
+1.779 
+0.371 
+rs4964778 
+1.896 
+0.308 
+rs4964735 
+2.257 
+0.184 
+rs7310505 UCP2 ANTI 
+4 
+11 
+1.019 
+0.685 
+rs2632725 
+1.093 
+0.666 
+rs659366 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+3 
+
+3 
+
+3 
+
+UCP3 ANTI 
+
+4 
+
+11 
+
+2.048 
+
+0.285 
+
+rs11235972 
+
+0.990 
+
+0.699 
+
+rs647126 
+
+2.566 
+
+0.182 
+
+rs11235972 UQCRFS1 OXPHOS 
+
+4 
+
+19 
+
+4.115 
+
+0.038 
+
+rs759628 
+
+
+2
+
+4
+
+4
+
+ Association showing a significance below p b 0.05 are indicated in bold. Note: The prevalent effect of the different genes inside the pro-antioxidant metabolic pathway was reported. PRO: pro-oxidant; ANTI: anti-oxidant; OXPHOS: involved in mitochondrial oxidative phosphorylation. 
+
+Samples with a call fraction lower than 90% were excluded at the level of functional status, and SNPs were excluded if they had a missing frequency (MiF) higher than 10% or a frequency of rare allele (MAF) less than 1%. 
+
+2.4.2. Single-SNP analysis 
+
+The association between the analyzed genetic variants and the quantitative/dichotomous traits was assessed using linear/logistic regression models, ANOVA, and likelihood ratio tests as appropriate to assess the significance of the resulting associations. Since for each SNP three different coding schemes were adopted (dominant, recessive, and additive), the significance of the association was summarized with the MAX statistic approach used in Li et al. (2008). A complete description of this procedure is reported in the Supplementary material (see Statistical Appendix). 
+
+For MMSE, three strong associations were found related to the NDUFV1 gene (p = 0.005), the MT1A gene (p = 0.006), and the GSTP1 gene (p = 0.009), all having a favorable effect on cognitive functioning at single SNP level. Less significant but still under the nominal level were the associations with MMSE levels of UQCRFS1 gene (p = 0.038) and GLRX (p = 0.041). A borderline association with WS performance was detected for TXNRD1 gene too (p = 0.053), which was also associated with ADL levels in this cohort.
+
+The association between genetic variants and survival time was carried out with Cox regression models instead of linear and logistic models to better capture the idiosyncrasies of the survival outcome (see Statistical Appendix). Finally, no gene found associated with a functional phenotype showed a corresponding association with survival. However, two nominally significant associations with survival have been found in the whole sample in relation to LOX (p = 0.013), SOD2 (p = 0.012), and UQCRFS1 (p = 0.038) genes, whose variability was found to positively (LOX) and negatively (SOD2, UQCRFS1) influence the survival at gene level in this Cohort. TXNRD1, although showing a significant association with survival at SNP level (see Supplementary Table 2S_2), was not found associated with survival at gene level in the whole sample.
+
+For each analyzed gene, the gene-based analysis was carried out using the following algorithm: perform single SNP association analysis as described before; compute the gene-based statistic as the average of these single SNP statistics; permute the dataset of times, keeping LD between SNPs constant (i.e., permute phenotype labels); for each0.039 HG GLRX rs6556884 5.750 0.001 UCP3 rs11235972 6.619 0.002 UCP2 rs7109266 5.650 0.008 NOX1 rs5921669 3.752 0.024 WS SOD2 rs2842980 5.103 0.005 GCLC rs2100375 4.159 0.007 MMSE MT1A rs4784701 7.717 0.002 CCS ACOX1 rs8065144 3.176 0.046 NOS3 rs2853792 3.471 0.023 Survival NDUFS1 rs6435324 5.115 0.009 SOD2 rs911847 3.715 0.035 TXNRD1 rs10861169 3.587 0.024 UCP3 rs11235972 4.004 0.041 
+
+In this work, with the aim of investigating the possible pro-antioxidant pathway to functional status at old age, we tested the association of genes belonging to pro- and anti-oxidant pathways with predictors of physical (HG, ADL, and WS) and cognitive decline (MMSE and CCS) at old age in a cohort of Danish nonagenarians. Few studies have investigated the genetic variations influencing physical abilities at old age, and samples were mainly drawn from hospitalized and affected patients.
+
+Positive association was reported between ADL levels and ACE gene by Seripa et al., (2011), while no correlation was found with APOE gene by Kulminski et al., (2008) and Bader et al., (1998), the latter in a cohort of 253 healthy and disabled Italian octo- and nonagenarians.
+
+As for cognitive functioning, studies found an involvement of genes specifically involved in neurological metabolism and dopaminergic neuromodulation, such as APOE, COMT, BDNF, and DTNBP1 genes, with cognitive ability in older adults less than 85 years (De Blasi et al., 2009; Lindenberger et al., 2008). In particular, studies demonstrated an involvement of genetic variability in specific cognitive areas. Moreover, they suggest that aging magnifies the functional consequences of common genetic polymorphisms on specific abilities such as executive functioning and working memory, contributing to the marked heterogeneity in late-life cognitive functioning.
+
+We moved forward exploring the association with functional status of genes belonging to a specific metabolic pathway demonstrated to be biologically involved in physical and cognitive impairment. Overall, only 2 of the top 14 genes found associated with functional status in this work have been previously reported in association studies on physical status at old age in Italian and Danish Cohorts (the latter the same used in the present paper), and they belong to UCPs family (et al., 2011; Dato et al., 2012b). Both UCP2 and UCP3 confirmed have a major effect on physical tests such as HG and WS in the whole sample as well as in the two genders separately, with the rs11235972 survival at old age too. The association of UCP3 gene variant with physical exercise is particularly relevant, considering its expression in skeletal muscle where it regulates fatty acid metabolism, status, and ROS production. This suggests a correlation between uncoupling process and the regulation of muscle metabolism/oxidative stress in the elderly (Dato et al., 2012b and references therein).
+
+All the other associations are new and open the investigation of their variability in future studies. Furthermore, associations holding the multiple comparison correction were found in the female sub-sample, suggesting a sex-specific effect of the pro-antioxidant pathway on the analyzed functional parameters.
+
+4. Discussions
+
+Physical activity has many well-established health benefits, going from the maintenance of muscle mass to the delay of cognitive impairment, to the promotion of psychological wellness. However, it is known that strenuous exercise can be disadvantageous for longevity because it can increase muscle oxygen flux, stimulating intracellular events leading to enhanced oxidative stress (Dato et al., 2013 and references therein). A moderate exercise can instead induce antioxidant adaptation, thereby balancing oxidative stress and muscle deterioration, as demonstrated by an increase of two years in the average lifespan and a delay in disabilities of physically active people in comparison with less active (Ji, 2002).
+
+Progressive oxidative damage is also a conserved central mechanism of age-related cognitive decline because of the higher consumption of oxygen (more than 20% than other tissues) in the brain, with the consequent exposure to ROS from mitochondrial respiration. As for muscle mass, regular physical activity seems to protect against brain damage by preventing brain.
+
+The gene having a major effect on ADL phenotype is TXNRD1, both in the whole sample (pInflammatory status is a typical feature of old age (Vitale et al., 2013). Moreover, a new association was found in relation to MMSE levels with the metallothionein gene MT1A. This discovery opens new avenues of investigation into this gene family's relation to cognitive functioning in humans. Final conclusions on the genetic variants' role in stress mechanisms can only be drawn after confirmation by functional analyses. However, we believe that all associations found in this study should receive attention for future replication studies.
+
+In general, the variability of genes affecting stress response in different individuals and populations deserves future study. Although the oxidative stress pathway has been extensively characterized from a biochemical and molecular point of view, thanks to experimental models and knockout approaches, population association studies investigating the role of genetic variability in genes coding for proteins belonging to the oxidative stress cascade, such as key point regulators NFkB or MAP kinases, are still scarce. A deeper understanding of the genetic background that can provide a more or less efficient stress response and influence age-associated traits can help understand the link between stress response and human aging, ultimately adding a piece to the complex scenario of determinants of human longevity.
+
+NDUFS1's variability was found to be related to HG and WS in the whole sample, suggesting non-negligible effects on physical functioning. The strong association (p = 0.009) of the same gene with survival in the female subsample suggests that NDUFS1 gene, which codes for the largest subunit of mitochondrial complex 1, and whose mutations were correlated with inefficiency of oxidative phosphorylation in Leigh Syndrome (Martin et al., 2005), can also play a role in preserving physical functioning at old age and influence survival.
+
+Supplementary data to this article can be found online at http://dx.doi.org/10.1016/j.exger.2014.01.014.
+
+Furthermore, an interesting association was observed with MMSE levels (p = 0.005) in the whole sample for MT1A variability, which was found to be protective for cognitive functioning at the SNP level. Given that overexpression of the metallothionein gene (MT), a member of a large family of proteins with an anti-apoptotic effect, was shown to increase mouse lifespan (Swindell, 2011) and protect against obesity and diet-induced oxidative damage, we may argue that these genes deserve future attention for their relation to longevity and related phenotypes. Borderline effects on cognitive performance were observed for NOS3 variability in both the male (p = 0.052 with MMSE) and female sample (p = 0.023 with CCS), consistent with previous evidence indicating an association between the gene and mild cognitive impairment (Sol-Padulls et al., 2004). Considering the recent evidence of association between the genetic variability of NOS1 and NOS3 genes with depressive symptoms and disability in a population from Southern Italy, influencing quality of aging and longevity (Montesanto et al., 2013), the present results suggest that...
+
+The authors declare no conflicts of interests that could influence the work.
+
+Acknowledgments
+
+This study was supported by the European Union's Seventh Framework Programme (FP7/2007-2011) under grant agreement no. 259679, the VELUX Foundation, and the National Institute on Aging (P01 AG08761).
+
+References
+
+Bader, G., Zuliani, G., Kostner, G.M., Fellin, R. (1998). Apolipoprotein E polymorphism is not associated with longevity or disability in a sample of Italian octo- and nonagenarians. Gerontology 44(5), 293-299.
+
+Balaban, R.S., Nemoto, S., Finkel, T. (2005). Mitochondria, oxidants, and aging. Cell 120(4), 483-495.
+
+Ballatori, N., Krance, S.M., Notenboom, S., Shi, S., Tieu, K., Hammond, C.L. (2009). Glutathione dysregulation and the etiology and progression of human diseases. Biol. Chem. 390(3), 191-214.
+
+Bartke, A., Coschigano, K., Kopchick, J., Chandrashekar, V., Mattison, J., Kinney, B., Hauck, S. (2001). Genes that prolong life: relationships of growth hormone and growth to aging and life span. J. Gerontol. A Biol. Sci. Med. Sci. 56(8), B340-B349.
+
+Christensen, K., Mue, M., Petersen, I., Jeune, B., Vaupel, J.W. (2008). Exceptional longevity does not result in excessive levels of disability. Proc. Natl. Acad. Scijournal references need to be formatted properly. Here is the processed text with the corrections:
+
+Neuroprotection. Mol. Neurobiol. ( ), Mue, M., Christensen, K., The heritability of cognitive functioning in very old adults: evidence from Danish twins aged 70 years and older. Psychol. Aging, , Montesanto, A., Lagani, V., Martino, C., Dato, S., De Rango, F., Berardelli, M., Corsonello, A., Mazzei, B., Mari, V., Lattanzio, F., Conforti, D., Passarino, G., A novel, population-specific approach to define frailty. Age (Dordr) ( ), Montesanto, A., Crocco, P., Tallaro, F., Pisani, F., Mazzei, B., Mari, V., Corsonello, A., Lattanzio, F., Passarino, G., Rose, G., Common polymorphisms in nitric oxide synthase (NOS) genes influence quality of aging and longevity in humans. Biogerontology ( ), Nybo, H., Gaist, D., Jeune,B . , Mue,M . , Vaupel,J.W . , Christensen,K . , Functional status and self-rated health in 90-year-olds: the Danish Cohort Survey. J. Am. Geriatr. Soc. (May), Nybo,H . , Petersen,H.C . , Gaist,D . , Jeune,B . , Andersen,K . , Mue,M . , Vaupel,J.W . , Christensen,K . , Predictors of mortality in 100-year-olds: the Danish 1905-cohort survey. J. Am. Geriatr. Soc. ( ), Passarino,G . , Calignano,C . , Vallone,A . , Franceschi,C . , Jeune,B . , Robine,J.M . , Yashin,A.I . , Cavalli Sforza,L.L . , De Benedictis,G . , Male/female ratio in centenarians: a possible role played by population genetic structure. Exp. Gerontol. ( ), Pedersen,C.B . , Gotzsche,H . , Moller,J.O . , Mortensen,P.B . , The Danish Civil Registration System. A cohort of eight million persons. Dan. Med. Bull., R Development Team, R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria (http://www.r-project.com). Schupf,N . , Costa,R . , Tang,M.X . , Andrews,H . , Tycko,B . , Lee,J.H . , Mayeux,R . , Preservation of cognitive and functional ability as markers of longevity. Neurobiol. Aging ( ), Sekine,I . , Minna,J.D . , Nishio,K . , Tamura,T . , Saijo,N . , A literature review of molecular markers predictive of clinical response to cytotoxic chemotherapy in patients with lung cancer. J. Thorac. Oncol. ( ), Seripa,D., Paroni,G., Matera,M.G., Gravina,C., Scarcelli,C., Corritore,M., D'Ambrosio,L.P., Urbano,M., D'Onofrio,G., Copetti,M., Kehoe,P.G., Panza,F., Pilotto,A., Angiotensin-converting enzyme (ACE) genotypes and disability in hospitalized older patients. Age (Dordr) ( ), Serviddio,G., Romano,A.D., Greco,A., Rollo,T., Bellanti,F., Altomare,E., Vendemiale,G., Frailty syndrome is associated with altered circulating redox balance and increased markers of oxidative stress. Int. J. Immunopathol. Pharmacol. ( ), Simm,A . , Nass,N . , Bartling,B . , Hofmann,B . , Silber,R.E . , Navarrete Santos,A . , Potential biomarkers of ageing. Biol. Chem. ( ), Soerensen,M . , Dato,S . , Christensen,K . , Mue,M . , Stevnsner,T . , Bohr,V.A . , Christiansen,L . , Replication of an association of variation in the FOXO3A gene with human longevity using both case-control and longitudinal data. Aging Cell ( ), Soerensen,M., Dato,S., Tan,Q., Thinggaard,M., Kleindorp,R., Beekman,M., Jacobsen,R., Suchiman,H.E., de Craen,A.J., Westendorp,R.G., Schreiber,S., Stevnsner,T., Bohr,V.A., Slagboom,P.E., Nebel,A., Vaupel,J.W., Christensen,K., Mue,M., Christiansen,L., Human longevity

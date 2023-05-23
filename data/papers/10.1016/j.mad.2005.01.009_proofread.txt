@@ -1,0 +1,26 @@
+Mechanisms of Ageing and Development 126 (2005) 826-828 www.elsevier.com/locate/mechagedev 
+
+Cholesteryl ester transfer protein (CETP) I405V polymorphism and longevity in Italian centenarians 
+
+a,b,c a Elena Cellini, Benedetta Nacmias, Fabiola Olivieri, Luigi Ortenzi, Andrea Tedde, a c b,d a Silvia Bagnoli, Concetta Petruzzi, Claudio Franceschi, Sandro Sorbi 
+
+a Department of Neurological and Psychiatric Sciences, University of Florence, Viale Morgagni, 85, 50134 Florence, Italy 
+b Department of Gerontological Research, INRCA, Ancona, Italy 
+c Casa di Cura Villa Serena, Associazione L. Petruzzi, Citta` Sant Angelo, Pescara, Italy 
+d Department of Experimental Pathology and Interdepartmental Center L. Galvani, University of Bologna, Bologna 
+
+Abstract 
+
+A common polymorphism (I405V) in exon 14 of the cholesteryl ester transfer protein (CETP) gene has been recently associated with healthy aging in Ashkenazi Jews. In this study, we investigated the CETP polymorphism in a sample of Italian centenarians. Our results do not confirm the association between the I405V CETP variation and the healthy aging phenotype described in the Ashkenazi Jewish population and suggest that other gene-environment interactions contribute to longevity. # 2005 Elsevier Ireland Ltd. All rights reserved. 
+
+Longevity; Healthy aging; Polymorphisms; Cholesteryl ester transfer protein gene; Genetic heterogeneity 
+
+Association in successful aging has been reported for a common polymorphism (I405V) in exon 14 of the cholesteryl ester transfer protein (CETP, 16q21) gene in Ashkenazi Jewish centenarians. The VV genotype was also correlated with lower CETP serum levels and larger lipoprotein particle sizes. Recent evidence supports a genetic influence on exceptional longevity, therefore, identifying protective variants against age-related illnesses, such as cardiovascular diseases, may provide an important contribution to better understanding healthy aging. Complex gene-environment and gene-gene interactions, resulting in epistatic or pleiotropic effects, may play a significant role in longevity. 
+
+In our genetic study, we compared the I405V polymorphism distribution in 364 Caucasian subjects: 175 Italian centenarians (141 women and 34 men, mean age 99.6 ± 2.6 years; 63% aged >100 years) and 189 sex-matched healthy individuals as a control group (mean age 69.2 ± 8.3 years). Subjects were enrolled from three Italian cities (Florence, Bologna and Pescara). The Ethical Committee from each institution approved the study. A detailed medical history was acquired from the centenarians, and they or their caregiver gave written informed consent after receiving a clear explanation of the study. 
+
+By using demographic lists provided by the registry offices, potentially eligible subjects with exceptional longevity were identified in the three city areas under study, and 60% agreed to participate. The long-lived individuals were in good health relative to their very advanced age and did not present more common age-related pathologies (e.g., severe cognitive impairment, severe physical impairment, clinically evident cancer or renal insufficiency), although some had decreased auditory and visual acuity (categories A and B according to Franceschi et al., 2000). Healthy control subjects sharing the same ethnic and environmental background, such as a centenarian spouse or an individual matched to the long-lived subjects with respect to geographical origin and economic history, were included in the study. 
+
+A previous report (Baggio et al., 1998) did not show a favorable lipid profile suggesting that a continuous and complex reshaping of lipid parameters likely contributes to longevity. Further studies are needed to elucidate the role of the CETP variant in longevity. Due to the difficulties of recruiting subjects of an extreme age, there is a need to plan a joint study analyzing larger samples of long-lived individuals from different populations, evaluating the correlation between biological, clinical phenotype, and genotype. This should clarify if a CETP genotype is necessary or/and sufficient for successful aging or if such an association oscillates according to the various ethnic backgrounds and/or other unknown sources of stratification. 
+
+The genotype and allele frequency distributions (Table 1), conforming to the Hardy-Weinberg equilibrium (p > 0.05), were similar for the long-lived subjects and controls. The VV genotype (8.6%) and V allele (31%) frequencies in Italian long-lived subjects differ from those previously reported by Barzilai and coworkers (24.8% for the VV genotype and 46

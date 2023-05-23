@@ -1,0 +1,57 @@
+Gender-specific Association of ADA Genetic Polymorphism with Human Longevity
+
+Valerio Napolioni and Nazzareno Lucarini
+
+Received: 19 August 2009 / Accepted: 11 February 2010 / Published online: 20 February 2010
+
+Springer Science+Business Media B.V. 2010
+
+Adenosine Deaminase (ADA) gene, responsible for regulating the immune system and metabolic rates through the cellular level of adenosine, is investigated in its involvement in longevity. The study included 884 unrelated healthy individuals (400 males and 484 females), aged between 101 and 106 years, from central Italy. ADA genotyping was performed by RFLP-PCR. Frequency distributions were compared using the chi-square test, and a three-way contingency table analysis by a log-linear model was applied to test independence between variables.
+
+Results suggest that ADA influences human lifespan in a sex and age-specific way. An increased frequency of ADA*2 carriers was found in males aged 80-85, while a decreased frequency was observed in males over 85 (v2 = 13.93; df = 3; P = 0.003). No significant differences were found among age groups in females, which suggests that genetic factors have marginal influence on determining longevity in this sex, confirming previous reports. A strong interaction among age groups, ADA genotype, and sex (G = 15.086; df = 3; P = 0.0017) was found. Males aged 80-85 could be protected from ischemic stroke by higher levels of adenosine (determined by the ADA*2 allele). The decrease of ADA*2 carriers in males over 85 may depend essentially on immunological factors with reduced levels of adenosine.
+
+Introduction
+
+Research shows that oxidative stress and immunosenescence significantly impact human life expectancy. Several epidemiological data indicate that genetic factors determine longevity, and numerous possible associations between allelic variants of genes and longevity have been described. The ADA gene, encoding Adenosine Deaminase (ID 100; EC reference number EC 3.5.4.4), which regulates the immune system and metabolic rates, is an excellent candidate for determining human longevity. Individuals carrying congenital defects of ADA are affected by severe combined immunodeficiency (SCID; OMIM 102700), which is characterized by the absence of functional T and B lymphocytes.
+
+ADA genotyping
+
+Genomic DNA was extracted according to Miller et al. (1988) and stored at -20°C prior to gene analysis. Genomic DNA was amplified by PCR with primers flanking the G22A polymorphic region: 50-GCCCGGCCCGTTAAGAAGAGC-30 as sense primer, and 50-GGTCAAGTCAGGGGCAGAAGCAGA-30 as antisense primer (GenBank accession No. M13792). These primers yielded a 397 bp PCR product in a 20 µl reaction mixture containing 1.5 µl of template DNA, 0.6 U Phusion High Fidelity-DNA polymerase (Finnzymes, Finland), 0.6 µl of DMSO 100%, 0.5 µM of each primer, and a final concentration of 200 µM dNTPs and 1× Phusion HF buffer (Finnzymes). The amplification reaction was performed on a Biometra T-gradient thermal-cycler with initial denaturation at 98°C for 3 min, followed by 35 cycles of a two-step PCR protocol consisting of denaturation step at 98°C for 15 s and one annealing/extension step at 72°C for 15 s with a final extension time of 5 min at 72°C. The PCR product was digested with TaqI (Promega) for 90 min at 65°C, and the samples were electrophoresed in a 1.8% agarose gel. The PCR product of the ADA*1 (G22) allele was cleaved into 245-bp and 152-bp fragments. The ADA*2 (A22) allele was identified by the lack of a Taq I restriction site.
+
+Subjects
+
+Eight hundred and eighty-four unrelated healthy individuals, randomly selected from the same geographical area of central Italy, were studied. Health status information obtained for all individuals indicated that no acute pathological condition was present. Almost all subjects up to age 65 were recruited in blood donor centers, while those over 65 were recruited through family physicians or among guests in homes for the elderly. The subjects were divided into four age groups: 272 subjects aged <70 years (131 males and 141 females, mean age 49.8 ± 14.9), 280 subjects aged 80-85 years (143statistical factors that contribute to longevity. The study suggests that high levels of adenosine can increase inflammation and fibrosis, protect tumors from immune-mediated damage, and inhibit the activity of NK and other effector cells. The ADA 2-1 genotype is more prevalent in males aged 80-85 due to the protective effect of elevated cellular concentrations of adenosine during ischemic attack. Women over age 85 may respond differently to the ADA 2-1 genotype due to the action of estrogens throughout their life. Thymic involution occurs more rapidly in males than in females, and it plays a central role in the development of an immunological risk profile. The reduction of the ADA 2-1 genotype in males aged over 85 is likely due to the higher level of cellular adenosine determined by this genotype, which triggers the release of IL-6 and IL-1b. Female longevity is less dependent on hereditary factors than male longevity, and it is likely that males and females follow different routes to attain longevity. The better lifestyle and more favorable environmental factors that have characterized Western society over the last century may have benefited women more than males and further reduced the genetic component of female longevity.Environmental factors are involved in controlling the lifespan expectancy of humans. We would like to thank Cynthia L. Pon and Claudio O. Gualerzi for checking the English. No conflicts of interest were declared.
+
+References:
+
+Battistuzzi G, Scozzari R, Santolamazza P, Terrenato L, Modiano G (1993) Comparative activity of red cell adenosine deaminase allelic forms. Nature 365: 51-54.
+
+Bellizzi D, Rose G, Cavalcante P, Covello G, Dato S, De Rango F, Greco V, Maggiolini M, Feraco E, Mari V, Franceschi C, Passarino G, De Benedictis G (2005) A novel VNTR enhancer within the SIRT1 gene, a human homologue of SIR2, is associated with survival at oldest ages. Genomics 85: 258-263.
+
+Blackburn MR (2003) Too much of a good thing: adenosine overload in adenosine-deaminase-deficient mice. Trends Pharmacol Sci 24: 66-70.
+
+Mendelsohn ME, Karas RH (1999) The protective effects of estrogen on the cardiovascular system. N Engl J Med 340: 1801-1811.
+
+Miller SA, Dykes DD, Polesky HF (1988) A simple salting out procedure for extracting DNA from human nucleated cells. Nucleic Acids Res 16: 1215.
+
+Montesanto A, Passarino G, Senatore A, Carotenuto L, De Benedictis G (2007) Spatial analysis and surname analysis: complementary tools for shedding light on human longevity patterns. Ann Hum Genet 71: 214-226.
+
+Passarino G, Montesanto A, Dato S, Giordano S, Domma F, Mari V, Feraco E, De Benedictis G (2006) Sex and age specificity of susceptibility genes modulating survival at old age. Hum Hered 62: 213-220.
+
+Pido-Lopez J, Imami N, Aspinall R (2001) Both age and gender affect thymic output: more recent thymic migrants in females than males as they age. Clin Exp Immunol 125: 409-413.
+
+Raskovalova T, Lokshin A, Huang X, Jackson EK, Gorelik E (2005) Adenosine-mediated inhibition of cytotoxic activity and cytokine production by IL-2/NKp46-activated NK cells: involvement of protein kinase A isozyme I (PKA I). Immunol Res 31: 165-181.
+
+Salvioli S, Olivieri F, Marchegiani F, Cardelli M, Santoro A, Bellavista E, Mishto M, Invidia L, Capri M, Valensin S, Sevini F, Cevenini E, Celani L, Lescai F, Gonos E, Caruso C, Paolisso G, De Benedictis G, Monti D, Franceschi C (2006) Genes, ageing and longevity in humans: problems, advantages and perspectives. Free Radic Res 40: 1303-1323.
+
+Schachter F (1994) Causes, effects and constraints in the genetics of human longevity. Am J Hum Genet 54: 264-273.
+
+Sun CX, Zhong H, Mohsenin A, Morschl E, Chunn JL,Molina JG,Belardinelli L,Zeng D,BM(2006) Role of A2B adenosine receptor signaling in adenosine-dependent pulmonary inflammation and injury. J Clin Invest 116: 2173-2182.
+
+Sun Y, Wu F, Sun F, Huang P (2008) Adenosine promotes IL-8 release in airway epithelia. J Immunol 180: 4173-4181.
+
+Tan Q, De Benedictis G, Yashin AI, Bonafe M, Duca M, Valensin S, Vaupel JW, Franceschi C (2001) Measuring the genetic influence in modulating the human life span: gene-environment interaction and the sex-specific genetic effect. Biogerontology 2: 157-167.
+
+Tavilani H, Sheikh N, Vaisi-raygani A, Setarehbadi R (2008) Sex differences in adenosine deaminase activity of stroke patients. Clin Chem Lab Med 46: 1199-1202.
+
+Vina J, Borras C, Gambini J, Sastre J, Pallardo FV (2005) Why females live longer than males: control of longevity by sex hormones.

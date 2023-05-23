@@ -1,0 +1,56 @@
+(52.2 ± 2.3) C 155 (45.1 ± 2.9) 236 (47.8 ± 2.3) Genotypes TT 71 (41.3 ± 3.5) 116 (47.0 ± 3.0) TC 75 (43.6 ± 3.5) 103 (41.7 ± 2.9) CC 26 (15.1 ± 2.7) 28 (11.3 ± 2.1)
+
+Blackwell Publishing Ltd.
+G/C polymorphism of transforming growth factor β1 is associated with human longevity: a study in Italian centenarians
+Giuseppina Carrieri, * Erika Marzi, * Fabiola Olivieri, Francesca Marchegiani, Luca Cavallone, Maurizio Cardelli, Simona Giovagnetti, Rosalia Stecconi, Cinzia Molendini, Chiara Trapassi, Giovanna De Benedictis, Dimitri Kletsas and Claudio Franceschi
+INRCA, Italian National Research Center on Aging, Ancona, Italy
+CIG, Interdepartmental Center L.Galvani for Integrated Studies on Bioinformatics, Biophysics, and Biocomplexity, University of Bologna, Bologna, Italy
+Department of Experimental Pathology, University of Bologna, Bologna, Italy
+Department of Cell Biology, University of Calabria, Rende, Italy
+Institute of Biology, NCSR Demokritos, Athens, Greece
+
+Younger individuals had significantly higher plasma levels of TGF-β1 than the elderly group (P = 0.007). Finally, active TGF-β1 plasma levels were significantly increased in the elderly group but no relationship with TGF-β1 genotypes was observed. These results suggest that at least in this population, the variability of the TGF-β1 gene influences longevity and that the age-related increase in plasma levels of active TGF-β1 seems not to be genetically regulated.
+
+Keywords: aging; centenarians; inflammation; longevity; polymorphism; TGF-β1.
+
+Introduction
+
+A growing amount of data suggests that aging is associated with an up-regulation of the inflammatory response, probably due to chronic antigenic stress which impinges lifelong upon innate immunity and leads to a pro-inflammatory status that we proposed to call "inflamm-aging" (Franceschi et al., 2000a). Indeed, a series of studies demonstrated that inflammation is involved in the pathogenesis of several age-related disorders (e.g. atherosclerosis, Alzheimer's disease and osteoporosis) and in the increase of mortality risk (Franceschi et al., 2000a; Bruunsgaard et al., 2001; Lio et al., 2003). Cytokines play an important role in inflamm-aging, and many of them may be involved in the pathogenesis of those age-related disorders having an important inflammatory component. Interestingly, several studies suggest that common sequence variations of the cytokine genes may affect the amount of cytokine secreted (Bidwell et al., 1999, 2001) and may consequently affect inter-individual differences in the inflammatory response, thus modulating susceptibility and severity of several pathologies (Keen et al., 1998; Francis et al., 1999; Licastro et al., 2000). Moreover, sequence variations in several cytokines such as interleukin-6, interleukin-10 and interferon have been shown to be associated with successful aging and longevity (Bonafè et al., 2001; Lio et al., 2002a,b).
+
+Summary
+
+Sequence variations in a variety of pro- or anti-inflammatory cytokine genes have been found to influence successful aging and longevity. Because of the role played by the transforming growth factor β1 (TGF-β1) cytokine in inflammation and regulation of immune responses, the variability of the TGF-β1 gene may affect longevity by playing a role in inflamm-aging. Two polymorphisms, G/A and C/T, located in the 5' region, and two missense polymorphisms, T/C and G/C which change 869 915 (Leu > Pro) and (Arg > Pro), respectively, located in the 10 25 signal peptide, were analyzed in 419 subjects from Northern and Central Italy, including 172 centenarians and 247 younger controls. In addition, the effects of the TGF-β1 genetic variability on plasma levels of the biologically active form (naturally processed) of this cytokine were studied in 143 randomly selected subjects, including 73 centenarians. Significant differences were found at the +915 site as far as the C allele and GC genotype were concerned, both of them being lower incontrols. The study also found that active TGF-1 plasma levels were significantly higher in centenarians than in younger controls, indicating the potential role of this cytokine in human longevity. However, no association was found between TGF-1 gene polymorphisms and plasma levels of active TGF-1. The results suggest that the G/C polymorphism at codon 25 within the signal peptide of the TGF-1 gene may be associated with long life expectancy, possibly due to its effect on efficient production of mature TGF-1 or regulation of gene transcription. The study did not find any gender-specific differences in genotype and allele frequency distributions at the TGF-1 analyzed loci.to Hardy-Weinberg equilibrium expectations by chi-square test. Differences in allele and genotype frequencies between groups were analysed by chi-square test or Fisher's exact test, as appropriate. Continuous variables were compared by Student's t-test or Mann-Whitney U-test, as appropriate. The level of significance was set at P < 0.05. All data were analysed with the SPSS statistical package (SPSS Inc., Chicago, IL, USA).Between the young and centenarian groups, there was a significant difference as determined by the Monte-Carlo 2 test. Hardy-Weinberg equilibrium (HWE) was confirmed by Monte Carlo Markov Chain analysis (Guo & Thompson, 1992). Haplotype frequencies were estimated using an Expectation Maximization (EM) algorithm, implemented with the Arlequin package (Schneider et al., 2000). A general linear model implemented in the SPSS Package was used to assess age effects on plasma levels.
+
+Acknowledgments
+
+This work was partially supported by grants from the Italian Ministry of Health Progetto Finalizzato 2002 Studio Multicentrico sui Determinanti Genetici e non Genetici di Salute nell'Età Avanzata, European Union Grants FUNCTIONAGE & ECHA, TCIA & Italian Ministry of Education, University & Research PRIN 2003. We thank Drs M. Bonaf and S. Salvioli for helpful discussions.
+
+References
+
+Arkwright PD, Laurie S, Super M, Pravica V, Schwarz MJ, Webb AK, Hutchinson IV (2000) TGF-beta(1) genotype and accelerated decline in lung function of patients with cystic fibrosis. Thorax 55, 459-462.
+
+Awad MR, El-Gamel A, Hasleton P, Turner DM, Sinnott PJ, Hutchinson IV (1998) Genotypic variation in the transforming growth factor-beta1 gene: association with transforming growth factor-beta1 production.
+
+Franceschi C, Olivieri F, Marchegiani F, Cardelli M, Cavallone L, Capri M, Salvioli S, Valensin S, De Benedictis G, Di Iorio A, Caruso C, Paolisso G (in press) Genes involved in immune response/inflammation, IGF/Insulin pathway, and response to oxidative stress play a major role in the genetics of human longevity: the lesson of centenarians. Mech. Ageing Dev. (in press).
+
+Francis SE, Camp NJ, Dewberry RM, Gunn J, Syrris P, Carter ND, Jeffery S, Kaski JC, Cumberland DC, Duff GW, Crossman DC () Interleukin-1 receptor antagonist gene polymorphism and coronary artery disease. Circulation , 
+
+Frippiat C, Chen QM, Zdanov S, Magalhaes JP, Remacle J, Toussaint O () Subcytotoxic H2O2 stress triggers a release of transforming growth factor-beta 1 , which induces biomarkers of cellular senescence in human diploid fibroblasts. J. Biol. Chem. , 
+
+Frippiat C, Dewelle J, Remacle J, Toussaint O () Signal transduction in H2O2-induced senescence-like phenotype in human diploid fibroblasts. Free Radic. Biol. Med. , 
+
+Garasto S, Rose G, Derango F, Berardelli M, Corsonello A, Feraco E, Mari V, Maletta R, Bruni A, Franceschi C, Carotenuto L, De Benedictis G () The study of APOA4,APOC3 and APOA5 variability in healthy aging people reveals another paradox in the oldest old subjects. Ann. Hum. Genet. , 
+
+Gorelik L, Flavell RA () Transforming growth factor-beta in T-cell biology. Nat. Rev. Immunol. , 
+
+Grainger DJ, Heathcote K, Chiano M, Snieder H, Kemp PR, Metcalfe JC, Carter ND, Spector TD () Genetic control of the circulating concentration of transforming growth factor type beta. Hum. Mol. Genet. , 
+
+Guo SW, Thompson EA () A Monte Carlo method for combined segregation and linkage analysis. Am. J. Hum. Genet. , 
+
+Hoffmann SC, Stanley EM, Darrin Cox E, Craighead N, DeMercurio BS, Koziol DE, Harlan DM, Kirk AD, Blair PJ () Association of cytokine polymorphic inheritance and in vitro cytokine production in anti-CD3/CD28-stimulated peripheral blood lymphocytes. Transplantation , 
+
+Holla LI, Fassmann A, Benes P, Halabala T, Znojil V () Polymorphisms in the transforming growth factor-beta1 gene (TGF-beta1) in adult periodontitis. J. Clin. Periodontol. , 
+
+Keen RW, Woodford-Richens KL, Lanchbury JS, Spector TD () Allelic variation at the interleukin-1 receptor antagonist gene is associated with early postmenopausal bone loss at the spine. Bone , 
+
+Letterio JJ, Roberts AB () RegulationI'm sorry, but there is no text enclosed in ``` ``` for me to proofread and improve. Please provide me with the text so I can assist you.
