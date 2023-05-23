@@ -36,15 +36,17 @@ def write(model: str, base: str):
     print("saving modules and papers")
     index.with_modules(locations.modules_text_data).with_papers().persist()
 
-@app.command("prepare_clinvar")
+@app.command("clinvar")
 @click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
 @click.option('--base', default='.', help='base folder')
-def write(model: str, base: str):
+def index_clinvar(model: str, base: str):
     load_dotenv()
     locations = Locations(Path(base))
+    output = locations.clinvar_text
+    prepare_clinvar(locations.clinvar, output)
     index = Index(locations.paper_index, model)
     print("saving modules and papers")
-    index.with_modules(locations.modules_text_data).with_papers(locations.papers).persist()
+    index.with_modules(output).persist()
 
 @app.command("longevity_gpt")
 @click.option('--question', default='What is aging?', help='Question to be asked')
@@ -52,21 +54,18 @@ def longevity_gpt_command(question: str):
     return longevity_gpt(question, [])
 
 
-#@app.command("clinvar")
-#@click.option('--base', default='.', help='base folder')
-#def clinvar(base: str):
-    #locations = Locations(Path(base))
-    #return longevity_gpt(question, [])
-
 @app.command("test")
 @click.option('--chain', default="map_reduce", type=click.Choice(["stuff", "map_reduce", "refine", "map_rerank"], case_sensitive=True), help="chain type")
-@click.option('--process', default="split", help="preprocessing type")
-@click.option('--search', default='similarity', type=click.Choice(["similarity", "mma"], case_sensitive=True), help='search type')
+#@click.option('--process', default="split", help="preprocessing type")
+@click.option('--model', default="gpt-3.5-turbo")
+@click.option('--search', default='similarity', type=click.Choice(["similarity", "mmr"], case_sensitive=True), help='search type')
+@click.option('--k', default = 10, help = "search kwargs")
 @click.option('--base', default='.', help='base folder')
-def test_index(chain: str, process: str,  search: str, base: str):
+def test_index(chain: str,  model: str, search: str, k: int,  base: str):
     locations = Locations(Path(base))
-    index = Index(locations.paper_index, "gpt-3.5-turbo", chain_type=chain, search_type=search) #Index(locations, "gpt-4")
+    index = Index(locations.paper_index, model, chain_type=chain, search_type=search, k = k) #Index(locations, "gpt-4")
     question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic variants in FOXO gene, explain their connection with aging and longevity"
+    #question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic polymorphisms, for each of them explain what this genetic variant is about, its association with longevity, aging and diseases, also explain the role of the gene it belongs to."
     print(f"Q1: {question1}")
     answer1 = index.query_with_sources(question1, [])
     print(f"A1: {answer1}")

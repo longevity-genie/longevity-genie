@@ -1,5 +1,7 @@
 import click
 from click.core import Context
+from langchain.agents import AgentExecutor
+
 from genie.constants import prompt_1, prompt_2, prompt_3, prompt_4, prompt_5, prompt_6
 from genie.agents import init_csv_agent, init_simple_llm_agent
 
@@ -23,7 +25,9 @@ def calculate_trials_statistics(verbose: bool, base: str, trial_file_name: str, 
         '1': prompt_1,
         '2': prompt_2,
         '3': prompt_3,
-        '4': prompt_4
+        '4': prompt_4,
+        '5': prompt_5,
+        '6': prompt_6
     }
     print('Calculating statistics for the file {0}'.format(trial_file_name))
     print(prompts_dict[prompt_number])
@@ -35,7 +39,7 @@ def calculate_trials_statistics(verbose: bool, base: str, trial_file_name: str, 
 @click.option('--base', default='.', help='start folder for Locations object')
 @click.option('--trial_file_name', default='ct_denorm_dataset.csv', help='name of the csv file')
 def get_trials_reasons(verbose: bool, base: str, trial_file_name: str):
-    csv_agent = init_csv_agent(verbose, base, trial_file_name)
+    csv_agent: AgentExecutor = init_csv_agent(verbose, base, trial_file_name)
     llm_agent = init_simple_llm_agent()
     res = csv_agent.run(prompt_5)
     print(llm_agent(prompt_6 + res))

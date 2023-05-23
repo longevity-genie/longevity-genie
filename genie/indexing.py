@@ -50,8 +50,10 @@ class Index:
                  persist_directory: Path,
                  model_name: str = "gpt-3.5-turbo",
                  chain_type: str = "stuff",
-                 search_type: str = "mma",
-                 chunk_size: int = 1000): #, chroma_server: str = "0.0.0.0", chroma_port: str = "6000"
+                 search_type: str = "similarity",
+                 chunk_size: int = 1000,
+                 k: int = 10
+                 ): #, chroma_server: str = "0.0.0.0", chroma_port: str = "6000"
         self.persist_directory = persist_directory
         self.embedding = OpenAIEmbeddings()
         #settings = Settings(chroma_api_impl="rest", chroma_server_host=chroma_server, chroma_server_http_port=chroma_port)
@@ -61,14 +63,15 @@ class Index:
         self.model_name = model_name
         self.splitter = RecursiveSplitterWithSource(chunk_size=chunk_size, chunk_overlap=500)
         self.chain_type = chain_type
-        self.chain = self.make_chain(self.chain_type, search_type=search_type)
+        self.k = k
+        self.chain = self.make_chain(self.chain_type, search_type=search_type, k = self.k)
 
 
-    def make_chain(self, chain_type: str, search_type: str):
+    def make_chain(self, chain_type: str, search_type: str, k: int):
         self.llm = ChatOpenAI(model_name=self.model_name)
         chain = RetrievalQAWithSourcesChain.from_chain_type(
             self.llm,
-            retriever=self.db.as_retriever(search_type = search_type),
+            retriever=self.db.as_retriever(search_type = search_type, search_kwargs={"k": k}),
             chain_type=chain_type
         )
         if self.model_name == "gpt-4":
@@ -77,7 +80,7 @@ class Index:
         return chain
 
 
-    def query_with_sources(self, question: str, previous_dialog: list[str]):
+    def query_with_sources(self, question: str,  previous_dialog: list[str], k: int = 10):
         #TODO process previous dialog
         return self.chain({self.chain.question_key: question})
 
@@ -85,9 +88,9 @@ class Index:
     #    return self.chain({self.chain.question_key: question})
 
     def modules_to_documents(self, folder: Path): #OLD
-        modules = with_ext(folder, "tsv").to_list()
+        modules = with_ext(folder, "tsv").to_list() if folder.is_dir() else seq([folder])
         print(f"detected text for the following modules {modules}")
-        modules_loaders = [DataFrameLoader(pd.read_csv(tsv, sep="\t")) for tsv in with_ext(folder, "tsv")]
+        modules_loaders = [DataFrameLoader(pd.read_csv(tsv, sep="\t")) for tsv in modules]
         print(f"indexing {len(modules_loaders)} modules")
         modules_docs = seq([loader.load() for loader in modules_loaders]).flatten().to_list()
         return modules_docs

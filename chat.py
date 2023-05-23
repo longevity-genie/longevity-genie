@@ -25,7 +25,7 @@ chain_selection = dcc.Dropdown(
     style={'min-width': '200px'}
 )
 
-search_options = ["similarity", "mma"]
+search_options = ["similarity", "mmr"]
 
 search_selection = dcc.Dropdown(
     id='search_type',

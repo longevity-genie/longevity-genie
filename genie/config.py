@@ -29,20 +29,21 @@ class Locations:
     lipidmetabolism_text: Path
     clinvar_text: Path
 
-    clinvar_db: Path
     clinpred_db: Path
 
     def annotator_data(self, name: str):
         return self.annotators / name / "data"
 
-    def postaggregator_db(self, name: str):
+    def postaggregator_db(self, name: str, debug: bool = False):
         data = self.postaggregators / name / "data"
         if not data.exists():
-            print(f"cannot find sqlite database")
+            if debug:
+                print(f"cannot find sqlite database {data}")
             return data
         dbs = with_ext(self.postaggregators / name / "data", "sqlite").to_list()
         if len(dbs) == 0:
-            print(f"cannot find sqlite database")
+            if debug:
+                print(f"cannot find sqlite database {data}")
             return data
         else:
             return dbs[0]

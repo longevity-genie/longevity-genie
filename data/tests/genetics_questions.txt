@@ -5,4 +5,4 @@ How does rs13217795 SNP with heterogeneous G allele influence longevity?
 How does rs13217795 SNP with homogeneous C allele influence longevity?
 How does rs2755213 SNP with homogeneous C allele influence longevity?
 How does rs2755213 SNP with heterogeneous C allele influence longevity?
-There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic polymorphisms in the FOXO gene, explain their connection with aging and longevity
+There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic polymorphisms, for each of them explain what this genetic variant is about, its association with longevity and aging, also explain the role of the gene it belongs to.
