@@ -1,5 +1,6 @@
 import click
 
+from config import Locations
 from genie.downloads import download_papers
 from genie.indexing import *
 from genie.prepare import with_papers_incremental
@@ -11,7 +12,6 @@ def app(ctx: Context):
     if ctx.invoked_subcommand is None:
         click.echo('Running the default command...')
         download_papers()
-
 
 
 @app.command("download_papers")

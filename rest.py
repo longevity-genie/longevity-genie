@@ -6,13 +6,17 @@ from fastapi import FastAPI
 from typing import List
 from pydantic import BaseModel
 
+from chats import ChatIndex
 from genie.config import Locations
-from genie.indexing import Index
+#from genie.indexing import Index
 
 load_dotenv()
 base = Path(".")
 locations = Locations(base)
-index = Index(locations, "gpt-4")
+chat = ChatIndex(locations.paper_index)
+#index = Index(locations, "gpt-4")
+
+chatIndex = ChatIndex(locations.paper_index)
 
 class Dialog(BaseModel):
     message: str
@@ -45,6 +49,7 @@ async def receive_dialog(dialog: Dialog):
     message = str(dialog.message)
     n_input_tokens = len(message.split())
     n_first_dialog_messages_removed = 0
+
     result = index.query_with_sources(message, prev_dialog)
     answer = result["answer"] + "\n SOURCES: " + str(result["sources"])
     response = ResponseModel(

@@ -1,0 +1,4 @@
+outs:
+- md5: bed36dbcca5c1055720ac82b5a13a305
+  size: 442368
+  path: ncbi_clinvar_only.sqlite3

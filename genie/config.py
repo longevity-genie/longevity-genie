@@ -27,21 +27,23 @@ class Locations:
     longevity_map_text: Path
     cancer_text: Path
     lipidmetabolism_text: Path
+    clinvar_text: Path
 
-    clinvar_db: Path
     clinpred_db: Path
 
     def annotator_data(self, name: str):
         return self.annotators / name / "data"
 
-    def postaggregator_db(self, name: str):
+    def postaggregator_db(self, name: str, debug: bool = False):
         data = self.postaggregators / name / "data"
         if not data.exists():
-            print(f"cannot find sqlite database")
+            if debug:
+                print(f"cannot find sqlite database {data}")
             return data
         dbs = with_ext(self.postaggregators / name / "data", "sqlite").to_list()
         if len(dbs) == 0:
-            print(f"cannot find sqlite database")
+            if debug:
+                print(f"cannot find sqlite database {data}")
             return data
         else:
             return dbs[0]
@@ -66,6 +68,7 @@ class Locations:
         self.paper_index = self.data / "index"
         assert self.data.exists(), "data subfolder should exist!"
         self.papers = self.data / "papers"
+        self.trials = self.data / "index" / "trials"
         self.dois = self.modules_data / "dois.tsv"
         assert self.papers.exists(), "papers subfolder should exist"
         self.modules = self.base / "modules"
@@ -73,6 +76,7 @@ class Locations:
         self.set_up_outputs()
 
     def set_up_modules(self):
+        self.clinvar = self.data / "clinvar" / "ncbi_clinvar_only.sqlite3"
         self.just_drugs = self.postaggregator_db("just_drugs")
         self.just_prs = self.postaggregator_db("just_prs")
         self.just_coronary = self.postaggregator_db("just_coronary")
@@ -84,6 +88,7 @@ class Locations:
         self.just_thrombophilia = self.postaggregator_db("just_thrombophilia")
 
     def set_up_outputs(self):
+        self.clinvar_text = self.modules_text_data / "ncbi_clinvar_text.tsv"
         self.longevity_map_text = self.modules_text_data / "longevity_map_text.tsv"
 
 

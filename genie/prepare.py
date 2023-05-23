@@ -99,6 +99,38 @@ def prepare_coronary(locations: Locations):
     print("written to locations.coronary_text")
     return for_index
 
+def prepare_clinvar(clinvar_path: Path, clinvar_output: Path):
+    query= "SELECT * FROM ncbi_clinvar;"
+    df = get_query_df(clinvar_path, query)
+    source = (pl.lit("https://www.ncbi.nlm.nih.gov/clinvar/variation/") + pl.col("clinvar_id").cast(pl.Utf8)).alias("source")
+    text_col: pl.Expr = (
+                    pl.col("rsid").cast(pl.Utf8) + pl.lit(" is located in ") +  pl.col("chrom").cast(pl.Utf8) +
+                    pl.lit(" chromosome with position ")  + pl.col("pos").cast(pl.Utf8) +
+                    pl.lit(" which is in the gene ") + pl.col("symbol") +
+                    pl.lit(". This gene has the following description: ")+ pl.col("gene_description") +
+                    pl.lit(" This SNP can be associated with ") +pl.col("disease_names")+
+                    pl.lit(". Those associations have ") + pl.col("sig") + pl.lit(" clinical significance") +
+                    pl.lit(" and have review status: ") + pl.col("rev_stat") +
+                    pl.lit(". ") + pl.col("rsid").cast(pl.Utf8) + pl.lit("has the following disease references: ") +
+                    pl.col("disease_refs") +
+                    pl.lit(". Source: ") + source
+    ).alias("text")
+    for_index = df.select([
+                            pl.col("rsid"),
+                            pl.col("chrom"),
+                            pl.col("pos"),
+                            pl.col("symbol"),
+                            pl.col("gene_description"),
+                            pl.col("disease_names"),
+                            pl.col("rev_stat"),
+                            pl.col("sig"),
+                            pl.col("clinvar_id").cast(pl.Utf8),
+                            source,
+                            text_col])
+    for_index.write_csv(str(clinvar_output), sep="\t")
+    print(f"written to {clinvar_output}")
+    return for_index
+
 def with_papers_incremental(folder: Optional[Path] = None, skip_existing: bool = True):
     papers: list[Path] = traverse(folder, lambda p: "pdf" in p.suffix)
     print(f"indexing {len(papers)} papers")

@@ -5,8 +5,10 @@ import dotenv
 from click import Context
 from dotenv import load_dotenv
 
+from genie.config import Locations
 from genie.calls import longevity_gpt
 from genie.indexing import *
+from genie.prepare import prepare_clinvar
 
 e = dotenv.find_dotenv()
 print(f"environment found at {e}")
@@ -30,25 +32,44 @@ def app(ctx: Context):
 def write(model: str, base: str):
     load_dotenv()
     locations = Locations(Path(base))
-    index = Index(locations, model)
+    index = Index(locations.paper_index, model)
     print("saving modules and papers")
-    index.with_modules().with_papers().persist()
+    index.with_modules(locations.modules_text_data).with_papers().persist()
+
+@app.command("clinvar")
+@click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
+@click.option('--base', default='.', help='base folder')
+def index_clinvar(model: str, base: str):
+    load_dotenv()
+    locations = Locations(Path(base))
+    output = locations.clinvar_text
+    prepare_clinvar(locations.clinvar, output)
+    index = Index(locations.paper_index, model)
+    print("saving modules and papers")
+    index.with_modules(output).persist()
 
 @app.command("longevity_gpt")
 @click.option('--question', default='What is aging?', help='Question to be asked')
 def longevity_gpt_command(question: str):
     return longevity_gpt(question, [])
 
+
 @app.command("test")
+@click.option('--chain', default="map_reduce", type=click.Choice(["stuff", "map_reduce", "refine", "map_rerank"], case_sensitive=True), help="chain type")
+#@click.option('--process', default="split", help="preprocessing type")
+@click.option('--model', default="gpt-3.5-turbo")
+@click.option('--search', default='similarity', type=click.Choice(["similarity", "mmr"], case_sensitive=True), help='search type')
+@click.option('--k', default = 10, help = "search kwargs")
 @click.option('--base', default='.', help='base folder')
-def test_index(base: str):
+def test_index(chain: str,  model: str, search: str, k: int,  base: str):
     locations = Locations(Path(base))
-    index = Index(locations, "gpt-3.5-turbo") #Index(locations, "gpt-4")
-    #index.with_modules()
-    question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 in FOXO gene, explain their connection with aging and longevity"
+    index = Index(locations.paper_index, model, chain_type=chain, search_type=search, k = k) #Index(locations, "gpt-4")
+    question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic variants in FOXO gene, explain their connection with aging and longevity"
+    #question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic polymorphisms, for each of them explain what this genetic variant is about, its association with longevity, aging and diseases, also explain the role of the gene it belongs to."
     print(f"Q1: {question1}")
-    answer1 = index.query_with_sources(question1)
+    answer1 = index.query_with_sources(question1, [])
     print(f"A1: {answer1}")
 
+#prompt=PromptTemplate.from_template('tell us a joke about {topic}')
 if __name__ == '__main__':
     app()
