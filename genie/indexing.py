@@ -52,7 +52,7 @@ class Index:
                  chain_type: str = "stuff",
                  search_type: str = "similarity",
                  chunk_size: int = 1000,
-                 k: int = 10
+                 k: Optional[int] = None
                  ): #, chroma_server: str = "0.0.0.0", chroma_port: str = "6000"
         self.persist_directory = persist_directory
         self.embedding = OpenAIEmbeddings()
@@ -61,18 +61,20 @@ class Index:
                          embedding_function=self.embedding #,client_settings=settings
                          )
         self.model_name = model_name
-        self.splitter = RecursiveSplitterWithSource(chunk_size=chunk_size, chunk_overlap=500)
+        self.splitter = RecursiveSplitterWithSource(chunk_size=chunk_size, chunk_overlap=200)
         self.chain_type = chain_type
         self.k = k
-        self.chain = self.make_chain(self.chain_type, search_type=search_type, k = self.k)
+        self.chain = self.make_chain(self.chain_type, search_type=search_type) if k is not None and k > 0 else self.make_chain(self.chain_type, search_type=search_type)
 
 
-    def make_chain(self, chain_type: str, search_type: str, k: int):
+    def make_chain(self, chain_type: str, search_type: str):
         self.llm = ChatOpenAI(model_name=self.model_name)
+        #arch_kwargs = {"k": k} if self.k is not None and self.k > 0 else {}
         chain = RetrievalQAWithSourcesChain.from_chain_type(
             self.llm,
-            retriever=self.db.as_retriever(search_type = search_type, search_kwargs={"k": k}),
-            chain_type=chain_type
+            retriever=self.db.as_retriever(search_type = search_type),
+            chain_type=chain_type,
+            verbose=True
         )
         if self.model_name == "gpt-4":
             chain.max_tokens_limit = chain.max_tokens_limit * 2
@@ -80,7 +82,7 @@ class Index:
         return chain
 
 
-    def query_with_sources(self, question: str,  previous_dialog: list[str], k: int = 10):
+    def query_with_sources(self, question: str,  previous_dialog: list[str]):
         #TODO process previous dialog
         return self.chain({self.chain.question_key: question})
 
@@ -120,10 +122,11 @@ class Index:
         print(f"indexing modules from {folder}, {len(documents)} documents found!")
         return self.with_documents(documents)
 
-    def with_papers(self, folder: Optional[Path] = None):
+    def with_papers(self, folder: Optional[Path] = None, proofread: bool = False):
         #if folder is None:
         #    folder = self.locations.papers
-        texts = traverse(folder, lambda p: "txt" in p.suffix)
+        txt = traverse(folder, lambda p: "txt" in p.suffix)
+        texts = [t for t in txt if "_proofread.txt" in t.name] if proofread else txt
         docs: List[Document] = []
         for t in texts:
             doi = f"http://doi.org/{t.parent.name}/{t.stem}"
@@ -146,7 +149,7 @@ class Index:
         return self
 
 
-    def with_papers_incremental(self, folder: Path, persist_interval: Optional[int] = 10):
+    def with_papers_incremental(self, folder: Path, persist_interval: Optional[int] = 10, ):
         #if folder is None:
         #    folder = self.locations.papers
         papers = traverse(folder, lambda p: "pdf" in p.suffix)

@@ -62,7 +62,7 @@ python agent.py calculate_trials_statistics --prompt_number=1
 
 ### chat.py ###
 
-To run webinterface of the chat (temporaly broken, because weavite integration did not work well):
+To run webinterface of the chat (temporally broken, because weavite integration did not work well):
 ```
 python chat.py
 ```
@@ -72,3 +72,11 @@ To run rest-api for the telegram chat-bot:
 python rest.py
 ```
 Telegram chat-bot is situated at https://github.com/dna-seq/longevitygpt_telegram_bot
+
+Lang-chain tracing
+==================
+
+For langchain tracing you need to enable langchain server with docker compose:
+```bash
+sudo docker compose -f tracing.yaml up
+```

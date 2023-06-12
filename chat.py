@@ -22,7 +22,7 @@ chain_selection = dcc.Dropdown(
     id='chain_type',
     options=[{'label': i, 'value': i} for i in chain_options],
     value='stuff',
-    style={'min-width': '200px'}
+    style={'min-width': '150px'}
 )
 
 search_options = ["similarity", "mmr"]
@@ -31,7 +31,7 @@ search_selection = dcc.Dropdown(
     id='search_type',
     options=[{'label': i, 'value': i} for i in search_options],
     value='similarity',
-    style={'min-width': '200px'}
+    style={'min-width': '150px'}
 )
 
 genie_chain_options = [chain.value for chain in GenieChain]
@@ -41,13 +41,13 @@ genie_selection = dcc.Dropdown(
     id='genie_chain',
     options=[{'label': i, 'value': i} for i in genie_chain_options],
     value=GenieChain.IndexSource.value,
-    style={'min-width': '200px'}
+    style={'min-width': '150px'}
 )
 
 def Header(name: str, app: dash.Dash) -> dbc.Row:
     title = html.H1(name, style={"margin-top": 5})
     logo = html.Img(
-        src=app.get_asset_url("dash-logo.png"), style={"float": "right", "height": 60}
+        src=app.get_asset_url("longevity_genie.jpg"), style={"float": "right", "height": 60}
     )
     return dbc.Row([dbc.Col(title, md=8), dbc.Col(logo, md=4)])
 
@@ -56,6 +56,7 @@ def textbox(text: str, box: str="AI", name: str="Longevity Genie") -> Union[dbc.
     text = text.replace(f"{name}:", "").replace("You:", "")
     style = {
         "max-width": "60%",
+        "min-width": "200px",
         "width": "max-content",
         "padding": "5px 10px",
         "border-radius": 25,
@@ -73,7 +74,7 @@ def textbox(text: str, box: str="AI", name: str="Longevity Genie") -> Union[dbc.
         style["margin-right"] = "auto"
 
         thumbnail = html.Img(
-            src=app.get_asset_url("Longevity Genie.jpg"),
+            src=app.get_asset_url("longevity_genie.jpg"),
             style={
                 "border-radius": 50,
                 "height": 36,
@@ -97,7 +98,7 @@ server = app.server
 chat_index = ChatIndex(locations.paper_index)
 
 # Load images
-IMAGES: dict = {"Longevity Genie": app.get_asset_url("data/images/longevity_genie.jpg")}
+IMAGES: dict = {"Longevity Genie": app.get_asset_url("assets/longevity_genie.jpg")}
 
 # Define Layout
 conversation = html.Div(
@@ -175,3 +176,5 @@ def run_chatbot(n_clicks: int, n_submit: int, user_input: str, chat_history: str
 
 if __name__ == '__main__':
     app.run_server(debug=False)
+    from langchain.server import main
+    #from langchain.cli.main import get_docker_compose_command

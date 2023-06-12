@@ -28,13 +28,14 @@ def app(ctx: Context):
 
 @app.command("write")
 @click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
+@click.option('--proofread', default=True, help='if we prefer proofread papers')
 @click.option('--base', default='.', help='base folder')
-def write(model: str, base: str):
+def write(model: str, proofread: bool, base: str):
     load_dotenv()
     locations = Locations(Path(base))
     index = Index(locations.paper_index, model)
     print("saving modules and papers")
-    index.with_modules(locations.modules_text_data).with_papers().persist()
+    index.with_modules(locations.modules_text_data).with_papers(locations.papers, proofread=proofread).persist()
 
 @app.command("clinvar")
 @click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
@@ -59,13 +60,15 @@ def longevity_gpt_command(question: str):
 #@click.option('--process', default="split", help="preprocessing type")
 @click.option('--model', default="gpt-3.5-turbo")
 @click.option('--search', default='similarity', type=click.Choice(["similarity", "mmr"], case_sensitive=True), help='search type')
-@click.option('--k', default = 10, help = "search kwargs")
+@click.option('--k', default = 0, help = "search kwargs")
 @click.option('--base', default='.', help='base folder')
 def test_index(chain: str,  model: str, search: str, k: int,  base: str):
     locations = Locations(Path(base))
     index = Index(locations.paper_index, model, chain_type=chain, search_type=search, k = k) #Index(locations, "gpt-4")
-    question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic variants in FOXO gene, explain their connection with aging and longevity"
+    #question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic variants in FOXO gene, explain their connection with aging and longevity"
     #question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic polymorphisms, for each of them explain what this genetic variant is about, its association with longevity, aging and diseases, also explain the role of the gene it belongs to."
+    #question1= f"There are rs1800392 rs3024239 rs2072454 rs3842755 genetic polymorphisms, for each of them explain what this genetic variant is about, its association with longevity, aging and diseases, also explain the role of the gene it belongs to."
+    question1 = "There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic polymorphisms in the FOXO gene, explain their connection with aging and longevity"
     print(f"Q1: {question1}")
     answer1 = index.query_with_sources(question1, [])
     print(f"A1: {answer1}")

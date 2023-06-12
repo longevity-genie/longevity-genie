@@ -1,5 +1,41 @@
 from pathlib import Path
 from pycomfort.files import *
+import dotenv
+from dotenv import load_dotenv
+import os
+
+def with_date_time(session: str, to_replace: str = "<datetime>") -> str:
+    import datetime
+    # Get the current date and time
+    current_datetime = datetime.datetime.now()
+    # Convert the datetime object to a string in the desired format
+    formatted_datetime = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
+    # Replace <datetime> with the formatted datetime string
+    updated_string = session.replace(to_replace, formatted_datetime)
+    # Print the updated string
+    return updated_string
+
+
+def start_tracing(session: str = "default", hosted: bool = True):
+    session_name = with_date_time(session)
+    os.environ["LANGCHAIN_SESSION"] = session_name
+    print(f"start tracing into {session_name}")
+    os.environ["LANGCHAIN_TRACING"] = "true"
+    os.environ["LANGCHAIN_HANDLER"] = "langchain"
+    os.environ["LANGCHAIN_TRACING_V2"] = "true"
+    if hosted:
+        os.environ["LANGCHAIN_ENDPOINT"] = "https://api.langchain.plus"
+        #os.environ["LANGCHAIN_API_KEY"] = "<your-api-key>"
+
+def load_openai_key(debug: bool = True):
+    e = dotenv.find_dotenv()
+    if debug:
+        print(f"environment found at {e}")
+    has_env: bool = load_dotenv(e, verbose=True, override=True)
+    if not has_env:
+        print("Did not found environment file, using system OpenAI key (if exists)")
+    openai_key = os.getenv('OPENAI_API_KEY')
+    return openai_key
 
 
 class Locations:
@@ -30,6 +66,8 @@ class Locations:
     clinvar_text: Path
 
     clinpred_db: Path
+    reports: Path
+    report_anton: Path
 
     def annotator_data(self, name: str):
         return self.annotators / name / "data"
@@ -72,6 +110,8 @@ class Locations:
         self.dois = self.modules_data / "dois.tsv"
         assert self.papers.exists(), "papers subfolder should exist"
         self.modules = self.base / "modules"
+        self.reports = self.data / "reports"
+        self.report_anton = self.reports / "report_Anton.tsv"
         self.set_up_modules()
         self.set_up_outputs()
 

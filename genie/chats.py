@@ -12,10 +12,13 @@ from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 
+from agent import get_trials_reasons, calculate_trials_statistics
+
 
 class GenieChain(Enum):
     IndexSource = 'IndexSource'
     Chat = 'Chat'
+    Agent = 'Agent'
     Advanced = 'Advanced'
 
 class ChainType(Enum):
