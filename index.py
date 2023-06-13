@@ -27,7 +27,7 @@ def app(ctx: Context):
     pass
 
 @app.command("write")
-@click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
+@click.option('--model', default='gpt-3.5-turbo-16k', help='model to use, gpt-3.5-turbo-16k by default')
 @click.option('--proofread', default=True, help='if we prefer proofread papers')
 @click.option('--base', default='.', help='base folder')
 def write(model: str, proofread: bool, base: str):
@@ -38,7 +38,7 @@ def write(model: str, proofread: bool, base: str):
     index.with_modules(locations.modules_text_data).with_papers(locations.papers, proofread=proofread).persist()
 
 @app.command("clinvar")
-@click.option('--model', default='gpt-3.5-turbo', help='model to use, gpt-3.5-turbo by default')
+@click.option('--model', default='gpt-3.5-turbo-16k', help='model to use, gpt-3.5-turbo-16k by default')
 @click.option('--base', default='.', help='base folder')
 def index_clinvar(model: str, base: str):
     load_dotenv()
@@ -58,7 +58,7 @@ def longevity_gpt_command(question: str):
 @app.command("test")
 @click.option('--chain', default="map_reduce", type=click.Choice(["stuff", "map_reduce", "refine", "map_rerank"], case_sensitive=True), help="chain type")
 #@click.option('--process', default="split", help="preprocessing type")
-@click.option('--model', default="gpt-3.5-turbo")
+@click.option('--model', default="gpt-3.5-turbo-16k")
 @click.option('--search', default='similarity', type=click.Choice(["similarity", "mmr"], case_sensitive=True), help='search type')
 @click.option('--k', default = 0, help = "search kwargs")
 @click.option('--base', default='.', help='base folder')

@@ -20,12 +20,18 @@ To set it up do:
 ```bash
 dvc pull
 ```
-We use Google Drive to store data so it may ask you to authorize data access.
+We use Google Drive to store data, so it may ask you to authorize data access.
+
+# Environment
+
+To run openai API and langchain tracing you need keys in your environment variables. 
+Do not forget to put on your openai and langchain trace keys.
+In .env.template there are environment variables, fill them in with your keys and rename to .env.
 
 # Existing scripts
 
 Here are some additional scripts you may be interested in running.
-We store the index in DVC so you do not need to run them to set things up.
+We store the index in DVC, so you do not need to run them to set things up.
 
 ### download.py ###
 
@@ -75,6 +81,13 @@ Telegram chat-bot is situated at https://github.com/dna-seq/longevitygpt_telegra
 
 Lang-chain tracing
 ==================
+
+You can use either https://www.langchain.plus/ or local
+
+Hosted setup:
+Right now tracing is free of charge so our team does not bother and simply uses
+
+Local setup:
 
 For langchain tracing you need to enable langchain server with docker compose:
 ```bash

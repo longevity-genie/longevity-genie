@@ -12,8 +12,15 @@ from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 
-from agent import get_trials_reasons, calculate_trials_statistics
+token_limits = {
+    "gpt-4-32k": 32768,
+    "gpt-4": 8192,
+    "gpt-3.5-turbo-16k": 16384,
+    "gpt-3.5-turbo": 4096,
+    "other": 4096
+}
 
+from agent import get_trials_reasons, calculate_trials_statistics
 
 class GenieChain(Enum):
     IndexSource = 'IndexSource'
@@ -45,7 +52,7 @@ class ChatIndex:
     def __init__(self,
                  persist_directory: Path,
                  username: str = "Zuzalu user",
-                 model_name: str = "gpt-3.5-turbo",
+                 model_name: str = "gpt-3.5-turbo-16k",
                  genie_chain: GenieChain = GenieChain.IndexSource,
                  chain_type: ChainType = ChainType.MapReduce,
                  search_type: str = "similarity"
@@ -78,6 +85,7 @@ class ChatIndex:
             chain_type=chain_type.value
         )
 
+
     def _index_make_chain(self, chain_type: ChainType, search_type: str):
         self.llm = ChatOpenAI(model_name=self.model_name)
         chain = RetrievalQAWithSourcesChain.from_chain_type(
@@ -85,8 +93,10 @@ class ChatIndex:
             retriever=self.vector_store.as_retriever(search_type = search_type),
             chain_type=chain_type.value
         )
-        if self.model_name == "gpt-4":
-            chain.max_tokens_limit = chain.max_tokens_limit * 2
+        if self.model_name in token_limits:
+            chain.max_tokens_limit = token_limits[self.model_name]
+        else:
+            chain.max_tokens_limit = token_limits["other"]
         chain.reduce_k_below_max_tokens = False #True
         return chain
 

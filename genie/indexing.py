@@ -48,7 +48,7 @@ class Index:
 
     def __init__(self,
                  persist_directory: Path,
-                 model_name: str = "gpt-3.5-turbo",
+                 model_name: str = "gpt-3.5-turbo-16k",
                  chain_type: str = "stuff",
                  search_type: str = "similarity",
                  chunk_size: int = 1000,
