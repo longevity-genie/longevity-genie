@@ -8,7 +8,7 @@ from langchain.agents import AgentExecutor
 
 from genie.agents import init_csv_agent, init_simple_llm_agent
 from genie.constants import prompt_5
-from genie.config import Locations, load_openai_key, start_tracing
+from genie.config import Locations, load_environment_keys, start_tracing
 from genie.indexing import Index
 
 
@@ -69,6 +69,6 @@ def get_trials_reasons(verbose: bool, base: str, trial_file_name: str, num: int,
 
 
 if __name__ == '__main__':
-    openai_key = load_openai_key(debug=True)
+    openai_key = load_environment_keys(debug=True)
     #print(f"The key is {openai_key}")
     app()

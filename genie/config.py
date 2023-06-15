@@ -27,7 +27,7 @@ def start_tracing(session: str = "default", hosted: bool = True):
         os.environ["LANGCHAIN_ENDPOINT"] = "https://api.langchain.plus"
         #os.environ["LANGCHAIN_API_KEY"] = "<your-api-key>"
 
-def load_openai_key(debug: bool = True):
+def load_environment_keys(debug: bool = True):
     e = dotenv.find_dotenv()
     if debug:
         print(f"environment found at {e}")

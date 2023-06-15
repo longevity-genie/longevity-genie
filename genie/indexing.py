@@ -13,26 +13,8 @@ from langchain.vectorstores import Chroma
 from pycomfort.files import *
 
 from genie.sqlite import *
+from prepare.splitter import RecursiveSplitterWithSource
 
-class RecursiveSplitterWithSource(RecursiveCharacterTextSplitter):
-    def create_documents(
-            self, texts: List[str], metadatas: Optional[List[dict]] = None
-    ) -> List[Document]:
-        """Create documents from a list of texts."""
-        _metadatas = metadatas or [{}] * len(texts)
-        documents = []
-        for i, text in enumerate(texts):
-            meta = _metadatas[i]
-            source: Optional[str] = meta["source"] if "source" in meta else None
-            for j, chunk in enumerate(self.split_text(text)):
-                new_meta = copy.deepcopy(meta)
-                if source is not None:
-                    new_meta["source"] = source + "#" + str(j)
-                new_doc = Document(
-                    page_content=chunk, metadata=new_meta
-                )
-                documents.append(new_doc)
-        return documents
 
 class Index:
 
@@ -101,10 +83,11 @@ class Index:
         return DataFrameLoader(df.to_pandas(), page_content_column="text").load()
 
 
-    def with_documents(self, documents: list[Document],
+    def db_with_documents(db: Chroma, documents: list[Document],
+                       splitter: TextSplitter,
                        debug: bool = False,
                        id_field: Optional[str] = None):
-        docs = self.splitter.split_documents(documents)
+        docs = splitter.split_documents(documents)
         texts = [doc.page_content for doc in docs]
         metadatas = [doc.metadata for doc in docs]
         ids = [doc.metadata[id_field] for doc in docs] if id_field is not None else None
@@ -112,8 +95,8 @@ class Index:
             for doc in documents:
                 print(f"ADD TEXT: {doc.page_content}")
                 print(f"ADD METADATA {doc.metadata}")
-        self.db.add_texts(texts=texts, metadatas=metadatas, ids = ids)
-        return self
+        db.add_texts(texts=texts, metadatas=metadatas, ids = ids)
+        return db
 
     def with_modules(self, folder: Path):
         #if folder is None:
@@ -122,25 +105,6 @@ class Index:
         print(f"indexing modules from {folder}, {len(documents)} documents found!")
         return self.with_documents(documents)
 
-    def with_papers(self, folder: Optional[Path] = None, proofread: bool = False):
-        #if folder is None:
-        #    folder = self.locations.papers
-        txt = traverse(folder, lambda p: "txt" in p.suffix)
-        texts = [t for t in txt if "_proofread.txt" in t.name] if proofread else txt
-        docs: List[Document] = []
-        for t in texts:
-            doi = f"http://doi.org/{t.parent.name}/{t.stem}"
-            with open(t, 'r') as file:
-                text = file.read()
-                if len(text)<10:
-                    print("TOO SHORT TEXT")
-                else:
-                    doc = Document(
-                        page_content = text,
-                        metadata={"source": doi}
-                    )
-                    docs.append(doc)
-        return self.with_documents(docs, id_field="source")
 
     def with_paper(self, paper: Path):
         loader = UnstructuredPDFLoader(str(paper))
@@ -148,26 +112,6 @@ class Index:
         self.with_documents(docs)
         return self
 
-
-    def with_papers_incremental(self, folder: Path, persist_interval: Optional[int] = 10, ):
-        #if folder is None:
-        #    folder = self.locations.papers
-        papers = traverse(folder, lambda p: "pdf" in p.suffix)
-        print(f"indexing {len(papers)} papers")
-        loaders = [UnstructuredPDFLoader(str(p)) for p in papers]
-        i = 1
-        total_runs = len(loaders)
-        if persist_interval is None:
-            persist_interval = total_runs
-        for loader in loaders:
-            print(f"adding paper {i} out of {len(loaders)}")
-            docs: list[Document] = loader.load()
-            self.with_documents(docs)
-            if i % persist_interval == 0 or i >= total_runs:
-                self.db.persist()
-            i = i + 1
-        print("papers loading finished")
-        return self
 
     def persist(self):
         self.db.persist()

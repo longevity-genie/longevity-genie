@@ -28,6 +28,12 @@ To run openai API and langchain tracing you need keys in your environment variab
 Do not forget to put on your openai and langchain trace keys.
 In .env.template there are environment variables, fill them in with your keys and rename to .env.
 
+
+# DISCLAIMER
+
+The project is in active refactoring, part of features are temporally broken
+
+
 # Existing scripts
 
 Here are some additional scripts you may be interested in running.

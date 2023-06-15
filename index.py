@@ -5,18 +5,11 @@ import dotenv
 from click import Context
 from dotenv import load_dotenv
 
-from genie.config import Locations
+from genie.config import Locations,load_environment_keys
 from genie.calls import longevity_gpt
 from genie.indexing import *
 from genie.prepare import prepare_clinvar
-
-e = dotenv.find_dotenv()
-print(f"environment found at {e}")
-has_env: bool = load_dotenv(e, verbose=True)
-if not has_env:
-    print("Did not found environment file, using system OpenAI key (if exists)")
-openai_key = os.getenv('OPENAI_API_KEY')
-#print(f"OPENAI key is {openai_key}")
+openai_key = load_environment_keys()
 
 @click.group(invoke_without_command=False)
 @click.pass_context
@@ -52,7 +45,7 @@ def index_clinvar(model: str, base: str):
 @app.command("longevity_gpt")
 @click.option('--question', default='What is aging?', help='Question to be asked')
 def longevity_gpt_command(question: str):
-    return longevity_gpt(question, [])
+    return longevity_gpt(question, []) # TODO rewrite as agent
 
 
 @app.command("test")
