@@ -24,3 +24,27 @@ stages:
     - path: data/modules/texts/clinvar_text.tsv
       md5: 19e0f685cc0fbf027e40fe373500d495
       size: 164902
+  index_modules:
+    cmd: python preprocess.py index_modules
+    deps:
+    - path: data/modules/texts/clinvar_text.tsv
+      md5: 19e0f685cc0fbf027e40fe373500d495
+      size: 164902
+    - path: data/modules/texts/coronary_text.tsv
+      md5: 3c1d2f3b3e6a924b5d4a71f49909754b
+      size: 116599
+    - path: data/modules/texts/longevity_map_text.tsv
+      md5: 549459ea09d2394e32b2bbae4f9f5e3a
+      size: 65163
+    outs:
+    - path: data/index/openai_6000_chunk/modules
+      md5: dc6903432315d7fe9d1836d1beba002a.dir
+      size: 4584546
+      nfiles: 6
+  index_papers:
+    cmd: python preprocess.py index_papers
+    outs:
+    - path: data/index/openai_6000_chunk/papers
+      md5: 7ef9a77ae97d5d9556f77af1cfdf4239.dir
+      size: 52624757
+      nfiles: 6

@@ -95,7 +95,7 @@ app: dash.Dash = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP]
 server = app.server
 
 # define chat client
-chat_index = ChatIndex(locations.paper_index)
+chat_index = ChatIndex(locations.index)
 
 # Load images
 IMAGES: dict = {"Longevity Genie": app.get_asset_url("assets/longevity_genie.jpg")}

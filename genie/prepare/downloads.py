@@ -8,7 +8,6 @@ from scidownl import scihub_download
 
 from genie.sqlite import get_table_df
 
-
 def doi_from_pubmed(pubmed_id: str):
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
     params = {

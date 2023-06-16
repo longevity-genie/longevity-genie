@@ -1,5 +1,6 @@
 import copy
 from enum import Enum
+from typing import Any
 
 from langchain import OpenAI
 from langchain.chains import RetrievalQAWithSourcesChain
@@ -76,7 +77,7 @@ class Index:
         print(f"detected text for the following modules {modules}")
         modules_loaders = [DataFrameLoader(pd.read_csv(tsv, sep="\t")) for tsv in modules]
         print(f"indexing {len(modules_loaders)} modules")
-        modules_docs = seq([loader.load() for loader in modules_loaders]).flatten().to_list()
+        modules_docs: List[Document] = seq([loader.load() for loader in modules_loaders]).flatten().to_list()
         return modules_docs
 
     def dataframe_to_document(df: pl.DataFrame) -> List[Document]:

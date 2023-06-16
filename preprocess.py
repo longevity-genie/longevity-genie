@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from pathlib import Path
 
 import click
@@ -8,8 +10,8 @@ from genie.prepare.downloads import *
 from genie.prepare.index import *
 from genie.prepare.papers import papers_to_documents
 from genie.prepare.papers import with_papers_incremental
-from genie.prepare.modules import prepare_longevity, prepare_coronary, prepare_clinvar
-
+from genie.prepare.modules import prepare_longevity, prepare_coronary, prepare_clinvar, tsv_to_documents
+from genie.config import resolve_embeddings
 
 @click.group(invoke_without_command=False)
 @click.pass_context
@@ -19,12 +21,6 @@ def app(ctx: Context):
     #    test_index()
     pass
 
-@app.command("modules_text")
-def prepare_modules_text():
-    from genie.prepare.modules import prepare_longevity
-    print("preparing longevity map")
-    locations: Locations
-    prepare_longevity()
 
 @app.command("prepare_longevity_text")
 @click.option('--module', type=click.Path(exists=True), default=None, help="path to LongevityMap module")
@@ -64,42 +60,33 @@ def prepare_clinvar_text(module: Optional[str], base: str):
     return where
 
 
-
-"""
-@app.command("prepare_longevity_text")
-@click.option('--chunk_size', type=click.INT, default=6000, help='size of the chunk for splitting')
-@click.option('--base', default='.', help='base folder')
-def prepare_longevity_text(longevity_module: Optional[str], chunk_size: int, embeddings: str, base: str):
-    locations = Locations(Path(base))
-    from genie.prepare.modules import prepare_longevity
-    embeddings_function = genie.config.resolve_embeddings(embeddings)
-    just_longevity_map = locations.just_longevitymap if longevity_module is None else Path(longevity_module)
-    return prepare_longevity(just_longevity_map, locations.dois, locations.longevity_map_text)
-"""
-
-"""
-@app.command("modules_index")
-@click.option('--module', type=click.Choice(["longevity_map", "coronary", ""]), default="longevity_map", help='papers collection name')
+@app.command("index_modules")
+@click.option('--collection', default='modules', help='modules collection name')
 @click.option('--chunk_size', type=click.INT, default=6000, help='size of the chunk for splitting')
 @click.option('--embeddings', type=click.Choice(["openai", "lambda", "vertexai"]), default="openai", help='size of the chunk for splitting')
 @click.option('--base', default='.', help='base folder')
-def modules_index(module: str, chunk_size: int, embeddings: str,  base: str):
-    from genie.prepare.modules import prepare_clinvar, prepare_longevity, prepare_coronary
-    if module == "longevity_map":
-"""
+def index_modules(collection: str, chunk_size: int, embeddings: str,  base: str):
+    locations = Locations(Path(base))
+    openai_key = load_environment_keys()
+    print(f"embeddings are {embeddings}")
+    where = locations.index / f"{embeddings}_{chunk_size}_chunk"
+    where.mkdir(exist_ok=True, parents=True)
+    print(f"writing index of modules to {where}")
+    documents = tsv_to_documents(locations.modules_text_data)
+    embeddings_function = resolve_embeddings(embeddings)
+    return write_db(where, collection, documents, chunk_size, embeddings = embeddings_function)
 
-
-@app.command("papers_index")
+@app.command("index_papers")
 @click.option('--collection', default='papers', help='papers collection name')
 @click.option('--chunk_size', type=click.INT, default=6000, help='size of the chunk for splitting')
 @click.option('--embeddings', type=click.Choice(["openai", "lambda", "vertexai"]), default="openai", help='size of the chunk for splitting')
 @click.option('--base', default='.', help='base folder')
-def papers_index(collection: str, chunk_size: int, embeddings: str,  base: str):
+def index_papers(collection: str, chunk_size: int, embeddings: str,  base: str):
     locations = Locations(Path(base))
     openai_key = load_environment_keys()
-    embeddings_function = config.resolve_embeddings(embeddings)
+    embeddings_function = resolve_embeddings(embeddings)
     print(f"embeddings are {embeddings}")
-    where = locations.paper_index / f"{embeddings}_{chunk_size}_chunk"
+    where = locations.index / f"{embeddings}_{chunk_size}_chunk"
     where.mkdir(exist_ok=True, parents=True)
     print(f"writing index of papers to {where}")
     documents = papers_to_documents(locations.papers)

@@ -34,7 +34,6 @@ def start_tracing(session: str = "default", hosted: bool = True):
     session_name = with_date_time(session)
     os.environ["LANGCHAIN_SESSION"] = session_name
     print(f"start tracing into {session_name}")
-    os.environ["LANGCHAIN_TRACING"] = "true"
     os.environ["LANGCHAIN_HANDLER"] = "langchain"
     os.environ["LANGCHAIN_TRACING_V2"] = "true"
     if hosted:
@@ -118,7 +117,7 @@ class Locations:
         self.data = self.base / "data"
         self.modules_data = self.data / "modules"
         self.modules_text_data = self.modules_data / "texts"
-        self.paper_index = self.data / "index"
+        self.index = self.data / "index"
         assert self.data.exists(), "data subfolder should exist!"
         self.papers = self.data / "papers"
         self.trials = self.data / "index" / "trials"

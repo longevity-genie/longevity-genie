@@ -11,7 +11,6 @@ dependencies:
   - setuptools
   - click
   - jupyterlab
-  - langchain
   - tiktoken
   - dash
   - python-dotenv
@@ -28,15 +27,16 @@ dependencies:
       - chromadb
       - pynction
       - polars
+      - langchain>=0.0.202
       - dvc_gdrive
-      - unstructured
       - pdfminer.six
       - chromadb
+      - unstructured
       - unstructured-inference
       - unstructured[local-inference]
       - unstructured.PaddleOCR
       - pycomfort
       - scidownl
       - 'git+https://github.com/facebookresearch/detectron2.git@e2ce8dc#egg=detectron2'
-      - weaviate-client
       - google-search-results
+      - weaviate-client

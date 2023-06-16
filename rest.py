@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import uvicorn
 
 from pathlib import Path
@@ -13,10 +15,10 @@ from genie.config import Locations
 load_dotenv()
 base = Path(".")
 locations = Locations(base)
-chat = ChatIndex(locations.paper_index)
+chat = ChatIndex(locations.index)
 #index = Index(locations, "gpt-4")
 
-chatIndex = ChatIndex(locations.paper_index)
+chatIndex = ChatIndex(locations.index)
 
 class Dialog(BaseModel):
     message: str

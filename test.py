@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from pathlib import Path
 
@@ -34,7 +36,7 @@ def app(ctx: Context):
 def test_index(chain: str,  model: str, search: str, k: int,  base: str, session: str = "text_index", hosted: bool = True):
     locations = Locations(Path(base))
     start_tracing(session, hosted=hosted)
-    index = Index(locations.paper_index, model, chain_type=chain, search_type=search, k = k) #Index(locations, "gpt-4")
+    index = Index(locations.index, model, chain_type=chain, search_type=search, k = k) #Index(locations, "gpt-4")
     #question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic variants in FOXO gene, explain their connection with aging and longevity"
     #question1 = f"There are rs4946936, rs2802290, rs9400239, rs7762395, rs13217795 genetic polymorphisms, for each of them explain what this genetic variant is about, its association with longevity, aging and diseases, also explain the role of the gene it belongs to."
     #question1= f"There are rs1800392 rs3024239 rs2072454 rs3842755 genetic polymorphisms, for each of them explain what this genetic variant is about, its association with longevity, aging and diseases, also explain the role of the gene it belongs to."
