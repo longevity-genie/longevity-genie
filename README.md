@@ -33,33 +33,27 @@ In .env.template there are environment variables, fill them in with your keys an
 
 The project is in active refactoring, part of features are temporally broken
 
-
-# Existing scripts
-
-Here are some additional scripts you may be interested in running.
-We store the index in DVC, so you do not need to run them to set things up.
-
-### download.py ###
-
-Downloads papers
-```
-python download.py download_papers
-```
-
-### index.py ###
-
-Makes chroma index out of parsed papers:
+# Preprocessing
+Our chains use two indexes one for papers and one for database.
+Overall you can just pull the data from DVC (it may ask to confirm google drive access)
 ```bash
-python index.py write
+micromamba activate longevity-genie
+dvc pull
 ```
-The index is written to /data/index as parquet files. You can then do:
+However, if you want to update indexes you can use preprocessing scripts at
+preprocess.py
+After the update you update data of the DVC repo by:
 ```bash
 dvc commit
 dvc push
 ```
-to push changed to google drive associated with the index data.
 
-To test the index with a test query
+If you want to download papers as pdf you can use:
+```
+python preprocess.py download_papers
+```
+
+If you want to test indexes with a test query you can use:
 ```
 python index.py test
 ```
