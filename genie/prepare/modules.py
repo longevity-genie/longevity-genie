@@ -28,7 +28,7 @@ def prepare_longevity_doi(locations: Locations, keep_not_found: bool = True, pub
     print(f"writing {pubmeds.shape[0]} dois to {where}")
     return pubmeds
 
-def prepare_longevity(just_longevitymap: Path, dois: Path, longevity_map_text: Path):
+def prepare_longevity(just_longevitymap: Path, dois: Path):
     """
     :param just_longevity_map: where we have sql for longevity map
     :param dois: where doi resolution table is
@@ -56,7 +56,7 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
             + pl.lit("The study was published with pubmed id ") +
             pl.col("quickpubmed").cast(pl.Utf8) + pl.lit(" with DOI ") + source
     ).alias("text")
-    for_index = df.select([id_col,
+    return df.select([id_col,
                            pl.col("identifier"),
                            pl.col("gene_symbol"),
                            pl.col("population_name").alias("population"),
@@ -65,14 +65,11 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
                            pl.col("doi"),
                            source,
                            text_col])
-    for_index.write_csv(longevity_map_text, sep="\t")
-    print(f"written to {longevity_map_text}")
-    return for_index
 
-def prepare_coronary(locations: Locations):
+def prepare_coronary(just_coronary: Path):
     query= "SELECT * FROM coronary_disease;"
-    df = get_query_df(locations.just_coronary, query)
-    df = df.with_columns(
+    df = get_query_df(just_coronary, query)
+    df_updated = df.with_columns(
         [pl.col("PMID")
          .str.replace_all("PMID ", "https://www.ncbi.nlm.nih.gov/snp/")
          .str.replace_all("PMID: ", "https://www.ncbi.nlm.nih.gov/snp/")
@@ -89,13 +86,14 @@ def prepare_coronary(locations: Locations):
     )
     text_col: pl.Expr = (
             pl.col("rsID") + pl.lit(" in gene ") + pl.col("Gene") +
-            pl.lit(" with ")+ pl.col("Genotype ") + pl.lit("genotype ") +
+            pl.lit(" with ") + pl.col("Genotype") + pl.lit("genotype ") +
             pl.lit("in ") + pl.col("Population") + pl.lit(" population") +
-            pl.lit("with the following design ") + pl.col("GWAS_study_design") + pl.lit(". The study concluded:") + pl.col("Conclusion")
+            pl.lit("with the following design ") + pl.col("GWAS_study_design") +
+            pl.lit(". The study concluded:") + pl.col("Conclusion")
             + pl.lit("Links for mentioned studies: ") + pl.col("gwas_source") +
             pl.lit(". Other related articles: ") + pl.col("pmid_source")
     ).alias("text")
-    for_index = df.select([
+    return df_updated.select([
         pl.col("rsID"),
         pl.col("Gene"),
         pl.col("Genotype"),
@@ -103,12 +101,9 @@ def prepare_coronary(locations: Locations):
         pl.col("PMID").cast(pl.Utf8),
         pl.col("pmid_source"),
         pl.col("gwas_source"),
-        text_col])
-    for_index.write_csv(locations.coronary_text, sep="\t")
-    print("written to locations.coronary_text")
-    return for_index
-
-def prepare_clinvar(clinvar_path: Path, clinvar_output: Path):
+        text_col
+    ])
+def prepare_clinvar(clinvar_path: Path):
     query= "SELECT * FROM ncbi_clinvar;"
     df = get_query_df(clinvar_path, query)
     source = (pl.lit("https://www.ncbi.nlm.nih.gov/clinvar/variation/") + pl.col("clinvar_id").cast(pl.Utf8)).alias("source")
@@ -124,7 +119,7 @@ def prepare_clinvar(clinvar_path: Path, clinvar_output: Path):
             pl.col("disease_refs") +
             pl.lit(". Source: ") + source
     ).alias("text")
-    for_index = df.select([
+    return df.select([
         pl.col("rsid"),
         pl.col("chrom"),
         pl.col("pos"),
@@ -136,9 +131,6 @@ def prepare_clinvar(clinvar_path: Path, clinvar_output: Path):
         pl.col("clinvar_id").cast(pl.Utf8),
         source,
         text_col])
-    for_index.write_csv(str(clinvar_output), sep="\t")
-    print(f"written to {clinvar_output}")
-    return for_index
 
 def tsv_to_documents(folder: Path)-> List[Document]:
     modules = with_ext(folder, "tsv").to_list() if folder.is_dir() else seq([folder])

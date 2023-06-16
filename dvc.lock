@@ -2,3 +2,25 @@ schema: '2.0'
 stages:
   longevity_map_text:
     cmd: python preprocess.py prepare_longevity_text
+    outs:
+    - path: data/modules/texts/longevity_map_text.tsv
+      md5: 549459ea09d2394e32b2bbae4f9f5e3a
+      size: 65163
+  coronary_map_text:
+    cmd: python preprocess.py prepare_coronary_text
+    outs:
+    - path: data/modules/texts/coronary_text.tsv
+      md5: 3c1d2f3b3e6a924b5d4a71f49909754b
+      size: 116599
+  coronary_text:
+    cmd: python preprocess.py prepare_coronary_text
+    outs:
+    - path: data/modules/texts/coronary_text.tsv
+      md5: 3c1d2f3b3e6a924b5d4a71f49909754b
+      size: 116599
+  clinvar_text:
+    cmd: python preprocess.py prepare_clinvar_text
+    outs:
+    - path: data/modules/texts/clinvar_text.tsv
+      md5: 19e0f685cc0fbf027e40fe373500d495
+      size: 164902

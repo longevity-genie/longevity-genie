@@ -8,7 +8,7 @@ from genie.prepare.downloads import *
 from genie.prepare.index import *
 from genie.prepare.papers import papers_to_documents
 from genie.prepare.papers import with_papers_incremental
-from genie.prepare.modules import prepare_longevity
+from genie.prepare.modules import prepare_longevity, prepare_coronary, prepare_clinvar
 
 
 @click.group(invoke_without_command=False)
@@ -32,7 +32,38 @@ def prepare_modules_text():
 def prepare_longevity_text(module: Optional[str], base: str):
     locations = Locations(Path(base))
     just_longevity_map = locations.just_longevitymap if module is None else Path(module)
-    return prepare_longevity(just_longevity_map, locations.dois, locations.longevity_map_text)
+    longevity_map_text = prepare_longevity(just_longevity_map, locations.dois)
+    where = locations.longevity_map_text
+    longevity_map_text.write_csv(str(where), sep="\t")
+    print(f"written to {where}")
+    return where
+
+
+@app.command("prepare_coronary_text")
+@click.option('--module', type=click.Path(exists=True), default=None, help="path to Coronary module")
+@click.option('--base', default='.', help='base folder')
+def prepare_coronary_text(module: Optional[str], base: str):
+    locations = Locations(Path(base))
+    just_coronary = locations.just_coronary if module is None else Path(module)
+    coronary_text = prepare_coronary(just_coronary)
+    where = locations.coronary_text
+    coronary_text.write_csv(str(where), sep="\t")
+    print(f"written to {where}")
+    return where
+
+@app.command("prepare_clinvar_text")
+@click.option('--module', type=click.Path(exists=True), default=None, help="path to ClinVar module")
+@click.option('--base', default='.', help='base folder')
+def prepare_clinvar_text(module: Optional[str], base: str):
+    locations = Locations(Path(base))
+    just_clinvar = locations.clinvar if module is None else Path(module)
+    clinvar_text = prepare_clinvar(just_clinvar)
+    where = locations.clinvar_text
+    clinvar_text.write_csv(str(where), sep="\t")
+    print(f"written to {where}")
+    return where
+
+
 
 """
 @app.command("prepare_longevity_text")

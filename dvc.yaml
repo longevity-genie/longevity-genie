@@ -3,3 +3,11 @@ stages:
     cmd: python preprocess.py prepare_longevity_text
     outs:
       - data/modules/texts/longevity_map_text.tsv
+  coronary_text:
+    cmd: python preprocess.py prepare_coronary_text
+    outs:
+      - data/modules/texts/coronary_text.tsv
+  clinvar_text:
+    cmd: python preprocess.py prepare_clinvar_text
+    outs:
+      - data/modules/texts/clinvar_text.tsv
