@@ -8,7 +8,7 @@ from langchain.document_loaders import DataFrameLoader
 from pycomfort.files import with_ext
 
 from genie.config import Locations
-from prepare.downloads import try_doi_from_pubmed
+from genie.prepare.downloads import try_doi_from_pubmed
 from genie.sqlite import get_query_df
 import pandas as pd
 
@@ -28,14 +28,20 @@ def prepare_longevity_doi(locations: Locations, keep_not_found: bool = True, pub
     print(f"writing {pubmeds.shape[0]} dois to {where}")
     return pubmeds
 
-def prepare_longevity(locations: Locations):
+def prepare_longevity(just_longevitymap: Path, dois: Path, longevity_map_text: Path):
+    """
+    :param just_longevity_map: where we have sql for longevity map
+    :param dois: where doi resolution table is
+    :param longevity_map_text: where to write the text dataframe output
+    :return:
+    """
     query = """
 SELECT identifier, study_design, conclusions, association, gender, quickpubmed, location, population.name as population_name , quickyear, gene.name as gene_name, gene.symbol as gene_symbol,  gene.description
 FROM variant, gene, population
 WHERE gene.id == variant.gene_id AND population.id == variant.id
 """
-    dois = pl.read_csv(locations.dois, sep="\t").with_columns([pl.col("quickpubmed").cast(pl.Utf8)])
-    df = get_query_df(locations.just_longevitymap, query).join(dois, on="quickpubmed")
+    dois = pl.read_csv(dois, sep="\t").with_columns([pl.col("quickpubmed").cast(pl.Utf8)])
+    df = get_query_df(just_longevitymap, query).join(dois, on="quickpubmed")
     id_col = (pl.col("identifier")  +pl.lit("_in_")+pl.col("doi")).alias("id")
     source = (pl.lit("http://doi.org/") + pl.col("doi")).alias("source")
     text_col: pl.Expr = (
@@ -59,8 +65,8 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
                            pl.col("doi"),
                            source,
                            text_col])
-    for_index.write_csv(locations.longevity_map_text, sep="\t")
-    print("written to locations.longevity_map_text")
+    for_index.write_csv(longevity_map_text, sep="\t")
+    print(f"written to {longevity_map_text}")
     return for_index
 
 def prepare_coronary(locations: Locations):

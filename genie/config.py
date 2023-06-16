@@ -1,8 +1,22 @@
 from pathlib import Path
+
+from langchain.embeddings import OpenAIEmbeddings, LlamaCppEmbeddings, VertexAIEmbeddings
+from langchain.embeddings.base import Embeddings
 from pycomfort.files import *
 import dotenv
 from dotenv import load_dotenv
 import os
+
+def resolve_embeddings(embeddings_name: str) -> Embeddings:
+    if embeddings_name == "openai":
+        return OpenAIEmbeddings()
+    elif embeddings_name == "lambda":
+        return LlamaCppEmbeddings()
+    elif embeddings_name == "vertexai":
+        return VertexAIEmbeddings()
+    else:
+        print(f"{embeddings_name} is not yet supported by CLI, using default openai embeddings instead")
+        return OpenAIEmbeddings()
 
 def with_date_time(session: str, to_replace: str = "<datetime>") -> str:
     import datetime

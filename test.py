@@ -5,6 +5,7 @@ import click
 import polars as pl
 from click.core import Context
 from langchain.agents import AgentExecutor
+from langchain.vectorstores import Chroma
 
 from genie.agents import init_csv_agent, init_simple_llm_agent
 from genie.constants import prompt_5
@@ -15,9 +16,11 @@ from genie.indexing import Index
 @click.group(invoke_without_command=True)
 @click.pass_context
 def app(ctx: Context):
-    if ctx.invoked_subcommand is None:
-        click.echo('Running the default command...')
-        test_index()
+    #if ctx.invoked_subcommand is None:
+        #click.echo('Running the default command...')
+        #test_index()
+    pass
+
 
 @app.command("test")
 @click.option('--chain', default="stuff", type=click.Choice(["stuff", "map_reduce", "refine", "map_rerank"], case_sensitive=True), help="chain type")

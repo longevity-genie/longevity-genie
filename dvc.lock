@@ -1,0 +1,4 @@
+schema: '2.0'
+stages:
+  longevity_map_text:
+    cmd: python preprocess.py prepare_longevity_text
