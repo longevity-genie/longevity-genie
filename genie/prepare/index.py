@@ -28,6 +28,7 @@ def db_with_documents(db: Chroma, documents: list[Document],
     db.add_texts(texts=texts, metadatas=metadatas, ids = ids)
     return db
 
+
 def write_db(persist_directory: Path,
              collection_name: str,
              documents: list[Document],
@@ -35,13 +36,13 @@ def write_db(persist_directory: Path,
              debug: bool = False,
              id_field: Optional[str] = None,
              embeddings: Optional[Embeddings] = None):
-    if embeddings is None:
-        embeddings = OpenAIEmbeddings()
     where = persist_directory / collection_name
     where.mkdir(exist_ok=True, parents=True)
+    if embeddings is None:
+        embeddings = OpenAIEmbeddings()
+    db = Chroma(collection_name=collection_name, persist_directory=str(where), embedding_function=embeddings)
     splitter = RecursiveSplitterWithSource(chunk_size=chunk_size)
     splitter._chunk_size = chunk_size
-    db = Chroma(collection_name=collection_name, persist_directory=str(where), embedding_function=embeddings)
     db_updated = db_with_documents(db, documents, splitter, debug, id_field)
     db_updated.persist()
     return where

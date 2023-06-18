@@ -12,6 +12,8 @@ from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 
+from chains import ChainType
+
 token_limits = {
     "gpt-4-32k": 32768,
     "gpt-4": 8192,
@@ -28,13 +30,12 @@ class GenieChain(Enum):
     Agent = 'Agent'
     Advanced = 'Advanced'
 
-class ChainType(Enum):
-    Stuff = "stuff"
-    MapReduce = "map_reduce"
-    Refine = "refine"
-    MapRerank = "map_rerank"
+
 
 class ChatIndex:
+    """
+    This class is outdated, it will be rewritten after chains will be tested
+    """
 
     username: str
     vector_store: Chroma
