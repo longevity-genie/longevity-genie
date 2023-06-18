@@ -116,6 +116,7 @@ class Locations:
         self.base = base.absolute().resolve()
         self.data = self.base / "data"
         self.modules_data = self.data / "modules"
+        self.modules_qa_data = self.modules_data / "qa"
         self.modules_text_data = self.modules_data / "texts"
         self.index = self.data / "index"
         assert self.data.exists(), "data subfolder should exist!"

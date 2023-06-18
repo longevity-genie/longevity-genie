@@ -8,9 +8,17 @@ stages:
     outs:
       - data/modules/texts/coronary_text.tsv
   clinvar_text:
+    deps:
+      - data/clinvar/ncbi_clinvar_only.sqlite3
     cmd: python preprocess.py prepare_clinvar_text
     outs:
       - data/modules/texts/clinvar_text.tsv
+  module_qa:
+    deps:
+      - data/modules/texts/longevity_map_text.tsv
+    cmd: python preprocess.py module_qa
+    outs:
+      - data/modules/qa/longevity_map_qa.tsv
   index_modules:
     deps:
       - data/modules/texts/longevity_map_text.tsv
@@ -23,3 +31,5 @@ stages:
     cmd: python preprocess.py index_papers
     outs:
       - data/index/openai_6000_chunk/papers
+  draw_pipeline:
+    cmd: dvc dag --dot | dot -Tsvg -o dvc_pipeline.svg

@@ -12,6 +12,8 @@ from genie.prepare.papers import papers_to_documents
 from genie.prepare.papers import with_papers_incremental
 from genie.prepare.modules import prepare_longevity, prepare_coronary, prepare_clinvar, tsv_to_documents
 from genie.config import resolve_embeddings
+from genie.prepare.qa import prepare_longevity_map_qa
+
 
 @click.group(invoke_without_command=False)
 @click.pass_context
@@ -91,6 +93,16 @@ def index_papers(collection: str, chunk_size: int, embeddings: str,  base: str):
     print(f"writing index of papers to {where}")
     documents = papers_to_documents(locations.papers)
     return write_db(where, collection, documents, chunk_size, embeddings = embeddings_function)
+
+
+
+@app.command("module_qa")
+@click.option('--upload_to_langchain_plus', is_flag=True, default=True, help='A boolean flag to decide if we need to upload to langchain plus or not.')
+@click.option('--base', default='.', help='base folder')
+def module_qa(upload_to_langchain_plus: bool, base: str):
+    locations = Locations(Path(base))
+    openai_key = load_environment_keys()
+    return prepare_longevity_map_qa(locations.longevity_map_text, locations.modules_qa_data, upload_to_langchain_plus)
 
 
 @app.command("download_papers")

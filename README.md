@@ -58,6 +58,12 @@ If you want to test indexes with a test query you can use:
 python index.py test
 ```
 
+Overall, most of the scripts required for preprocessing can be called from dvc, for example:
+```
+dvc repro index_modules
+```
+![Alt text](./dvc_pipeline.svg)
+
 ### agent.py ###
 
 To test the CSV agent with prompts (currently for trials statistics)

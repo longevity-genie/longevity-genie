@@ -55,7 +55,7 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
             pl.lit(". The study had the following design: ") + pl.col("study_design") + pl.lit(". The study concluded the following. ") + pl.col("conclusions")
             + pl.lit("The study was published with pubmed id ") +
             pl.col("quickpubmed").cast(pl.Utf8) + pl.lit(" with DOI ") + source
-    ).alias("text")
+    ).alias("text").str.replace("..", ".")
     return df.select([id_col,
                            pl.col("identifier"),
                            pl.col("gene_symbol"),
@@ -64,6 +64,7 @@ WHERE gene.id == variant.gene_id AND population.id == variant.id
                            pl.col("quickpubmed").cast(pl.Utf8).alias("pubmed"),
                            pl.col("doi"),
                            source,
+                           pl.col("association"),
                            text_col])
 
 def prepare_coronary(just_coronary: Path):
