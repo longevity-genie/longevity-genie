@@ -1,5 +1,19 @@
 # longevity-genie
-A model that should answer questions about genes and variants
+
+The core idea about Longevity genie project is extending abilities of large language models (LLMs) to answer questions about personal health, genetics and longevity research.
+Currently, LLMs like ChatGPT (and also numerous LLAMA/ALPACA based opensource models) do not possess domain-specific biological knowledge and often hallucinate (make things up) when you ask it specific question.
+There are different ways to improve it:
+* extending user prompts with additional instructions on how the model should behave
+* using vector similarity search in vector databases that will extend that user prompts with additional results
+* using LLM-driven agents that will use search, code writing, SQL and other tools to extract information from external sources when answering user request
+* using LLM-driven routing when the query is routed to different subchains and agents depending on its content
+* fine-tuning of existing models to work better with new data - such approach will be possible if we will switch from GPT4 to smallerr opensource models that can be fine-tined with QLora and similar techniques.
+
+We are actively applying langchain to build the system. If you have not used it before [this course](https://learn.deeplearning.ai/langchain) is very good to get started.
+
+# DISCLAIMER
+
+The project is in active refactoring, so part of the features is temorally broken.
 
 # setting things up
 
@@ -28,10 +42,6 @@ To run openai API and langchain tracing you need keys in your environment variab
 Do not forget to put on your openai and langchain trace keys.
 In .env.template there are environment variables, fill them in with your keys and rename to .env.
 
-
-# DISCLAIMER
-
-The project is in active refactoring, part of features are temporally broken
 
 # Preprocessing
 Our chains use two indexes one for papers and one for database.
@@ -99,3 +109,14 @@ For langchain tracing you need to enable langchain server with docker compose:
 ```bash
 sudo docker compose -f tracing.yaml up
 ```
+
+# Gratitudes
+
+The project was a hackathon idea at Zuzalu.
+Big thanks to:
+
+* @nikhilYadala for help with LongevityGPT integration and help with GPT4 key
+* Zuzalu organizers for making the place where idea incubated happen
+* Vita DAO for supporting the project
+
+![great thanks to vitadao](https://avatars.githubusercontent.com/u/84313344?s=200&v=4)
