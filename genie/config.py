@@ -1,11 +1,20 @@
 from pathlib import Path
 
+from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings, LlamaCppEmbeddings, VertexAIEmbeddings
 from langchain.embeddings.base import Embeddings
 from pycomfort.files import *
 import dotenv
 from dotenv import load_dotenv
 import os
+
+default_model_name: str = "gpt-3.5-turbo-16k"
+default_chunk_size: int = 6000
+
+#default_embedding = OpenAIEmbeddings()
+def init_default_llm():
+    return ChatOpenAI(model_name=default_model_name)
+
 
 def resolve_embeddings(embeddings_name: str) -> Embeddings:
     if embeddings_name == "openai":
@@ -119,6 +128,7 @@ class Locations:
         self.modules_qa_data = self.modules_data / "qa"
         self.modules_text_data = self.modules_data / "texts"
         self.index = self.data / "index"
+        self.default_index = self.index / f"openai_{default_chunk_size}_chunk"
         assert self.data.exists(), "data subfolder should exist!"
         self.papers = self.data / "papers"
         self.trials = self.data / "index" / "trials"
