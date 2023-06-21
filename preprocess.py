@@ -6,7 +6,7 @@ import click
 from click import Context
 
 from genie.config import load_environment_keys
-from genie.prepare.downloads import *
+from genie.prepare.papers import *
 from genie.prepare.index import *
 from genie.prepare.papers import papers_to_documents
 from genie.prepare.papers import with_papers_incremental
