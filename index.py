@@ -6,10 +6,10 @@ import dotenv
 
 from click import Context
 from dotenv import load_dotenv
+from genie.prepare.modules import *
 
 from genie.config import Locations,load_environment_keys
 from genie.calls import longevity_gpt
-from genie.indexing import *
 openai_key = load_environment_keys()
 
 @click.group(invoke_without_command=False)
@@ -31,6 +31,7 @@ def write(model: str, proofread: bool, base: str):
     print("saving modules and papers")
     index.with_modules(locations.modules_text_data).with_papers(locations.papers, proofread=proofread).persist()
 
+"""
 @app.command("clinvar")
 @click.option('--model', default='gpt-3.5-turbo-16k', help='model to use, gpt-3.5-turbo-16k by default')
 @click.option('--base', default='.', help='base folder')
@@ -66,6 +67,7 @@ def test_index(chain: str,  model: str, search: str, k: int,  base: str):
     print(f"Q1: {question1}")
     answer1 = index.query_with_sources(question1, [])
     print(f"A1: {answer1}")
+"""
 
 #prompt=PromptTemplate.from_template('tell us a joke about {topic}')
 if __name__ == '__main__':

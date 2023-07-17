@@ -60,4 +60,4 @@ genetic_partial_variables = {
     "audience": """Your answer should address the audience with intermediate knowledge of genetics""",
     "examples": format_examples
 }
-genetic_wish = PromptTemplate(template=genetic_source_template, input_variables=["summaries", "question"], partial_variables = genetic_partial_variables )
+genetic_wish = PromptTemplate(template=genetic_source_template, input_variables=["summaries", "question"], partial_variables = genetic_partial_variables)

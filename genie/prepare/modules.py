@@ -8,11 +8,15 @@ from langchain.document_loaders import DataFrameLoader
 from pycomfort.files import with_ext
 
 from genie.config import Locations
-from genie.prepare.downloads import try_doi_from_pubmed
-from genie.sqlite import get_query_df
+from getpaper.download import try_doi_from_pubmed
+from genie.prepare.sqlite import get_query_df
+from genie.prepare.sqlite import get_query_df
 import pandas as pd
 
 #TODO: get rid of locations
+
+def _dataframe_to_document(df: pl.DataFrame) -> List[Document]:
+    return DataFrameLoader(df.to_pandas(), page_content_column="text").load()
 
 def prepare_longevity_doi(locations: Locations, keep_not_found: bool = True, pubmed_name: str = "quickpubmed") -> pl.DataFrame:
     where = locations.dois
@@ -132,6 +136,7 @@ def prepare_clinvar(clinvar_path: Path):
         pl.col("clinvar_id").cast(pl.Utf8),
         source,
         text_col])
+
 
 def tsv_to_documents(folder: Path)-> List[Document]:
     modules = with_ext(folder, "tsv").to_list() if folder.is_dir() else seq([folder])

@@ -12,7 +12,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 
-from chains import ChainType
+from genie.chains import ChainType
 
 token_limits = {
     "gpt-4-32k": 32768,
@@ -59,7 +59,7 @@ class ChatIndex:
                  search_type: str = "similarity"
                  ):
         e = dotenv.find_dotenv()
-        has_env: bool = load_dotenv(e, verbose=True)
+        has_env: bool = load_dotenv(e, verbose=True, override=True)
         if not has_env:
             print("Did not found environment file, using system OpenAI key (if exists)")
         openai_key = os.getenv('OPENAI_API_KEY')

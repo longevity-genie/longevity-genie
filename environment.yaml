@@ -11,34 +11,20 @@ dependencies:
   - setuptools
   - click
   - jupyterlab
-  - tiktoken
+  - jupyter
   - dash
-  - python-dotenv
-  - pytorch
-  - openai
-  - tesseract
-  - dash
+  - dash-core-components
+  - dash-table
   - dash-html-components
   - dash-bootstrap-components
   - uvicorn
   - dvc
   - pip:
       - pyfunctional
-      - chromadb
       - pynction
       - polars
       - langchain>=0.0.202
       - dvc_gdrive
-      - pdfminer.six
-      - chromadb
-      - unstructured
-      - unstructured-inference
-      - unstructured[local-inference]
-      - unstructured.PaddleOCR
       - pycomfort
-      - scidownl
-      - 'git+https://github.com/facebookresearch/detectron2.git@e2ce8dc#egg=detectron2'
       - google-search-results
-      - weaviate-client
-      - getpaper>=0.0.3
-      - protobuf>=4.23.1
+      - getpaper>=0.2.4
