@@ -12,7 +12,7 @@ from chats import ChatIndex
 from genie.config import Locations
 #from genie.indexing import Index
 
-load_dotenv()
+load_dotenv(override=True)
 base = Path(".")
 locations = Locations(base)
 chat = ChatIndex(locations.index)

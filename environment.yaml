@@ -27,4 +27,5 @@ dependencies:
       - dvc_gdrive
       - pycomfort
       - google-search-results
-      - getpaper>=0.2.4
+      - getpaper>=0.2.5
+      - pyarrow

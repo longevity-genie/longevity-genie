@@ -119,7 +119,7 @@ def download_papers_command(module: str, table: str, pubmed: str, base: str):
 @app.command("s2orc")
 @click.option("--input", type=click.Path(exists=True), help="input file")
 @click.option("--folder", type=click.Path(), default = None, help = "output folder")
-@click.option("--memory", type=click.INT, default = 30, help = "memory limit")
+@click.option("--memory", type=click.INT, default = None, help = "memory limit")
 @click.option("--rows", type = click.INT, default = None, help = "number of rows to load by default, if None loads everything")
 def s2orc(input: str, folder: Optional[str], memory: int, rows: Optional[int]):
     num_rows: Optional[int] = None if rows is None or rows <1 else rows
