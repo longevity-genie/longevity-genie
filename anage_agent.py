@@ -1,6 +1,6 @@
 # dependency on python-Levenshtein, thefuzz, polars
 from dotenv import load_dotenv
-_ = load_dotenv("4_5884009898785640766.env", override=True)
+_ = load_dotenv()
 
 from langchain.agents import tool
 from langchain.agents import AgentType, initialize_agent
