@@ -27,7 +27,7 @@ dependencies:
       - dvc_gdrive
       - pycomfort
       - google-search-results
-      - getpaper>=0.2.5
+      - getpaper>=0.2.6
       - pyarrow
       - thefuzz
       - python-Levenshtein

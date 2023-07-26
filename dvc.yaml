@@ -29,7 +29,5 @@ stages:
       - data/index/openai_6000_chunk/modules
   index_papers:
     cmd: python preprocess.py index_papers
-    outs:
-      - data/index/openai_6000_chunk/papers
   draw_pipeline:
     cmd: dvc dag --dot | dot -Tsvg -o dvc_pipeline.svg

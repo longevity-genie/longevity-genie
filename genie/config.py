@@ -82,6 +82,9 @@ class Locations:
     just_thrombophilia: Path
     modules_text_data: Path
 
+    genage: Path
+    genage_models: Path
+
     longevity_map_text: Path
     cancer_text: Path
     lipidmetabolism_text: Path
@@ -131,12 +134,14 @@ class Locations:
         self.default_index = self.index / f"openai_{default_chunk_size}_chunk"
         assert self.data.exists(), "data subfolder should exist!"
         self.papers = self.data / "papers"
-        self.trials = self.data / "index" / "trials"
+        self.trials = self.data / "trials"
         self.dois = self.modules_data / "dois.tsv"
         assert self.papers.exists(), "papers subfolder should exist"
         self.modules = self.base / "modules"
         self.reports = self.data / "reports"
         self.report_anton = self.reports / "report_Anton.tsv"
+        self.genage = self.data / "genage"
+        self.genage_models = self.genage / "genage_models.tsv"
         self.set_up_modules()
         self.set_up_outputs()
 

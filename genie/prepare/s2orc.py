@@ -34,4 +34,7 @@ def write_s2orc(what: Path, n_rows: Optional[int] = None, output_folder: Optiona
     result.collect(streaming=True).write_parquet(where, use_pyarrow=True,compression_level=22, compression="zstd")
     return where
 
+def filter_relevant(papers_df: pl.LazyFrame, key_word):
+    return papers_df.filter(pl.col("text").str.contains("")).collect(streaming=True)
+
 
