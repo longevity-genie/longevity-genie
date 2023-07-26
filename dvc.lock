@@ -47,11 +47,6 @@ stages:
       nfiles: 6
   index_papers:
     cmd: python preprocess.py index_papers
-    outs:
-    - path: data/index/openai_6000_chunk/papers
-      md5: 7ef9a77ae97d5d9556f77af1cfdf4239.dir
-      size: 52624757
-      nfiles: 6
   module_qa:
     cmd: python preprocess.py module_qa
     deps:
