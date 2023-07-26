@@ -29,3 +29,5 @@ dependencies:
       - google-search-results
       - getpaper>=0.2.5
       - pyarrow
+      - thefuzz
+      - python-Levenshtein
