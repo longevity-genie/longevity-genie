@@ -13,6 +13,7 @@ def app(ctx: Context):
         click.echo('Running the default command...')
         calculate_trials_statistics()
 
+
 def calculate_trials_statistics(verbose: bool = True, base: str = ".", trial_file_name: str = 'ct_denorm_dataset.csv', prompt_number: str = "4"):
     agent = init_csv_agent(verbose, base, trial_file_name)
     prompts_dict = {
@@ -32,6 +33,7 @@ def calculate_trials_statistics(verbose: bool = True, base: str = ".", trial_fil
 @click.option('--prompt_number', default='1', help='the id of prompt you want to try')
 def calculate_trials_statistics_command(verbose: bool, base: str, trial_file_name: str, prompt_number: str):
     return calculate_trials_statistics(verbose, base, trial_file_name, prompt_number)
+
 
 def get_trials_reasons(verbose: bool = True, base: str = ".", trial_file_name: str = 'ct_denorm_dataset.csv') -> str:
     csv_agent: AgentExecutor = init_csv_agent(verbose, base, trial_file_name)
