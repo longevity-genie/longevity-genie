@@ -20,11 +20,11 @@ def app(ctx: Context):
     pass
 
 @app.command("test")
-@click.option("--model", default="stabilityai/StableBeluga-13B", help = "name of the model to test")
-def test_command(model_name: str):
+@click.option("--model", default="menadsa/S-BioELECTRA", help = "name of the model to test")
+def test_command(model: str):
     # Get embeddings.
-    embeddings = HuggingFaceEmbeddings(model_name=model_name)
-    print(f"TESTING EMBEDDINGS FOR {model_name}")
+    embeddings = HuggingFaceEmbeddings(model_name=model)
+    print(f"TESTING EMBEDDINGS FOR {model}")
 
     texts = [
         "Basquetball is a great sport.",

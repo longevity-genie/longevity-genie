@@ -23,11 +23,11 @@ dependencies:
       - pyfunctional
       - pynction
       - polars
-      - langchain>=0.0.202
+      - langchain>=0.0.247
       - dvc_gdrive
       - pycomfort
       - google-search-results
-      - getpaper>=0.2.8
+      - indexpaper
       - pyarrow
       - thefuzz
       - python-Levenshtein
