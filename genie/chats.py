@@ -24,12 +24,6 @@ token_limits = {
 
 from agent import get_trials_reasons, calculate_trials_statistics
 
-class GenieChain(Enum):
-    IndexSource = 'IndexSource'
-    Chat = 'Chat'
-    Agent = 'Agent'
-    Advanced = 'Advanced'
-
 
 
 class ChatIndex:
@@ -41,7 +35,6 @@ class ChatIndex:
     vector_store: Chroma
     persist_directory: Path
     model_name: str
-    genie_chain: GenieChain
     chat_chain: Chain #BaseConversationalRetrievalChain #ConversationalRetrievalChain
     chain_type: ChainType.MapReduce
     search_type: str
@@ -54,7 +47,6 @@ class ChatIndex:
                  persist_directory: Path,
                  username: str = "Zuzalu user",
                  model_name: str = "gpt-3.5-turbo-16k",
-                 genie_chain: GenieChain = GenieChain.IndexSource,
                  chain_type: ChainType = ChainType.MapReduce,
                  search_type: str = "similarity"
                  ):
