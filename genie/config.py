@@ -14,33 +14,6 @@ default_model_name: str = "gpt-3.5-turbo-16k"
 default_chunk_size: int = 6000
 
 
-def guess_embeddings_from_collection_name(collection_name: str, device: str = "cpu", normalize_embeddings: bool = True) -> Embeddings:
-    encode_kwargs = {'normalize_embeddings': normalize_embeddings}
-    model_kwargs = {'device': device}
-    if "bge_large" in collection_name:
-        model_name = "BAAI/bge-large-en"
-        return HuggingFaceBgeEmbeddings(
-            model_name=model_name,
-            model_kwargs=model_kwargs,
-            encode_kwargs=encode_kwargs
-        )
-    elif "biolinkbert_large" in collection_name:
-        model_name = "michiyasunaga/BioLinkBERT-large"
-        return HuggingFaceEmbeddings(model_name = model_name,
-                                     model_kwargs=model_kwargs,
-                                     encode_kwargs=encode_kwargs)
-    elif "openai" in collection_name or "ada" in collection_name:
-        return OpenAIEmbeddings()
-    else:
-        loguru.logger.error(f"cannot decide on embeddings for {collection_name} using bge-large-end by default")
-        model_name = "BAAI/bge-large-en"
-        return HuggingFaceBgeEmbeddings(
-            model_name=model_name,
-            model_kwargs=model_kwargs,
-            encode_kwargs=encode_kwargs
-        )
-
-
 #default_embedding = OpenAIEmbeddings()
 def init_default_llm():
     return ChatOpenAI(model_name=default_model_name)

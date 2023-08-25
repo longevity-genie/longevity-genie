@@ -1,6 +1,7 @@
 from pathlib import Path
 from typing import List
 
+import pandas as pd
 import polars as pl
 from chromadb.api.types import Document
 from functional import seq
@@ -8,10 +9,8 @@ from langchain.document_loaders import DataFrameLoader
 from pycomfort.files import with_ext
 
 from genie.config import Locations
-from getpaper.download import try_doi_from_pubmed
 from genie.prepare.sqlite import get_query_df
-from genie.prepare.sqlite import get_query_df
-import pandas as pd
+
 
 #TODO: get rid of locations
 

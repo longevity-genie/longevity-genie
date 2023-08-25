@@ -3,7 +3,6 @@ from typing import Optional
 
 import requests
 
-
 def longevity_gpt(question: str, history: list[str],
                   is_new_topic: bool = True,
                   session_id: Optional[str] = None):
