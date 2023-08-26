@@ -4,8 +4,12 @@ from typing import Optional
 import loguru
 from chromadb.api import Embeddings
 from indexpaper.resolvers import Device
+from langchain import LLMChain, BasePromptTemplate
+from langchain.callbacks.base import Callbacks
 from langchain.chains import RetrievalQAWithSourcesChain
+from langchain.chains.chat_vector_db.prompts import CONDENSE_QUESTION_PROMPT
 from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
+from langchain.chains.qa_with_sources import load_qa_with_sources_chain
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import HuggingFaceBgeEmbeddings, HuggingFaceEmbeddings
 from langchain.embeddings import OpenAIEmbeddings
@@ -33,7 +37,8 @@ class Genie:
     memory: ConversationBufferMemory
     collections: list[str]
     db: Qdrant
-    chain: ConversationalRetrievalChain
+    chain: RetrievalQAWithSourcesChain
+    verbose: bool
 
     def guess_embeddings_from_collection_name(self, collection_name: str, device: str = "cpu", normalize_embeddings: bool = True) -> Embeddings:
         encode_kwargs = {'normalize_embeddings': normalize_embeddings}
@@ -61,6 +66,33 @@ class Genie:
                 encode_kwargs=encode_kwargs
             )
 
+    def make_chain(self,
+                   condense_question_prompt: BasePromptTemplate = CONDENSE_QUESTION_PROMPT,
+                   callbacks: Callbacks = None):
+
+        doc_chain = load_qa_with_sources_chain(self.llm, "stuff", verbose=self.verbose, callbacks=callbacks)
+
+        condense_question_chain = LLMChain(
+            llm=self.llm,
+            prompt=condense_question_prompt,
+            verbose=self.verbose,
+            callbacks=callbacks,
+        )
+
+
+        result = ConversationalRetrievalChain(
+            retriever=self.db.as_retriever(),
+            combine_docs_chain=doc_chain,
+            question_generator=condense_question_chain,
+            callbacks=callbacks,
+            return_source_documents = True,
+            return_generated_question = True
+        )
+        result.memory = self.memory
+        result.get_chat_history = lambda v: str(self.memory.chat_memory.messages)
+        return result
+
+
     def __init__(self,
                  db: Optional[str] = "https://5bea7502-97d4-4876-98af-0cdf8af4bd18.us-east-1-0.aws.cloud.qdrant.io:6333",
                  default_model = "gpt-3.5-turbo-16k",
@@ -77,10 +109,10 @@ class Genie:
             prefer_grpc=True,
             api_key=os.getenv("QDRANT_KEY")
         )
+        self.verbose = verbose
         self.memory = ConversationBufferMemory(memory_key="chat_history")
         self.collections = [c.name for c in self.client.get_collections().collections]
         self.collection_name = collection_name
-        openai = load_environment_keys(usecwd=True)
         self.llm = ChatOpenAI(model = default_model)
         self.update_db(collection_name)
 
@@ -88,26 +120,7 @@ class Genie:
     def update_db(self, collection_name: str):
         embeddings = self.guess_embeddings_from_collection_name(self.collection_name)
         self.db = Qdrant(self.client, collection_name=collection_name, embeddings=embeddings)
-
-        qa = RetrievalQAWithSourcesChain(llm = self.llm, retriever =self.db.as_retriever(), memory=self.memory)
-
-        chat_history = []
-        query = "What did the president say about Ketanji Brown Jackson?"
-        result = qa({"question": query, "chat_history": chat_history})
-
-        # Append chat history
-        chat_history.append((query, result['answer']))
-
-        query = "Did he mention who she succeeded?"
-        result = qa({"question": query, "chat_history": chat_history})
-
-        self.db = Qdrant(self.client, collection_name=collection_name, embeddings=embeddings)
-        self.chain = ConversationalRetrievalChain.from_llm(
-            llm=self.llm,
-            retriever=self.db.as_retriever(),
-            verbose=True,
-            memory = self.memory
-        )
+        self.chain = self.make_chain()
         return self.db, self.chain
 
     def message(self, message: str):

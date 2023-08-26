@@ -23,7 +23,7 @@ dependencies:
       - pyfunctional
       - pynction
       - polars
-      - langchain>=0.0.271
+      - langchain>=0.0.273
       - dvc_gdrive
       - pycomfort
       - google-search-results

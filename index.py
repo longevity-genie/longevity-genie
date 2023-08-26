@@ -10,13 +10,14 @@ from dash import html
 from dash.dependencies import Input, Output, State
 
 from genie.chats import Genie
-from genie.config import Locations
+from genie.config import Locations, fix_memory
 
 # from genie.chats import ChatIndex, GenieChain, ChainType
 
 base = Path(".").absolute().resolve()
 locations = Locations(base)
 
+fix_memory()
 genie = Genie()
 
 
