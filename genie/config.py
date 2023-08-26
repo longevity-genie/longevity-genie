@@ -13,25 +13,6 @@ import os
 default_model_name: str = "gpt-3.5-turbo-16k"
 default_chunk_size: int = 6000
 
-def fix_memory():
-    import langchain
-    from typing import Dict, Any, Tuple
-    from langchain.memory.utils import get_prompt_input_key
-
-    def _get_input_output(
-            self, inputs: Dict[str, Any], outputs: Dict[str, str]
-    ) -> Tuple[str, str]:
-        if self.input_key is None:
-            prompt_input_key = get_prompt_input_key(inputs, self.memory_variables)
-        else:
-            prompt_input_key = self.input_key
-        if self.output_key is None:
-            output_key = list(outputs.keys())[0]
-        else:
-            output_key = self.output_key
-        return inputs[prompt_input_key], outputs[output_key]
-
-    langchain.memory.chat_memory.BaseChatMemory._get_input_output = _get_input_output
 
 #default_embedding = OpenAIEmbeddings()
 def init_default_llm():

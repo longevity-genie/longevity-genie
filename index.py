@@ -8,17 +8,15 @@ import loguru
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State
-
-from genie.chats import Genie
-from genie.config import Locations, fix_memory
+from genie.chat import Genie, WishAnswer
+from genie.config import Locations
 
 # from genie.chats import ChatIndex, GenieChain, ChainType
 
 base = Path(".").absolute().resolve()
 locations = Locations(base)
 
-fix_memory()
-genie = Genie()
+genie = Genie(verbose=True)
 
 
 ##############################
@@ -105,9 +103,6 @@ def textbox(text: str, box: str="AI", name: str="Longevity Genie") -> Union[dbc.
 app: dash.Dash = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
 
-# define chat client
-#chat_index = ChatIndex(locations.index)
-
 # Load images
 IMAGES: dict = {"Longevity Genie": app.get_asset_url("assets/longevity_genie.jpg")}
 
@@ -122,6 +117,10 @@ conversation = html.Div(
     },
 )
 
+document_sources = html.Div(
+    id="document-sources", style={"overflow-y": "auto"}
+)
+
 controls: dbc.InputGroup = dbc.InputGroup(
     children=[
         dbc.Input(id="user-input", placeholder="Write to the chatbot...", type="text"),
@@ -132,9 +131,10 @@ controls: dbc.InputGroup = dbc.InputGroup(
 
 app.layout = dbc.Container([
 
-    Header("Longevity Genie chatbot", app),
+    Header("Longevity Genie Chat", app),
     html.Hr(),
     dcc.Store(id="store-conversation", data=[]),
+    dcc.Store(id="store-documents", data=[]),
     dbc.Row([
         # Chat Area
         dbc.Col([
@@ -152,24 +152,76 @@ app.layout = dbc.Container([
         # Right Sidebar
         dbc.Col([
             dbc.Card([
-                dbc.CardHeader("Right Sidebar"),
+                dbc.CardHeader("Retrieved documents"),
                 dbc.CardBody([
-                    html.P("This is the right sidebar content"),
-                    # ... continue with more sidebar content
+                    document_sources
                 ])
             ])
         ], width=4)
     ]), dbc.Spinner(html.Div(id="loading-component"))
-])
+], style={"maxWidth": "95%"})
 
 @app.callback(
     Output("display-conversation", "children"),
     Input("store-conversation", "data")
 )
-def update_display(data: list[dict]) -> List[Union[dbc.Card, html.Div]]:
-    loguru.logger.error(data)
+def render_chat(data: list[dict]) -> List[Union[dbc.Card, html.Div]]:
     return [textbox(d["content"], box="AI" if d["type"] == "ai" else "user") for d in data]
 
+
+def render_accordion_for_documents(document_data: list[dict]) -> dbc.Accordion:
+    """
+    This function creates an accordion component for the provided document data using the Accordion component.
+    """
+    accordion_items = []
+    for index, doc in enumerate(document_data):
+        # Build the form content for each document
+        form_content = []
+
+        # Determine the title based on the type and content of annotations_title
+        if isinstance(doc['annotations_title'], list):
+            title = doc['annotations_title'][0] if doc['annotations_title'] else "No title found"
+        elif doc['annotations_title'] is None:
+            title = "No title found"
+        else:
+            title = doc['annotations_title']
+
+        # Add each field (except for page_content) as a separate form field with label using Row and Col
+        for field, value in doc.items():
+            if field != "page_content" and value is not None:  # Exclude None values from display
+                form_content.append(
+                    dbc.Row([
+                        dbc.Col(dbc.Label(field.capitalize(), className="mr-2"), width=4),
+                        dbc.Col(dbc.Input(type="text", value=value, readonly=True))
+                    ])
+                )
+
+        # Add page_content as a textarea
+        form_content.append(dbc.Label("Page Content", className="mr-2"))
+        form_content.append(dbc.Textarea(value=doc.get("page_content", ""), style={"min-height": "300px"}, readonly=True))
+
+        # Create the accordion item using AccordionItem component
+        accordion_item = dbc.AccordionItem(
+            title=title,
+            children=form_content,
+
+            item_id=str(index)
+        )
+        accordion_items.append(accordion_item)
+
+    # Create the accordion using the Accordion component
+    accordion = dbc.Accordion(accordion_items)
+
+    return accordion
+
+
+
+@app.callback(
+    Output("document-sources", "children"),
+    Input("store-documents", "data")
+)
+def render_documents(data: list[dict]) -> List[Union[dbc.Card, html.Div]]:
+    return render_accordion_for_documents(data)
 
 @app.callback(
     Output("user-input", "value"),
@@ -180,6 +232,7 @@ def clear_input(n_clicks: int, n_submit: int) -> str:
 
 @app.callback(
     Output("store-conversation", "data"),
+    Output("store-documents", "data"),
     Output("loading-component", "children"),
     Input("submit", "n_clicks"),
     Input("user-input", "n_submit"),
@@ -187,17 +240,18 @@ def clear_input(n_clicks: int, n_submit: int) -> str:
     State('collections', 'value'),
     State('search_type', 'value')
 )
-def run_chatbot(n_clicks: int, n_submit: int, user_input: str, collections: str, search_type: str) -> Tuple[list[dict], None]:
+def run_chatbot(n_clicks: int, n_submit: int, user_input: str, collections: str, search_type: str) -> Tuple[list[dict], list[dict], None]:
     if n_clicks == 0 and n_submit is None:
-        return [], None
+        return [],[], None
 
     if user_input is None or user_input == "":
-        return genie.history, None
+        return genie.history, [], None
 
     answer = genie.message(user_input)
-    loguru.logger.error("ANSWER IS: ")
     pprint.pprint(answer)
-    return genie.history, None
+    wish_answer = WishAnswer.from_dict(answer)
+    pprint.pprint(wish_answer)
+    return genie.history, wish_answer.json_sources(), None
 
 
 if __name__ == '__main__':

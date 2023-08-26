@@ -74,6 +74,18 @@ dvc repro index_modules
 ```
 ![Alt text](./dvc_pipeline.svg)
 
+### index.py ###
+
+To run webinterface of the chat (temporally broken, because weavite integration did not work well):
+```
+python index.py
+```
+
+## Other executables ##
+
+So far index.py with webui is the main entry point.
+Other executables are partially outdated
+
 ### agent.py ###
 
 To test the CSV agent with prompts (currently for trials statistics)
@@ -82,12 +94,6 @@ CSV is stored in /index/trials folder
 python agent.py calculate_trials_statistics --prompt_number=1
 ```
 
-### chat.py ###
-
-To run webinterface of the chat (temporally broken, because weavite integration did not work well):
-```
-python chat.py
-```
 ### rest.py ### 
 To run rest-api for the telegram chat-bot:
 ```
