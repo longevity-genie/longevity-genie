@@ -300,5 +300,5 @@ def run_chatbot(n_clicks: int, n_submit: int, collections_selected: List[str], u
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server(host= '0.0.0.0', debug=True)
     #from langchain.cli.main import get_docker_compose_command
