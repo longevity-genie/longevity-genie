@@ -40,16 +40,6 @@ def start_tracing(session: str = "default", hosted: bool = True):
         os.environ["LANGCHAIN_ENDPOINT"] = "https://api.langchain.plus"
         #os.environ["LANGCHAIN_API_KEY"] = "<your-api-key>"
 
-def load_environment_keys(debug: bool = True):
-    e = dotenv.find_dotenv()
-    if debug:
-        print(f"environment found at {e}")
-    has_env: bool = load_dotenv(e, verbose=True, override=True)
-    if not has_env:
-        print("Did not found environment file, using system OpenAI key (if exists)")
-    openai_key = os.getenv('OPENAI_API_KEY')
-    return openai_key
-
 
 class Locations:
     base: Path

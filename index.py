@@ -8,29 +8,27 @@ import loguru
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State
-from genie.chat import Genie, WishAnswer
+from genie.chat import GenieChat
 from genie.config import Locations
+from genie.enums import SearchType
+from genie.retriever import GenieRetriever
+from genie.wishes.answers import WishAnswer
 
 # from genie.chats import ChatIndex, GenieChain, ChainType
 
 base = Path(".").absolute().resolve()
 locations = Locations(base)
 
-genie = Genie(verbose=True)
+
+genieRetriever = GenieRetriever.from_collections(
+    ["bge_large_512_aging_papers_paragraphs",
+     "biolinkbert_large_512_aging_papers_paragraphs"]
+)
+genie = GenieChat(retriever=genieRetriever, verbose=True)
 
 
 ##############################
-
-
-
-collection_selection = dcc.Dropdown(
-    id='collections',
-    options=[{'label': i, 'value': i} for i in genie.collections],
-    value='bge_large_512_aging_papers_paragraphs',
-    style={'min-width': '250px'}
-)
-
-search_options = ["similarity", "mmr"]
+search_options = [s.value for s in SearchType]
 
 search_selection = dcc.Dropdown(
     id='search_type',
@@ -40,18 +38,13 @@ search_selection = dcc.Dropdown(
 )
 
 
-
-"""
-genie_chain_options = [chain.value for chain in GenieChain]
-genie_chain_dic = {chain.value: chain for chain in GenieChain}
-
-genie_selection = dcc.Dropdown(
-    id='genie_chain',
-    options=[{'label': i, 'value': i} for i in genie_chain_options],
-    value=GenieChain.IndexSource.value,
-    style={'min-width': '150px'}
+k_selection = dcc.Dropdown(
+    id='k_value',
+    options=[{'label': str(i), 'value': i} for i in range(8, 15, 1)],
+    value=8,
+    style={'min-width': '50px'}
 )
-"""
+
 
 def Header(name: str, app: dash.Dash) -> dbc.Row:
     title = html.H1(name, style={"margin-top": 5, "color": "#6200EA"})
@@ -121,10 +114,17 @@ document_sources = html.Div(
     id="document-sources", style={"overflow-y": "auto"}
 )
 
+settings:  dbc.Card = dbc.Card([
+    dbc.CardHeader("Search settings"),
+    dbc.CardBody([
+        dbc.InputGroup([
+        search_selection, k_selection])
+    ])
+])
+
 controls: dbc.InputGroup = dbc.InputGroup(
     children=[
         dbc.Input(id="user-input", placeholder="Write to the chatbot...", type="text"),
-        collection_selection, search_selection, #genie_selection,
         dbc.Button("Submit", id="submit")
     ]
 )
@@ -143,10 +143,8 @@ app.layout = dbc.Container([
                 dbc.CardBody([
                     conversation
                 ])
-            ], style={'height': 'calc(96vh - 200px)', 'overflowY': 'scroll', 'marginBottom': '10px'}),
-
-            # Message Input and Send Button
-            controls
+            ], style={'height': 'calc(94vh - 300px)', 'overflowY': 'scroll', 'marginBottom': '10px'}),
+            settings, controls
         ], width=8),
 
         # Right Sidebar
@@ -237,20 +235,18 @@ def clear_input(n_clicks: int, n_submit: int) -> str:
     Input("submit", "n_clicks"),
     Input("user-input", "n_submit"),
     State("user-input", "value"),
-    State('collections', 'value'),
-    State('search_type', 'value')
-)
-def run_chatbot(n_clicks: int, n_submit: int, user_input: str, collections: str, search_type: str) -> Tuple[list[dict], list[dict], None]:
+    State('search_type', 'value'),
+    State('k_value', 'value'))
+def run_chatbot(n_clicks: int, n_submit: int, user_input: str, search_type: str, k_value: int) -> Tuple[list[dict], list[dict], None]:
     if n_clicks == 0 and n_submit is None:
         return [],[], None
 
     if user_input is None or user_input == "":
         return genie.history, [], None
 
+    genie.retriever = genieRetriever.with_updated_retrievers(k = k_value, search_type=SearchType[search_type])
     answer = genie.message(user_input)
-    pprint.pprint(answer)
     wish_answer = WishAnswer.from_dict(answer)
-    pprint.pprint(wish_answer)
     return genie.history, wish_answer.json_sources(), None
 
 

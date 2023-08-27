@@ -1,11 +1,5 @@
-import dataclasses
-import os
-from enum import Enum
 from typing import Optional
 
-import loguru
-from chromadb.api import Embeddings
-from indexpaper.resolvers import Device
 from langchain import LLMChain, BasePromptTemplate
 from langchain.callbacks.base import Callbacks
 from langchain.chains import RetrievalQAWithSourcesChain
@@ -13,69 +7,21 @@ from langchain.chains.chat_vector_db.prompts import CONDENSE_QUESTION_PROMPT
 from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
 from langchain.chat_models import ChatOpenAI
-from langchain.embeddings import HuggingFaceBgeEmbeddings, HuggingFaceEmbeddings
-from langchain.embeddings import OpenAIEmbeddings
 from langchain.memory import ConversationBufferMemory
-from langchain.schema import Document
-from langchain.vectorstores import Qdrant
+from langchain.retrievers import ContextualCompressionRetriever
+from langchain.retrievers.document_compressors import LLMChainExtractor
+from langchain.schema import BaseRetriever
 from pycomfort.config import load_environment_keys
-from qdrant_client import QdrantClient
+
+from genie.enums import ChainType, SearchType
 
 
-# from genie.chats import ChatIndex, GenieChain, ChainType
 
-token_limits = {
-    "gpt-4-32k": 32768,
-    "gpt-4": 8192,
-    "gpt-3.5-turbo-16k": 16384,
-    "gpt-3.5-turbo": 4096,
-    "other": 4096
-}
+class GenieChat:
 
-@dataclasses.dataclass
-class WishAnswer:
-
-    sources_documents: list[Document]
-    question: str
-    generated_question: str
-    answer: str
-
-    def doc_to_json(self, d: Document, fields: list[str]):
-        result = {f: d.metadata[f] for f in fields if f in d.metadata}
-        result["page_content"] = d.page_content
-        return result
-
-    def json_sources(self):
-        return [self.doc_to_json(d, ["source", "doi", "annotations_title", "externalids_pubmed"]) for d in self.sources_documents]
-
-    @staticmethod
-    def from_dict(dic: dict):
-        return WishAnswer(
-            sources_documents = dic["source_documents"],
-            question = dic["question"],
-            generated_question = dic["generated_question"],
-            answer = dic["answer"]
-        )
-
-
-class ChainType(Enum):
-    Stuff = "stuff"
-    MapReduce = "map_reduce"
-    Refine = "refine"
-    MapRerank = "map_rerank"
-
-class SearchType(Enum):
-    similarity = "similarity"
-    mmr = "mmr"
-
-class Genie:
-
-    collections: list[str]
-    client: QdrantClient
+    retriever: BaseRetriever
     memory: ConversationBufferMemory
-    collections: list[str]
-    db: Qdrant
-    chain: RetrievalQAWithSourcesChain
+    chain: ConversationalRetrievalChain
     verbose: bool
 
 
@@ -103,34 +49,8 @@ class Genie:
 
         langchain.memory.chat_memory.BaseChatMemory._get_input_output = _get_input_output
 
-    def guess_embeddings_from_collection_name(self, collection_name: str, device: str = "cpu", normalize_embeddings: bool = True) -> Embeddings:
-        encode_kwargs = {'normalize_embeddings': normalize_embeddings}
-        model_kwargs = {'device': device}
-        if "bge_large" in collection_name:
-            model_name = "BAAI/bge-large-en"
-            return HuggingFaceBgeEmbeddings(
-                model_name=model_name,
-                model_kwargs=model_kwargs,
-                encode_kwargs=encode_kwargs
-            )
-        elif "biolinkbert_large" in collection_name:
-            model_name = "michiyasunaga/BioLinkBERT-large"
-            return HuggingFaceEmbeddings(model_name = model_name,
-                                         model_kwargs=model_kwargs,
-                                         encode_kwargs=encode_kwargs)
-        elif "openai" in collection_name or "ada" in collection_name:
-            return OpenAIEmbeddings()
-        else:
-            loguru.logger.error(f"cannot decide on embeddings for {collection_name} using bge-large-end by default")
-            model_name = "BAAI/bge-large-en"
-            return HuggingFaceBgeEmbeddings(
-                model_name=model_name,
-                model_kwargs=model_kwargs,
-                encode_kwargs=encode_kwargs
-            )
 
-    def make_chain(self,
-                   k: int, score_threshold: float, chain_type: ChainType, search_type: SearchType,
+    def make_chain(self, chain_type: ChainType = ChainType.Stuff,
                    condense_question_prompt: BasePromptTemplate = CONDENSE_QUESTION_PROMPT,
                    callbacks: Callbacks = None):
         """
@@ -152,7 +72,7 @@ class Genie:
 
 
         result = ConversationalRetrievalChain(
-            retriever=self.db.as_retriever(search_type=search_type.value, search_kwargs={'k': k, 'score_threshold': score_threshold}),
+            retriever=self.retriever,
             combine_docs_chain=doc_chain,
             question_generator=condense_question_chain,
             callbacks=callbacks,
@@ -165,39 +85,26 @@ class Genie:
 
 
     def __init__(self,
-                 db: Optional[str] = "https://5bea7502-97d4-4876-98af-0cdf8af4bd18.us-east-1-0.aws.cloud.qdrant.io:6333",
+                 retriever: BaseRetriever,
                  default_model = "gpt-3.5-turbo-16k",
-                 collection_name: str = "bge_large_512_moskalev_papers_paragraphs",
-                 chain_type: ChainType = ChainType.Stuff,
-                 search_type: SearchType = SearchType.similarity,
-                 k: int = 10,
-                 score_threshold: float = 0.05,
-                 device = Device.cpu,
+                 compression: bool = True,
                  verbose: bool = True
                  ):
         self.fix_langchain_memory_bug()
         openai = load_environment_keys(usecwd=True)
-        url = db if db is not None else os.getenv("db")
-        self.client = QdrantClient(
-            url=url,
-            port=6333,
-            grpc_port=6334,
-            prefer_grpc=True,
-            api_key=os.getenv("QDRANT_KEY")
-        )
+        self.llm = ChatOpenAI(model = default_model)
+        if compression:
+            compressor = LLMChainExtractor.from_llm(self.llm)
+            compression_retriever = ContextualCompressionRetriever(base_compressor=compressor, base_retriever=retriever)
+            self.retriever = compression_retriever
+        else:
+            self.retriever = retriever
         self.verbose = verbose
         self.memory = ConversationBufferMemory(memory_key="chat_history")
-        self.collections = [c.name for c in self.client.get_collections().collections]
-        self.collection_name = collection_name
-        self.llm = ChatOpenAI(model = default_model)
-        self.update_db(collection_name, k, score_threshold,  chain_type, search_type)
+
+        self.chain = self.make_chain()
 
 
-    def update_db(self, collection_name: str, k: int, score_threshold: float, chain_type: ChainType, search_type: SearchType):
-        embeddings = self.guess_embeddings_from_collection_name(self.collection_name)
-        self.db = Qdrant(self.client, collection_name=collection_name, embeddings=embeddings)
-        self.chain = self.make_chain(k, score_threshold, chain_type, search_type)
-        return self.db, self.chain
 
     def message(self, message: str):
         return self.chain(message)
