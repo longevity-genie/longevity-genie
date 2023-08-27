@@ -21,11 +21,10 @@ dependencies:
   - dvc
   - pip:
       - pyfunctional
+      - pycomfort>=0.0.14
       - pynction
       - polars
-      - langchain>=0.0.273
-      - dvc_gdrive
-      - pycomfort
+      - langchain>=0.0.274
       - google-search-results
       - indexpaper>=0.0.9
       - pyarrow

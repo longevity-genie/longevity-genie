@@ -27,6 +27,10 @@ We are usually using [micromamba](https://mamba.readthedocs.io/en/latest/user_gu
 micromamba create -f environment.yaml
 micromamba activate longevity-genie
 ```
+For development pip installing locally can be useful:
+```
+pip install -e .
+```
 
 # Environment
 
