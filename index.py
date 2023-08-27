@@ -9,15 +9,9 @@ from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State
 from genie.chat import GenieChat
-from genie.config import Locations
 from genie.enums import SearchType
 from genie.retriever import GenieRetriever
 from genie.wishes.answers import WishAnswer
-
-# from genie.chats import ChatIndex, GenieChain, ChainType
-
-base = Path(".").absolute().resolve()
-locations = Locations(base)
 
 
 genieRetriever = GenieRetriever.from_collections()
