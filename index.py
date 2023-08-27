@@ -20,30 +20,14 @@ base = Path(".").absolute().resolve()
 locations = Locations(base)
 
 
-genieRetriever = GenieRetriever.from_collections(
-    ["bge_large_512_aging_papers_paragraphs",
-     "biolinkbert_large_512_aging_papers_paragraphs"]
-)
+genieRetriever = GenieRetriever.from_collections()
 genie = GenieChat(retriever=genieRetriever, verbose=True)
 
 
 ##############################
 search_options = [s.value for s in SearchType]
 
-search_selection = dcc.Dropdown(
-    id='search_type',
-    options=[{'label': i, 'value': i} for i in search_options],
-    value='similarity',
-    style={'min-width': '150px'}
-)
-
-
-k_selection = dcc.Dropdown(
-    id='k_value',
-    options=[{'label': str(i), 'value': i} for i in range(8, 15, 1)],
-    value=8,
-    style={'min-width': '50px'}
-)
+html.Label('Select Search Type:', style={'margin-right': '10px'}),
 
 
 def Header(name: str, app: dash.Dash) -> dbc.Row:
@@ -114,11 +98,70 @@ document_sources = html.Div(
     id="document-sources", style={"overflow-y": "auto"}
 )
 
-settings:  dbc.Card = dbc.Card([
-    dbc.CardHeader("Search settings"),
-    dbc.CardBody([
-        dbc.InputGroup([
-        search_selection, k_selection])
+
+collections_dropdown = dcc.Dropdown(
+    id='collections_selector',
+    options=[{'label': i, 'value': i} for i in genieRetriever.all_collections],
+    multi=True,
+    value=genieRetriever.all_collections,
+    style={'min-width': '300px'}
+)
+
+search_selection = dcc.Dropdown(
+    id='search_type',
+    options=[{'label': i, 'value': i} for i in search_options],
+    value='similarity',
+    style={'min-width': '150px'}
+)
+
+k_selection = dcc.Dropdown(
+    id='k_value',
+    options=[{'label': str(i), 'value': i} for i in range(8, 15, 1)],
+    value=10,
+    style={'min-width': '50px'}
+)
+
+compressor_checkbox = dcc.Checklist(
+    id='compressor_checkbox',
+    options=[{'label': 'Use Compressor', 'value': 'use_compressor'}],
+    value=['use_compressor'],
+    inline=True
+)
+
+
+settings = html.Div(id="settings", children = [
+
+    # First row: Search Type Selector, K Value Selector, and Compressor Checkbox
+    dbc.Row([
+        dbc.Col([
+            dbc.Row([
+                dbc.Col(html.Label('Select Search Type:', style={'margin-right': '10px'}), width="auto"),
+                dbc.Col(search_selection, style={'padding-left': '0px'})
+            ])
+        ], width=4, style={'margin-bottom': '10px'}),
+
+        dbc.Col([
+            dbc.Row([
+                dbc.Col(html.Label('Select K Value:', style={'margin-right': '10px'}), width="auto"),
+                dbc.Col(k_selection, style={'padding-left': '0px'})
+            ])
+        ], width=4, style={'margin-bottom': '10px'}),
+
+        dbc.Col([
+            dbc.Row([
+                dbc.Col(compressor_checkbox, width="auto")
+            ])
+        ], width=4, style={'margin-bottom': '10px', 'padding-left': '0px'})
+    ]),
+
+    # Second row: Collections Selector
+    dbc.Row([
+        dbc.Col([
+            dbc.Row([
+                dbc.Col(html.Label('Select Collections:', style={'margin-right': '10px'}), width="auto"),
+                dbc.Col(collections_dropdown, style={'padding-left': '0px'})
+            ])
+        ], width=12)
     ])
 ])
 
@@ -143,9 +186,11 @@ app.layout = dbc.Container([
                 dbc.CardBody([
                     conversation
                 ])
-            ], style={'height': 'calc(94vh - 300px)', 'overflowY': 'scroll', 'marginBottom': '10px'}),
-            settings, controls
-        ], width=8),
+            ], style={'height': 'calc(94vh - 320px)', 'overflowY': 'scroll', 'marginBottom': '10px'}),
+            settings,html.Hr(), controls
+        ], width=7),
+
+
 
         # Right Sidebar
         dbc.Col([
@@ -155,7 +200,7 @@ app.layout = dbc.Container([
                     document_sources
                 ])
             ])
-        ], width=4)
+        ], width=5)
     ]), dbc.Spinner(html.Div(id="loading-component"))
 ], style={"maxWidth": "95%"})
 
@@ -184,6 +229,7 @@ def render_accordion_for_documents(document_data: list[dict]) -> dbc.Accordion:
         else:
             title = doc['annotations_title']
 
+        title = title + " (" + doc["retriever"] + ")"
         # Add each field (except for page_content) as a separate form field with label using Row and Col
         for field, value in doc.items():
             if field != "page_content" and value is not None:  # Exclude None values from display
@@ -234,17 +280,20 @@ def clear_input(n_clicks: int, n_submit: int) -> str:
     Output("loading-component", "children"),
     Input("submit", "n_clicks"),
     Input("user-input", "n_submit"),
+    Input("collections_selector", "value"),
     State("user-input", "value"),
     State('search_type', 'value'),
     State('k_value', 'value'))
-def run_chatbot(n_clicks: int, n_submit: int, user_input: str, search_type: str, k_value: int) -> Tuple[list[dict], list[dict], None]:
+def run_chatbot(n_clicks: int, n_submit: int, collections_selected: List[str], user_input: str, search_type: str, k_value: int) -> Tuple[list[dict], list[dict], None]:
     if n_clicks == 0 and n_submit is None:
         return [],[], None
 
     if user_input is None or user_input == "":
         return genie.history, [], None
 
-    genie.retriever = genieRetriever.with_updated_retrievers(k = k_value, search_type=SearchType[search_type])
+    genie.retriever = genieRetriever.with_updated_retrievers(k = k_value,
+                                                             search_type=SearchType[search_type],
+                                                             collection_names=collections_selected)
     answer = genie.message(user_input)
     wish_answer = WishAnswer.from_dict(answer)
     return genie.history, wish_answer.json_sources(), None

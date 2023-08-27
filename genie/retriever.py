@@ -42,6 +42,7 @@ class GenieRetriever(BaseRetriever):
    """
     databases: OrderedDict[str, Qdrant]
     retrievers: list[RetrieverInfo] = []
+    all_collections: list[str] = []
     c: int = 60
 
 
@@ -193,7 +194,7 @@ class GenieRetriever(BaseRetriever):
 
     @classmethod
     def from_collections(cls,
-                 collection_names: list[str] = ["bge_large_512_aging_papers_paragraphs", "biolinkbert_large_512_aging_papers_paragraphs"],
+                 collection_names: Optional[list[str]] = None,
                  url: Optional[str] = None,
                  k: int = 8, search_type: SearchType = SearchType.similarity, score_threshold: float = 0.05,
                  **kwargs: Any):
@@ -212,6 +213,9 @@ class GenieRetriever(BaseRetriever):
             prefer_grpc=True,
             api_key=os.getenv("QDRANT_KEY")
         )
+        all_collections = [c.name for c in client.get_collections().collections]
+        if collection_names is None:
+            collection_names = all_collections
         databases: OrderedDict[str, Qdrant] = collections.OrderedDict([
             (collection_name, Qdrant(client,
                                          collection_name=collection_name,
@@ -219,18 +223,22 @@ class GenieRetriever(BaseRetriever):
                                          )
                  ) for collection_name in collection_names]
         )
-        return cls(databases = databases, **kwargs).with_updated_retrievers(k, search_type, score_threshold)
+        return cls(databases = databases, all_collections = all_collections, **kwargs).with_updated_retrievers(k, search_type, score_threshold)
 
     @staticmethod
-    def compute_retrievers(databases: OrderedDict[str, Qdrant], k: int = 20, search_type: SearchType = SearchType.similarity, score_threshold: float = 0.05):
+    def compute_retrievers(databases: OrderedDict[str, Qdrant],
+                           k: int = 20,
+                           search_type: SearchType = SearchType.similarity,
+                           score_threshold: float = 0.05, collection_names: Optional[list[str]] = None):
+        dbs = databases if collection_names is None else collections.OrderedDict([ (c, db) for c, db in databases.items() if c in collection_names])
         search_kwargs={'k': k, 'score_threshold': score_threshold}
         return [RetrieverInfo(
             name = c,
             retriever=db.as_retriever(search_type=search_type.value, search_kwargs=search_kwargs),
-            weight=1.0) for c, db in databases.items()]
+            weight=1.0) for c, db in dbs.items()]
 
-    def with_updated_retrievers(self, k: int = 20, search_type: SearchType = SearchType.similarity, score_threshold: float = 0.05):
-        self.retrievers = self.compute_retrievers(self.databases, k, search_type, score_threshold)
+    def with_updated_retrievers(self, k: int = 20, search_type: SearchType = SearchType.similarity, score_threshold: float = 0.05, collection_names: Optional[list[str]] = None):
+        self.retrievers = self.compute_retrievers(self.databases, k, search_type, score_threshold, collection_names)
         return self
 
 

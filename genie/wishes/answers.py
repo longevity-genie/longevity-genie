@@ -18,7 +18,7 @@ class WishAnswer:
         return result
 
     def json_sources(self):
-        return [self.doc_to_json(d, ["source", "doi", "annotations_title", "externalids_pubmed"]) for d in self.sources_documents]
+        return [self.doc_to_json(d, ["retriever", "source" "doi", "annotations_title", "externalids_pubmed"]) for d in self.sources_documents]
 
     @staticmethod
     def from_dict(dic: dict):
