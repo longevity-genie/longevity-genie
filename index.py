@@ -8,14 +8,18 @@ import loguru
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State
+from langchain.chat_models import ChatOpenAI
+from longdata.longevity_data_chain import LongevityDataChain
+
 from genie.chat import GenieChat
 from genie.enums import SearchType
 from genie.retriever import GenieRetriever
 from genie.wishes.answers import WishAnswer
 
-
-genieRetriever = GenieRetriever.from_collections()
-genie = GenieChat(retriever=genieRetriever, verbose=True)
+llm = ChatOpenAI(model="gpt-4", temperature=0)
+agent = LongevityDataChain.from_folder(llm, Path("data"), return_intermediate_steps=True)
+genieRetriever = GenieRetriever.from_collections(agents=[agent])
+genie = GenieChat(retriever=genieRetriever, verbose=True, compression=True)
 
 
 ##############################
@@ -108,9 +112,16 @@ search_selection = dcc.Dropdown(
     style={'min-width': '150px'}
 )
 
+model_selection = dcc.Dropdown(
+    id='model',
+    options=["gpt-4", "gpt-3.5-turbo-16k"],
+    value='gpt-3.5-turbo-16k',
+    style={'min-width': '150px'}
+)
+
 k_selection = dcc.Dropdown(
     id='k_value',
-    options=[{'label': str(i), 'value': i} for i in range(8, 15, 1)],
+    options=[{'label': str(i), 'value': i} for i in range(5, 12, 1)],
     value=10,
     style={'min-width': '50px'}
 )
@@ -152,10 +163,16 @@ settings = html.Div(id="settings", children = [
     dbc.Row([
         dbc.Col([
             dbc.Row([
+                dbc.Col(html.Label('Model selection:', style={'margin-right': '10px'}), width="auto"),
+                dbc.Col(model_selection, style={'padding-left': '0px'})
+            ])
+        ], width=4),
+        dbc.Col([
+            dbc.Row([
                 dbc.Col(html.Label('Select Collections:', style={'margin-right': '10px'}), width="auto"),
                 dbc.Col(collections_dropdown, style={'padding-left': '0px'})
             ])
-        ], width=12)
+        ], width=8)
     ])
 ])
 
@@ -215,15 +232,6 @@ def render_accordion_for_documents(document_data: list[dict]) -> dbc.Accordion:
         # Build the form content for each document
         form_content = []
 
-        # Determine the title based on the type and content of annotations_title
-        if isinstance(doc['annotations_title'], list):
-            title = doc['annotations_title'][0] if doc['annotations_title'] else "No title found"
-        elif doc['annotations_title'] is None:
-            title = "No title found"
-        else:
-            title = doc['annotations_title']
-
-        title = title + " (" + doc["retriever"] + ")"
         # Add each field (except for page_content) as a separate form field with label using Row and Col
         for field, value in doc.items():
             if field != "page_content" and value is not None:  # Exclude None values from display
@@ -240,7 +248,7 @@ def render_accordion_for_documents(document_data: list[dict]) -> dbc.Accordion:
 
         # Create the accordion item using AccordionItem component
         accordion_item = dbc.AccordionItem(
-            title=title,
+            title=doc["title"],
             children=form_content,
 
             item_id=str(index)
@@ -274,20 +282,27 @@ def clear_input(n_clicks: int, n_submit: int) -> str:
     Output("loading-component", "children"),
     Input("submit", "n_clicks"),
     Input("user-input", "n_submit"),
-    Input("collections_selector", "value"),
+    State("collections_selector", "value"),
+    State("compressor_checkbox", "value"),
+    State("model", "value"),
     State("user-input", "value"),
     State('search_type', 'value'),
     State('k_value', 'value'))
-def run_chatbot(n_clicks: int, n_submit: int, collections_selected: List[str], user_input: str, search_type: str, k_value: int) -> Tuple[list[dict], list[dict], None]:
+
+def run_chatbot(n_clicks: int, n_submit: int, collections_selected: List[str], compressor_checkbox: list,  model: str, user_input: str, search_type: str, k_value: int) -> Tuple[list[dict], list[dict], None]:
     if n_clicks == 0 and n_submit is None:
         return [],[], None
 
     if user_input is None or user_input == "":
         return genie.history, [], None
-
-    genie.retriever = genieRetriever.with_updated_retrievers(k = k_value,
+    if genie.llm.model_name != model:
+        loguru.logger.info(f"changing model to {model}")
+        genie.llm.model_name = model
+    genie._retriever = genieRetriever.with_updated_retrievers(k = k_value,
                                                              search_type=SearchType[search_type],
                                                              collection_names=collections_selected)
+    to_compress = compressor_checkbox is not None and len(compressor_checkbox) > 0
+    genie.compress(to_compress)
     answer = genie.message(user_input)
     wish_answer = WishAnswer.from_dict(answer)
     return genie.history, wish_answer.json_sources(), None

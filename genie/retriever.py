@@ -12,6 +12,7 @@ from langchain.embeddings import HuggingFaceBgeEmbeddings, HuggingFaceEmbeddings
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.schema import Document, BaseRetriever
 from langchain.vectorstores import Qdrant
+from longdata.agent_router_chain import AgentRouterChain
 from qdrant_client import QdrantClient
 
 from pycomfort.config import load_environment_keys
@@ -44,6 +45,7 @@ class GenieRetriever(BaseRetriever):
     retrievers: list[RetrieverInfo] = []
     all_collections: list[str] = []
     c: int = 60
+    agents: Optional[list] = None
 
 
     def _get_relevant_documents(
@@ -64,6 +66,18 @@ class GenieRetriever(BaseRetriever):
 
         # Get fused result of the retrievers.
         fused_documents = self.rank_fusion(query, run_manager)
+        if self.agents is not None:
+            for agent in self.agents:
+                result = agent(query)
+                answer = result['output']
+                steps = "INTERMEDIATE STEPS TO DEDUCE ANSWER: " + str(result['intermediate_steps'])
+                dictionary = {
+                    "title": "agent_result",
+                    #"intermediate_steps": steps,
+                    "source": "AGENT_THINKING"
+                }
+                doc = Document( page_content = answer, metadata = dictionary)
+                fused_documents.append(doc)
 
         return fused_documents
 
@@ -106,8 +120,16 @@ class GenieRetriever(BaseRetriever):
         retriever_docs = []
         for info in self.retrievers:
             docs = info.retriever.get_relevant_documents(query, callbacks=run_manager.get_child(tag=info.name))
-            for d in docs:
-                d.metadata["retriever"] = info.name
+            for doc in docs:
+                doc.metadata["retriever"] = info.name
+                if isinstance(doc.metadata['annotations_title'], list):
+                    title = doc.metadata['annotations_title'][0] if doc.metadata['annotations_title'] else "No title found"
+                elif doc.metadata['annotations_title'] is None:
+                    title = "No title found"
+                else:
+                    title = doc.metadata['annotations_title']
+                title = title + " (" + doc.metadata["retriever"] + ")"
+                doc.metadata["title"] = title
             retriever_docs.append(docs)
 
         # apply rank fusion
@@ -196,7 +218,8 @@ class GenieRetriever(BaseRetriever):
     def from_collections(cls,
                  collection_names: Optional[list[str]] = None,
                  url: Optional[str] = None,
-                 k: int = 8, search_type: SearchType = SearchType.similarity, score_threshold: float = 0.05,
+                 k: int = 4, search_type: SearchType = SearchType.similarity, score_threshold: float = 0.09,
+                 agents: Optional[list[AgentRouterChain]] = None, #ugly but we have to integrate it fast
                  **kwargs: Any):
         load_environment_keys(usecwd=True)
         env_db = os.getenv("DATABASE_URL")
@@ -223,7 +246,7 @@ class GenieRetriever(BaseRetriever):
                                          )
                  ) for collection_name in collection_names]
         )
-        return cls(databases = databases, all_collections = all_collections, **kwargs).with_updated_retrievers(k, search_type, score_threshold)
+        return cls(databases = databases, all_collections = all_collections, agents = agents, **kwargs).with_updated_retrievers(k, search_type, score_threshold)
 
     @staticmethod
     def compute_retrievers(databases: OrderedDict[str, Qdrant],

@@ -31,3 +31,4 @@ dependencies:
       - thefuzz
       - python-Levenshtein
       - sentence_transformers
+      - longdata>=0.0.2

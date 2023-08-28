@@ -87,23 +87,25 @@ class GenieChat:
     def __init__(self,
                  retriever: BaseRetriever,
                  default_model = "gpt-3.5-turbo-16k",
-                 compression: bool = True,
+                 compression: bool = False,
                  verbose: bool = True
                  ):
         self.fix_langchain_memory_bug()
         openai = load_environment_keys(usecwd=True)
         self.llm = ChatOpenAI(model = default_model)
-        if compression:
-            compressor = LLMChainExtractor.from_llm(self.llm)
-            compression_retriever = ContextualCompressionRetriever(base_compressor=compressor, base_retriever=retriever)
-            self.retriever = compression_retriever
-        else:
-            self.retriever = retriever
+        self._retriever = retriever
+        self.compress(compression)
         self.verbose = verbose
         self.memory = ConversationBufferMemory(memory_key="chat_history")
-
         self.chain = self.make_chain()
 
+    def compress(self, compression: bool):
+        if compression:
+            compressor = LLMChainExtractor.from_llm(self.llm)
+            compression_retriever = ContextualCompressionRetriever(base_compressor=compressor, base_retriever=self._retriever)
+            self.retriever = compression_retriever
+        else:
+            self.retriever = self._retriever
 
 
     def message(self, message: str):
