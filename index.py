@@ -18,7 +18,7 @@ from genie.wishes.answers import WishAnswer
 
 llm = ChatOpenAI(model="gpt-4", temperature=0)
 agent = LongevityDataChain.from_folder(llm, Path("data"), return_intermediate_steps=True)
-genieRetriever = GenieRetriever.from_collections(agents=[agent])
+genieRetriever = GenieRetriever.from_collections() #agents=[agent])
 genie = GenieChat(retriever=genieRetriever, verbose=True, compression=True)
 
 
