@@ -24,7 +24,7 @@ dependencies:
       - pycomfort>=0.0.14
       - pynction
       - polars
-      - langchain>=0.0.274
+      - langchain>=0.0.285
       - google-search-results
       - indexpaper>=0.0.9
       - pyarrow

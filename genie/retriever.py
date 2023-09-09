@@ -70,7 +70,8 @@ class GenieRetriever(BaseRetriever):
             for agent in self.agents:
                 result = agent(query)
                 answer = result['output']
-                steps = "INTERMEDIATE STEPS TO DEDUCE ANSWER: " + str(result['intermediate_steps'])
+                if 'intermediate_steps' in result:
+                    steps = "INTERMEDIATE STEPS TO DEDUCE ANSWER: " + str(result['intermediate_steps'])
                 dictionary = {
                     "title": "agent_result",
                     #"intermediate_steps": steps,

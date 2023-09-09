@@ -15,11 +15,11 @@ from genie.chat import GenieChat
 from genie.enums import SearchType
 from genie.retriever import GenieRetriever
 from genie.wishes.answers import WishAnswer
-
+compression = False
 llm = ChatOpenAI(model="gpt-4", temperature=0)
 agent = LongevityDataChain.from_folder(llm, Path("data"), return_intermediate_steps=True)
-genieRetriever = GenieRetriever.from_collections() #agents=[agent])
-genie = GenieChat(retriever=genieRetriever, verbose=True, compression=True)
+genieRetriever = GenieRetriever.from_collections(agents=[agent])
+genie = GenieChat(retriever=genieRetriever, verbose=True, compression=compression)
 
 
 ##############################
@@ -121,8 +121,8 @@ model_selection = dcc.Dropdown(
 
 k_selection = dcc.Dropdown(
     id='k_value',
-    options=[{'label': str(i), 'value': i} for i in range(5, 12, 1)],
-    value=10,
+    options=[{'label': str(i), 'value': i} for i in range(3, 10, 1)],
+    value=4,
     style={'min-width': '50px'}
 )
 
@@ -130,7 +130,7 @@ compressor_checkbox = dcc.Checklist(
     id='compressor_checkbox',
     options=[{'label': 'Use Compressor', 'value': 'use_compressor'}],
     value=['use_compressor'],
-    inline=True
+    inline=compression
 )
 
 
