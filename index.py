@@ -16,9 +16,10 @@ from genie.enums import SearchType
 from genie.retriever import GenieRetriever
 from genie.wishes.answers import WishAnswer
 compression = False
+k = 5
 llm = ChatOpenAI(model="gpt-4", temperature=0)
 agent = LongevityDataChain.from_folder(llm, Path("data"), return_intermediate_steps=True)
-genieRetriever = GenieRetriever.from_collections(agents=[agent])
+genieRetriever = GenieRetriever.from_collections(agents=[agent], k=k)
 genie = GenieChat(retriever=genieRetriever, verbose=True, compression=compression)
 
 
@@ -122,7 +123,7 @@ model_selection = dcc.Dropdown(
 k_selection = dcc.Dropdown(
     id='k_value',
     options=[{'label': str(i), 'value': i} for i in range(3, 10, 1)],
-    value=4,
+    value=k,
     style={'min-width': '50px'}
 )
 
