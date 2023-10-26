@@ -241,13 +241,25 @@ class GenieRetriever(BaseRetriever):
         if collection_names is None:
             collection_names = all_collections
         databases: OrderedDict[str, Qdrant] = collections.OrderedDict([
-            (collection_name, Qdrant(client,
-                                         collection_name=collection_name,
-                                         embeddings=cls.guess_embeddings_from_collection_name(collection_name)
-                                         )
+            (collection_name, GenieRetriever.init_qdrant_db(client, collection_name)
                  ) for collection_name in collection_names]
         )
         return cls(databases = databases, all_collections = all_collections, agents = agents, **kwargs).with_updated_retrievers(k, search_type, score_threshold)
+
+    @classmethod
+    def init_qdrant_db(cls, client, collection_name):
+        if "base-en-v1.5" in collection_name or "bge_base_en_v1.5" in collection_name:
+            return Qdrant(client,
+                          collection_name=collection_name,
+                          embeddings=cls.guess_embeddings_from_collection_name(collection_name),
+                          vector_name="fast-bge-base-en-v1.5",
+                          content_payload_key="document"
+                          )
+        else:
+            return Qdrant(client,
+                          collection_name=collection_name,
+                          embeddings=cls.guess_embeddings_from_collection_name(collection_name)
+                          )
 
     @staticmethod
     def compute_retrievers(databases: OrderedDict[str, Qdrant],
@@ -272,6 +284,13 @@ class GenieRetriever(BaseRetriever):
         model_kwargs = {'device': device}
         if "bge_large" in collection_name:
             model_name = "BAAI/bge-large-en"
+            return HuggingFaceBgeEmbeddings(
+                model_name=model_name,
+                model_kwargs=model_kwargs,
+                encode_kwargs=encode_kwargs
+            )
+        elif "bge_base" in collection_name:
+            model_name = "BAAI/bge-base-en-v1.5"
             return HuggingFaceBgeEmbeddings(
                 model_name=model_name,
                 model_kwargs=model_kwargs,

@@ -15,11 +15,19 @@ from genie.chat import GenieChat
 from genie.enums import SearchType
 from genie.retriever import GenieRetriever
 from genie.wishes.answers import WishAnswer
+
+#HERE WE DEFINE THE DEFAULT CONFI
 compression = False
-k = 5
-llm = ChatOpenAI(model="gpt-4", temperature=0)
+k = 4
+model_name = "gpt-3.5-turbo-16k" #gpt-4
+llm = ChatOpenAI(model=model_name, temperature=0)
+
+#initializing agents
 agent = LongevityDataChain.from_folder(llm, Path("data"), return_intermediate_steps=True)
-genieRetriever = GenieRetriever.from_collections(agents=[agent], k=k)
+agents = [agent] #let's comment it out for open-debugging #[agent]
+
+#initializaing retriever
+genieRetriever = GenieRetriever.from_collections(agents=agents, k=k)
 genie = GenieChat(retriever=genieRetriever, verbose=True, compression=compression)
 
 

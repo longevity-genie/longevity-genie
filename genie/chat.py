@@ -1,8 +1,8 @@
 from typing import Optional
 
-from langchain import LLMChain, BasePromptTemplate
+from langchain.chains import LLMChain
+from langchain.schema.prompt_template import BasePromptTemplate
 from langchain.callbacks.base import Callbacks
-from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.chains.chat_vector_db.prompts import CONDENSE_QUESTION_PROMPT
 from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
@@ -12,9 +12,7 @@ from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors import LLMChainExtractor
 from langchain.schema import BaseRetriever
 from pycomfort.config import load_environment_keys
-
 from genie.enums import ChainType, SearchType
-
 
 
 class GenieChat:
@@ -23,7 +21,6 @@ class GenieChat:
     memory: ConversationBufferMemory
     chain: ConversationalRetrievalChain
     verbose: bool
-
 
     def fix_langchain_memory_bug(self):
         """
@@ -49,11 +46,11 @@ class GenieChat:
 
         langchain.memory.chat_memory.BaseChatMemory._get_input_output = _get_input_output
 
-
     def make_chain(self, chain_type: ChainType = ChainType.Stuff,
                    condense_question_prompt: BasePromptTemplate = CONDENSE_QUESTION_PROMPT,
                    callbacks: Callbacks = None):
         """
+        :param chain_type:
         :param search_type: similarity or mmr
         :param k: number of documents retrieveed by retriever
         :param condense_question_prompt: if we need to reformulate question taking chat into condieration
@@ -69,7 +66,6 @@ class GenieChat:
             verbose=self.verbose,
             callbacks=callbacks,
         )
-
 
         result = ConversationalRetrievalChain(
             retriever=self.retriever,
@@ -106,7 +102,6 @@ class GenieChat:
             self.retriever = compression_retriever
         else:
             self.retriever = self._retriever
-
 
     def message(self, message: str):
         return self.chain(message)
