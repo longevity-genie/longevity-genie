@@ -1,3 +1,5 @@
+import json
+import os
 import pprint
 from pathlib import Path
 from typing import List, Tuple, Union
@@ -17,17 +19,30 @@ from genie.retriever import GenieRetriever
 from genie.wishes.answers import WishAnswer
 
 #HERE WE DEFINE THE DEFAULT CONFI
-compression = False
-k = 4
-model_name = "gpt-3.5-turbo-16k" #gpt-4
+
+has_agents_str = os.getenv('HAS_AGENTS', '')  # default could be '' or 'false', depending on your preference
+has_agents= has_agents_str.lower() in ['true', 'yes', '1']
+
+
+compression_str = os.getenv('COMPRESSION', '')  # default could be '' or 'false', depending on your preference
+compression = compression_str.lower() in ['true', 'yes', '1']
+
+model_name = os.getenv("MODEL_NAME", "gpt-3.5-turbo-16k") #gpt-4
 llm = ChatOpenAI(model=model_name, temperature=0)
+
+app_title = os.getenv("APP_TITLE", "Longevity Genie Chat")
+k = int(os.getenv("K", 5))
+collections_str = os.getenv('SELECTED_COLLECTIONS', '[]')
+selected_collections = json.loads(collections_str)
+
 
 #initializing agents
 agent = LongevityDataChain.from_folder(llm, Path("data"), return_intermediate_steps=True)
-agents = [agent] #let's comment it out for open-debugging #[agent]
+agents = [agent] if has_agents else [] #let's comment it out for open-debugging #[agent]
 
+default_collection_names = selected_collections if len(selected_collections) > 0 else None
 #initializaing retriever
-genieRetriever = GenieRetriever.from_collections(agents=agents, k=k)
+genieRetriever = GenieRetriever.from_collections(collection_names=default_collection_names, agents=agents, k=k)
 genie = GenieChat(retriever=genieRetriever, verbose=True, compression=compression)
 
 
@@ -110,7 +125,7 @@ collections_dropdown = dcc.Dropdown(
     id='collections_selector',
     options=[{'label': i, 'value': i} for i in genieRetriever.all_collections],
     multi=True,
-    value=genieRetriever.all_collections,
+    value=selected_collections,
     style={'min-width': '300px'}
 )
 
@@ -138,7 +153,7 @@ k_selection = dcc.Dropdown(
 compressor_checkbox = dcc.Checklist(
     id='compressor_checkbox',
     options=[{'label': 'Use Compressor', 'value': 'use_compressor'}],
-    value=['use_compressor'],
+    value=['use_compressor'] if compression else [],
     inline=compression
 )
 
@@ -194,7 +209,7 @@ controls: dbc.InputGroup = dbc.InputGroup(
 
 app.layout = dbc.Container([
 
-    Header("Longevity Genie Chat", app),
+    Header(app_title, app),
     html.Hr(),
     dcc.Store(id="store-conversation", data=[]),
     dcc.Store(id="store-documents", data=[]),
